@@ -1,307 +1,1974 @@
 {
-  "generatedAt": "2026-06-09T05:57:34.799Z",
-  "provider": "sample-only",
+  "generatedAt": "2026-06-09T22:05:01.702Z",
+  "provider": "auto",
+  "site": {
+    "brandName": "Oracle University Daily",
+    "siteUrl": "https://oracle-university.com"
+  },
   "items": [
     {
-      "id": "sample-ai-database-multicloud",
-      "slug": "oracle-ai-database-multicloud-watch-sample",
-      "title": "Oracle AI Database and multicloud moves: what architects should watch",
-      "dek": "Preview card for the daily edition. Live refresh replaces this with current source-linked coverage from official Oracle feeds and external APIs.",
-      "url": "https://www.oracle.com/news/",
-      "source": "Oracle Newsroom",
-      "sourceType": "official",
-      "image": "",
-      "publishedAt": "2026-06-06T08:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "Oracle AI Database",
-        "Multicloud",
-        "Database",
-        "Enterprise AI"
-      ],
-      "priority": 98
-    },
-    {
-      "id": "sample-cpu-security",
-      "slug": "oracle-critical-patch-update-dba-watch-sample",
-      "title": "Critical Patch Update desk: DBA and security teams need a clear watchlist",
-      "dek": "Security stories receive higher priority because patch windows, CVEs, and dependency changes affect production risk.",
-      "url": "https://www.oracle.com/security-alerts/",
-      "source": "Oracle Security Alerts",
-      "sourceType": "official",
-      "image": "",
-      "publishedAt": "2026-06-05T12:00:00.000Z",
+      "id": "349715a9-2267-4a32-a9b2-d869558d4c81",
+      "slug": "microsoft-smashes-record-for-biggest-ever-patch-tuesday-update-7aa87a",
+      "title": "Microsoft smashes record for biggest ever Patch Tuesday update",
+      "dek": "Microsoft has issued patches for about 200 flaws in its latest monthly Patch Tuesday drop, blasting past a previous record high of almost 170 common vulnerabilities and exposures (CVEs) set in October 2025.",
+      "url": "https://www.computerweekly.com/news/366644117/Microsoft-smashes-record-for-biggest-ever-Patch-Tuesday-update",
+      "source": "Computer Weekly",
+      "sourceType": "external",
+      "image": "https://www.computerweekly.com/visuals/German/article/upgrade-computer-adobe_searchsitetablet_520X173.jpg",
+      "publishedAt": "2026-06-09T20:50:10.000Z",
       "topic": "Security",
       "tags": [
-        "Critical Patch Update",
-        "Security",
-        "CVE",
-        "DBA"
+        "technology"
       ],
-      "priority": 96
+      "priority": 58
     },
     {
-      "id": "sample-oci-networking",
-      "slug": "oci-networking-cloud-architecture-update-sample",
-      "title": "OCI networking update draws attention from cloud architects",
-      "dek": "Flipboard-inspired cards are built for quick scanning, source transparency, topic filtering, and fast click-through to the original report.",
-      "url": "https://blogs.oracle.com/cloud-infrastructure/",
-      "source": "Oracle Cloud Infrastructure Blog",
-      "sourceType": "official",
-      "image": "",
-      "publishedAt": "2026-06-04T10:30:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI",
-        "Networking",
-        "Cloud Architecture",
-        "Multicloud"
-      ],
-      "priority": 93
-    },
-    {
-      "id": "sample-certification-learning",
-      "slug": "oracle-certification-learning-paths-sample",
-      "title": "Certification learners look for updated Oracle Cloud learning paths",
-      "dek": "Training stories should link to official learning sources and clearly separate editorial context from official certification requirements.",
-      "url": "https://learn.oracle.com/",
-      "source": "Oracle MyLearn",
-      "sourceType": "official",
-      "image": "",
-      "publishedAt": "2026-06-03T09:15:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "Oracle Certification",
-        "OCI",
-        "MyLearn",
-        "Learning Paths"
-      ],
-      "priority": 90
-    },
-    {
-      "id": "sample-java-platform",
-      "slug": "java-platform-news-developer-watch-sample",
-      "title": "Java platform news: developers monitor release notes and performance changes",
-      "dek": "Developer coverage can sit beside cloud, database, earnings, and security stories in the same daily magazine layout.",
-      "url": "https://dev.java/",
-      "source": "Java Developer Resources",
-      "sourceType": "official",
-      "image": "",
-      "publishedAt": "2026-06-02T16:00:00.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "Java",
-        "JDK",
-        "Developers",
-        "Release Notes"
-      ],
-      "priority": 86
-    },
-    {
-      "id": "sample-mysql-ops",
-      "slug": "mysql-operations-release-notes-watch-sample",
-      "title": "MySQL operations brief: release notes, backup patterns, and cloud compatibility",
-      "dek": "The topic engine groups MySQL, Java, GraalVM, and developer ecosystem stories for a focused engineering feed.",
-      "url": "https://blogs.oracle.com/mysql/",
-      "source": "Oracle MySQL Blog",
-      "sourceType": "official",
-      "image": "",
-      "publishedAt": "2026-06-02T08:40:00.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "MySQL",
-        "Developers",
-        "Operations"
-      ],
-      "priority": 84
-    },
-    {
-      "id": "sample-netsuite",
-      "slug": "netsuite-erp-growth-brief-sample",
-      "title": "NetSuite and cloud ERP: signals for finance and operations leaders",
-      "dek": "Applications coverage includes NetSuite, Fusion Cloud ERP, HCM, SCM, CX, and Oracle Health so enterprise readers can follow product lines together.",
-      "url": "https://www.netsuite.com/portal/resource/overview.shtml",
-      "source": "NetSuite Resources",
-      "sourceType": "official",
-      "image": "",
-      "publishedAt": "2026-06-01T13:20:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "NetSuite",
-        "ERP",
-        "Finance",
-        "Operations"
-      ],
-      "priority": 82
-    },
-    {
-      "id": "sample-fusion-hcm",
-      "slug": "fusion-cloud-hcm-agentic-apps-sample",
-      "title": "Fusion Cloud HCM brief: agentic workflows, HR data, and rollout readiness",
-      "dek": "Enterprise application stories are summarized as briefs with clear original-source links and related-topic navigation.",
-      "url": "https://www.oracle.com/human-capital-management/",
-      "source": "Oracle HCM",
-      "sourceType": "official",
-      "image": "",
-      "publishedAt": "2026-06-01T07:45:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "Fusion Cloud",
-        "HCM",
-        "Agentic AI",
-        "Enterprise Apps"
-      ],
-      "priority": 81
-    },
-    {
-      "id": "sample-orcl-earnings",
-      "slug": "orcl-earnings-investor-watch-sample",
-      "title": "ORCL investor watch: earnings, cloud revenue, and AI infrastructure demand",
-      "dek": "Business stories are marked separately from product updates so readers can filter market coverage without losing technical news.",
-      "url": "https://investor.oracle.com/",
-      "source": "Oracle Investor Relations",
-      "sourceType": "official",
-      "image": "",
-      "publishedAt": "2026-05-31T14:30:00.000Z",
+      "id": "898ae5b4-61b4-4536-9ed9-1beda274fede",
+      "slug": "tesla-tsla-rolls-out-unsupervised-robotaxis-in-austin-metro-area-reuters-reports-7f0cd4",
+      "title": "Tesla (TSLA) Rolls Out Unsupervised Robotaxis in ​Austin Metro Area, Reuters Reports",
+      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
+      "url": "https://www.insidermonkey.com/blog/tesla-tsla-rolls-out-unsupervised-robotaxis-in-%E2%80%8Baustin-metro-area-reuters-reports-1777988/",
+      "source": "Insider Monkey",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/AJS4heTZl5CawLlHUJynaD6IF1qF_C_6MJRq-Saji3M/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/20061908/TSLA-insidermonkey-1695205145772.jpg",
+      "publishedAt": "2026-06-09T17:26:45.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "ORCL",
-        "Earnings",
-        "Cloud Revenue",
-        "AI Infrastructure"
+        "vehicles"
       ],
-      "priority": 80
+      "priority": 54
     },
     {
-      "id": "sample-health",
-      "slug": "oracle-health-interoperability-sample",
-      "title": "Oracle Health brief: interoperability, clinical workflows, and cloud modernization",
-      "dek": "Healthcare technology coverage is grouped with applications but can be promoted when regulatory, interoperability, or patient-care issues matter.",
-      "url": "https://www.oracle.com/health/",
-      "source": "Oracle Health",
+      "id": "ecee06c3-2d36-470e-8092-996524e23cf1",
+      "slug": "chainlink-powers-fifa-world-cup-2026-link-holders-are-quietly-accumulating-before-the-wo-1a7e2a",
+      "title": "Chainlink Powers FIFA World Cup 2026: LINK Holders Are Quietly Accumulating Before the World Notices",
+      "dek": "Kickoff for the FIFA World Cup 2026 is almost here. As fans prepare for the biggest tournament in football history, Chainlink has secured a role behind the scenes through a partnership that could place its technology in front of a truly global audience.",
+      "url": "https://captainaltcoin.com/chainlink-powers-fifa-world-cup-2026-link-holders-are-quietly-accumulating-before-the-world-notices/",
+      "source": "CaptainAltcoin",
+      "sourceType": "external",
+      "image": "https://captainaltcoin.com/wp-content/uploads/2025/06/image-394.png",
+      "publishedAt": "2026-06-09T15:34:28.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "sports betting"
+      ],
+      "priority": 50
+    },
+    {
+      "id": "9f2bdf23-df72-44a6-9c13-42b89e6488f1",
+      "slug": "3-7-trillion-the-largest-wave-of-ai-ipos-in-history-arrives-while-peak-signal-for-us-sto-0473dc",
+      "title": "$3.7 Trillion: The Largest Wave of AI IPOs in History Arrives, While Peak Signal for US Stock Market Lights Up",
+      "dek": "Recently, the global capital market has been waiting for three bells to ring. SpaceX, Anthropic, and OpenAI are successively rushing towards IPOs. If these three companies go public successfully, they will jointly create the largest round of financing wave in the history of technology: The combined ",
+      "url": "https://eu.36kr.com/en/p/3845801235856264",
+      "source": "36Kr",
+      "sourceType": "external",
+      "image": "https://img.36krcdn.com/hsossms/20260609/v2_cb27f8ebc8934979a4b332808164f5cc@46958@ai_oswg973910oswg1053oswg495_img_png~tplv-1marlgjv7f-ai-v3:600:400:600:400:q70.jpg",
+      "publishedAt": "2026-06-09T15:22:27.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "business",
+        "finance"
+      ],
+      "priority": 50
+    },
+    {
+      "id": "2160274a-30e8-480b-ae34-06501046b3e9",
+      "slug": "crusoe-s-contracted-ai-infrastructure-capacity-approaches-5-gigawatts-across-data-center-ce5e64",
+      "title": "Crusoe’s Contracted AI Infrastructure Capacity Approaches 5 Gigawatts Across Data Centers and Cloud",
+      "dek": "DENVER, June 09, 2026 (GLOBE NEWSWIRE) -- Crusoe, the AI factory company, today announced the company has contracted 4.9 gigawatts (GW) of AI infrastructure spanning its data center projects and capacity for Crusoe Cloud, its AI cloud platform.",
+      "url": "https://www.manilatimes.net/2026/06/09/tmt-newswire/globenewswire/crusoes-contracted-ai-infrastructure-capacity-approaches-5-gigawatts-across-data-centers-and-cloud/2361972",
+      "source": "The Manila Times",
+      "sourceType": "external",
+      "image": "https://www.manilatimes.net/manilatimes/uploads/images/2026/06/09/1092183.png",
+      "publishedAt": "2026-06-09T15:07:15.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "business"
+      ],
+      "priority": 50
+    },
+    {
+      "id": "7ed80dfc-2903-4e2d-a482-a285639e0200",
+      "slug": "unrealized-potential-of-microsoft-s-msft-role-in-advancing-agentic-ai-73ff89",
+      "title": "Unrealized Potential of Microsoft’s (MSFT) Role in Advancing Agentic AI",
+      "dek": "Sands Capital Management, LLC released its Q1 2026 investor letter for its “Select Growth Strategy”. A copy of the letter is available to download here. Select Growth mainly targets leading U.S. businesses, driving positive structural changes.",
+      "url": "https://www.insidermonkey.com/blog/unrealized-potential-of-microsofts-msft-role-in-advancing-agentic-ai-1777903/",
+      "source": "Insider Monkey",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/qcaiI5DOOzuQtS9b_6c2qY69ar8-ok67kVp8z0aTmAA/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/19152304/MSFT-insidermonkey-1695151382226.jpg",
+      "publishedAt": "2026-06-09T15:01:24.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "business"
+      ],
+      "priority": 49
+    },
+    {
+      "id": "d5259055-a49f-4ce3-ad0a-9eaf3aadc5cc",
+      "slug": "gartner-names-oracle-s-ai-recruiting-cloud-a-leader-for-hiring-f2e0ba",
+      "title": "Gartner names Oracle’s AI recruiting cloud a Leader for hiring",
+      "dek": "Oracle (NYSE:ORCL) was named a Leader in the 2026 Gartner® Magic QuadrantTM for Talent Acquisition (Recruiting) Suites, based on Oracle Fusion Cloud Recruiting and Recruiting Booster within Oracle Fusion Cloud HCM. Oracle also ranked highly across multiple Gartner Critical Capabilities use cases, hi",
+      "url": "https://www.stocktitan.net/news/ORCL/oracle-named-a-leader-in-2026-gartner-magic-quadrant-tm-for-talent-s0b5vcjp73os.html",
+      "source": "Stock Titan",
+      "sourceType": "external",
+      "image": "https://static.stocktitan.net/company-logo/orcl-lg.webp?v=94598e6741",
+      "publishedAt": "2026-06-09T15:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "business"
+      ],
+      "priority": 49
+    },
+    {
+      "id": "f8635f5c-6f10-45a6-aeeb-a381d81524d2",
+      "slug": "oracle-named-a-leader-in-2026-gartner-magic-quadranttm-for-talent-acquisition-recruiting-6f7093",
+      "title": "Oracle Named a Leader in 2026 Gartner® Magic QuadrantTM for Talent Acquisition (Recruiting) Suites",
+      "dek": "AI-powered recruiting capabilities within Oracle Fusion Cloud HCM help organizations improve candidate experiences, accelerate hiring, and support skills-based talent acquisition",
+      "url": "https://www.prnewswire.com/news-releases/oracle-named-a-leader-in-2026-gartner-magic-quadrant-for-talent-acquisition-recruiting-suites-302794670.html",
+      "source": "PR Newswire",
+      "sourceType": "external",
+      "image": "https://mmx.prnewswire.com/media/MS605173/Oracle-Logo_Logo.jpg?id=OA2692380",
+      "publishedAt": "2026-06-09T15:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "business"
+      ],
+      "priority": 49
+    },
+    {
+      "id": "99310503-51c6-43d1-97dc-a6a69c267a13",
+      "slug": "oracle-s-trillion-dollar-ghostwriter-8b580c",
+      "title": "Oracle’s Trillion-Dollar Ghostwriter",
+      "dek": "The company’s stock surge had a secret ingredient beyond AI hype: a clever way to get someone else to pay for it. If you blinked this spring, you missed it. While the S&P 500 ambled to a respectable 9.5% gain, Oracle (ORCL) quietly bolted ahead by 42.3%.",
+      "url": "https://www.trefis.com/stock/orcl/articles/602059/oracles-trillion-dollar-ghostwriter/2026-06-09",
+      "source": "Trefis",
+      "sourceType": "external",
+      "image": "https://cdn.trefis.com/env/prd/logos/ORCL.png",
+      "publishedAt": "2026-06-09T12:51:50.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "business"
+      ],
+      "priority": 46
+    },
+    {
+      "id": "f58466d207e1f5cc",
+      "slug": "oracle-sets-the-date-for-its-fourth-quarter-fiscal-year-2026-earnings-announcement-3a2dd3",
+      "title": "Oracle Sets the Date for its Fourth Quarter Fiscal Year 2026 Earnings Announcement",
+      "dek": "",
+      "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-Fourth-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx",
+      "source": "Oracle Investor Relations News",
       "sourceType": "official",
       "image": "",
-      "publishedAt": "2026-05-30T11:00:00.000Z",
+      "publishedAt": "2026-06-01T20:01:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "Earnings"
+      ],
+      "priority": 46
+    },
+    {
+      "id": "f76a77e7c98d5292",
+      "slug": "oracle-sets-the-date-for-its-third-quarter-fiscal-year-2026-earnings-announcement-e65993",
+      "title": "Oracle Sets the Date for its Third Quarter Fiscal Year 2026 Earnings Announcement",
+      "dek": "",
+      "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-Third-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx",
+      "source": "Oracle Investor Relations News",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-03-03T21:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "Earnings"
+      ],
+      "priority": 46
+    },
+    {
+      "id": "3783804467aa454e",
+      "slug": "oracle-sets-the-date-for-its-second-quarter-fiscal-year-2026-earnings-announcement-16342c",
+      "title": "Oracle Sets the Date for its Second Quarter Fiscal Year 2026 Earnings Announcement",
+      "dek": "",
+      "url": "https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-Second-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx",
+      "source": "Oracle Investor Relations News",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2025-12-02T13:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "Earnings"
+      ],
+      "priority": 46
+    },
+    {
+      "id": "45a3be5f9a13a88f",
+      "slug": "oracle-corporation-announces-promotion-of-clay-magouyrk-and-mike-sicilia-to-ceos-safra-c-ac7ba4",
+      "title": "Oracle Corporation Announces Promotion of Clay Magouyrk and Mike Sicilia to CEOs; Safra Catz Appointed Executive Vice Chair of the Board of Directors",
+      "dek": "",
+      "url": "https://investor.oracle.com/investor-news/news-details/2025/Oracle-Corporation-Announces-Promotion-of-Clay-Magouyrk-and-Mike-Sicilia-to-CEOs-Safra-Catz-Appointed-Executive-Vice-Chair-of-the-Board-of-Directors/default.aspx",
+      "source": "Oracle Investor Relations News",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2025-09-22T12:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 46
+    },
+    {
+      "id": "fe45ff58-d6db-4c1d-8e65-eb96676e7879",
+      "slug": "ellison-s-net-worth-down-nearly-50-billion-in-a-week-972217",
+      "title": "Ellison’s Net Worth Down Nearly $50 Billion In A Week",
+      "dek": "Topline Larry Ellison’s fortune declined by more than $10 billion on Tuesday, dropping him behind Jeff Bezos to the No. 5 spot among the wealthiest as Oracle shares stumbled amid another broad decline for tech stocks. The Oracle co-founder was recently ranked the world’s second-richest person.",
+      "url": "https://www.forbes.com/sites/tylerroush/2026/06/09/larry-ellisons-net-worth-plunges-10-billion-falls-behind-bezos-to-fifth-richest/",
+      "source": "Forbes",
+      "sourceType": "external",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6978ead55acc28f706f7eeed/Oracle-Founder-Larry-Eliison-Delivers-Keynote-At-Oracle-OpenWorld/0x0.jpg?crop=3373,1899,x0,y47,safe&height=400&width=711&fit=bounds",
+      "publishedAt": "2026-06-09T17:53:54.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "business"
+      ],
+      "priority": 44
+    },
+    {
+      "id": "31f6099e-91dc-4fc2-a8fa-d73d35249bb9",
+      "slug": "oracle-stock-analysis-bullish-bias-meets-earnings-week-test-e49da5",
+      "title": "Oracle Stock Analysis: Bullish Bias Meets Earnings Week Test",
+      "dek": "Oracle stock enters earnings week at a critical juncture. The daily trend remains bullish, but hourly momentum has broken down, with the stock closing June 8 near $211.82. Short-term sellers now control the tape despite the intact daily structure. The next move will be catalytic, not technical.",
+      "url": "https://en.cryptonomist.ch/2026/06/09/oracle-stock-wall-street-sees-330-but-sellers-control-the-tape/",
+      "source": "The Cryptonomist",
+      "sourceType": "external",
+      "image": "https://en.cryptonomist.ch/wp-content/uploads/2026/06/Oracle-Stock.jpeg",
+      "publishedAt": "2026-06-09T10:22:33.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "business"
+      ],
+      "priority": 44
+    },
+    {
+      "id": "35fc14b2-7196-43b2-a282-2847ad9beac9",
+      "slug": "ai-is-running-out-of-public-data-ic3-survey-shows-crypto-s-role-in-private-web-ai-b4bca8",
+      "title": "AI Is Running Out of Public Data: IC3 Survey Shows Crypto’s Role in Private-Web AI",
+      "dek": "Crypto tools may address AI’s shortage of high-quality public training data through secure access. Researchers from over a dozen institutions collaborated on the IC3 survey to explore crypto-AI integration. Combining crypto and AI can create secure and autonomous systems with far-reaching financial ",
+      "url": "https://www.cryptotimes.io/2026/06/09/ai-is-running-out-of-public-data-ic3-survey-shows-cryptos-role-in-private-web-ai/",
+      "source": "The Crypto Times",
+      "sourceType": "external",
+      "image": "https://www.cryptotimes.io/wp-content/uploads/2026/06/AI-Is-Running-Out-of-Public-Data-IC3-Survey-Shows-Cryptos-Role-in-Private-Web-AI.jpg",
+      "publishedAt": "2026-06-09T10:22:20.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "digital currencies"
+      ],
+      "priority": 44
+    },
+    {
+      "id": "f314d95df78e0de0",
+      "slug": "cohesity-s-coo-cfo-why-enterprise-ai-resilience-matters-4c2af0",
+      "title": "Cohesity’s COO/CFO: Why enterprise AI resilience matters",
+      "dek": "Cohesity COO/CFO Eric Brown discusses agentic AI, enterprise AI resilience, governance, and the role of power users in adoption. The post Cohesity’s COO/CFO: Why enterprise AI resilience matters appeared first on Frontier Enterprise .",
+      "url": "https://www.frontier-enterprise.com/cohesitys-coo-cfo-why-enterprise-ai-resilience-matters/",
+      "source": "Frontier Enterprise",
+      "sourceType": "external",
+      "image": "https://p7q8s5f8.rocketcdn.me/wp-content/uploads/2026/04/Eric-Brown-Cohesity.jpg",
+      "publishedAt": "2026-06-09T09:58:29.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "Oracle Health",
-        "Interoperability",
-        "Healthcare IT"
+        "AI"
       ],
-      "priority": 79
+      "priority": 43
     },
     {
-      "id": "sample-exadata",
-      "slug": "exadata-database-performance-sample",
-      "title": "Exadata and database performance: tuning stories worth saving",
-      "dek": "The saved-story feature lets readers build a local reading list without needing accounts, cookies, or a backend database.",
-      "url": "https://www.oracle.com/database/technologies/exadata/",
-      "source": "Oracle Database",
-      "sourceType": "official",
-      "image": "",
-      "publishedAt": "2026-05-29T10:30:00.000Z",
+      "id": "b489e2910efdb602",
+      "slug": "used-windows-server-licenses-a-legal-low-risk-way-for-businesses-to-cut-it-costs-cfc711",
+      "title": "Used Windows Server Licenses: A Legal, Low-Risk Way for Businesses to Cut IT Costs",
+      "dek": "Windows Server is essential infrastructure for most IT departments – and one of the most expensive items in the budget. What many businesses overlook: they don’t always have to pay full retail. A legitimate, well-established market for used Windows Server licenses lets companies buy the identical so",
+      "url": "https://windowsreport.com/used-windows-server-licenses/",
+      "source": "Onmsft",
+      "sourceType": "external",
+      "image": "https://windowsreport.com/wp-content/uploads/2026/06/used-window-server-licenses.jpg",
+      "publishedAt": "2026-06-09T09:51:15.000Z",
+      "topic": "Security",
+      "tags": [
+        "windows server"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "dc3db0ae934ab28e",
+      "slug": "the-one-hyperscaler-signal-that-will-make-or-break-arty-in-2026-855274",
+      "title": "The One Hyperscaler Signal That Will Make or Break ARTY in 2026",
+      "dek": "The ARTY ETF has nearly doubled in the past year, with shares up 102% over the trailing twelve months and 55% year to date through late May. That run reflects a portfolio built almost entirely around the AI infrastructure stack: GPUs, custom silicon, high-bandwidth memory, optics, cloud capacity, an",
+      "url": "https://247wallst.com/investing/2026/06/09/the-one-hyperscaler-signal-that-will-make-or-break-arty-in-2026/",
+      "source": "24/7 Wall St",
+      "sourceType": "external",
+      "image": "https://247wallst.com/wp-content/uploads/2024/02/shutterstock-1496263232-huge-licensed-scaled.jpg",
+      "publishedAt": "2026-06-09T09:11:17.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "73d2d278a5161b30",
+      "slug": "promising-blockchain-stocks-worth-watching-june-8th-803e01",
+      "title": "Promising Blockchain Stocks Worth Watching – June 8th",
+      "dek": "Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Digi Power X, Globant, Mercurity Fintech, and Earlyworks are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. “Blockchain stocks” are shares of publicly traded companies that are direc",
+      "url": "https://www.themarketsdaily.com/2026/06/09/promising-blockchain-stocks-worth-watching-june-8th.html",
+      "source": "Markets Daily",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
+      "publishedAt": "2026-06-09T09:07:10.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 42
+    },
+    {
+      "id": "f10e8b1e4fceef1a",
+      "slug": "wall-street-is-rushing-to-fund-the-ai-bonanza-in-every-conceivable-way-b7ce4b",
+      "title": "Wall Street Is Rushing to Fund the AI Bonanza in Every Conceivable Way",
+      "dek": "From giant debt deals to IPOs, tech companies keep raking in investor cash.",
+      "url": "https://www.hindustantimes.com/business/wall-street-is-rushing-to-fund-the-ai-bonanza-in-every-conceivable-way-101780993687929.html",
+      "source": "Hindustan Times",
+      "sourceType": "external",
+      "image": "https://www.hindustantimes.com/ht-img/img/2026/06/09/1600x900/logo/im-39212091_1780993695268_1780995676033_234a5f96-95d2-4336-9bf1-196a9881f9c1.jpg",
+      "publishedAt": "2026-06-09T09:01:38.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "undefined"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "22563d2f63a2da26",
+      "slug": "da-davidson-says-nvidia-corp-nvda-s-profit-margins-relatively-safe-through-2030-5f46c2",
+      "title": "DA Davidson Says NVIDIA Corp. (NVDA)’s Profit Margins Relatively Safe Through 2030",
+      "dek": "NVIDIA Corp. (NASDAQ:NVDA) is one of the 10 Best AI Stocks to Buy in June. On June 5, DA Davidson’s head of technology research, Gil Luria, said Nvidia’s profit margins are relatively safe through 2030 due to the limited chip alternatives for hyperscalers in the market, according to a report by Bloo",
+      "url": "https://www.insidermonkey.com/blog/da-davidson-says-nvidia-corp-nvdas-profit-margins-relatively-safe-through-2030-1777754/",
+      "source": "Insider Trading",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/H4Yyoc1AinpJIw_AMMcnkBT0gBRgEBxoDTSXOckKpfg/resize:fit:1920:1280:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2024/11/21161150/NVDA-Headquarters-Courtesy-of-NVIDIA.jpg",
+      "publishedAt": "2026-06-09T08:40:35.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "AI"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "75fbcf148afecfb1",
+      "slug": "spacex-ipo-timing-raises-stakes-for-us-stock-market-s-long-rally-3d3ec8",
+      "title": "SpaceX IPO Timing Raises Stakes for US Stock Market’s Long Rally",
+      "dek": "Market Analysis by covering: Nasdaq 100, S&P 500, Dow Jones Industrial Average, Oracle Corporation. Read 's Market Analysis on Investing.com",
+      "url": "https://www.investing.com/analysis/spacex-ipo-timing-raises-stakes-for-us-stock-markets-long-rally-200681773",
+      "source": "Investing Us",
+      "sourceType": "external",
+      "image": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+      "publishedAt": "2026-06-09T08:35:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "dow jones industrial average",
+        "s&p 500",
+        "oracle corporation",
+        "nasdaq 100"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "e2993acc97f59002",
+      "slug": "oracle-q4-preview-orcl-s-low-value-score-signals-overpricing-yet-guggenheim-sees-88-83-u-340aab",
+      "title": "Oracle Q4 Preview: ORCL's Low Value Score Signals Overpricing, Yet Guggenheim Sees 88.83% Upside",
+      "dek": "As Oracle Corp. (NYSE: ORCL ) approaches its fourth-quarter earnings report on June 10, the software giant presents a dichotomy: quantitative algorithms flag the stock as overpriced due to a plunging value score, yet Wall Street analysts at Guggenheim maintain massive conviction, projecting an 88.83",
+      "url": "https://www.benzinga.com/markets/earnings/26/06/53078879/oracle-q4-preview-orcls-low-value-score-signals-overpricing-yet-guggenheim-sees-88-83-upside",
+      "source": "Benzinga",
+      "sourceType": "external",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/09/San-Francisco--Ca--Sept-30--2012---Ceo-O.jpeg",
+      "publishedAt": "2026-06-09T08:11:11.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "\"pageisbzpro: bz\"",
+        "\"category: analyst ratings\"",
+        "\"cms: wordpress\"",
+        "\"category: equities\"",
+        "\"category: markets\"",
+        "\"symbol: orcl\""
+      ],
+      "priority": 42
+    },
+    {
+      "id": "19a2b3e832f90b72",
+      "slug": "bofa-raises-oracle-stock-price-target-to-240-ahead-of-earnings-5c9651",
+      "title": "BofA raises Oracle stock price target to $240 ahead of earnings",
+      "dek": "BofA raises Oracle stock price target to $240 ahead of earnings",
+      "url": "https://au.investing.com/news/stock-market-news/bofa-raises-oracle-stock-price-target-to-240-ahead-of-earnings-93CH-4477418",
+      "source": "Investing Australia",
+      "sourceType": "external",
+      "image": "https://i-invdn-com.investing.com/news/oracle_2_800x533_L_1412239227.jpg",
+      "publishedAt": "2026-06-09T07:52:07.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "Earnings"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "1d21e230f4c14c9c",
+      "slug": "oracle-2026-revenue-seen-rising-17-on-cloud-surge-93ae7a",
+      "title": "Oracle 2026 Revenue Seen Rising 17% On Cloud Surge",
+      "dek": "Oracle Corp. is set to report Q4 and full-year fiscal 2026 earnings on Wednesday, June 10, with analysts expecting another strong quarter of cloud-led growth.",
+      "url": "https://seekingalpha.com/article/4913142-oracle-2026-revenue-seen-rising-17-percent-on-cloud-surge",
+      "source": "Seeking Alpha",
+      "sourceType": "external",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1867844462/image_1867844462.jpg?io=getty-c-w1536",
+      "publishedAt": "2026-06-09T06:40:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "Earnings"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "af826bb19473b139",
+      "slug": "can-oracle-deliver-another-ai-fueled-quarter-analysts-believe-the-setup-looks-favorable-8a504c",
+      "title": "Can Oracle Deliver Another AI-Fueled Quarter? Analysts Believe The Setup Looks ‘Favorable’",
+      "dek": "Oracle is slated to report its fourth-quarter results after the markets close on Wednesday.",
+      "url": "https://newsable.asianetnews.com/markets/can-oracle-deliver-another-ai-fueled-quarter-analysts-believe-the-setup-looks-favorable-articleshow-txicx10",
+      "source": "Asianet Newsable",
+      "sourceType": "external",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-ebf08923-c7ce-4498-b996-4358bd0eae68.webp",
+      "publishedAt": "2026-06-09T05:35:01.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "afterhours"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "320866031946ed85",
+      "slug": "oracle-reports-on-june-10-and-its-cloud-backlog-could-be-the-next-big-test-for-the-ai-in-0a99cc",
+      "title": "Oracle Reports on June 10, and Its Cloud Backlog Could Be the Next Big Test for the AI Infrastructure Trade",
+      "dek": "The cloud company's backlog has become a key gauge of AI demand.",
+      "url": "https://www.fool.com/investing/2026/06/08/oracle-reports-on-june-10-and-its-cloud-backlog-co/",
+      "source": "Fool",
+      "sourceType": "external",
+      "image": "https://g.foolcdn.com/editorial/images/873617/orcl-oracle-stock-buy.jpg",
+      "publishedAt": "2026-06-09T03:56:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "362b8d3c-e935-4196-b3e8-abce299172ff",
+      "slug": "broadcom-avgo-among-billionaire-ken-fisher-s-top-11-dividend-stock-picks-aec01c",
+      "title": "Broadcom (AVGO) – Among Billionaire Ken Fisher’s Top 11 Dividend Stock Picks",
+      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
+      "url": "https://www.insidermonkey.com/blog/broadcom-avgo-among-billionaire-ken-fishers-top-11-dividend-stock-picks-1777585/",
+      "source": "Insider Monkey",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/uQfWfbm-Xg_9VxNkWA5L4vJvm1rzKWNJez4Za8uxPYU/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/20101315/AVGO-insidermonkey-1695219193323.jpg",
+      "publishedAt": "2026-06-09T03:31:23.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "business"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "0953feb04eb7de95",
+      "slug": "blackforce-unveils-ai-driven-human-capital-vision-targets-future-workforce-economy-ca1a97",
+      "title": "BlackForce unveils AI-driven human capital vision, targets future workforce economy",
+      "dek": "BlackForce has unveiled an AI-driven strategy to build financial infrastructure for human capital, connecting skills, financing and employment opportunities in the future workforce economy.",
+      "url": "https://guardian.ng/business-services/blackforce-unveils-ai-driven-human-capital-vision-targets-future-workforce-economy/",
+      "source": "The Guardian",
+      "sourceType": "external",
+      "image": "https://cdn.guardian.ng/wp-content/uploads/2026/06/Founder-and-Chief-Executive-Officer-of-BlackForce-Babatope-Olajide.webp",
+      "publishedAt": "2026-06-09T03:09:26.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "ai workforce",
+        "artificial intelligence",
+        "future of work",
+        "fintech",
+        "human capital",
+        "blackforce"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "03d35f3c-8c2c-4194-84a0-e86ee94aa8ca",
+      "slug": "oracle-orcl-q2-earnings-report-preview-what-to-look-for-76842d",
+      "title": "Oracle (ORCL) Q2 Earnings Report Preview: What To Look For",
+      "dek": "Enterprise software giant Oracle (NYSE:ORCL) will be announcing earnings results this Wednesday after market hours. Here’s what to expect.",
+      "url": "https://www.theglobeandmail.com/investing/markets/stocks/ORCL/pressreleases/2368561/oracle-orcl-q2-earnings-report-preview-what-to-look-for/",
+      "source": "The Globe and Mail",
+      "sourceType": "external",
+      "image": "https://news-assets.stockstory.org/cover-images/_1400x700_crop_center-center_none/oracle-cover-image-a8713ca8e6bf_2025-09-16-161711_tvyc.jpeg",
+      "publishedAt": "2026-06-09T03:05:37.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "business"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "7d8fd52d-e4ef-4328-ad20-33211ed5e4fa",
+      "slug": "how-much-upside-can-orcl-stock-deliver-7a4d57",
+      "title": "How Much Upside Can ORCL Stock Deliver?",
+      "dek": "At $211.82, Oracle (ORCL) looks set up for roughly 34% of upside over the next three years under a conservative scenario. Not a moonshot, but enough to matter if the math holds. Revenue compounding does all the work; the multiple is asked to do nothing.",
+      "url": "https://www.trefis.com/stock/orcl/articles/602073/how-much-upside-can-orcl-stocks-growth-deliver/2026-06-09",
+      "source": "Trefis",
+      "sourceType": "external",
+      "image": "https://s3.amazonaws.com/wp-uploads-trefis/articles/wp-content/uploads/2025/10/27050425/key_opportunities-300x300.png",
+      "publishedAt": "2026-06-09T14:45:51.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "business"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "d6a53992d5b9b644",
+      "slug": "encore-networking-security-essentials-143705",
+      "title": "Encore: Networking & Security Essentials",
+      "dek": "How do all your devices connect and stay safe in the cloud? In this episode, Lois Houston and Nikita Abraham talk with OCI instructors about the basics of how networks work and the simple steps that help protect them. You'll learn how information gets from one place to another, why tools like switch",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-networking-security-essentials",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S22E6_master.mp3?dest-id=3870039",
+      "publishedAt": "2026-06-05T17:38:46.000Z",
+      "topic": "Security",
+      "tags": [
+        "OCI",
+        "Security"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "310033cd12ca8f8c",
+      "slug": "where-is-the-life-sciences-supply-chain-heading-datadriveninvestor-07c78b",
+      "title": "Where is the Life Sciences Supply Chain Heading? — DataDrivenInvestor",
+      "dek": "Practitioner-written analysis on DataDrivenInvestor.",
+      "url": "https://www.datadriveninvestor.com/articles/where-is-the-life-sciences-supply-chain-heading",
+      "source": "Datadriveninvestor",
+      "sourceType": "external",
+      "image": "https://media.datadriveninvestor.com/uploads/2024/01/DALL%C2%B7E-2024-01-03-09.59.25-Create-a-minimalist-watercolor-image-inspired-by-the-concept-of-a-network-of-nodes-and-connections.-The-artwork-should-feature-a-central-simplified.png",
+      "publishedAt": "2026-06-08T23:59:26.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "c4e695937b29f7f1",
+      "slug": "encore-inside-cloud-networking-bdb221",
+      "title": "Encore: Inside Cloud Networking",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham unpack the basics of cloud networking and the Domain Name System (DNS). You'll learn how local and virtual networks connect our devices, and how DNS seamlessly translates familiar names like oracle.com into addresses computers understand. Cloud ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-inside-cloud-networking",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S22E5_master.mp3?dest-id=3870039",
+      "publishedAt": "2026-05-26T11:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "f32cfc163e2adab7",
+      "slug": "vector-ai-supporting-features-what-s-new-in-oracle-exadata-and-goldengate-c72e11",
+      "title": "Vector AI Supporting Features: What's New in Oracle Exadata and GoldenGate",
+      "dek": "Hosts Lois Houston and Nikita Abraham are joined by Brent Dayley, Senior Principal APEX and Apps Dev Instructor, to explore the latest vector AI supporting features in Oracle Exadata and GoldenGate 23ai. The conversation begins with an overview of Exadata's capabilities and then shifts to how Golden",
+      "url": "https://oracleuniversitypodcast.libsyn.com/vector-ai-supporting-features-whats-new-in-oracle-exadata-and-goldengate",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast__S21E5_master.mp3?dest-id=3870039",
+      "publishedAt": "2026-04-22T16:29:45.000Z",
       "topic": "AI & Database",
       "tags": [
         "Exadata",
-        "Oracle Database",
-        "Performance",
-        "DBA"
+        "AI"
       ],
-      "priority": 78
+      "priority": 36
     },
     {
-      "id": "sample-partners",
-      "slug": "oracle-partner-ecosystem-sample",
-      "title": "Partner ecosystem brief: integrations, migrations, and customer wins",
-      "dek": "External API coverage helps fill the magazine with analyst, partner, and press coverage beyond official Oracle announcements.",
-      "url": "https://www.oracle.com/partnernetwork/",
-      "source": "Partner Ecosystem",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-05-28T12:10:00.000Z",
-      "topic": "Oracle Ecosystem",
+      "id": "8df2d4f12e5a2c3c",
+      "slug": "rag-with-oracle-ai-vector-search-and-oci-generative-ai-python-and-pl-sql-approaches-ff14f5",
+      "title": "RAG with Oracle AI Vector Search and OCI Generative AI: Python and PL/SQL Approaches",
+      "dek": "In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham are joined by Brent Dayley, Senior Principal APEX & Apps Dev Instructor. Together, they explore how to implement Retrieval Augmented Generation (RAG) using Oracle AI Vector Search and OCI Generative AI. Brent wal",
+      "url": "https://oracleuniversitypodcast.libsyn.com/rag-with-oracle-ai-vector-search-and-oci-generative-ai-python-and-plsql-approaches",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S21E4_master.mp3?dest-id=3870039",
+      "publishedAt": "2026-04-14T11:00:00.000Z",
+      "topic": "Training & Certification",
       "tags": [
-        "Partners",
-        "Migrations",
-        "Customer Stories"
+        "OCI",
+        "Oracle University",
+        "AI"
       ],
-      "priority": 76
+      "priority": 36
     },
     {
-      "id": "sample-cloud-regions",
-      "slug": "oci-cloud-regions-data-residency-sample",
-      "title": "Cloud regions and data residency: why location stories matter",
-      "dek": "Regional cloud updates influence latency, compliance, procurement, and disaster recovery planning for enterprise teams.",
-      "url": "https://www.oracle.com/cloud/regions/",
-      "source": "Oracle Cloud Regions",
-      "sourceType": "official",
-      "image": "",
-      "publishedAt": "2026-05-27T09:00:00.000Z",
+      "id": "992cd023bffd388f",
+      "slug": "retrieval-augmented-generation-rag-ebb55a",
+      "title": "Retrieval Augmented Generation (RAG)",
+      "dek": "Join hosts Lois Houston and Nikita Abraham as they explore one of the most exciting innovations in enterprise AI: Retrieval Augmented Generation (RAG) powered by Oracle AI Vector Search. In this episode, Senior Principal APEX & Apps Dev Instructor Brent Dayley walks through the fundamentals of RAG, ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/retrieval-augmented-generation-rag",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S21E3_master_rev.mp3?dest-id=3870039",
+      "publishedAt": "2026-04-07T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ac57e1ddb6b0fb25",
+      "slug": "inside-oracle-ai-vector-search-indexes-metrics-and-best-practices-a2db71",
+      "title": "Inside Oracle AI Vector Search: Indexes, Metrics, and Best Practices",
+      "dek": "Go deeper into Oracle AI Vector Search as hosts Lois Houston and Nikita Abraham, along with Senior Principal APEX & Apps Dev Instructor Brent Dayley, break down how vector indexes, memory requirements, and similarity metrics make fast, powerful semantic search possible in Oracle Database 23ai. Learn",
+      "url": "https://oracleuniversitypodcast.libsyn.com/inside-oracle-ai-vector-search-indexes-metrics-and-best-practices",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_21E2_mixdown.mp3?dest-id=3870039",
+      "publishedAt": "2026-03-31T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle Database",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "890f5e95b1e01de5",
+      "slug": "introduction-to-oracle-ai-vector-search-6c4903",
+      "title": "Introduction to Oracle AI Vector Search",
+      "dek": "Explore Oracle AI Vector Search and learn how to find data by meaning, not just keywords, using powerful vector embeddings within Oracle Database 23ai. In this episode, hosts Lois Houston and Nikita Abraham, along with Senior Principal APEX & Apps Dev Instructor Brent Dayley, break down how similari",
+      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oracle-ai-vector-search",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S21E1_master.mp3?dest-id=3870039",
+      "publishedAt": "2026-03-24T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle Database",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "b66f783e47250a00",
+      "slug": "exploring-the-oracle-analytics-ai-assistant-7af5f6",
+      "title": "Exploring the Oracle Analytics AI Assistant",
+      "dek": "Join hosts Lois Houston and Nikita Abraham for a special episode of the Oracle University Podcast as they explore the Oracle Analytics AI Assistant. In this episode, you'll discover how Oracle's AI-powered conversational tool empowers users of all backgrounds to interact with business data using sim",
+      "url": "https://oracleuniversitypodcast.libsyn.com/exploring-the-oracle-analytics-ai-assistant",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast__S20SE1_master.mp3?dest-id=3870039",
+      "publishedAt": "2026-03-17T16:37:04.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Oracle University",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "0c24cc4f5198d48c",
+      "slug": "learn-about-the-latest-oracle-academy-workshops-on-embedding-generative-ai-in-apex-appli-2edc5e",
+      "title": "Learn about the latest Oracle Academy workshops on embedding generative AI in Apex applications and using AI to create SQL in Apex",
+      "dek": "Willie Mcrae, Oracle Academy Principal Instructor, joins us to discuss Oracle Academy AI resources for educators and their students, including two new workshops on embedding generative AI in Oracle APEX applications and using AI to create SQL in APEX.",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/learn-about-the-latest-oracle-academy-workshops-on-embedding-generative-ai-in-apex-applications-and-using-ai-to-create-sql-in-apex",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_Ep15_rev2.mp3?dest-id=3949203",
+      "publishedAt": "2026-03-17T16:23:07.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "438cc53fa5dc371e",
+      "slug": "oracle-database-aws-monitoring-logging-and-best-practices-276d93",
+      "title": "Oracle Database@AWS: Monitoring, Logging, and Best Practices",
+      "dek": "Running Oracle Database@AWS is most effective when you have full visibility and control over your environment. In this episode, hosts Lois Houston and Nikita Abraham are joined by Rashmi Panda, who explains how to monitor performance, track key metrics, and catch issues before they become problems. ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-databaseaws-monitoring-logging-and-best-practices",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S20E6_master.mp3?dest-id=3870039",
+      "publishedAt": "2026-03-10T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle Database",
+        "Database@AWS"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "a323c7c03813073f",
+      "slug": "how-oracle-database-aws-stays-secure-and-available-5e2d3c",
+      "title": "How Oracle Database@AWS Stays Secure and Available",
+      "dek": "When your business runs on data, even a few seconds of downtime can hurt. That's why this episode focuses on what keeps Oracle Database@AWS running when real-world problems strike. Hosts Lois Houston and Nikita Abraham are joined by Senior Principal Database Instructor Rashmi Panda, who takes us ins",
+      "url": "https://oracleuniversitypodcast.libsyn.com/how-oracle-databaseaws-stays-secure-and-available",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S20E05_master.mp3?dest-id=3870039",
+      "publishedAt": "2026-03-03T12:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle Database",
+        "Database@AWS"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "21f005e8a08ffbaf",
+      "slug": "security-and-migration-with-oracle-database-aws-7d3c25",
+      "title": "Security and Migration with Oracle Database@AWS",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham are joined by special guests Samvit Mishra and Rashmi Panda for an in-depth discussion on security and migration with Oracle Database@AWS. Samvit shares essential security best practices, compliance guidance, and data protection mechanisms to sa",
+      "url": "https://oracleuniversitypodcast.libsyn.com/security-and-migration-with-oracle-databaseaws",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S20E04_master.mp3?dest-id=3870039",
+      "publishedAt": "2026-02-24T12:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Oracle Database",
+        "Security",
+        "Database@AWS"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "067768da105500ef",
+      "slug": "getting-started-with-oracle-database-aws-b1d4e8",
+      "title": "Getting Started with Oracle Database@AWS",
+      "dek": "If you've ever wondered how Oracle Database really works inside AWS, this episode will finally turn the lights on. Join Senior Principal OCI Instructor Susan Jang as she explains the two database services available (Exadata Database Service and Autonomous Database), how Oracle and AWS share responsi",
+      "url": "https://oracleuniversitypodcast.libsyn.com/getting-started-with-oracle-databaseaws",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S20E3_master.mp3?dest-id=3870039",
+      "publishedAt": "2026-02-17T12:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "OCI",
+        "Oracle Database",
+        "Autonomous Database",
+        "Exadata",
+        "Database@AWS"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "60c743947e137867",
+      "slug": "what-is-oracle-database-aws-fc2509",
+      "title": "What is Oracle Database@AWS?",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham take you inside how Oracle brings its industry-leading database technology directly to AWS customers. Senior Principal OCI Instructor Susan Jang unpacks what the OCI child site is, how Exadata hardware is deployed inside AWS data centers, and ho",
+      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-oracle-databaseaws",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S20E2_master.mp3?dest-id=3870039",
+      "publishedAt": "2026-02-10T12:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "OCI",
+        "Oracle Database",
+        "Exadata",
+        "Database@AWS"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "2d9a256321de6e20",
+      "slug": "oracle-multicloud-made-easy-be0bfd",
+      "title": "Oracle Multicloud Made Easy",
+      "dek": "Multicloud is changing the way modern teams run their workloads: with real choice and real control. In this episode, hosts Lois Houston and Nikita Abraham welcome Senior Principal OCI Instructor Sergio Castro, who explains how Oracle has partnered with Microsoft Azure, Google Cloud, and AWS to bring",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-multicloud-made-easy",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S20E01_master.mp3?dest-id=3870039",
+      "publishedAt": "2026-02-03T12:00:00.000Z",
       "topic": "Oracle Cloud",
       "tags": [
         "OCI",
-        "Cloud Regions",
-        "Data Residency",
-        "Compliance"
+        "Multicloud"
       ],
-      "priority": 75
+      "priority": 36
     },
     {
-      "id": "sample-graalvm",
-      "slug": "graalvm-developer-performance-sample",
-      "title": "GraalVM developer brief: runtime performance and cloud-native packaging",
-      "dek": "Developer stories receive topic tags that make them discoverable through search, topic pages, RSS, and structured site navigation.",
-      "url": "https://www.graalvm.org/",
-      "source": "GraalVM",
-      "sourceType": "official",
-      "image": "",
-      "publishedAt": "2026-05-26T15:30:00.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "GraalVM",
-        "Java",
-        "Cloud Native",
-        "Performance"
-      ],
-      "priority": 74
-    },
-    {
-      "id": "sample-autonomous-database",
-      "slug": "autonomous-database-ai-ops-sample",
-      "title": "Autonomous Database and AI operations: what enterprise teams evaluate",
-      "dek": "Database coverage should help architects understand relevance without copying the full original source content.",
-      "url": "https://www.oracle.com/autonomous-database/",
-      "source": "Oracle Autonomous Database",
-      "sourceType": "official",
-      "image": "",
-      "publishedAt": "2026-05-25T10:15:00.000Z",
+      "id": "5b3edb15f91d4783",
+      "slug": "part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action-639847",
+      "title": "Part II Transforming Database Operations: MCP Server + OCI Generative AI in Action",
+      "dek": "In Part II of this episode we explore how Oracle's latest AI-driven database tools are revolutionizing teaching and learning in higher education. Tailored for global faculty and students, the episode demonstrates how artificial intelligence makes database operations more accessible, intuitive, and r",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S04Ep11_master.mp3?dest-id=3949203",
+      "publishedAt": "2026-01-27T13:00:00.000Z",
       "topic": "AI & Database",
       "tags": [
-        "Autonomous Database",
-        "AI",
-        "DBA",
-        "Operations"
+        "OCI",
+        "AI"
       ],
-      "priority": 73
+      "priority": 36
     },
     {
-      "id": "sample-opinion-analysis",
-      "slug": "oracle-ecosystem-analysis-format-sample",
-      "title": "How this site turns automated news into a useful daily reading experience",
-      "dek": "The system fetches public feeds server-side, deduplicates URLs, classifies stories, generates static pages, and preserves original source links.",
-      "url": "https://oracle-university.com/about/",
-      "source": "Editorial Desk",
-      "sourceType": "editorial",
-      "image": "",
-      "publishedAt": "2026-05-24T08:00:00.000Z",
+      "id": "fc7fd9fc5000d8a6",
+      "slug": "from-curiosity-to-career-growth-an-oracle-ai-certification-journey-bd5794",
+      "title": "From Curiosity to Career Growth: An Oracle AI Certification Journey",
+      "dek": "Join us for an inspiring conversation with private equity advisor Jeffrey Malcolm as he shares how Oracle AI certification has transformed his career, family, and approach to business. Discover the real-world impact and opportunities that come from upskilling with Oracle's leading AI training progra",
+      "url": "https://oracleuniversitypodcast.libsyn.com/from-curiosity-to-career-growth-an-oracle-ai-certification-journey",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S19SE1_master.mp3?dest-id=3870039",
+      "publishedAt": "2026-01-27T12:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Certification",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "319c895913dd2130",
+      "slug": "transforming-database-operations-mcp-server-oci-generative-ai-in-action-6ad8a3",
+      "title": "Transforming Database Operations: MCP Server + OCI Generative AI in Action",
+      "dek": "Part I In this episode of the Oracle Academy Tech Chat Podcast we explore how Oracle's latest AI-driven database tools are revolutionizing teaching and learning in higher education. Tailored for global faculty and students, the episode demonstrates how artificial intelligence makes database operatio",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/transforming-database-operations-mcp-server-oci-generative-ai-in-action",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S04Ep10_master.mp3?dest-id=3949203",
+      "publishedAt": "2026-01-20T13:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "OCI",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "7700fbcfb1e36319",
+      "slug": "driving-business-value-with-oci-part-2-11d505",
+      "title": "Driving Business Value with OCI – Part 2",
+      "dek": "Security, compliance, and resilience are the cornerstones of trust. In this episode, Lois Houston and Nikita Abraham continue their conversation with David Mills and Tijo Thomas, exploring how Oracle Cloud Infrastructure empowers organizations to protect data, stay compliant, and scale with confiden",
+      "url": "https://oracleuniversitypodcast.libsyn.com/driving-business-value-with-oci-part-2",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S19E3_master.mp3?dest-id=3870039",
+      "publishedAt": "2026-01-20T12:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Oracle Cloud",
+        "OCI",
+        "Oracle Cloud Infrastructure",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ac3fa6f40fd64d7b",
+      "slug": "driving-business-value-with-oci-part-1-8444fa",
+      "title": "Driving Business Value with OCI–Part 1",
+      "dek": "Understanding cloud costs can be challenging, but it's essential for maximizing value. In this episode, hosts Lois Houston and Nikita Abraham speak with Oracle Cloud experts David Mills and Tijo Thomas about how Oracle Cloud Infrastructure offers predictable pricing, robust security, and high perfor",
+      "url": "https://oracleuniversitypodcast.libsyn.com/driving-business-value-with-ocipart-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S19_EP02_master.mp3?dest-id=3870039",
+      "publishedAt": "2026-01-14T23:18:23.000Z",
+      "topic": "Security",
+      "tags": [
+        "Oracle Cloud",
+        "OCI",
+        "Oracle Cloud Infrastructure",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "8cf4dfb0a3b8943f",
+      "slug": "getting-to-know-oracle-cloud-infrastructure-b4f7ca",
+      "title": "Getting to Know Oracle Cloud Infrastructure",
+      "dek": "Every system depends on reliable infrastructure behind the scenes. Oracle Cloud Infrastructure (OCI) delivers that reliability with speed, flexibility, and built-in security. Join Lois Houston and Nikita Abraham as they speak with Oracle Cloud experts David Mills and Tijo Thomas about what makes OCI",
+      "url": "https://oracleuniversitypodcast.libsyn.com/getting-to-know-oracle-cloud-infrastructure",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S19_EP01_master.mp3?dest-id=3870039",
+      "publishedAt": "2026-01-06T17:15:25.000Z",
+      "topic": "Security",
+      "tags": [
+        "Oracle Cloud",
+        "OCI",
+        "Oracle Cloud Infrastructure",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "c86e65aa85d7d3e6",
+      "slug": "best-of-2025-unlocking-the-power-of-oracle-apex-and-ai-6aff1f",
+      "title": "Best of 2025: Unlocking the Power of Oracle APEX and AI",
+      "dek": "Lois Houston and Nikita Abraham explore how Oracle APEX integrates with AI to build smarter low-code applications. They are joined by Chaitanya Koratamaddi, Director of Product Management at Oracle, who explains the basics of Oracle APEX, its global adoption, and the challenges it addresses for busi",
+      "url": "https://oracleuniversitypodcast.libsyn.com/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S18_EP04.mp3?dest-id=3870039",
+      "publishedAt": "2025-12-23T12:00:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "b34211ba6f239966",
+      "slug": "bringing-the-cloud-to-you-security-and-control-with-exadata-e7accc",
+      "title": "Bringing the Cloud to You: Security and Control with Exadata",
+      "dek": "In this episode, we'll talk about Security and Control with Exadata We'll explore how organizations can benefit from cloud innovation while keeping full control over their data — a critical challenge in today's digital world. ---------------------------------------------------- Episode Transcript: 0",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/bringing-the-cloud-to-you-security-and-control-with-exadata",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S04EP08.mp3?dest-id=3949203",
+      "publishedAt": "2025-12-16T13:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Exadata",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "54fd99d2d08bf8ff",
+      "slug": "best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications-6881a0",
+      "title": "Best of 2025: Oracle Fusion Cloud Applications Foundations Training & Certifications",
+      "dek": "In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham dive into Oracle Fusion Cloud Applications and the new courses and certifications on offer. They are joined by Oracle Fusion Apps experts Patrick McBride and Bill Lawson who introduce the concept of Oracle Modern",
+      "url": "https://oracleuniversitypodcast.libsyn.com/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S18_EP03.mp3?dest-id=3870039",
+      "publishedAt": "2025-12-16T12:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "8a8367d4bd4173e5",
+      "slug": "best-of-2025-introduction-to-mysql-2273ef",
+      "title": "Best of 2025: Introduction to MySQL",
+      "dek": "Join hosts Lois Houston and Nikita Abraham as they explore the world of MySQL 8.4. Together with Perside Foster, a MySQL Principal Solution Engineer, they break down the fundamentals of MySQL, its wide range of applications, and why it's so popular among developers and database administrators. This ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/best-of-2025-introduction-to-mysql",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S18_EP01.mp3?dest-id=3870039",
+      "publishedAt": "2025-12-02T05:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "1835a24a26fd0f23",
+      "slug": "the-transformative-power-of-low-code-development-d12adc",
+      "title": "The Transformative Power of Low Code Development",
+      "dek": "In this Episode Orlaith Lawton speaks with Oracle ACE Roberto Capancioni about the importance of APEX and why it is the world's most popular low-code application platform. ------------------------------------------------------ Episode Transcript: 00:00:00:00 - 00:00:35:14 Unknown Welcome to the Orac",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-transformative-power-of-low-code-development",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S04EP06.mp3?dest-id=3949203",
+      "publishedAt": "2025-11-25T13:00:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "ee5846d1133aa1c7",
+      "slug": "understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9",
+      "title": "Understanding Security Risks and Threats in the Cloud - Part 1",
+      "dek": "This week, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to explore what truly keeps data safe, and what puts it at risk. They discuss the CIA triad, dive into hashing and encryption, and shed light on how cyber threats like malware, phishing, and ransomware t",
+      "url": "https://oracleuniversitypodcast.libsyn.com/understanding-security-risks-and-threats-in-the-cloud-part-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S17_EP07.mp3?dest-id=3870039",
+      "publishedAt": "2025-11-18T12:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "OCI",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "5136e87b29e93d6c",
+      "slug": "networking-security-essentials-113af4",
+      "title": "Networking & Security Essentials",
+      "dek": "How do all your devices connect and stay safe in the cloud? In this episode, Lois Houston and Nikita Abraham talk with OCI instructors Sergio Castro and Orlando Gentil about the basics of how networks work and the simple steps that help protect them. You'll learn how information gets from one place ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/networking-security-essentials",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S17_EP06.mp3?dest-id=3870039",
+      "publishedAt": "2025-11-11T12:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "OCI",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "2ee55af3a34a0088",
+      "slug": "inside-cloud-networking-90fb7c",
+      "title": "Inside Cloud Networking",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham team up with Senior Principal OCI Instructor Sergio Castro to unpack the basics of cloud networking and the Domain Name System (DNS). You'll learn how local and virtual networks connect devices, and how DNS seamlessly translates familiar names l",
+      "url": "https://oracleuniversitypodcast.libsyn.com/inside-cloud-networking",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S17_EP05.mp3?dest-id=3870039",
+      "publishedAt": "2025-11-04T12:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "17db1ecfd351e618",
+      "slug": "cloud-data-centers-core-concepts-part-4-e48202",
+      "title": "Cloud Data Centers: Core Concepts - Part 4",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with Principal OCI Instructor Orlando Gentil, break down the differences between Infrastructure-as-a-Service, Platform-as-a-Service, and Software-as-a-Service. The conversation explores how each framework influences control, cost efficien",
+      "url": "https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-4",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S17_EP04.mp3?dest-id=3870039",
+      "publishedAt": "2025-10-28T11:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "aa38330c583696b1",
+      "slug": "cloud-data-centers-core-concepts-part-3-5caa7a",
+      "title": "Cloud Data Centers: Core Concepts - Part 3",
+      "dek": "Have you ever considered how a single server can support countless applications and workloads at once? In this episode, hosts Lois Houston and Nikita Abraham, together with Principal OCI Instructor Orlando Gentil, explore the sophisticated technologies that make this possible in modern cloud data ce",
+      "url": "https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-3",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S17_EP03.mp3?dest-id=3870039",
+      "publishedAt": "2025-10-21T11:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "130a16e96f2732ec",
+      "slug": "ai-and-security-7b0e26",
+      "title": "AI and Security",
+      "dek": "In this episode host Oracle Academy Program Manager Benelux & DACH Rik Bleeker speaks with Oracle expert Thomas Minne on the crucial intersection of Artificial Intelligence and data security, explaining why the Oracle Database is foundational to both. Drawing on his 15 years as a DBA and current rol",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-and-security",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S04EP031.mp3?dest-id=3949203",
+      "publishedAt": "2025-10-14T15:58:49.000Z",
+      "topic": "Security",
+      "tags": [
+        "Oracle Database",
+        "Security",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "8645f6190ac73c80",
+      "slug": "cloud-data-centers-core-concepts-part-2-9a562f",
+      "title": "Cloud Data Centers: Core Concepts - Part 2",
+      "dek": "Have you ever wondered where all your digital memories, work projects, or favorite photos actually live in the cloud? In this episode, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to discuss cloud storage. They explore how data is carefully organized, the dif",
+      "url": "https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-2",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S17_EP02.mp3?dest-id=3870039",
+      "publishedAt": "2025-10-14T06:44:39.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "68bd0f91199b7164",
+      "slug": "ai-for-data-when-data-meets-intelligence-f7601f",
+      "title": "AI for Data: When Data meets Intelligence",
+      "dek": "AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In this two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle AI Vector an",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-for-data-when-data-meet-intelligence",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S04EP01.mp3?dest-id=3949203",
+      "publishedAt": "2025-10-07T12:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "a8b0d72717988f46",
+      "slug": "part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874",
+      "title": "Part II of AI for Data: When Data meets Intelligence",
+      "dek": "AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In the second of a two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle A",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-of-data-for-ai-when-data-meets-intelligence",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S04EP02.mp3?dest-id=3949203",
+      "publishedAt": "2025-10-07T12:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "Editorial Policy",
-        "Automation",
-        "SEO",
-        "Reader Experience"
+        "AI"
       ],
-      "priority": 70
+      "priority": 36
+    },
+    {
+      "id": "5e0bed11974ea12f",
+      "slug": "cloud-data-centers-core-concepts-part-1-931d1e",
+      "title": "Cloud Data Centers: Core Concepts - Part 1",
+      "dek": "Curious about what really goes on inside a cloud data center? In this episode, Lois Houston and Nikita Abraham chat with Principal OCI Instructor Orlando Gentil about how cloud data centers are transforming the way organizations manage technology. They explore the differences between traditional and",
+      "url": "https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S17_EP01.mp3?dest-id=3870039",
+      "publishedAt": "2025-10-07T11:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "d4e9db1ccf4dd838",
+      "slug": "oracle-ai-for-fusion-apps-c0a344",
+      "title": "Oracle AI for Fusion Apps",
+      "dek": "Want to make AI work for your business? In today's episode, Lois Houston and Nikita Abraham continue their discussion of AI in Oracle Fusion Applications by focusing on three key AI capabilities: predictive, generative, and agentic. Joining them is Principal Instructor Yunus Mohammed, who explains h",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-ai-for-fusion-apps",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S16_EP08.mp3?dest-id=3870039",
+      "publishedAt": "2025-09-23T11:00:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "110326b8f91a1138",
+      "slug": "oracle-s-ai-ecosystem-1d77a2",
+      "title": "Oracle's AI Ecosystem",
+      "dek": "In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to explore Oracle's approach to enterprise AI. The conversation covers the essential components of the Oracle AI stack and how each part, from the foundational infrastructure to business-specific appli",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracles-ai-ecosystem",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S16_EP07.mp3?dest-id=3870039",
+      "publishedAt": "2025-09-16T11:00:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "3cb785e486f6ebfe",
+      "slug": "buy-or-build-ai-6e5a7d",
+      "title": "Buy or Build AI?",
+      "dek": "How do you decide whether to buy a ready-made AI solution or build one from the ground up? The choice is more than just a technical decision; it's about aligning AI with your business goals. In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to examine",
+      "url": "https://oracleuniversitypodcast.libsyn.com/buy-or-build-ai",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S16_EP06.mp3?dest-id=3870039",
+      "publishedAt": "2025-09-09T11:14:43.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "a565735bfdbd85b4",
+      "slug": "the-ai-workflow-2273cc",
+      "title": "The AI Workflow",
+      "dek": "Join Lois Houston and Nikita Abraham as they chat with Yunus Mohammed, a Principal Instructor at Oracle University, about the key stages of AI model development. From gathering and preparing data to selecting, training, and deploying models, learn how each phase impacts AI's real-world effectiveness",
+      "url": "https://oracleuniversitypodcast.libsyn.com/the-ai-workflow",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S16_EP05.mp3?dest-id=3870039",
+      "publishedAt": "2025-09-02T11:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Oracle University",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "e2785350b8265d83",
+      "slug": "core-ai-concepts-part-3-b8133b",
+      "title": "Core AI Concepts – Part 3",
+      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Principal AI/ML Instructor Himanshu Raj, as they discuss the transformative world of Generative AI. Together, they uncover the ways in which generative AI agents are changing the way we interact with technology, automating tasks and delivering n",
+      "url": "https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-3",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S16_EP04.mp3?dest-id=3870039",
+      "publishedAt": "2025-08-26T11:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "d6693b728a6fc7bc",
+      "slug": "core-ai-concepts-part-2-7bf4a7",
+      "title": "Core AI Concepts – Part 2",
+      "dek": "In this episode, Lois Houston and Nikita Abraham continue their discussion on AI fundamentals, diving into Data Science with Principal AI/ML Instructor Himanshu Raj. They explore key concepts like data collection, cleaning, and analysis, and talk about how quality data drives impactful insights. AI ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-2",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S16_EP03.mp3?dest-id=3870039",
+      "publishedAt": "2025-08-19T11:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "38242d5a1b1cd6a7",
+      "slug": "core-ai-concepts-part-1-d909db",
+      "title": "Core AI Concepts – Part 1",
+      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Principal AI/ML Instructor Himanshu Raj, as they dive deeper into the world of artificial intelligence, analyzing the types of machine learning. They also discuss deep learning, including how it works, its applications, and its advantages and ch",
+      "url": "https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S16_EP02.mp3?dest-id=3870039",
+      "publishedAt": "2025-08-12T11:00:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "3aff1fb2088254c5",
+      "slug": "what-is-ai-cf94b7",
+      "title": "What is AI?",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, together with Senior Cloud Engineer Nick Commisso, break down the basics of artificial intelligence (AI). They discuss the differences between Artificial General Intelligence (AGI) and Artificial Narrow Intelligence (ANI), and explore the conce",
+      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-ai",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S16_EP01.mp3?dest-id=3870039",
+      "publishedAt": "2025-08-05T11:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "9b7e85bbbaffa879",
+      "slug": "modernize-your-business-with-oracle-cloud-apps-part-2-987aba",
+      "title": "Modernize Your Business with Oracle Cloud Apps – Part 2",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham welcome back Cloud Delivery Lead Sarah Mahalik for a detailed tour of the four pillars of Oracle Fusion Cloud Applications: ERP, HCM, SCM, and CX. Discover how Oracle weaves AI, analytics, and automation into every layer of enterprise operations",
+      "url": "https://oracleuniversitypodcast.libsyn.com/modernize-your-business-with-oracle-cloud-apps-part-0",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S16_SE04.mp3?dest-id=3870039",
+      "publishedAt": "2025-07-29T11:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "HCM",
+        "SCM",
+        "CX",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "7ecce730222a6507",
+      "slug": "modernize-your-business-with-oracle-cloud-apps-part-1-db5937",
+      "title": "Modernize Your Business with Oracle Cloud Apps – Part 1",
+      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Cloud Delivery Lead Sarah Mahalik, as they unpack the core pillars of Oracle Fusion Cloud Applications—ERP, HCM, SCM, and CX. Learn how Oracle's SaaS model, Redwood UX, and built-in AI are reshaping business productivity, adaptability, and user ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/modernize-your-business-with-oracle-cloud-apps-part-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S16_SE03.mp3?dest-id=3870039",
+      "publishedAt": "2025-07-22T11:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "HCM",
+        "SCM",
+        "CX",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "9464bd094a6468a3",
+      "slug": "oracle-goldengate-23ai-parameters-data-selection-filtering-transformation-03d912",
+      "title": "Oracle GoldenGate 23ai: Parameters, Data Selection, Filtering, & Transformation",
+      "dek": "In the final episode of this series on Oracle GoldenGate 23ai, Lois Houston and Nikita Abraham welcome back Nick Wagner, Senior Director of Product Management for GoldenGate, to discuss how parameters shape data replication. This episode covers parameter files, data selection, filtering, and transfo",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-goldengate-23ai-parameters-data-selection-filtering-transformation",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S15_EP010.mp3?dest-id=3870039",
+      "publishedAt": "2025-07-01T11:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "0858799c3d0010c0",
+      "slug": "oracle-goldengate-23ai-managing-extract-trails-and-files-4a6e75",
+      "title": "Oracle GoldenGate 23ai: Managing Extract Trails and Files",
+      "dek": "In this episode of the Oracle University Podcast, Lois Houston and Nikita Abraham explore the intricacies of trail files in Oracle GoldenGate 23ai with Nick Wagner, Senior Director of Product Management. They delve into how trail files store committed operations, preserving the order of transactions",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-goldengate-23ai-managing-extract-trails-and-files",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S15_EP09.mp3?dest-id=3870039",
+      "publishedAt": "2025-06-24T11:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "092b56059bf79cf8",
+      "slug": "oracle-goldengate-23ai-the-replicat-process-70eedb",
+      "title": "Oracle GoldenGate 23ai: The Replicat Process",
+      "dek": "In this episode, Lois Houston and Nikita Abraham, along with Nick Wagner, Senior Director of Product Management, dive into the Replicat process in Oracle GoldenGate 23ai. They discuss how Replicat applies changes to the target database, highlighting the different types: Classic, Coordinated, and Par",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-goldengate-23ai-the-replicat-process",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S15_EP08.mp3?dest-id=3870039",
+      "publishedAt": "2025-06-17T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "1b0d78e63202bf9c",
+      "slug": "oracle-goldengate-distribution-path-target-initiated-path-receiver-server-and-initial-lo-5bd667",
+      "title": "Oracle GoldenGate: Distribution Path, Target Initiated Path, Receiver Server, and Initial Load",
+      "dek": "In this episode, Lois Houston and Nikita Abraham dive into key components of Oracle GoldenGate 23ai with expert insights from Nick Wagner, Senior Director of Product Management. They break down the Distribution Service, explaining how it moves trail files between environments, replaces the classic e",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-goldengate-distribution-path-target-initiated-path-receiver-server-and-initial-load",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S15_EP07.mp3?dest-id=3870039",
+      "publishedAt": "2025-06-10T11:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "e22055ba4a3c0622",
+      "slug": "oracle-goldengate-23ai-the-extract-process-bb2695",
+      "title": "Oracle GoldenGate 23ai: The Extract Process",
+      "dek": "The Extract process is the heart of Oracle GoldenGate 23ai, capturing data changes with precision. In this episode, Lois Houston and Nikita Abraham sit down with Nick Wagner, Senior Director of Product Management, to break down Extract's role, architecture, and best practices. Learn how Extract work",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-goldengate-23ai-the-extract-process",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S15_EP06.mp3?dest-id=3870039",
+      "publishedAt": "2025-06-03T11:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "383fb98ba557ba06",
+      "slug": "oracle-goldengate-installation-4e39e1",
+      "title": "Oracle GoldenGate Installation",
+      "dek": "Installing Oracle GoldenGate 23ai is more than just running a setup file—it's about preparing your system for efficient, reliable data replication. In this episode, Lois Houston and Nikita welcome back Nick Wagner to break down system requirements, storage considerations, and best practices for inst",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-goldengate-installation",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S15_EP05.mp3?dest-id=3870039",
+      "publishedAt": "2025-05-27T11:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "fc9301cab250f491",
+      "slug": "oracle-goldengate-23ai-security-strategies-670e8f",
+      "title": "Oracle GoldenGate 23ai Security Strategies",
+      "dek": "GoldenGate 23ai takes security seriously, and this episode unpacks everything you need to know. GoldenGate expert Nick Wagner breaks down how authentication, access roles, and encryption protect your data. Learn how GoldenGate integrates with identity providers, secures communication, and keeps pass",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-goldengate-23ai-security-strategies",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S15_EP04.mp3?dest-id=3870039",
+      "publishedAt": "2025-05-20T11:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "194410d7cf76a686",
+      "slug": "goldengate-23ai-terminology-architecture-875f4d",
+      "title": "GoldenGate 23ai: Terminology & Architecture",
+      "dek": "In this episode, Lois Houston and Nikita Abraham, along with Nick Wagner, focus on GoldenGate's terminology and architectural evolution. Nick defines source and target systems, which are crucial for data replication, and then moves on to explain the data extraction and replication processes. He also",
+      "url": "https://oracleuniversitypodcast.libsyn.com/goldengate-23ai-terminology-architecture",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S15_EP03.mp3?dest-id=3870039",
+      "publishedAt": "2025-05-13T11:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "22df5a2098a9c032",
+      "slug": "oracle-goldengate-23ai-new-features-product-family-8c14c1",
+      "title": "Oracle GoldenGate 23ai: New Features & Product Family",
+      "dek": "In this episode, Lois Houston and Nikita Abraham continue their deep dive into Oracle GoldenGate 23ai, focusing on its evolution and the extensive features it offers. They are joined once again by Nick Wagner, who provides valuable insights into the product's journey. Nick talks about the various it",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-goldengate-23ai-new-features-product-family",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S15_EP02.mp3?dest-id=3870039",
+      "publishedAt": "2025-05-06T11:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "cea69a170b9e26a0",
+      "slug": "what-is-oracle-goldengate-23ai-beb725",
+      "title": "What is Oracle GoldenGate 23ai?",
+      "dek": "In a new season of the Oracle University Podcast, Lois Houston and Nikita Abraham dive into the world of Oracle GoldenGate 23ai, a cutting-edge software solution for data management. They are joined by Nick Wagner, a seasoned expert in database replication, who provides a comprehensive overview of t",
+      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-oracle-goldengate-23ai",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S15_EP01.mp3?dest-id=3870039",
+      "publishedAt": "2025-04-29T11:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "7c184b14751dd080",
+      "slug": "integrating-apex-with-oci-ai-services-9f4c89",
+      "title": "Integrating APEX with OCI AI Services",
+      "dek": "Discover how Oracle APEX leverages OCI AI services to build smarter, more efficient applications. Hosts Lois Houston and Nikita Abraham interview APEX experts Chaitanya Koratamaddi, Apoorva Srinivas, and Toufiq Mohammed about how key services like OCI Vision, Oracle Digital Assistant, and Document U",
+      "url": "https://oracleuniversitypodcast.libsyn.com/integrating-apex-with-oci-ai-services",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S14_EP03.mp3?dest-id=3870039",
+      "publishedAt": "2025-04-22T11:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "5a5ab7fd0e0fc66a",
+      "slug": "ai-assisted-development-in-oracle-apex-9526d9",
+      "title": "AI-Assisted Development in Oracle APEX",
+      "dek": "Get ready to explore how generative AI is transforming development in Oracle APEX. In this episode, hosts Lois Houston and Nikita Abraham are joined by Oracle APEX experts Apoorva Srinivas and Toufiq Mohammed to break down the innovative features of APEX 24.1. Learn how developers can use APEX Assis",
+      "url": "https://oracleuniversitypodcast.libsyn.com/ai-assisted-development-in-oracle-apex",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S14_EP02.mp3?dest-id=3870039",
+      "publishedAt": "2025-04-15T11:00:00.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "120a350daf146974",
+      "slug": "unlocking-the-power-of-oracle-apex-and-ai-52e19c",
+      "title": "Unlocking the Power of Oracle APEX and AI",
+      "dek": "Lois Houston and Nikita Abraham kick off a new season of the podcast, exploring how Oracle APEX integrates with AI to build smarter low-code applications. They are joined by Chaitanya Koratamaddi, Director of Product Management at Oracle, who explains the basics of Oracle APEX, its global adoption, ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/unlocking-the-power-of-oracle-apex-and-ai",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S14_EP01.mp3?dest-id=3870039",
+      "publishedAt": "2025-04-08T11:00:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "d3f679bf95272b89",
+      "slug": "how-to-become-an-ai-data-engineer-fe0f73",
+      "title": "How to Become an AI Data Engineer",
+      "dek": "Do you want to be a data engineer? In this episode, host Alba Joven speaks with Oracle Autonomous Database specialist Javier de la Torre Medina about what it takes to become an AI data engineer. Episode Transcript: 00:00:00:00 - 00:00:34:15 Unknown Welcome to the Oracle Academy Tech Chat. This podca",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/how-to-become-an-ai-data-engineer",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP14.mp3?dest-id=3949203",
+      "publishedAt": "2025-04-01T21:37:23.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Autonomous Database",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "23e820be3713a392",
+      "slug": "raise-your-game-with-oracle-cloud-applications-f75f55",
+      "title": "Raise Your Game with Oracle Cloud Applications",
+      "dek": "In this special episode of the Oracle University Podcast, Bill Lawson and Nikita Abraham chat with Peter Fernandez, Senior Director of Cloud Certification at Oracle University, about the exciting new Raise Your Game challenge. They discuss how the initiative is designed to enhance participants' skil",
+      "url": "https://oracleuniversitypodcast.libsyn.com/raise-your-game-with-oracle-cloud-applications",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S13_SEP2.mp3?dest-id=3870039",
+      "publishedAt": "2025-04-01T11:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Oracle Cloud",
+        "Certification",
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "76b20a1deaf6d02c",
+      "slug": "oracle-database-azure-c9dcf9",
+      "title": "Oracle Database@Azure",
+      "dek": "The final episode of the multicloud series focuses on Oracle Database@Azure, a powerful cloud database solution. Hosts Lois Houston and Nikita Abraham, along with Senior Manager of CSS OU Cloud Delivery Samvit Mishra, discuss how this service allows customers to run Oracle databases within the Micro",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-databaseazure",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S13_EP03.mp3?dest-id=3870039",
+      "publishedAt": "2025-03-25T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Multicloud",
+        "Oracle Database"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "a767b40f8f11031f",
+      "slug": "bridging-the-digital-divide-how-oracle-academy-is-transforming-technology-education-in-a-c7f0c2",
+      "title": "Bridging the Digital Divide: How Oracle Academy is Transforming Technology Education in Africa",
+      "dek": "In this episode host Bekere Amassoma speaks with Annick Sakho, Director, Government Affairs Africa about today's rapidly evolving digital landscape and how access to technology education is a crucial factor in driving economic growth, innovation, and job creation. -----------------------------------",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/bridging-the-digital-divide-how-oracle-academy-is-transforming-technology-education-in-africa",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP13.mp3?dest-id=3949203",
+      "publishedAt": "2025-03-18T12:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "cf40575c8f73b0fc",
+      "slug": "oracle-fusion-cloud-applications-foundations-training-certifications-96956d",
+      "title": "Oracle Fusion Cloud Applications Foundations Training & Certifications",
+      "dek": "In this special episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham dive into Oracle Fusion Cloud Applications and the new courses and certifications on offer. They are joined by Oracle Fusion Apps experts Patrick McBride and Bill Lawson who introduce the concept of Oracl",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-fusion-cloud-applications-foundations-training-certifications",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S13_SEP1.mp3?dest-id=3870039",
+      "publishedAt": "2025-03-04T12:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "3434cdcf04e5050c",
+      "slug": "mysql-backup-part-2-d4b250",
+      "title": "MySQL Backup - Part 2",
+      "dek": "Lois Houston and Nikita Abraham continue their conversation with MySQL expert Perside Foster, with a closer look at MySQL Enterprise Backup. They cover essential features like incremental backups for quick recovery, encryption for data security, and monitoring with MySQL Enterprise Monitor—all to he",
+      "url": "https://oracleuniversitypodcast.libsyn.com/mysql-backup-part-2",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S12_EP7.mp3?dest-id=3870039",
+      "publishedAt": "2025-02-19T17:42:31.000Z",
+      "topic": "Security",
+      "tags": [
+        "MySQL",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "f6d89c5c48a99e1c",
+      "slug": "real-world-applications-of-p6-in-construction-projects-3cb2ba",
+      "title": "Real-World Applications of P6 in Construction Projects",
+      "dek": "In this episode host Lorna Juma speaks with recent construction management graduates, University of Nairobi, Lewis Miringa and Joyce Ojamong about real-world applications of P6 in construction projects. Learn how Primavera P6 has shaped the careers of two recent Construction Management and explore t",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/real-world-applications-of-p6-in-construction-projects",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP12.mp3?dest-id=3949203",
+      "publishedAt": "2025-02-18T17:29:32.000Z",
+      "topic": "Training & Certification",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "b8192dcb5de9d3a8",
+      "slug": "unpacking-the-database-ai-connection-why-it-matters-34c445",
+      "title": "Unpacking the Database-AI Connection: Why It Matters",
+      "dek": "In this episode host Lorna Juma speaks with Dr. Lawrence Nderu on Unpacking the Database-AI Connection and Why It Matters. If you're an educator, student, or tech enthusiast curious about the backbone of artificial intelligence systems, this episode is your gateway to understanding the vital role of",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/unpacking-the-database-ai-connection-why-it-matters",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP11.mp3?dest-id=3949203",
+      "publishedAt": "2025-02-04T13:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "55043baef4608bbe",
+      "slug": "mysql-security-part-2-d6d30b",
+      "title": "MySQL Security - Part 2",
+      "dek": "Picking up from Part 1, hosts Lois Houston and Nikita Abraham continue their deep dive into MySQL security with MySQL Solution Engineer Ravish Patel. In this episode, they focus on user authentication techniques and tools such as MySQL Enterprise Audit and MySQL Enterprise Firewall. MySQL 8.4 Essent",
+      "url": "https://oracleuniversitypodcast.libsyn.com/mysql-security-part-2",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S12_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2025-02-04T12:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "MySQL",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "579020ba639c5bfd",
+      "slug": "mysql-security-part-1-a94a33",
+      "title": "MySQL Security - Part 1",
+      "dek": "Security takes center stage in this episode as Lois Houston and Nikita Abraham are joined by MySQL Solution Engineer Ravish Patel. Together, they explore MySQL's security features, addressing key topics like regulatory compliance. Ravish also shares insights on protecting data through encryption, ac",
+      "url": "https://oracleuniversitypodcast.libsyn.com/mysql-security-part-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S12_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2025-01-28T12:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "MySQL",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "b3a0190ee79362f7",
+      "slug": "how-do-ai-and-data-work-together-53cca6",
+      "title": "How do AI and Data work together?",
+      "dek": "In this episode host Tyra Peirce speaks with Scott Stroz, MySQL evangelist about how Data and AI work together. ----------------------------------------------------------- Episode Transcript: 00;00;09;02 - 00;00;34;16 Welcome to the Oracle Academy Tech Chat. This podcast provides educators and stude",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/how-do-ai-and-data-work-together",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP10.mp3?dest-id=3949203",
+      "publishedAt": "2025-01-22T00:05:41.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "MySQL",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "a00ff3082494d91e",
+      "slug": "mysql-database-design-52388a",
+      "title": "MySQL Database Design",
+      "dek": "Explore the essentials of MySQL database design with Lois Houston and Nikita Abraham, who team up with MySQL expert Perside Foster to discuss key storage concepts, transaction support in InnoDB, and ACID compliance. You'll also get tips on choosing the right data types, optimizing queries with index",
+      "url": "https://oracleuniversitypodcast.libsyn.com/mysql-database-design",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S12_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2025-01-21T12:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "675402d12c229a48",
+      "slug": "how-do-you-find-your-voice-as-a-woman-in-tech-a0b6aa",
+      "title": "How do you find your voice as a woman in tech?",
+      "dek": "In this episode host Tyra Peirce speaks with Win Chang, Director Cloud Engineering, Susan Poser, NACI Director of Partner Engagement, and Susan Miller, Sr. Director, Global Product Security about working as a women in tech and how women can find their voice. -----------------------------------------",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/how-do-you-find-your-voice-as-a-woman-in-tech",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP09.mp3?dest-id=3949203",
+      "publishedAt": "2025-01-07T05:01:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Security",
+        "Partner"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "a26a82213f4638f1",
+      "slug": "best-of-2024-autonomous-database-on-serverless-infrastructure-33755a",
+      "title": "Best of 2024: Autonomous Database on Serverless Infrastructure",
+      "dek": "Want to quickly provision your autonomous database? Then look no further than Oracle Autonomous Database Serverless, one of the two deployment choices offered by Oracle Autonomous Database. Autonomous Database Serverless delegates all operational decisions to Oracle, providing you with a completely ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/best-of-2024-autonomous-database-on-serverless-infrastructure",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S11_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-12-17T12:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Autonomous Database"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "31cd691ec96774d9",
+      "slug": "best-of-2024-developing-redwood-applications-3916c9",
+      "title": "Best of 2024: Developing Redwood Applications",
+      "dek": "Redwood is a state-of-the-art graphical interface that defines the look and feel of the new Oracle Cloud Redwood Applications. In this episode, hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Joe Greenwald, take a closer look at the intent behind the design and deve",
+      "url": "https://oracleuniversitypodcast.libsyn.com/best-of-2024-developing-redwood-applications",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S11_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-12-10T12:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "db9ca63c0d3e919f",
+      "slug": "implications-of-ai-and-privacy-b48b75",
+      "title": "Implications of AI and Privacy",
+      "dek": "In this episode, host Tyra Crockett Peirce speaks with Wei Jiang, an Oracle AI researcher and former university professor, about the privacy impacts of AI. --------------------------------------------------------- Episode Transcript: 00;00;09;03 - 00;00;35;11 Welcome to the Oracle Academy Tech Chat.",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/implications-of-ai-and-privacy",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP08.mp3?dest-id=3949203",
+      "publishedAt": "2024-12-03T13:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "c949b56fda6ba239",
+      "slug": "best-of-2024-preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio-79fc05",
+      "title": "Best of 2024: Preparing to Extend Oracle Fusion Apps Using Visual Builder Studio",
+      "dek": "What do you need to start customizing the next generation of Oracle Fusion Apps? How do you create new pages for business processes? What level of expertise do you require for this? Join Lois Houston and Nikita Abraham as they get answers to all these questions and more from Senior Principal OCI Ins",
+      "url": "https://oracleuniversitypodcast.libsyn.com/best-of-2024-preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S11_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-12-03T12:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "62f16a917242586a",
+      "slug": "best-of-2024-introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-al-9d327b",
+      "title": "Best of 2024: Introduction to Visual Builder Studio, Visual Builder Cloud Service, Stand-Alone, and JET",
+      "dek": "The next generation of front-end user interfaces for Oracle Fusion Applications is being built using Visual Builder Studio and Oracle JavaScript Extension Toolkit. However, many of the terms associated with these tools can be confusing. In this episode, Lois Houston and Nikita Abraham are joined by ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/best-of-2024-introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-alone-and-jet",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S11_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-11-26T12:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "198332c939d3ce7f",
+      "slug": "oracle-ai-in-fusion-cloud-human-capital-management-22576f",
+      "title": "Oracle AI in Fusion Cloud Human Capital Management",
+      "dek": "In this special episode of the Oracle University Podcast, Lois Houston and Nikita Abraham, along with Principal HCM Instructor Jeff Schuster, delve into the intersection of HCM and AI, exploring the practical applications and implications of this technology in human resources. Jeff shares his insigh",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-ai-in-fusion-cloud-human-capital-management",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-11-19T12:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "HCM",
+        "Oracle University",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "aeb0fadf9218b7fb",
+      "slug": "oracle-database-23ai-backup-and-recovery-part-2-a21298",
+      "title": "Oracle Database 23ai: Backup and Recovery - Part 2",
+      "dek": "Lois Houston and Nikita Abraham continue their deep dive into Oracle Database 23ai backup and recovery strategies with Senior Principal Database & MySQL Instructor Bill Millar. Picking up from Part 1, they explore critical concepts such as instance recovery, checkpoint processes, and the role of red",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-database-23ai-backup-and-recovery-part-2",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-11-12T12:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle Database",
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "25991950f723daf7",
+      "slug": "oracle-database-23ai-backup-and-recovery-part-1-cd90d3",
+      "title": "Oracle Database 23ai: Backup and Recovery - Part 1",
+      "dek": "In this two-part special, Lois Houston and Nikita Abraham delve into the critical topic of backup and recovery in Oracle Database 23ai. Together with Bill Millar, Senior Principal Database & MySQL Instructor, they discuss the role of database administrators, strategies for protecting data, and deali",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-database-23ai-backup-and-recovery-part-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-11-05T07:34:39.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle Database",
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "5f283d40ee2c8d74",
+      "slug": "oracle-ai-vector-search-part-2-9e86aa",
+      "title": "Oracle AI Vector Search: Part 2",
+      "dek": "This week, Lois Houston and Nikita Abraham continue their exploration of Oracle AI Vector Search with a deep dive into vector indexes and memory considerations. Senior Principal APEX and Apps Dev Instructor Brent Dayley breaks down what vector indexes are, how they enhance the efficiency of search q",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-ai-vector-search-part-2",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP14.mp3?dest-id=3870039",
+      "publishedAt": "2024-10-29T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "e3d5c537e6827700",
+      "slug": "oracle-ai-vector-search-part-1-412821",
+      "title": "Oracle AI Vector Search: Part 1",
+      "dek": "In this episode, Senior Principal APEX and Apps Dev Instructor Brent Dayley joins hosts Lois Houston and Nikita Abraham to discuss Oracle AI Vector Search. Brent provides an in-depth overview, shedding light on the brand-new vector data type, vector embeddings, and the vector workflow. Oracle Databa",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-ai-vector-search-part-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP13.mp3?dest-id=3870039",
+      "publishedAt": "2024-10-22T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "6ebfe903786774ca",
+      "slug": "automatic-transaction-quarantine-358e25",
+      "title": "Automatic Transaction Quarantine",
+      "dek": "In this episode, Lois Houston and Nikita Abraham explore the Automatic Transaction Quarantine feature with Senior Principal Database & MySQL Instructor, Bill Millar. Bill explains that this feature isolates transactions that could potentially cause system crashes, preventing them from impacting the ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/automatic-transaction-quarantine",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP12.mp3?dest-id=3870039",
+      "publishedAt": "2024-10-15T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "989efc7671c3b2e1",
+      "slug": "automatic-transaction-rollback-ec870d",
+      "title": "Automatic Transaction Rollback",
+      "dek": "Join Lois Houston and Nikita Abraham as they discuss the Automatic Transaction Rollback feature with Senior Principal Database & MySQL Instructor, Bill Millar. Bill explains that in the 23ai release, transactions blocking other transactions can now be automatically rolled back, depending on certain ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/automatic-transaction-rollback",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP11.mp3?dest-id=3870039",
+      "publishedAt": "2024-10-08T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "abbe9537156b2d45",
+      "slug": "the-importance-of-data-and-continuous-learning-111f6c",
+      "title": "The importance of data and continuous learning",
+      "dek": "In this episode host Orlaith Lawton speaks with Oracle Ace Director Finland Heli Helskyaho about the importance of data and continuous learning. --------------------------------------------------------- Episode Transcript: 00;00;09;03 - 00;00;37;15 Welcome to the Oracle Academy Tech Chat. This podca",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-importance-of-data-and-continuous-learning",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP03.mp3?dest-id=3949203",
+      "publishedAt": "2024-10-01T16:23:48.000Z",
+      "topic": "Training & Certification",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "0f1e6d2a0c5ba256",
+      "slug": "unrestricted-parallel-dmls-and-direct-loads-ac305f",
+      "title": "Unrestricted Parallel DMLs and Direct Loads",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham discuss new features in Oracle Database 23ai related to Data Manipulation Language (DML). They are joined by Senior Principal Database & MySQL Instructor, Bill Millar, who explains the concept of unrestricted parallel DMLs and their importance i",
+      "url": "https://oracleuniversitypodcast.libsyn.com/unrestricted-parallel-dmls-and-direct-loads",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP10.mp3?dest-id=3870039",
+      "publishedAt": "2024-10-01T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle Database",
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "e01703730db0d4b4",
+      "slug": "true-cache-6a960d",
+      "title": "True Cache",
+      "dek": "Hosts Lois Houston and Nikita Abraham are joined by Senior Principal Database & MySQL Instructor Bill Millar who explains Oracle's newest caching solution called True Cache. Available in Oracle Database 23ai, True Cache is an automatically managed, in-memory, read-only cache that improves applicatio",
+      "url": "https://oracleuniversitypodcast.libsyn.com/true-cache",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP9.mp3?dest-id=3870039",
+      "publishedAt": "2024-09-24T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle Database",
+        "MySQL"
+      ],
+      "priority": 36
     }
   ]
 }

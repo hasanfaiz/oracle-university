@@ -6,151 +6,457 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 05:57:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 22:05:01 GMT</lastBuildDate>
     
     <item>
-      <title>Oracle AI Database and multicloud moves: what architects should watch</title>
-      <link>https://oracle-university.com/stories/oracle-ai-database-multicloud-watch-sample/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-ai-database-multicloud-watch-sample/</guid>
-      <pubDate>Sat, 06 Jun 2026 08:00:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Preview card for the daily edition. Live refresh replaces this with current source-linked coverage from official Oracle feeds and external APIs.</description>
-      <source url="https://www.oracle.com/news/">Oracle Newsroom</source>
-    </item>
-    <item>
-      <title>Critical Patch Update desk: DBA and security teams need a clear watchlist</title>
-      <link>https://oracle-university.com/stories/oracle-critical-patch-update-dba-watch-sample/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-critical-patch-update-dba-watch-sample/</guid>
-      <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+      <title>Microsoft smashes record for biggest ever Patch Tuesday update</title>
+      <link>https://oracle-university.com/stories/microsoft-smashes-record-for-biggest-ever-patch-tuesday-update-7aa87a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/microsoft-smashes-record-for-biggest-ever-patch-tuesday-update-7aa87a/</guid>
+      <pubDate>Tue, 09 Jun 2026 20:50:10 GMT</pubDate>
       <category>Security</category>
-      <description>Security stories receive higher priority because patch windows, CVEs, and dependency changes affect production risk.</description>
-      <source url="https://www.oracle.com/security-alerts/">Oracle Security Alerts</source>
+      <description>Microsoft has issued patches for about 200 flaws in its latest monthly Patch Tuesday drop, blasting past a previous record high of almost 170 common vulnerabilities and exposures (CVEs) set in October 2025.</description>
+      <source url="https://www.computerweekly.com/news/366644117/Microsoft-smashes-record-for-biggest-ever-Patch-Tuesday-update">Computer Weekly</source>
     </item>
     <item>
-      <title>OCI networking update draws attention from cloud architects</title>
-      <link>https://oracle-university.com/stories/oci-networking-cloud-architecture-update-sample/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oci-networking-cloud-architecture-update-sample/</guid>
-      <pubDate>Thu, 04 Jun 2026 10:30:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Flipboard-inspired cards are built for quick scanning, source transparency, topic filtering, and fast click-through to the original report.</description>
-      <source url="https://blogs.oracle.com/cloud-infrastructure/">Oracle Cloud Infrastructure Blog</source>
-    </item>
-    <item>
-      <title>Certification learners look for updated Oracle Cloud learning paths</title>
-      <link>https://oracle-university.com/stories/oracle-certification-learning-paths-sample/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-certification-learning-paths-sample/</guid>
-      <pubDate>Wed, 03 Jun 2026 09:15:00 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>Training stories should link to official learning sources and clearly separate editorial context from official certification requirements.</description>
-      <source url="https://learn.oracle.com/">Oracle MyLearn</source>
-    </item>
-    <item>
-      <title>Java platform news: developers monitor release notes and performance changes</title>
-      <link>https://oracle-university.com/stories/java-platform-news-developer-watch-sample/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/java-platform-news-developer-watch-sample/</guid>
-      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
-      <category>Java &amp; MySQL</category>
-      <description>Developer coverage can sit beside cloud, database, earnings, and security stories in the same daily magazine layout.</description>
-      <source url="https://dev.java/">Java Developer Resources</source>
-    </item>
-    <item>
-      <title>MySQL operations brief: release notes, backup patterns, and cloud compatibility</title>
-      <link>https://oracle-university.com/stories/mysql-operations-release-notes-watch-sample/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/mysql-operations-release-notes-watch-sample/</guid>
-      <pubDate>Tue, 02 Jun 2026 08:40:00 GMT</pubDate>
-      <category>Java &amp; MySQL</category>
-      <description>The topic engine groups MySQL, Java, GraalVM, and developer ecosystem stories for a focused engineering feed.</description>
-      <source url="https://blogs.oracle.com/mysql/">Oracle MySQL Blog</source>
-    </item>
-    <item>
-      <title>NetSuite and cloud ERP: signals for finance and operations leaders</title>
-      <link>https://oracle-university.com/stories/netsuite-erp-growth-brief-sample/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/netsuite-erp-growth-brief-sample/</guid>
-      <pubDate>Mon, 01 Jun 2026 13:20:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Applications coverage includes NetSuite, Fusion Cloud ERP, HCM, SCM, CX, and Oracle Health so enterprise readers can follow product lines together.</description>
-      <source url="https://www.netsuite.com/portal/resource/overview.shtml">NetSuite Resources</source>
-    </item>
-    <item>
-      <title>Fusion Cloud HCM brief: agentic workflows, HR data, and rollout readiness</title>
-      <link>https://oracle-university.com/stories/fusion-cloud-hcm-agentic-apps-sample/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/fusion-cloud-hcm-agentic-apps-sample/</guid>
-      <pubDate>Mon, 01 Jun 2026 07:45:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Enterprise application stories are summarized as briefs with clear original-source links and related-topic navigation.</description>
-      <source url="https://www.oracle.com/human-capital-management/">Oracle HCM</source>
-    </item>
-    <item>
-      <title>ORCL investor watch: earnings, cloud revenue, and AI infrastructure demand</title>
-      <link>https://oracle-university.com/stories/orcl-earnings-investor-watch-sample/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/orcl-earnings-investor-watch-sample/</guid>
-      <pubDate>Sun, 31 May 2026 14:30:00 GMT</pubDate>
+      <title>Tesla (TSLA) Rolls Out Unsupervised Robotaxis in ​Austin Metro Area, Reuters Reports</title>
+      <link>https://oracle-university.com/stories/tesla-tsla-rolls-out-unsupervised-robotaxis-in-austin-metro-area-reuters-reports-7f0cd4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/tesla-tsla-rolls-out-unsupervised-robotaxis-in-austin-metro-area-reuters-reports-7f0cd4/</guid>
+      <pubDate>Tue, 09 Jun 2026 17:26:45 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Business stories are marked separately from product updates so readers can filter market coverage without losing technical news.</description>
-      <source url="https://investor.oracle.com/">Oracle Investor Relations</source>
+      <description>When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...</description>
+      <source url="https://www.insidermonkey.com/blog/tesla-tsla-rolls-out-unsupervised-robotaxis-in-%E2%80%8Baustin-metro-area-reuters-reports-1777988/">Insider Monkey</source>
     </item>
     <item>
-      <title>Oracle Health brief: interoperability, clinical workflows, and cloud modernization</title>
-      <link>https://oracle-university.com/stories/oracle-health-interoperability-sample/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-health-interoperability-sample/</guid>
-      <pubDate>Sat, 30 May 2026 11:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Healthcare technology coverage is grouped with applications but can be promoted when regulatory, interoperability, or patient-care issues matter.</description>
-      <source url="https://www.oracle.com/health/">Oracle Health</source>
-    </item>
-    <item>
-      <title>Exadata and database performance: tuning stories worth saving</title>
-      <link>https://oracle-university.com/stories/exadata-database-performance-sample/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/exadata-database-performance-sample/</guid>
-      <pubDate>Fri, 29 May 2026 10:30:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>The saved-story feature lets readers build a local reading list without needing accounts, cookies, or a backend database.</description>
-      <source url="https://www.oracle.com/database/technologies/exadata/">Oracle Database</source>
-    </item>
-    <item>
-      <title>Partner ecosystem brief: integrations, migrations, and customer wins</title>
-      <link>https://oracle-university.com/stories/oracle-partner-ecosystem-sample/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-partner-ecosystem-sample/</guid>
-      <pubDate>Thu, 28 May 2026 12:10:00 GMT</pubDate>
+      <title>Chainlink Powers FIFA World Cup 2026: LINK Holders Are Quietly Accumulating Before the World Notices</title>
+      <link>https://oracle-university.com/stories/chainlink-powers-fifa-world-cup-2026-link-holders-are-quietly-accumulating-before-the-wo-1a7e2a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/chainlink-powers-fifa-world-cup-2026-link-holders-are-quietly-accumulating-before-the-wo-1a7e2a/</guid>
+      <pubDate>Tue, 09 Jun 2026 15:34:28 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>External API coverage helps fill the magazine with analyst, partner, and press coverage beyond official Oracle announcements.</description>
-      <source url="https://www.oracle.com/partnernetwork/">Partner Ecosystem</source>
+      <description>Kickoff for the FIFA World Cup 2026 is almost here. As fans prepare for the biggest tournament in football history, Chainlink has secured a role behind the scenes through a partnership that could place its technology in front of a truly global audience.</description>
+      <source url="https://captainaltcoin.com/chainlink-powers-fifa-world-cup-2026-link-holders-are-quietly-accumulating-before-the-world-notices/">CaptainAltcoin</source>
     </item>
     <item>
-      <title>Cloud regions and data residency: why location stories matter</title>
-      <link>https://oracle-university.com/stories/oci-cloud-regions-data-residency-sample/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oci-cloud-regions-data-residency-sample/</guid>
-      <pubDate>Wed, 27 May 2026 09:00:00 GMT</pubDate>
+      <title>$3.7 Trillion: The Largest Wave of AI IPOs in History Arrives, While Peak Signal for US Stock Market Lights Up</title>
+      <link>https://oracle-university.com/stories/3-7-trillion-the-largest-wave-of-ai-ipos-in-history-arrives-while-peak-signal-for-us-sto-0473dc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/3-7-trillion-the-largest-wave-of-ai-ipos-in-history-arrives-while-peak-signal-for-us-sto-0473dc/</guid>
+      <pubDate>Tue, 09 Jun 2026 15:22:27 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Recently, the global capital market has been waiting for three bells to ring. SpaceX, Anthropic, and OpenAI are successively rushing towards IPOs. If these three companies go public successfully, they will jointly create the largest round of financing wave in the history of technology: The combined </description>
+      <source url="https://eu.36kr.com/en/p/3845801235856264">36Kr</source>
+    </item>
+    <item>
+      <title>Crusoe’s Contracted AI Infrastructure Capacity Approaches 5 Gigawatts Across Data Centers and Cloud</title>
+      <link>https://oracle-university.com/stories/crusoe-s-contracted-ai-infrastructure-capacity-approaches-5-gigawatts-across-data-center-ce5e64/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/crusoe-s-contracted-ai-infrastructure-capacity-approaches-5-gigawatts-across-data-center-ce5e64/</guid>
+      <pubDate>Tue, 09 Jun 2026 15:07:15 GMT</pubDate>
       <category>Oracle Cloud</category>
-      <description>Regional cloud updates influence latency, compliance, procurement, and disaster recovery planning for enterprise teams.</description>
-      <source url="https://www.oracle.com/cloud/regions/">Oracle Cloud Regions</source>
+      <description>DENVER, June 09, 2026 (GLOBE NEWSWIRE) -- Crusoe, the AI factory company, today announced the company has contracted 4.9 gigawatts (GW) of AI infrastructure spanning its data center projects and capacity for Crusoe Cloud, its AI cloud platform.</description>
+      <source url="https://www.manilatimes.net/2026/06/09/tmt-newswire/globenewswire/crusoes-contracted-ai-infrastructure-capacity-approaches-5-gigawatts-across-data-centers-and-cloud/2361972">The Manila Times</source>
     </item>
     <item>
-      <title>GraalVM developer brief: runtime performance and cloud-native packaging</title>
-      <link>https://oracle-university.com/stories/graalvm-developer-performance-sample/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/graalvm-developer-performance-sample/</guid>
-      <pubDate>Tue, 26 May 2026 15:30:00 GMT</pubDate>
-      <category>Java &amp; MySQL</category>
-      <description>Developer stories receive topic tags that make them discoverable through search, topic pages, RSS, and structured site navigation.</description>
-      <source url="https://www.graalvm.org/">GraalVM</source>
+      <title>Unrealized Potential of Microsoft’s (MSFT) Role in Advancing Agentic AI</title>
+      <link>https://oracle-university.com/stories/unrealized-potential-of-microsoft-s-msft-role-in-advancing-agentic-ai-73ff89/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/unrealized-potential-of-microsoft-s-msft-role-in-advancing-agentic-ai-73ff89/</guid>
+      <pubDate>Tue, 09 Jun 2026 15:01:24 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Sands Capital Management, LLC released its Q1 2026 investor letter for its “Select Growth Strategy”. A copy of the letter is available to download here. Select Growth mainly targets leading U.S. businesses, driving positive structural changes.</description>
+      <source url="https://www.insidermonkey.com/blog/unrealized-potential-of-microsofts-msft-role-in-advancing-agentic-ai-1777903/">Insider Monkey</source>
     </item>
     <item>
-      <title>Autonomous Database and AI operations: what enterprise teams evaluate</title>
-      <link>https://oracle-university.com/stories/autonomous-database-ai-ops-sample/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/autonomous-database-ai-ops-sample/</guid>
-      <pubDate>Mon, 25 May 2026 10:15:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Database coverage should help architects understand relevance without copying the full original source content.</description>
-      <source url="https://www.oracle.com/autonomous-database/">Oracle Autonomous Database</source>
+      <title>Gartner names Oracle’s AI recruiting cloud a Leader for hiring</title>
+      <link>https://oracle-university.com/stories/gartner-names-oracle-s-ai-recruiting-cloud-a-leader-for-hiring-f2e0ba/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/gartner-names-oracle-s-ai-recruiting-cloud-a-leader-for-hiring-f2e0ba/</guid>
+      <pubDate>Tue, 09 Jun 2026 15:00:00 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Oracle (NYSE:ORCL) was named a Leader in the 2026 Gartner® Magic QuadrantTM for Talent Acquisition (Recruiting) Suites, based on Oracle Fusion Cloud Recruiting and Recruiting Booster within Oracle Fusion Cloud HCM. Oracle also ranked highly across multiple Gartner Critical Capabilities use cases, hi</description>
+      <source url="https://www.stocktitan.net/news/ORCL/oracle-named-a-leader-in-2026-gartner-magic-quadrant-tm-for-talent-s0b5vcjp73os.html">Stock Titan</source>
     </item>
     <item>
-      <title>How this site turns automated news into a useful daily reading experience</title>
-      <link>https://oracle-university.com/stories/oracle-ecosystem-analysis-format-sample/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-ecosystem-analysis-format-sample/</guid>
-      <pubDate>Sun, 24 May 2026 08:00:00 GMT</pubDate>
+      <title>Oracle Named a Leader in 2026 Gartner® Magic QuadrantTM for Talent Acquisition (Recruiting) Suites</title>
+      <link>https://oracle-university.com/stories/oracle-named-a-leader-in-2026-gartner-magic-quadranttm-for-talent-acquisition-recruiting-6f7093/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-named-a-leader-in-2026-gartner-magic-quadranttm-for-talent-acquisition-recruiting-6f7093/</guid>
+      <pubDate>Tue, 09 Jun 2026 15:00:00 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>AI-powered recruiting capabilities within Oracle Fusion Cloud HCM help organizations improve candidate experiences, accelerate hiring, and support skills-based talent acquisition</description>
+      <source url="https://www.prnewswire.com/news-releases/oracle-named-a-leader-in-2026-gartner-magic-quadrant-for-talent-acquisition-recruiting-suites-302794670.html">PR Newswire</source>
+    </item>
+    <item>
+      <title>Oracle’s Trillion-Dollar Ghostwriter</title>
+      <link>https://oracle-university.com/stories/oracle-s-trillion-dollar-ghostwriter-8b580c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-s-trillion-dollar-ghostwriter-8b580c/</guid>
+      <pubDate>Tue, 09 Jun 2026 12:51:50 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>The company’s stock surge had a secret ingredient beyond AI hype: a clever way to get someone else to pay for it. If you blinked this spring, you missed it. While the S&amp;P 500 ambled to a respectable 9.5% gain, Oracle (ORCL) quietly bolted ahead by 42.3%.</description>
+      <source url="https://www.trefis.com/stock/orcl/articles/602059/oracles-trillion-dollar-ghostwriter/2026-06-09">Trefis</source>
+    </item>
+    <item>
+      <title>Oracle Sets the Date for its Fourth Quarter Fiscal Year 2026 Earnings Announcement</title>
+      <link>https://oracle-university.com/stories/oracle-sets-the-date-for-its-fourth-quarter-fiscal-year-2026-earnings-announcement-3a2dd3/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-sets-the-date-for-its-fourth-quarter-fiscal-year-2026-earnings-announcement-3a2dd3/</guid>
+      <pubDate>Mon, 01 Jun 2026 20:01:00 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description></description>
+      <source url="https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-Fourth-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
+    </item>
+    <item>
+      <title>Oracle Sets the Date for its Third Quarter Fiscal Year 2026 Earnings Announcement</title>
+      <link>https://oracle-university.com/stories/oracle-sets-the-date-for-its-third-quarter-fiscal-year-2026-earnings-announcement-e65993/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-sets-the-date-for-its-third-quarter-fiscal-year-2026-earnings-announcement-e65993/</guid>
+      <pubDate>Tue, 03 Mar 2026 21:00:00 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description></description>
+      <source url="https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-Third-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
+    </item>
+    <item>
+      <title>Oracle Sets the Date for its Second Quarter Fiscal Year 2026 Earnings Announcement</title>
+      <link>https://oracle-university.com/stories/oracle-sets-the-date-for-its-second-quarter-fiscal-year-2026-earnings-announcement-16342c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-sets-the-date-for-its-second-quarter-fiscal-year-2026-earnings-announcement-16342c/</guid>
+      <pubDate>Tue, 02 Dec 2025 13:00:00 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description></description>
+      <source url="https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-Second-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
+    </item>
+    <item>
+      <title>Oracle Corporation Announces Promotion of Clay Magouyrk and Mike Sicilia to CEOs; Safra Catz Appointed Executive Vice Chair of the Board of Directors</title>
+      <link>https://oracle-university.com/stories/oracle-corporation-announces-promotion-of-clay-magouyrk-and-mike-sicilia-to-ceos-safra-c-ac7ba4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-announces-promotion-of-clay-magouyrk-and-mike-sicilia-to-ceos-safra-c-ac7ba4/</guid>
+      <pubDate>Mon, 22 Sep 2025 12:00:00 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>The system fetches public feeds server-side, deduplicates URLs, classifies stories, generates static pages, and preserves original source links.</description>
-      <source url="https://oracle-university.com/about/">Editorial Desk</source>
+      <description></description>
+      <source url="https://investor.oracle.com/investor-news/news-details/2025/Oracle-Corporation-Announces-Promotion-of-Clay-Magouyrk-and-Mike-Sicilia-to-CEOs-Safra-Catz-Appointed-Executive-Vice-Chair-of-the-Board-of-Directors/default.aspx">Oracle Investor Relations News</source>
+    </item>
+    <item>
+      <title>Ellison’s Net Worth Down Nearly $50 Billion In A Week</title>
+      <link>https://oracle-university.com/stories/ellison-s-net-worth-down-nearly-50-billion-in-a-week-972217/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ellison-s-net-worth-down-nearly-50-billion-in-a-week-972217/</guid>
+      <pubDate>Tue, 09 Jun 2026 17:53:54 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Topline Larry Ellison’s fortune declined by more than $10 billion on Tuesday, dropping him behind Jeff Bezos to the No. 5 spot among the wealthiest as Oracle shares stumbled amid another broad decline for tech stocks. The Oracle co-founder was recently ranked the world’s second-richest person.</description>
+      <source url="https://www.forbes.com/sites/tylerroush/2026/06/09/larry-ellisons-net-worth-plunges-10-billion-falls-behind-bezos-to-fifth-richest/">Forbes</source>
+    </item>
+    <item>
+      <title>Oracle Stock Analysis: Bullish Bias Meets Earnings Week Test</title>
+      <link>https://oracle-university.com/stories/oracle-stock-analysis-bullish-bias-meets-earnings-week-test-e49da5/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-stock-analysis-bullish-bias-meets-earnings-week-test-e49da5/</guid>
+      <pubDate>Tue, 09 Jun 2026 10:22:33 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Oracle stock enters earnings week at a critical juncture. The daily trend remains bullish, but hourly momentum has broken down, with the stock closing June 8 near $211.82. Short-term sellers now control the tape despite the intact daily structure. The next move will be catalytic, not technical.</description>
+      <source url="https://en.cryptonomist.ch/2026/06/09/oracle-stock-wall-street-sees-330-but-sellers-control-the-tape/">The Cryptonomist</source>
+    </item>
+    <item>
+      <title>AI Is Running Out of Public Data: IC3 Survey Shows Crypto’s Role in Private-Web AI</title>
+      <link>https://oracle-university.com/stories/ai-is-running-out-of-public-data-ic3-survey-shows-crypto-s-role-in-private-web-ai-b4bca8/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-is-running-out-of-public-data-ic3-survey-shows-crypto-s-role-in-private-web-ai-b4bca8/</guid>
+      <pubDate>Tue, 09 Jun 2026 10:22:20 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Crypto tools may address AI’s shortage of high-quality public training data through secure access. Researchers from over a dozen institutions collaborated on the IC3 survey to explore crypto-AI integration. Combining crypto and AI can create secure and autonomous systems with far-reaching financial </description>
+      <source url="https://www.cryptotimes.io/2026/06/09/ai-is-running-out-of-public-data-ic3-survey-shows-cryptos-role-in-private-web-ai/">The Crypto Times</source>
+    </item>
+    <item>
+      <title>Cohesity’s COO/CFO: Why enterprise AI resilience matters</title>
+      <link>https://oracle-university.com/stories/cohesity-s-coo-cfo-why-enterprise-ai-resilience-matters-4c2af0/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cohesity-s-coo-cfo-why-enterprise-ai-resilience-matters-4c2af0/</guid>
+      <pubDate>Tue, 09 Jun 2026 09:58:29 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Cohesity COO/CFO Eric Brown discusses agentic AI, enterprise AI resilience, governance, and the role of power users in adoption. The post Cohesity’s COO/CFO: Why enterprise AI resilience matters appeared first on Frontier Enterprise .</description>
+      <source url="https://www.frontier-enterprise.com/cohesitys-coo-cfo-why-enterprise-ai-resilience-matters/">Frontier Enterprise</source>
+    </item>
+    <item>
+      <title>Used Windows Server Licenses: A Legal, Low-Risk Way for Businesses to Cut IT Costs</title>
+      <link>https://oracle-university.com/stories/used-windows-server-licenses-a-legal-low-risk-way-for-businesses-to-cut-it-costs-cfc711/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/used-windows-server-licenses-a-legal-low-risk-way-for-businesses-to-cut-it-costs-cfc711/</guid>
+      <pubDate>Tue, 09 Jun 2026 09:51:15 GMT</pubDate>
+      <category>Security</category>
+      <description>Windows Server is essential infrastructure for most IT departments – and one of the most expensive items in the budget. What many businesses overlook: they don’t always have to pay full retail. A legitimate, well-established market for used Windows Server licenses lets companies buy the identical so</description>
+      <source url="https://windowsreport.com/used-windows-server-licenses/">Onmsft</source>
+    </item>
+    <item>
+      <title>The One Hyperscaler Signal That Will Make or Break ARTY in 2026</title>
+      <link>https://oracle-university.com/stories/the-one-hyperscaler-signal-that-will-make-or-break-arty-in-2026-855274/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-one-hyperscaler-signal-that-will-make-or-break-arty-in-2026-855274/</guid>
+      <pubDate>Tue, 09 Jun 2026 09:11:17 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The ARTY ETF has nearly doubled in the past year, with shares up 102% over the trailing twelve months and 55% year to date through late May. That run reflects a portfolio built almost entirely around the AI infrastructure stack: GPUs, custom silicon, high-bandwidth memory, optics, cloud capacity, an</description>
+      <source url="https://247wallst.com/investing/2026/06/09/the-one-hyperscaler-signal-that-will-make-or-break-arty-in-2026/">24/7 Wall St</source>
+    </item>
+    <item>
+      <title>Promising Blockchain Stocks Worth Watching – June 8th</title>
+      <link>https://oracle-university.com/stories/promising-blockchain-stocks-worth-watching-june-8th-803e01/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/promising-blockchain-stocks-worth-watching-june-8th-803e01/</guid>
+      <pubDate>Tue, 09 Jun 2026 09:07:10 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Digi Power X, Globant, Mercurity Fintech, and Earlyworks are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. “Blockchain stocks” are shares of publicly traded companies that are direc</description>
+      <source url="https://www.themarketsdaily.com/2026/06/09/promising-blockchain-stocks-worth-watching-june-8th.html">Markets Daily</source>
+    </item>
+    <item>
+      <title>Wall Street Is Rushing to Fund the AI Bonanza in Every Conceivable Way</title>
+      <link>https://oracle-university.com/stories/wall-street-is-rushing-to-fund-the-ai-bonanza-in-every-conceivable-way-b7ce4b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/wall-street-is-rushing-to-fund-the-ai-bonanza-in-every-conceivable-way-b7ce4b/</guid>
+      <pubDate>Tue, 09 Jun 2026 09:01:38 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>From giant debt deals to IPOs, tech companies keep raking in investor cash.</description>
+      <source url="https://www.hindustantimes.com/business/wall-street-is-rushing-to-fund-the-ai-bonanza-in-every-conceivable-way-101780993687929.html">Hindustan Times</source>
+    </item>
+    <item>
+      <title>DA Davidson Says NVIDIA Corp. (NVDA)’s Profit Margins Relatively Safe Through 2030</title>
+      <link>https://oracle-university.com/stories/da-davidson-says-nvidia-corp-nvda-s-profit-margins-relatively-safe-through-2030-5f46c2/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/da-davidson-says-nvidia-corp-nvda-s-profit-margins-relatively-safe-through-2030-5f46c2/</guid>
+      <pubDate>Tue, 09 Jun 2026 08:40:35 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>NVIDIA Corp. (NASDAQ:NVDA) is one of the 10 Best AI Stocks to Buy in June. On June 5, DA Davidson’s head of technology research, Gil Luria, said Nvidia’s profit margins are relatively safe through 2030 due to the limited chip alternatives for hyperscalers in the market, according to a report by Bloo</description>
+      <source url="https://www.insidermonkey.com/blog/da-davidson-says-nvidia-corp-nvdas-profit-margins-relatively-safe-through-2030-1777754/">Insider Trading</source>
+    </item>
+    <item>
+      <title>SpaceX IPO Timing Raises Stakes for US Stock Market’s Long Rally</title>
+      <link>https://oracle-university.com/stories/spacex-ipo-timing-raises-stakes-for-us-stock-market-s-long-rally-3d3ec8/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/spacex-ipo-timing-raises-stakes-for-us-stock-market-s-long-rally-3d3ec8/</guid>
+      <pubDate>Tue, 09 Jun 2026 08:35:00 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Market Analysis by covering: Nasdaq 100, S&amp;P 500, Dow Jones Industrial Average, Oracle Corporation. Read &#39;s Market Analysis on Investing.com</description>
+      <source url="https://www.investing.com/analysis/spacex-ipo-timing-raises-stakes-for-us-stock-markets-long-rally-200681773">Investing Us</source>
+    </item>
+    <item>
+      <title>Oracle Q4 Preview: ORCL&#39;s Low Value Score Signals Overpricing, Yet Guggenheim Sees 88.83% Upside</title>
+      <link>https://oracle-university.com/stories/oracle-q4-preview-orcl-s-low-value-score-signals-overpricing-yet-guggenheim-sees-88-83-u-340aab/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-q4-preview-orcl-s-low-value-score-signals-overpricing-yet-guggenheim-sees-88-83-u-340aab/</guid>
+      <pubDate>Tue, 09 Jun 2026 08:11:11 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>As Oracle Corp. (NYSE: ORCL ) approaches its fourth-quarter earnings report on June 10, the software giant presents a dichotomy: quantitative algorithms flag the stock as overpriced due to a plunging value score, yet Wall Street analysts at Guggenheim maintain massive conviction, projecting an 88.83</description>
+      <source url="https://www.benzinga.com/markets/earnings/26/06/53078879/oracle-q4-preview-orcls-low-value-score-signals-overpricing-yet-guggenheim-sees-88-83-upside">Benzinga</source>
+    </item>
+    <item>
+      <title>BofA raises Oracle stock price target to $240 ahead of earnings</title>
+      <link>https://oracle-university.com/stories/bofa-raises-oracle-stock-price-target-to-240-ahead-of-earnings-5c9651/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/bofa-raises-oracle-stock-price-target-to-240-ahead-of-earnings-5c9651/</guid>
+      <pubDate>Tue, 09 Jun 2026 07:52:07 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>BofA raises Oracle stock price target to $240 ahead of earnings</description>
+      <source url="https://au.investing.com/news/stock-market-news/bofa-raises-oracle-stock-price-target-to-240-ahead-of-earnings-93CH-4477418">Investing Australia</source>
+    </item>
+    <item>
+      <title>Oracle 2026 Revenue Seen Rising 17% On Cloud Surge</title>
+      <link>https://oracle-university.com/stories/oracle-2026-revenue-seen-rising-17-on-cloud-surge-93ae7a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-2026-revenue-seen-rising-17-on-cloud-surge-93ae7a/</guid>
+      <pubDate>Tue, 09 Jun 2026 06:40:00 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Oracle Corp. is set to report Q4 and full-year fiscal 2026 earnings on Wednesday, June 10, with analysts expecting another strong quarter of cloud-led growth.</description>
+      <source url="https://seekingalpha.com/article/4913142-oracle-2026-revenue-seen-rising-17-percent-on-cloud-surge">Seeking Alpha</source>
+    </item>
+    <item>
+      <title>Can Oracle Deliver Another AI-Fueled Quarter? Analysts Believe The Setup Looks ‘Favorable’</title>
+      <link>https://oracle-university.com/stories/can-oracle-deliver-another-ai-fueled-quarter-analysts-believe-the-setup-looks-favorable-8a504c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/can-oracle-deliver-another-ai-fueled-quarter-analysts-believe-the-setup-looks-favorable-8a504c/</guid>
+      <pubDate>Tue, 09 Jun 2026 05:35:01 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Oracle is slated to report its fourth-quarter results after the markets close on Wednesday.</description>
+      <source url="https://newsable.asianetnews.com/markets/can-oracle-deliver-another-ai-fueled-quarter-analysts-believe-the-setup-looks-favorable-articleshow-txicx10">Asianet Newsable</source>
+    </item>
+    <item>
+      <title>Oracle Reports on June 10, and Its Cloud Backlog Could Be the Next Big Test for the AI Infrastructure Trade</title>
+      <link>https://oracle-university.com/stories/oracle-reports-on-june-10-and-its-cloud-backlog-could-be-the-next-big-test-for-the-ai-in-0a99cc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-reports-on-june-10-and-its-cloud-backlog-could-be-the-next-big-test-for-the-ai-in-0a99cc/</guid>
+      <pubDate>Tue, 09 Jun 2026 03:56:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The cloud company&#39;s backlog has become a key gauge of AI demand.</description>
+      <source url="https://www.fool.com/investing/2026/06/08/oracle-reports-on-june-10-and-its-cloud-backlog-co/">Fool</source>
+    </item>
+    <item>
+      <title>Broadcom (AVGO) – Among Billionaire Ken Fisher’s Top 11 Dividend Stock Picks</title>
+      <link>https://oracle-university.com/stories/broadcom-avgo-among-billionaire-ken-fisher-s-top-11-dividend-stock-picks-aec01c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/broadcom-avgo-among-billionaire-ken-fisher-s-top-11-dividend-stock-picks-aec01c/</guid>
+      <pubDate>Tue, 09 Jun 2026 03:31:23 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...</description>
+      <source url="https://www.insidermonkey.com/blog/broadcom-avgo-among-billionaire-ken-fishers-top-11-dividend-stock-picks-1777585/">Insider Monkey</source>
+    </item>
+    <item>
+      <title>BlackForce unveils AI-driven human capital vision, targets future workforce economy</title>
+      <link>https://oracle-university.com/stories/blackforce-unveils-ai-driven-human-capital-vision-targets-future-workforce-economy-ca1a97/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/blackforce-unveils-ai-driven-human-capital-vision-targets-future-workforce-economy-ca1a97/</guid>
+      <pubDate>Tue, 09 Jun 2026 03:09:26 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>BlackForce has unveiled an AI-driven strategy to build financial infrastructure for human capital, connecting skills, financing and employment opportunities in the future workforce economy.</description>
+      <source url="https://guardian.ng/business-services/blackforce-unveils-ai-driven-human-capital-vision-targets-future-workforce-economy/">The Guardian</source>
+    </item>
+    <item>
+      <title>Oracle (ORCL) Q2 Earnings Report Preview: What To Look For</title>
+      <link>https://oracle-university.com/stories/oracle-orcl-q2-earnings-report-preview-what-to-look-for-76842d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-orcl-q2-earnings-report-preview-what-to-look-for-76842d/</guid>
+      <pubDate>Tue, 09 Jun 2026 03:05:37 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Enterprise software giant Oracle (NYSE:ORCL) will be announcing earnings results this Wednesday after market hours. Here’s what to expect.</description>
+      <source url="https://www.theglobeandmail.com/investing/markets/stocks/ORCL/pressreleases/2368561/oracle-orcl-q2-earnings-report-preview-what-to-look-for/">The Globe and Mail</source>
+    </item>
+    <item>
+      <title>How Much Upside Can ORCL Stock Deliver?</title>
+      <link>https://oracle-university.com/stories/how-much-upside-can-orcl-stock-deliver-7a4d57/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/how-much-upside-can-orcl-stock-deliver-7a4d57/</guid>
+      <pubDate>Tue, 09 Jun 2026 14:45:51 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>At $211.82, Oracle (ORCL) looks set up for roughly 34% of upside over the next three years under a conservative scenario. Not a moonshot, but enough to matter if the math holds. Revenue compounding does all the work; the multiple is asked to do nothing.</description>
+      <source url="https://www.trefis.com/stock/orcl/articles/602073/how-much-upside-can-orcl-stocks-growth-deliver/2026-06-09">Trefis</source>
+    </item>
+    <item>
+      <title>Encore: Networking &amp; Security Essentials</title>
+      <link>https://oracle-university.com/stories/encore-networking-security-essentials-143705/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/encore-networking-security-essentials-143705/</guid>
+      <pubDate>Fri, 05 Jun 2026 17:38:46 GMT</pubDate>
+      <category>Security</category>
+      <description>How do all your devices connect and stay safe in the cloud? In this episode, Lois Houston and Nikita Abraham talk with OCI instructors about the basics of how networks work and the simple steps that help protect them. You&#39;ll learn how information gets from one place to another, why tools like switch</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/encore-networking-security-essentials">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Where is the Life Sciences Supply Chain Heading? — DataDrivenInvestor</title>
+      <link>https://oracle-university.com/stories/where-is-the-life-sciences-supply-chain-heading-datadriveninvestor-07c78b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/where-is-the-life-sciences-supply-chain-heading-datadriveninvestor-07c78b/</guid>
+      <pubDate>Mon, 08 Jun 2026 23:59:26 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Practitioner-written analysis on DataDrivenInvestor.</description>
+      <source url="https://www.datadriveninvestor.com/articles/where-is-the-life-sciences-supply-chain-heading">Datadriveninvestor</source>
+    </item>
+    <item>
+      <title>Encore: Inside Cloud Networking</title>
+      <link>https://oracle-university.com/stories/encore-inside-cloud-networking-bdb221/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/encore-inside-cloud-networking-bdb221/</guid>
+      <pubDate>Tue, 26 May 2026 11:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>In this episode, hosts Lois Houston and Nikita Abraham unpack the basics of cloud networking and the Domain Name System (DNS). You&#39;ll learn how local and virtual networks connect our devices, and how DNS seamlessly translates familiar names like oracle.com into addresses computers understand. Cloud </description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/encore-inside-cloud-networking">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Vector AI Supporting Features: What&#39;s New in Oracle Exadata and GoldenGate</title>
+      <link>https://oracle-university.com/stories/vector-ai-supporting-features-what-s-new-in-oracle-exadata-and-goldengate-c72e11/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/vector-ai-supporting-features-what-s-new-in-oracle-exadata-and-goldengate-c72e11/</guid>
+      <pubDate>Wed, 22 Apr 2026 16:29:45 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Hosts Lois Houston and Nikita Abraham are joined by Brent Dayley, Senior Principal APEX and Apps Dev Instructor, to explore the latest vector AI supporting features in Oracle Exadata and GoldenGate 23ai. The conversation begins with an overview of Exadata&#39;s capabilities and then shifts to how Golden</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/vector-ai-supporting-features-whats-new-in-oracle-exadata-and-goldengate">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>RAG with Oracle AI Vector Search and OCI Generative AI: Python and PL/SQL Approaches</title>
+      <link>https://oracle-university.com/stories/rag-with-oracle-ai-vector-search-and-oci-generative-ai-python-and-pl-sql-approaches-ff14f5/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/rag-with-oracle-ai-vector-search-and-oci-generative-ai-python-and-pl-sql-approaches-ff14f5/</guid>
+      <pubDate>Tue, 14 Apr 2026 11:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham are joined by Brent Dayley, Senior Principal APEX &amp; Apps Dev Instructor. Together, they explore how to implement Retrieval Augmented Generation (RAG) using Oracle AI Vector Search and OCI Generative AI. Brent wal</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/rag-with-oracle-ai-vector-search-and-oci-generative-ai-python-and-plsql-approaches">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Retrieval Augmented Generation (RAG)</title>
+      <link>https://oracle-university.com/stories/retrieval-augmented-generation-rag-ebb55a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/retrieval-augmented-generation-rag-ebb55a/</guid>
+      <pubDate>Tue, 07 Apr 2026 11:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Join hosts Lois Houston and Nikita Abraham as they explore one of the most exciting innovations in enterprise AI: Retrieval Augmented Generation (RAG) powered by Oracle AI Vector Search. In this episode, Senior Principal APEX &amp; Apps Dev Instructor Brent Dayley walks through the fundamentals of RAG, </description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/retrieval-augmented-generation-rag">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Inside Oracle AI Vector Search: Indexes, Metrics, and Best Practices</title>
+      <link>https://oracle-university.com/stories/inside-oracle-ai-vector-search-indexes-metrics-and-best-practices-a2db71/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/inside-oracle-ai-vector-search-indexes-metrics-and-best-practices-a2db71/</guid>
+      <pubDate>Tue, 31 Mar 2026 11:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Go deeper into Oracle AI Vector Search as hosts Lois Houston and Nikita Abraham, along with Senior Principal APEX &amp; Apps Dev Instructor Brent Dayley, break down how vector indexes, memory requirements, and similarity metrics make fast, powerful semantic search possible in Oracle Database 23ai. Learn</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/inside-oracle-ai-vector-search-indexes-metrics-and-best-practices">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Introduction to Oracle AI Vector Search</title>
+      <link>https://oracle-university.com/stories/introduction-to-oracle-ai-vector-search-6c4903/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/introduction-to-oracle-ai-vector-search-6c4903/</guid>
+      <pubDate>Tue, 24 Mar 2026 11:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Explore Oracle AI Vector Search and learn how to find data by meaning, not just keywords, using powerful vector embeddings within Oracle Database 23ai. In this episode, hosts Lois Houston and Nikita Abraham, along with Senior Principal APEX &amp; Apps Dev Instructor Brent Dayley, break down how similari</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/introduction-to-oracle-ai-vector-search">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Exploring the Oracle Analytics AI Assistant</title>
+      <link>https://oracle-university.com/stories/exploring-the-oracle-analytics-ai-assistant-7af5f6/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/exploring-the-oracle-analytics-ai-assistant-7af5f6/</guid>
+      <pubDate>Tue, 17 Mar 2026 16:37:04 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Join hosts Lois Houston and Nikita Abraham for a special episode of the Oracle University Podcast as they explore the Oracle Analytics AI Assistant. In this episode, you&#39;ll discover how Oracle&#39;s AI-powered conversational tool empowers users of all backgrounds to interact with business data using sim</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/exploring-the-oracle-analytics-ai-assistant">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Learn about the latest Oracle Academy workshops on embedding generative AI in Apex applications and using AI to create SQL in Apex</title>
+      <link>https://oracle-university.com/stories/learn-about-the-latest-oracle-academy-workshops-on-embedding-generative-ai-in-apex-appli-2edc5e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/learn-about-the-latest-oracle-academy-workshops-on-embedding-generative-ai-in-apex-appli-2edc5e/</guid>
+      <pubDate>Tue, 17 Mar 2026 16:23:07 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Willie Mcrae, Oracle Academy Principal Instructor, joins us to discuss Oracle Academy AI resources for educators and their students, including two new workshops on embedding generative AI in Oracle APEX applications and using AI to create SQL in APEX.</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/learn-about-the-latest-oracle-academy-workshops-on-embedding-generative-ai-in-apex-applications-and-using-ai-to-create-sql-in-apex">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Oracle Database@AWS: Monitoring, Logging, and Best Practices</title>
+      <link>https://oracle-university.com/stories/oracle-database-aws-monitoring-logging-and-best-practices-276d93/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-database-aws-monitoring-logging-and-best-practices-276d93/</guid>
+      <pubDate>Tue, 10 Mar 2026 11:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Running Oracle Database@AWS is most effective when you have full visibility and control over your environment. In this episode, hosts Lois Houston and Nikita Abraham are joined by Rashmi Panda, who explains how to monitor performance, track key metrics, and catch issues before they become problems. </description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-databaseaws-monitoring-logging-and-best-practices">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>How Oracle Database@AWS Stays Secure and Available</title>
+      <link>https://oracle-university.com/stories/how-oracle-database-aws-stays-secure-and-available-5e2d3c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/how-oracle-database-aws-stays-secure-and-available-5e2d3c/</guid>
+      <pubDate>Tue, 03 Mar 2026 12:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>When your business runs on data, even a few seconds of downtime can hurt. That&#39;s why this episode focuses on what keeps Oracle Database@AWS running when real-world problems strike. Hosts Lois Houston and Nikita Abraham are joined by Senior Principal Database Instructor Rashmi Panda, who takes us ins</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/how-oracle-databaseaws-stays-secure-and-available">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Security and Migration with Oracle Database@AWS</title>
+      <link>https://oracle-university.com/stories/security-and-migration-with-oracle-database-aws-7d3c25/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/security-and-migration-with-oracle-database-aws-7d3c25/</guid>
+      <pubDate>Tue, 24 Feb 2026 12:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>In this episode, hosts Lois Houston and Nikita Abraham are joined by special guests Samvit Mishra and Rashmi Panda for an in-depth discussion on security and migration with Oracle Database@AWS. Samvit shares essential security best practices, compliance guidance, and data protection mechanisms to sa</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/security-and-migration-with-oracle-databaseaws">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Getting Started with Oracle Database@AWS</title>
+      <link>https://oracle-university.com/stories/getting-started-with-oracle-database-aws-b1d4e8/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/getting-started-with-oracle-database-aws-b1d4e8/</guid>
+      <pubDate>Tue, 17 Feb 2026 12:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>If you&#39;ve ever wondered how Oracle Database really works inside AWS, this episode will finally turn the lights on. Join Senior Principal OCI Instructor Susan Jang as she explains the two database services available (Exadata Database Service and Autonomous Database), how Oracle and AWS share responsi</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/getting-started-with-oracle-databaseaws">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>What is Oracle Database@AWS?</title>
+      <link>https://oracle-university.com/stories/what-is-oracle-database-aws-fc2509/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/what-is-oracle-database-aws-fc2509/</guid>
+      <pubDate>Tue, 10 Feb 2026 12:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>In this episode, hosts Lois Houston and Nikita Abraham take you inside how Oracle brings its industry-leading database technology directly to AWS customers. Senior Principal OCI Instructor Susan Jang unpacks what the OCI child site is, how Exadata hardware is deployed inside AWS data centers, and ho</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/what-is-oracle-databaseaws">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Oracle Multicloud Made Easy</title>
+      <link>https://oracle-university.com/stories/oracle-multicloud-made-easy-be0bfd/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-multicloud-made-easy-be0bfd/</guid>
+      <pubDate>Tue, 03 Feb 2026 12:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Multicloud is changing the way modern teams run their workloads: with real choice and real control. In this episode, hosts Lois Houston and Nikita Abraham welcome Senior Principal OCI Instructor Sergio Castro, who explains how Oracle has partnered with Microsoft Azure, Google Cloud, and AWS to bring</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-multicloud-made-easy">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Part II Transforming Database Operations: MCP Server + OCI Generative AI in Action</title>
+      <link>https://oracle-university.com/stories/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action-639847/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action-639847/</guid>
+      <pubDate>Tue, 27 Jan 2026 13:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>In Part II of this episode we explore how Oracle&#39;s latest AI-driven database tools are revolutionizing teaching and learning in higher education. Tailored for global faculty and students, the episode demonstrates how artificial intelligence makes database operations more accessible, intuitive, and r</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>From Curiosity to Career Growth: An Oracle AI Certification Journey</title>
+      <link>https://oracle-university.com/stories/from-curiosity-to-career-growth-an-oracle-ai-certification-journey-bd5794/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/from-curiosity-to-career-growth-an-oracle-ai-certification-journey-bd5794/</guid>
+      <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Join us for an inspiring conversation with private equity advisor Jeffrey Malcolm as he shares how Oracle AI certification has transformed his career, family, and approach to business. Discover the real-world impact and opportunities that come from upskilling with Oracle&#39;s leading AI training progra</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/from-curiosity-to-career-growth-an-oracle-ai-certification-journey">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
