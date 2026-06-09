@@ -1,0 +1,18 @@
+<svg width="1200" height="750" viewBox="0 0 1200 750" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="learning abstract editorial image">
+  <rect width="1200" height="750" fill="#111827"/>
+  <circle cx="320" cy="200" r="260" fill="#f6d365" opacity="0.23"/>
+  <circle cx="840" cy="484" r="330" fill="#c4b5fd" opacity="0.20"/>
+  <path d="M0 520C190 540 360 600 560 550C760 390 900 494 1200 410" stroke="white" stroke-opacity="0.16" stroke-width="5"/>
+  <g opacity="0.52">
+    <rect x="110" y="112" width="330" height="72" rx="18" fill="white" fill-opacity="0.11"/>
+    <rect x="110" y="214" width="520" height="22" rx="11" fill="white" fill-opacity="0.18"/>
+    <rect x="110" y="260" width="430" height="22" rx="11" fill="white" fill-opacity="0.12"/>
+    <rect x="110" y="306" width="570" height="22" rx="11" fill="white" fill-opacity="0.09"/>
+  </g>
+  <g transform="translate(760 140)" opacity="0.72">
+    <rect x="0" y="0" width="260" height="260" rx="42" fill="white" fill-opacity="0.08" stroke="white" stroke-opacity="0.16"/>
+    <path d="M64 158c0-44 36-80 80-80h26c31 0 56 25 56 56s-25 56-56 56H88c-13 0-24-11-24-24v-8Z" fill="#f6d365" fill-opacity="0.65"/>
+    <path d="M87 139h82M87 169h54" stroke="#111827" stroke-width="16" stroke-linecap="round" opacity="0.6"/>
+  </g>
+  <text x="110" y="650" fill="white" fill-opacity="0.20" font-family="Arial, sans-serif" font-size="56" font-weight="700">LEARNING BRIEF</text>
+</svg>

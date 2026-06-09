@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-4Q8L6503HZ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-4Q8L6503HZ');
+  </script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Sources and API Integration | Oracle University Daily</title>
+  <meta name="description" content="How the site integrates Oracle RSS, NewsData.io, FreeNewsApi.io, GNews, and NewsAPI for daily source-linked news refreshes.">
+  <meta name="robots" content="index,follow,max-image-preview:large">
+  <link rel="canonical" href="https://oracle-university.com/sources/">
+  <link rel="alternate" type="application/rss+xml" title="Oracle University Daily RSS" href="https://oracle-university.com/feed.xml">
+  <meta property="og:site_name" content="Oracle University Daily">
+  <meta property="og:title" content="Sources and API Integration | Oracle University Daily">
+  <meta property="og:description" content="How the site integrates Oracle RSS, NewsData.io, FreeNewsApi.io, GNews, and NewsAPI for daily source-linked news refreshes.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://oracle-university.com/sources/">
+  <meta property="og:image" content="https://oracle-university.com/assets/card-brief-1.svg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="theme-color" content="#0d1321">
+  <link rel="icon" href="/assets/logo.svg" type="image/svg+xml">
+  <link rel="preload" href="/styles.css" as="style">
+  <link rel="stylesheet" href="/styles.css">
+  <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Sources and API Integration","url":"https://oracle-university.com/sources/","description":"How the site integrates Oracle RSS, NewsData.io, FreeNewsApi.io, GNews, and NewsAPI for daily source-linked news refreshes."}</script>
+</head>
+<body class="info-page">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div class="reading-progress" aria-hidden="true"><span></span></div>
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="Oracle University Daily home">
+      <img src="/assets/logo.svg" alt="" width="44" height="44">
+      <span><strong>Oracle University Daily</strong><small>Independent daily briefing for Oracle learning, cloud, database, Java and enterprise technology news</small></span>
+    </a>
+    <nav class="top-nav" aria-label="Primary navigation">
+      <a href="/">Today</a>
+      <a href="/topics/">Topics</a>
+      <a href="/topics/oracle-cloud/">Cloud</a>
+      <a href="/topics/ai-database/">Database</a>
+      <a href="/topics/training-certification/">Learning</a>
+      <a href="/sources/">Sources</a>
+    </nav>
+  </header>
+  <main id="main">
+    <section class="page-hero compact info-hero">
+      <p class="eyebrow">Source architecture</p>
+      <h1>Official RSS first, free APIs second, static HTML always.</h1>
+      <div class="info-copy">
+      <p>The refresh pipeline starts with official public Oracle RSS sources, including Oracle Press Releases, Oracle Blogs, Investor Relations News, Critical Patch Updates, Oracle Magazine, Oracle University Podcast, Inside Java, and Inside MySQL where available.</p>
+      <p>Optional API enrichments can be enabled with environment secrets: NewsData.io, FreeNewsApi.io, GNews, and NewsAPI. The included script supports <code>NEWS_PROVIDER=auto</code>, which uses every configured provider with an available key.</p>
+      <p>Every fetched item is normalized into the same schema: title, description, source, source type, published date, topic, tags, priority score, canonical source URL, and optional image.</p></div>
+    </section></main>
+  <footer class="site-footer">
+    <div>
+      <strong>Oracle University Daily</strong>
+      <p>Independent publication. Not affiliated with, sponsored by, or endorsed by Oracle Corporation. This site uses Oracle product names only for descriptive news coverage.</p>
+      <p>Oracle, Java, MySQL, and NetSuite are registered trademarks of Oracle and/or its affiliates. Other names may be trademarks of their respective owners.</p>
+    </div>
+    <div class="footer-links">
+      <a href="/about/">About</a>
+      <a href="/editorial-policy/">Editorial</a>
+      <a href="/privacy/">Privacy</a>
+      <a href="/trademark-disclaimer/">Trademark</a>
+      <a href="/sitemap.xml">Sitemap</a>
+      <a href="/feed.xml">RSS</a>
+    </div>
+  </footer>
+  <script src="/app.js" type="module"></script>
+</body>
+</html>

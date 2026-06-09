@@ -1,0 +1,32 @@
+{
+  "name": "oracle-university-daily-starter",
+  "version": "3.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Static-first Flipboard-inspired Oracle ecosystem news magazine with daily free API/RSS refresh, SEO-ready pages, and Node-only local preview.",
+  "scripts": {
+    "refresh": "node scripts/refresh-news.mjs",
+    "build": "node scripts/build-site.mjs",
+    "refresh:build": "node scripts/refresh-news.mjs && node scripts/build-site.mjs",
+    "sample": "SAMPLE_ONLY=1 node scripts/refresh-news.mjs && node scripts/build-site.mjs",
+    "dev": "node scripts/serve.mjs",
+    "preview": "node scripts/serve.mjs",
+    "start": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "oracle news",
+    "oracle university",
+    "oracle cloud",
+    "oci",
+    "oracle database",
+    "oracle certification",
+    "flipboard style",
+    "news aggregator",
+    "static site",
+    "seo"
+  ],
+  "license": "MIT"
+}

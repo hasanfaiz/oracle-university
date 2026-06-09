@@ -1,0 +1,47 @@
+name: Daily Oracle ecosystem edition refresh
+
+on:
+  schedule:
+    # 20:30 UTC = 02:00 IST next day. GitHub schedules may run a little late.
+    - cron: '30 20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Refresh news data from RSS and free APIs
+        run: npm run refresh
+        env:
+          SITE_URL: ${{ secrets.SITE_URL }}
+          NEWS_PROVIDER: auto
+          MAX_ARTICLES: '120'
+          ENABLE_OFFICIAL_RSS: '1'
+          NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
+          FREENEWSAPI_KEY: ${{ secrets.FREENEWSAPI_KEY }}
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+
+      - name: Build static website
+        run: npm run build
+        env:
+          SITE_URL: ${{ secrets.SITE_URL }}
+
+      - name: Commit updated edition
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/news.json dist
+          git diff --staged --quiet || git commit -m "Daily Oracle ecosystem edition refresh"
+          git push

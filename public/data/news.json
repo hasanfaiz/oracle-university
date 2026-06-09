@@ -1,0 +1,307 @@
+{
+  "generatedAt": "2026-06-09T05:57:34.799Z",
+  "provider": "sample-only",
+  "items": [
+    {
+      "id": "sample-ai-database-multicloud",
+      "slug": "oracle-ai-database-multicloud-watch-sample",
+      "title": "Oracle AI Database and multicloud moves: what architects should watch",
+      "dek": "Preview card for the daily edition. Live refresh replaces this with current source-linked coverage from official Oracle feeds and external APIs.",
+      "url": "https://www.oracle.com/news/",
+      "source": "Oracle Newsroom",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-06-06T08:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle AI Database",
+        "Multicloud",
+        "Database",
+        "Enterprise AI"
+      ],
+      "priority": 98
+    },
+    {
+      "id": "sample-cpu-security",
+      "slug": "oracle-critical-patch-update-dba-watch-sample",
+      "title": "Critical Patch Update desk: DBA and security teams need a clear watchlist",
+      "dek": "Security stories receive higher priority because patch windows, CVEs, and dependency changes affect production risk.",
+      "url": "https://www.oracle.com/security-alerts/",
+      "source": "Oracle Security Alerts",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-06-05T12:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Critical Patch Update",
+        "Security",
+        "CVE",
+        "DBA"
+      ],
+      "priority": 96
+    },
+    {
+      "id": "sample-oci-networking",
+      "slug": "oci-networking-cloud-architecture-update-sample",
+      "title": "OCI networking update draws attention from cloud architects",
+      "dek": "Flipboard-inspired cards are built for quick scanning, source transparency, topic filtering, and fast click-through to the original report.",
+      "url": "https://blogs.oracle.com/cloud-infrastructure/",
+      "source": "Oracle Cloud Infrastructure Blog",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-06-04T10:30:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI",
+        "Networking",
+        "Cloud Architecture",
+        "Multicloud"
+      ],
+      "priority": 93
+    },
+    {
+      "id": "sample-certification-learning",
+      "slug": "oracle-certification-learning-paths-sample",
+      "title": "Certification learners look for updated Oracle Cloud learning paths",
+      "dek": "Training stories should link to official learning sources and clearly separate editorial context from official certification requirements.",
+      "url": "https://learn.oracle.com/",
+      "source": "Oracle MyLearn",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-06-03T09:15:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Oracle Certification",
+        "OCI",
+        "MyLearn",
+        "Learning Paths"
+      ],
+      "priority": 90
+    },
+    {
+      "id": "sample-java-platform",
+      "slug": "java-platform-news-developer-watch-sample",
+      "title": "Java platform news: developers monitor release notes and performance changes",
+      "dek": "Developer coverage can sit beside cloud, database, earnings, and security stories in the same daily magazine layout.",
+      "url": "https://dev.java/",
+      "source": "Java Developer Resources",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-06-02T16:00:00.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "Java",
+        "JDK",
+        "Developers",
+        "Release Notes"
+      ],
+      "priority": 86
+    },
+    {
+      "id": "sample-mysql-ops",
+      "slug": "mysql-operations-release-notes-watch-sample",
+      "title": "MySQL operations brief: release notes, backup patterns, and cloud compatibility",
+      "dek": "The topic engine groups MySQL, Java, GraalVM, and developer ecosystem stories for a focused engineering feed.",
+      "url": "https://blogs.oracle.com/mysql/",
+      "source": "Oracle MySQL Blog",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-06-02T08:40:00.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "MySQL",
+        "Developers",
+        "Operations"
+      ],
+      "priority": 84
+    },
+    {
+      "id": "sample-netsuite",
+      "slug": "netsuite-erp-growth-brief-sample",
+      "title": "NetSuite and cloud ERP: signals for finance and operations leaders",
+      "dek": "Applications coverage includes NetSuite, Fusion Cloud ERP, HCM, SCM, CX, and Oracle Health so enterprise readers can follow product lines together.",
+      "url": "https://www.netsuite.com/portal/resource/overview.shtml",
+      "source": "NetSuite Resources",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-06-01T13:20:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "NetSuite",
+        "ERP",
+        "Finance",
+        "Operations"
+      ],
+      "priority": 82
+    },
+    {
+      "id": "sample-fusion-hcm",
+      "slug": "fusion-cloud-hcm-agentic-apps-sample",
+      "title": "Fusion Cloud HCM brief: agentic workflows, HR data, and rollout readiness",
+      "dek": "Enterprise application stories are summarized as briefs with clear original-source links and related-topic navigation.",
+      "url": "https://www.oracle.com/human-capital-management/",
+      "source": "Oracle HCM",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-06-01T07:45:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "Fusion Cloud",
+        "HCM",
+        "Agentic AI",
+        "Enterprise Apps"
+      ],
+      "priority": 81
+    },
+    {
+      "id": "sample-orcl-earnings",
+      "slug": "orcl-earnings-investor-watch-sample",
+      "title": "ORCL investor watch: earnings, cloud revenue, and AI infrastructure demand",
+      "dek": "Business stories are marked separately from product updates so readers can filter market coverage without losing technical news.",
+      "url": "https://investor.oracle.com/",
+      "source": "Oracle Investor Relations",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-05-31T14:30:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "ORCL",
+        "Earnings",
+        "Cloud Revenue",
+        "AI Infrastructure"
+      ],
+      "priority": 80
+    },
+    {
+      "id": "sample-health",
+      "slug": "oracle-health-interoperability-sample",
+      "title": "Oracle Health brief: interoperability, clinical workflows, and cloud modernization",
+      "dek": "Healthcare technology coverage is grouped with applications but can be promoted when regulatory, interoperability, or patient-care issues matter.",
+      "url": "https://www.oracle.com/health/",
+      "source": "Oracle Health",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-05-30T11:00:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "Oracle Health",
+        "Interoperability",
+        "Healthcare IT"
+      ],
+      "priority": 79
+    },
+    {
+      "id": "sample-exadata",
+      "slug": "exadata-database-performance-sample",
+      "title": "Exadata and database performance: tuning stories worth saving",
+      "dek": "The saved-story feature lets readers build a local reading list without needing accounts, cookies, or a backend database.",
+      "url": "https://www.oracle.com/database/technologies/exadata/",
+      "source": "Oracle Database",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-05-29T10:30:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Exadata",
+        "Oracle Database",
+        "Performance",
+        "DBA"
+      ],
+      "priority": 78
+    },
+    {
+      "id": "sample-partners",
+      "slug": "oracle-partner-ecosystem-sample",
+      "title": "Partner ecosystem brief: integrations, migrations, and customer wins",
+      "dek": "External API coverage helps fill the magazine with analyst, partner, and press coverage beyond official Oracle announcements.",
+      "url": "https://www.oracle.com/partnernetwork/",
+      "source": "Partner Ecosystem",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-05-28T12:10:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "Partners",
+        "Migrations",
+        "Customer Stories"
+      ],
+      "priority": 76
+    },
+    {
+      "id": "sample-cloud-regions",
+      "slug": "oci-cloud-regions-data-residency-sample",
+      "title": "Cloud regions and data residency: why location stories matter",
+      "dek": "Regional cloud updates influence latency, compliance, procurement, and disaster recovery planning for enterprise teams.",
+      "url": "https://www.oracle.com/cloud/regions/",
+      "source": "Oracle Cloud Regions",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-05-27T09:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI",
+        "Cloud Regions",
+        "Data Residency",
+        "Compliance"
+      ],
+      "priority": 75
+    },
+    {
+      "id": "sample-graalvm",
+      "slug": "graalvm-developer-performance-sample",
+      "title": "GraalVM developer brief: runtime performance and cloud-native packaging",
+      "dek": "Developer stories receive topic tags that make them discoverable through search, topic pages, RSS, and structured site navigation.",
+      "url": "https://www.graalvm.org/",
+      "source": "GraalVM",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-05-26T15:30:00.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "GraalVM",
+        "Java",
+        "Cloud Native",
+        "Performance"
+      ],
+      "priority": 74
+    },
+    {
+      "id": "sample-autonomous-database",
+      "slug": "autonomous-database-ai-ops-sample",
+      "title": "Autonomous Database and AI operations: what enterprise teams evaluate",
+      "dek": "Database coverage should help architects understand relevance without copying the full original source content.",
+      "url": "https://www.oracle.com/autonomous-database/",
+      "source": "Oracle Autonomous Database",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-05-25T10:15:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Autonomous Database",
+        "AI",
+        "DBA",
+        "Operations"
+      ],
+      "priority": 73
+    },
+    {
+      "id": "sample-opinion-analysis",
+      "slug": "oracle-ecosystem-analysis-format-sample",
+      "title": "How this site turns automated news into a useful daily reading experience",
+      "dek": "The system fetches public feeds server-side, deduplicates URLs, classifies stories, generates static pages, and preserves original source links.",
+      "url": "https://oracle-university.com/about/",
+      "source": "Editorial Desk",
+      "sourceType": "editorial",
+      "image": "",
+      "publishedAt": "2026-05-24T08:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "Editorial Policy",
+        "Automation",
+        "SEO",
+        "Reader Experience"
+      ],
+      "priority": 70
+    }
+  ]
+}

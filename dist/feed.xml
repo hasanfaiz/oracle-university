@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oracle University Daily</title>
+    <link>https://oracle-university.com/</link>
+    <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
+    <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 09 Jun 2026 05:57:34 GMT</lastBuildDate>
+    
+    <item>
+      <title>Oracle AI Database and multicloud moves: what architects should watch</title>
+      <link>https://oracle-university.com/stories/oracle-ai-database-multicloud-watch-sample/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-ai-database-multicloud-watch-sample/</guid>
+      <pubDate>Sat, 06 Jun 2026 08:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Preview card for the daily edition. Live refresh replaces this with current source-linked coverage from official Oracle feeds and external APIs.</description>
+      <source url="https://www.oracle.com/news/">Oracle Newsroom</source>
+    </item>
+    <item>
+      <title>Critical Patch Update desk: DBA and security teams need a clear watchlist</title>
+      <link>https://oracle-university.com/stories/oracle-critical-patch-update-dba-watch-sample/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-critical-patch-update-dba-watch-sample/</guid>
+      <pubDate>Fri, 05 Jun 2026 12:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>Security stories receive higher priority because patch windows, CVEs, and dependency changes affect production risk.</description>
+      <source url="https://www.oracle.com/security-alerts/">Oracle Security Alerts</source>
+    </item>
+    <item>
+      <title>OCI networking update draws attention from cloud architects</title>
+      <link>https://oracle-university.com/stories/oci-networking-cloud-architecture-update-sample/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oci-networking-cloud-architecture-update-sample/</guid>
+      <pubDate>Thu, 04 Jun 2026 10:30:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Flipboard-inspired cards are built for quick scanning, source transparency, topic filtering, and fast click-through to the original report.</description>
+      <source url="https://blogs.oracle.com/cloud-infrastructure/">Oracle Cloud Infrastructure Blog</source>
+    </item>
+    <item>
+      <title>Certification learners look for updated Oracle Cloud learning paths</title>
+      <link>https://oracle-university.com/stories/oracle-certification-learning-paths-sample/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-certification-learning-paths-sample/</guid>
+      <pubDate>Wed, 03 Jun 2026 09:15:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Training stories should link to official learning sources and clearly separate editorial context from official certification requirements.</description>
+      <source url="https://learn.oracle.com/">Oracle MyLearn</source>
+    </item>
+    <item>
+      <title>Java platform news: developers monitor release notes and performance changes</title>
+      <link>https://oracle-university.com/stories/java-platform-news-developer-watch-sample/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/java-platform-news-developer-watch-sample/</guid>
+      <pubDate>Tue, 02 Jun 2026 16:00:00 GMT</pubDate>
+      <category>Java &amp; MySQL</category>
+      <description>Developer coverage can sit beside cloud, database, earnings, and security stories in the same daily magazine layout.</description>
+      <source url="https://dev.java/">Java Developer Resources</source>
+    </item>
+    <item>
+      <title>MySQL operations brief: release notes, backup patterns, and cloud compatibility</title>
+      <link>https://oracle-university.com/stories/mysql-operations-release-notes-watch-sample/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/mysql-operations-release-notes-watch-sample/</guid>
+      <pubDate>Tue, 02 Jun 2026 08:40:00 GMT</pubDate>
+      <category>Java &amp; MySQL</category>
+      <description>The topic engine groups MySQL, Java, GraalVM, and developer ecosystem stories for a focused engineering feed.</description>
+      <source url="https://blogs.oracle.com/mysql/">Oracle MySQL Blog</source>
+    </item>
+    <item>
+      <title>NetSuite and cloud ERP: signals for finance and operations leaders</title>
+      <link>https://oracle-university.com/stories/netsuite-erp-growth-brief-sample/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/netsuite-erp-growth-brief-sample/</guid>
+      <pubDate>Mon, 01 Jun 2026 13:20:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Applications coverage includes NetSuite, Fusion Cloud ERP, HCM, SCM, CX, and Oracle Health so enterprise readers can follow product lines together.</description>
+      <source url="https://www.netsuite.com/portal/resource/overview.shtml">NetSuite Resources</source>
+    </item>
+    <item>
+      <title>Fusion Cloud HCM brief: agentic workflows, HR data, and rollout readiness</title>
+      <link>https://oracle-university.com/stories/fusion-cloud-hcm-agentic-apps-sample/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/fusion-cloud-hcm-agentic-apps-sample/</guid>
+      <pubDate>Mon, 01 Jun 2026 07:45:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Enterprise application stories are summarized as briefs with clear original-source links and related-topic navigation.</description>
+      <source url="https://www.oracle.com/human-capital-management/">Oracle HCM</source>
+    </item>
+    <item>
+      <title>ORCL investor watch: earnings, cloud revenue, and AI infrastructure demand</title>
+      <link>https://oracle-university.com/stories/orcl-earnings-investor-watch-sample/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/orcl-earnings-investor-watch-sample/</guid>
+      <pubDate>Sun, 31 May 2026 14:30:00 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Business stories are marked separately from product updates so readers can filter market coverage without losing technical news.</description>
+      <source url="https://investor.oracle.com/">Oracle Investor Relations</source>
+    </item>
+    <item>
+      <title>Oracle Health brief: interoperability, clinical workflows, and cloud modernization</title>
+      <link>https://oracle-university.com/stories/oracle-health-interoperability-sample/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-health-interoperability-sample/</guid>
+      <pubDate>Sat, 30 May 2026 11:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Healthcare technology coverage is grouped with applications but can be promoted when regulatory, interoperability, or patient-care issues matter.</description>
+      <source url="https://www.oracle.com/health/">Oracle Health</source>
+    </item>
+    <item>
+      <title>Exadata and database performance: tuning stories worth saving</title>
+      <link>https://oracle-university.com/stories/exadata-database-performance-sample/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/exadata-database-performance-sample/</guid>
+      <pubDate>Fri, 29 May 2026 10:30:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>The saved-story feature lets readers build a local reading list without needing accounts, cookies, or a backend database.</description>
+      <source url="https://www.oracle.com/database/technologies/exadata/">Oracle Database</source>
+    </item>
+    <item>
+      <title>Partner ecosystem brief: integrations, migrations, and customer wins</title>
+      <link>https://oracle-university.com/stories/oracle-partner-ecosystem-sample/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-partner-ecosystem-sample/</guid>
+      <pubDate>Thu, 28 May 2026 12:10:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>External API coverage helps fill the magazine with analyst, partner, and press coverage beyond official Oracle announcements.</description>
+      <source url="https://www.oracle.com/partnernetwork/">Partner Ecosystem</source>
+    </item>
+    <item>
+      <title>Cloud regions and data residency: why location stories matter</title>
+      <link>https://oracle-university.com/stories/oci-cloud-regions-data-residency-sample/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oci-cloud-regions-data-residency-sample/</guid>
+      <pubDate>Wed, 27 May 2026 09:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Regional cloud updates influence latency, compliance, procurement, and disaster recovery planning for enterprise teams.</description>
+      <source url="https://www.oracle.com/cloud/regions/">Oracle Cloud Regions</source>
+    </item>
+    <item>
+      <title>GraalVM developer brief: runtime performance and cloud-native packaging</title>
+      <link>https://oracle-university.com/stories/graalvm-developer-performance-sample/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/graalvm-developer-performance-sample/</guid>
+      <pubDate>Tue, 26 May 2026 15:30:00 GMT</pubDate>
+      <category>Java &amp; MySQL</category>
+      <description>Developer stories receive topic tags that make them discoverable through search, topic pages, RSS, and structured site navigation.</description>
+      <source url="https://www.graalvm.org/">GraalVM</source>
+    </item>
+    <item>
+      <title>Autonomous Database and AI operations: what enterprise teams evaluate</title>
+      <link>https://oracle-university.com/stories/autonomous-database-ai-ops-sample/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/autonomous-database-ai-ops-sample/</guid>
+      <pubDate>Mon, 25 May 2026 10:15:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Database coverage should help architects understand relevance without copying the full original source content.</description>
+      <source url="https://www.oracle.com/autonomous-database/">Oracle Autonomous Database</source>
+    </item>
+    <item>
+      <title>How this site turns automated news into a useful daily reading experience</title>
+      <link>https://oracle-university.com/stories/oracle-ecosystem-analysis-format-sample/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-ecosystem-analysis-format-sample/</guid>
+      <pubDate>Sun, 24 May 2026 08:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The system fetches public feeds server-side, deduplicates URLs, classifies stories, generates static pages, and preserves original source links.</description>
+      <source url="https://oracle-university.com/about/">Editorial Desk</source>
+    </item>
+  </channel>
+</rss>

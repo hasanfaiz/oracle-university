@@ -1,0 +1,17 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Oracle University Daily independent news logo">
+  <rect width="96" height="96" rx="24" fill="#0B1020"/>
+  <rect x="12" y="12" width="72" height="72" rx="20" fill="url(#paint0_linear)" fill-opacity="0.18" stroke="white" stroke-opacity="0.16"/>
+  <path d="M25 52C25 39.85 34.85 30 47 30h7c9.39 0 17 7.61 17 17s-7.61 17-17 17H37c-6.63 0-12-5.37-12-12Z" fill="url(#paint1_linear)"/>
+  <path d="M34 44v14c0 4.4 3.6 8 8 8s8-3.6 8-8V44M56 44v22M56 44h8c4.4 0 8 3.6 8 8s-3.6 8-8 8h-8" stroke="#09111E" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M28 26h38M28 76h28" stroke="#EAF6FF" stroke-opacity="0.9" stroke-width="5" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="12" y1="12" x2="84" y2="84" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#F6D365"/>
+    </linearGradient>
+    <linearGradient id="paint1_linear" x1="25" y1="30" x2="73" y2="64" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7DD3FC"/>
+      <stop offset="1" stop-color="#F6D365"/>
+    </linearGradient>
+  </defs>
+</svg>

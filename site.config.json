@@ -1,0 +1,21 @@
+{
+  "brandName": "Oracle University Daily",
+  "shortName": "OU Daily",
+  "siteUrl": "https://oracle-university.com",
+  "tagline": "Independent daily briefing for Oracle learning, cloud, database, Java and enterprise technology news",
+  "description": "A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.",
+  "timezone": "Asia/Kolkata",
+  "primaryLanguage": "en",
+  "authorName": "Oracle-University.com Editorial Desk",
+  "refreshLabel": "Daily refresh at 02:00 IST",
+  "contactEmail": "editor@oracle-university.com",
+  "analytics": {
+    "googleTagId": "G-4Q8L6503HZ"
+  },
+  "newsletter": {
+    "headline": "Get the daily Oracle ecosystem briefing",
+    "dek": "Add an email provider later. The UI is already prepared for newsletter capture, conversion tracking, and reader retention."
+  },
+  "disclaimer": "Independent publication. Not affiliated with, sponsored by, or endorsed by Oracle Corporation. This site uses Oracle product names only for descriptive news coverage.",
+  "trademarkCredit": "Oracle, Java, MySQL, and NetSuite are registered trademarks of Oracle and/or its affiliates. Other names may be trademarks of their respective owners."
+}
