@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T21:46:30.561Z",
+  "generatedAt": "2026-06-14T21:52:10.632Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,84 +7,100 @@
   },
   "items": [
     {
-      "id": "26fa2e76-2186-48fa-8334-edc84038ad3e",
-      "slug": "baird-reiterates-why-palantir-technologies-inc-pltr-is-a-promising-growth-stock-to-buy-9f739a",
-      "title": "Baird Reiterates Why Palantir Technologies Inc. (PLTR) is a Promising Growth Stock to Buy",
-      "dek": "Palantir Technologies Inc. (NASDAQ:PLTR) is one of the most promising growth stocks to buy now. On June 4, Baird reiterated an Outperform rating on Palantir Technologies Inc. (NASDAQ:PLTR) and a $200 price target.",
-      "url": "https://www.insidermonkey.com/blog/baird-reiterates-why-palantir-technologies-inc-pltr-is-a-promising-growth-stock-to-buy-1780991/",
-      "source": "Insider Monkey",
+      "id": "f970f255-b8f4-45b9-9004-648a44774c2f",
+      "slug": "oracle-stock-dips-despite-continued-strong-backlog-growth-should-investors-buy-the-stock-50027b",
+      "title": "Oracle Stock Dips Despite Continued Strong Backlog Growth. Should Investors Buy the Stock on the Dip?",
+      "dek": "Oracle ( ORCL 0.05% ) has become one of the biggest battleground stocks when it comes to artificial intelligence (AI), and investors were in a selling mood after the software-as-a-service (SaaS) and cloud computer provider reported its Q4 fiscal year 2026 results. While the stock has been volatile, ",
+      "url": "https://www.fool.com/investing/2026/06/14/oracle-stock-dips-despite-continued-strong-backlog/",
+      "source": "The Motley Fool",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/9DyeGzrhqLGNSffREbVZ3NI8CZQau4POGAYyhiXy_nk/resize:fit:1000:667:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2017/03/21144845/shutterstock_567933841.jpg",
-      "publishedAt": "2026-06-13T19:31:42.000Z",
+      "image": "https://g.foolcdn.com/editorial/images/873922/orcl.png",
+      "publishedAt": "2026-06-14T20:29:39.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "business"
+        "finance"
       ],
-      "priority": 63
+      "priority": 69
     },
     {
-      "id": "81e1e67f-76f6-4148-83f1-6b57a53278bb",
-      "slug": "broadcom-avgo-expands-spring-security-with-largest-open-source-update-in-23-year-history-db4197",
-      "title": "Broadcom (AVGO) Expands Spring Security With Largest Open-Source Update in 23-Year History",
-      "dek": "With a profit margin of 38.85% and net income of $23.13 billion (FY25), Broadcom Inc. (NASDAQ:AVGO) ranks among the most profitable blue chip stocks to buy according to hedge funds. Meanwhile, analysts see 29.70% upside for the stock.",
-      "url": "https://www.insidermonkey.com/blog/broadcom-avgo-expands-spring-security-with-largest-open-source-update-in-23-year-history-1781055/",
-      "source": "Insider Monkey",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/gVs9uQBeUI1ozq8RSFL9M0tFMhxZ4Mcd_jxWHFa2KaU/resize:fit:1920:1402:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2025/09/05062642/tyler-lastovich-rAtzDB6hWrU-unsplash.jpg",
-      "publishedAt": "2026-06-13T18:03:52.000Z",
-      "topic": "Security",
-      "tags": [
-        "business"
-      ],
-      "priority": 57
-    },
-    {
-      "id": "27020c6b-f5c3-429b-a503-cb591ae7b278",
-      "slug": "mastercard-ma-unveils-ai-agent-payment-network-backed-by-more-than-30-industry-partners-27c355",
-      "title": "Mastercard (MA) Unveils AI Agent Payment Network Backed by More Than 30 Industry Partners",
-      "dek": "Mastercard Incorporated (NYSE:MA) carries a profit margin of 45.88% and net income of $14.97 billion (FY25), securing its place on our list of the most profitable blue chip stocks to buy according to hedge funds, with analysts seeing 32.80% upside for...",
-      "url": "https://www.insidermonkey.com/blog/mastercard-ma-unveils-ai-agent-payment-network-backed-by-more-than-30-industry-partners-1781054/",
-      "source": "Insider Monkey",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/D5tM5-1YzojPnTx8bdqDOuf45oxAarCxCkcJstUhpiI/resize:fit:1000:667:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2015/05/shutterstock_208595395.jpg",
-      "publishedAt": "2026-06-13T18:03:52.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "business"
-      ],
-      "priority": 57
-    },
-    {
-      "id": "17ba0e09-be84-4619-bf6f-564c59617a89",
-      "slug": "microsoft-msft-s-linkedin-launches-brandworks-targets-100-million-annualized-revenue-run-962f46",
-      "title": "Microsoft (MSFT)’s LinkedIn Launches BrandWorks, Targets $100 Million Annualized Revenue Run Rate",
+      "id": "842285da-6ed6-418d-855e-6be22d2573e4",
+      "slug": "aviat-networks-avnw-long-haul-expansion-adds-backbone-capacity-angle-to-the-ai-networkin-96d6db",
+      "title": "Aviat Networks (AVNW): Long-Haul Expansion Adds Backbone Capacity Angle to the AI Networking Story",
       "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
-      "url": "https://www.insidermonkey.com/blog/microsoft-msfts-linkedin-launches-brandworks-targets-100-million-annualized-revenue-run-rate-1781061/",
+      "url": "https://www.insidermonkey.com/blog/aviat-networks-avnw-long-haul-expansion-adds-backbone-capacity-angle-to-the-ai-networking-story-1781610/",
       "source": "Insider Monkey",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/BKrI_lu2Jt4sTx7O3xXWHP4NbNWh4MLlzTrGaZjhc0g/resize:fit:1000:667:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2015/05/shutterstock_173114111.jpg",
-      "publishedAt": "2026-06-13T18:03:52.000Z",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/RqK_oA8eRZaTFa6fTAFyTDmtT1ILVsIYlnvKZOtblpM/resize:fit:800:533:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2020/01/09200252/Office-Laptop-Working-Websurfing-pexels-photo-374016.jpeg",
+      "publishedAt": "2026-06-14T19:31:13.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "business"
       ],
-      "priority": 57
+      "priority": 62
     },
     {
-      "id": "89ae7131-e6e8-4d80-9b47-aa6ebe6c23cd",
-      "slug": "piper-sandler-downplays-meta-platforms-advertising-risk-on-applovin-corporation-app-2ec3f0",
-      "title": "Piper Sandler Downplays Meta Platforms Advertising Risk on AppLovin Corporation (APP)",
-      "dek": "AppLovin Corp (NASDAQ:APP) is one of the most promising growth stocks to buy now. On June 9, Piper Sandler reiterated an Overweight rating on AppLovin Corp (NASDAQ:APP) and a $665 price target.",
-      "url": "https://www.insidermonkey.com/blog/piper-sandler-downplays-meta-platforms-advertising-risk-on-applovin-corporation-app-1780988/",
-      "source": "Insider Monkey",
+      "id": "852e6614-f828-4c1e-ab53-c2e87155d1d9",
+      "slug": "best-altcoins-to-buy-in-2026-9d897e",
+      "title": "Best Altcoins to Buy in 2026",
+      "dek": "Watching Layer 1 blockchains fight for supremacy has started to feel like rival mall developers arguing about whose food court is superior. Entertaining? Sometimes. Investable? That's getting complicated. Instead of asking 'which blockchain wins?', the more interesting angle is: 'What does every blo",
+      "url": "https://www.fool.com/investing/2026/06/14/best-altcoins-to-buy-in-2026/",
+      "source": "The Motley Fool",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/egwjpuzXwAqD2nTYU5SWLsSSKpfmL3m-F7oR_YpHMbE/resize:fit:1582:1186:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2017/01/20050150/38630166_ml.jpg",
-      "publishedAt": "2026-06-13T19:31:42.000Z",
-      "topic": "Security",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F868954%2Fblockchain-data-information-cryptocurrency.jpg&w=3840&op=resize",
+      "publishedAt": "2026-06-14T19:08:04.000Z",
+      "topic": "Java & MySQL",
       "tags": [
-        "business"
+        "digital currencies"
       ],
-      "priority": 51
+      "priority": 61
+    },
+    {
+      "id": "f8336016-5793-469c-ac50-a833c7fb6cf5",
+      "slug": "why-oracle-orcl-is-down-13-8-after-unveiling-massive-ai-spend-and-new-financing-plans-eb53e0",
+      "title": "Why Oracle (ORCL) Is Down 13.8% After Unveiling Massive AI Spend And New Financing Plans",
+      "dek": "Earlier this week, Oracle reported record fiscal 2026 results, including US$19.18 billion in fourth-quarter revenue and US$17.09 billion in annual net income, while confirming guidance for US$90 billion in fiscal 2027 revenue and announcing plans to raise about US$40 billion in new debt and equity t",
+      "url": "https://simplywall.st/stocks/us/software/nyse-orcl/oracle/news/why-oracle-orcl-is-down-138-after-unveiling-massive-ai-spend",
+      "source": "simplywall.st",
+      "sourceType": "external",
+      "image": "https://images.simplywall.st/asset/company-cover/22247-main-header/1756200262254",
+      "publishedAt": "2026-06-14T18:23:13.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "finance"
+      ],
+      "priority": 58
+    },
+    {
+      "id": "05fec449-8d86-4278-978b-885f60ba19fa",
+      "slug": "chainlink-link-the-2026-world-cup-boosts-bets-but-not-the-price-why-fccf00",
+      "title": "Chainlink (LINK) : The 2026 World Cup Boosts Bets, But Not the Price... Why?",
+      "dek": "The 2026 World Cup is in full swing, decentralized betting is exploding thanks to Chainlink... yet the LINK crypto stagnates at 7.94 dollars. A paradox? No, it’s proof that oracles are no longer enough to attract the whales. We analyze this mismatch between adoption and valuation.",
+      "url": "https://www.cointribune.com/en/chainlink-link-why-the-2026-world-cup-does-not-boost-the-token-despite-billions-in-bets/",
+      "source": "Cointribune",
+      "sourceType": "external",
+      "image": "https://www.cointribune.com/app/uploads/2026/06/Chainlink-Link-Coupe-du-monde-2026-crypto-1.jpg",
+      "publishedAt": "2026-06-14T17:05:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "digital currencies"
+      ],
+      "priority": 54
+    },
+    {
+      "id": "cf4e9a52-df2d-47b7-a223-53825d4e11a4",
+      "slug": "2-best-stocks-to-buy-in-the-market-right-now-0bcdc2",
+      "title": "2 Best Stocks to Buy in the Market Right Now",
+      "dek": "Power has become one of the biggest bottlenecks in the global artificial intelligence (AI) build-out. Goldman Sachs expects the demand for power in the U.S. data center market to rise from 31 gigawatts (GW) in 2025 to 66 GW by 2027, driven mainly by the rapid expansion of AI infrastructure. Hence, c",
+      "url": "https://www.fool.com/investing/2026/06/14/2-best-stocks-to-buy-in-the-market-right-now/",
+      "source": "The Motley Fool",
+      "sourceType": "external",
+      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F869817%2Fanalyst_writing_studying_charts_on_a_desktop.jpg&w=1200&op=resize",
+      "publishedAt": "2026-06-14T15:02:40.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "finance"
+      ],
+      "priority": 50
     },
     {
       "id": "f58466d207e1f5cc",
@@ -135,249 +151,192 @@
       "priority": 46
     },
     {
-      "id": "dab65e4b-ce0a-48ce-90f4-798cd241a9aa",
-      "slug": "u-s-cisa-adds-oracle-peoplesoft-enterprise-peopletools-flaw-to-its-known-exploited-vulne-50fcda",
-      "title": "U.S. CISA adds Oracle PeopleSoft Enterprise PeopleTools flaw to its Known Exploited Vulnerabilities catalog",
-      "dek": "U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Oracle PeopleSoft Enterprise PeopleTools flaw to its Known Exploited Vulnerabilities catalog.",
-      "url": "https://securityaffairs.com/193574/security/u-s-cisa-adds-oracle-peoplesoft-enterprise-peopletools-flaw-to-its-known-exploited-vulnerabilities-catalog.html",
-      "source": "Security Affairs",
+      "id": "e02d38cb-275c-4bb6-a174-b98af31a2f12",
+      "slug": "wolfe-research-raises-pt-on-micron-technology-mu-stock-0f0588",
+      "title": "Wolfe Research Raises PT on Micron Technology (MU) Stock",
+      "dek": "Micron Technology, Inc. (NASDAQ:MU) is one of the Best Bargain Stocks to Buy in June. On June 11, Wolfe Research lifted its price objective on the company’s stock to $1,250 from $550 and maintained an “Outperform” rating.",
+      "url": "https://www.insidermonkey.com/blog/wolfe-research-raises-pt-on-micron-technology-mu-stock-1781506/",
+      "source": "Insider Monkey",
       "sourceType": "external",
-      "image": "https://i0.wp.com/securityaffairs.com/wp-content/uploads/2020/07/CISA.jpeg?fit=700%2C368&ssl=1&resize=1280%2C720",
-      "publishedAt": "2026-06-13T09:21:05.000Z",
-      "topic": "Security",
-      "tags": [
-        "internet security"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "87e22696803692d3",
-      "slug": "5-best-ai-networking-stocks-to-buy-according-to-analysts-f7e2b6",
-      "title": "5 Best AI Networking Stocks to Buy According to Analysts",
-      "dek": "In this article, we will list the 5 Best AI Networking Stocks to Buy According to Analysts. Please visit 10 Best AI Networking Stocks to Buy According to Analysts if you’d like to see an extended list. For this article, we screened AI networking stocks based on consensus analyst price targets. We se",
-      "url": "https://www.insidermonkey.com/blog/5-best-ai-networking-stocks-to-buy-according-to-analysts-1780336/",
-      "source": "Insider Trading",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/OCUATbNbMY5m47IywYHvp37bjHrJ9NixxnBuzm5fLXo/resize:fit:4032:3024:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2025/12/11083742/AI-Portfolio-Artificial-Intelligence-Insider-Monkey-Image.jpg",
-      "publishedAt": "2026-06-13T09:17:31.000Z",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/2QQwxF89G6SVoiuqecl3ZJ35wh02HQWoTuWaOfV2mOA/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/20033446/MU-insidermonkey-1695195284165.jpg",
+      "publishedAt": "2026-06-14T11:21:42.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "AI"
+        "finance"
       ],
-      "priority": 43
+      "priority": 45
     },
     {
-      "id": "3de4d01002162c0a",
-      "slug": "5-most-profitable-blue-chip-stocks-to-buy-according-to-hedge-funds-2f36e3",
-      "title": "5 Most Profitable Blue Chip Stocks to Buy According to Hedge Funds",
-      "dek": "In this article, we will list the 5 Most Profitable Blue Chip Stocks to Buy According to Hedge Funds. Please visit 10 Most Profitable Blue Chip Stocks to Buy According to Hedge Funds if you’d like to see an extended list and the methodology behind it. 5. Taiwan Semiconductor Manufacturing Company Li",
-      "url": "https://www.insidermonkey.com/blog/5-most-profitable-blue-chip-stocks-to-buy-according-to-hedge-funds-1780355/",
-      "source": "Insider Trading",
+      "id": "9d6b1423d9639c79",
+      "slug": "destination-wealth-management-raises-position-in-oracle-corporation-orcl-288a5b",
+      "title": "Destination Wealth Management Raises Position in Oracle Corporation $ORCL",
+      "dek": "Destination Wealth Management grew its holdings in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 117.3% during the fourth quarter, according to the company in its most recent filing with the Securities & Exchange Commission. The firm owned 13,715 shares of the enterprise software provide",
+      "url": "https://www.watchlistnews.com/destination-wealth-management-raises-position-in-oracle-corporation-orcl/11115210.html",
+      "source": "Watch List News",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/cN5y3Nv0O_Z9tKqCqc_D6K0Q00JHvcSEddcd5BOHytE/resize:fit:1500:691:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2019/12/07094658/Taiwan-Semiconductor.jpg",
-      "publishedAt": "2026-06-13T08:49:25.000Z",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-06-14T09:17:11.000Z",
       "topic": "Business & Earnings",
-      "tags": [],
-      "priority": 42
-    },
-    {
-      "id": "1dc0905c715d87f4",
-      "slug": "bitcoin-price-prediction-btc-eyes-70k-relief-rally-as-iran-deal-hopes-lift-alphapepe-s-s-724945",
-      "title": "Bitcoin Price Prediction: BTC Eyes $70K Relief Rally as Iran Deal Hopes Lift AlphaPepe's Stage 17 FOMO",
-      "dek": "Iran deal hopes changing the mood is the geopolitical narrative shift that the market has been waiting for since Iran war fear began adding the risk premium that compressed every asset through the crash market's most damaging recent sessions. When",
-      "url": "https://www.openpr.com/news/4548450/bitcoin-price-prediction-btc-eyes-70k-relief-rally-as-iran-deal",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/6/L613995218_g.jpg",
-      "publishedAt": "2026-06-13T08:12:42.000Z",
-      "topic": "Security",
       "tags": [
-        "pr service",
-        "media release",
-        "publicity",
-        "presses release",
-        "pr",
-        "news release"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "077c9a675d8a3b6b",
-      "slug": "desktop-virtualization-in-manufacturing-professional-market-analysis-by-application-type-ff94df",
-      "title": "Desktop Virtualization In Manufacturing Professional Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2035",
-      "dek": "The Desktop Virtualization In Manufacturing Professional Market reached a valuation of 10.58 billion in 2026 and is anticipated to expand at a CAGR of 10.68% during the forecast period from 2026 to 2035, ultimately attaining an estimated value of 23.83",
-      "url": "https://www.openpr.com/news/4548449/desktop-virtualization-in-manufacturing-professional-market",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/6/L613421896_g.jpg",
-      "publishedAt": "2026-06-13T08:10:47.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "pr service",
-        "media release",
-        "publicity",
-        "presses release",
-        "pr",
-        "news release"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "071afc57288b1b99",
-      "slug": "cloud-maintenance-management-software-professional-market-analysis-by-application-type-t-c25079",
-      "title": "Cloud Maintenance Management Software Professional Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2035",
-      "dek": "The Cloud Maintenance Management Software Professional Market reached a valuation of 12.7 billion in 2026 and is anticipated to expand at a CAGR of 9.56% during the forecast period from 2026 to 2035, ultimately attaining an estimated value of 26.37",
-      "url": "https://www.openpr.com/news/4548445/cloud-maintenance-management-software-professional-market",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/6/L613815263_g.jpg",
-      "publishedAt": "2026-06-13T08:05:36.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "pr service",
-        "media release",
-        "publicity",
-        "presses release",
-        "pr",
-        "news release"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "cabc74b0a90140b9",
-      "slug": "water-utility-management-software-market-analysis-by-application-type-technology-and-geo-235b9e",
-      "title": "Water Utility Management Software Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2035",
-      "dek": "The Water Utility Management Software Market reached a valuation of 7.87 billion in 2026 and is anticipated to expand at a CAGR of 16.08% during the forecast period from 2026 to 2035, ultimately attaining an estimated value of 25.95 billion",
-      "url": "https://www.openpr.com/news/4548443/water-utility-management-software-market-analysis",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/6/L613192724_g.jpg",
-      "publishedAt": "2026-06-13T08:03:38.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "pr service",
-        "media release",
-        "publicity",
-        "presses release",
-        "pr",
-        "news release"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "42d31918242f087d",
-      "slug": "transportation-management-solution-professional-market-analysis-by-application-type-tech-faac89",
-      "title": "Transportation Management Solution Professional Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2035",
-      "dek": "The Transportation Management Solution Professional Market reached a valuation of 8.07 billion in 2026 and is anticipated to expand at a CAGR of 9.53% during the forecast period from 2026 to 2035, ultimately attaining an estimated value of 16.72 billion",
-      "url": "https://www.openpr.com/news/4548437/transportation-management-solution-professional-market",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/6/L613617927_g.jpg",
-      "publishedAt": "2026-06-13T07:56:05.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "pr service",
-        "media release",
-        "publicity",
-        "presses release",
-        "pr",
-        "news release"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "0290c7f5d03cfde5",
-      "slug": "tech-tycoon-leo-stan-ekeh-s-digital-gift-to-alma-mater-13c389",
-      "title": "Tech tycoon, Leo Stan Ekeh’s digital gift to alma mater",
-      "dek": "With Funsho Arogundade funshakin@gmail.com It was former American President, George H.W. Bush, who opined: ‘There could be no definition of a successful life that does not include service to others.’ These timeless words resonate deeply with iconic tech tycoon, Dr Leo Stan Ekeh. For the celebrated C",
-      "url": "https://thesun.ng/tech-tycoon-leo-stan-ekehs-digital-gift-to-alma-mater/",
-      "source": "The Sun Nigeria",
-      "sourceType": "external",
-      "image": "https://d1jcea4y7xhp7l.cloudfront.net/wp-content/uploads/2026/06/Leo-Stan-Ekeh.jpg",
-      "publishedAt": "2026-06-13T01:59:34.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "the sun",
-        "sun newspapers",
-        "the sun nigeria",
-        "thesun.ng",
-        "thesun",
-        "sunnewsonline.com"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "6c7b64f4df050e4a",
-      "slug": "oracle-announces-record-q4-and-fy-2026-results-driven-by-cloud-infrastructure-cloud-appl-dafbb4",
-      "title": "Oracle Announces Record Q4 and FY 2026 Results Driven by Cloud Infrastructure & Cloud Applications",
-      "dek": "",
-      "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Record-Q4-and-FY-2026-Results-Driven-by-Cloud-Infrastructure--Cloud-Applications/default.aspx",
-      "source": "Oracle Investor Relations News",
-      "sourceType": "official",
-      "image": "",
-      "publishedAt": "2026-06-10T20:05:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [],
-      "priority": 38
-    },
-    {
-      "id": "0a2754a64cc3e5b9",
-      "slug": "tcs-to-roll-out-oracle-ai-data-labs-across-india-after-kolkata-launch-cba4f9",
-      "title": "TCS To Roll Out Oracle AI Data Labs Across India After Kolkata Launch",
-      "dek": "TCS launches India’s first Oracle AI Data Platform Lab in Kolkata",
-      "url": "https://www.businessworld.in/article/tcs-to-roll-out-oracle-ai-data-labs-across-india-after-kolkata-launch-610566",
-      "source": "Bw Businessworld",
-      "sourceType": "external",
-      "image": "https://static.businessworld.in/1704983223_fexQ2G_tcs.png",
-      "publishedAt": "2026-06-13T00:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "kolkata",
-        "tcs",
-        "coe",
-        "ai labs",
-        "tcs oracle ai labs",
+        "sec filings",
+        "institutional investor holdings",
+        "68389x10",
+        "13f",
+        "computer and technology",
         "oracle"
       ],
-      "priority": 36
+      "priority": 43
     },
     {
-      "id": "838cf079e23bf5a6",
-      "slug": "multiple-it-openings-in-alexandria-va-80k-opportunities-2b2f7d",
-      "title": "💻 Multiple IT Openings in Alexandria, VA – $80K+ Opportunities",
-      "dek": "The tech job scene in Alexandria, VA is buzzing right now, especially for folks with security clearances and cloud or data skills. Here are several solid o",
-      "url": "https://www.newsbreak.com/alexandria-va-daily-brief-375409871/4708374311629-multiple-it-openings-in-alexandria-va-80k-opportunities",
-      "source": "Newsbreak",
+      "id": "81782d95-3a30-4883-abac-61aef2dc0a57",
+      "slug": "shinyhunters-exploits-oracle-peoplesoft-zero-day-cve-2026-35273-in-widespread-higher-edu-000a9f",
+      "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day CVE-2026-35273 in Widespread Higher Education Cyberattack",
+      "dek": "Executive Summary Between late May and early June 2026, the notorious threat actor group ShinyHunters executed a highly coordinated cyberattack campaign targeting the higher education sector by exploiting a previously unknown zero-day vulnerability in Oracle PeopleSoft . This vulnerability, tracked ",
+      "url": "https://www.rescana.com/post/shinyhunters-exploits-oracle-peoplesoft-zero-day-cve-2026-35273-in-widespread-higher-education-cyberattack",
+      "source": "Rescana",
       "sourceType": "external",
-      "image": "https://img.particlenews.com/img/id/0uqf9w_1CJGDDWb00",
-      "publishedAt": "2026-06-13T00:00:00.000Z",
+      "image": "https://www.rescana.com/post/img/shinyhunters-exploits-oracle-peoplesoft-zero-day-cve-2026-35273-in-widespread-higher-education-cyberattack-cover.png",
+      "publishedAt": "2026-06-14T08:33:34.000Z",
       "topic": "Security",
       "tags": [
-        "va – $80k+ opportunities",
-        "local news",
-        "alexandria va daily brief",
-        "breaking news",
-        "💻 multiple it openings in alexandria",
-        "newsbreak"
+        "business"
       ],
-      "priority": 36
+      "priority": 42
     },
     {
-      "id": "d56733cc4ce4b592",
-      "slug": "oracle-orcl-stock-valuation-check-after-mixed-short-and-long-term-returns-760910",
-      "title": "Oracle (ORCL) Stock Valuation Check After Mixed Short And Long Term Returns",
-      "dek": "Oracle (ORCL) is drawing fresh attention after recent trading left the stock roughly flat over the past day, following mixed shorter term moves that include a decline over the past week and gains over the past 3 years. See our latest analysis for Oracle. The recent 7 day share price decline of about",
-      "url": "https://ca.finance.yahoo.com/news/oracle-orcl-stock-valuation-check-231505597.html",
+      "id": "d694c9c003919fde",
+      "slug": "port-city-colombo-forum-in-dubai-positions-sri-lanka-as-south-asia-s-gateway-for-uae-bus-dc17f8",
+      "title": "Port City Colombo Forum in Dubai Positions Sri Lanka as South Asia’s Gateway for UAE Business Expansion",
+      "dek": "Exclusive invitation-only engagement at the Ritz-Carlton DIFC brought together approximately 200 senior UAE business and diplomatic leaders to explore Sri Lanka’s role as a platform for regional growth The Embassy of Sri Lanka in the United Arab Emirates and the Consulate General of Sri Lanka in Dub",
+      "url": "https://mawratanews.lk/news/port-city-colombo-forum-in-dubai-positions-sri-lanka-as-south-asias-gateway-for-uae-business-expansion/",
+      "source": "Mawratanews.lk | Sri Lanka Latest Sinhala News And",
+      "sourceType": "external",
+      "image": "https://mawratanews.lk/wp-content/uploads/2026/06/Template-41.jpg",
+      "publishedAt": "2026-06-14T08:24:12.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "mawrata paper",
+        "mawrata",
+        "i sri lanka latest news",
+        "mawratanews.lk",
+        "mawrata news",
+        "port city"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "7654289ad8ea105a",
+      "slug": "week-in-review-exploited-check-point-vpn-zero-day-oracle-peoplesoft-servers-under-attack-a146aa",
+      "title": "Week in review: Exploited Check Point VPN zero-day, Oracle PeopleSoft servers under attack",
+      "dek": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: DockSec: Open-source AI-powered Docker security scanner DockSec is an OWASP Incubator Project that combines three container security scanners with a language-model layer for explanation and remediation.",
+      "url": "https://www.helpnetsecurity.com/2026/06/14/week-in-review-exploited-check-point-vpn-zero-day-oracle-peoplesoft-servers-under-attack/",
+      "source": "Help Net Security",
+      "sourceType": "external",
+      "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124830/cybersecurity-week-review-1-1500.webp",
+      "publishedAt": "2026-06-14T08:00:50.000Z",
+      "topic": "Security",
+      "tags": [
+        "week in review"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "452af750983b1ab7",
+      "slug": "morgan-stanley-raises-amgen-amgn-price-target-following-a-strong-start-for-uplizna-259bab",
+      "title": "Morgan Stanley Raises Amgen (AMGN) Price Target Following a Strong Start for Uplizna",
+      "dek": "With an annual dividend yield of 2.85%, Amgen Inc. (NASDAQ:AMGN) is included among the 12 High Yield Fortune 500 Stocks to Buy Now. Amgen Inc. (NASDAQ:AMGN) discovers, develops, manufactures, and delivers innovative medicines to fight some of the world’s toughest diseases. On June 10, Morgan Stanley",
+      "url": "https://www.insidermonkey.com/blog/morgan-stanley-raises-amgen-amgn-price-target-following-a-strong-start-for-uplizna-1781500/",
+      "source": "Insider Trading",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/3UilTJpu2iI3wgS84DCxMfCZSuRWq2rjue5Axh37QH8/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/22104505/AMGN-insidermonkey-1695393902043.jpg",
+      "publishedAt": "2026-06-14T05:37:25.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 40
+    },
+    {
+      "id": "d752d04f0c3d0184",
+      "slug": "is-oracle-orcl-one-of-the-best-s-p-500-dividend-stocks-to-buy-right-now-3a37de",
+      "title": "Is Oracle (ORCL) One of the Best S&P 500 Dividend Stocks to Buy Right Now?",
+      "dek": "Oracle Corporation (NYSE:ORCL) is included among the 10 Best S&P 500 Dividend Stocks to Buy Right Now. On June 11, Scotiabank lowered its price recommendation on Oracle Corporation (NYSE:ORCL) to $241 from $290. It reiterated an Outperform rating on the shares. The firm said it continues to like Ora",
+      "url": "https://ca.finance.yahoo.com/news/oracle-orcl-one-best-p-043922572.html",
       "source": "Yahoo! News",
       "sourceType": "external",
-      "image": "https://s.yimg.com/ny/api/res/1.2/4ENTyVCqELQHSdBZPVHorw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTIzODg7aD04NjQ-/https://media.zenfs.com/en/simply_wall_st__316/10232bfeaa28288a2e6f936e1c871a73",
-      "publishedAt": "2026-06-12T23:15:05.000Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/Bl18cPYGq0hSGnfiegxoxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAw/https://media.zenfs.com/en/insidermonkey.com/c744b8e380d10e948e557e78b8e86ff3",
+      "publishedAt": "2026-06-14T04:39:22.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "share price",
-        "meaningful value",
-        "fair value"
+        "oracle corporation",
+        "viacheslav bublyk",
+        "oracle cloud infrastructure"
       ],
+      "priority": 39
+    },
+    {
+      "id": "4b48a864925f8504",
+      "slug": "who-is-jayshree-ullal-indian-origin-woman-ceo-on-america-s-richest-self-made-list-5cfaa6",
+      "title": "Who Is Jayshree Ullal? Indian-origin woman CEO On America’s richest self-made List",
+      "dek": "Jayshree Ullal is an Indian-American billionaire and CEO of Arista Networks who built a $6.8B fortune by scaling cloud networking for global tech giants. The post Who Is Jayshree Ullal? Indian-origin woman CEO On America’s richest self-made List appeared first on The Sunday Guardian .",
+      "url": "https://sundayguardianlive.com/business/meet-jayshree-ullal-top-ranked-indian-origin-woman-ceo-on-americas-richest-self-made-list-with-a-68-billion-net-worth-206697/",
+      "source": "The Sunday Guardian",
+      "sourceType": "external",
+      "image": "https://sundayguardianlive.com/wp-content/uploads/2026/06/jayshree-ullal.jpg",
+      "publishedAt": "2026-06-14T04:39:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "self-made women billionaires 2026",
+        "indian-origin business leaders",
+        "cisco vs arista lawsuit",
+        "networking technology companies",
+        "cloud networking industry",
+        "indian-american billionaire"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "e9dc5523-6cdf-4718-9526-e9b686066ea6",
+      "slug": "honeywell-sees-strong-m-a-opportunities-in-industrial-automation-business-8820b8",
+      "title": "Honeywell Sees Strong M&A Opportunities in Industrial Automation Business",
+      "dek": "“There is a ton of opportunity for M&A,” Peter Lau, president of Honeywell’s Industrial Automation unit, said during the company’s investor day in New York. He added that the business operates in a market worth roughly $35 billion.",
+      "url": "https://www.insidermonkey.com/blog/honeywell-sees-strong-ma-opportunities-in-industrial-automation-business-1781464/",
+      "source": "Insider Monkey",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/O_iY85y9OMBWuXPNC4omRnqJP9kCBUN948OCJM_5jjo/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/12/01183920/NML-insidermonkey-1701473958399.jpg",
+      "publishedAt": "2026-06-14T04:35:44.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "shopping"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "9b727bb9-8d09-4415-8cfc-6e96329beb9e",
+      "slug": "oracle-s-stock-is-plummeting-is-this-an-opportunity-or-a-red-flag-87b99a",
+      "title": "Oracle's Stock Is Plummeting. Is This an Opportunity or a Red Flag?",
+      "dek": "Oracle's (ORCL 0.05%) stock is getting pummeled after reporting its fourth-quarter and full-year fiscal 2026 earnings.",
+      "url": "https://www.fool.com/investing/2026/06/13/oracles-stock-is-plummeting-is-this-an-opportunity/",
+      "source": "The Motley Fool",
+      "sourceType": "external",
+      "image": "https://g.foolcdn.com/editorial/images/873922/orcl.png",
+      "publishedAt": "2026-06-14T02:31:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "finance"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "14f10de7a0913b33",
+      "slug": "hyatt-adopts-oracle-opera-cloud-for-property-management-d77e14",
+      "title": "Hyatt Adopts Oracle OPERA Cloud for Property Management",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://hospitalitynews.in/news/hyatt-selects-oracle-opera-cloud-as-global-property-management-system",
+      "source": "Hospitalitynews",
+      "sourceType": "external",
+      "image": "https://hospitalitynews.in/uploads/images/202409/image_870x580_66e9776eb1a25.jpg",
+      "publishedAt": "2026-06-14T00:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
       "priority": 36
     },
     {
@@ -1999,6 +1958,22 @@
       "sourceType": "podcast",
       "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
       "publishedAt": "2024-07-09T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "d38db88cd3fd3cc0",
+      "slug": "working-with-oke-virtual-nodes-f5a370",
+      "title": "Working with OKE Virtual Nodes",
+      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-02T14:00:00.000Z",
       "topic": "Oracle Cloud",
       "tags": [
         "OCI"
