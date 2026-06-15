@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T21:52:10.632Z",
+  "generatedAt": "2026-06-15T22:35:42.928Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,100 +7,150 @@
   },
   "items": [
     {
-      "id": "f970f255-b8f4-45b9-9004-648a44774c2f",
-      "slug": "oracle-stock-dips-despite-continued-strong-backlog-growth-should-investors-buy-the-stock-50027b",
-      "title": "Oracle Stock Dips Despite Continued Strong Backlog Growth. Should Investors Buy the Stock on the Dip?",
-      "dek": "Oracle ( ORCL 0.05% ) has become one of the biggest battleground stocks when it comes to artificial intelligence (AI), and investors were in a selling mood after the software-as-a-service (SaaS) and cloud computer provider reported its Q4 fiscal year 2026 results. While the stock has been volatile, ",
-      "url": "https://www.fool.com/investing/2026/06/14/oracle-stock-dips-despite-continued-strong-backlog/",
-      "source": "The Motley Fool",
+      "id": "8016a6a3-0250-49a4-8055-5322df5298ee",
+      "slug": "shinyhunters-hits-universities-via-oracle-zero-day-bf2505",
+      "title": "ShinyHunters Hits Universities Via Oracle Zero-Day",
+      "dek": "The hacking group ShinyHunters exploited a zero-day vulnerability in Oracle PeopleSoft in an active extortion campaign impacting more than 100 organizations globally.",
+      "url": "https://www.bankinfosecurity.com/shinyhunters-hits-universities-via-oracle-zero-day-a-31979",
+      "source": "Bank Info Security",
       "sourceType": "external",
-      "image": "https://g.foolcdn.com/editorial/images/873922/orcl.png",
-      "publishedAt": "2026-06-14T20:29:39.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/shinyhunters-hits-universities-via-oracle-zero-day-image_large-4-a-31979.jpg",
+      "publishedAt": "2026-06-15T21:15:49.000Z",
+      "topic": "Security",
       "tags": [
-        "finance"
+        "internet security"
       ],
       "priority": 69
     },
     {
-      "id": "842285da-6ed6-418d-855e-6be22d2573e4",
-      "slug": "aviat-networks-avnw-long-haul-expansion-adds-backbone-capacity-angle-to-the-ai-networkin-96d6db",
-      "title": "Aviat Networks (AVNW): Long-Haul Expansion Adds Backbone Capacity Angle to the AI Networking Story",
-      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
-      "url": "https://www.insidermonkey.com/blog/aviat-networks-avnw-long-haul-expansion-adds-backbone-capacity-angle-to-the-ai-networking-story-1781610/",
-      "source": "Insider Monkey",
+      "id": "ea87b4ec-bf2e-4b74-8e14-7f0979ee435a",
+      "slug": "nvidia-plans-massive-20-billion-debt-offering-to-fuel-ai-expansion-0b8dde",
+      "title": "Nvidia Plans Massive $20 Billion Debt Offering to Fuel AI Expansion",
+      "dek": "NVIDIA is reportedly preparing to raise approximately $20 billion through its first corporate bond sale in five years.",
+      "url": "https://www.ibtimes.com/nvidia-plans-massive-20-billion-debt-offering-fuel-ai-expansion-3804131",
+      "source": "International Business Times",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/RqK_oA8eRZaTFa6fTAFyTDmtT1ILVsIYlnvKZOtblpM/resize:fit:800:533:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2020/01/09200252/Office-Laptop-Working-Websurfing-pexels-photo-374016.jpeg",
-      "publishedAt": "2026-06-14T19:31:13.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://d.ibtimes.com/en/full/4650113/nvidia.jpg?w=736&f=7c0dabccc015aa12cf2356ab1b5185ba",
+      "publishedAt": "2026-06-15T19:34:45.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
         "business"
       ],
-      "priority": 62
+      "priority": 59
     },
     {
-      "id": "852e6614-f828-4c1e-ab53-c2e87155d1d9",
-      "slug": "best-altcoins-to-buy-in-2026-9d897e",
-      "title": "Best Altcoins to Buy in 2026",
-      "dek": "Watching Layer 1 blockchains fight for supremacy has started to feel like rival mall developers arguing about whose food court is superior. Entertaining? Sometimes. Investable? That's getting complicated. Instead of asking 'which blockchain wins?', the more interesting angle is: 'What does every blo",
-      "url": "https://www.fool.com/investing/2026/06/14/best-altcoins-to-buy-in-2026/",
-      "source": "The Motley Fool",
-      "sourceType": "external",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F868954%2Fblockchain-data-information-cryptocurrency.jpg&w=3840&op=resize",
-      "publishedAt": "2026-06-14T19:08:04.000Z",
-      "topic": "Java & MySQL",
+      "id": "27b55081b1bd099b",
+      "slug": "data-driven-ehrs-and-ai-for-an-interoperable-digital-health-ecosystem-7dec73",
+      "title": "Data-Driven EHRs and AI for an Interoperable Digital Health Ecosystem",
+      "dek": "An interview with Romel Khalife, Country Manager – UAE and Kuwait, Oracle Health & Life Sciences, conducted by Peter Birch during WHX Dubai 2026, about the evolution and future of Electronic Health Records (EHRs). The podcast highlights how EHRs had transformed from being mere compliance tools into ",
+      "url": "https://67e59a61-3030-46b6-994e-347256b36686.libsyn.com/data-driven-ehrs-and-ai-for-an-interoperable-digital-health-ecosystem",
+      "source": "Perspectives on Health and Tech",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/67e59a61-3030-46b6-994e-347256b36686/Perspectives_on_Health_and_Tech-LiveWHX_master.mp3?dest-id=3794292",
+      "publishedAt": "2026-06-15T13:00:00.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "digital currencies"
-      ],
-      "priority": 61
-    },
-    {
-      "id": "f8336016-5793-469c-ac50-a833c7fb6cf5",
-      "slug": "why-oracle-orcl-is-down-13-8-after-unveiling-massive-ai-spend-and-new-financing-plans-eb53e0",
-      "title": "Why Oracle (ORCL) Is Down 13.8% After Unveiling Massive AI Spend And New Financing Plans",
-      "dek": "Earlier this week, Oracle reported record fiscal 2026 results, including US$19.18 billion in fourth-quarter revenue and US$17.09 billion in annual net income, while confirming guidance for US$90 billion in fiscal 2027 revenue and announcing plans to raise about US$40 billion in new debt and equity t",
-      "url": "https://simplywall.st/stocks/us/software/nyse-orcl/oracle/news/why-oracle-orcl-is-down-138-after-unveiling-massive-ai-spend",
-      "source": "simplywall.st",
-      "sourceType": "external",
-      "image": "https://images.simplywall.st/asset/company-cover/22247-main-header/1756200262254",
-      "publishedAt": "2026-06-14T18:23:13.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "finance"
+        "Oracle Health",
+        "AI"
       ],
       "priority": 58
     },
     {
-      "id": "05fec449-8d86-4278-978b-885f60ba19fa",
-      "slug": "chainlink-link-the-2026-world-cup-boosts-bets-but-not-the-price-why-fccf00",
-      "title": "Chainlink (LINK) : The 2026 World Cup Boosts Bets, But Not the Price... Why?",
-      "dek": "The 2026 World Cup is in full swing, decentralized betting is exploding thanks to Chainlink... yet the LINK crypto stagnates at 7.94 dollars. A paradox? No, it’s proof that oracles are no longer enough to attract the whales. We analyze this mismatch between adoption and valuation.",
-      "url": "https://www.cointribune.com/en/chainlink-link-why-the-2026-world-cup-does-not-boost-the-token-despite-billions-in-bets/",
-      "source": "Cointribune",
+      "id": "4141db14-df09-4fb5-b18a-e735c80c9e8f",
+      "slug": "giants-pitchers-alienate-fans-and-san-francisco-by-defacing-pride-hats-34912e",
+      "title": "Giants pitchers alienate fans and San Francisco by defacing Pride hats",
+      "dek": "The San Francisco Giants have enough problems this season that you wouldn’t expect the players to actively try to alienate their fans. Fourteen games below .500, fourth place in the division, the second worst record in the National League. With numbers like that, you’d think they might do everything",
+      "url": "https://www.sfchronicle.com/sports/annkillion/article/giants-pitchers-alienate-fans-san-francisco-22306122.php",
+      "source": "San Francisco Chronicle",
       "sourceType": "external",
-      "image": "https://www.cointribune.com/app/uploads/2026/06/Chainlink-Link-Coupe-du-monde-2026-crypto-1.jpg",
-      "publishedAt": "2026-06-14T17:05:00.000Z",
+      "image": "https://s.hdnux.com/photos/01/66/45/13/31085280/3/ratio3x2_1920.jpg",
+      "publishedAt": "2026-06-15T21:04:16.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "digital currencies"
+        "baseball"
       ],
-      "priority": 54
+      "priority": 56
     },
     {
-      "id": "cf4e9a52-df2d-47b7-a223-53825d4e11a4",
-      "slug": "2-best-stocks-to-buy-in-the-market-right-now-0bcdc2",
-      "title": "2 Best Stocks to Buy in the Market Right Now",
-      "dek": "Power has become one of the biggest bottlenecks in the global artificial intelligence (AI) build-out. Goldman Sachs expects the demand for power in the U.S. data center market to rise from 31 gigawatts (GW) in 2025 to 66 GW by 2027, driven mainly by the rapid expansion of AI infrastructure. Hence, c",
-      "url": "https://www.fool.com/investing/2026/06/14/2-best-stocks-to-buy-in-the-market-right-now/",
-      "source": "The Motley Fool",
+      "id": "1b3eba87-f797-405d-a272-77daa49d197c",
+      "slug": "micron-s-sold-out-hbm-capacity-makes-june-24-a-make-or-break-catalyst-49255b",
+      "title": "Micron’s Sold-Out HBM Capacity Makes June 24 a Make-or-Break Catalyst",
+      "dek": "Micron traded around $1,063 Monday, carving a session range of $1,052 to $1,063.52 and pressing back toward its all-time high of $1,089.29, as the U.S.-Iran peace deal sent Asia tech soaring and reignited the AI memory trade.",
+      "url": "https://www.investing.com/analysis/microns-soldout-hbm-capacity-makes-june-24-a-makeorbreak-catalyst-200682176",
+      "source": "Investing.com",
       "sourceType": "external",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F869817%2Fanalyst_writing_studying_charts_on_a_desktop.jpg&w=1200&op=resize",
-      "publishedAt": "2026-06-14T15:02:40.000Z",
-      "topic": "Oracle Cloud",
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB3M12Q_L.jpg",
+      "publishedAt": "2026-06-15T18:39:22.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
+        "business",
         "finance"
       ],
+      "priority": 56
+    },
+    {
+      "id": "64ed230d-58f0-4ac2-97ff-61636761da0f",
+      "slug": "java-s-project-valhalla-finally-lands-a-preview-in-jdk-28-047d86",
+      "title": "Java's Project Valhalla finally lands a preview in JDK 28",
+      "dek": "Oracle software engineer Lois Foltan has confirmed that Java Enhancement Proposal 401 for Value Classes and Objects – part of Project Valhalla – will be integrated into the OpenJDK mainline early next month, targeting JDK 28.",
+      "url": "https://www.theregister.com/devops/2026/06/15/javas-project-valhalla-finally-lands-a-preview-in-jdk-28/5255557",
+      "source": "The Register",
+      "sourceType": "external",
+      "image": "https://image.theregister.com/1683291.jpg?imageId=1683291&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "publishedAt": "2026-06-15T17:15:00.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "technology"
+      ],
+      "priority": 53
+    },
+    {
+      "id": "af2eeef5-5011-4a90-9963-c68577c98414",
+      "slug": "hackers-attacked-oracle-data-of-hundreds-of-companies-leaked-eeed78",
+      "title": "Hackers attacked Oracle: Data of hundreds of companies leaked",
+      "dek": "The world of corporate cybersecurity is experiencing another serious shake-up. The well-known hacking group ShinyHunters has successfully breached the security of more than a hundred organizations around the world. It exploited a previously unknown, critical vulnerability in the popular enterprise s",
+      "url": "https://samsungmagazine.eu/en/2026/06/15/masivni-kyberneticky-utok-ochromil-stovky-firem-a-univerzit-hackeri-zneuzili-kritickou-chybu-v-softwaru/",
+      "source": "Samsung magazín",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-06-15T15:57:06.000Z",
+      "topic": "Security",
+      "tags": [
+        "internet security"
+      ],
       "priority": 50
+    },
+    {
+      "id": "a82962b7-182f-4fb8-a7ca-402773039f15",
+      "slug": "weekly-recap-chrome-0-day-unifi-exploits-macos-stealers-vpn-flaw-and-more-8ebece",
+      "title": "⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
+      "dek": "Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod. This week is the same lesson in a new form: phishing kits are easier to rent, AI names are useful bait, old login paths still fail, and forgotten soft",
+      "url": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
+      "source": "The Hacker News",
+      "sourceType": "external",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtdohah5P1Lv9egIZCwwxpEdcV4phYigmhvgzB3ulDhSeeffe4qDsVoowrzaTD6WsgwyjKIdJ_vzvnsUJ78zn5oxOl83qUj5ie8NN_MF8pMbdcikrPpV9vAUgm-7NLOztqN17uTx-dktpkgcQSFrmulSyCtE3MCGHOe5yQRVDFbsrx0DUjoHTa76k4Oos/s1700-e365/thn-recap.jpg",
+      "publishedAt": "2026-06-15T13:49:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "internet security"
+      ],
+      "priority": 47
+    },
+    {
+      "id": "231afe8448ae25a5",
+      "slug": "cristian-schuszter-at-javaone-2026-82d11f",
+      "title": "Cristian Schuszter at JavaOne 2026",
+      "dek": "Jim Grisanzio from Oracle Java Developer Relations talks with Cristian Schuszter at JavaOne 2026. Cristian is a PhD in systems engineering and a Tech Lead at CERN in Geneva. He's been at CERN for 8 years, but he's been coding since he was eight years old. He loves working with and contributing to th",
+      "url": "https://oraclegroundbreakers.libsyn.com/cristian-schuszter-at-javaone-2026",
+      "source": "Duke's Corner",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oraclegroundbreakers/DukesCorner_S05_E19_Christian.mp3?dest-id=2526083",
+      "publishedAt": "2026-06-15T12:45:28.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "Java"
+      ],
+      "priority": 46
     },
     {
       "id": "f58466d207e1f5cc",
@@ -151,15 +201,15 @@
       "priority": 46
     },
     {
-      "id": "e02d38cb-275c-4bb6-a174-b98af31a2f12",
-      "slug": "wolfe-research-raises-pt-on-micron-technology-mu-stock-0f0588",
-      "title": "Wolfe Research Raises PT on Micron Technology (MU) Stock",
-      "dek": "Micron Technology, Inc. (NASDAQ:MU) is one of the Best Bargain Stocks to Buy in June. On June 11, Wolfe Research lifted its price objective on the company’s stock to $1,250 from $550 and maintained an “Outperform” rating.",
-      "url": "https://www.insidermonkey.com/blog/wolfe-research-raises-pt-on-micron-technology-mu-stock-1781506/",
-      "source": "Insider Monkey",
+      "id": "29ae391a-522f-4cc8-bd86-d3e1c1c80f09",
+      "slug": "bank-of-america-holds-buy-rating-on-oracle-nyse-orcl-stock-after-post-earnings-selloff-6f6527",
+      "title": "Bank Of America Holds Buy Rating On Oracle (NYSE: ORCL) Stock After Post-Earnings Selloff",
+      "dek": "Shares of Oracle (NYSE: ORCL) dropped 8.53% on June 11 after investors grew concerned about the company’s plans to raise additional capital to fund its artificial intelligence expansion.",
+      "url": "https://www.foreignpolicyjournal.com/2026/06/15/bank-of-america-holds-buy-rating-on-oracle-nyse-orcl-stock-after-post-earnings-selloff/",
+      "source": "foreignpolicyjournal.com",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/2QQwxF89G6SVoiuqecl3ZJ35wh02HQWoTuWaOfV2mOA/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/20033446/MU-insidermonkey-1695195284165.jpg",
-      "publishedAt": "2026-06-14T11:21:42.000Z",
+      "image": "https://www.foreignpolicyjournal.com/wp-content/uploads/2026/05/oracle-2.jpg",
+      "publishedAt": "2026-06-15T12:29:00.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "finance"
@@ -167,176 +217,563 @@
       "priority": 45
     },
     {
-      "id": "9d6b1423d9639c79",
-      "slug": "destination-wealth-management-raises-position-in-oracle-corporation-orcl-288a5b",
-      "title": "Destination Wealth Management Raises Position in Oracle Corporation $ORCL",
-      "dek": "Destination Wealth Management grew its holdings in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 117.3% during the fourth quarter, according to the company in its most recent filing with the Securities & Exchange Commission. The firm owned 13,715 shares of the enterprise software provide",
-      "url": "https://www.watchlistnews.com/destination-wealth-management-raises-position-in-oracle-corporation-orcl/11115210.html",
-      "source": "Watch List News",
+      "id": "94dd19d1-62f6-4764-a040-8a767c16077b",
+      "slug": "the-centre-for-addiction-and-mental-health-optimizes-operations-and-patient-care-with-or-84f5b5",
+      "title": "The Centre for Addiction and Mental Health Optimizes Operations and Patient Care with Oracle Fusion Cloud Applications",
+      "dek": "Canada's largest mental health teaching hospital unifies clinical and administrative systems with AI-powered applications suite to improve visibility, efficiency, and decision-making",
+      "url": "https://www.prnewswire.com/news-releases/the-centre-for-addiction-and-mental-health-optimizes-operations-and-patient-care-with-oracle-fusion-cloud-applications-302799539.html",
+      "source": "PR Newswire",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-06-14T09:17:11.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://mmx.prnewswire.com/media/MS605173/Oracle-Logo_Logo.jpg?id=OA2704501&p=twitter",
+      "publishedAt": "2026-06-15T11:00:00.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "sec filings",
-        "institutional investor holdings",
-        "68389x10",
-        "13f",
-        "computer and technology",
-        "oracle"
+        "business"
+      ],
+      "priority": 44
+    },
+    {
+      "id": "cabe628e-a0f0-4a29-ac51-148214338af8",
+      "slug": "java-s-biggest-language-change-in-a-decade-is-finally-landing-it-took-197-000-lines-of-c-50efc1",
+      "title": "Java’s biggest language change in a decade is finally landing. It took 197,000 lines of code.",
+      "dek": "TL;DR Project Valhalla’s value classes are heading to JDK 28, a 197,000-line change that rewrites how Java handles object identity. Oracle software engineer Lois Foltan has confirmed that Java Enhancement Proposal 401, which introduces value classes and objects to the language, will be integrated in",
+      "url": "https://thenextweb.com/news/java-project-valhalla-jep-401-value-classes-jdk-28",
+      "source": "The Next Web",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-06-15T18:01:00.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "technology"
       ],
       "priority": 43
     },
     {
-      "id": "81782d95-3a30-4883-abac-61aef2dc0a57",
-      "slug": "shinyhunters-exploits-oracle-peoplesoft-zero-day-cve-2026-35273-in-widespread-higher-edu-000a9f",
-      "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day CVE-2026-35273 in Widespread Higher Education Cyberattack",
-      "dek": "Executive Summary Between late May and early June 2026, the notorious threat actor group ShinyHunters executed a highly coordinated cyberattack campaign targeting the higher education sector by exploiting a previously unknown zero-day vulnerability in Oracle PeopleSoft . This vulnerability, tracked ",
-      "url": "https://www.rescana.com/post/shinyhunters-exploits-oracle-peoplesoft-zero-day-cve-2026-35273-in-widespread-higher-education-cyberattack",
-      "source": "Rescana",
+      "id": "2a889bf5a14e81fb",
+      "slug": "oracle-to-train-3-lakh-learners-in-up-in-ai-cloud-and-cybersecurity-9d447d",
+      "title": "Oracle to train 3 lakh learners in UP in AI, cloud and cybersecurity",
+      "dek": "Oracle has partnered with the Uttar Pradesh State Skill Development Mission to train 3 lakh students and professionals in AI, cloud, cybersecurity and data science by 2029. The free programme will run through UPSDM’s Oracle MyLearn platform and offer more than 300 hours of structured training across",
+      "url": "https://www.news9live.com/technology/artificial-intelligence/oracle-upsdm-ai-cloud-cybersecurity-training-3-lakh-learners-2980374",
+      "source": "News9live",
       "sourceType": "external",
-      "image": "https://www.rescana.com/post/img/shinyhunters-exploits-oracle-peoplesoft-zero-day-cve-2026-35273-in-widespread-higher-education-cyberattack-cover.png",
-      "publishedAt": "2026-06-14T08:33:34.000Z",
+      "image": "https://images.news9live.com/wp-content/uploads/2026/04/oracleX.jpg",
+      "publishedAt": "2026-06-15T10:32:00.000Z",
       "topic": "Security",
       "tags": [
-        "business"
+        "oracle ai training",
+        "data science training india",
+        "uttar pradesh skill development mission",
+        "up skill development",
+        "oracle mylearn",
+        "free ai courses up"
       ],
-      "priority": 42
+      "priority": 43
     },
     {
-      "id": "d694c9c003919fde",
-      "slug": "port-city-colombo-forum-in-dubai-positions-sri-lanka-as-south-asia-s-gateway-for-uae-bus-dc17f8",
-      "title": "Port City Colombo Forum in Dubai Positions Sri Lanka as South Asia’s Gateway for UAE Business Expansion",
-      "dek": "Exclusive invitation-only engagement at the Ritz-Carlton DIFC brought together approximately 200 senior UAE business and diplomatic leaders to explore Sri Lanka’s role as a platform for regional growth The Embassy of Sri Lanka in the United Arab Emirates and the Consulate General of Sri Lanka in Dub",
-      "url": "https://mawratanews.lk/news/port-city-colombo-forum-in-dubai-positions-sri-lanka-as-south-asias-gateway-for-uae-business-expansion/",
-      "source": "Mawratanews.lk | Sri Lanka Latest Sinhala News And",
+      "id": "688fe610173abbdf",
+      "slug": "oracle-to-provide-ai-cybersecurity-training-to-300-000-up-students-53224c",
+      "title": "Oracle to provide AI, cybersecurity training to 300,000 UP students",
+      "dek": "Oracle has announced a partnership with the Uttar Pradesh State Skill Development Mission (UPSDM) to provide skills training in artificial intelligence (AI), cloud computing, cybersecurity, and data science.",
+      "url": "https://www.newsbytesapp.com/news/science/oracle-partners-with-upsdm-to-provide-ai-cloud-skills-training/story",
+      "source": "Newsbytes",
       "sourceType": "external",
-      "image": "https://mawratanews.lk/wp-content/uploads/2026/06/Template-41.jpg",
-      "publishedAt": "2026-06-14T08:24:12.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "mawrata paper",
-        "mawrata",
-        "i sri lanka latest news",
-        "mawratanews.lk",
-        "mawrata news",
-        "port city"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "7654289ad8ea105a",
-      "slug": "week-in-review-exploited-check-point-vpn-zero-day-oracle-peoplesoft-servers-under-attack-a146aa",
-      "title": "Week in review: Exploited Check Point VPN zero-day, Oracle PeopleSoft servers under attack",
-      "dek": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: DockSec: Open-source AI-powered Docker security scanner DockSec is an OWASP Incubator Project that combines three container security scanners with a language-model layer for explanation and remediation.",
-      "url": "https://www.helpnetsecurity.com/2026/06/14/week-in-review-exploited-check-point-vpn-zero-day-oracle-peoplesoft-servers-under-attack/",
-      "source": "Help Net Security",
-      "sourceType": "external",
-      "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/03/25124830/cybersecurity-week-review-1-1500.webp",
-      "publishedAt": "2026-06-14T08:00:50.000Z",
+      "image": "https://i.cdn.newsbytesapp.com/images/l91220260615145211.jpeg",
+      "publishedAt": "2026-06-15T10:06:22.000Z",
       "topic": "Security",
       "tags": [
-        "week in review"
+        "AI"
       ],
-      "priority": 42
+      "priority": 43
     },
     {
-      "id": "452af750983b1ab7",
-      "slug": "morgan-stanley-raises-amgen-amgn-price-target-following-a-strong-start-for-uplizna-259bab",
-      "title": "Morgan Stanley Raises Amgen (AMGN) Price Target Following a Strong Start for Uplizna",
-      "dek": "With an annual dividend yield of 2.85%, Amgen Inc. (NASDAQ:AMGN) is included among the 12 High Yield Fortune 500 Stocks to Buy Now. Amgen Inc. (NASDAQ:AMGN) discovers, develops, manufactures, and delivers innovative medicines to fight some of the world’s toughest diseases. On June 10, Morgan Stanley",
-      "url": "https://www.insidermonkey.com/blog/morgan-stanley-raises-amgen-amgn-price-target-following-a-strong-start-for-uplizna-1781500/",
+      "id": "3dc601792e144cfd",
+      "slug": "5-most-undervalued-long-term-stocks-to-buy-right-now-781ec5",
+      "title": "5 Most Undervalued Long Term Stocks to Buy Right Now",
+      "dek": "In this article, we are going to look at the 5 Most Undervalued Long Term Stocks to Buy Right Now. For a longer list and more details on how we picked these stocks, you can go to 10 Most Undervalued Long Term Stocks to Buy Right Now. 5. Delta Air Lines, Inc. (NYSE:DAL) Forward P/E: ~14.5x 3-Year [..",
+      "url": "https://www.insidermonkey.com/blog/5-most-undervalued-long-term-stocks-to-buy-right-now-1780129/",
       "source": "Insider Trading",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/3UilTJpu2iI3wgS84DCxMfCZSuRWq2rjue5Axh37QH8/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/22104505/AMGN-insidermonkey-1695393902043.jpg",
-      "publishedAt": "2026-06-14T05:37:25.000Z",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/WD94gS9t3lAlMOZ8IlY7NJ45wPULFxIrZ6FWz5Qw7B4/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/12/16070916/PFIS-insidermonkey-1702728554903.jpg",
+      "publishedAt": "2026-06-15T09:29:34.000Z",
       "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 42
+    },
+    {
+      "id": "51e833b78d990a8d",
+      "slug": "oracle-to-train-3-lakh-students-professionals-across-uttar-pradesh-in-ai-cloud-cybersecu-3e7074",
+      "title": "Oracle to Train 3 Lakh Students, Professionals Across Uttar Pradesh in AI, Cloud, Cybersecurity",
+      "dek": "Oracle partners with Uttar Pradesh State Skill Development Mission to train 300,000 students and professionals in AI, cloud, cybersecurity and data science by 2029, offering 300+ hours of free digital learning via Oracle MyLearn with badges and professional certifications to boost employability and ",
+      "url": "https://www.outlookbusiness.com/deeptech/oracle-to-train-3-lakh-students-professionals-across-uttar-pradesh-in-ai-cloud-cybersecurity",
+      "source": "Outlook Business",
+      "sourceType": "external",
+      "image": "https://media.assettype.com/outlookbusiness/2026-06-15/uyrbqi4f/shortstories520251001.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "publishedAt": "2026-06-15T09:02:30.000Z",
+      "topic": "Security",
+      "tags": [
+        "MyLearn",
+        "AI"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "bdd7123abb2ba6ae",
+      "slug": "how-ai-is-reshaping-india-s-it-jobs-30-less-hirings-vanishing-mid-level-roles-4a97f9",
+      "title": "How AI Is Reshaping India's IT Jobs: 30% Less Hirings, Vanishing Mid-level Roles",
+      "dek": "New Delhi [India], June 15: A study conducted by FindMyCollege, covering more than 1 lakh active IT jobs in the current market, finds the pay ladder starting at a median of ₹2.6 LPA (lakhs per annum), rising to ₹25 LPA for experienced roles. However, a new mid-career band gap has emerged. This segme",
+      "url": "https://www.business-standard.com/content/press-releases-ani/how-ai-is-reshaping-india-s-it-jobs-30-less-hirings-vanishing-mid-level-roles-126061500538_1.html",
+      "source": "Business Standard",
+      "sourceType": "external",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/15/full/20260615140218.jpg",
+      "publishedAt": "2026-06-15T09:00:11.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "python hirings",
+        "machine learning",
+        "advertorial disclaimer",
+        "job restructuring",
+        "ht syndication",
+        "skill consolidation"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "97aedab103b5105e",
+      "slug": "business-news-how-ai-is-reshaping-india-s-it-jobs-30-less-hirings-vanishing-mid-level-ro-714bcb",
+      "title": "Business News | How AI Is Reshaping India's IT Jobs: 30% Less Hirings, Vanishing Mid-level Roles",
+      "dek": "Get latest articles and stories on Business at LatestLY. New Delhi [India], June 15: A study conducted by FindMyCollege, covering more than 1 lakh active IT jobs in the current market, finds the pay ladder starting at a median of ₹2.6 LPA (lakhs per annum), rising to ₹25 LPA for experienced roles. H",
+      "url": "https://www.latestly.com/agency-news/business-news-how-ai-is-reshaping-indias-it-jobs-30-less-hirings-vanishing-mid-level-roles-7474186.html",
+      "source": "Latestly",
+      "sourceType": "external",
+      "image": "https://st1.latestly.com/wp-content/uploads/2026/06/ANI-20260615083152.jpg",
+      "publishedAt": "2026-06-15T08:58:22.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "a13c395652a77b13",
+      "slug": "education-cyber-security-market-size-accelerated-by-14-8-cagr-by-key-players-cisco-syste-4adc11",
+      "title": "Education Cyber Security Market Size Accelerated by 14.8% CAGR | By Key Players: Cisco Systems, Palo Alto Networks, Fortinet, Check Point Software Technologies, CrowdStrike, Microsoft",
+      "dek": "The Education Cyber Security Market is undergoing structural transformation as geopolitical instability, including the escalating US-Iran conflict environment, intensifies cyber warfare risks across public institutions, universities, K-12 networks, digital learning platforms, and academic research e",
+      "url": "https://www.openpr.com/news/4549649/education-cyber-security-market-size-accelerated-by-14-8-cagr",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/6/L615461015_g.jpg",
+      "publishedAt": "2026-06-15T08:56:28.000Z",
+      "topic": "Security",
+      "tags": [
+        "pr service",
+        "marketing",
+        "advertising",
+        "presses release",
+        "publicity",
+        "media release"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "d5ed61420babcfbf",
+      "slug": "oracle-to-train-3-lakh-students-professionals-across-uttar-pradesh-in-ai-cloud-cybersecu-3ebed1",
+      "title": "Oracle to train 3 lakh students, professionals across Uttar Pradesh in AI, cloud, cybersecurity",
+      "dek": "Oracle's collaboration with UPSDM will deliver skills training in AI, cloud, cybersecurity, and data science",
+      "url": "https://www.thehindubusinessline.com/info-tech/oracle-to-train-3-lakh-students-professionals-across-uttar-pradesh-in-ai-cloud-cybersecurity/article71104144.ece",
+      "source": "The Hindu - Business Line",
+      "sourceType": "external",
+      "image": "https://bl-i.thgim.com/public/incoming/bi49xu/article71104172.ece/alternates/LANDSCAPE_1200/2026-06-10T155717Z_729174968_RC2EOGAEPDE9_RTRMADP_3_ORACLE-RESULTS.JPG",
+      "publishedAt": "2026-06-15T08:54:59.000Z",
+      "topic": "Security",
+      "tags": [
+        "AI"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "e127513a3afee229",
+      "slug": "oracle-to-train-300-000-professionals-across-uttar-pradesh-in-ai-cloud-cybersecurity-2954f0",
+      "title": "Oracle to train 300,000 professionals across Uttar Pradesh in AI, cloud, cybersecurity",
+      "dek": "Oracle is launching an impactful initiative alongside the Uttar Pradesh State Skill Development Mission! This strategic collaboration will offer invaluable training resources focusing on AI, cloud services, cybersecurity, and data science. By the year 2029, around 300,000 students and professionals ",
+      "url": "https://economictimes.indiatimes.com/tech/technology/oracle-to-train-300000-professionals-across-uttar-pradesh-in-ai-cloud-cybersecurity/articleshow/131738629.cms",
+      "source": "The Economic Times",
+      "sourceType": "external",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-43816,resizemode-75,msid-131738629/tech/technology/oracle-to-train-300000-professionals-across-uttar-pradesh-in-ai-cloud-cybersecurity.jpg",
+      "publishedAt": "2026-06-15T08:44:16.000Z",
+      "topic": "Security",
+      "tags": [
+        "AI"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "60754efcc3b6fe4e",
+      "slug": "oracle-to-train-300k-youth-across-up-in-ai-cloud-cybersecurity-by-2029-304b0c",
+      "title": "Oracle to train 300k youth across UP in AI, cloud, cybersecurity by 2029",
+      "dek": "Oracle on Monday announced a partnership with Uttar Pradesh State Skill Development Mission (UPSDM) to deliver skills training in AI, cloud, cybersecurity and data science to three lakh students and professionals by 2029. The move aims to bolster employability and support career growth, while buildi",
+      "url": "https://www.business-standard.com/industry/news/oracle-to-train-300k-youth-across-up-in-ai-cloud-cybersecurity-by-2029-126061500491_1.html",
+      "source": "Business Standard",
+      "sourceType": "external",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1260615/thumb-126061500491.jpg",
+      "publishedAt": "2026-06-15T08:36:38.000Z",
+      "topic": "Security",
+      "tags": [
+        "oracle",
+        "workforce development",
+        "oracle cloud infrastructure",
+        "cloud computing",
+        "digital skills",
+        "upsdm"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "60a55f01-94fa-473c-aa81-9810be9eb5a9",
+      "slug": "jim-cramer-on-citigroup-very-bullish-6b6ef2",
+      "title": "Jim Cramer on Citigroup: “Very Bullish”",
+      "dek": "Next feels like a bit of an anomaly, frankly. I’m talking about Citigroup. Now, I am a believer in the great man or great woman theory of management, and CEO Jane Fraser certainly belongs in the pantheon.",
+      "url": "https://www.insidermonkey.com/blog/jim-cramer-on-citigroup-very-bullish-1781380/",
+      "source": "Insider Monkey",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/3e7Ak_lMPELxjQwcr9O2WRXzwa_qIHuh4dZ6o63GXWs/resize:fit:4032:3024:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2025/01/03064902/pexels-weekendplayer-187041.jpg",
+      "publishedAt": "2026-06-15T08:12:27.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "finance"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "063c0d95e51a80ea",
+      "slug": "ai-powered-experiences-why-the-future-of-enterprise-ai-is-moving-beyond-closed-ecosystem-05bcfe",
+      "title": "AI-Powered Experiences: Why the Future of Enterprise AI Is Moving Beyond Closed Ecosystems",
+      "dek": "MISSISSAUGA, ON - As enterprise AI adoption accelerates, organizations are facing a critical strategic decision: should AI capabilities be confined to a single platform ecosystem, or should enterprises retain the flexibility to leverage the best AI technologies available today -",
+      "url": "https://www.openpr.com/news/4549378/ai-powered-experiences-why-the-future-of-enterprise-ai",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/6/L615575320_g.jpg",
+      "publishedAt": "2026-06-15T07:06:19.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "pr service",
+        "marketing",
+        "advertising",
+        "presses release",
+        "publicity",
+        "media release"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "e3b5f07bf4c8ca49",
+      "slug": "payhawk-adds-sap-s-4hana-integration-in-summer-update-04e700",
+      "title": "Payhawk adds SAP S/4HANA integration in summer update",
+      "dek": "The update aims to cut reconciliation work for enterprise finance teams by linking spend data directly with SAP S/4HANA Public Cloud.",
+      "url": "https://cfotech.asia/story/payhawk-adds-sap-s-4hana-integration-in-summer-update",
+      "source": "Cfotech Asia",
+      "sourceType": "external",
+      "image": "https://cfotech.asia/uploads/story/2026/06/15/compatible_images__96_.jpg",
+      "publishedAt": "2026-06-15T07:00:00.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [],
       "priority": 40
     },
     {
-      "id": "d752d04f0c3d0184",
-      "slug": "is-oracle-orcl-one-of-the-best-s-p-500-dividend-stocks-to-buy-right-now-3a37de",
-      "title": "Is Oracle (ORCL) One of the Best S&P 500 Dividend Stocks to Buy Right Now?",
-      "dek": "Oracle Corporation (NYSE:ORCL) is included among the 10 Best S&P 500 Dividend Stocks to Buy Right Now. On June 11, Scotiabank lowered its price recommendation on Oracle Corporation (NYSE:ORCL) to $241 from $290. It reiterated an Outperform rating on the shares. The firm said it continues to like Ora",
-      "url": "https://ca.finance.yahoo.com/news/oracle-orcl-one-best-p-043922572.html",
-      "source": "Yahoo! News",
+      "id": "90d22f863a2db449",
+      "slug": "japan-cloud-erp-market-to-reach-usd-11-19-billion-by-2033-as-ai-driven-automation-digita-d97ddc",
+      "title": "Japan Cloud ERP Market to Reach USD 11.19 Billion by 2033 as AI-Driven Automation, Digital Transformation and SME Adoption Accelerate Growth",
+      "dek": "The Japan Cloud ERP Market was valued at USD 2.58 billion in 2025 and is expected to reach USD 11.19 billion by 2033, growing at a CAGR of 20.1% during the forecast period 2026-2033. Growth is driven by the increasing adoption",
+      "url": "https://www.openpr.com/news/4549439/japan-cloud-erp-market-to-reach-usd-11-19-billion-by-2033-as",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://s.yimg.com/ny/api/res/1.2/Bl18cPYGq0hSGnfiegxoxQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNjAw/https://media.zenfs.com/en/insidermonkey.com/c744b8e380d10e948e557e78b8e86ff3",
-      "publishedAt": "2026-06-14T04:39:22.000Z",
+      "image": "https://cdn.open-pr.com/L/6/L615176259_g.jpg",
+      "publishedAt": "2026-06-15T06:59:46.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "pr service",
+        "marketing",
+        "advertising",
+        "presses release",
+        "publicity",
+        "media release"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "e7d76acea1d7cf8c",
+      "slug": "oracle-time-to-look-past-the-noise-bfa5bf",
+      "title": "Oracle: Time To Look Past The Noise",
+      "dek": "Oracle posted stellar earnings, with 47% cloud revenue growth and a 93% surge in cloud infrastructure. Read why ORCL stock is upgraded to Strong Buy.",
+      "url": "https://seekingalpha.com/article/4914915-oracle-stock-time-to-look-past-the-noise",
+      "source": "Seeking Alpha",
+      "sourceType": "external",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2259137182/image_2259137182.jpg?io=getty-c-w1280",
+      "publishedAt": "2026-06-15T06:22:10.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "ORCL",
+        "Earnings"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "43a15da5cfd0bf15",
+      "slug": "scotiabank-weighs-in-on-oracle-s-fy2027-earnings-nyse-orcl-710bb7",
+      "title": "Scotiabank Weighs in on Oracle’s FY2027 Earnings (NYSE:ORCL)",
+      "dek": "Oracle Corporation (NYSE:ORCL – Free Report) – Scotiabank increased their FY2027 earnings per share estimates for Oracle in a research note issued on Thursday, June 11th. Scotiabank analyst P. Colville now expects that the enterprise software provider will post earnings of $6.49 per share for the ye",
+      "url": "https://www.americanbankingnews.com/2026/06/15/scotiabank-weighs-in-on-oracles-fy2027-earnings-nyseorcl.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-06-15T05:34:47.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "oracle corporation",
-        "viacheslav bublyk",
-        "oracle cloud infrastructure"
+        "scotiabank",
+        "earnings estimates",
+        "nyse:orcl",
+        "computer and technology",
+        "orcl",
+        "oracle"
       ],
       "priority": 39
     },
     {
-      "id": "4b48a864925f8504",
-      "slug": "who-is-jayshree-ullal-indian-origin-woman-ceo-on-america-s-richest-self-made-list-5cfaa6",
-      "title": "Who Is Jayshree Ullal? Indian-origin woman CEO On America’s richest self-made List",
-      "dek": "Jayshree Ullal is an Indian-American billionaire and CEO of Arista Networks who built a $6.8B fortune by scaling cloud networking for global tech giants. The post Who Is Jayshree Ullal? Indian-origin woman CEO On America’s richest self-made List appeared first on The Sunday Guardian .",
-      "url": "https://sundayguardianlive.com/business/meet-jayshree-ullal-top-ranked-indian-origin-woman-ceo-on-americas-richest-self-made-list-with-a-68-billion-net-worth-206697/",
-      "source": "The Sunday Guardian",
-      "sourceType": "external",
-      "image": "https://sundayguardianlive.com/wp-content/uploads/2026/06/jayshree-ullal.jpg",
-      "publishedAt": "2026-06-14T04:39:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "self-made women billionaires 2026",
-        "indian-origin business leaders",
-        "cisco vs arista lawsuit",
-        "networking technology companies",
-        "cloud networking industry",
-        "indian-american billionaire"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "e9dc5523-6cdf-4718-9526-e9b686066ea6",
-      "slug": "honeywell-sees-strong-m-a-opportunities-in-industrial-automation-business-8820b8",
-      "title": "Honeywell Sees Strong M&A Opportunities in Industrial Automation Business",
-      "dek": "“There is a ton of opportunity for M&A,” Peter Lau, president of Honeywell’s Industrial Automation unit, said during the company’s investor day in New York. He added that the business operates in a market worth roughly $35 billion.",
-      "url": "https://www.insidermonkey.com/blog/honeywell-sees-strong-ma-opportunities-in-industrial-automation-business-1781464/",
+      "id": "98da3bbc-55d5-4119-a55d-0479ad77b8da",
+      "slug": "is-cvs-health-cvs-one-of-billionaire-larry-robbins-10-dividend-stock-picks-9ea585",
+      "title": "Is CVS Health (CVS) One of Billionaire Larry Robbins’ 10 Dividend Stock Picks?",
+      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
+      "url": "https://www.insidermonkey.com/blog/is-cvs-health-cvs-one-of-billionaire-larry-robbins-10-dividend-stock-picks-1781739/",
       "source": "Insider Monkey",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/O_iY85y9OMBWuXPNC4omRnqJP9kCBUN948OCJM_5jjo/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/12/01183920/NML-insidermonkey-1701473958399.jpg",
-      "publishedAt": "2026-06-14T04:35:44.000Z",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/EVCL7xg1f6KzBRTzVfLi-PdZSOpqr6bnVe9Ap6vCQPw/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/21041848/CVS-insidermonkey-1695284326686.jpg",
+      "publishedAt": "2026-06-15T05:32:41.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "shopping"
+        "business"
       ],
       "priority": 39
     },
     {
-      "id": "9b727bb9-8d09-4415-8cfc-6e96329beb9e",
-      "slug": "oracle-s-stock-is-plummeting-is-this-an-opportunity-or-a-red-flag-87b99a",
-      "title": "Oracle's Stock Is Plummeting. Is This an Opportunity or a Red Flag?",
-      "dek": "Oracle's (ORCL 0.05%) stock is getting pummeled after reporting its fourth-quarter and full-year fiscal 2026 earnings.",
-      "url": "https://www.fool.com/investing/2026/06/13/oracles-stock-is-plummeting-is-this-an-opportunity/",
-      "source": "The Motley Fool",
+      "id": "11110569-265d-4f19-995e-856cd19eeedc",
+      "slug": "global-payments-gpn-among-billionaire-larry-robbins-10-dividend-stock-picks-8177e3",
+      "title": "Global Payments (GPN) – Among Billionaire Larry Robbins’ 10 Dividend Stock Picks",
+      "dek": "On June 3, Mizuho analyst Dan Dolev said the weakness in Global Payments Inc. (NYSE:GPN) shares appeared to be driven by analyst commentary suggesting the company’s Q2 estimates might need to be revised lower.",
+      "url": "https://www.insidermonkey.com/blog/global-payments-gpn-among-billionaire-larry-robbins-10-dividend-stock-picks-1781738/",
+      "source": "Insider Monkey",
       "sourceType": "external",
-      "image": "https://g.foolcdn.com/editorial/images/873922/orcl.png",
-      "publishedAt": "2026-06-14T02:31:00.000Z",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/83RcK-8qNgNaQdWpmVRCHVCykp_9VQUSp9w6Jmw31fE/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/23095256/GPN-insidermonkey-1695477174873.jpg",
+      "publishedAt": "2026-06-15T05:32:41.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "finance"
+        "business"
       ],
-      "priority": 38
+      "priority": 39
     },
     {
-      "id": "14f10de7a0913b33",
-      "slug": "hyatt-adopts-oracle-opera-cloud-for-property-management-d77e14",
-      "title": "Hyatt Adopts Oracle OPERA Cloud for Property Management",
+      "id": "4d5ce356-84b9-437d-9be9-74eb3b86d3ec",
+      "slug": "applied-materials-amat-gets-higher-price-targets-from-barclays-and-cantor-fitzgerald-8604bb",
+      "title": "Applied Materials (AMAT) Gets Higher Price Targets from Barclays and Cantor Fitzgerald",
+      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
+      "url": "https://www.insidermonkey.com/blog/applied-materials-amat-gets-higher-price-targets-from-barclays-and-cantor-fitzgerald-1781730/",
+      "source": "Insider Monkey",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/2DQFoCQ4e38w2bju-GRV59lKGw-Zhb_SeyEmb5fO-qQ/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/20100719/AMAT-insidermonkey-1695218836888.jpg",
+      "publishedAt": "2026-06-15T05:22:41.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "business"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "497c130bf6a1a8b7",
+      "slug": "tcs-launches-india-s-first-oracle-ai-data-platform-lab-and-center-of-excellence-in-kolka-719b4c",
+      "title": "TCS launches India’s first Oracle AI Data Platform Lab and Center of Excellence in Kolkata",
+      "dek": "Tata Consultancy Services a global leader in IT services, consulting, and business solutions, has expanded its collaboration with Oracle by launching India’s first Oracle AI Data Platform Lab and Center of... The post TCS launches India’s first Oracle AI Data Platform Lab and Center of Excellence in",
+      "url": "https://www.cioandleader.com/tcs-launches-indias-first-oracle-ai-data-platform-lab-and-center-of-excellence-in-kolkata/",
+      "source": "Cio&leader",
+      "sourceType": "external",
+      "image": "https://www.cioandleader.com/wp-content/uploads/2025/12/AI-power.webp",
+      "publishedAt": "2026-06-15T04:51:58.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "ai"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "05bfb0d5ecaa3330",
+      "slug": "comparing-oracle-nyse-orcl-and-adobe-nasdaq-adbe-7013f1",
+      "title": "Comparing Oracle (NYSE:ORCL) and Adobe (NASDAQ:ADBE)",
+      "dek": "Oracle (NYSE:ORCL – Get Free Report) and Adobe (NASDAQ:ADBE – Get Free Report) are both large-cap computer and technology companies, but which is the better investment? We will contrast the two companies based on the strength of their analyst recommendations, institutional ownership, earnings, divid",
+      "url": "https://www.dailypolitical.com/2026/06/14/comparing-oracle-nyseorcl-and-adobe-nasdaqadbe.html",
+      "source": "Daily Political",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/adobe-inc-logo-1200x675.png?v=20231212200254",
+      "publishedAt": "2026-06-15T02:28:45.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "stock comparison",
+        "comparison",
+        "68389x10",
+        "nyse:orcl",
+        "review",
+        "computer and technology"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "9c0a7d4ae9feae0f",
+      "slug": "adobe-nasdaq-adbe-vs-oracle-nyse-orcl-critical-survey-f40101",
+      "title": "Adobe (NASDAQ:ADBE) vs. Oracle (NYSE:ORCL) Critical Survey",
+      "dek": "Adobe (NASDAQ:ADBE – Get Free Report) and Oracle (NYSE:ORCL – Get Free Report) are both large-cap computer and technology companies, but which is the better investment? We will compare the two companies based on the strength of their analyst recommendations, institutional ownership, earnings, divide",
+      "url": "https://zolmax.com/investing/adobe-nasdaqadbe-vs-oracle-nyseorcl-critical-survey/11884805.html",
+      "source": "Zolmax",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-06-15T02:28:45.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "computer and technology",
+        "review",
+        "comparison",
+        "adobe",
+        "adbe",
+        "stock comparison"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "e2750ad9dc7568ac",
+      "slug": "apac-data-centres-risk-a-fossil-fuel-dependency-long-duration-energy-storage-can-help-en-53d7a8",
+      "title": "APAC data centres risk a fossil fuel dependency long-duration energy storage can help end",
+      "dek": "APAC’s AI data centres look set to lock in a decade of coal and gas dependency, but long-duration energy storage can break that cycle, says Pavina Adunratanasee of ArkTerra Partners.",
+      "url": "https://www.energy-storage.news/apac-data-centres-risk-a-fossil-fuel-dependency-long-duration-energy-storage-can-help-end/",
+      "source": "Nan",
+      "sourceType": "external",
+      "image": "https://www.energy-storage.news/wp-content/uploads/2026/06/Pavina-A-Energy-Storage-Summit-Asia-2024.jpg",
+      "publishedAt": "2026-06-15T00:57:29.000Z",
+      "topic": "Security",
+      "tags": [
+        "storageasia",
+        "ldes",
+        "apac",
+        "asia",
+        "energystorageasia",
+        "byoc"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "a1a97f6c-2e44-47a6-bce5-45b567909833",
+      "slug": "jobseekers-flood-market-after-global-tech-layoff-wave-25a9b0",
+      "title": "Jobseekers flood market after global tech layoff wave",
+      "dek": "The number of Indian professionals from global technology companies actively seeking jobs has surged more than fourfold in the past month amid a wave of global tech layoffs , unleashing a flood of talent into the country’s already-strained job market.",
+      "url": "https://m.economictimes.com/tech/technology/jobseekers-flood-market-after-global-tech-layoff-wave/articleshow/131728678.cms",
+      "source": "The Economic Times",
+      "sourceType": "external",
+      "image": "https://m.economictimes.com/thumb/msid-131728677,width-1200,height-900,resizemode-4,imgsize-692217/job.jpg",
+      "publishedAt": "2026-06-15T00:30:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "economy"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "65bc4bc6fb9261b6",
+      "slug": "oracle-netsuite-now-streamlines-hospitality-operations-12542f",
+      "title": "Oracle NetSuite Now Streamlines Hospitality Operations",
       "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://hospitalitynews.in/news/hyatt-selects-oracle-opera-cloud-as-global-property-management-system",
+      "url": "https://hospitalitynews.in/news/oracle-netsuite-enhances-hospitality-with-micros-simphony-connector",
       "source": "Hospitalitynews",
       "sourceType": "external",
-      "image": "https://hospitalitynews.in/uploads/images/202409/image_870x580_66e9776eb1a25.jpg",
-      "publishedAt": "2026-06-14T00:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
+      "image": "https://hospitalitynews.in/uploads/images/202403/image_870x580_66081826aa8a5.jpg",
+      "publishedAt": "2026-06-15T00:00:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "NetSuite"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "56941e06e1e0ae42",
+      "slug": "multiple-it-data-roles-now-hiring-in-chicago-80k-280k-3d58dc",
+      "title": "💻 Multiple IT & Data Roles Now Hiring in Chicago ($80K–$280K+)",
+      "dek": "Chicago’s tech scene is buzzing this month — from AI startups to major enterprise firms, there’s a wide range of IT and data jobs open right now. Here are",
+      "url": "https://www.newsbreak.com/chicago-il-daily-brief-373188216/4711062710016-multiple-it-data-roles-now-hiring-in-chicago-80k-280k",
+      "source": "Newsbreak",
+      "sourceType": "external",
+      "image": "https://img.particlenews.com/img/id/0uqf9w_1CLysnZs00",
+      "publishedAt": "2026-06-15T00:00:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "breaking news",
+        "newsbreak",
+        "local news",
+        "chicago il daily brief"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "f11fac50cf42cb93",
+      "slug": "fischer-identity-announces-oracle-health-connector-to-simplify-identity-management-and-s-3291b6",
+      "title": "Fischer Identity Announces Oracle Health Connector to Simplify Identity Management and Strengthen Healthcare Security",
+      "dek": "Fischer Identity, a leading provider of identity and access management (IAM) solutions, today announced the availability of its new Oracle Health (Cerner)",
+      "url": "https://www.einpresswire.com/article/919032596/fischer-identity-announces-oracle-health-connector-to-simplify-identity-management-and-strengthen-healthcare-security",
+      "source": "Ein Presswire",
+      "sourceType": "external",
+      "image": "https://img.einnews.com/ampsize/578661/fischer-identity-primary-logo-h.png",
+      "publishedAt": "2026-06-15T00:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "canada",
+        "it industry",
+        "healthcare and pharmaceuticals industry",
+        "worldnews",
+        "united states",
+        "florida"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "a04310a7132f3ad9",
+      "slug": "oracle-and-adobe-are-part-of-zacks-earnings-preview-f7784c",
+      "title": "Oracle and Adobe are part of Zacks Earnings Preview",
+      "dek": "ORCL and ADBE spotlight a positive earnings outlook as S&P 500 estimates rise, even as investors weigh AI spending, cash flow and growth trends.",
+      "url": "https://www.newsbreak.com/zacks-investment-research-321723880/4711411001723-oracle-and-adobe-are-part-of-zacks-earnings-preview",
+      "source": "Newsbreak",
+      "sourceType": "external",
+      "image": "https://img.particlenews.com/img/id/0b4TqO_1CMJzhaf00",
+      "publishedAt": "2026-06-15T00:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "breaking news",
+        "newsbreak",
+        "local news",
+        "zacks investment research"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "b01830f7f2dff9e8",
+      "slug": "trump-s-ufc-bash-a-gift-to-billionaires-5185e1",
+      "title": "Trump's UFC bash a gift to billionaires",
+      "dek": "The White House was privatized for the financial benefit of Trump's wealthy allies",
+      "url": "https://www.inkl.com/news/trumps-ufc-bash-a-gift-to-billionaires",
+      "source": "Inkl",
+      "sourceType": "external",
+      "image": "https://images.inkl.com/s3/article/lead_image/23450574/donald-trump-ufc-2281038539.jpg",
+      "publishedAt": "2026-06-15T00:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "today news",
+        "daily news",
+        "news app",
+        "global news",
+        "breaking news",
+        "world news"
+      ],
       "priority": 36
     },
     {
@@ -1583,397 +2020,6 @@
       "sourceType": "podcast",
       "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S11_EP2.mp3?dest-id=3870039",
       "publishedAt": "2024-12-03T12:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "62f16a917242586a",
-      "slug": "best-of-2024-introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-al-9d327b",
-      "title": "Best of 2024: Introduction to Visual Builder Studio, Visual Builder Cloud Service, Stand-Alone, and JET",
-      "dek": "The next generation of front-end user interfaces for Oracle Fusion Applications is being built using Visual Builder Studio and Oracle JavaScript Extension Toolkit. However, many of the terms associated with these tools can be confusing. In this episode, Lois Houston and Nikita Abraham are joined by ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/best-of-2024-introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-alone-and-jet",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S11_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-11-26T12:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "198332c939d3ce7f",
-      "slug": "oracle-ai-in-fusion-cloud-human-capital-management-22576f",
-      "title": "Oracle AI in Fusion Cloud Human Capital Management",
-      "dek": "In this special episode of the Oracle University Podcast, Lois Houston and Nikita Abraham, along with Principal HCM Instructor Jeff Schuster, delve into the intersection of HCM and AI, exploring the practical applications and implications of this technology in human resources. Jeff shares his insigh",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-ai-in-fusion-cloud-human-capital-management",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-11-19T12:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "HCM",
-        "Oracle University",
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "aeb0fadf9218b7fb",
-      "slug": "oracle-database-23ai-backup-and-recovery-part-2-a21298",
-      "title": "Oracle Database 23ai: Backup and Recovery - Part 2",
-      "dek": "Lois Houston and Nikita Abraham continue their deep dive into Oracle Database 23ai backup and recovery strategies with Senior Principal Database & MySQL Instructor Bill Millar. Picking up from Part 1, they explore critical concepts such as instance recovery, checkpoint processes, and the role of red",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-database-23ai-backup-and-recovery-part-2",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-11-12T12:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "Oracle Database",
-        "MySQL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "25991950f723daf7",
-      "slug": "oracle-database-23ai-backup-and-recovery-part-1-cd90d3",
-      "title": "Oracle Database 23ai: Backup and Recovery - Part 1",
-      "dek": "In this two-part special, Lois Houston and Nikita Abraham delve into the critical topic of backup and recovery in Oracle Database 23ai. Together with Bill Millar, Senior Principal Database & MySQL Instructor, they discuss the role of database administrators, strategies for protecting data, and deali",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-database-23ai-backup-and-recovery-part-1",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-11-05T07:34:39.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "Oracle Database",
-        "MySQL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "5f283d40ee2c8d74",
-      "slug": "oracle-ai-vector-search-part-2-9e86aa",
-      "title": "Oracle AI Vector Search: Part 2",
-      "dek": "This week, Lois Houston and Nikita Abraham continue their exploration of Oracle AI Vector Search with a deep dive into vector indexes and memory considerations. Senior Principal APEX and Apps Dev Instructor Brent Dayley breaks down what vector indexes are, how they enhance the efficiency of search q",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-ai-vector-search-part-2",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP14.mp3?dest-id=3870039",
-      "publishedAt": "2024-10-29T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "e3d5c537e6827700",
-      "slug": "oracle-ai-vector-search-part-1-412821",
-      "title": "Oracle AI Vector Search: Part 1",
-      "dek": "In this episode, Senior Principal APEX and Apps Dev Instructor Brent Dayley joins hosts Lois Houston and Nikita Abraham to discuss Oracle AI Vector Search. Brent provides an in-depth overview, shedding light on the brand-new vector data type, vector embeddings, and the vector workflow. Oracle Databa",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-ai-vector-search-part-1",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP13.mp3?dest-id=3870039",
-      "publishedAt": "2024-10-22T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "6ebfe903786774ca",
-      "slug": "automatic-transaction-quarantine-358e25",
-      "title": "Automatic Transaction Quarantine",
-      "dek": "In this episode, Lois Houston and Nikita Abraham explore the Automatic Transaction Quarantine feature with Senior Principal Database & MySQL Instructor, Bill Millar. Bill explains that this feature isolates transactions that could potentially cause system crashes, preventing them from impacting the ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/automatic-transaction-quarantine",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP12.mp3?dest-id=3870039",
-      "publishedAt": "2024-10-15T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "MySQL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "989efc7671c3b2e1",
-      "slug": "automatic-transaction-rollback-ec870d",
-      "title": "Automatic Transaction Rollback",
-      "dek": "Join Lois Houston and Nikita Abraham as they discuss the Automatic Transaction Rollback feature with Senior Principal Database & MySQL Instructor, Bill Millar. Bill explains that in the 23ai release, transactions blocking other transactions can now be automatically rolled back, depending on certain ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/automatic-transaction-rollback",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP11.mp3?dest-id=3870039",
-      "publishedAt": "2024-10-08T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "MySQL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "abbe9537156b2d45",
-      "slug": "the-importance-of-data-and-continuous-learning-111f6c",
-      "title": "The importance of data and continuous learning",
-      "dek": "In this episode host Orlaith Lawton speaks with Oracle Ace Director Finland Heli Helskyaho about the importance of data and continuous learning. --------------------------------------------------------- Episode Transcript: 00;00;09;03 - 00;00;37;15 Welcome to the Oracle Academy Tech Chat. This podca",
-      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-importance-of-data-and-continuous-learning",
-      "source": "Oracle Academy Tech Chat",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP03.mp3?dest-id=3949203",
-      "publishedAt": "2024-10-01T16:23:48.000Z",
-      "topic": "Training & Certification",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "0f1e6d2a0c5ba256",
-      "slug": "unrestricted-parallel-dmls-and-direct-loads-ac305f",
-      "title": "Unrestricted Parallel DMLs and Direct Loads",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham discuss new features in Oracle Database 23ai related to Data Manipulation Language (DML). They are joined by Senior Principal Database & MySQL Instructor, Bill Millar, who explains the concept of unrestricted parallel DMLs and their importance i",
-      "url": "https://oracleuniversitypodcast.libsyn.com/unrestricted-parallel-dmls-and-direct-loads",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP10.mp3?dest-id=3870039",
-      "publishedAt": "2024-10-01T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "Oracle Database",
-        "MySQL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "e01703730db0d4b4",
-      "slug": "true-cache-6a960d",
-      "title": "True Cache",
-      "dek": "Hosts Lois Houston and Nikita Abraham are joined by Senior Principal Database & MySQL Instructor Bill Millar who explains Oracle's newest caching solution called True Cache. Available in Oracle Database 23ai, True Cache is an automatically managed, in-memory, read-only cache that improves applicatio",
-      "url": "https://oracleuniversitypodcast.libsyn.com/true-cache",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP9.mp3?dest-id=3870039",
-      "publishedAt": "2024-09-24T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "Oracle Database",
-        "MySQL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "6764e4ce38b290ce",
-      "slug": "enhancements-in-sql-plan-management-securefiles-lob-write-performance-and-column-width-a309fc",
-      "title": "Enhancements in SQL Plan Management, SecureFiles LOB Write Performance, and Column Width",
-      "dek": "Join Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they discuss how the new Automatic SQL Plan Management feature in Oracle Database 23ai improves performance consistency and simplifies management. Then, Senior Principal Database & MySQL ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/enhancements-in-sql-plan-management-securefiles-lob-write-performance-and-column-width",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP8.mp3?dest-id=3870039",
-      "publishedAt": "2024-09-17T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Oracle Database",
-        "MySQL",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "7fc0f877b6c48593",
-      "slug": "hybrid-columnar-compression-fast-ingest-a4b392",
-      "title": "Hybrid Columnar Compression & Fast Ingest",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with Senior Principal Database & MySQL Instructor Bill Millar about the enhanced performance of Hybrid Columnar Compression, the different compression levels, and how to achieve the best compression for your tables. Then, they delve into F",
-      "url": "https://oracleuniversitypodcast.libsyn.com/hybrid-columnar-compression-fast-ingest",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP7.mp3?dest-id=3870039",
-      "publishedAt": "2024-09-10T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "MySQL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "028f55b53f871be3",
-      "slug": "the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfall-f2dc7e",
-      "title": "The ethics of AI in Academia. Benefits and promise of AI. What should you consider? Pitfalls to avoid?",
-      "dek": "In this episode host Oracle Academy manager Tyra Peirce speaks with Mary Olson Industry Executive Director, Education at Oracle. Tyra and Mary speak about the ethics of AI in education and give practical advice on how to best use the technology while avoiding common pitfalls. -----------------------",
-      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfalls-to-avoid",
-      "source": "Oracle Academy Tech Chat",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP01.mp3?dest-id=3949203",
-      "publishedAt": "2024-09-03T12:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "954fb77f408fd5ab",
-      "slug": "time-data-handling-data-storage-91f274",
-      "title": "Time & Data Handling & Data Storage",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham discuss improvements in time and data handling and data storage in Oracle Database 23ai. They are joined by Senior Principal Instructor Serge Moiseev, who explains the benefit of allowing databases to have their own time zones, separate from the",
-      "url": "https://oracleuniversitypodcast.libsyn.com/time-data-handling-data-storage",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-09-03T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "Oracle Database"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "a1c4f2cadb715947",
-      "slug": "database-sharding-part-2-5face7",
-      "title": "Database Sharding: Part 2",
-      "dek": "Join hosts Lois Houston and Nikita Abraham in Part 2 of the discussion on database sharding with Ron Soltani, a Senior Principal Database & Security Instructor. They talk about sharding native replication, directory-based sharding, and coordinated backup and restore for sharded databases, explaining",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-sharding-part-2",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-27T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "43aa5988985c66d9",
-      "slug": "database-sharding-part-1-e6309a",
-      "title": "Database Sharding: Part 1",
-      "dek": "In this two-part episode, hosts Lois Houston and Nikita Abraham are joined by Ron Soltani, a Senior Principal Database & Security Instructor, to discuss the ins and outs of database sharding. In Part 1, they delve into the fundamentals of database sharding, including what it is and how it works, spe",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-sharding-part-1",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-20T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "119c79ecef58b62d",
-      "slug": "database-security-part-2-ef77d6",
-      "title": "Database Security: Part 2",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham continue their exploration of Oracle Database 23ai's database security capabilities. They are joined once again by Ron Soltani, a Senior Principal Database & Security Instructor, who delves into the intricacies of the new hybrid read-only mode f",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-2",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-13T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Oracle Database",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ffc09f7346e6f6b5",
-      "slug": "database-security-part-1-b4c13f",
-      "title": "Database Security: Part 1",
-      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they dive into the critical topic of database security. In the first of a two-part series on database security in Oracle Database 23ai, they discuss the importance of protecting dat",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-1",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-06T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Oracle Database",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "7c3ad34d1ff092f6",
-      "slug": "blockchain-tables-a4f246",
-      "title": "Blockchain Tables",
-      "dek": "In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham kick off a new season with a deep dive into the latest features of Oracle Database 23ai. Joined by Bill Millar, a Senior Principal Database & MySQL Instructor, they explore the new enhancements to blockchain tabl",
-      "url": "https://oracleuniversitypodcast.libsyn.com/blockchain-tables",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-30T11:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "Oracle Database",
-        "MySQL",
-        "Oracle University"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ff92a6749fa996f7",
-      "slug": "database-essentials-027d69",
-      "title": "Database Essentials",
-      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Hope Fisher, Oracle's Product Manager for Database Technologies, as they break down the basics of databases, explore different database management systems, and delve into database development. Whether you're a newcomer or just need a refresher, ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-essentials",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-23T14:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "f046bd97147c0cf8",
-      "slug": "container-engine-for-kubernetes-security-practices-26ab8f",
-      "title": "Container Engine for Kubernetes: Security Practices",
-      "dek": "In the season's final episode, hosts Lois Houston and Nikita Abraham interview senior OCI instructor Mahendra Mehra about the security practices that are vital for OKE clusters on OCI. Mahendra shares his expert insights on the importance of Kubernetes security, especially in today's digital landsca",
-      "url": "https://oracleuniversitypodcast.libsyn.com/container-engine-for-kubernetes-security-practices",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP7.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-16T14:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "OCI",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "be8b92279cd0831f",
-      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
-      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-09T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "d38db88cd3fd3cc0",
-      "slug": "working-with-oke-virtual-nodes-f5a370",
-      "title": "Working with OKE Virtual Nodes",
-      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-02T14:00:00.000Z",
       "topic": "Oracle Cloud",
       "tags": [
         "OCI"
