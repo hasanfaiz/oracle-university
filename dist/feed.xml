@@ -6,106 +6,34 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 22:21:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 22:32:11 GMT</lastBuildDate>
     
     <item>
-      <title>Wedbush Upgrades Cognizant (CTSH) to Outperform</title>
-      <link>https://oracle-university.com/stories/wedbush-upgrades-cognizant-ctsh-to-outperform-0f36dd/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/wedbush-upgrades-cognizant-ctsh-to-outperform-0f36dd/</guid>
-      <pubDate>Wed, 17 Jun 2026 17:43:19 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>On June 5, 2026, Cognizant Technology Solutions Corporation (NASDAQ:CTSH) launched a physical AI platform-as-a-service, an integrated capability designed to move autonomous systems from experimentation into core enterprise infrastructure.</description>
-      <source url="https://www.insidermonkey.com/blog/wedbush-upgrades-cognizant-ctsh-to-outperform-1783631/">Insider Monkey</source>
-    </item>
-    <item>
-      <title>Rocket Lab (RKLB) to Join Nasdaq-100 Index on June 22</title>
-      <link>https://oracle-university.com/stories/rocket-lab-rklb-to-join-nasdaq-100-index-on-june-22-d22c6b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/rocket-lab-rklb-to-join-nasdaq-100-index-on-june-22-d22c6b/</guid>
-      <pubDate>Wed, 17 Jun 2026 17:43:19 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>On June 12, 2026, Rocket Lab Corporation (NASDAQ:RKLB) announced its inclusion in the Nasdaq-100 Index. The company said the milestone places Rocket Lab among the 100 largest non-financial companies listed on the Nasdaq Stock Market.</description>
-      <source url="https://www.insidermonkey.com/blog/rocket-lab-rklb-to-join-nasdaq-100-index-on-june-22-1783625/">Insider Monkey</source>
-    </item>
-    <item>
-      <title>Massive password-stealing attack hits 75k Fortinet firewalls</title>
-      <link>https://oracle-university.com/stories/massive-password-stealing-attack-hits-75k-fortinet-firewalls-f65d5b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/massive-password-stealing-attack-hits-75k-fortinet-firewalls-f65d5b/</guid>
-      <pubDate>Wed, 17 Jun 2026 17:27:40 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>If you have a Fortinet firewall, it&#39;s time to stop and change your passwords. Intruders somehow gained access to around 75,000 Fortinet firewall devices and stole credentials belonging to major corporations across 194 countries, in some cases leading to full network compromise.</description>
-      <source url="https://www.theregister.com/cyber-crime/2026/06/17/massive-password-stealing-attack-hits-75k-fortinet-firewalls/5257877">The Register</source>
-    </item>
-    <item>
-      <title>Jim Cramer on Rocket Lab: “While the Stock’s Cheaper Than SpaceX, It’s Still Pretty Darn Expensive”</title>
-      <link>https://oracle-university.com/stories/jim-cramer-on-rocket-lab-while-the-stock-s-cheaper-than-spacex-it-s-still-pretty-darn-ex-19619f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/jim-cramer-on-rocket-lab-while-the-stock-s-cheaper-than-spacex-it-s-still-pretty-darn-ex-19619f/</guid>
-      <pubDate>Wed, 17 Jun 2026 16:43:46 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...</description>
-      <source url="https://www.insidermonkey.com/blog/jim-cramer-on-rocket-lab-while-the-stocks-cheaper-than-spacex-its-still-pretty-darn-expensive-1783570/">Insider Monkey</source>
-    </item>
-    <item>
-      <title>FortiBleed Attack Exposes Fortinet Firewall Credentials in 194 Countries</title>
-      <link>https://oracle-university.com/stories/fortibleed-attack-exposes-fortinet-firewall-credentials-in-194-countries-dc6eda/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/fortibleed-attack-exposes-fortinet-firewall-credentials-in-194-countries-dc6eda/</guid>
-      <pubDate>Wed, 17 Jun 2026 16:34:22 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>A newly reported campaign targeting Fortinet FortiGate firewalls has put exposed VPN and administrator access back in focus, after researchers linked the activity to tens of thousands of verified firewall logins affecting major companies and public sector organizations.</description>
-      <source url="https://hackread.com/fortibleed-attack-fortinet-firewalls-credentials/">Hackread</source>
-    </item>
-    <item>
-      <title>Kodak Confirms Data Breach as ShinyHunters Threatens Leak of 2.2M Records</title>
-      <link>https://oracle-university.com/stories/kodak-confirms-data-breach-as-shinyhunters-threatens-leak-of-2-2m-records-36285c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/kodak-confirms-data-breach-as-shinyhunters-threatens-leak-of-2-2m-records-36285c/</guid>
-      <pubDate>Wed, 17 Jun 2026 15:44:53 GMT</pubDate>
+      <title>Breach Roundup: ShinyHunters Leaks 26M MSG Records</title>
+      <link>https://oracle-university.com/stories/breach-roundup-shinyhunters-leaks-26m-msg-records-f6ba4a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/breach-roundup-shinyhunters-leaks-26m-msg-records-f6ba4a/</guid>
+      <pubDate>Thu, 18 Jun 2026 20:25:40 GMT</pubDate>
       <category>Security</category>
-      <description>Eastman Kodak confirmed Wednesday that an unauthorized third party illegally gained access to a portion of its data, as the ShinyHunters extortion group claimed responsibility on its dark web leak site and threatened to publish the stolen files if Kodak fails to make contact by Thursday, June 18, 20</description>
-      <source url="https://www.techtimes.com/articles/318565/20260617/kodak-confirms-data-breach-shinyhunters-threatens-leak-22m-records.htm">Tech Times</source>
+      <description>Every week, ISMG rounds up cybersecurity incidents and breaches around the world. This week, extortion gang ShinyHunters published alleged Madison Square Garden data.</description>
+      <source url="https://www.bankinfosecurity.com/breach-roundup-shinyhunters-leaks-26m-msg-records-a-32019">BankInfoSecurity</source>
     </item>
     <item>
-      <title>Is This The Best Time to Buy Broadcom (AVGO)?</title>
-      <link>https://oracle-university.com/stories/is-this-the-best-time-to-buy-broadcom-avgo-847c5a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/is-this-the-best-time-to-buy-broadcom-avgo-847c5a/</guid>
-      <pubDate>Wed, 17 Jun 2026 15:33:19 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Broadcom’s (NASDAQ:AVGO) stock got hammered after its recent earnings, despite a genuinely strong quarter — analysts say it’s because expectations had simply run too far ahead of reality.</description>
-      <source url="https://www.insidermonkey.com/blog/is-this-the-best-time-to-buy-broadcom-avgo-1782779/">Insider Monkey</source>
-    </item>
-    <item>
-      <title>FortiBleed - 70,000+ Fortinet Firewalls Compromised in Massive Exploitation Attack</title>
-      <link>https://oracle-university.com/stories/fortibleed-70-000-fortinet-firewalls-compromised-in-massive-exploitation-attack-cf444b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/fortibleed-70-000-fortinet-firewalls-compromised-in-massive-exploitation-attack-cf444b/</guid>
-      <pubDate>Wed, 17 Jun 2026 15:33:11 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>An exhaustive cyber espionage campaign now dubbed “FortiBleed” has silently compromised over 73,932 unique Fortinet firewall URLs across 194 countries.</description>
-      <source url="https://cybersecuritynews.com/fortibleed-fortinet-firewalls-compromised/">CyberSecurityNews</source>
-    </item>
-    <item>
-      <title>Why Neumora Therapeutics (NMRA) Faces a Major Catalyst From Navacaprant’s Upcoming Depression Data</title>
-      <link>https://oracle-university.com/stories/why-neumora-therapeutics-nmra-faces-a-major-catalyst-from-navacaprant-s-upcoming-depress-7b15a7/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/why-neumora-therapeutics-nmra-faces-a-major-catalyst-from-navacaprant-s-upcoming-depress-7b15a7/</guid>
-      <pubDate>Wed, 17 Jun 2026 15:23:19 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...</description>
-      <source url="https://www.insidermonkey.com/blog/why-neumora-therapeutics-nmra-faces-a-major-catalyst-from-navacaprants-upcoming-depression-data-1783033/">Insider Monkey</source>
-    </item>
-    <item>
-      <title>Kodak Hit by Data Breach, ShinyHunters Claims 2.2M Records</title>
-      <link>https://oracle-university.com/stories/kodak-hit-by-data-breach-shinyhunters-claims-2-2m-records-fbf353/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/kodak-hit-by-data-breach-shinyhunters-claims-2-2m-records-fbf353/</guid>
-      <pubDate>Wed, 17 Jun 2026 14:24:12 GMT</pubDate>
+      <title>MSG Data Breach Lawsuit Puts Dolan&#39;s Facial Recognition/Data Fight in Spotlight</title>
+      <link>https://oracle-university.com/stories/msg-data-breach-lawsuit-puts-dolan-s-facial-recognition-data-fight-in-spotlight-0f8f73/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/msg-data-breach-lawsuit-puts-dolan-s-facial-recognition-data-fight-in-spotlight-0f8f73/</guid>
+      <pubDate>Thu, 18 Jun 2026 17:37:10 GMT</pubDate>
       <category>Security</category>
-      <description>Kodak is investigating a cybersecurity incident after hackers gained access to company data, while the ShinyHunters extortion group claims it stole more than 2.2 million records.</description>
-      <source url="https://sqmagazine.co.uk/kodak-data-breach-shinyhunters-2-2m-records/">SQ Magazine</source>
+      <description>Madison Square Garden Entertainment is facing a proposed class action lawsuit over an apparent data breach that allegedly exposed sensitive information tied to the company’s controversial surveillance and facial recognition systems, putting James Dolan’s long-running fight over venue access and biom</description>
+      <source url="https://www.ticketnews.com/2026/06/msg-data-breach-lawsuit-puts-dolans-facial-recognition-data-fight-in-spotlight/">TicketNews</source>
     </item>
     <item>
-      <title>Everpure extends data and control planes for agentic AI</title>
-      <link>https://oracle-university.com/stories/everpure-extends-data-and-control-planes-for-agentic-ai-454916/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/everpure-extends-data-and-control-planes-for-agentic-ai-454916/</guid>
-      <pubDate>Wed, 17 Jun 2026 13:00:00 GMT</pubDate>
+      <title>xAI Grok Lands on Databricks at the 2026 Data + AI Summit</title>
+      <link>https://oracle-university.com/stories/xai-grok-lands-on-databricks-at-the-2026-data-ai-summit-04cb0e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/xai-grok-lands-on-databricks-at-the-2026-data-ai-summit-04cb0e/</guid>
+      <pubDate>Thu, 18 Jun 2026 17:08:33 GMT</pubDate>
       <category>Applications &amp; NetSuite</category>
-      <description>Everpure has significantly extended its ability to classify data, not just its own, for AI and make it available to models, agents, and apps across its fleet of systems, with AI being used to better manage, monitor and secure the fleet and the data it holds. It says the IT world has reversed its foc</description>
-      <source url="https://www.blocksandfiles.com/data-management/2026/06/17/everpure-extends-data-and-control-planes-for-agentic-ai/5257407">Blocks &amp; Files</source>
+      <description>xAI&#39;s Grok is expanding its enterprise footprint again. As of June 18, 2026, Grok models are natively available on Databricks Agent Bricks — announced live at the Databricks 2026 Data + AI Summit. For enterprise teams already running data pipelines on Databricks&#39; Lakehouse architecture, this means G</description>
+      <source url="https://www.basenor.com/blogs/news/xai-grok-lands-on-databricks-at-the-2026-data-ai-summit">BASENOR - Tesla Accessories</source>
     </item>
     <item>
       <title>Oracle Sets the Date for its Fourth Quarter Fiscal Year 2026 Earnings Announcement</title>
@@ -135,238 +63,157 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-Second-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>CISA Warns of Oracle PeopleSoft 0-Day Vulnerability Exploited in Ransomware Attacks</title>
-      <link>https://oracle-university.com/stories/cisa-warns-of-oracle-peoplesoft-0-day-vulnerability-exploited-in-ransomware-attacks-4e63ba/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cisa-warns-of-oracle-peoplesoft-0-day-vulnerability-exploited-in-ransomware-attacks-4e63ba/</guid>
-      <pubDate>Wed, 17 Jun 2026 12:11:22 GMT</pubDate>
-      <category>Security</category>
-      <description>CISA has added a critical Oracle PeopleSoft vulnerability, tracked as CVE-2026-35273, to its Known Exploited Vulnerabilities (KEV) catalog, confirming active exploitation in the wild. The flaw affects Oracle PeopleSoft Enterprise PeopleTools and enables unauthenticated attackers to gain full control</description>
-      <source url="https://cybersecuritynews.com/oracle-peoplesoft-0-day-vulnerability-exploit/">CyberSecurityNews</source>
+      <title>HIVE’s BUZZ HPC Closes USD $220 Million Sovereign AI GPU Contract with Bell AI Fabric for Cohere Inc.</title>
+      <link>https://oracle-university.com/stories/hive-s-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-bell-ai-fabric-for-84f824/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/hive-s-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-bell-ai-fabric-for-84f824/</guid>
+      <pubDate>Thu, 18 Jun 2026 11:27:33 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>HIVE’s BUZZ HPC Closes USD $220 Million Sovereign AI GPU Contract with Bell AI Fabric for Cohere Inc. This news release constitutes a &quot;designated news release&quot; for the purposes of the Company&#39;s amended and restated prospectus supplement dated June 16, 2026 to its short form base shelf prospectus dat</description>
+      <source url="https://www.hivedigitaltechnologies.com/news/hives-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-bell-ai-fabric-for-cohere-inc/">HIVE Digital Technologies Ltd</source>
     </item>
     <item>
-      <title>Cybercriminals Breach Fortinet Devices to Attack Major Companies</title>
-      <link>https://oracle-university.com/stories/cybercriminals-breach-fortinet-devices-to-attack-major-companies-f36810/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cybercriminals-breach-fortinet-devices-to-attack-major-companies-f36810/</guid>
-      <pubDate>Wed, 17 Jun 2026 18:22:08 GMT</pubDate>
-      <category>Security</category>
-      <description>Fortinet firewalls and VPN systems used by tens of thousands of large companies and government organizations worldwide have fallen victim to a cyberattack.</description>
-      <source url="https://zamin.uz/en/technology/207705-cybercriminals-breach-fortinet-devices-to-attack-major-companies.html">Zamin.uz</source>
-    </item>
-    <item>
-      <title>FortiBleed: 75,000 Fortinet Firewalls Compromised: Global Enterprises Exposed – Claim Your Ethical Disclosure</title>
-      <link>https://oracle-university.com/stories/fortibleed-75-000-fortinet-firewalls-compromised-global-enterprises-exposed-claim-your-e-1e383c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/fortibleed-75-000-fortinet-firewalls-compromised-global-enterprises-exposed-claim-your-e-1e383c/</guid>
-      <pubDate>Wed, 17 Jun 2026 10:34:21 GMT</pubDate>
+      <title>Generative AI in Healthcare Market Trends in Clinical Documentation Automation</title>
+      <link>https://oracle-university.com/stories/generative-ai-in-healthcare-market-trends-in-clinical-documentation-automation-68f343/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/generative-ai-in-healthcare-market-trends-in-clinical-documentation-automation-68f343/</guid>
+      <pubDate>Thu, 18 Jun 2026 10:07:53 GMT</pubDate>
       <category>Applications &amp; NetSuite</category>
-      <description>Fortinet firewalls and VPN gateways serve as the primary defensive perimeter for countless organizations worldwide. However, a massive new cyber espionage campaign has silently compromised these highly trusted devices on an unprecedented global scale.</description>
-      <source url="https://www.infostealers.com/article/fortibleed-75000-fortinet-firewalls-compromised-global-enterprises-exposed-claim-your-ethical-disclosure/">InfoStealers</source>
+      <description>The global Generative AI In Healthcare Market size was valued at USD 2.9 billion in 2025 and is projected to grow from USD 3.8 billion in 2026 [read full press release...]</description>
+      <source url="https://express-press-release.net/news/2026/06/18/1758971">Express-press-release</source>
     </item>
     <item>
-      <title>ADT Introduces ADT Blu Home Security System</title>
-      <link>https://oracle-university.com/stories/adt-introduces-adt-blu-home-security-system-21ba15/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/adt-introduces-adt-blu-home-security-system-21ba15/</guid>
-      <pubDate>Wed, 17 Jun 2026 09:59:53 GMT</pubDate>
-      <category>Security</category>
-      <description>ADT Inc. (NYSE:ADT) is one of the 10 Best Stocks to Buy Under $10. On May 20, ADT Inc. (NYSE:ADT) announced the launch of a new self-installed home security system called ADT Blu. The system is designed to allow customers to set it up in minutes and manage it directly through the ADT+ app. The [...]</description>
-      <source url="https://www.insidermonkey.com/blog/adt-introduces-adt-blu-home-security-system-1783153/">Insider Trading</source>
+      <title>Bell Canada partners with Cohere, Hypertec and BUZZ HPC on AI</title>
+      <link>https://oracle-university.com/stories/bell-canada-partners-with-cohere-hypertec-and-buzz-hpc-on-ai-f3da20/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/bell-canada-partners-with-cohere-hypertec-and-buzz-hpc-on-ai-f3da20/</guid>
+      <pubDate>Thu, 18 Jun 2026 10:06:10 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Bell Canada partners with Cohere, Hypertec and BUZZ HPC on AI</description>
+      <source url="https://uk.investing.com/news/stock-market-news/bell-canada-partners-with-cohere-hypertec-and-buzz-hpc-on-ai-93CH-4734817">Investing Uk</source>
     </item>
     <item>
-      <title>Assessing Microsoft&#39;s Performance Against Competitors In Software Industry</title>
-      <link>https://oracle-university.com/stories/assessing-microsoft-s-performance-against-competitors-in-software-industry-ae4321/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/assessing-microsoft-s-performance-against-competitors-in-software-industry-ae4321/</guid>
-      <pubDate>Wed, 17 Jun 2026 09:59:07 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>In today&#39;s rapidly changing and fiercely competitive business landscape, it is essential for investors and industry enthusiasts to thoroughly analyze companies. In this article, we will conduct a comprehensive industry comparison, evaluating Microsoft (NASDAQ: MSFT ) against its key competitors in t</description>
-      <source url="https://www.benzinga.com/insights/news/26/06/53243391/assessing-microsofts-performance-against-competitors-in-software-industry">Benzinga</source>
+      <title>Bell AI Fabric, Cohere, Hypertec and BUZZ HPC announce landmark deal to advance sovereign AI in Canada</title>
+      <link>https://oracle-university.com/stories/bell-ai-fabric-cohere-hypertec-and-buzz-hpc-announce-landmark-deal-to-advance-sovereign--492b78/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/bell-ai-fabric-cohere-hypertec-and-buzz-hpc-announce-landmark-deal-to-advance-sovereign--492b78/</guid>
+      <pubDate>Thu, 18 Jun 2026 10:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>/CNW/ - Bell Canada (TSX: BCE) (NYSE: BCE), Cohere, Hypertec and BUZZ High Performance Computing (HPC), a subsidiary of Hive Digital Technologies (TSX: HIVE)...</description>
+      <source url="https://www.newswire.ca/news-releases/bell-ai-fabric-cohere-hypertec-and-buzz-hpc-announce-landmark-deal-to-advance-sovereign-ai-in-canada-804262049.html">Newswire</source>
     </item>
     <item>
-      <title>Meet the Beaten-Down AI Cloud Stock That Just Sold Off but Has 120% Upside, According to Wall Street</title>
-      <link>https://oracle-university.com/stories/meet-the-beaten-down-ai-cloud-stock-that-just-sold-off-but-has-120-upside-according-to-w-e05280/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/meet-the-beaten-down-ai-cloud-stock-that-just-sold-off-but-has-120-upside-according-to-w-e05280/</guid>
-      <pubDate>Wed, 17 Jun 2026 09:45:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Many artificial intelligence stocks have soared recently, but not all of them. Case in point: database leader and AI cloud provider Oracle ( ORCL +0.05% ) , which sold off hard following its recent earnings report. Despite the turmoil in the stock, at least one Wall Street analyst thinks the concern</description>
-      <source url="https://www.fool.com/investing/2026/06/17/the-beaten-down-ai-cloud-stock-120-percent-upside/">The Motley Fool</source>
-    </item>
-    <item>
-      <title>Oracle Introduces AI-Powered Assistant for Hotels Through OPERA Cloud Platform</title>
-      <link>https://oracle-university.com/stories/oracle-introduces-ai-powered-assistant-for-hotels-through-opera-cloud-platform-a5f0fb/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-introduces-ai-powered-assistant-for-hotels-through-opera-cloud-platform-a5f0fb/</guid>
-      <pubDate>Wed, 17 Jun 2026 09:39:01 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>The new OPERA Cloud Assistant allows hotel employees to ask operational questions in natural language and receive instant guidance without consulting manuals or supervisors.</description>
-      <source url="https://analyticsindiamag.com/ai-news/oracle-introduces-ai-powered-assistant-for-hotels-through-opera-cloud-platform">Analytics India Magazine</source>
-    </item>
-    <item>
-      <title>Oracle’s Second Monthly Security Updates Deliver 245 Patches</title>
-      <link>https://oracle-university.com/stories/oracle-s-second-monthly-security-updates-deliver-245-patches-2b7643/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-s-second-monthly-security-updates-deliver-245-patches-2b7643/</guid>
-      <pubDate>Wed, 17 Jun 2026 09:31:55 GMT</pubDate>
-      <category>Security</category>
-      <description>Oracle has released its June 2026 Critical Security Patch Update to fix vulnerabilities in Communications, EBS, Enterprise Manager and other products. The post Oracle’s Second Monthly Security Updates Deliver 245 Patches appeared first on SecurityWeek. This article has been indexed... Read more → Th</description>
-      <source url="https://www.itsecuritynews.info/oracles-second-monthly-security-updates-deliver-245-patches/">It Security News</source>
-    </item>
-    <item>
-      <title>Blockchain Stocks To Consider – June 16th</title>
-      <link>https://oracle-university.com/stories/blockchain-stocks-to-consider-june-16th-1aaacc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/blockchain-stocks-to-consider-june-16th-1aaacc/</guid>
-      <pubDate>Wed, 17 Jun 2026 09:25:03 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Digi Power X, Globant, RTB Digital, Inc. Common Stock, and Core Scientific are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companie</description>
-      <source url="https://www.americanbankingnews.com/2026/06/17/blockchain-stocks-to-consider-june-16th.html">Americanbankingnews</source>
-    </item>
-    <item>
-      <title>Microsoft said to have dropped $3B Oracle deal over compliance gap</title>
-      <link>https://oracle-university.com/stories/microsoft-said-to-have-dropped-3b-oracle-deal-over-compliance-gap-f7b13a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/microsoft-said-to-have-dropped-3b-oracle-deal-over-compliance-gap-f7b13a/</guid>
-      <pubDate>Wed, 17 Jun 2026 09:07:58 GMT</pubDate>
-      <category>Security</category>
-      <description>Microsoft was in advanced talks to lease cloud capacity from Oracle worth over $3 billion, but the deal is said to have collapsed over a security compliance issue. Oracle’s public cloud lacks FedRAMP certification, a requirement for handling U.S. government data. Oracle was unwilling to add the fram</description>
-      <source url="https://www.techzine.eu/news/infrastructure/142225/microsoft-said-to-have-dropped-3b-oracle-deal-over-compliance-gap/">Techzine Europe</source>
-    </item>
-    <item>
-      <title>Microsoft Exits $3Bn Oracle Cloud Deal - What Went Wrong In Negotiations?</title>
-      <link>https://oracle-university.com/stories/microsoft-exits-3bn-oracle-cloud-deal-what-went-wrong-in-negotiations-ad0c49/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/microsoft-exits-3bn-oracle-cloud-deal-what-went-wrong-in-negotiations-ad0c49/</guid>
-      <pubDate>Wed, 17 Jun 2026 09:04:31 GMT</pubDate>
+      <title>WV trailing other states in moves to protect ratepayers from data center impacts</title>
+      <link>https://oracle-university.com/stories/wv-trailing-other-states-in-moves-to-protect-ratepayers-from-data-center-impacts-848e7b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/wv-trailing-other-states-in-moves-to-protect-ratepayers-from-data-center-impacts-848e7b/</guid>
+      <pubDate>Thu, 18 Jun 2026 09:45:00 GMT</pubDate>
       <category>Oracle Cloud</category>
-      <description>Microsoft has reportedly pulled out of a $3 billion Oracle cloud deal over FedRAMP concerns, while Oracle denies claims and confirms continued collaboration.</description>
-      <source url="https://www.outlookbusiness.com/corporate/microsoft-exits-3bn-oracle-cloud-deal-what-went-wrong-in-negotiations">Outlook Business</source>
+      <description>West Virginia lawmakers had many questions about how or whether they could keep regional data center growth from sending electric bills soaring. Members of the Joint Standing Judiciary Committee complained throughout their interim legislative session meeting at Canaan Valley Resort State Park on Jun</description>
+      <source url="https://www.wvgazettemail.com/news/energy_and_environment/wv-trailing-other-states-in-moves-to-protect-ratepayers-from-data-center-impacts/article_15861541-4d6b-4945-b961-76cea50a8f45.html">Charleston Gazette-mail</source>
     </item>
     <item>
-      <title>Oracle Denies Report That Security Concerns Killed Potential $3 Billion Microsoft Cloud Deal</title>
-      <link>https://oracle-university.com/stories/oracle-denies-report-that-security-concerns-killed-potential-3-billion-microsoft-cloud-d-36f496/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-denies-report-that-security-concerns-killed-potential-3-billion-microsoft-cloud-d-36f496/</guid>
-      <pubDate>Wed, 17 Jun 2026 08:57:26 GMT</pubDate>
+      <title>Oracle (ORCL) And Microsoft Cloud Deal Reportedly Fell Apart Over Security Rules</title>
+      <link>https://oracle-university.com/stories/oracle-orcl-and-microsoft-cloud-deal-reportedly-fell-apart-over-security-rules-67822c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-orcl-and-microsoft-cloud-deal-reportedly-fell-apart-over-security-rules-67822c/</guid>
+      <pubDate>Thu, 18 Jun 2026 09:12:13 GMT</pubDate>
       <category>Security</category>
-      <description>Negotiations between Microsoft Corp. (NASDAQ: MSFT ) and Oracle Corp. (NYSE: ORCL ) regarding the leasing of Oracle’s cloud infrastructure reportedly came to a halt due to security and compliance issues. The objective was to transfer some of Microsoft’s workloads to Oracle’s Cloud Infrastructure. Ho</description>
-      <source url="https://www.benzinga.com/markets/tech/26/06/53242835/oracle-denies-report-that-security-concerns-killed-potential-3-billion-microsoft-cloud-deal">Benzinga</source>
+      <description>Talks for a potential $3b+ cloud infrastructure leasing partnership between Oracle and Microsoft reportedly fell apart over security certification requirements for U.S. government workloads. Reports indicated that Oracle did not agree to add FedRAMP security certification, which is commonly required</description>
+      <source url="https://ca.finance.yahoo.com/news/oracle-orcl-microsoft-cloud-deal-091213009.html">Yahoo! News</source>
     </item>
     <item>
-      <title>WeChat Pay beta-tests AI payments; SpaceX acquires AI coding tool Cursor in an all-stock deal | Daily News Recap</title>
-      <link>https://oracle-university.com/stories/wechat-pay-beta-tests-ai-payments-spacex-acquires-ai-coding-tool-cursor-in-an-all-stock--abb974/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/wechat-pay-beta-tests-ai-payments-spacex-acquires-ai-coding-tool-cursor-in-an-all-stock--abb974/</guid>
-      <pubDate>Wed, 17 Jun 2026 08:32:32 GMT</pubDate>
+      <title>Fortinet breach grants access to thousands of corporate networks</title>
+      <link>https://oracle-university.com/stories/fortinet-breach-grants-access-to-thousands-of-corporate-networks-3dee6e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/fortinet-breach-grants-access-to-thousands-of-corporate-networks-3dee6e/</guid>
+      <pubDate>Thu, 18 Jun 2026 07:32:05 GMT</pubDate>
+      <category>Security</category>
+      <description>One of the largest exposed collections of corporate login credentials in recent years is putting thousands of organizations under pressure. Researchers discovered that attackers gained access to tens of thousands of Fortinet systems and built up a massive database of valid login credentials in the p</description>
+      <source url="https://www.techzine.eu/news/security/142259/fortinet-breach-grants-access-to-thousands-of-corporate-networks/">Techzine Europe</source>
+    </item>
+    <item>
+      <title>HIVE Digital Technologies&#39; BUZZ HPC Closes USD $220 Million Sovereign AI GPU Contract with Bell AI Fabric for Cohere</title>
+      <link>https://oracle-university.com/stories/hive-digital-technologies-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-c90373/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/hive-digital-technologies-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-c90373/</guid>
+      <pubDate>Thu, 18 Jun 2026 07:03:01 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Vancouver, British Columbia--(Newsfile Corp. - June 18, 2026) - HIVE Digital Technologies Ltd. (TSX: HIVE) (NASDAQ: HIVE) (FSE: YO0) (BVC: HIVECO) ...</description>
+      <source url="https://greenstocknews.com/news/nasdaq/hive/hive-s-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-bell-ai-fabric-for-cohere-inc">Green Stock News</source>
+    </item>
+    <item>
+      <title>HIVE&#39;s BUZZ HPC Closes USD $220 Million Sovereign AI GPU Contract with Bell AI Fabric for Cohere Inc.</title>
+      <link>https://oracle-university.com/stories/hive-s-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-bell-ai-fabric-for-b0dd9a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/hive-s-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-bell-ai-fabric-for-b0dd9a/</guid>
+      <pubDate>Thu, 18 Jun 2026 07:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Vancouver, British Columbia--(Newsfile Corp. - June 18, 2026) - HIVE Digital Technologies Ltd. (TSX: HIVE) (NASDAQ: HIVE) (FSE: YO0) (BVC: HIVECO) (the &quot;Company&quot; or &quot;HIVE&quot;), through its wholly owned subsidiary BUZZ High Performance Computing Inc. (&quot;BUZZ HPC&quot;), today announced a landmark sovereign AI</description>
+      <source url="https://www.newsfilecorp.com/release/302011/HIVEs-BUZZ-HPC-Closes-USD-220-Million-Sovereign-AI-GPU-Contract-with-Bell-AI-Fabric-for-Cohere-Inc.">Newsfilecorp</source>
+    </item>
+    <item>
+      <title>Hive Digital Technologies: Bell AI Fabric, Cohere, Hypertec and BUZZ HPC announce landmark deal to advance sovereign AI in Canada</title>
+      <link>https://oracle-university.com/stories/hive-digital-technologies-bell-ai-fabric-cohere-hypertec-and-buzz-hpc-announce-landmark--552af5/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/hive-digital-technologies-bell-ai-fabric-cohere-hypertec-and-buzz-hpc-announce-landmark--552af5/</guid>
+      <pubDate>Thu, 18 Jun 2026 06:02:01 GMT</pubDate>
+      <category>Security</category>
+      <description>This news release contains forward-looking statements. For a description of the related risk factors and assumptions, please see the section entitl...</description>
+      <source url="https://greenstocknews.com/news/nasdaq/hive/bell-ai-fabric-cohere-hypertec-and-buzz-hpc-announce-landmark-deal-to-advance-sovereign-ai-in-canada">Green Stock News</source>
+    </item>
+    <item>
+      <title>Global Cyberattack Compromises Thousands of Fortinet Devices</title>
+      <link>https://oracle-university.com/stories/global-cyberattack-compromises-thousands-of-fortinet-devices-356afe/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/global-cyberattack-compromises-thousands-of-fortinet-devices-356afe/</guid>
+      <pubDate>Thu, 18 Jun 2026 05:57:23 GMT</pubDate>
+      <category>Security</category>
+      <description>Copyright protected content copied from PhoneWorld website. A large-scale cyberattack has recently affected tens of thousands of Fortinet firewalls and virtual private network VPN) devices used by companies around the world. Cybersecurity researchers have discovered that hackers are gaining access t</description>
+      <source url="https://www.phoneworld.com.pk/global-cyberattack-compromises-thousands-of-fortinet-devices/">Phoneworld Pk</source>
+    </item>
+    <item>
+      <title>TCS opens Oracle AI lab in Kolkata for enterprise use</title>
+      <link>https://oracle-university.com/stories/tcs-opens-oracle-ai-lab-in-kolkata-for-enterprise-use-a67079/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/tcs-opens-oracle-ai-lab-in-kolkata-for-enterprise-use-a67079/</guid>
+      <pubDate>Thu, 18 Jun 2026 03:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The Kolkata centre is meant to help corporate clients turn fragmented data into scaled AI deployments, as demand for practical automation grows.</description>
+      <source url="https://itbrief.in/story/tcs-opens-oracle-ai-lab-in-kolkata-for-enterprise-use">It Brief India</source>
+    </item>
+    <item>
+      <title>Re: FCCPC and the Presidency’s FDI drive</title>
+      <link>https://oracle-university.com/stories/re-fccpc-and-the-presidency-s-fdi-drive-8c9acc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/re-fccpc-and-the-presidency-s-fdi-drive-8c9acc/</guid>
+      <pubDate>Thu, 18 Jun 2026 02:03:16 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>An analysis refutes claims that the FCCPC hinders Nigeria’s FDI drive, arguing robust regulation is crucial for attracting legitimate foreign investment. Read More: https://punchng.com/re-fccpc-and-the-presidencys-fdi-drive/</description>
+      <source url="https://punchng.com/re-fccpc-and-the-presidencys-fdi-drive/">Punch</source>
+    </item>
+    <item>
+      <title>Oracle (NYSE:ORCL) Stock Price Up 4.3% – Still a Buy?</title>
+      <link>https://oracle-university.com/stories/oracle-nyse-orcl-stock-price-up-4-3-still-a-buy-748d0d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-nyse-orcl-stock-price-up-4-3-still-a-buy-748d0d/</guid>
+      <pubDate>Thu, 18 Jun 2026 01:18:53 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>0617 | Dolphin Research Dolphin Research Focus: 🐬 Macro / Industry 1. Shenzhen&#39;s market regulator held a joint talk with Meituan, Taobao Flash, and JD over &#39;ghost store&#39; abuses exposed by a citywide food-delivery sweep, including fake storefronts and licensing mismatches. Platforms were told to con</description>
-      <source url="https://longbridge.com/topics/41946527">Longbridge</source>
+      <description>Oracle Corporation (NYSE:ORCL – Get Free Report) rose 4.3% during trading on Monday . The stock traded as high as $195.32 and last traded at $192.11. Approximately 19,849,031 shares were traded during trading, a decline of 28% from the average daily volume of 27,423,316 shares. The stock had previou</description>
+      <source url="https://www.dailypolitical.com/2026/06/17/oracle-nyseorcl-stock-price-up-4-3-still-a-buy.html">Daily Political</source>
     </item>
     <item>
-      <title>CISA Issues Alert on Oracle PeopleSoft Vulnerability Exploited by Ransomware Groups</title>
-      <link>https://oracle-university.com/stories/cisa-issues-alert-on-oracle-peoplesoft-vulnerability-exploited-by-ransomware-groups-28a001/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cisa-issues-alert-on-oracle-peoplesoft-vulnerability-exploited-by-ransomware-groups-28a001/</guid>
-      <pubDate>Wed, 17 Jun 2026 07:15:16 GMT</pubDate>
+      <title>Analysts Boosts Oracle (ORCL) Price Target Following Q4 Results</title>
+      <link>https://oracle-university.com/stories/analysts-boosts-oracle-orcl-price-target-following-q4-results-8dcac9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/analysts-boosts-oracle-orcl-price-target-following-q4-results-8dcac9/</guid>
+      <pubDate>Thu, 18 Jun 2026 01:15:52 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>With a net profit margin of 25.30%, Oracle Corporation (NYSE:ORCL) is included among the 12 Most Profitable American Stocks to Buy in 2026. Oracle Corporation (NYSE:ORCL) is a global leader in AI, delivering the cloud infrastructure, data, and applications that organizations across the world trust t</description>
+      <source url="https://www.insidermonkey.com/blog/analysts-boosts-oracle-orcl-price-target-following-q4-results-1784063/">Insider Trading</source>
+    </item>
+    <item>
+      <title>Loans lend Tonik a hand</title>
+      <link>https://oracle-university.com/stories/loans-lend-tonik-a-hand-cc0359/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/loans-lend-tonik-a-hand-cc0359/</guid>
+      <pubDate>Thu, 18 Jun 2026 00:30:47 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Tonik is lending more, but inflation keeps applying the brakes. Meanwhile, AI startup Plaud is betting users will pay up rather than trade down.</description>
+      <source url="https://www.techinasia.com/loans-lend-tonik-hand">Tech In Asia</source>
+    </item>
+    <item>
+      <title>The Invisible Energy Crisis Threatening to Derail the AI Boom</title>
+      <link>https://oracle-university.com/stories/the-invisible-energy-crisis-threatening-to-derail-the-ai-boom-e7ba57/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-invisible-energy-crisis-threatening-to-derail-the-ai-boom-e7ba57/</guid>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
       <category>Security</category>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has issued an urgent alert regarding the active exploitation of a critical vulnerability in Oracle PeopleSoft Enterprise PeopleTools, identified as CVE-2026-35273.</description>
-      <source url="https://gbhackers.com/cisa-issues-alert-on-oracle-peoplesoft-vulnerability/">gbhackers.com</source>
-    </item>
-    <item>
-      <title>The Companies Rewiring the Future of AI</title>
-      <link>https://oracle-university.com/stories/the-companies-rewiring-the-future-of-ai-b55082/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-companies-rewiring-the-future-of-ai-b55082/</guid>
-      <pubDate>Wed, 17 Jun 2026 06:59:35 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>Training a frontier AI model means convincing hundreds of thousands of chips to act like one giant computer. The hard part isn&#39;t the chips — it&#39;s the wiring.</description>
-      <source url="https://hackernoon.com/the-companies-rewiring-the-future-of-ai">Hackernoon</source>
-    </item>
-    <item>
-      <title>Microsoft walked away from $3 billion deal with Oracle: Here’s what happened as per Oracle</title>
-      <link>https://oracle-university.com/stories/microsoft-walked-away-from-3-billion-deal-with-oracle-here-s-what-happened-as-per-oracle-d99b67/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/microsoft-walked-away-from-3-billion-deal-with-oracle-here-s-what-happened-as-per-oracle-d99b67/</guid>
-      <pubDate>Wed, 17 Jun 2026 06:32:28 GMT</pubDate>
-      <category>Security</category>
-      <description>Microsoft has reportedly walked away from a potential cloud infrastructure leasing deal with Oracle that could have been worth more than $3 billion, according to a report by Business Insider. The report claimed that the talks between the two tech giants collapsed over security and compliance concern</description>
-      <source url="https://telecomlive.in/web/2026/06/17/microsoft-walked-away-from-3-billion-deal-with-oracle-heres-what-happened-as-per-oracle/">Telecomliveweb</source>
-    </item>
-    <item>
-      <title>FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.</title>
-      <link>https://oracle-university.com/stories/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices-99bbe3/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices-99bbe3/</guid>
-      <pubDate>Wed, 17 Jun 2026 15:12:57 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>A newly discovered data leak dubbed &quot;FortiBleed&quot; has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide.</description>
-      <source url="https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/">BleepingComputer</source>
-    </item>
-    <item>
-      <title>Databricks annualized revenue rises over 80% to $6.9b</title>
-      <link>https://oracle-university.com/stories/databricks-annualized-revenue-rises-over-80-to-6-9b-301070/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/databricks-annualized-revenue-rises-over-80-to-6-9b-301070/</guid>
-      <pubDate>Wed, 17 Jun 2026 01:10:17 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Databricks&#39; AI product revenue rose to $1.7 billion as it integrates frontier and open-source models.</description>
-      <source url="https://www.techinasia.com/databricks-reports-5-4b-revenue-run-rate">Tech In Asia</source>
-    </item>
-    <item>
-      <title>MSFT Falls 2% On Tuesday — Microsoft Reportedly Walks Away From $3B Oracle Cloud Deal</title>
-      <link>https://oracle-university.com/stories/msft-falls-2-on-tuesday-microsoft-reportedly-walks-away-from-3b-oracle-cloud-deal-af8f54/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/msft-falls-2-on-tuesday-microsoft-reportedly-walks-away-from-3b-oracle-cloud-deal-af8f54/</guid>
-      <pubDate>Wed, 17 Jun 2026 00:40:00 GMT</pubDate>
-      <category>Security</category>
-      <description>Microsoft has reportedly abandoned talks with Oracle to lease $3 billion in AI computing power after a stalemate over federal security regulations.</description>
-      <source url="https://newsable.asianetnews.com/markets/msft-falls-2-on-tuesday-microsoft-reportedly-walks-away-from-3b-oracle-cloud-deal-articleshow-3psy4p4">Asianet Newsable</source>
-    </item>
-    <item>
-      <title>Data-Driven EHRs and AI for an Interoperable Digital Health Ecosystem</title>
-      <link>https://oracle-university.com/stories/data-driven-ehrs-and-ai-for-an-interoperable-digital-health-ecosystem-7dec73/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/data-driven-ehrs-and-ai-for-an-interoperable-digital-health-ecosystem-7dec73/</guid>
-      <pubDate>Mon, 15 Jun 2026 13:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>An interview with Romel Khalife, Country Manager – UAE and Kuwait, Oracle Health &amp; Life Sciences, conducted by Peter Birch during WHX Dubai 2026, about the evolution and future of Electronic Health Records (EHRs). The podcast highlights how EHRs had transformed from being mere compliance tools into </description>
-      <source url="https://67e59a61-3030-46b6-994e-347256b36686.libsyn.com/data-driven-ehrs-and-ai-for-an-interoperable-digital-health-ecosystem">Perspectives on Health and Tech</source>
-    </item>
-    <item>
-      <title>Oracle says details in report of failed Microsoft cloud deal talks &#39;inaccurate&#39;</title>
-      <link>https://oracle-university.com/stories/oracle-says-details-in-report-of-failed-microsoft-cloud-deal-talks-inaccurate-eb5093/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-says-details-in-report-of-failed-microsoft-cloud-deal-talks-inaccurate-eb5093/</guid>
-      <pubDate>Wed, 17 Jun 2026 00:06:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>June 16 (Reuters) - Oracle said ⁠on Tuesday that details in a Business Insider ⁠report on the collapse of its discussions with ‌Microsoft over a potential leasing deal were inaccurate.</description>
-      <source url="https://www.thestar.com.my/tech/tech-news/2026/06/17/microsoft039s-cloud-infrastructure-talks-with-oracle-collapse-business-insider-reports">The Star</source>
-    </item>
-    <item>
-      <title>💻 Multiple IT &amp; Data Roles Now Hiring in Tempe, AZ ($80K–$200K+)</title>
-      <link>https://oracle-university.com/stories/multiple-it-data-roles-now-hiring-in-tempe-az-80k-200k-ae8ee7/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/multiple-it-data-roles-now-hiring-in-tempe-az-80k-200k-ae8ee7/</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Tempe’s tech scene is buzzing this month — from AI and data science to cloud engineering and IT support, there are great openings for every level of experi</description>
-      <source url="https://www.newsbreak.com/tempe-az-daily-brief-373176681/4715228851157-multiple-it-data-roles-now-hiring-in-tempe-az-80k-200k">Newsbreak</source>
-    </item>
-    <item>
-      <title>Artificial Intelligence (AI) Engineering Market Top Companies, Competitive Analysis, and Investment Outlook</title>
-      <link>https://oracle-university.com/stories/artificial-intelligence-ai-engineering-market-top-companies-competitive-analysis-and-inv-380135/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/artificial-intelligence-ai-engineering-market-top-companies-competitive-analysis-and-inv-380135/</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The Business Research Company&#39;s Artificial Intelligence (AI) Engineering Market Report 2026 – Market Size, Trends, And Global Forecast 2026-2035</description>
-      <source url="https://www.einpresswire.com/article/920136041/artificial-intelligence-ai-engineering-market-top-companies-competitive-analysis-and-investment-outlook">Ein Presswire</source>
-    </item>
-    <item>
-      <title>CRM Market Growth Accelerates as Enterprises Prioritize Customer Engagement, Cloud Adoption, and Digital Transformation</title>
-      <link>https://oracle-university.com/stories/crm-market-growth-accelerates-as-enterprises-prioritize-customer-engagement-cloud-adopti-e315f3/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/crm-market-growth-accelerates-as-enterprises-prioritize-customer-engagement-cloud-adopti-e315f3/</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>The Customer Relationship Management (CRM) Market is expanding rapidly as organizations adopt cloud, AI, and analytics tools to improve customer engagement.</description>
-      <source url="https://www.einpresswire.com/article/920136368/crm-market-growth-accelerates-as-enterprises-prioritize-customer-engagement-cloud-adoption-and-digital-transformation">Ein Presswire</source>
-    </item>
-    <item>
-      <title>ASCM Announces Keynote Panels for CHAINge 2026, Focused on Turning Complexity into Capability</title>
-      <link>https://oracle-university.com/stories/ascm-announces-keynote-panels-for-chainge-2026-focused-on-turning-complexity-into-capabi-e67898/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ascm-announces-keynote-panels-for-chainge-2026-focused-on-turning-complexity-into-capabi-e67898/</guid>
-      <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>At ASCM CHAINge 2026, global leaders tackle trade, AI and operational disruption with real-world strategies for more agile, resilient supply chains.</description>
-      <source url="https://www.einpresswire.com/article/920251706/ascm-announces-keynote-panels-for-chainge-2026-focused-on-turning-complexity-into-capability">Ein Presswire</source>
-    </item>
-    <item>
-      <title>Zero Variance: Proving COBOL-to-Java Semantic Equivalence with a Live Mainframe Emulator on AWS</title>
-      <link>https://oracle-university.com/stories/zero-variance-proving-cobol-to-java-semantic-equivalence-with-a-live-mainframe-emulator--8e90a2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/zero-variance-proving-cobol-to-java-semantic-equivalence-with-a-live-mainframe-emulator--8e90a2/</guid>
-      <pubDate>Tue, 16 Jun 2026 23:03:18 GMT</pubDate>
-      <category>Java &amp; MySQL</category>
-      <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.bundle.app/en/technology/zero-variance-proving-cobol-to-java-semantic-equivalence-with-a-live-mainframe-emulator-on-aws-1A2FF7FD-C40E-4E94-84AF-605FACEFA082">Bundle</source>
+      <description>Every AI boom forecast being published right now — every bull case, Big Tech earnings call, and valuation model — seems to be making the same assumption. The electricity will be there to power it when they need it. It won’t. Bitzero (NASDAQ: AIBZ) spent the last four years betting against that assum</description>
+      <source url="https://oilprice.com/Energy/Energy-General/The-Invisible-Energy-Crisis-Threatening-to-Derail-the-AI-Boom.html">Oil Price</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -457,6 +304,159 @@
       <category>AI &amp; Database</category>
       <description>Running Oracle Database@AWS is most effective when you have full visibility and control over your environment. In this episode, hosts Lois Houston and Nikita Abraham are joined by Rashmi Panda, who explains how to monitor performance, track key metrics, and catch issues before they become problems. </description>
       <source url="https://oracleuniversitypodcast.libsyn.com/oracle-databaseaws-monitoring-logging-and-best-practices">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>How Oracle Database@AWS Stays Secure and Available</title>
+      <link>https://oracle-university.com/stories/how-oracle-database-aws-stays-secure-and-available-5e2d3c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/how-oracle-database-aws-stays-secure-and-available-5e2d3c/</guid>
+      <pubDate>Tue, 03 Mar 2026 12:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>When your business runs on data, even a few seconds of downtime can hurt. That&#39;s why this episode focuses on what keeps Oracle Database@AWS running when real-world problems strike. Hosts Lois Houston and Nikita Abraham are joined by Senior Principal Database Instructor Rashmi Panda, who takes us ins</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/how-oracle-databaseaws-stays-secure-and-available">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Security and Migration with Oracle Database@AWS</title>
+      <link>https://oracle-university.com/stories/security-and-migration-with-oracle-database-aws-7d3c25/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/security-and-migration-with-oracle-database-aws-7d3c25/</guid>
+      <pubDate>Tue, 24 Feb 2026 12:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>In this episode, hosts Lois Houston and Nikita Abraham are joined by special guests Samvit Mishra and Rashmi Panda for an in-depth discussion on security and migration with Oracle Database@AWS. Samvit shares essential security best practices, compliance guidance, and data protection mechanisms to sa</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/security-and-migration-with-oracle-databaseaws">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Getting Started with Oracle Database@AWS</title>
+      <link>https://oracle-university.com/stories/getting-started-with-oracle-database-aws-b1d4e8/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/getting-started-with-oracle-database-aws-b1d4e8/</guid>
+      <pubDate>Tue, 17 Feb 2026 12:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>If you&#39;ve ever wondered how Oracle Database really works inside AWS, this episode will finally turn the lights on. Join Senior Principal OCI Instructor Susan Jang as she explains the two database services available (Exadata Database Service and Autonomous Database), how Oracle and AWS share responsi</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/getting-started-with-oracle-databaseaws">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>What is Oracle Database@AWS?</title>
+      <link>https://oracle-university.com/stories/what-is-oracle-database-aws-fc2509/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/what-is-oracle-database-aws-fc2509/</guid>
+      <pubDate>Tue, 10 Feb 2026 12:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>In this episode, hosts Lois Houston and Nikita Abraham take you inside how Oracle brings its industry-leading database technology directly to AWS customers. Senior Principal OCI Instructor Susan Jang unpacks what the OCI child site is, how Exadata hardware is deployed inside AWS data centers, and ho</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/what-is-oracle-databaseaws">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Oracle Multicloud Made Easy</title>
+      <link>https://oracle-university.com/stories/oracle-multicloud-made-easy-be0bfd/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-multicloud-made-easy-be0bfd/</guid>
+      <pubDate>Tue, 03 Feb 2026 12:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Multicloud is changing the way modern teams run their workloads: with real choice and real control. In this episode, hosts Lois Houston and Nikita Abraham welcome Senior Principal OCI Instructor Sergio Castro, who explains how Oracle has partnered with Microsoft Azure, Google Cloud, and AWS to bring</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-multicloud-made-easy">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Part II Transforming Database Operations: MCP Server + OCI Generative AI in Action</title>
+      <link>https://oracle-university.com/stories/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action-639847/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action-639847/</guid>
+      <pubDate>Tue, 27 Jan 2026 13:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>In Part II of this episode we explore how Oracle&#39;s latest AI-driven database tools are revolutionizing teaching and learning in higher education. Tailored for global faculty and students, the episode demonstrates how artificial intelligence makes database operations more accessible, intuitive, and r</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>From Curiosity to Career Growth: An Oracle AI Certification Journey</title>
+      <link>https://oracle-university.com/stories/from-curiosity-to-career-growth-an-oracle-ai-certification-journey-bd5794/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/from-curiosity-to-career-growth-an-oracle-ai-certification-journey-bd5794/</guid>
+      <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Join us for an inspiring conversation with private equity advisor Jeffrey Malcolm as he shares how Oracle AI certification has transformed his career, family, and approach to business. Discover the real-world impact and opportunities that come from upskilling with Oracle&#39;s leading AI training progra</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/from-curiosity-to-career-growth-an-oracle-ai-certification-journey">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Transforming Database Operations: MCP Server + OCI Generative AI in Action</title>
+      <link>https://oracle-university.com/stories/transforming-database-operations-mcp-server-oci-generative-ai-in-action-6ad8a3/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/transforming-database-operations-mcp-server-oci-generative-ai-in-action-6ad8a3/</guid>
+      <pubDate>Tue, 20 Jan 2026 13:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Part I In this episode of the Oracle Academy Tech Chat Podcast we explore how Oracle&#39;s latest AI-driven database tools are revolutionizing teaching and learning in higher education. Tailored for global faculty and students, the episode demonstrates how artificial intelligence makes database operatio</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/transforming-database-operations-mcp-server-oci-generative-ai-in-action">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Driving Business Value with OCI – Part 2</title>
+      <link>https://oracle-university.com/stories/driving-business-value-with-oci-part-2-11d505/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/driving-business-value-with-oci-part-2-11d505/</guid>
+      <pubDate>Tue, 20 Jan 2026 12:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>Security, compliance, and resilience are the cornerstones of trust. In this episode, Lois Houston and Nikita Abraham continue their conversation with David Mills and Tijo Thomas, exploring how Oracle Cloud Infrastructure empowers organizations to protect data, stay compliant, and scale with confiden</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/driving-business-value-with-oci-part-2">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Driving Business Value with OCI–Part 1</title>
+      <link>https://oracle-university.com/stories/driving-business-value-with-oci-part-1-8444fa/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/driving-business-value-with-oci-part-1-8444fa/</guid>
+      <pubDate>Wed, 14 Jan 2026 23:18:23 GMT</pubDate>
+      <category>Security</category>
+      <description>Understanding cloud costs can be challenging, but it&#39;s essential for maximizing value. In this episode, hosts Lois Houston and Nikita Abraham speak with Oracle Cloud experts David Mills and Tijo Thomas about how Oracle Cloud Infrastructure offers predictable pricing, robust security, and high perfor</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/driving-business-value-with-ocipart-1">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Getting to Know Oracle Cloud Infrastructure</title>
+      <link>https://oracle-university.com/stories/getting-to-know-oracle-cloud-infrastructure-b4f7ca/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/getting-to-know-oracle-cloud-infrastructure-b4f7ca/</guid>
+      <pubDate>Tue, 06 Jan 2026 17:15:25 GMT</pubDate>
+      <category>Security</category>
+      <description>Every system depends on reliable infrastructure behind the scenes. Oracle Cloud Infrastructure (OCI) delivers that reliability with speed, flexibility, and built-in security. Join Lois Houston and Nikita Abraham as they speak with Oracle Cloud experts David Mills and Tijo Thomas about what makes OCI</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/getting-to-know-oracle-cloud-infrastructure">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Best of 2025: Unlocking the Power of Oracle APEX and AI</title>
+      <link>https://oracle-university.com/stories/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai-6aff1f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai-6aff1f/</guid>
+      <pubDate>Tue, 23 Dec 2025 12:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Lois Houston and Nikita Abraham explore how Oracle APEX integrates with AI to build smarter low-code applications. They are joined by Chaitanya Koratamaddi, Director of Product Management at Oracle, who explains the basics of Oracle APEX, its global adoption, and the challenges it addresses for busi</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Bringing the Cloud to You: Security and Control with Exadata</title>
+      <link>https://oracle-university.com/stories/bringing-the-cloud-to-you-security-and-control-with-exadata-e7accc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/bringing-the-cloud-to-you-security-and-control-with-exadata-e7accc/</guid>
+      <pubDate>Tue, 16 Dec 2025 13:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>In this episode, we&#39;ll talk about Security and Control with Exadata We&#39;ll explore how organizations can benefit from cloud innovation while keeping full control over their data — a critical challenge in today&#39;s digital world. ---------------------------------------------------- Episode Transcript: 0</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/bringing-the-cloud-to-you-security-and-control-with-exadata">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Best of 2025: Oracle Fusion Cloud Applications Foundations Training &amp; Certifications</title>
+      <link>https://oracle-university.com/stories/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications-6881a0/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications-6881a0/</guid>
+      <pubDate>Tue, 16 Dec 2025 12:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham dive into Oracle Fusion Cloud Applications and the new courses and certifications on offer. They are joined by Oracle Fusion Apps experts Patrick McBride and Bill Lawson who introduce the concept of Oracle Modern</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Best of 2025: Introduction to MySQL</title>
+      <link>https://oracle-university.com/stories/best-of-2025-introduction-to-mysql-2273ef/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-introduction-to-mysql-2273ef/</guid>
+      <pubDate>Tue, 02 Dec 2025 05:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Join hosts Lois Houston and Nikita Abraham as they explore the world of MySQL 8.4. Together with Perside Foster, a MySQL Principal Solution Engineer, they break down the fundamentals of MySQL, its wide range of applications, and why it&#39;s so popular among developers and database administrators. This </description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-introduction-to-mysql">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>The Transformative Power of Low Code Development</title>
+      <link>https://oracle-university.com/stories/the-transformative-power-of-low-code-development-d12adc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-transformative-power-of-low-code-development-d12adc/</guid>
+      <pubDate>Tue, 25 Nov 2025 13:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>In this Episode Orlaith Lawton speaks with Oracle ACE Roberto Capancioni about the importance of APEX and why it is the world&#39;s most popular low-code application platform. ------------------------------------------------------ Episode Transcript: 00:00:00:00 - 00:00:35:14 Unknown Welcome to the Orac</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-transformative-power-of-low-code-development">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Understanding Security Risks and Threats in the Cloud - Part 1</title>
+      <link>https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</guid>
+      <pubDate>Tue, 18 Nov 2025 12:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>This week, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to explore what truly keeps data safe, and what puts it at risk. They discuss the CIA triad, dive into hashing and encryption, and shed light on how cyber threats like malware, phishing, and ransomware t</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/understanding-security-risks-and-threats-in-the-cloud-part-1">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T22:21:45.782Z",
+  "generatedAt": "2026-06-18T22:32:11.365Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,181 +7,52 @@
   },
   "items": [
     {
-      "id": "d9c95b53-27c0-48e1-8d77-b43ab3bf3f87",
-      "slug": "wedbush-upgrades-cognizant-ctsh-to-outperform-0f36dd",
-      "title": "Wedbush Upgrades Cognizant (CTSH) to Outperform",
-      "dek": "On June 5, 2026, Cognizant Technology Solutions Corporation (NASDAQ:CTSH) launched a physical AI platform-as-a-service, an integrated capability designed to move autonomous systems from experimentation into core enterprise infrastructure.",
-      "url": "https://www.insidermonkey.com/blog/wedbush-upgrades-cognizant-ctsh-to-outperform-1783631/",
-      "source": "Insider Monkey",
+      "id": "5c9b0dba-0ef2-4aae-9863-cd99f7ee64ae",
+      "slug": "breach-roundup-shinyhunters-leaks-26m-msg-records-f6ba4a",
+      "title": "Breach Roundup: ShinyHunters Leaks 26M MSG Records",
+      "dek": "Every week, ISMG rounds up cybersecurity incidents and breaches around the world. This week, extortion gang ShinyHunters published alleged Madison Square Garden data.",
+      "url": "https://www.bankinfosecurity.com/breach-roundup-shinyhunters-leaks-26m-msg-records-a-32019",
+      "source": "BankInfoSecurity",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/f2RK57vuH1MCY71SDL8VxSzcBu_x0FkRgJS14zBjAyc/resize:fit:1280:853:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2021/02/01064322/technology-792175_1280.jpg",
-      "publishedAt": "2026-06-17T17:43:19.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "business"
-      ],
-      "priority": 54
-    },
-    {
-      "id": "56acdc36-1e80-4f34-a61a-75b44eca763a",
-      "slug": "rocket-lab-rklb-to-join-nasdaq-100-index-on-june-22-d22c6b",
-      "title": "Rocket Lab (RKLB) to Join Nasdaq-100 Index on June 22",
-      "dek": "On June 12, 2026, Rocket Lab Corporation (NASDAQ:RKLB) announced its inclusion in the Nasdaq-100 Index. The company said the milestone places Rocket Lab among the 100 largest non-financial companies listed on the Nasdaq Stock Market.",
-      "url": "https://www.insidermonkey.com/blog/rocket-lab-rklb-to-join-nasdaq-100-index-on-june-22-1783625/",
-      "source": "Insider Monkey",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/-IUR4_8pOO5TgbnzZgug8XJY0WKJerHStsK5MuGrwkY/resize:fit:800:535:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2014/03/800px-Zonaspace-coworking-collaboration.jpg",
-      "publishedAt": "2026-06-17T17:43:19.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "space"
-      ],
-      "priority": 54
-    },
-    {
-      "id": "fbf718e7-726a-4848-83c0-7e99f5a0c580",
-      "slug": "massive-password-stealing-attack-hits-75k-fortinet-firewalls-f65d5b",
-      "title": "Massive password-stealing attack hits 75k Fortinet firewalls",
-      "dek": "If you have a Fortinet firewall, it's time to stop and change your passwords. Intruders somehow gained access to around 75,000 Fortinet firewall devices and stole credentials belonging to major corporations across 194 countries, in some cases leading to full network compromise.",
-      "url": "https://www.theregister.com/cyber-crime/2026/06/17/massive-password-stealing-attack-hits-75k-fortinet-firewalls/5257877",
-      "source": "The Register",
-      "sourceType": "external",
-      "image": "https://image.theregister.com/?imageId=5223669&width=1200",
-      "publishedAt": "2026-06-17T17:27:40.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "internet security"
-      ],
-      "priority": 54
-    },
-    {
-      "id": "4d9394fb-8b93-4d98-86e6-417745dd42d7",
-      "slug": "jim-cramer-on-rocket-lab-while-the-stock-s-cheaper-than-spacex-it-s-still-pretty-darn-ex-19619f",
-      "title": "Jim Cramer on Rocket Lab: “While the Stock’s Cheaper Than SpaceX, It’s Still Pretty Darn Expensive”",
-      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
-      "url": "https://www.insidermonkey.com/blog/jim-cramer-on-rocket-lab-while-the-stocks-cheaper-than-spacex-its-still-pretty-darn-expensive-1783570/",
-      "source": "Insider Monkey",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/hbehccE3ZAn0v8mzWBbiA6MO6duttnvymHvSc4XyW-M/resize:fit:4848:3236:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2024/12/28073035/pexels-alphatradezone-5834243.jpg",
-      "publishedAt": "2026-06-17T16:43:46.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "space"
-      ],
-      "priority": 52
-    },
-    {
-      "id": "71e73c8d-36e2-43cc-8ffe-4307e3cb29f8",
-      "slug": "fortibleed-attack-exposes-fortinet-firewall-credentials-in-194-countries-dc6eda",
-      "title": "FortiBleed Attack Exposes Fortinet Firewall Credentials in 194 Countries",
-      "dek": "A newly reported campaign targeting Fortinet FortiGate firewalls has put exposed VPN and administrator access back in focus, after researchers linked the activity to tens of thousands of verified firewall logins affecting major companies and public sector organizations.",
-      "url": "https://hackread.com/fortibleed-attack-fortinet-firewalls-credentials/",
-      "source": "Hackread",
-      "sourceType": "external",
-      "image": "https://hackread.com/wp-content/uploads/2026/06/fortibleed-attack-fortinet-firewalls-credentials.png",
-      "publishedAt": "2026-06-17T16:34:22.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "internet security"
-      ],
-      "priority": 52
-    },
-    {
-      "id": "a0553521-e30d-45d0-9f13-7e098e4e33b4",
-      "slug": "kodak-confirms-data-breach-as-shinyhunters-threatens-leak-of-2-2m-records-36285c",
-      "title": "Kodak Confirms Data Breach as ShinyHunters Threatens Leak of 2.2M Records",
-      "dek": "Eastman Kodak confirmed Wednesday that an unauthorized third party illegally gained access to a portion of its data, as the ShinyHunters extortion group claimed responsibility on its dark web leak site and threatened to publish the stolen files if Kodak fails to make contact by Thursday, June 18, 20",
-      "url": "https://www.techtimes.com/articles/318565/20260617/kodak-confirms-data-breach-shinyhunters-threatens-leak-22m-records.htm",
-      "source": "Tech Times",
-      "sourceType": "external",
-      "image": "https://d.techtimes.com/en/full/466904/kodak.png?w=836&f=3ed74a61233fb32ac076994f3e2bfb04",
-      "publishedAt": "2026-06-17T15:44:53.000Z",
+      "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/breach-roundup-shinyhunters-leaks-26m-msg-records-image_large-2-a-32019.jpg",
+      "publishedAt": "2026-06-18T20:25:40.000Z",
       "topic": "Security",
       "tags": [
         "internet security"
       ],
-      "priority": 50
+      "priority": 64
     },
     {
-      "id": "0fd0c6c7-2ff2-46e4-a19e-04ceb5abfe00",
-      "slug": "is-this-the-best-time-to-buy-broadcom-avgo-847c5a",
-      "title": "Is This The Best Time to Buy Broadcom (AVGO)?",
-      "dek": "Broadcom’s (NASDAQ:AVGO) stock got hammered after its recent earnings, despite a genuinely strong quarter — analysts say it’s because expectations had simply run too far ahead of reality.",
-      "url": "https://www.insidermonkey.com/blog/is-this-the-best-time-to-buy-broadcom-avgo-1782779/",
-      "source": "Insider Monkey",
+      "id": "50ac1e87-8ace-4e9e-b47b-3e65aeb1319c",
+      "slug": "msg-data-breach-lawsuit-puts-dolan-s-facial-recognition-data-fight-in-spotlight-0f8f73",
+      "title": "MSG Data Breach Lawsuit Puts Dolan's Facial Recognition/Data Fight in Spotlight",
+      "dek": "Madison Square Garden Entertainment is facing a proposed class action lawsuit over an apparent data breach that allegedly exposed sensitive information tied to the company’s controversial surveillance and facial recognition systems, putting James Dolan’s long-running fight over venue access and biom",
+      "url": "https://www.ticketnews.com/2026/06/msg-data-breach-lawsuit-puts-dolans-facial-recognition-data-fight-in-spotlight/",
+      "source": "TicketNews",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/3RXX4XuWtTIrOnu4XZGPU2Dk3KQkWgv418rC6y31E6Y/resize:fit:2016:1344:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2024/06/07084204/forex-trading-Image-by-drobotdean-on-Freepik-businessman-sitting-by-table-cafe-analyzing-indicators-laptop-computer.jpg",
-      "publishedAt": "2026-06-17T15:33:19.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "business",
-        "finance"
-      ],
-      "priority": 50
-    },
-    {
-      "id": "3183d635-82ed-4579-8bf7-01d8bbe9d1e4",
-      "slug": "fortibleed-70-000-fortinet-firewalls-compromised-in-massive-exploitation-attack-cf444b",
-      "title": "FortiBleed - 70,000+ Fortinet Firewalls Compromised in Massive Exploitation Attack",
-      "dek": "An exhaustive cyber espionage campaign now dubbed “FortiBleed” has silently compromised over 73,932 unique Fortinet firewall URLs across 194 countries.",
-      "url": "https://cybersecuritynews.com/fortibleed-fortinet-firewalls-compromised/",
-      "source": "CyberSecurityNews",
-      "sourceType": "external",
-      "image": "https://cybersecuritynews.com/wp-content/uploads/2026/06/FortiBleed-Fortinet-Firewalls-Compromised.webp",
-      "publishedAt": "2026-06-17T15:33:11.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "internet security"
-      ],
-      "priority": 50
-    },
-    {
-      "id": "d013d1e0-de8d-441e-9bbd-9afe2a849d2a",
-      "slug": "why-neumora-therapeutics-nmra-faces-a-major-catalyst-from-navacaprant-s-upcoming-depress-7b15a7",
-      "title": "Why Neumora Therapeutics (NMRA) Faces a Major Catalyst From Navacaprant’s Upcoming Depression Data",
-      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
-      "url": "https://www.insidermonkey.com/blog/why-neumora-therapeutics-nmra-faces-a-major-catalyst-from-navacaprants-upcoming-depression-data-1783033/",
-      "source": "Insider Monkey",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/h-A1W-mEELiPAF0LLAAH0mgHyd9BjPSotejQ8XcexGo/resize:fit:1200:800:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2021/02/26091847/Cancer-IV-healthcare-hospital-patient-piqsels.com-id-ijagl.jpg",
-      "publishedAt": "2026-06-17T15:23:19.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "mental health"
-      ],
-      "priority": 50
-    },
-    {
-      "id": "aba12c79-18ec-4317-b8c2-1d9d5ddf468e",
-      "slug": "kodak-hit-by-data-breach-shinyhunters-claims-2-2m-records-fbf353",
-      "title": "Kodak Hit by Data Breach, ShinyHunters Claims 2.2M Records",
-      "dek": "Kodak is investigating a cybersecurity incident after hackers gained access to company data, while the ShinyHunters extortion group claims it stole more than 2.2 million records.",
-      "url": "https://sqmagazine.co.uk/kodak-data-breach-shinyhunters-2-2m-records/",
-      "source": "SQ Magazine",
-      "sourceType": "external",
-      "image": "https://sqmagazine.co.uk/wp-content/uploads/2026/06/kodak-hit-by-data-breach.jpg",
-      "publishedAt": "2026-06-17T14:24:12.000Z",
+      "image": "https://www.ticketnews.com/wp-content/uploads/Untitled-design-27-1.jpg.webp",
+      "publishedAt": "2026-06-18T17:37:10.000Z",
       "topic": "Security",
       "tags": [
         "internet security"
       ],
-      "priority": 48
+      "priority": 54
     },
     {
-      "id": "c4f80ccf-1107-4680-97f0-e946e99180b1",
-      "slug": "everpure-extends-data-and-control-planes-for-agentic-ai-454916",
-      "title": "Everpure extends data and control planes for agentic AI",
-      "dek": "Everpure has significantly extended its ability to classify data, not just its own, for AI and make it available to models, agents, and apps across its fleet of systems, with AI being used to better manage, monitor and secure the fleet and the data it holds. It says the IT world has reversed its foc",
-      "url": "https://www.blocksandfiles.com/data-management/2026/06/17/everpure-extends-data-and-control-planes-for-agentic-ai/5257407",
-      "source": "Blocks & Files",
+      "id": "8bad5448-9c79-4bdf-a657-3c48ad355c63",
+      "slug": "xai-grok-lands-on-databricks-at-the-2026-data-ai-summit-04cb0e",
+      "title": "xAI Grok Lands on Databricks at the 2026 Data + AI Summit",
+      "dek": "xAI's Grok is expanding its enterprise footprint again. As of June 18, 2026, Grok models are natively available on Databricks Agent Bricks — announced live at the Databricks 2026 Data + AI Summit. For enterprise teams already running data pipelines on Databricks' Lakehouse architecture, this means G",
+      "url": "https://www.basenor.com/blogs/news/xai-grok-lands-on-databricks-at-the-2026-data-ai-summit",
+      "source": "BASENOR - Tesla Accessories",
       "sourceType": "external",
-      "image": "https://image.blocksandfiles.com/4092688.webp?imageId=4092688&x=0.00&y=0.00&cropw=100.00&croph=100.00&width=960&height=424&format=jpg",
-      "publishedAt": "2026-06-17T13:00:00.000Z",
+      "image": "https://www.basenor.com/cdn/shop/articles/9ba16094a3073ac5c0710d0e847725a5.jpg?v=1781802513",
+      "publishedAt": "2026-06-18T17:08:33.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
         "business"
       ],
-      "priority": 46
+      "priority": 53
     },
     {
       "id": "f58466d207e1f5cc",
@@ -232,460 +103,311 @@
       "priority": 46
     },
     {
-      "id": "493d33ad-109d-4a7f-9992-685ebad0e76d",
-      "slug": "cisa-warns-of-oracle-peoplesoft-0-day-vulnerability-exploited-in-ransomware-attacks-4e63ba",
-      "title": "CISA Warns of Oracle PeopleSoft 0-Day Vulnerability Exploited in Ransomware Attacks",
-      "dek": "CISA has added a critical Oracle PeopleSoft vulnerability, tracked as CVE-2026-35273, to its Known Exploited Vulnerabilities (KEV) catalog, confirming active exploitation in the wild. The flaw affects Oracle PeopleSoft Enterprise PeopleTools and enables unauthenticated attackers to gain full control",
-      "url": "https://cybersecuritynews.com/oracle-peoplesoft-0-day-vulnerability-exploit/",
-      "source": "CyberSecurityNews",
+      "id": "83a2c50f-8236-4278-b036-477071a38200",
+      "slug": "hive-s-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-bell-ai-fabric-for-84f824",
+      "title": "HIVE’s BUZZ HPC Closes USD $220 Million Sovereign AI GPU Contract with Bell AI Fabric for Cohere Inc.",
+      "dek": "HIVE’s BUZZ HPC Closes USD $220 Million Sovereign AI GPU Contract with Bell AI Fabric for Cohere Inc. This news release constitutes a \"designated news release\" for the purposes of the Company's amended and restated prospectus supplement dated June 16, 2026 to its short form base shelf prospectus dat",
+      "url": "https://www.hivedigitaltechnologies.com/news/hives-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-bell-ai-fabric-for-cohere-inc/",
+      "source": "HIVE Digital Technologies Ltd",
       "sourceType": "external",
-      "image": "https://cybersecuritynews.com/wp-content/uploads/2026/06/CISA-Warns-of-Oracle-PeopleSoft-0-Day-Vulnerability-Exploited-in-Ransomware-Attacks-.webp",
-      "publishedAt": "2026-06-17T12:11:22.000Z",
-      "topic": "Security",
+      "image": "https://www.hivedigitaltechnologies.com/static/hivesite/images/banner.webp",
+      "publishedAt": "2026-06-18T11:27:33.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "education",
-        "higher education",
-        "internet security"
-      ],
-      "priority": 45
-    },
-    {
-      "id": "f896ece4-b2d9-4208-a151-e87f31fa30ee",
-      "slug": "cybercriminals-breach-fortinet-devices-to-attack-major-companies-f36810",
-      "title": "Cybercriminals Breach Fortinet Devices to Attack Major Companies",
-      "dek": "Fortinet firewalls and VPN systems used by tens of thousands of large companies and government organizations worldwide have fallen victim to a cyberattack.",
-      "url": "https://zamin.uz/en/technology/207705-cybercriminals-breach-fortinet-devices-to-attack-major-companies.html",
-      "source": "Zamin.uz",
-      "sourceType": "external",
-      "image": "https://zamin.uz/uploads/posts/2026-06/zamin_kiberjinoyatchilar-fortinet-qurilmalarini-buzib-kirib-yirik-_20260617_233016_5c9a7916.webp",
-      "publishedAt": "2026-06-17T18:22:08.000Z",
-      "topic": "Security",
-      "tags": [
-        "internet security"
+        "digital currencies"
       ],
       "priority": 44
     },
     {
-      "id": "29b57d60-afa2-495c-ae4a-21039e361026",
-      "slug": "fortibleed-75-000-fortinet-firewalls-compromised-global-enterprises-exposed-claim-your-e-1e383c",
-      "title": "FortiBleed: 75,000 Fortinet Firewalls Compromised: Global Enterprises Exposed – Claim Your Ethical Disclosure",
-      "dek": "Fortinet firewalls and VPN gateways serve as the primary defensive perimeter for countless organizations worldwide. However, a massive new cyber espionage campaign has silently compromised these highly trusted devices on an unprecedented global scale.",
-      "url": "https://www.infostealers.com/article/fortibleed-75000-fortinet-firewalls-compromised-global-enterprises-exposed-claim-your-ethical-disclosure/",
-      "source": "InfoStealers",
+      "id": "14c43b82b891070b",
+      "slug": "generative-ai-in-healthcare-market-trends-in-clinical-documentation-automation-68f343",
+      "title": "Generative AI in Healthcare Market Trends in Clinical Documentation Automation",
+      "dek": "The global Generative AI In Healthcare Market size was valued at USD 2.9 billion in 2025 and is projected to grow from USD 3.8 billion in 2026 [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/06/18/1758971",
+      "source": "Express-press-release",
       "sourceType": "external",
-      "image": "https://www.infostealers.com/wp-content/uploads/2026/06/header.png",
-      "publishedAt": "2026-06-17T10:34:21.000Z",
+      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
+      "publishedAt": "2026-06-18T10:07:53.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "business",
-        "internet security"
-      ],
-      "priority": 44
-    },
-    {
-      "id": "1a2403302eed0b5d",
-      "slug": "adt-introduces-adt-blu-home-security-system-21ba15",
-      "title": "ADT Introduces ADT Blu Home Security System",
-      "dek": "ADT Inc. (NYSE:ADT) is one of the 10 Best Stocks to Buy Under $10. On May 20, ADT Inc. (NYSE:ADT) announced the launch of a new self-installed home security system called ADT Blu. The system is designed to allow customers to set it up in minutes and manage it directly through the ADT+ app. The [...]",
-      "url": "https://www.insidermonkey.com/blog/adt-introduces-adt-blu-home-security-system-1783153/",
-      "source": "Insider Trading",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/Noa_xeOMB1clGiz_ODIrxKhdUK3KKk3iQUZYn-jLzoo/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/10/13185320/REZI-insidermonkey-1697237597512.jpg",
-      "publishedAt": "2026-06-17T09:59:53.000Z",
-      "topic": "Security",
-      "tags": [
-        "Security"
+        "AI"
       ],
       "priority": 43
     },
     {
-      "id": "a0be21be47d0104d",
-      "slug": "assessing-microsoft-s-performance-against-competitors-in-software-industry-ae4321",
-      "title": "Assessing Microsoft's Performance Against Competitors In Software Industry",
-      "dek": "In today's rapidly changing and fiercely competitive business landscape, it is essential for investors and industry enthusiasts to thoroughly analyze companies. In this article, we will conduct a comprehensive industry comparison, evaluating Microsoft (NASDAQ: MSFT ) against its key competitors in t",
-      "url": "https://www.benzinga.com/insights/news/26/06/53243391/assessing-microsofts-performance-against-competitors-in-software-industry",
-      "source": "Benzinga",
+      "id": "8bb3fd46ef092384",
+      "slug": "bell-canada-partners-with-cohere-hypertec-and-buzz-hpc-on-ai-f3da20",
+      "title": "Bell Canada partners with Cohere, Hypertec and BUZZ HPC on AI",
+      "dek": "Bell Canada partners with Cohere, Hypertec and BUZZ HPC on AI",
+      "url": "https://uk.investing.com/news/stock-market-news/bell-canada-partners-with-cohere-hypertec-and-buzz-hpc-on-ai-93CH-4734817",
+      "source": "Investing Uk",
       "sourceType": "external",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2025/11/06/earnings_preview_1.jpg",
-      "publishedAt": "2026-06-17T09:59:07.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "\"category: news\"",
-        "\"cms: drupal\"",
-        "\"category: markets\"",
-        "\"pageisbzpro: bz\"",
-        "\"symbol: msft\"",
-        "\"category: trading ideas\""
-      ],
-      "priority": 43
-    },
-    {
-      "id": "7197f6d0-1ec9-4a19-a727-a7b21e98cb89",
-      "slug": "meet-the-beaten-down-ai-cloud-stock-that-just-sold-off-but-has-120-upside-according-to-w-e05280",
-      "title": "Meet the Beaten-Down AI Cloud Stock That Just Sold Off but Has 120% Upside, According to Wall Street",
-      "dek": "Many artificial intelligence stocks have soared recently, but not all of them. Case in point: database leader and AI cloud provider Oracle ( ORCL +0.05% ) , which sold off hard following its recent earnings report. Despite the turmoil in the stock, at least one Wall Street analyst thinks the concern",
-      "url": "https://www.fool.com/investing/2026/06/17/the-beaten-down-ai-cloud-stock-120-percent-upside/",
-      "source": "The Motley Fool",
-      "sourceType": "external",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F874788%2Fgettyimages-1809660148-2.jpg&w=3840&op=resize",
-      "publishedAt": "2026-06-17T09:45:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "business"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "8b7ac3fd9b244115",
-      "slug": "oracle-introduces-ai-powered-assistant-for-hotels-through-opera-cloud-platform-a5f0fb",
-      "title": "Oracle Introduces AI-Powered Assistant for Hotels Through OPERA Cloud Platform",
-      "dek": "The new OPERA Cloud Assistant allows hotel employees to ask operational questions in natural language and receive instant guidance without consulting manuals or supervisors.",
-      "url": "https://analyticsindiamag.com/ai-news/oracle-introduces-ai-powered-assistant-for-hotels-through-opera-cloud-platform",
-      "source": "Analytics India Magazine",
-      "sourceType": "external",
-      "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1769112905394-7127b30f-4131-4cfc-805b-a6ac4d776e48-ful7pm.webp",
-      "publishedAt": "2026-06-17T09:39:01.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB3R08Z_L.jpg",
+      "publishedAt": "2026-06-18T10:06:10.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
         "AI"
       ],
       "priority": 43
     },
     {
-      "id": "ee6a79ef074d1a3e",
-      "slug": "oracle-s-second-monthly-security-updates-deliver-245-patches-2b7643",
-      "title": "Oracle’s Second Monthly Security Updates Deliver 245 Patches",
-      "dek": "Oracle has released its June 2026 Critical Security Patch Update to fix vulnerabilities in Communications, EBS, Enterprise Manager and other products. The post Oracle’s Second Monthly Security Updates Deliver 245 Patches appeared first on SecurityWeek. This article has been indexed... Read more → Th",
-      "url": "https://www.itsecuritynews.info/oracles-second-monthly-security-updates-deliver-245-patches/",
-      "source": "It Security News",
+      "id": "494cebe509e5bb5b",
+      "slug": "bell-ai-fabric-cohere-hypertec-and-buzz-hpc-announce-landmark-deal-to-advance-sovereign--492b78",
+      "title": "Bell AI Fabric, Cohere, Hypertec and BUZZ HPC announce landmark deal to advance sovereign AI in Canada",
+      "dek": "/CNW/ - Bell Canada (TSX: BCE) (NYSE: BCE), Cohere, Hypertec and BUZZ High Performance Computing (HPC), a subsidiary of Hive Digital Technologies (TSX: HIVE)...",
+      "url": "https://www.newswire.ca/news-releases/bell-ai-fabric-cohere-hypertec-and-buzz-hpc-announce-landmark-deal-to-advance-sovereign-ai-in-canada-804262049.html",
+      "source": "Newswire",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-06-17T09:31:55.000Z",
-      "topic": "Security",
+      "image": "https://mmx.prnewswire.com/media/MS1867187/Bell_Canada_-MTL--Bell_AI_Fabric-_Cohere-_Hypertec_and_BUZZ_HPC.jpg?id=OA2723395",
+      "publishedAt": "2026-06-18T10:00:00.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "securityweek",
-        "en"
+        "computer software",
+        "telecommunications industry",
+        "entertainment",
+        "advertising",
+        "television",
+        "artificial intelligence"
       ],
       "priority": 43
     },
     {
-      "id": "f0ddea477c167ca7",
-      "slug": "blockchain-stocks-to-consider-june-16th-1aaacc",
-      "title": "Blockchain Stocks To Consider – June 16th",
-      "dek": "Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Digi Power X, Globant, RTB Digital, Inc. Common Stock, and Core Scientific are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companie",
-      "url": "https://www.americanbankingnews.com/2026/06/17/blockchain-stocks-to-consider-june-16th.html",
-      "source": "Americanbankingnews",
+      "id": "6a23dfd4e3dd241d",
+      "slug": "wv-trailing-other-states-in-moves-to-protect-ratepayers-from-data-center-impacts-848e7b",
+      "title": "WV trailing other states in moves to protect ratepayers from data center impacts",
+      "dek": "West Virginia lawmakers had many questions about how or whether they could keep regional data center growth from sending electric bills soaring. Members of the Joint Standing Judiciary Committee complained throughout their interim legislative session meeting at Canaan Valley Resort State Park on Jun",
+      "url": "https://www.wvgazettemail.com/news/energy_and_environment/wv-trailing-other-states-in-moves-to-protect-ratepayers-from-data-center-impacts/article_15861541-4d6b-4945-b961-76cea50a8f45.html",
+      "source": "Charleston Gazette-mail",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
-      "publishedAt": "2026-06-17T09:25:03.000Z",
-      "topic": "Business & Earnings",
-      "tags": [],
-      "priority": 42
-    },
-    {
-      "id": "101ac8474b138002",
-      "slug": "microsoft-said-to-have-dropped-3b-oracle-deal-over-compliance-gap-f7b13a",
-      "title": "Microsoft said to have dropped $3B Oracle deal over compliance gap",
-      "dek": "Microsoft was in advanced talks to lease cloud capacity from Oracle worth over $3 billion, but the deal is said to have collapsed over a security compliance issue. Oracle’s public cloud lacks FedRAMP certification, a requirement for handling U.S. government data. Oracle was unwilling to add the fram",
-      "url": "https://www.techzine.eu/news/infrastructure/142225/microsoft-said-to-have-dropped-3b-oracle-deal-over-compliance-gap/",
-      "source": "Techzine Europe",
-      "sourceType": "external",
-      "image": "https://www.techzine.eu/wp-content/uploads/2025/05/microsoftLogo.jpg",
-      "publishedAt": "2026-06-17T09:07:58.000Z",
-      "topic": "Security",
-      "tags": [
-        "cloud compliance",
-        "fedramp",
-        "ai capacity",
-        "github",
-        "microsoft",
-        "oci"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "b10a00cf2e89b3c7",
-      "slug": "microsoft-exits-3bn-oracle-cloud-deal-what-went-wrong-in-negotiations-ad0c49",
-      "title": "Microsoft Exits $3Bn Oracle Cloud Deal - What Went Wrong In Negotiations?",
-      "dek": "Microsoft has reportedly pulled out of a $3 billion Oracle cloud deal over FedRAMP concerns, while Oracle denies claims and confirms continued collaboration.",
-      "url": "https://www.outlookbusiness.com/corporate/microsoft-exits-3bn-oracle-cloud-deal-what-went-wrong-in-negotiations",
-      "source": "Outlook Business",
-      "sourceType": "external",
-      "image": "https://media.assettype.com/outlookbusiness/2025-07-20/db9oh2yy/shutterstock_2376224143.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-      "publishedAt": "2026-06-17T09:04:31.000Z",
+      "image": "https://bloximages.newyork1.vip.townnews.com/wvgazettemail.com/content/tncms/assets/v3/editorial/1/58/15861541-4d6b-4945-b961-76cea50a8f45/6a331bb320d91.preview.jpg?crop=916%2C481%2C316%2C189",
+      "publishedAt": "2026-06-18T09:45:00.000Z",
       "topic": "Oracle Cloud",
       "tags": [
-        "Oracle Cloud"
+        "psc",
+        "wv house of delegates",
+        "apco",
+        "mitchell plant",
+        "aep",
+        "kayla young"
       ],
-      "priority": 42
+      "priority": 43
     },
     {
-      "id": "a6cbcd192e09583d",
-      "slug": "oracle-denies-report-that-security-concerns-killed-potential-3-billion-microsoft-cloud-d-36f496",
-      "title": "Oracle Denies Report That Security Concerns Killed Potential $3 Billion Microsoft Cloud Deal",
-      "dek": "Negotiations between Microsoft Corp. (NASDAQ: MSFT ) and Oracle Corp. (NYSE: ORCL ) regarding the leasing of Oracle’s cloud infrastructure reportedly came to a halt due to security and compliance issues. The objective was to transfer some of Microsoft’s workloads to Oracle’s Cloud Infrastructure. Ho",
-      "url": "https://www.benzinga.com/markets/tech/26/06/53242835/oracle-denies-report-that-security-concerns-killed-potential-3-billion-microsoft-cloud-deal",
-      "source": "Benzinga",
+      "id": "363cb1bb5c70f94d",
+      "slug": "oracle-orcl-and-microsoft-cloud-deal-reportedly-fell-apart-over-security-rules-67822c",
+      "title": "Oracle (ORCL) And Microsoft Cloud Deal Reportedly Fell Apart Over Security Rules",
+      "dek": "Talks for a potential $3b+ cloud infrastructure leasing partnership between Oracle and Microsoft reportedly fell apart over security certification requirements for U.S. government workloads. Reports indicated that Oracle did not agree to add FedRAMP security certification, which is commonly required",
+      "url": "https://ca.finance.yahoo.com/news/oracle-orcl-microsoft-cloud-deal-091213009.html",
+      "source": "Yahoo! News",
       "sourceType": "external",
-      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/06/17/Konskie--Poland---March-11--2024-Oracle-.jpeg",
-      "publishedAt": "2026-06-17T08:57:26.000Z",
+      "image": "https://s.yimg.com/ny/api/res/1.2/1McuMYGoOtsPPiQTgSOskw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNTMy/https://media.zenfs.com/en/simply_wall_st__316/267974a0f00efff1448e2bddc2c7c7e7",
+      "publishedAt": "2026-06-18T09:12:13.000Z",
       "topic": "Security",
       "tags": [
-        "\"category: large cap\"",
-        "\"symbol: goog\"",
-        "\"category: government\"",
-        "\"symbol: msft\"",
-        "\"tag: data center\"",
-        "\"symbol: googl\""
+        "oracle cloud",
+        "google cloud",
+        "cloud infrastructure",
+        "oracle fusion",
+        "compliance requirements",
+        "amazon web services"
       ],
       "priority": 42
     },
     {
-      "id": "389b6564-d673-43ea-bc28-52eff252b576",
-      "slug": "wechat-pay-beta-tests-ai-payments-spacex-acquires-ai-coding-tool-cursor-in-an-all-stock--abb974",
-      "title": "WeChat Pay beta-tests AI payments; SpaceX acquires AI coding tool Cursor in an all-stock deal | Daily News Recap",
-      "dek": "0617 | Dolphin Research Dolphin Research Focus: 🐬 Macro / Industry 1. Shenzhen's market regulator held a joint talk with Meituan, Taobao Flash, and JD over 'ghost store' abuses exposed by a citywide food-delivery sweep, including fake storefronts and licensing mismatches. Platforms were told to con",
-      "url": "https://longbridge.com/topics/41946527",
-      "source": "Longbridge",
+      "id": "b54d053d1bee7d50",
+      "slug": "fortinet-breach-grants-access-to-thousands-of-corporate-networks-3dee6e",
+      "title": "Fortinet breach grants access to thousands of corporate networks",
+      "dek": "One of the largest exposed collections of corporate login credentials in recent years is putting thousands of organizations under pressure. Researchers discovered that attackers gained access to tens of thousands of Fortinet systems and built up a massive database of valid login credentials in the p",
+      "url": "https://www.techzine.eu/news/security/142259/fortinet-breach-grants-access-to-thousands-of-corporate-networks/",
+      "source": "Techzine Europe",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-06-17T08:32:32.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "space"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "eb6f7b87-0dcb-4539-b90e-8a886402064b",
-      "slug": "cisa-issues-alert-on-oracle-peoplesoft-vulnerability-exploited-by-ransomware-groups-28a001",
-      "title": "CISA Issues Alert on Oracle PeopleSoft Vulnerability Exploited by Ransomware Groups",
-      "dek": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has issued an urgent alert regarding the active exploitation of a critical vulnerability in Oracle PeopleSoft Enterprise PeopleTools, identified as CVE-2026-35273.",
-      "url": "https://gbhackers.com/cisa-issues-alert-on-oracle-peoplesoft-vulnerability/",
-      "source": "gbhackers.com",
-      "sourceType": "external",
-      "image": "https://gbhackers.com/wp-content/uploads/2026/06/CISA-Issues-Alert-on-Oracle-PeopleSoft-Vulnerability-Exploited-by-Ransomware-Groups-2.webp",
-      "publishedAt": "2026-06-17T07:15:16.000Z",
+      "image": "https://www.techzine.eu/wp-content/uploads/2025/08/Fortinet-bug-1.png",
+      "publishedAt": "2026-06-18T07:32:05.000Z",
       "topic": "Security",
       "tags": [
-        "education",
-        "higher education",
-        "internet security"
+        "fortinet",
+        "data breach",
+        "firewall",
+        "security"
       ],
       "priority": 41
     },
     {
-      "id": "f6d567c94407e84d",
-      "slug": "the-companies-rewiring-the-future-of-ai-b55082",
-      "title": "The Companies Rewiring the Future of AI",
-      "dek": "Training a frontier AI model means convincing hundreds of thousands of chips to act like one giant computer. The hard part isn't the chips — it's the wiring.",
-      "url": "https://hackernoon.com/the-companies-rewiring-the-future-of-ai",
-      "source": "Hackernoon",
+      "id": "e02c6fb4c7bd6cdd",
+      "slug": "hive-digital-technologies-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-c90373",
+      "title": "HIVE Digital Technologies' BUZZ HPC Closes USD $220 Million Sovereign AI GPU Contract with Bell AI Fabric for Cohere",
+      "dek": "Vancouver, British Columbia--(Newsfile Corp. - June 18, 2026) - HIVE Digital Technologies Ltd. (TSX: HIVE) (NASDAQ: HIVE) (FSE: YO0) (BVC: HIVECO) ...",
+      "url": "https://greenstocknews.com/news/nasdaq/hive/hive-s-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-bell-ai-fabric-for-cohere-inc",
+      "source": "Green Stock News",
       "sourceType": "external",
-      "image": "https://hackernoon.imgix.net/images/bI3BzyBanbVxEZqmLV7jRnw6d9o2-az83ax0.png",
-      "publishedAt": "2026-06-17T06:59:35.000Z",
-      "topic": "Training & Certification",
+      "image": "https://greenstocknews.com/images/ogimage.jpg",
+      "publishedAt": "2026-06-18T07:03:01.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
         "AI"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "54651d2ce830fb65",
-      "slug": "microsoft-walked-away-from-3-billion-deal-with-oracle-here-s-what-happened-as-per-oracle-d99b67",
-      "title": "Microsoft walked away from $3 billion deal with Oracle: Here’s what happened as per Oracle",
-      "dek": "Microsoft has reportedly walked away from a potential cloud infrastructure leasing deal with Oracle that could have been worth more than $3 billion, according to a report by Business Insider. The report claimed that the talks between the two tech giants collapsed over security and compliance concern",
-      "url": "https://telecomlive.in/web/2026/06/17/microsoft-walked-away-from-3-billion-deal-with-oracle-heres-what-happened-as-per-oracle/",
-      "source": "Telecomliveweb",
-      "sourceType": "external",
-      "image": "https://telecomlive.in/wp-content/uploads/default.jpg",
-      "publishedAt": "2026-06-17T06:32:28.000Z",
-      "topic": "Security",
-      "tags": [
-        "OCI",
-        "Security",
-        "Certification",
-        "Partner"
       ],
       "priority": 40
     },
     {
-      "id": "c9705aca-22a4-45d8-b087-28f5db7717ff",
-      "slug": "fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices-99bbe3",
-      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
-      "dek": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide.",
-      "url": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
-      "source": "BleepingComputer",
+      "id": "adc16a4b0a28e92c",
+      "slug": "hive-s-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-bell-ai-fabric-for-b0dd9a",
+      "title": "HIVE's BUZZ HPC Closes USD $220 Million Sovereign AI GPU Contract with Bell AI Fabric for Cohere Inc.",
+      "dek": "Vancouver, British Columbia--(Newsfile Corp. - June 18, 2026) - HIVE Digital Technologies Ltd. (TSX: HIVE) (NASDAQ: HIVE) (FSE: YO0) (BVC: HIVECO) (the \"Company\" or \"HIVE\"), through its wholly owned subsidiary BUZZ High Performance Computing Inc. (\"BUZZ HPC\"), today announced a landmark sovereign AI",
+      "url": "https://www.newsfilecorp.com/release/302011/HIVEs-BUZZ-HPC-Closes-USD-220-Million-Sovereign-AI-GPU-Contract-with-Bell-AI-Fabric-for-Cohere-Inc.",
+      "source": "Newsfilecorp",
       "sourceType": "external",
-      "image": "https://www.bleepstatic.com/content/hl-images/2023/03/13/Fortinet.jpg",
-      "publishedAt": "2026-06-17T15:12:57.000Z",
+      "image": "",
+      "publishedAt": "2026-06-18T07:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "internet security"
+        "sovereign",
+        "million",
+        "contract",
+        "buzz",
+        "hpc",
+        "bell"
       ],
-      "priority": 37
+      "priority": 40
     },
     {
-      "id": "f0690d330415c037",
-      "slug": "databricks-annualized-revenue-rises-over-80-to-6-9b-301070",
-      "title": "Databricks annualized revenue rises over 80% to $6.9b",
-      "dek": "Databricks' AI product revenue rose to $1.7 billion as it integrates frontier and open-source models.",
-      "url": "https://www.techinasia.com/databricks-reports-5-4b-revenue-run-rate",
-      "source": "Tech In Asia",
+      "id": "375f0e4b64f7726e",
+      "slug": "hive-digital-technologies-bell-ai-fabric-cohere-hypertec-and-buzz-hpc-announce-landmark--552af5",
+      "title": "Hive Digital Technologies: Bell AI Fabric, Cohere, Hypertec and BUZZ HPC announce landmark deal to advance sovereign AI in Canada",
+      "dek": "This news release contains forward-looking statements. For a description of the related risk factors and assumptions, please see the section entitl...",
+      "url": "https://greenstocknews.com/news/nasdaq/hive/bell-ai-fabric-cohere-hypertec-and-buzz-hpc-announce-landmark-deal-to-advance-sovereign-ai-in-canada",
+      "source": "Green Stock News",
       "sourceType": "external",
-      "image": "https://cdn.techinasia.com/wp-content/uploads/2026/06/1781652716_1749700580_shutterstock_2408484007-scaled-1.jpg",
-      "publishedAt": "2026-06-17T01:10:17.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "AI"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "44019ef8d344d59e",
-      "slug": "msft-falls-2-on-tuesday-microsoft-reportedly-walks-away-from-3b-oracle-cloud-deal-af8f54",
-      "title": "MSFT Falls 2% On Tuesday — Microsoft Reportedly Walks Away From $3B Oracle Cloud Deal",
-      "dek": "Microsoft has reportedly abandoned talks with Oracle to lease $3 billion in AI computing power after a stalemate over federal security regulations.",
-      "url": "https://newsable.asianetnews.com/markets/msft-falls-2-on-tuesday-microsoft-reportedly-walks-away-from-3b-oracle-cloud-deal-articleshow-3psy4p4",
-      "source": "Asianet Newsable",
-      "sourceType": "external",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-e726c52d-1861-4d07-9db5-4c68838bfa95.webp",
-      "publishedAt": "2026-06-17T00:40:00.000Z",
+      "image": "https://greenstocknews.com/images/ogimage.jpg",
+      "publishedAt": "2026-06-18T06:02:01.000Z",
       "topic": "Security",
       "tags": [
-        "us",
-        "equities",
-        "trending"
+        "AI"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "6095546093e68579",
+      "slug": "global-cyberattack-compromises-thousands-of-fortinet-devices-356afe",
+      "title": "Global Cyberattack Compromises Thousands of Fortinet Devices",
+      "dek": "Copyright protected content copied from PhoneWorld website. A large-scale cyberattack has recently affected tens of thousands of Fortinet firewalls and virtual private network VPN) devices used by companies around the world. Cybersecurity researchers have discovered that hackers are gaining access t",
+      "url": "https://www.phoneworld.com.pk/global-cyberattack-compromises-thousands-of-fortinet-devices/",
+      "source": "Phoneworld Pk",
+      "sourceType": "external",
+      "image": "https://www.phoneworld.com.pk/wp-content/uploads/2026/06/cyberattack-fortnite-devices.jpg",
+      "publishedAt": "2026-06-18T05:57:23.000Z",
+      "topic": "Security",
+      "tags": [],
+      "priority": 40
+    },
+    {
+      "id": "92dd431170f7f011",
+      "slug": "tcs-opens-oracle-ai-lab-in-kolkata-for-enterprise-use-a67079",
+      "title": "TCS opens Oracle AI lab in Kolkata for enterprise use",
+      "dek": "The Kolkata centre is meant to help corporate clients turn fragmented data into scaled AI deployments, as demand for practical automation grows.",
+      "url": "https://itbrief.in/story/tcs-opens-oracle-ai-lab-in-kolkata-for-enterprise-use",
+      "source": "It Brief India",
+      "sourceType": "external",
+      "image": "https://itbrief.in/uploads/story/2026/06/18/compatible_2124.jpg",
+      "publishedAt": "2026-06-18T03:00:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "AI"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "8a355beea223701a",
+      "slug": "re-fccpc-and-the-presidency-s-fdi-drive-8c9acc",
+      "title": "Re: FCCPC and the Presidency’s FDI drive",
+      "dek": "An analysis refutes claims that the FCCPC hinders Nigeria’s FDI drive, arguing robust regulation is crucial for attracting legitimate foreign investment. Read More: https://punchng.com/re-fccpc-and-the-presidencys-fdi-drive/",
+      "url": "https://punchng.com/re-fccpc-and-the-presidencys-fdi-drive/",
+      "source": "Punch",
+      "sourceType": "external",
+      "image": "https://punchng.com/wp-content/uploads/2026/06/FCCPC-1.webp",
+      "publishedAt": "2026-06-18T02:03:16.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "competition law",
+        "fdi",
+        "nigeria economy",
+        "tinubu administration",
+        "fccpc",
+        "market regulation"
       ],
       "priority": 37
     },
     {
-      "id": "27b55081b1bd099b",
-      "slug": "data-driven-ehrs-and-ai-for-an-interoperable-digital-health-ecosystem-7dec73",
-      "title": "Data-Driven EHRs and AI for an Interoperable Digital Health Ecosystem",
-      "dek": "An interview with Romel Khalife, Country Manager – UAE and Kuwait, Oracle Health & Life Sciences, conducted by Peter Birch during WHX Dubai 2026, about the evolution and future of Electronic Health Records (EHRs). The podcast highlights how EHRs had transformed from being mere compliance tools into ",
-      "url": "https://67e59a61-3030-46b6-994e-347256b36686.libsyn.com/data-driven-ehrs-and-ai-for-an-interoperable-digital-health-ecosystem",
-      "source": "Perspectives on Health and Tech",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/67e59a61-3030-46b6-994e-347256b36686/Perspectives_on_Health_and_Tech-LiveWHX_master.mp3?dest-id=3794292",
-      "publishedAt": "2026-06-15T13:00:00.000Z",
-      "topic": "Applications & NetSuite",
+      "id": "56af79cf8a895bf6",
+      "slug": "oracle-nyse-orcl-stock-price-up-4-3-still-a-buy-748d0d",
+      "title": "Oracle (NYSE:ORCL) Stock Price Up 4.3% – Still a Buy?",
+      "dek": "Oracle Corporation (NYSE:ORCL – Get Free Report) rose 4.3% during trading on Monday . The stock traded as high as $195.32 and last traded at $192.11. Approximately 19,849,031 shares were traded during trading, a decline of 28% from the average daily volume of 27,423,316 shares. The stock had previou",
+      "url": "https://www.dailypolitical.com/2026/06/17/oracle-nyseorcl-stock-price-up-4-3-still-a-buy.html",
+      "source": "Daily Political",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-06-18T01:18:53.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "Oracle Health",
+        "stocks",
+        "68389x10",
+        "technicals",
+        "nyse:orcl",
+        "orcl",
+        "oracle"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "35657990bb3dce0a",
+      "slug": "analysts-boosts-oracle-orcl-price-target-following-q4-results-8dcac9",
+      "title": "Analysts Boosts Oracle (ORCL) Price Target Following Q4 Results",
+      "dek": "With a net profit margin of 25.30%, Oracle Corporation (NYSE:ORCL) is included among the 12 Most Profitable American Stocks to Buy in 2026. Oracle Corporation (NYSE:ORCL) is a global leader in AI, delivering the cloud infrastructure, data, and applications that organizations across the world trust t",
+      "url": "https://www.insidermonkey.com/blog/analysts-boosts-oracle-orcl-price-target-following-q4-results-1784063/",
+      "source": "Insider Trading",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/6J0Jr7YekoOoKDqV7jUYlOD3mMDAzjIrt_ISqFl64Ek/resize:fit:1920:1297:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2022/03/24065452/money-2724241_1920.jpg",
+      "publishedAt": "2026-06-18T01:15:52.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "ORCL",
         "AI"
       ],
       "priority": 37
     },
     {
-      "id": "4d52e22bd049f273",
-      "slug": "oracle-says-details-in-report-of-failed-microsoft-cloud-deal-talks-inaccurate-eb5093",
-      "title": "Oracle says details in report of failed Microsoft cloud deal talks 'inaccurate'",
-      "dek": "June 16 (Reuters) - Oracle said ⁠on Tuesday that details in a Business Insider ⁠report on the collapse of its discussions with ‌Microsoft over a potential leasing deal were inaccurate.",
-      "url": "https://www.thestar.com.my/tech/tech-news/2026/06/17/microsoft039s-cloud-infrastructure-talks-with-oracle-collapse-business-insider-reports",
-      "source": "The Star",
+      "id": "0daf6ca0028fc140",
+      "slug": "loans-lend-tonik-a-hand-cc0359",
+      "title": "Loans lend Tonik a hand",
+      "dek": "Tonik is lending more, but inflation keeps applying the brakes. Meanwhile, AI startup Plaud is betting users will pay up rather than trade down.",
+      "url": "https://www.techinasia.com/loans-lend-tonik-hand",
+      "source": "Tech In Asia",
       "sourceType": "external",
-      "image": "https://apicms.thestar.com.my/uploads/images/2026/06/17/3962513.jpg",
-      "publishedAt": "2026-06-17T00:06:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "d06d442fd1559e9f",
-      "slug": "multiple-it-data-roles-now-hiring-in-tempe-az-80k-200k-ae8ee7",
-      "title": "💻 Multiple IT & Data Roles Now Hiring in Tempe, AZ ($80K–$200K+)",
-      "dek": "Tempe’s tech scene is buzzing this month — from AI and data science to cloud engineering and IT support, there are great openings for every level of experi",
-      "url": "https://www.newsbreak.com/tempe-az-daily-brief-373176681/4715228851157-multiple-it-data-roles-now-hiring-in-tempe-az-80k-200k",
-      "source": "Newsbreak",
-      "sourceType": "external",
-      "image": "https://img.particlenews.com/img/id/0uqf9w_1CQALDoK00",
-      "publishedAt": "2026-06-17T00:00:00.000Z",
+      "image": "https://cdn.techinasia.com/wp-content/uploads/2024/08/1723539883_The-Top-Up-GIF-Sea-earnings-charts-Q2-2024-1200x640-1.gif",
+      "publishedAt": "2026-06-18T00:30:47.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "newsbreak",
-        "tempe az daily brief",
-        "az ($80k–$200k+)",
-        "local news",
-        "💻 multiple it & data roles now hiring in tempe",
-        "breaking news"
+        "AI"
       ],
       "priority": 36
     },
     {
-      "id": "1a380ef7c98d6322",
-      "slug": "artificial-intelligence-ai-engineering-market-top-companies-competitive-analysis-and-inv-380135",
-      "title": "Artificial Intelligence (AI) Engineering Market Top Companies, Competitive Analysis, and Investment Outlook",
-      "dek": "The Business Research Company's Artificial Intelligence (AI) Engineering Market Report 2026 – Market Size, Trends, And Global Forecast 2026-2035",
-      "url": "https://www.einpresswire.com/article/920136041/artificial-intelligence-ai-engineering-market-top-companies-competitive-analysis-and-investment-outlook",
-      "source": "Ein Presswire",
+      "id": "0d3aa7743dc58437",
+      "slug": "the-invisible-energy-crisis-threatening-to-derail-the-ai-boom-e7ba57",
+      "title": "The Invisible Energy Crisis Threatening to Derail the AI Boom",
+      "dek": "Every AI boom forecast being published right now — every bull case, Big Tech earnings call, and valuation model — seems to be making the same assumption. The electricity will be there to power it when they need it. It won’t. Bitzero (NASDAQ: AIBZ) spent the last four years betting against that assum",
+      "url": "https://oilprice.com/Energy/Energy-General/The-Invisible-Energy-Crisis-Threatening-to-Derail-the-AI-Boom.html",
+      "source": "Oil Price",
       "sourceType": "external",
-      "image": "https://img.einnews.com/ampsize/1133418/artificial-intelligence-ai-en.png",
-      "publishedAt": "2026-06-17T00:00:00.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x900/2026-06-17_b2ejvu8dhk.jpg",
+      "publishedAt": "2026-06-18T00:00:00.000Z",
+      "topic": "Security",
       "tags": [
-        "international organizations",
-        "world",
-        "united kingdom",
-        "it industry",
-        "united states",
-        "technology"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "e2c911abf23fc2ca",
-      "slug": "crm-market-growth-accelerates-as-enterprises-prioritize-customer-engagement-cloud-adopti-e315f3",
-      "title": "CRM Market Growth Accelerates as Enterprises Prioritize Customer Engagement, Cloud Adoption, and Digital Transformation",
-      "dek": "The Customer Relationship Management (CRM) Market is expanding rapidly as organizations adopt cloud, AI, and analytics tools to improve customer engagement.",
-      "url": "https://www.einpresswire.com/article/920136368/crm-market-growth-accelerates-as-enterprises-prioritize-customer-engagement-cloud-adoption-and-digital-transformation",
-      "source": "Ein Presswire",
-      "sourceType": "external",
-      "image": "https://img.einnews.com/ampsize/1133420/customer-relationship-managemen.png",
-      "publishedAt": "2026-06-17T00:00:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "worldnews",
-        "technology",
-        "it industry",
-        "japan",
-        "united states"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "6f3de24a1ecbde09",
-      "slug": "ascm-announces-keynote-panels-for-chainge-2026-focused-on-turning-complexity-into-capabi-e67898",
-      "title": "ASCM Announces Keynote Panels for CHAINge 2026, Focused on Turning Complexity into Capability",
-      "dek": "At ASCM CHAINge 2026, global leaders tackle trade, AI and operational disruption with real-world strategies for more agile, resilient supply chains.",
-      "url": "https://www.einpresswire.com/article/920251706/ascm-announces-keynote-panels-for-chainge-2026-focused-on-turning-complexity-into-capability",
-      "source": "Ein Presswire",
-      "sourceType": "external",
-      "image": "https://img.einnews.com/ampsize/1098509/chainge-by-ascm.png",
-      "publishedAt": "2026-06-17T00:00:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "united states",
-        "worldnews",
-        "food and beverage industry",
-        "business and economy",
-        "shipping",
-        "illinois"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "84dabb31fd953b22",
-      "slug": "zero-variance-proving-cobol-to-java-semantic-equivalence-with-a-live-mainframe-emulator--8e90a2",
-      "title": "Zero Variance: Proving COBOL-to-Java Semantic Equivalence with a Live Mainframe Emulator on AWS",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/technology/zero-variance-proving-cobol-to-java-semantic-equivalence-with-a-live-mainframe-emulator-on-aws-1A2FF7FD-C40E-4E94-84AF-605FACEFA082",
-      "source": "Bundle",
-      "sourceType": "external",
-      "image": "https://static.bundle.app/news/f0e074af-91f2-5e32-a9d8-998edbc5d40a.jpg",
-      "publishedAt": "2026-06-16T23:03:18.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "Java"
+        "power crisis",
+        "bitcoin mining",
+        "ai",
+        "nuclear power",
+        "norway",
+        "grid capacity"
       ],
       "priority": 36
     },
@@ -2003,6 +1725,282 @@
         "Oracle Database",
         "MySQL"
       ],
+      "priority": 36
+    },
+    {
+      "id": "5f283d40ee2c8d74",
+      "slug": "oracle-ai-vector-search-part-2-9e86aa",
+      "title": "Oracle AI Vector Search: Part 2",
+      "dek": "This week, Lois Houston and Nikita Abraham continue their exploration of Oracle AI Vector Search with a deep dive into vector indexes and memory considerations. Senior Principal APEX and Apps Dev Instructor Brent Dayley breaks down what vector indexes are, how they enhance the efficiency of search q",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-ai-vector-search-part-2",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP14.mp3?dest-id=3870039",
+      "publishedAt": "2024-10-29T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "e3d5c537e6827700",
+      "slug": "oracle-ai-vector-search-part-1-412821",
+      "title": "Oracle AI Vector Search: Part 1",
+      "dek": "In this episode, Senior Principal APEX and Apps Dev Instructor Brent Dayley joins hosts Lois Houston and Nikita Abraham to discuss Oracle AI Vector Search. Brent provides an in-depth overview, shedding light on the brand-new vector data type, vector embeddings, and the vector workflow. Oracle Databa",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-ai-vector-search-part-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP13.mp3?dest-id=3870039",
+      "publishedAt": "2024-10-22T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "6ebfe903786774ca",
+      "slug": "automatic-transaction-quarantine-358e25",
+      "title": "Automatic Transaction Quarantine",
+      "dek": "In this episode, Lois Houston and Nikita Abraham explore the Automatic Transaction Quarantine feature with Senior Principal Database & MySQL Instructor, Bill Millar. Bill explains that this feature isolates transactions that could potentially cause system crashes, preventing them from impacting the ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/automatic-transaction-quarantine",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP12.mp3?dest-id=3870039",
+      "publishedAt": "2024-10-15T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "989efc7671c3b2e1",
+      "slug": "automatic-transaction-rollback-ec870d",
+      "title": "Automatic Transaction Rollback",
+      "dek": "Join Lois Houston and Nikita Abraham as they discuss the Automatic Transaction Rollback feature with Senior Principal Database & MySQL Instructor, Bill Millar. Bill explains that in the 23ai release, transactions blocking other transactions can now be automatically rolled back, depending on certain ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/automatic-transaction-rollback",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP11.mp3?dest-id=3870039",
+      "publishedAt": "2024-10-08T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "abbe9537156b2d45",
+      "slug": "the-importance-of-data-and-continuous-learning-111f6c",
+      "title": "The importance of data and continuous learning",
+      "dek": "In this episode host Orlaith Lawton speaks with Oracle Ace Director Finland Heli Helskyaho about the importance of data and continuous learning. --------------------------------------------------------- Episode Transcript: 00;00;09;03 - 00;00;37;15 Welcome to the Oracle Academy Tech Chat. This podca",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-importance-of-data-and-continuous-learning",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP03.mp3?dest-id=3949203",
+      "publishedAt": "2024-10-01T16:23:48.000Z",
+      "topic": "Training & Certification",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "0f1e6d2a0c5ba256",
+      "slug": "unrestricted-parallel-dmls-and-direct-loads-ac305f",
+      "title": "Unrestricted Parallel DMLs and Direct Loads",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham discuss new features in Oracle Database 23ai related to Data Manipulation Language (DML). They are joined by Senior Principal Database & MySQL Instructor, Bill Millar, who explains the concept of unrestricted parallel DMLs and their importance i",
+      "url": "https://oracleuniversitypodcast.libsyn.com/unrestricted-parallel-dmls-and-direct-loads",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP10.mp3?dest-id=3870039",
+      "publishedAt": "2024-10-01T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle Database",
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "e01703730db0d4b4",
+      "slug": "true-cache-6a960d",
+      "title": "True Cache",
+      "dek": "Hosts Lois Houston and Nikita Abraham are joined by Senior Principal Database & MySQL Instructor Bill Millar who explains Oracle's newest caching solution called True Cache. Available in Oracle Database 23ai, True Cache is an automatically managed, in-memory, read-only cache that improves applicatio",
+      "url": "https://oracleuniversitypodcast.libsyn.com/true-cache",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP9.mp3?dest-id=3870039",
+      "publishedAt": "2024-09-24T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle Database",
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "6764e4ce38b290ce",
+      "slug": "enhancements-in-sql-plan-management-securefiles-lob-write-performance-and-column-width-a309fc",
+      "title": "Enhancements in SQL Plan Management, SecureFiles LOB Write Performance, and Column Width",
+      "dek": "Join Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they discuss how the new Automatic SQL Plan Management feature in Oracle Database 23ai improves performance consistency and simplifies management. Then, Senior Principal Database & MySQL ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/enhancements-in-sql-plan-management-securefiles-lob-write-performance-and-column-width",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP8.mp3?dest-id=3870039",
+      "publishedAt": "2024-09-17T11:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Oracle Database",
+        "MySQL",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "7fc0f877b6c48593",
+      "slug": "hybrid-columnar-compression-fast-ingest-a4b392",
+      "title": "Hybrid Columnar Compression & Fast Ingest",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with Senior Principal Database & MySQL Instructor Bill Millar about the enhanced performance of Hybrid Columnar Compression, the different compression levels, and how to achieve the best compression for your tables. Then, they delve into F",
+      "url": "https://oracleuniversitypodcast.libsyn.com/hybrid-columnar-compression-fast-ingest",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP7.mp3?dest-id=3870039",
+      "publishedAt": "2024-09-10T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "028f55b53f871be3",
+      "slug": "the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfall-f2dc7e",
+      "title": "The ethics of AI in Academia. Benefits and promise of AI. What should you consider? Pitfalls to avoid?",
+      "dek": "In this episode host Oracle Academy manager Tyra Peirce speaks with Mary Olson Industry Executive Director, Education at Oracle. Tyra and Mary speak about the ethics of AI in education and give practical advice on how to best use the technology while avoiding common pitfalls. -----------------------",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfalls-to-avoid",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP01.mp3?dest-id=3949203",
+      "publishedAt": "2024-09-03T12:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "954fb77f408fd5ab",
+      "slug": "time-data-handling-data-storage-91f274",
+      "title": "Time & Data Handling & Data Storage",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham discuss improvements in time and data handling and data storage in Oracle Database 23ai. They are joined by Senior Principal Instructor Serge Moiseev, who explains the benefit of allowing databases to have their own time zones, separate from the",
+      "url": "https://oracleuniversitypodcast.libsyn.com/time-data-handling-data-storage",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-09-03T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle Database"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "a1c4f2cadb715947",
+      "slug": "database-sharding-part-2-5face7",
+      "title": "Database Sharding: Part 2",
+      "dek": "Join hosts Lois Houston and Nikita Abraham in Part 2 of the discussion on database sharding with Ron Soltani, a Senior Principal Database & Security Instructor. They talk about sharding native replication, directory-based sharding, and coordinated backup and restore for sharded databases, explaining",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-sharding-part-2",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-08-27T11:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "43aa5988985c66d9",
+      "slug": "database-sharding-part-1-e6309a",
+      "title": "Database Sharding: Part 1",
+      "dek": "In this two-part episode, hosts Lois Houston and Nikita Abraham are joined by Ron Soltani, a Senior Principal Database & Security Instructor, to discuss the ins and outs of database sharding. In Part 1, they delve into the fundamentals of database sharding, including what it is and how it works, spe",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-sharding-part-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-08-20T11:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "119c79ecef58b62d",
+      "slug": "database-security-part-2-ef77d6",
+      "title": "Database Security: Part 2",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham continue their exploration of Oracle Database 23ai's database security capabilities. They are joined once again by Ron Soltani, a Senior Principal Database & Security Instructor, who delves into the intricacies of the new hybrid read-only mode f",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-2",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-08-13T11:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Oracle Database",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ffc09f7346e6f6b5",
+      "slug": "database-security-part-1-b4c13f",
+      "title": "Database Security: Part 1",
+      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they dive into the critical topic of database security. In the first of a two-part series on database security in Oracle Database 23ai, they discuss the importance of protecting dat",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-08-06T11:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Oracle Database",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "7c3ad34d1ff092f6",
+      "slug": "blockchain-tables-a4f246",
+      "title": "Blockchain Tables",
+      "dek": "In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham kick off a new season with a deep dive into the latest features of Oracle Database 23ai. Joined by Bill Millar, a Senior Principal Database & MySQL Instructor, they explore the new enhancements to blockchain tabl",
+      "url": "https://oracleuniversitypodcast.libsyn.com/blockchain-tables",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-30T11:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Oracle Database",
+        "MySQL",
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ff92a6749fa996f7",
+      "slug": "database-essentials-027d69",
+      "title": "Database Essentials",
+      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Hope Fisher, Oracle's Product Manager for Database Technologies, as they break down the basics of databases, explore different database management systems, and delve into database development. Whether you're a newcomer or just need a refresher, ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-essentials",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-23T14:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [],
       "priority": 36
     }
   ]
