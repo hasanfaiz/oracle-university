@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T22:32:11.365Z",
+  "generatedAt": "2026-06-19T21:44:08.393Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,52 +7,36 @@
   },
   "items": [
     {
-      "id": "5c9b0dba-0ef2-4aae-9863-cd99f7ee64ae",
-      "slug": "breach-roundup-shinyhunters-leaks-26m-msg-records-f6ba4a",
-      "title": "Breach Roundup: ShinyHunters Leaks 26M MSG Records",
-      "dek": "Every week, ISMG rounds up cybersecurity incidents and breaches around the world. This week, extortion gang ShinyHunters published alleged Madison Square Garden data.",
-      "url": "https://www.bankinfosecurity.com/breach-roundup-shinyhunters-leaks-26m-msg-records-a-32019",
-      "source": "BankInfoSecurity",
+      "id": "5f11d481-b36e-4a72-adc7-000b344dcca2",
+      "slug": "beyond-trump-hype-does-intel-intc-have-long-term-growth-catalysts-bf3843",
+      "title": "Beyond Trump Hype: Does Intel (INTC) Have Long-Term Growth Catalysts?",
+      "dek": "We just covered Donald Trump Stock Portfolio: 10 Best AI and Tech Stock Picks in 2026. Intel (NASDAQ:INTC) ranks #3 (see Donald Trump Stock Portfolio: 5 Best AI and Tech Stock Picks in 2026).",
+      "url": "https://www.insidermonkey.com/blog/beyond-trump-hype-does-intel-intc-have-long-term-growth-catalysts-1784743/",
+      "source": "Insider Monkey",
       "sourceType": "external",
-      "image": "https://ismg-cdn.nyc3.cdn.digitaloceanspaces.com/articles/breach-roundup-shinyhunters-leaks-26m-msg-records-image_large-2-a-32019.jpg",
-      "publishedAt": "2026-06-18T20:25:40.000Z",
-      "topic": "Security",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/-HTsVFV2ybL5vXNOzaawxLP2e76NN3bh3QTSOy8Q-rg/resize:fit:1920:1280:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2021/12/04225259/slejven-djurakovic-0uXzoEzYZ4I-unsplash.jpg",
+      "publishedAt": "2026-06-19T15:43:49.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "internet security"
+        "finance"
       ],
-      "priority": 64
+      "priority": 51
     },
     {
-      "id": "50ac1e87-8ace-4e9e-b47b-3e65aeb1319c",
-      "slug": "msg-data-breach-lawsuit-puts-dolan-s-facial-recognition-data-fight-in-spotlight-0f8f73",
-      "title": "MSG Data Breach Lawsuit Puts Dolan's Facial Recognition/Data Fight in Spotlight",
-      "dek": "Madison Square Garden Entertainment is facing a proposed class action lawsuit over an apparent data breach that allegedly exposed sensitive information tied to the company’s controversial surveillance and facial recognition systems, putting James Dolan’s long-running fight over venue access and biom",
-      "url": "https://www.ticketnews.com/2026/06/msg-data-breach-lawsuit-puts-dolans-facial-recognition-data-fight-in-spotlight/",
-      "source": "TicketNews",
+      "id": "e880debf-a0c9-4be9-878b-6cafcb985c10",
+      "slug": "why-dell-technologies-dell-is-turning-rack-scale-ai-systems-into-a-major-growth-driver-ac9713",
+      "title": "Why Dell Technologies (DELL) Is Turning Rack-Scale AI Systems Into a Major Growth Driver",
+      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
+      "url": "https://www.insidermonkey.com/blog/why-dell-technologies-dell-is-turning-rack-scale-ai-systems-into-a-major-growth-driver-1785235/",
+      "source": "Insider Monkey",
       "sourceType": "external",
-      "image": "https://www.ticketnews.com/wp-content/uploads/Untitled-design-27-1.jpg.webp",
-      "publishedAt": "2026-06-18T17:37:10.000Z",
-      "topic": "Security",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/0AZBm_ssQXPsxBJKyR28K2u-bwpf-KStm1MznHkmTTI/resize:fit:5184:3456:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2026/05/30022630/pexels-pok-rie-33563-1432679.jpg",
+      "publishedAt": "2026-06-19T14:38:49.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "internet security"
+        "finance"
       ],
-      "priority": 54
-    },
-    {
-      "id": "8bad5448-9c79-4bdf-a657-3c48ad355c63",
-      "slug": "xai-grok-lands-on-databricks-at-the-2026-data-ai-summit-04cb0e",
-      "title": "xAI Grok Lands on Databricks at the 2026 Data + AI Summit",
-      "dek": "xAI's Grok is expanding its enterprise footprint again. As of June 18, 2026, Grok models are natively available on Databricks Agent Bricks — announced live at the Databricks 2026 Data + AI Summit. For enterprise teams already running data pipelines on Databricks' Lakehouse architecture, this means G",
-      "url": "https://www.basenor.com/blogs/news/xai-grok-lands-on-databricks-at-the-2026-data-ai-summit",
-      "source": "BASENOR - Tesla Accessories",
-      "sourceType": "external",
-      "image": "https://www.basenor.com/cdn/shop/articles/9ba16094a3073ac5c0710d0e847725a5.jpg?v=1781802513",
-      "publishedAt": "2026-06-18T17:08:33.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "business"
-      ],
-      "priority": 53
+      "priority": 49
     },
     {
       "id": "f58466d207e1f5cc",
@@ -103,47 +87,15 @@
       "priority": 46
     },
     {
-      "id": "83a2c50f-8236-4278-b036-477071a38200",
-      "slug": "hive-s-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-bell-ai-fabric-for-84f824",
-      "title": "HIVE’s BUZZ HPC Closes USD $220 Million Sovereign AI GPU Contract with Bell AI Fabric for Cohere Inc.",
-      "dek": "HIVE’s BUZZ HPC Closes USD $220 Million Sovereign AI GPU Contract with Bell AI Fabric for Cohere Inc. This news release constitutes a \"designated news release\" for the purposes of the Company's amended and restated prospectus supplement dated June 16, 2026 to its short form base shelf prospectus dat",
-      "url": "https://www.hivedigitaltechnologies.com/news/hives-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-bell-ai-fabric-for-cohere-inc/",
-      "source": "HIVE Digital Technologies Ltd",
+      "id": "4154423a02d7aa4f",
+      "slug": "citizen-services-ai-market-size-to-hit-usd-601-18-billion-by-2035-sns-insider-f1cbb0",
+      "title": "Citizen Services AI Market Size to Hit USD 601.18 Billion by 2035 | SNS Insider",
+      "dek": "The U.S. Citizen Services AI Market is Projected to Surge from $7.89 Billion in 2025 to $256.42 Billion by 2035, While Europe is Expected to Expand from $5.09 Billion to...",
+      "url": "https://nynewscast.com/citizen-services-ai-market-size-to-hit-usd-601-18-billion-by-2035-sns-insider-230241/",
+      "source": "Nynewscast",
       "sourceType": "external",
-      "image": "https://www.hivedigitaltechnologies.com/static/hivesite/images/banner.webp",
-      "publishedAt": "2026-06-18T11:27:33.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "digital currencies"
-      ],
-      "priority": 44
-    },
-    {
-      "id": "14c43b82b891070b",
-      "slug": "generative-ai-in-healthcare-market-trends-in-clinical-documentation-automation-68f343",
-      "title": "Generative AI in Healthcare Market Trends in Clinical Documentation Automation",
-      "dek": "The global Generative AI In Healthcare Market size was valued at USD 2.9 billion in 2025 and is projected to grow from USD 3.8 billion in 2026 [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/06/18/1758971",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
-      "publishedAt": "2026-06-18T10:07:53.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "AI"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "8bb3fd46ef092384",
-      "slug": "bell-canada-partners-with-cohere-hypertec-and-buzz-hpc-on-ai-f3da20",
-      "title": "Bell Canada partners with Cohere, Hypertec and BUZZ HPC on AI",
-      "dek": "Bell Canada partners with Cohere, Hypertec and BUZZ HPC on AI",
-      "url": "https://uk.investing.com/news/stock-market-news/bell-canada-partners-with-cohere-hypertec-and-buzz-hpc-on-ai-93CH-4734817",
-      "source": "Investing Uk",
-      "sourceType": "external",
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB3R08Z_L.jpg",
-      "publishedAt": "2026-06-18T10:06:10.000Z",
+      "image": "https://nynewscast.com/wp-content/uploads/2025/10/WhatsApp-Image-2025-10-31-at-00.04.14.jpeg",
+      "publishedAt": "2026-06-19T09:31:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
         "AI"
@@ -151,263 +103,187 @@
       "priority": 43
     },
     {
-      "id": "494cebe509e5bb5b",
-      "slug": "bell-ai-fabric-cohere-hypertec-and-buzz-hpc-announce-landmark-deal-to-advance-sovereign--492b78",
-      "title": "Bell AI Fabric, Cohere, Hypertec and BUZZ HPC announce landmark deal to advance sovereign AI in Canada",
-      "dek": "/CNW/ - Bell Canada (TSX: BCE) (NYSE: BCE), Cohere, Hypertec and BUZZ High Performance Computing (HPC), a subsidiary of Hive Digital Technologies (TSX: HIVE)...",
-      "url": "https://www.newswire.ca/news-releases/bell-ai-fabric-cohere-hypertec-and-buzz-hpc-announce-landmark-deal-to-advance-sovereign-ai-in-canada-804262049.html",
-      "source": "Newswire",
+      "id": "e080fc2054719d29",
+      "slug": "meta-signs-new-ai-computing-deals-with-data-centre-firm-crusoe-3ad2bc",
+      "title": "Meta signs new AI computing deals with data-centre firm Crusoe",
+      "dek": "Meta has signed new deals to draw computing power from Crusoe, the data-centre developer, adding to the vast and growing pile of infrastructure the company is assembling for its AI ambitions. The agreements cover two sites, in Childress, Texas, and Warrenton, Missouri, and will give Meta roughly 1.6",
+      "url": "https://thenextweb.com/news/meta-signs-new-ai-computing-deals-with-data-centre-firm-crusoe",
+      "source": "Tnw",
       "sourceType": "external",
-      "image": "https://mmx.prnewswire.com/media/MS1867187/Bell_Canada_-MTL--Bell_AI_Fabric-_Cohere-_Hypertec_and_BUZZ_HPC.jpg?id=OA2723395",
-      "publishedAt": "2026-06-18T10:00:00.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://media.thenextweb.com/2026/04/meta-users.avif",
+      "publishedAt": "2026-06-19T09:27:03.000Z",
+      "topic": "Java & MySQL",
       "tags": [
-        "computer software",
-        "telecommunications industry",
-        "entertainment",
-        "advertising",
-        "television",
-        "artificial intelligence"
+        "AI"
       ],
       "priority": 43
     },
     {
-      "id": "6a23dfd4e3dd241d",
-      "slug": "wv-trailing-other-states-in-moves-to-protect-ratepayers-from-data-center-impacts-848e7b",
-      "title": "WV trailing other states in moves to protect ratepayers from data center impacts",
-      "dek": "West Virginia lawmakers had many questions about how or whether they could keep regional data center growth from sending electric bills soaring. Members of the Joint Standing Judiciary Committee complained throughout their interim legislative session meeting at Canaan Valley Resort State Park on Jun",
-      "url": "https://www.wvgazettemail.com/news/energy_and_environment/wv-trailing-other-states-in-moves-to-protect-ratepayers-from-data-center-impacts/article_15861541-4d6b-4945-b961-76cea50a8f45.html",
-      "source": "Charleston Gazette-mail",
+      "id": "7a7b6dd5992300bf",
+      "slug": "ltm-recognized-as-leader-in-avasant-s-oracle-cloud-erp-services-2026-radarview-08f718",
+      "title": "LTM Recognized as Leader in Avasant's Oracle Cloud ERP Services 2026 RadarView",
+      "dek": "LTM has been named a Leader in Avasant's Oracle Cloud ERP Services 2026 RadarView, highlighting its strengths in AI-driven Oracle Cloud ERP transformation, managed services, and enterprise modernization.",
+      "url": "https://www.psuconnect.in/corporate-news/ltm-recognized-as-leader-in-avasants-oracle-cloud-erp-services-2026-radarview",
+      "source": "Psu Connect",
       "sourceType": "external",
-      "image": "https://bloximages.newyork1.vip.townnews.com/wvgazettemail.com/content/tncms/assets/v3/editorial/1/58/15861541-4d6b-4945-b961-76cea50a8f45/6a331bb320d91.preview.jpg?crop=916%2C481%2C316%2C189",
-      "publishedAt": "2026-06-18T09:45:00.000Z",
+      "image": "https://images.psuconnect.in/LTM_Recognized_as_Leader_in_Avasant_Oracle_Cloud_ERP_Services_2026_RadarView.jpg",
+      "publishedAt": "2026-06-19T08:31:00.000Z",
       "topic": "Oracle Cloud",
       "tags": [
-        "psc",
-        "wv house of delegates",
-        "apco",
-        "mitchell plant",
-        "aep",
-        "kayla young"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "363cb1bb5c70f94d",
-      "slug": "oracle-orcl-and-microsoft-cloud-deal-reportedly-fell-apart-over-security-rules-67822c",
-      "title": "Oracle (ORCL) And Microsoft Cloud Deal Reportedly Fell Apart Over Security Rules",
-      "dek": "Talks for a potential $3b+ cloud infrastructure leasing partnership between Oracle and Microsoft reportedly fell apart over security certification requirements for U.S. government workloads. Reports indicated that Oracle did not agree to add FedRAMP security certification, which is commonly required",
-      "url": "https://ca.finance.yahoo.com/news/oracle-orcl-microsoft-cloud-deal-091213009.html",
-      "source": "Yahoo! News",
-      "sourceType": "external",
-      "image": "https://s.yimg.com/ny/api/res/1.2/1McuMYGoOtsPPiQTgSOskw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTI0MDA7aD0xNTMy/https://media.zenfs.com/en/simply_wall_st__316/267974a0f00efff1448e2bddc2c7c7e7",
-      "publishedAt": "2026-06-18T09:12:13.000Z",
-      "topic": "Security",
-      "tags": [
-        "oracle cloud",
-        "google cloud",
-        "cloud infrastructure",
-        "oracle fusion",
-        "compliance requirements",
-        "amazon web services"
+        "Oracle Cloud",
+        "AI"
       ],
       "priority": 42
     },
     {
-      "id": "b54d053d1bee7d50",
-      "slug": "fortinet-breach-grants-access-to-thousands-of-corporate-networks-3dee6e",
-      "title": "Fortinet breach grants access to thousands of corporate networks",
-      "dek": "One of the largest exposed collections of corporate login credentials in recent years is putting thousands of organizations under pressure. Researchers discovered that attackers gained access to tens of thousands of Fortinet systems and built up a massive database of valid login credentials in the p",
-      "url": "https://www.techzine.eu/news/security/142259/fortinet-breach-grants-access-to-thousands-of-corporate-networks/",
-      "source": "Techzine Europe",
+      "id": "77df4b37-eee2-4f71-8ece-35c1ed31f268",
+      "slug": "nifty-it-stocks-dip-as-accenture-shaves-revenue-guidance-8cc1ab",
+      "title": "Nifty IT stocks dip as Accenture shaves revenue guidance",
+      "dek": "The ten share Nifty IT index dipped 5.6% trading at 26,997 points as Accenture Plc shaved revenue guidance on macro uncertainty and the West Asian conflict in its Q3 FY2026.",
+      "url": "https://www.thehindu.com/business/Industry/nifty-it-stocks-dip-as-accenture-shaves-revenue-guidance/article71121253.ece",
+      "source": "The Hindu",
       "sourceType": "external",
-      "image": "https://www.techzine.eu/wp-content/uploads/2025/08/Fortinet-bug-1.png",
-      "publishedAt": "2026-06-18T07:32:05.000Z",
+      "image": "https://th-i.thgim.com/public/incoming/z3fsmm/article71121252.ece/alternates/LANDSCAPE_1200/2026-06-18T120138Z_570576618_RC2P56A09UQ5_RTRMADP_3_DRAGOS-M-A-ACCENTURE.JPG",
+      "publishedAt": "2026-06-19T07:59:18.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "business",
+        "finance"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "121eb9a23601fd27",
+      "slug": "data-protection-market-analysis-reach-us-673-24-billion-by-2034-f9c09b",
+      "title": "Data Protection Market Analysis Reach US$ 673.24 Billion by 2034",
+      "dek": "The global data protection has emerged as one of the most critical segments within the broader cybersecurity and information technology industry. As organizations continue to generate, process, and store vast amounts of digital information, the need to secure sensitive data",
+      "url": "https://www.openpr.com/news/4554746/data-protection-market-analysis-reach-us-673-24-billion-by-2034",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/6/L619451291_g.jpg",
+      "publishedAt": "2026-06-19T06:40:44.000Z",
       "topic": "Security",
       "tags": [
-        "fortinet",
-        "data breach",
-        "firewall",
-        "security"
+        "media release",
+        "public relations",
+        "pr marketing",
+        "publicity",
+        "pr service",
+        "pressreleases"
       ],
       "priority": 41
     },
     {
-      "id": "e02c6fb4c7bd6cdd",
-      "slug": "hive-digital-technologies-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-c90373",
-      "title": "HIVE Digital Technologies' BUZZ HPC Closes USD $220 Million Sovereign AI GPU Contract with Bell AI Fabric for Cohere",
-      "dek": "Vancouver, British Columbia--(Newsfile Corp. - June 18, 2026) - HIVE Digital Technologies Ltd. (TSX: HIVE) (NASDAQ: HIVE) (FSE: YO0) (BVC: HIVECO) ...",
-      "url": "https://greenstocknews.com/news/nasdaq/hive/hive-s-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-bell-ai-fabric-for-cohere-inc",
-      "source": "Green Stock News",
-      "sourceType": "external",
-      "image": "https://greenstocknews.com/images/ogimage.jpg",
-      "publishedAt": "2026-06-18T07:03:01.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "adc16a4b0a28e92c",
-      "slug": "hive-s-buzz-hpc-closes-usd-220-million-sovereign-ai-gpu-contract-with-bell-ai-fabric-for-b0dd9a",
-      "title": "HIVE's BUZZ HPC Closes USD $220 Million Sovereign AI GPU Contract with Bell AI Fabric for Cohere Inc.",
-      "dek": "Vancouver, British Columbia--(Newsfile Corp. - June 18, 2026) - HIVE Digital Technologies Ltd. (TSX: HIVE) (NASDAQ: HIVE) (FSE: YO0) (BVC: HIVECO) (the \"Company\" or \"HIVE\"), through its wholly owned subsidiary BUZZ High Performance Computing Inc. (\"BUZZ HPC\"), today announced a landmark sovereign AI",
-      "url": "https://www.newsfilecorp.com/release/302011/HIVEs-BUZZ-HPC-Closes-USD-220-Million-Sovereign-AI-GPU-Contract-with-Bell-AI-Fabric-for-Cohere-Inc.",
-      "source": "Newsfilecorp",
+      "id": "e4e70e831af461f8",
+      "slug": "best-database-management-tools-in-2026-208007",
+      "title": "Best Database Management Tools in 2026",
+      "dek": "Explore the top database management tools in 2026, from PostgreSQL and MongoDB to Snowflake and Databricks.",
+      "url": "https://www.analyticsinsight.net/photo/best-database-management-tools-in-2026",
+      "source": "Analytics And Insight",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-06-18T07:00:00.000Z",
-      "topic": "Oracle Ecosystem",
+      "publishedAt": "2026-06-19T06:08:56.000Z",
+      "topic": "AI & Database",
       "tags": [
-        "sovereign",
-        "million",
-        "contract",
-        "buzz",
-        "hpc",
-        "bell"
+        "databricks",
+        "mongodb",
+        "snowflake",
+        "postgresql",
+        "database management tools"
       ],
       "priority": 40
     },
     {
-      "id": "375f0e4b64f7726e",
-      "slug": "hive-digital-technologies-bell-ai-fabric-cohere-hypertec-and-buzz-hpc-announce-landmark--552af5",
-      "title": "Hive Digital Technologies: Bell AI Fabric, Cohere, Hypertec and BUZZ HPC announce landmark deal to advance sovereign AI in Canada",
-      "dek": "This news release contains forward-looking statements. For a description of the related risk factors and assumptions, please see the section entitl...",
-      "url": "https://greenstocknews.com/news/nasdaq/hive/bell-ai-fabric-cohere-hypertec-and-buzz-hpc-announce-landmark-deal-to-advance-sovereign-ai-in-canada",
-      "source": "Green Stock News",
+      "id": "f2b59bb538e8d627",
+      "slug": "one-nz-future-proofs-its-oracle-estate-and-accelerates-ai-innovation-with-rimini-street-243720",
+      "title": "One NZ Future-Proofs Its Oracle Estate and Accelerates AI Innovation with Rimini Street",
+      "dek": "Business Wire India Rimini Street, Inc. (Nasdaq: RMNI), the Software Support and Agentic AI ERP CompanyTM and the leading third-party support provider for Oracle, SAP and VMware software, today announced One New Zealand (NZ) is leveraging Rimini Street’s support and interoperability solutions to ens",
+      "url": "https://nynewsly.com/one-nz-future-proofs-its-oracle-estate-and-accelerates-ai-innovation-with-rimini-street/35939/",
+      "source": "Ny Newsly",
       "sourceType": "external",
-      "image": "https://greenstocknews.com/images/ogimage.jpg",
-      "publishedAt": "2026-06-18T06:02:01.000Z",
-      "topic": "Security",
-      "tags": [
-        "AI"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "6095546093e68579",
-      "slug": "global-cyberattack-compromises-thousands-of-fortinet-devices-356afe",
-      "title": "Global Cyberattack Compromises Thousands of Fortinet Devices",
-      "dek": "Copyright protected content copied from PhoneWorld website. A large-scale cyberattack has recently affected tens of thousands of Fortinet firewalls and virtual private network VPN) devices used by companies around the world. Cybersecurity researchers have discovered that hackers are gaining access t",
-      "url": "https://www.phoneworld.com.pk/global-cyberattack-compromises-thousands-of-fortinet-devices/",
-      "source": "Phoneworld Pk",
-      "sourceType": "external",
-      "image": "https://www.phoneworld.com.pk/wp-content/uploads/2026/06/cyberattack-fortnite-devices.jpg",
-      "publishedAt": "2026-06-18T05:57:23.000Z",
-      "topic": "Security",
-      "tags": [],
-      "priority": 40
-    },
-    {
-      "id": "92dd431170f7f011",
-      "slug": "tcs-opens-oracle-ai-lab-in-kolkata-for-enterprise-use-a67079",
-      "title": "TCS opens Oracle AI lab in Kolkata for enterprise use",
-      "dek": "The Kolkata centre is meant to help corporate clients turn fragmented data into scaled AI deployments, as demand for practical automation grows.",
-      "url": "https://itbrief.in/story/tcs-opens-oracle-ai-lab-in-kolkata-for-enterprise-use",
-      "source": "It Brief India",
-      "sourceType": "external",
-      "image": "https://itbrief.in/uploads/story/2026/06/18/compatible_2124.jpg",
-      "publishedAt": "2026-06-18T03:00:00.000Z",
+      "image": "https://nynewsly.com/wp-content/themes/publisher/images/default-thumb/large.png",
+      "publishedAt": "2026-06-19T05:45:42.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
         "AI"
       ],
+      "priority": 40
+    },
+    {
+      "id": "173ffa62-c0f2-46d4-b61d-995d7f04b774",
+      "slug": "walmart-s-sam-s-club-faces-food-safety-scrutiny-in-china-reuters-reports-8e8822",
+      "title": "Walmart’s Sam’s Club Faces Food Safety Scrutiny in China, Reuters Reports",
+      "dek": "On June 15, Reuters reported that China’s market regulator had ordered Walmart Inc. (NASDAQ:WMT)-owned Sam’s Club to take strict measures across its supply chain to address food safety risks and protect public food safety.",
+      "url": "https://www.insidermonkey.com/blog/walmarts-sams-club-faces-food-safety-scrutiny-in-china-reuters-reports-1784724/",
+      "source": "Insider Monkey",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/UJdoNZI2kzOPpzdAQjLFTBfHIVfM5D8y-2iQy8vgr58/resize:fit:1000:667:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2016/02/09121619/shutterstock_152288732.jpg",
+      "publishedAt": "2026-06-19T03:53:43.000Z",
+      "topic": "Security",
+      "tags": [
+        "shopping"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "cc7e119a-ec90-42c1-bfb8-1bc77a3ad58e",
+      "slug": "stocks-set-records-in-japan-south-korea-dollar-gets-fed-boost-bb158d",
+      "title": "Stocks set records in Japan, South Korea; dollar gets Fed boost",
+      "dek": "Canada's Ismael Kone undergoes major leg surgery 20 June 2026, 4:07am This is generated by AI, we welcome feedback. Canada midfielder Ismael Kone suffered severe...",
+      "url": "https://www.nst.com.my/newssummary/1467155",
+      "source": "NST Online",
+      "sourceType": "external",
+      "image": "https://assets.nst.com.my/images/listing-featured/211F05B41AAFB1ACA3E08BF6702A6CB8_data_0_0.jpg",
+      "publishedAt": "2026-06-19T03:06:23.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "world"
+      ],
       "priority": 38
     },
     {
-      "id": "8a355beea223701a",
-      "slug": "re-fccpc-and-the-presidency-s-fdi-drive-8c9acc",
-      "title": "Re: FCCPC and the Presidency’s FDI drive",
-      "dek": "An analysis refutes claims that the FCCPC hinders Nigeria’s FDI drive, arguing robust regulation is crucial for attracting legitimate foreign investment. Read More: https://punchng.com/re-fccpc-and-the-presidencys-fdi-drive/",
-      "url": "https://punchng.com/re-fccpc-and-the-presidencys-fdi-drive/",
-      "source": "Punch",
+      "id": "57ee431e432bfcc1",
+      "slug": "midnight-curse-of-ula-tek-ptr-development-notes-cab139",
+      "title": "Midnight: Curse of Ula'tek PTR Development Notes",
+      "dek": "Midnight: Curse of Ula'tek PTR Development Notes Originally Posted by Blizzard ( Blue Tracker / Official Forums ) New Campaign Chapters Continue the story of Zul’jan as the fog lifts from the island off the east coast of Zul’Aman. We’ll join Zul’jarra as she pursues him to bring her brother and othe",
+      "url": "https://www.mmo-champion.com/content/14323-Midnight-Curse-of-Ula-tek-PTR-Development-Notes",
+      "source": "Mmo-champion",
       "sourceType": "external",
-      "image": "https://punchng.com/wp-content/uploads/2026/06/FCCPC-1.webp",
-      "publishedAt": "2026-06-18T02:03:16.000Z",
+      "image": "",
+      "publishedAt": "2026-06-19T02:16:00.000Z",
       "topic": "Oracle Ecosystem",
-      "tags": [
-        "competition law",
-        "fdi",
-        "nigeria economy",
-        "tinubu administration",
-        "fccpc",
-        "market regulation"
-      ],
-      "priority": 37
+      "tags": [],
+      "priority": 38
     },
     {
-      "id": "56af79cf8a895bf6",
-      "slug": "oracle-nyse-orcl-stock-price-up-4-3-still-a-buy-748d0d",
-      "title": "Oracle (NYSE:ORCL) Stock Price Up 4.3% – Still a Buy?",
-      "dek": "Oracle Corporation (NYSE:ORCL – Get Free Report) rose 4.3% during trading on Monday . The stock traded as high as $195.32 and last traded at $192.11. Approximately 19,849,031 shares were traded during trading, a decline of 28% from the average daily volume of 27,423,316 shares. The stock had previou",
-      "url": "https://www.dailypolitical.com/2026/06/17/oracle-nyseorcl-stock-price-up-4-3-still-a-buy.html",
-      "source": "Daily Political",
+      "id": "cb91ac2a-e027-46e3-8f69-77131acc09bc",
+      "slug": "oracle-releases-245-new-security-patches-all-rated-high-priority-security-25c35b",
+      "title": "Oracle releases 245 new security patches, all rated ‘high-priority security’",
+      "dek": "The Oracle Critical Security Patch update (CSPU) released this week contains 245 newly-announced fixes for supported on-premises software, some of which impact multiple products. It is in reaction to an industry trend to announce and fix security holes much more quickly , and complements Oracle’s tr",
+      "url": "https://www.csoonline.com/article/4186983/oracle-releases-245-new-security-patches-all-rated-high-priority-security.html",
+      "source": "csoonline.com",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-06-18T01:18:53.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "stocks",
-        "68389x10",
-        "technicals",
-        "nyse:orcl",
-        "orcl",
-        "oracle"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "35657990bb3dce0a",
-      "slug": "analysts-boosts-oracle-orcl-price-target-following-q4-results-8dcac9",
-      "title": "Analysts Boosts Oracle (ORCL) Price Target Following Q4 Results",
-      "dek": "With a net profit margin of 25.30%, Oracle Corporation (NYSE:ORCL) is included among the 12 Most Profitable American Stocks to Buy in 2026. Oracle Corporation (NYSE:ORCL) is a global leader in AI, delivering the cloud infrastructure, data, and applications that organizations across the world trust t",
-      "url": "https://www.insidermonkey.com/blog/analysts-boosts-oracle-orcl-price-target-following-q4-results-1784063/",
-      "source": "Insider Trading",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/6J0Jr7YekoOoKDqV7jUYlOD3mMDAzjIrt_ISqFl64Ek/resize:fit:1920:1297:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2022/03/24065452/money-2724241_1920.jpg",
-      "publishedAt": "2026-06-18T01:15:52.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "ORCL",
-        "AI"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "0daf6ca0028fc140",
-      "slug": "loans-lend-tonik-a-hand-cc0359",
-      "title": "Loans lend Tonik a hand",
-      "dek": "Tonik is lending more, but inflation keeps applying the brakes. Meanwhile, AI startup Plaud is betting users will pay up rather than trade down.",
-      "url": "https://www.techinasia.com/loans-lend-tonik-hand",
-      "source": "Tech In Asia",
-      "sourceType": "external",
-      "image": "https://cdn.techinasia.com/wp-content/uploads/2024/08/1723539883_The-Top-Up-GIF-Sea-earnings-charts-Q2-2024-1200x640-1.gif",
-      "publishedAt": "2026-06-18T00:30:47.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "0d3aa7743dc58437",
-      "slug": "the-invisible-energy-crisis-threatening-to-derail-the-ai-boom-e7ba57",
-      "title": "The Invisible Energy Crisis Threatening to Derail the AI Boom",
-      "dek": "Every AI boom forecast being published right now — every bull case, Big Tech earnings call, and valuation model — seems to be making the same assumption. The electricity will be there to power it when they need it. It won’t. Bitzero (NASDAQ: AIBZ) spent the last four years betting against that assum",
-      "url": "https://oilprice.com/Energy/Energy-General/The-Invisible-Energy-Crisis-Threatening-to-Derail-the-AI-Boom.html",
-      "source": "Oil Price",
-      "sourceType": "external",
-      "image": "https://d32r1sh890xpii.cloudfront.net/article/1200x900/2026-06-17_b2ejvu8dhk.jpg",
-      "publishedAt": "2026-06-18T00:00:00.000Z",
+      "image": "https://www.csoonline.com/wp-content/uploads/2026/06/4186983-0-86823100-1781833038-oraicle_clouldworld.jpg?quality=50&strip=all",
+      "publishedAt": "2026-06-19T01:37:34.000Z",
       "topic": "Security",
       "tags": [
-        "power crisis",
-        "bitcoin mining",
-        "ai",
-        "nuclear power",
-        "norway",
-        "grid capacity"
+        "internet security"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "ed6fec87fe2e12ac",
+      "slug": "one-new-zealand-expands-rimini-street-oracle-support-65fc33",
+      "title": "One New Zealand expands Rimini Street Oracle support",
+      "dek": "Support for core Oracle and billing systems is freeing One New Zealand to shift staff and budget towards AI work without major upgrades.",
+      "url": "https://itbrief.co.nz/story/one-new-zealand-expands-rimini-street-oracle-support",
+      "source": "It Brief New Zealand",
+      "sourceType": "external",
+      "image": "https://itbrief.co.nz/uploads/story/2026/06/19/compatible_Nancy_Lyskawa.jpg",
+      "publishedAt": "2026-06-18T22:30:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
       ],
       "priority": 36
     },
@@ -2001,6 +1877,105 @@
       "publishedAt": "2024-07-23T14:00:00.000Z",
       "topic": "AI & Database",
       "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "f046bd97147c0cf8",
+      "slug": "container-engine-for-kubernetes-security-practices-26ab8f",
+      "title": "Container Engine for Kubernetes: Security Practices",
+      "dek": "In the season's final episode, hosts Lois Houston and Nikita Abraham interview senior OCI instructor Mahendra Mehra about the security practices that are vital for OKE clusters on OCI. Mahendra shares his expert insights on the importance of Kubernetes security, especially in today's digital landsca",
+      "url": "https://oracleuniversitypodcast.libsyn.com/container-engine-for-kubernetes-security-practices",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP7.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-16T14:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "OCI",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "be8b92279cd0831f",
+      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
+      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-09T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "d38db88cd3fd3cc0",
+      "slug": "working-with-oke-virtual-nodes-f5a370",
+      "title": "Working with OKE Virtual Nodes",
+      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-02T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "bd401ec004db1755",
+      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
+      "title": "Introduction to OCI Container Engine for Kubernetes",
+      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-25T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "1d3aa287378f7e71",
+      "slug": "basics-of-kubernetes-23e26c",
+      "title": "Basics of Kubernetes",
+      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
+      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-18T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ec54bf5b81f570ed",
+      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
+      "title": "Oracle Cloud Infrastructure Registry",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-11T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "OCI",
+        "Oracle Cloud Infrastructure"
+      ],
       "priority": 36
     }
   ]
