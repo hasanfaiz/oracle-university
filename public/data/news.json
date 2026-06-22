@@ -1,11 +1,93 @@
 {
-  "generatedAt": "2026-06-21T21:52:54.026Z",
+  "generatedAt": "2026-06-22T22:24:23.154Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
     "siteUrl": "https://oracle-university.com"
   },
   "items": [
+    {
+      "id": "79834143-1116-4d8e-bf19-a46e4216c65e",
+      "slug": "oracle-workforce-shrinks-by-about-21-000-employees-amid-ai-adoption-20fd77",
+      "title": "Oracle workforce shrinks by about 21,000 employees amid AI adoption",
+      "dek": "Oracle's NYSE:ORCL total workforce declined 13%, or about 21,000 employees in fiscal 2026, as the cloud computing giant continued restructuring its business, partly driven by the adoption of AI across its operations.The company had a total workforce of 141,000 as of May 31, 2026, compared with abou.",
+      "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N42U1MI:0-oracle-workforce-shrinks-by-about-21-000-employees-amid-ai-adoption/",
+      "source": "TradingView",
+      "sourceType": "external",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "publishedAt": "2026-06-22T21:24:16.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "energy",
+        "finance"
+      ],
+      "priority": 72
+    },
+    {
+      "id": "8b8d89fa-e93d-4479-ad39-a83f1c5669b5",
+      "slug": "tech-stocks-slide-as-fed-hawkishness-spurs-rotation-into-value-and-industrials-on-june-2-844c51",
+      "title": "Tech Stocks Slide as Fed Hawkishness Spurs Rotation into Value and Industrials on June 22, 2026",
+      "dek": "June 22, 2026, marked a decisive day of sector rotation in the stock market, as investors moved away from high-flying technology growth stocks and into more economically sensitive sectors and value-oriented names. This shift was catalyzed by Federal Reserve Chair Kevin Warsh’s hawkish tone at the Ju",
+      "url": "https://www.interactivecrypto.com/tech-stocks-slide-as-fed-hawkishness-spurs-rotation-into-value-and-industrials-on-june-22-2026-j",
+      "source": "InteractiveCrypto",
+      "sourceType": "external",
+      "image": "https://storage.googleapis.com/interactivecrypto-covers/interactivecrypto-covers/2026/06/22/stocks-markets-tech-stocks-slide-as-fed-hawkishness-spurs-rotation-into-value-and-industrials-on-0c931ff0376570a3.jpg",
+      "publishedAt": "2026-06-22T16:45:02.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "business"
+      ],
+      "priority": 52
+    },
+    {
+      "id": "1207f366-1c66-4023-835f-c86b9f90b82e",
+      "slug": "microsoft-msft-faces-shareholder-lawsuit-td-cowen-maintains-buy-rating-7c2c97",
+      "title": "Microsoft (MSFT) Faces Shareholder Lawsuit; TD Cowen Maintains Buy Rating",
+      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
+      "url": "https://www.insidermonkey.com/blog/microsoft-msft-faces-shareholder-lawsuit-td-cowen-maintains-buy-rating-1786490/",
+      "source": "Insider Monkey",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/qcaiI5DOOzuQtS9b_6c2qY69ar8-ok67kVp8z0aTmAA/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/19152304/MSFT-insidermonkey-1695151382226.jpg",
+      "publishedAt": "2026-06-22T14:13:49.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "finance"
+      ],
+      "priority": 48
+    },
+    {
+      "id": "467610a8-c452-4cd1-bbc0-15c4203b2541",
+      "slug": "openai-in-talks-to-lease-10-gw-data-center-in-ohio-nvidia-nvda-to-play-an-important-role-cd0d33",
+      "title": "OpenAI in Talks to Lease 10 GW Data Center in Ohio, Nvidia (NVDA) To Play an Important Role – Reuters",
+      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
+      "url": "https://www.insidermonkey.com/blog/openai-in-talks-to-lease-10-gw-data-center-in-ohio-nvidia-nvda-to-play-an-important-role-reuters-1786489/",
+      "source": "Insider Monkey",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/91H9NciXR-WuHG_xG0k3cGH7-ExntkIB6InCXxBd37k/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/19153615/NVDA-insidermonkey-1695152172066.jpg",
+      "publishedAt": "2026-06-22T14:13:49.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "business",
+        "finance"
+      ],
+      "priority": 48
+    },
+    {
+      "id": "438d5e10-8297-4c43-89c5-1ace1c1ec0cd",
+      "slug": "starcraft-ii-5-0-16-patch-notes-ebdd9d",
+      "title": "StarCraft II 5.0.16 Patch Notes",
+      "dek": "StarCraft II Patch 5.0.16 has been released with map pool and economy updates, balance changes with expanding strategic variety across all three races, and overall quality of life improvements.",
+      "url": "https://news.blizzard.com/en-us/article/24259080/starcraft-ii-5-0-16-patch-notes",
+      "source": "Blizzard News",
+      "sourceType": "external",
+      "image": "https://bnetcmsus-a.akamaihd.net/cms/blog_header/kd/KD50BBXYHMBR1554829677265.jpg",
+      "publishedAt": "2026-06-22T18:55:20.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "gaming"
+      ],
+      "priority": 46
+    },
     {
       "id": "f58466d207e1f5cc",
       "slug": "oracle-sets-the-date-for-its-fourth-quarter-fiscal-year-2026-earnings-announcement-3a2dd3",
@@ -55,194 +137,119 @@
       "priority": 46
     },
     {
-      "id": "53dc118bfd0d6c70",
-      "slug": "jim-cramer-discussed-expensive-phones-a-cheap-stock-sector-these-18-stocks-71d7a8",
-      "title": "Jim Cramer Discussed Expensive Phones, A Cheap Stock Sector & These 18 Stocks",
-      "dek": "In this article, we will discuss: Jim Cramer Discussed Expensive Phones, A Cheap Stock Sector & These 18 Stocks. For more stocks, you can head to Jim Cramer Discussed Expensive Phones, A Cheap Stock Sector & These 5 Stocks. One of the biggest debates in the market right now, when it comes to AI, sur",
-      "url": "https://www.insidermonkey.com/blog/jim-cramer-discussed-expensive-phones-a-cheap-stock-sector-these-18-stocks-1782539/",
+      "id": "b4ae3fed-d3b8-4212-ba4b-a1a1a9c6c33e",
+      "slug": "passwords-for-half-of-internet-connected-fortinet-firewalls-exposed-8caa72",
+      "title": "Passwords for half of Internet-connected Fortinet firewalls exposed",
+      "dek": "One of the largest leaks of corporate security credentials in recent years has exposed the administrative passwords of about 75,000 Fortinet devices , one of the most widely used firewall brands by companies and public organizations worldwide.",
+      "url": "https://www.escudodigital.com/en/cybersecurity/passwords-for-half-of-internet-connected-fortinet-firewalls-exposed.html",
+      "source": "Escudo Digital",
+      "sourceType": "external",
+      "image": "https://d3fkdmlbzjtjd3.cloudfront.net/articulos/articulos-81885.jpg",
+      "publishedAt": "2026-06-22T11:54:03.000Z",
+      "topic": "Security",
+      "tags": [
+        "internet security"
+      ],
+      "priority": 45
+    },
+    {
+      "id": "e28e7dcecd4a6cf3",
+      "slug": "baird-raises-its-price-target-on-jabil-jbl-279116",
+      "title": "Baird Raises its Price Target on Jabil (JBL)",
+      "dek": "Jabil Inc. (NYSE:JBL) is one of the 12 High Quality Stocks to Buy for the Long Term. On June 18, 2026, Baird analyst Luke Junk raised the firm’s price target on Jabil Inc. (NYSE:JBL) to $440 from $355 and maintained an Outperform rating on the shares. Junk updated Baird’s model following Jabil’s Q3 ",
+      "url": "https://www.insidermonkey.com/blog/baird-raises-its-price-target-on-jabil-jbl-1786512/",
       "source": "Insider Trading",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/c9U9WivCpX_Adtl044qTPgPgR3krXp-IZzTo139xAP8/resize:fit:1152:768:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2026/03/09034548/Jim-Cramer_IM.png",
-      "publishedAt": "2026-06-21T09:00:52.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "AI"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "c6cbb0d80b0d3db6",
-      "slug": "edenex-defines-its-market-strategy-to-capture-a-leading-share-in-the-niche-of-compliance-024726",
-      "title": "Edenex defines its market strategy: to capture a leading share in the niche of compliance-first marketplaces for export financing",
-      "dek": "Edenex defines its market strategy: to capture a leading share in the niche of compliance-first marketplaces for export financing. Dubai, UAE, 2026-06-21 — /EPR Network/ [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/06/21/1757773",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "https://express-press-release.net/news/wp-content/uploads/2026/06/Edenex-RWA-marketplace-300x169.jpg",
-      "publishedAt": "2026-06-21T08:45:51.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 42
-    },
-    {
-      "id": "ba163d8d-0488-4e9d-ae31-7771cc6ec4b6",
-      "slug": "malaysian-trio-arrested-within-hours-of-entering-singapore-over-scam-mission-c254e3",
-      "title": "Malaysian trio arrested within hours of entering Singapore over scam mission",
-      "dek": "Fast start sees World Cup reach 100-goal milestone at record pace 21 June 2026, 9:01pm This is generated by AI, we welcome feedback. Cody Gakpo scored the World...",
-      "url": "https://www.nst.com.my/newssummary/1468919",
-      "source": "NST Online",
-      "sourceType": "external",
-      "image": "https://assets.nst.com.my/images/listing-featured/3BAFC68DBCB4F1366968B3CB9713EF45_data_0.jpg",
-      "publishedAt": "2026-06-21T08:43:21.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "world"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "45ce5346bf6b1cd4",
-      "slug": "nvidia-raises-25-billion-as-oracle-amazon-and-spacex-d5da7b",
-      "title": "Nvidia Raises $25 Billion as Oracle, Amazon and SpaceX",
-      "dek": "Nvidia Raises $25 Billion, Oracle, Amazon and SpaceX are raising billions through bonds and financing as AI infrastructure spending.",
-      "url": "https://www.niftytrader.in/markets/nvidia-raises-25-billion-as-oracle-amazon/",
-      "source": "Niftytrader",
-      "sourceType": "external",
-      "image": "https://trending.niftytrader.in/wp-content/uploads/2026/06/Nvidia-Raises-25-Billion-as-Oracle-Amazon-and-SpaceX-Step-Up-AI-Funding-Plans.jpeg",
-      "publishedAt": "2026-06-21T08:43:06.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "nvidia",
-        "ai",
-        "oracle",
-        "spacex"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "adf74d12075bdafa",
-      "slug": "accenture-q3-fy26-slides-margin-gains-offset-by-revenue-miss-stock-plunges-8fcc3d",
-      "title": "Accenture Q3 FY26 slides: margin gains offset by revenue miss, stock plunges",
-      "dek": "Accenture Q3 FY26 slides: margin gains offset by revenue miss, stock plunges",
-      "url": "https://au.investing.com/news/company-news/accenture-q3-fy26-slides-margin-gains-offset-by-revenue-miss-stock-plunges-93CH-4496685",
-      "source": "Investing Australia",
-      "sourceType": "external",
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEB230DM_L.jpg",
-      "publishedAt": "2026-06-21T06:58:08.000Z",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/4PY90b5BNYnBouby9EWHhee33H-P2WDKtSTqJEA-MwA/resize:fit:640:427:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2026/02/23112722/pexels-thisisengineering-3912373.jpg",
+      "publishedAt": "2026-06-22T09:22:38.000Z",
       "topic": "Business & Earnings",
       "tags": [],
+      "priority": 42
+    },
+    {
+      "id": "1fe53c20-bb28-4cf7-8846-ae18ce35ad45",
+      "slug": "ncsc-urges-fortinet-customers-to-tackle-fortibleed-fallout-c7d4ce",
+      "title": "NCSC Urges Fortinet Customers to Tackle FortiBleed Fallout",
+      "dek": "The UK’s National Cyber Security Centre (NCSC) has released guidance for Fortinet customers impacted by a global credential theft campaign.",
+      "url": "https://www.infosecurity-magazine.com/news/ncsc-fortinet-customers-tackle/",
+      "source": "Infosecurity Magazine",
+      "sourceType": "external",
+      "image": "https://assets.infosecurity-magazine.com/webpage/og/2e3a5b75-a977-4283-9da9-f4a562d12b31.jpg",
+      "publishedAt": "2026-06-22T08:30:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "internet security"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "10065167f9cb8450",
+      "slug": "ai-s-trillion-dollar-data-centre-race-runs-into-a-hard-question-from-ibm-ceo-ab34e8",
+      "title": "AI’s trillion-dollar data centre race runs into a hard question from IBM CEO",
+      "dek": "IBM CEO Arvind Krishna said current AI data centre commitments could require trillions of dollars in capital expenditure, even as OpenAI and chipmakers expand gigawatt-scale infrastructure plans.",
+      "url": "https://www.moneycontrol.com/news/business/information-technology/ai-s-trillion-dollar-data-centre-race-runs-into-a-hard-question-from-ibm-ceo-13955602.html",
+      "source": "Moneycontrol",
+      "sourceType": "external",
+      "image": "https://images.moneycontrol.com/static-mcnews/2020/01/Arvind-Krishna-.jpg",
+      "publishedAt": "2026-06-22T08:02:38.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "openai ai infrastructure",
+        "oracle openai deal",
+        "amd openai deal",
+        "ai capex",
+        "nvidia openai deal",
+        "ai bubble"
+      ],
       "priority": 41
     },
     {
-      "id": "75118d61-1763-49b7-8bd3-73e413914773",
-      "slug": "sivasangari-goes-down-fighting-to-world-no-1-in-paris-final-4530fa",
-      "title": "Sivasangari goes down fighting to world No.1 in Paris final",
-      "dek": "What exactly is Cklamovski's Malaysian football legacy? 21 June 2026, 4:46pm This is generated by AI, we welcome feedback. Peter Cklamovski defined his legacy by...",
-      "url": "https://www.nst.com.my/newssummary/1468857",
-      "source": "NST Online",
+      "id": "4bc812cb83ff65d7",
+      "slug": "top-10-asset-lifecycle-management-tools-features-pros-cons-comparison-33d448",
+      "title": "Top 10 Asset Lifecycle Management Tools: Features, Pros, Cons & Comparison",
+      "dek": "Introduction Asset Lifecycle Management (ALM) tools help organizations manage physical and digital assets from acquisition and deployment to maintenance, optimization, [...]",
+      "url": "https://www.myhospitalnow.com/blog/top-10-asset-lifecycle-management-tools-features-pros-cons-comparison/",
+      "source": "Myhospitalnow.com",
       "sourceType": "external",
-      "image": "https://assets.nst.com.my/images/listing-featured/2805F22D60812A0302870E74FD260AA3_data_0.jpg",
-      "publishedAt": "2026-06-21T06:28:54.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://www.myhospitalnow.com/blog/wp-content/uploads/2026/06/image-464.png",
+      "publishedAt": "2026-06-22T06:27:01.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "sports"
+        "#eamsoftware",
+        "#assetlifecyclemanagement",
+        "#maintenancemanagement",
+        "#assetmanagement",
+        "#enterpriseassetmanagement"
       ],
       "priority": 40
     },
     {
-      "id": "06352f57-0eec-45bf-8803-0abb71946684",
-      "slug": "saudis-seek-to-repeat-argentina-world-cup-miracle-against-spain-70416f",
-      "title": "Saudis seek to repeat Argentina World Cup 'miracle' against Spain",
-      "dek": "Anwar pays condolence visit to Nancy Shukri 21 June 2026, 6:48pm This is generated by AI, we welcome feedback. Prime Minister Anwar Ibrahim paid a condolence visit...",
-      "url": "https://www.nst.com.my/newssummary/1468741",
-      "source": "NST Online",
+      "id": "85335aa234793c50",
+      "slug": "neyro-coo-andrew-isaacs-on-multi-auditor-strategies-and-blockchain-cybersecurity-challen-14a4c0",
+      "title": "Neyro COO Andrew Isaacs on Multi-Auditor Strategies and Blockchain Cybersecurity Challenges",
+      "dek": "Andrew Isaacs discuss the current state of blockchain cybersecurity, smart contract auditing processes, and the practical realities projects face.",
+      "url": "https://hackernoon.com/neyro-coo-andrew-isaacs-on-multi-auditor-strategies-and-blockchain-cybersecurity-challenges",
+      "source": "Hackernoon",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-06-21T04:36:58.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "sports"
-      ],
-      "priority": 39
+      "image": "https://hackernoon.imgix.net/images/XEwEsoKKiSM0pGjq4dyeehqOfjj2-o893gh9.jpeg",
+      "publishedAt": "2026-06-22T03:47:10.000Z",
+      "topic": "Security",
+      "tags": [],
+      "priority": 38
     },
     {
-      "id": "0690a16b-a696-4573-85ba-8bd29ca10f62",
-      "slug": "3-founder-led-ai-infrastructure-stocks-with-earnings-growth-and-debt-risk-7a1c96",
-      "title": "3 Founder Led AI Infrastructure Stocks With Earnings Growth And Debt Risk",
-      "dek": "Founder led companies sit at an interesting crossroads right now. Economic data across countries is mixed, bond markets are adjusting to shifting rate expectations, and consumer trends are moving at different speeds, from Argentina and Canada to New Zealand and South Korea. In this kind of backdrop,",
-      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-alab/astera-labs/news/3-founder-led-ai-infrastructure-stocks-with-earnings-growth",
-      "source": "simplywall.st",
+      "id": "2c0dbb14-3d4a-4297-8c41-f144fcfbc04c",
+      "slug": "council-of-europe-data-breach-shinyhunters-makes-10-000-employees-records-permanent-f97b6a",
+      "title": "Council of Europe Data Breach: ShinyHunters Makes 10,000 Employees' Records Permanent",
+      "dek": "ShinyHunters published 297 gigabytes of Council of Europe employee data after the intergovernmental body failed to meet its June 16 ransom deadline — and the criminal group then announced that every file it has ever stolen will now be made permanently available through a new network of mirrors and t",
+      "url": "https://www.techtimes.com/articles/318714/20260621/council-europe-data-breach-shinyhunters-makes-10000-employees-records-permanent.htm",
+      "source": "Tech Times",
       "sourceType": "external",
-      "image": "https://images.simplywall.st/asset/industry/8212000-choice2-main-header/1585186783100",
-      "publishedAt": "2026-06-21T02:32:14.000Z",
+      "image": "https://d.techtimes.com/en/full/467067/council-europe.jpg?w=836&f=23cbfdc46291bc73c05db6a8c7c4840b",
+      "publishedAt": "2026-06-22T00:36:33.000Z",
       "topic": "Security",
       "tags": [
-        "business"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "8cb15b2f-1ae6-4f8c-b011-e3794cc4c030",
-      "slug": "nvidia-oracle-and-now-spacex-are-borrowing-billions-amid-the-ai-boom-is-this-a-warning-s-8e7faa",
-      "title": "Nvidia, Oracle, and Now SpaceX Are Borrowing Billions Amid the AI Boom. Is This a Warning Sign?",
-      "dek": "Wall Street has found a new way to bet on artificial intelligence (AI): lending money to the companies building it. Over the past few weeks, Nvidia ( NVDA +3.08% ) sold $25 billion of bonds, Oracle ( ORCL +0.60% ) laid out a plan to raise as much as $50 billion this year, and Amazon ( AMZN +3.01% ) ",
-      "url": "https://www.fool.com/investing/2026/06/20/nvidia-oracle-and-now-spacex-are-borrowing-billion/",
-      "source": "The Motley Fool",
-      "sourceType": "external",
-      "image": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F875497%2Fai-debt.jpg&w=1200&op=resize",
-      "publishedAt": "2026-06-21T02:15:59.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "business"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "7b22b82e-bbe3-4e98-ad70-b31daa432417",
-      "slug": "jawi-s-decline-spurs-call-for-revival-93747e",
-      "title": "Jawi's decline spurs call for revival",
-      "dek": "Missing man's body found in rubber plantation after 12 days 21 June 2026, 10:35pm This is generated by AI, we welcome feedback. The body of a 58-year-old man,...",
-      "url": "https://www.nst.com.my/newssummary/1465710",
-      "source": "NST Online",
-      "sourceType": "external",
-      "image": "https://assets.nst.com.my/images/listing-featured/AF68BF2A3F33062C8C80AF5A8DAE8C1B_data_0.jpg",
-      "publishedAt": "2026-06-21T02:06:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "business",
-        "economy"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "da90fb6ee237f9a4",
-      "slug": "5-best-ai-software-stocks-to-buy-according-to-hedge-funds-9bb185",
-      "title": "5 Best AI Software Stocks to Buy According to Hedge Funds",
-      "dek": "In this article, we will list the 5 Best AI Software Stocks to Buy According to Hedge Funds. Please visit 8 Best AI Software Stocks to Buy According to Hedge Funds if you would like to see the extended list and the methodology behind it. 5. Palantir Technologies Inc. (NASDAQ:PLTR) Number of Hedge Fu",
-      "url": "https://www.insidermonkey.com/blog/5-best-ai-software-stocks-to-buy-according-to-hedge-funds-1784639/",
-      "source": "Insider Trading",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/X-Aww_WBcf2CuRrzvCOUxffuSJve4pk33D6AR758Hk8/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/12/11081817/HOLO-insidermonkey-1702300695714.jpg",
-      "publishedAt": "2026-06-21T00:25:01.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "AI"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "f799de6c-2c95-4ca2-8dd4-f3202261b2a3",
-      "slug": "ark-invest-ceo-snaps-up-52-million-in-snowflake-shares-betting-on-ai-driven-cloud-data-p-4456a7",
-      "title": "ARK Invest CEO snaps up $52 million in Snowflake shares, betting on AI-driven cloud data platform momentum",
-      "dek": "Cathie Wood buys $52M of Snowflake as cloud stock surges",
-      "url": "https://eciks.org/9995-23549-cathie-wood-snowflake-52-million-buy",
-      "source": "eciks.org",
-      "sourceType": "external",
-      "image": "https://eciks.org/wp-content/uploads/2026/06/20095-cathie-wood-buys-52m-of-snowflake-as-cloud-stock-surges.jpg-scaled.png",
-      "publishedAt": "2026-06-20T22:37:05.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "finance"
+        "internet security"
       ],
       "priority": 36
     },
