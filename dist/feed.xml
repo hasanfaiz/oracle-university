@@ -6,70 +6,61 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 21:57:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 21:55:24 GMT</lastBuildDate>
     
     <item>
-      <title>Chainlink and Over 10 Korean lenders Push to Kill FX Delays With Real-Time Settlement</title>
-      <link>https://oracle-university.com/stories/chainlink-and-over-10-korean-lenders-push-to-kill-fx-delays-with-real-time-settlement-a01c92/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/chainlink-and-over-10-korean-lenders-push-to-kill-fx-delays-with-real-time-settlement-a01c92/</guid>
-      <pubDate>Tue, 23 Jun 2026 20:18:53 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Chainlink, a coalition of Korean commercial banks, and a 37-member European bank consortium announced Project Pangea on June 23, a working group focused on replacing the global foreign exchange market’s existing T+2 settlement cycle with real-time, stablecoin-based T+0 settlement.</description>
-      <source url="https://news.bitcoin.com/chainlink-and-over-10-korean-lenders-push-to-kill-fx-delays-with-real-time-settlement/">Bitcoin News</source>
+      <title>Micron Technology, Inc. (MU) Is One Of Billionaire David Tepper’s Top AI Stocks</title>
+      <link>https://oracle-university.com/stories/micron-technology-inc-mu-is-one-of-billionaire-david-tepper-s-top-ai-stocks-a2f43b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/micron-technology-inc-mu-is-one-of-billionaire-david-tepper-s-top-ai-stocks-a2f43b/</guid>
+      <pubDate>Wed, 24 Jun 2026 19:11:56 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Memory giant Micron Technology, Inc. (NASDAQ:MU) is a major position in Appaloosa Management’s portfolio. It is also one of the oldest as the fund has held a position since the fourth quarter of 2010.</description>
+      <source url="https://www.insidermonkey.com/blog/micron-technology-inc-mu-is-one-of-billionaire-david-teppers-top-ai-stocks-1788624/">Insider Monkey</source>
     </item>
     <item>
-      <title>Oracle’s 21,000 layoffs help drive its debt-fueled AI investments</title>
-      <link>https://oracle-university.com/stories/oracle-s-21-000-layoffs-help-drive-its-debt-fueled-ai-investments-0e02ea/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-s-21-000-layoffs-help-drive-its-debt-fueled-ai-investments-0e02ea/</guid>
-      <pubDate>Tue, 23 Jun 2026 20:17:38 GMT</pubDate>
+      <title>ChatGPT Reviews RoyalDutchShellPLC.com: A Shell Archive So Relentless It Makes Corporate Comms Look Like a Nap</title>
+      <link>https://oracle-university.com/stories/chatgpt-reviews-royaldutchshellplc-com-a-shell-archive-so-relentless-it-makes-corporate--f9a9b5/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/chatgpt-reviews-royaldutchshellplc-com-a-shell-archive-so-relentless-it-makes-corporate--f9a9b5/</guid>
+      <pubDate>Wed, 24 Jun 2026 15:45:44 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>The growing use of AI contributed to Oracle laying off 21,000 workers in a year, according to a Securities and Exchange Commission filing on Monday.</description>
-      <source url="https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/">Ars Technica</source>
+      <description>ChatGPT image: A vast digital archive room stretching into darkness, packed with Shell files, court papers, old newspaper clippings, leaked documents, AI terminals and a glowing search bar reading “Shell plc”. In the foreground, a weary corporate PR officer tries to hold back a tsunami of documents </description>
+      <source url="https://royaldutchshellplc.com/2026/06/24/chatgpt-reviews-royaldutchshellplc-com-a-shell-archive-so-relentless-it-makes-corporate-comms-look-like-a-nap/">Royal Dutch Shell Plc .com</source>
     </item>
     <item>
-      <title>Here is Why BeOne (ONC) One of the Most Promising Long-Term Stocks to Buy According to Analysts</title>
-      <link>https://oracle-university.com/stories/here-is-why-beone-onc-one-of-the-most-promising-long-term-stocks-to-buy-according-to-ana-b3e360/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/here-is-why-beone-onc-one-of-the-most-promising-long-term-stocks-to-buy-according-to-ana-b3e360/</guid>
-      <pubDate>Tue, 23 Jun 2026 19:23:49 GMT</pubDate>
+      <title>An openly gay pro baseball player speaks out on the SF Giants Pride controversy</title>
+      <link>https://oracle-university.com/stories/an-openly-gay-pro-baseball-player-speaks-out-on-the-sf-giants-pride-controversy-6b235b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/an-openly-gay-pro-baseball-player-speaks-out-on-the-sf-giants-pride-controversy-6b235b/</guid>
+      <pubDate>Wed, 24 Jun 2026 13:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Almost two weeks since Pride Night, the uproar over four San Francisco Giants pitchers protesting the team’s rainbow-themed hats — three by writing a Bible verse from the Book of Genesis, one by refusing to wear the hat at all — shows no sign of dying down.</description>
+      <source url="https://sfstandard.com/2026/06/24/giants-pride-hat-controversry-solomon-bates-gay-baseball-player/">The San Francisco Standard</source>
+    </item>
+    <item>
+      <title>Critical Ubiquiti Vulnerabilities in Attackers’ Crosshairs</title>
+      <link>https://oracle-university.com/stories/critical-ubiquiti-vulnerabilities-in-attackers-crosshairs-d2c8fb/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/critical-ubiquiti-vulnerabilities-in-attackers-crosshairs-d2c8fb/</guid>
+      <pubDate>Wed, 24 Jun 2026 12:32:17 GMT</pubDate>
+      <category>Security</category>
+      <description>Threat actors have been targeting three critical-severity vulnerabilities in Ubiquiti devices, the US cybersecurity agency CISA warns. The exploited flaws, tracked as CVE-2026-34908, CVE-2026-34909, and CVE-2026-34910, with a CVSS score of 10/10, were patched last month.</description>
+      <source url="https://www.securityweek.com/critical-ubiquiti-vulnerabilities-in-attackers-crosshairs/">SecurityWeek</source>
+    </item>
+    <item>
+      <title>Micron Technology (MU) Gains from Insatiable Demand For Computing Power</title>
+      <link>https://oracle-university.com/stories/micron-technology-mu-gains-from-insatiable-demand-for-computing-power-189b63/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/micron-technology-mu-gains-from-insatiable-demand-for-computing-power-189b63/</guid>
+      <pubDate>Wed, 24 Jun 2026 12:23:07 GMT</pubDate>
       <category>Business &amp; Earnings</category>
       <description>When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...</description>
-      <source url="https://www.insidermonkey.com/blog/here-is-why-beone-onc-one-of-the-most-promising-long-term-stocks-to-buy-according-to-analysts-1787981/">Insider Monkey</source>
+      <source url="https://www.insidermonkey.com/blog/micron-technology-mu-gains-from-insatiable-demand-for-computing-power-1788240/">Insider Monkey</source>
     </item>
     <item>
-      <title>Oracle cuts 21,000 workers as part of its massive AI push</title>
-      <link>https://oracle-university.com/stories/oracle-cuts-21-000-workers-as-part-of-its-massive-ai-push-bf06de/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-cuts-21-000-workers-as-part-of-its-massive-ai-push-bf06de/</guid>
-      <pubDate>Tue, 23 Jun 2026 18:52:57 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Oracle’s Larry Ellison delivers the keynote at AI World. The tech giant’s workforce shrank by about 21,000 employees over the past year. In a new filing, the company said AI adoption has contributed to workforce reductions.</description>
-      <source url="https://www.sfchronicle.com/tech/article/oracle-ai-workforce-cuts-22317134.php">San Francisco Chronicle</source>
-    </item>
-    <item>
-      <title>Chainlink and Multinational Banking Consortia Launch Project Pangea To Develop T+0 Settlement Framework for International FX Markets</title>
-      <link>https://oracle-university.com/stories/chainlink-and-multinational-banking-consortia-launch-project-pangea-to-develop-t-0-settl-79c008/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/chainlink-and-multinational-banking-consortia-launch-project-pangea-to-develop-t-0-settl-79c008/</guid>
-      <pubDate>Tue, 23 Jun 2026 17:26:06 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Chainlink has formed a working group alongside several multinational groups, across Europe and South Korea, collectively representing over $10+ trillion in assets under management. This collaborative initiative aims to modernize foreign exchange (FX) infrastructure, with a specific focus on evaluati</description>
-      <source url="https://www.disruptionbanking.com/2026/06/23/chainlink-and-multinational-banking-consortia-launch-project-pangea-to-develop-t0-settlement-framework-for-international-fx-markets/">Disruption Banking</source>
-    </item>
-    <item>
-      <title>Oracle&#39;s SEC Filing Just Ended the &#39;AI Isn&#39;t Killing Jobs&#39; Argument – Sheds 21,000 Employees</title>
-      <link>https://oracle-university.com/stories/oracle-s-sec-filing-just-ended-the-ai-isn-t-killing-jobs-argument-sheds-21-000-employees-93d56f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-s-sec-filing-just-ended-the-ai-isn-t-killing-jobs-argument-sheds-21-000-employees-93d56f/</guid>
-      <pubDate>Tue, 23 Jun 2026 16:27:26 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Oracle’s fiscal 2026 SEC filing ties 21,000 job cuts directly to AI deployment, setting a regulatory precedent</description>
-      <source url="https://www.gadgetreview.com/oracles-sec-filing-just-ended-the-ai-isnt-killing-jobs-argument-sheds-21000-employees">Gadget Review</source>
-    </item>
-    <item>
-      <title>Donald Trump to present World Cup trophy as FIFA deepens crypto partnerships for 2026 tournament</title>
-      <link>https://oracle-university.com/stories/donald-trump-to-present-world-cup-trophy-as-fifa-deepens-crypto-partnerships-for-2026-to-848ef5/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/donald-trump-to-present-world-cup-trophy-as-fifa-deepens-crypto-partnerships-for-2026-to-848ef5/</guid>
-      <pubDate>Tue, 23 Jun 2026 18:29:13 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The 2026 World Cup final will feature an unusual addition to the trophy ceremony: the President of the United States. FIFA President Gianni Infantino confirmed that Donald Trump will attend the final on July 19 at MetLife Stadium and personally hand the trophy to the winning team. That’s a notable b</description>
-      <source url="https://cryptobriefing.com/trump-world-cup-fifa-crypto-partnerships/">Crypto Briefing</source>
+      <title>Hollywood and Big Tech Are Preparing For War</title>
+      <link>https://oracle-university.com/stories/hollywood-and-big-tech-are-preparing-for-war-73dc6e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/hollywood-and-big-tech-are-preparing-for-war-73dc6e/</guid>
+      <pubDate>Wed, 24 Jun 2026 12:05:57 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>A barrage of seemingly unrelated headlines suggest that Hollywood and Big Tech are on a collision course and that the next few years will reshape how the world spends its free time and which platforms will dominate. As tech and AI companies push further into entertainment and media, their stewardshi</description>
+      <source url="https://www.hollywoodreporter.com/business/business-news/hollywood-big-tech-war-entertainment-platforms-1236628274/">The Hollywood Reporter</source>
     </item>
     <item>
       <title>Oracle Sets the Date for its Fourth Quarter Fiscal Year 2026 Earnings Announcement</title>
@@ -99,337 +90,157 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-Second-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>Now we know how much Oracle downsized its head count in the past year — and how much it cost</title>
-      <link>https://oracle-university.com/stories/now-we-know-how-much-oracle-downsized-its-head-count-in-the-past-year-and-how-much-it-co-ae53ac/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/now-we-know-how-much-oracle-downsized-its-head-count-in-the-past-year-and-how-much-it-co-ae53ac/</guid>
-      <pubDate>Tue, 23 Jun 2026 10:41:03 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Oracle has been finding ways to cut costs as it builds out AI infrastructure. NYSE Oracle&#39;s head count has been shrinking as it made layoffs to cut costs — and now there&#39;s a number behind its reduction.</description>
-      <source url="https://www.businessinsider.com/oracle-layoffs-head-count-number-fall-restructuring-cost-2026-6">Business Insider</source>
-    </item>
-    <item>
-      <title>Nepal&#39;s former finance minister arrested for money laundering</title>
-      <link>https://oracle-university.com/stories/nepal-s-former-finance-minister-arrested-for-money-laundering-4372cd/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/nepal-s-former-finance-minister-arrested-for-money-laundering-4372cd/</guid>
-      <pubDate>Tue, 23 Jun 2026 10:24:57 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>MWF hosts Asean weightlifting powwow to discuss Malaysia SEA Games 23 June 2026, 11:24pm This is generated by AI, we welcome feedback. The Malaysia Weightlifting...</description>
-      <source url="https://www.nst.com.my/newssummary/1470659">NST Online</source>
-    </item>
-    <item>
-      <title>Hamzah: Wawasan Negara will strengthen PN&#39;s reform agenda</title>
-      <link>https://oracle-university.com/stories/hamzah-wawasan-negara-will-strengthen-pn-s-reform-agenda-8161b0/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/hamzah-wawasan-negara-will-strengthen-pn-s-reform-agenda-8161b0/</guid>
-      <pubDate>Tue, 23 Jun 2026 10:24:54 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Can anyone break Britain&#39;s PM curse? 23 June 2026, 11:10pm This is generated by AI, we welcome feedback. Keir Starmer&#39;s swift resignation reflects a decade of...</description>
-      <source url="https://www.nst.com.my/newssummary/1470749">NST Online</source>
-    </item>
-    <item>
-      <title>Critical Review: Open Text (NASDAQ:OTEX) &amp; Microsoft (NASDAQ:MSFT)</title>
-      <link>https://oracle-university.com/stories/critical-review-open-text-nasdaq-otex-microsoft-nasdaq-msft-756b46/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/critical-review-open-text-nasdaq-otex-microsoft-nasdaq-msft-756b46/</guid>
-      <pubDate>Tue, 23 Jun 2026 09:47:05 GMT</pubDate>
+      <title>5 AI Stocks Analysts Are Watching: Microsoft, Nvidia, and More</title>
+      <link>https://oracle-university.com/stories/5-ai-stocks-analysts-are-watching-microsoft-nvidia-and-more-286c4b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/5-ai-stocks-analysts-are-watching-microsoft-nvidia-and-more-286c4b/</guid>
+      <pubDate>Wed, 24 Jun 2026 09:20:55 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Open Text (NASDAQ:OTEX – Get Free Report) and Microsoft (NASDAQ:MSFT – Get Free Report) are both computer and technology companies, but which is the superior investment? We will contrast the two companies based on the strength of their earnings, profitability, dividends, institutional ownership, val</description>
-      <source url="https://baseballnewssource.com/2026/06/23/critical-review-open-text-nasdaqotex-microsoft-nasdaqmsft/11164654.html">Bbns</source>
+      <description>In this article, we are going to look at the 5 AI Stocks Analysts Are Watching: Microsoft, Nvidia, and More. For a longer list, you can go to 15 AI Stocks Analysts Are Watching: Microsoft, Nvidia, and More. 5. Apple Inc. (NASDAQ:AAPL) Number of Hedge Fund Holders: 170 Recently, CEO Tim Cook confirme</description>
+      <source url="https://www.insidermonkey.com/blog/5-ai-stocks-analysts-are-watching-microsoft-nvidia-and-more-1788109/">Insider Trading</source>
     </item>
     <item>
-      <title>Alphabet Drops 10% on AI Capex Fears: Memory Chip Rally Reveals a Split Market</title>
-      <link>https://oracle-university.com/stories/alphabet-drops-10-on-ai-capex-fears-memory-chip-rally-reveals-a-split-market-93ec8d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/alphabet-drops-10-on-ai-capex-fears-memory-chip-rally-reveals-a-split-market-93ec8d/</guid>
-      <pubDate>Tue, 23 Jun 2026 09:28:43 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Alphabet stock dropped roughly 10% on June 22 as investors balked at a $180 billion AI capex program with no clear FCF recovery timeline. On the same day, SK Hynix overtook Samsung as South Korea most valuable company, lifted by a high-bandwidth memory shortage that architectural physics and 4-year </description>
-      <source url="https://www.techtimes.com/articles/318889/20260623/alphabet-drops-10-ai-capex-fears-memory-chip-rally-reveals-split-market.htm">Techtimes</source>
-    </item>
-    <item>
-      <title>Oracle Cuts 21,000 Jobs as AI Expansion Reshapes Workforce</title>
-      <link>https://oracle-university.com/stories/oracle-cuts-21-000-jobs-as-ai-expansion-reshapes-workforce-d4b879/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-cuts-21-000-jobs-as-ai-expansion-reshapes-workforce-d4b879/</guid>
-      <pubDate>Tue, 23 Jun 2026 09:27:19 GMT</pubDate>
+      <title>Oracle AI Layoffs, Meta Workforce Cuts, Amazon Restructuring, Microsoft Workforce Changes Signal Global Tech Downsizing Wave in 2026</title>
+      <link>https://oracle-university.com/stories/oracle-ai-layoffs-meta-workforce-cuts-amazon-restructuring-microsoft-workforce-changes-s-eacaaf/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-ai-layoffs-meta-workforce-cuts-amazon-restructuring-microsoft-workforce-changes-s-eacaaf/</guid>
+      <pubDate>Wed, 24 Jun 2026 09:13:51 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Oracle has cut around 21,000 jobs globally over the past year, reducing its workforce by nearly 13% as it shifts focus toward AI infrastructure. The company is investing billions in data centres and cloud services, reflecting a broader tech industry trend of layoffs amid rising AI spending.</description>
-      <source url="https://www.newsbricks.com/technology/oracle-cuts-21000-jobs-ai-expansion-workforce/694846">Newsbricks</source>
+      <description>Oracle has cut about 21,000 jobs as AI adoption and restructuring shrink the workforce 13%, highlighting a wider tech layoffs wave across global companies in 2026.</description>
+      <source url="https://www.ibtimes.sg/oracle-ai-layoffs-meta-workforce-cuts-amazon-restructuring-microsoft-workforce-changes-signal-88452">International Business Times</source>
     </item>
     <item>
-      <title>AI takes jobs again! Oracle makes 21000 layoffs, tech giant spends $1.8 billion in restructuring – Details</title>
-      <link>https://oracle-university.com/stories/ai-takes-jobs-again-oracle-makes-21000-layoffs-tech-giant-spends-1-8-billion-in-restruct-940b87/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-takes-jobs-again-oracle-makes-21000-layoffs-tech-giant-spends-1-8-billion-in-restruct-940b87/</guid>
-      <pubDate>Tue, 23 Jun 2026 09:18:45 GMT</pubDate>
+      <title>The NASDAQ Dropped 3% as Micron, Intel, and AMD Tumble, but One Tech Name Is Bucking the Trend</title>
+      <link>https://oracle-university.com/stories/the-nasdaq-dropped-3-as-micron-intel-and-amd-tumble-but-one-tech-name-is-bucking-the-tre-ffb376/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-nasdaq-dropped-3-as-micron-intel-and-amd-tumble-but-one-tech-name-is-bucking-the-tre-ffb376/</guid>
+      <pubDate>Wed, 24 Jun 2026 16:54:48 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Tech layoffs 2026: Job cuts due to AI has become a norm as Oracle reported that it has cut 21000 jobs last year.</description>
-      <source url="https://www.etnownews.com/technology/ai-takes-jobs-again-oracle-makes-21000-layoffs-tech-giant-spends-1-8-billion-in-restructuring-details-article-154734593">Et Now</source>
+      <description>CNBC’s Dominic Chu opened Tuesday’s market coverage with a familiar tape pattern that has not shown up much in 2026. “The tech sell-off that began Monday building momentum this morning after memory chip related shares tanked on Asian markets overnight,” Chu told viewers, and damage in U.S. premarket</description>
+      <source url="https://247wallst.com/investing/2026/06/24/the-nasdaq-dropped-3-as-micron-intel-and-amd-tumble-but-one-tech-name-is-bucking-the-trend/">24/7 Wall St.</source>
     </item>
     <item>
-      <title>Oracle Cuts 21,000 Jobs as AI Push Reshapes Business</title>
-      <link>https://oracle-university.com/stories/oracle-cuts-21-000-jobs-as-ai-push-reshapes-business-7a81ab/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-cuts-21-000-jobs-as-ai-push-reshapes-business-7a81ab/</guid>
-      <pubDate>Tue, 23 Jun 2026 09:17:13 GMT</pubDate>
+      <title>Pharmacovigilance Automation Market Size to Reach USD 5.25 Billion by 2035 | SNS Insider</title>
+      <link>https://oracle-university.com/stories/pharmacovigilance-automation-market-size-to-reach-usd-5-25-billion-by-2035-sns-insider-6b1888/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/pharmacovigilance-automation-market-size-to-reach-usd-5-25-billion-by-2035-sns-insider-6b1888/</guid>
+      <pubDate>Wed, 24 Jun 2026 08:30:00 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Oracle has cut around 21,000 jobs globally in fiscal 2026 as the technology giant restructures its business around artificial intelligence and cloud computing. According to the company’s latest annual report, its workforce declined by 13 per cent, falling from about 1,62,000 employees a year ago to </description>
-      <source url="https://thecsrjournal.in/oracle-cuts-21000-jobs-as-ai-push-reshapes-business/">The Csr Journal</source>
+      <description>The U.S. Pharmacovigilance Automation Market is projected to grow from USD 0.94 Billion in 2025 to USD 1.52 Billion by 2035, while Europe is expected to expand from USD 0.34 Billion to USD 1.92 Billion, supported by increasing AI adoption, stringent drug safety regulations, and rising adverse event </description>
+      <source url="https://www.globenewswire.com/news-release/2026/06/24/3316620/0/en/Pharmacovigilance-Automation-Market-Size-to-Reach-USD-5-25-Billion-by-2035-SNS-Insider.html">Globe Newswire</source>
     </item>
     <item>
-      <title>Latest EnterpriseDB features unify data for AI development</title>
-      <link>https://oracle-university.com/stories/latest-enterprisedb-features-unify-data-for-ai-development-b2f8a3/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/latest-enterprisedb-features-unify-data-for-ai-development-b2f8a3/</guid>
-      <pubDate>Tue, 23 Jun 2026 09:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>EnterpriseDB is unifying data for AI. Myriad obstacles stall AI development projects, and data sprawl -- including disparate data types and data stored in disconnected systems – along with the complexity and cost of building and managing pipelines to connect data, are among them. EnterpriseDB is att</description>
-      <source url="https://www.techtarget.com/searchdatamanagement/news/366644962/Latest-EnterpriseDB-features-unify-data-for-AI-development">Techtarget</source>
-    </item>
-    <item>
-      <title>Oracle Cuts 21,000 Jobs Amid Global AI Adoption</title>
-      <link>https://oracle-university.com/stories/oracle-cuts-21-000-jobs-amid-global-ai-adoption-a85654/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-cuts-21-000-jobs-amid-global-ai-adoption-a85654/</guid>
-      <pubDate>Tue, 23 Jun 2026 08:55:24 GMT</pubDate>
+      <title>Pipefy Announces New Executives to Lead the Global Expansion of Partnerships and Strategic Alliances</title>
+      <link>https://oracle-university.com/stories/pipefy-announces-new-executives-to-lead-the-global-expansion-of-partnerships-and-strateg-4462e2/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/pipefy-announces-new-executives-to-lead-the-global-expansion-of-partnerships-and-strateg-4462e2/</guid>
+      <pubDate>Wed, 24 Jun 2026 08:11:09 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Worries are quickly mounting over job losses due to AI disruption, as 196 ‌tech ⁠companies have laid off more than 119,800 employees so far this year, according to Layoffs. fyi, a website tracking sector-wide job cuts. The post Oracle Cuts 21,000 Jobs Amid Global AI Adoption appeared first on Channe</description>
-      <source url="https://www.channelstv.com/2026/06/23/oracle-cuts-21000-jobs-amid-global-ai-adoption/">Channels Television</source>
+      <description>Sandro Guedes appointed Global Director of Partnerships and Adriano Galvao to VP of Global Strategic Alliances Pipefy, a global leader in AI-driven business process orchestration, announced that Sandro Guedes was named Global Director of Partnerships and Adriano Galvão to Vice President of Global S</description>
+      <source url="https://salestechstar.com/scheduling-appointment-setting/pipefy-announces-new-executives-to-lead-the-global-expansion-of-partnerships-and-strategic-alliances/">Salestech Star</source>
     </item>
     <item>
-      <title>CAT stock hits $1,000 on AI demand: Here are two other stocks powering the boom</title>
-      <link>https://oracle-university.com/stories/cat-stock-hits-1-000-on-ai-demand-here-are-two-other-stocks-powering-the-boom-c4eca1/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cat-stock-hits-1-000-on-ai-demand-here-are-two-other-stocks-powering-the-boom-c4eca1/</guid>
-      <pubDate>Tue, 23 Jun 2026 08:37:06 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>The artificial intelligence boom has created enormous wealth for chipmakers and cloud computing giants. Yet some of the stock market&#39;s biggest winners this year have been companies selling products that look more at home in industrial equipment catalogues than in Silicon Valley. Shares of Caterpilla</description>
-      <source url="https://invezz.com/news/2026/06/23/cat-stock-hits-1000-on-ai-demand-here-are-two-other-stocks-powering-the-boom/">Invezz</source>
-    </item>
-    <item>
-      <title>Energy Transfer (ET) Enter Multiple New Agreements Through Affiliates</title>
-      <link>https://oracle-university.com/stories/energy-transfer-et-enter-multiple-new-agreements-through-affiliates-b329f0/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/energy-transfer-et-enter-multiple-new-agreements-through-affiliates-b329f0/</guid>
-      <pubDate>Tue, 23 Jun 2026 08:35:58 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Energy Transfer LP (NYSE:ET) is one of the 10 Cheap Jim Cramer Stocks to Invest In Right Now. On June 4, 2026, Energy Transfer LP (NYSE:ET) entered into multiple gas supply and natural gas liquid (NGL) agreements through its affiliates with Matador Resources Company. With this agreement, Matador aim</description>
-      <source url="https://www.insidermonkey.com/blog/energy-transfer-et-enter-multiple-new-agreements-through-affiliates-1787263/">Insider Trading</source>
-    </item>
-    <item>
-      <title>Micros SA is a new Oracle NetSuite reseller</title>
-      <link>https://oracle-university.com/stories/micros-sa-is-a-new-oracle-netsuite-reseller-b56b7c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/micros-sa-is-a-new-oracle-netsuite-reseller-b56b7c/</guid>
-      <pubDate>Tue, 23 Jun 2026 08:20:34 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Micros South Africa has been appointed as an official NetSuite reseller partner, expanding its cloud ERP offering for local businesses looking to modernise finance, inventory, order management, CRM and supply chain operations. The appointment enables Micros South Africa to offer Oracle NetSuite’s cl</description>
-      <source url="https://it-online.co.za/2026/06/23/micros-sa-is-a-new-oracle-netsuite-reseller/">It-online</source>
-    </item>
-    <item>
-      <title>Oracle Layoffs: Firm Cuts 21,000 Jobs As AI Reshapes Operations, Signals More Workforce Changes Ahead</title>
-      <link>https://oracle-university.com/stories/oracle-layoffs-firm-cuts-21-000-jobs-as-ai-reshapes-operations-signals-more-workforce-ch-94b6ff/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-layoffs-firm-cuts-21-000-jobs-as-ai-reshapes-operations-signals-more-workforce-ch-94b6ff/</guid>
-      <pubDate>Tue, 23 Jun 2026 07:50:56 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Oracle cut approximately 21,000 jobs globally in fiscal 2026, reducing its workforce by 13% as it accelerates investments in artificial intelligence and cloud computing. The company said AI deployment has already contributed to workforce reductions and may lead to more job cuts. Oracle is simultaneo</description>
-      <source url="https://www.latestly.com/business/oracle-layoffs-firm-cuts-21000-jobs-as-ai-reshapes-operations-signals-more-workforce-changes-ahead-7486070.html">Latestly</source>
-    </item>
-    <item>
-      <title>Oracle Workforce Shrinks by 21,000 Employees Amid Growing AI Use</title>
-      <link>https://oracle-university.com/stories/oracle-workforce-shrinks-by-21-000-employees-amid-growing-ai-use-b32716/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-workforce-shrinks-by-21-000-employees-amid-growing-ai-use-b32716/</guid>
-      <pubDate>Tue, 23 Jun 2026 07:18:47 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Oracle cuts 21,000 jobs as AI adoption reshapes operations, with more workforce reductions possible in the future. Oracle revealed that AI-driven operational changes contributed to a workforce reduction of around 21,000 employees over the past year.</description>
-      <source url="https://in.mashable.com/tech/111222/oracle-workforce-shrinks-by-21000-employees-amid-growing-ai-use">In Mashable</source>
-    </item>
-    <item>
-      <title>Trimming the Enterprise Ledger: How the Oracle AI Workforce Reduction 2026 Funds Data Centers</title>
-      <link>https://oracle-university.com/stories/trimming-the-enterprise-ledger-how-the-oracle-ai-workforce-reduction-2026-funds-data-cen-1a8944/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/trimming-the-enterprise-ledger-how-the-oracle-ai-workforce-reduction-2026-funds-data-cen-1a8944/</guid>
-      <pubDate>Tue, 23 Jun 2026 07:12:39 GMT</pubDate>
+      <title>Oracle Cut 21,000 Jobs In 12 Months, Says AI Replaced Some Roles</title>
+      <link>https://oracle-university.com/stories/oracle-cut-21-000-jobs-in-12-months-says-ai-replaced-some-roles-85831b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-cut-21-000-jobs-in-12-months-says-ai-replaced-some-roles-85831b/</guid>
+      <pubDate>Wed, 24 Jun 2026 07:59:16 GMT</pubDate>
       <category>Oracle Cloud</category>
-      <description>The software giant spends $1.84 billion on severance packages as corporate planners redirect legacy payroll funds into debt-backed OpenAI and Meta supercomputing infrastructure. The structural realities separating long-term corporate headcount investments from high-end automated computing power have</description>
-      <source url="https://www.businessleague.in/trimming-the-enterprise-ledger-how-the-oracle-ai-workforce-reduction-2026-funds-data-centers/">Business League - Financial Experts</source>
+      <description>Oracle is under financial pressure because of an expensive build-out of AI data centers for customers like OpenAI.</description>
+      <source url="https://www.deccanchronicle.com/technology/in-other-news/oracle-cut-21000-jobs-in-12-months-says-ai-replaced-some-roles-1965888">Deccan Chronicle</source>
     </item>
     <item>
-      <title>Oracle workforce falls by 21,000 amid AI adoption push</title>
-      <link>https://oracle-university.com/stories/oracle-workforce-falls-by-21-000-amid-ai-adoption-push-624a24/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-workforce-falls-by-21-000-amid-ai-adoption-push-624a24/</guid>
-      <pubDate>Tue, 23 Jun 2026 06:55:02 GMT</pubDate>
+      <title>The Brazilian Strategist Helping Global Companies Build Safer, More Trustworthy Artificial Intelligence</title>
+      <link>https://oracle-university.com/stories/the-brazilian-strategist-helping-global-companies-build-safer-more-trustworthy-artificia-ca69c1/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-brazilian-strategist-helping-global-companies-build-safer-more-trustworthy-artificia-ca69c1/</guid>
+      <pubDate>Wed, 24 Jun 2026 07:01:45 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Oracle has cut around 21,000 jobs in the past year, citing the impact of artificial intelligence on workforce needs. The company’s latest filing shows declining headcount even as it invests heavily in AI infrastructure and expands cloud competition globally</description>
-      <source url="https://telanganatoday.com/oracle-workforce-falls-by-21000-amid-ai-adoption-push">Telangana Today</source>
+      <description>Luciano Ferreira: Brazilian Data Governance and AI specialist works on regulatory compliance projects for organizations across the Americas, Europe, and the Middle East, at a moment when the world is racing to regulate the use of artificial intelligence. Luciano Ferreira, a Brazilian data and artifi</description>
+      <source url="https://techbullion.com/the-brazilian-strategist-helping-global-companies-build-safer-more-trustworthy-artificial-intelligence/">Techbullion</source>
     </item>
     <item>
-      <title>#SHOWBIZ: BTS&#39; &#39;Arirang&#39; dominates mid-year &#39;Best Album&#39; lists globally</title>
-      <link>https://oracle-university.com/stories/showbiz-bts-arirang-dominates-mid-year-best-album-lists-globally-96ed48/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/showbiz-bts-arirang-dominates-mid-year-best-album-lists-globally-96ed48/</guid>
-      <pubDate>Tue, 23 Jun 2026 06:48:06 GMT</pubDate>
+      <title>Oracle (NYSE: ORCL) Holds $638 Billion Backlog As Stock Selloff Creates Rare Entry Point</title>
+      <link>https://oracle-university.com/stories/oracle-nyse-orcl-holds-638-billion-backlog-as-stock-selloff-creates-rare-entry-point-a2d3a3/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-nyse-orcl-holds-638-billion-backlog-as-stock-selloff-creates-rare-entry-point-a2d3a3/</guid>
+      <pubDate>Wed, 24 Jun 2026 06:10:11 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Oracle (NYSE: ORCL) has shed 29.45% of its value since June 1, triggering alarm across the financial press while quietly presenting one of the more compelling infrastructure investment cases in the current AI cycle. The company occupies what analysts increasingly describe as the toll booth position </description>
+      <source url="https://equity-insider.com/oracle-nyse-orcl-holds-638-billion-backlog-as-stock-selloff-creates-rare-entry-point/">Equity Insider</source>
+    </item>
+    <item>
+      <title>&quot;Plan to save KSh 85b&quot;: Nairobi-based international company cuts 550 jobs</title>
+      <link>https://oracle-university.com/stories/plan-to-save-ksh-85b-nairobi-based-international-company-cuts-550-jobs-b34bc5/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/plan-to-save-ksh-85b-nairobi-based-international-company-cuts-550-jobs-b34bc5/</guid>
+      <pubDate>Wed, 24 Jun 2026 06:06:58 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>The job cuts were communicated to employees via email by BBC News&#39;s interim CEO, Jonathan Munro The BBC, which employs around 21,500 full-time staff, relies largely on the TV licence fee for its revenue However, in recent years, declining TV licence sales have put pressure on its funding model</description>
+      <source url="https://www.tuko.co.ke/business-economy/economy/630517-nairobi-based-international-company-cuts-550-jobs-save-ksh-85b/">Tuko News</source>
+    </item>
+    <item>
+      <title>Bitcoin Moves Markets. But CandyChain Is Building for the Next Market Cycle</title>
+      <link>https://oracle-university.com/stories/bitcoin-moves-markets-but-candychain-is-building-for-the-next-market-cycle-eace70/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/bitcoin-moves-markets-but-candychain-is-building-for-the-next-market-cycle-eace70/</guid>
+      <pubDate>Wed, 24 Jun 2026 05:49:36 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Johor polls: Sanusi dismisses BN logo rumour 23 June 2026, 9:45pm This is generated by AI, we welcome feedback. Perikatan Nasional will contest the Johor state...</description>
-      <source url="https://www.nst.com.my/newssummary/1470593">NST Online</source>
+      <description>Open any crypto group chats this month, and you&#39;ll find the same conversation looping over and over: is this the bottom, is rotation finally coming, will altcoins ever wake up? Bitcoin&#39;s been bouncing between roughly $60,000 and $65,000, dominance is</description>
+      <source url="https://www.openpr.com/news/4559252/bitcoin-moves-markets-but-candychain-is-building-for-the-next">Openpr.com</source>
+    </item>
+    <item>
+      <title>Cloud Gaming Technology Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2035</title>
+      <link>https://oracle-university.com/stories/cloud-gaming-technology-market-analysis-by-application-type-technology-and-geography-glo-c0e70f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-gaming-technology-market-analysis-by-application-type-technology-and-geography-glo-c0e70f/</guid>
+      <pubDate>Wed, 24 Jun 2026 05:47:41 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The Cloud Gaming Technology Market reached a valuation of 13.36 billion in 2026 and is anticipated to expand at a CAGR of 15.2% during the forecast period from 2026 to 2035, ultimately attaining an estimated value of 41.45 billion by</description>
+      <source url="https://www.openpr.com/news/4559249/cloud-gaming-technology-market-analysis-by-application-type">Openpr.com</source>
+    </item>
+    <item>
+      <title>Plm Software Professional Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2035</title>
+      <link>https://oracle-university.com/stories/plm-software-professional-market-analysis-by-application-type-technology-and-geography-g-a8ec68/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/plm-software-professional-market-analysis-by-application-type-technology-and-geography-g-a8ec68/</guid>
+      <pubDate>Wed, 24 Jun 2026 05:45:23 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The Plm Software Professional Market reached a valuation of 15.12 billion in 2026 and is anticipated to expand at a CAGR of 11.69% during the forecast period from 2026 to 2035, ultimately attaining an estimated value of 36.62 billion by</description>
+      <source url="https://www.openpr.com/news/4559247/plm-software-professional-market-analysis-by-application">Openpr.com</source>
+    </item>
+    <item>
+      <title>Oracle&#39;s billionaire boss FINALLY discloses the extent of his job slashing carnage: 13% of the company&#39;s staff have been laid off over the last year</title>
+      <link>https://oracle-university.com/stories/oracle-s-billionaire-boss-finally-discloses-the-extent-of-his-job-slashing-carnage-13-of-fdc995/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-s-billionaire-boss-finally-discloses-the-extent-of-his-job-slashing-carnage-13-of-fdc995/</guid>
+      <pubDate>Wed, 24 Jun 2026 04:30:39 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Oracle has quietly disclosed MASSIVE job cuts from the last year, equal to 21,000 jobs or 13% of the tech giant&#39;s staff.</description>
+      <source url="https://www.dailymail.com/yourmoney/article-15923997/oracle-larry-ellison-job-cuts-ai.html">Mail Online</source>
     </item>
     <item>
       <title>Oracle cuts 21,000 jobs in a year, cites AI-driven workforce reductions</title>
-      <link>https://oracle-university.com/stories/oracle-cuts-21-000-jobs-in-a-year-cites-ai-driven-workforce-reductions-2e2938/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-cuts-21-000-jobs-in-a-year-cites-ai-driven-workforce-reductions-2e2938/</guid>
-      <pubDate>Tue, 23 Jun 2026 06:42:22 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Oracle Corporation reports a global workforce reduction of 21,000 employees as it accelerates AI adoption and infrastructure investment. Learn how Oracle’s strategic shift towards AI integration and massive data center expansion is reshaping its workforce requirements and operational focus in 2026.</description>
-      <source url="https://www.thehansindia.com/tech/oracle-cuts-21000-jobs-in-a-year-cites-ai-driven-workforce-reductions-1089449">The Hans India</source>
-    </item>
-    <item>
-      <title>Oracle says AI adoption contributed to workforce reduction of 21,000 employees</title>
-      <link>https://oracle-university.com/stories/oracle-says-ai-adoption-contributed-to-workforce-reduction-of-21-000-employees-eb1738/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-says-ai-adoption-contributed-to-workforce-reduction-of-21-000-employees-eb1738/</guid>
-      <pubDate>Tue, 23 Jun 2026 06:38:33 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>New Delhi: Oracle Corp. -- a global technology company that reduced its workforce by around 21,000 employees over the past 12 months -- has acknowledged that the adoption of artificial intelligence (AI) technologies contributed to some of the job cuts. In its annual financial regulatory filing, the </description>
-      <source url="https://sambadenglish.com/tech/oracle-says-ai-adoption-contributed-to-workforce-reduction-of-21000-employees-12064573">Sambad English</source>
-    </item>
-    <item>
-      <title>Oracle Cuts 21,000 Jobs, Cites AI Impact on Workforce</title>
-      <link>https://oracle-university.com/stories/oracle-cuts-21-000-jobs-cites-ai-impact-on-workforce-4768c0/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-cuts-21-000-jobs-cites-ai-impact-on-workforce-4768c0/</guid>
-      <pubDate>Tue, 23 Jun 2026 06:05:51 GMT</pubDate>
+      <link>https://oracle-university.com/stories/oracle-cuts-21-000-jobs-in-a-year-cites-ai-driven-workforce-reductions-11aed7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-cuts-21-000-jobs-in-a-year-cites-ai-driven-workforce-reductions-11aed7/</guid>
+      <pubDate>Wed, 24 Jun 2026 03:27:18 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Oracle slashes 21,000 jobs in a year, citing AI-driven reductions. The tech giant&#39;s workforce dropped to 141,000 as restructuring costs hit $1.8 billion.</description>
-      <source url="https://www.newkerala.com/news/a/oracle-cuts-21000-jobs-year-cites-ai-driven-workforce-751.htm">Newkerala.com</source>
+      <description>The layoffs resulted in restructuring costs of approximately $1.8 billion. Despite the job reductions, Oracle continues to invest heavily in AI infrastructure and data centres to support growing demand from customers, including OpenAI. The disclosure highlights the increasing impact of AI on employm</description>
+      <source url="https://www.ibtimes.co.in/oracle-cuts-21000-jobs-year-cites-ai-driven-workforce-reductions-903221">International Business Times</source>
     </item>
     <item>
-      <title>Oracle Slashes 21,000 Jobs as Tech Giant Warns of Further AI</title>
-      <link>https://oracle-university.com/stories/oracle-slashes-21-000-jobs-as-tech-giant-warns-of-further-ai-a3523d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-slashes-21-000-jobs-as-tech-giant-warns-of-further-ai-a3523d/</guid>
-      <pubDate>Tue, 23 Jun 2026 05:39:02 GMT</pubDate>
+      <title>Petronas makes new gas find at Suriname offshore block, discoveries equivalent to 1bil barrels</title>
+      <link>https://oracle-university.com/stories/petronas-makes-new-gas-find-at-suriname-offshore-block-discoveries-equivalent-to-1bil-ba-29d21c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/petronas-makes-new-gas-find-at-suriname-offshore-block-discoveries-equivalent-to-1bil-ba-29d21c/</guid>
+      <pubDate>Wed, 24 Jun 2026 02:05:37 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Oracle has cut 21,000 jobs, slashing 13% of its global workforce, as it pivots aggressively to AI and cloud computing. The company is spending $1.84 billion on severance and restructuring, and plans $70 billion in capital expenditure funded by $40 billion in new debt and equity to build AI data cent</description>
-      <source url="https://www.outlookbusiness.com/corporate/oracle-slashes-21000-jobs-as-tech-giant-warns-of-further-ai-driven-cuts">Outlook Business</source>
+      <description>No adverse effects on Iran despite &#39;pragmatists&#39; vs &#39;hardliners&#39; rivalry 24 June 2026, 5:13pm This is generated by AI, we welcome feedback. Factional divisions and...</description>
+      <source url="https://www.nst.com.my/newssummary/1471235">NST Online</source>
     </item>
     <item>
-      <title>Oracle Layoffs 2026: Is AI Replacing Workers at Oracle? What Tech Giant’s 21,000 Job Cuts Mean for Employees</title>
-      <link>https://oracle-university.com/stories/oracle-layoffs-2026-is-ai-replacing-workers-at-oracle-what-tech-giant-s-21-000-job-cuts--1cdecc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-layoffs-2026-is-ai-replacing-workers-at-oracle-what-tech-giant-s-21-000-job-cuts--1cdecc/</guid>
-      <pubDate>Tue, 23 Jun 2026 05:30:24 GMT</pubDate>
+      <title>AlmaLinux 9.2 Achieves International Common Criteria Security Certification in Japan</title>
+      <link>https://oracle-university.com/stories/almalinux-9-2-achieves-international-common-criteria-security-certification-in-japan-17edbf/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/almalinux-9-2-achieves-international-common-criteria-security-certification-in-japan-17edbf/</guid>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>IEC 15408) in Japan, an internationally recognized standard for evaluating the security functions of IT</description>
+      <source url="https://www.einpresswire.com/article/921646232/almalinux-9-2-achieves-international-common-criteria-security-certification-in-japan">Ein Presswire</source>
+    </item>
+    <item>
+      <title>Oracle reveals 21,000 layoffs in last year were due to AI</title>
+      <link>https://oracle-university.com/stories/oracle-reveals-21-000-layoffs-in-last-year-were-due-to-ai-80cee0/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-reveals-21-000-layoffs-in-last-year-were-due-to-ai-80cee0/</guid>
+      <pubDate>Tue, 23 Jun 2026 22:27:59 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Oracle Job Cuts 2026: The tech giant has cut 21,000 jobs as it doubles down on artificial intelligence and cloud computing. Here&#39;s why the tech giant is reshaping its workforce and what it means for the future of work. The post Oracle Layoffs 2026: Is AI Replacing Workers at Oracle? What Tech Giant’</description>
-      <source url="https://sundayguardianlive.com/tech-news/oracle-layoffs-2026-is-ai-replacing-workers-at-oracle-what-tech-giants-21000-job-cuts-mean-for-employees-211661/">The Sunday Guardian</source>
-    </item>
-    <item>
-      <title>Oracle cuts 21,000 jobs in 12 months as AI replaces roles across operations</title>
-      <link>https://oracle-university.com/stories/oracle-cuts-21-000-jobs-in-12-months-as-ai-replaces-roles-across-operations-599615/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-cuts-21-000-jobs-in-12-months-as-ai-replaces-roles-across-operations-599615/</guid>
-      <pubDate>Tue, 23 Jun 2026 05:13:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Oracle has cut around 21,000 jobs over the past year, reducing its global workforce by nearly 13% as artificial intelligence reshapes its operations. The company said AI adoption has already led to workforce reductions and may result in more job cuts in the future.</description>
-      <source url="https://www.news9live.com/technology/tech-news/oracle-cuts-21000-jobs-in-12-months-as-ai-replaces-roles-across-operations-2982753">News9live</source>
-    </item>
-    <item>
-      <title>Oracle cuts 21,000 jobs as AI transformation accelerates</title>
-      <link>https://oracle-university.com/stories/oracle-cuts-21-000-jobs-as-ai-transformation-accelerates-561575/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-cuts-21-000-jobs-as-ai-transformation-accelerates-561575/</guid>
-      <pubDate>Tue, 23 Jun 2026 04:57:16 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Tech giant Oracle has cut approximately 21,000 jobs worldwide, representing about 13 percent of its workforce The post Oracle cuts 21,000 jobs as AI transformation accelerates appeared first on Connected to India News I Singapore l UAE l UK l USA l NRI .</description>
-      <source url="https://www.connectedtoindia.com/oracle-cuts-21000-jobs-as-ai-transformation-accelerates/">Connected To India</source>
-    </item>
-    <item>
-      <title>AI Rewrites Oracle: 21,000 Jobs Cut As Cloud Wars Turn Fiercer, Tech Giants Double Down On Automation, Layoffs Signal New Rules; Will More People Lose Jobs To AI?</title>
-      <link>https://oracle-university.com/stories/ai-rewrites-oracle-21-000-jobs-cut-as-cloud-wars-turn-fiercer-tech-giants-double-down-on-e1ad3d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-rewrites-oracle-21-000-jobs-cut-as-cloud-wars-turn-fiercer-tech-giants-double-down-on-e1ad3d/</guid>
-      <pubDate>Tue, 23 Jun 2026 04:49:27 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Oracle cuts 21,000 jobs as AI reshapes the workforce, signaling a major shift in the tech industry. The company’s restructuring reflects rising severance costs, cloud competition, and rapid AI adoption, while global tech giants continue heavy investment in artificial intelligence despite widespread </description>
-      <source url="https://www.newsx.com/business/ai-rewrites-oracle-layoffs-21000-jobs-cut-as-cloud-wars-turn-fiercer-tech-giants-double-down-on-automation-layoffs-signal-new-rules-will-more-people-lose-jobs-to-ai-239614/">NewsX</source>
-    </item>
-    <item>
-      <title>CARE Ghana calls for Ghana Card to become sole ID for voting</title>
-      <link>https://oracle-university.com/stories/care-ghana-calls-for-ghana-card-to-become-sole-id-for-voting-2d9452/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/care-ghana-calls-for-ghana-card-to-become-sole-id-for-voting-2d9452/</guid>
-      <pubDate>Tue, 23 Jun 2026 04:37:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Care for Free and Fair Elections Ghana (CARE Ghana) has called for the adoption of the Ghana Card as the sole identification document for voting in all public elections and referenda in the country.</description>
-      <source url="https://www.myjoyonline.com/care-ghana-calls-for-ghana-card-to-become-sole-id-for-voting/">Myjoyonline</source>
-    </item>
-    <item>
-      <title>Nasdaq tipped for steep fall amidst &#39;rotation not liquidation&#39; in tech</title>
-      <link>https://oracle-university.com/stories/nasdaq-tipped-for-steep-fall-amidst-rotation-not-liquidation-in-tech-cd00cb/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/nasdaq-tipped-for-steep-fall-amidst-rotation-not-liquidation-in-tech-cd00cb/</guid>
-      <pubDate>Tue, 23 Jun 2026 14:54:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>11:55am: SpaceX moves higher SpaceX Corp (NASDAQ:SPCX) ( SpaceX Corp (NASDAQ:SPCX) ) shares rose 2.5% on Tuesday, offering a partial reprieve after a brutal two-day selloff that wiped more than $600 billion from the rocket and satellite company&#39;s market value and marked one of the most dramatic reve</description>
-      <source url="https://www.proactiveinvestors.com/companies/news/1094335/nasdaq-tipped-for-steep-fall-amidst-rotation-not-liquidation-in-tech-1094335.html">Proactive financial news</source>
-    </item>
-    <item>
-      <title>Oracle sheds 21,000 employees while ramping up AI investments</title>
-      <link>https://oracle-university.com/stories/oracle-sheds-21-000-employees-while-ramping-up-ai-investments-bc1ac2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-sheds-21-000-employees-while-ramping-up-ai-investments-bc1ac2/</guid>
-      <pubDate>Tue, 23 Jun 2026 02:41:18 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The cloud-computing firm spent $1.84 billion on severance and exit costs while pursuing major data-center investments and expansion plans.</description>
-      <source url="https://indianexpress.com/article/technology/artificial-intelligence/oracle-sheds-21000-employees-while-ramping-up-ai-investments-10752739/">The Indian Express</source>
-    </item>
-    <item>
-      <title>Oracle Cuts 21,000 Jobs in One Year, Blames AI For at Least Some</title>
-      <link>https://oracle-university.com/stories/oracle-cuts-21-000-jobs-in-one-year-blames-ai-for-at-least-some-e1cc8f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-cuts-21-000-jobs-in-one-year-blames-ai-for-at-least-some-e1cc8f/</guid>
-      <pubDate>Tue, 23 Jun 2026 01:11:48 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Over the past year, Oracle has cut 21,000 jobs, according to an SEC filing. Part of the reason is apparently AI.</description>
-      <source url="https://gizmodo.com/oracle-cuts-21000-jobs-in-one-year-blames-ai-for-at-least-some-2000775677">Gizmodo</source>
-    </item>
-    <item>
-      <title>GLCs need stronger checks on public funds: Economists [WATCH]</title>
-      <link>https://oracle-university.com/stories/glcs-need-stronger-checks-on-public-funds-economists-watch-e9a55c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/glcs-need-stronger-checks-on-public-funds-economists-watch-e9a55c/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:37:16 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>HSS Holdings eyes expansion in Asia to capture rising demand for Malaysian baked goods 23 June 2026, 11:09am This is generated by AI, we welcome feedback. HSS...</description>
-      <source url="https://www.nst.com.my/newssummary/1470342">NST Online</source>
-    </item>
-    <item>
-      <title>Draper makes winning return at Eastbourne with Murray on his side</title>
-      <link>https://oracle-university.com/stories/draper-makes-winning-return-at-eastbourne-with-murray-on-his-side-f20ca1/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/draper-makes-winning-return-at-eastbourne-with-murray-on-his-side-f20ca1/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:37:16 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Worker loses finger, manufacturer fined RM20,000 23 June 2026, 10:43am This is generated by AI, we welcome feedback. A manufacturing company received a fine after...</description>
-      <source url="https://www.nst.com.my/newssummary/1470346">NST Online</source>
-    </item>
-    <item>
-      <title>Oracle workforce shrinks by about 21,000 employees amid AI adoption</title>
-      <link>https://oracle-university.com/stories/oracle-workforce-shrinks-by-about-21-000-employees-amid-ai-adoption-605ce4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-workforce-shrinks-by-about-21-000-employees-amid-ai-adoption-605ce4/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:21:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>June 22 (Reuters) - Oracle&#39;s ⁠total workforce declined 13%, or about 21,000 ⁠employees in fiscal 2026, as the cloud computing ‌giant continued restructuring its business, partly driven by the adoption of AI across its operations.</description>
-      <source url="https://www.thestar.com.my/tech/tech-news/2026/06/23/oracle-workforce-shrinks-by-about-13">The Star</source>
-    </item>
-    <item>
-      <title>Lanka engages UAE business leaders to promote Port City as South Asian gateway</title>
-      <link>https://oracle-university.com/stories/lanka-engages-uae-business-leaders-to-promote-port-city-as-south-asian-gateway-e9ba0d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/lanka-engages-uae-business-leaders-to-promote-port-city-as-south-asian-gateway-e9ba0d/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:02:32 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>(Constructiononline) The Embassy of Sri Lanka in the United Arab Emirates and the Consulate General of Sri Lanka in Dubai and the Northern Emirates, in collaboration with Colombo Port City Economic Commission and CHEC Port City Colombo Pvt. Ltd., hosted Globalisation and the Sri Lankan Opportunity –</description>
-      <source url="http://island.lk/lanka-engages-uae-business-leaders-to-promote-port-city-as-south-asian-gateway/">The Island</source>
-    </item>
-    <item>
-      <title>💻 Multiple IT Openings in Phoenix — $60K–$150K+ Opportunities</title>
-      <link>https://oracle-university.com/stories/multiple-it-openings-in-phoenix-60k-150k-opportunities-222315/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/multiple-it-openings-in-phoenix-60k-150k-opportunities-222315/</guid>
-      <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Phoenix’s tech scene is buzzing right now, with roles ranging from AI and cloud to hands-on data center work. Whether you’re a seasoned engineer or just st</description>
-      <source url="https://www.newsbreak.com/phoenix-az-daily-brief-373176511/4726772019437-multiple-it-openings-in-phoenix-60k-150k-opportunities">Newsbreak</source>
-    </item>
-    <item>
-      <title>Oracle cut 21,000 jobs in 12 months, says AI replaced some roles</title>
-      <link>https://oracle-university.com/stories/oracle-cut-21-000-jobs-in-12-months-says-ai-replaced-some-roles-3a5a0b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-cut-21-000-jobs-in-12-months-says-ai-replaced-some-roles-3a5a0b/</guid>
-      <pubDate>Mon, 22 Jun 2026 23:34:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Oracle reduced its workforce by 21,000 employees in the past 12 months , a wider scale than previously known, including those whose jobs were eliminated by the use of artificial intelligence.</description>
-      <source url="https://www.straitstimes.com/business/oracle-workforce-shrinks-by-about-21000-employees-amid-ai-adoption">The Straits Times</source>
-    </item>
-    <item>
-      <title>Oracle cut 21,000 employees in 2026, says AI replaced some jobs</title>
-      <link>https://oracle-university.com/stories/oracle-cut-21-000-employees-in-2026-says-ai-replaced-some-jobs-d71bca/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-cut-21-000-employees-in-2026-says-ai-replaced-some-jobs-d71bca/</guid>
-      <pubDate>Mon, 22 Jun 2026 22:43:33 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Oracle Corp reduced its workforce by 21,000 employees in the past 12 months, a wider scale than previously known, including those whose jobs were eliminated by the use of artificial intelligence (AI).</description>
-      <source url="https://theedgemalaysia.com/node/807850">The Edge Malaysia</source>
+      <description>The Texas-based cloud company disclosed nearly $2 billion in severance and restructuring expenses tied to workforce reductions, which began in March</description>
+      <source url="https://www.independent.co.uk/tech/oracle-layoffs-ai-job-b3001458.html">The Independent</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -457,6 +268,195 @@
       <category>AI &amp; Database</category>
       <description>Hosts Lois Houston and Nikita Abraham are joined by Brent Dayley, Senior Principal APEX and Apps Dev Instructor, to explore the latest vector AI supporting features in Oracle Exadata and GoldenGate 23ai. The conversation begins with an overview of Exadata&#39;s capabilities and then shifts to how Golden</description>
       <source url="https://oracleuniversitypodcast.libsyn.com/vector-ai-supporting-features-whats-new-in-oracle-exadata-and-goldengate">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>RAG with Oracle AI Vector Search and OCI Generative AI: Python and PL/SQL Approaches</title>
+      <link>https://oracle-university.com/stories/rag-with-oracle-ai-vector-search-and-oci-generative-ai-python-and-pl-sql-approaches-ff14f5/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/rag-with-oracle-ai-vector-search-and-oci-generative-ai-python-and-pl-sql-approaches-ff14f5/</guid>
+      <pubDate>Tue, 14 Apr 2026 11:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham are joined by Brent Dayley, Senior Principal APEX &amp; Apps Dev Instructor. Together, they explore how to implement Retrieval Augmented Generation (RAG) using Oracle AI Vector Search and OCI Generative AI. Brent wal</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/rag-with-oracle-ai-vector-search-and-oci-generative-ai-python-and-plsql-approaches">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Retrieval Augmented Generation (RAG)</title>
+      <link>https://oracle-university.com/stories/retrieval-augmented-generation-rag-ebb55a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/retrieval-augmented-generation-rag-ebb55a/</guid>
+      <pubDate>Tue, 07 Apr 2026 11:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Join hosts Lois Houston and Nikita Abraham as they explore one of the most exciting innovations in enterprise AI: Retrieval Augmented Generation (RAG) powered by Oracle AI Vector Search. In this episode, Senior Principal APEX &amp; Apps Dev Instructor Brent Dayley walks through the fundamentals of RAG, </description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/retrieval-augmented-generation-rag">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Inside Oracle AI Vector Search: Indexes, Metrics, and Best Practices</title>
+      <link>https://oracle-university.com/stories/inside-oracle-ai-vector-search-indexes-metrics-and-best-practices-a2db71/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/inside-oracle-ai-vector-search-indexes-metrics-and-best-practices-a2db71/</guid>
+      <pubDate>Tue, 31 Mar 2026 11:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Go deeper into Oracle AI Vector Search as hosts Lois Houston and Nikita Abraham, along with Senior Principal APEX &amp; Apps Dev Instructor Brent Dayley, break down how vector indexes, memory requirements, and similarity metrics make fast, powerful semantic search possible in Oracle Database 23ai. Learn</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/inside-oracle-ai-vector-search-indexes-metrics-and-best-practices">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Introduction to Oracle AI Vector Search</title>
+      <link>https://oracle-university.com/stories/introduction-to-oracle-ai-vector-search-6c4903/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/introduction-to-oracle-ai-vector-search-6c4903/</guid>
+      <pubDate>Tue, 24 Mar 2026 11:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Explore Oracle AI Vector Search and learn how to find data by meaning, not just keywords, using powerful vector embeddings within Oracle Database 23ai. In this episode, hosts Lois Houston and Nikita Abraham, along with Senior Principal APEX &amp; Apps Dev Instructor Brent Dayley, break down how similari</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/introduction-to-oracle-ai-vector-search">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Exploring the Oracle Analytics AI Assistant</title>
+      <link>https://oracle-university.com/stories/exploring-the-oracle-analytics-ai-assistant-7af5f6/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/exploring-the-oracle-analytics-ai-assistant-7af5f6/</guid>
+      <pubDate>Tue, 17 Mar 2026 16:37:04 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Join hosts Lois Houston and Nikita Abraham for a special episode of the Oracle University Podcast as they explore the Oracle Analytics AI Assistant. In this episode, you&#39;ll discover how Oracle&#39;s AI-powered conversational tool empowers users of all backgrounds to interact with business data using sim</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/exploring-the-oracle-analytics-ai-assistant">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Learn about the latest Oracle Academy workshops on embedding generative AI in Apex applications and using AI to create SQL in Apex</title>
+      <link>https://oracle-university.com/stories/learn-about-the-latest-oracle-academy-workshops-on-embedding-generative-ai-in-apex-appli-2edc5e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/learn-about-the-latest-oracle-academy-workshops-on-embedding-generative-ai-in-apex-appli-2edc5e/</guid>
+      <pubDate>Tue, 17 Mar 2026 16:23:07 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Willie Mcrae, Oracle Academy Principal Instructor, joins us to discuss Oracle Academy AI resources for educators and their students, including two new workshops on embedding generative AI in Oracle APEX applications and using AI to create SQL in APEX.</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/learn-about-the-latest-oracle-academy-workshops-on-embedding-generative-ai-in-apex-applications-and-using-ai-to-create-sql-in-apex">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Oracle Database@AWS: Monitoring, Logging, and Best Practices</title>
+      <link>https://oracle-university.com/stories/oracle-database-aws-monitoring-logging-and-best-practices-276d93/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-database-aws-monitoring-logging-and-best-practices-276d93/</guid>
+      <pubDate>Tue, 10 Mar 2026 11:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Running Oracle Database@AWS is most effective when you have full visibility and control over your environment. In this episode, hosts Lois Houston and Nikita Abraham are joined by Rashmi Panda, who explains how to monitor performance, track key metrics, and catch issues before they become problems. </description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-databaseaws-monitoring-logging-and-best-practices">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>How Oracle Database@AWS Stays Secure and Available</title>
+      <link>https://oracle-university.com/stories/how-oracle-database-aws-stays-secure-and-available-5e2d3c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/how-oracle-database-aws-stays-secure-and-available-5e2d3c/</guid>
+      <pubDate>Tue, 03 Mar 2026 12:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>When your business runs on data, even a few seconds of downtime can hurt. That&#39;s why this episode focuses on what keeps Oracle Database@AWS running when real-world problems strike. Hosts Lois Houston and Nikita Abraham are joined by Senior Principal Database Instructor Rashmi Panda, who takes us ins</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/how-oracle-databaseaws-stays-secure-and-available">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Security and Migration with Oracle Database@AWS</title>
+      <link>https://oracle-university.com/stories/security-and-migration-with-oracle-database-aws-7d3c25/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/security-and-migration-with-oracle-database-aws-7d3c25/</guid>
+      <pubDate>Tue, 24 Feb 2026 12:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>In this episode, hosts Lois Houston and Nikita Abraham are joined by special guests Samvit Mishra and Rashmi Panda for an in-depth discussion on security and migration with Oracle Database@AWS. Samvit shares essential security best practices, compliance guidance, and data protection mechanisms to sa</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/security-and-migration-with-oracle-databaseaws">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Getting Started with Oracle Database@AWS</title>
+      <link>https://oracle-university.com/stories/getting-started-with-oracle-database-aws-b1d4e8/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/getting-started-with-oracle-database-aws-b1d4e8/</guid>
+      <pubDate>Tue, 17 Feb 2026 12:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>If you&#39;ve ever wondered how Oracle Database really works inside AWS, this episode will finally turn the lights on. Join Senior Principal OCI Instructor Susan Jang as she explains the two database services available (Exadata Database Service and Autonomous Database), how Oracle and AWS share responsi</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/getting-started-with-oracle-databaseaws">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>What is Oracle Database@AWS?</title>
+      <link>https://oracle-university.com/stories/what-is-oracle-database-aws-fc2509/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/what-is-oracle-database-aws-fc2509/</guid>
+      <pubDate>Tue, 10 Feb 2026 12:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>In this episode, hosts Lois Houston and Nikita Abraham take you inside how Oracle brings its industry-leading database technology directly to AWS customers. Senior Principal OCI Instructor Susan Jang unpacks what the OCI child site is, how Exadata hardware is deployed inside AWS data centers, and ho</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/what-is-oracle-databaseaws">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Oracle Multicloud Made Easy</title>
+      <link>https://oracle-university.com/stories/oracle-multicloud-made-easy-be0bfd/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-multicloud-made-easy-be0bfd/</guid>
+      <pubDate>Tue, 03 Feb 2026 12:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Multicloud is changing the way modern teams run their workloads: with real choice and real control. In this episode, hosts Lois Houston and Nikita Abraham welcome Senior Principal OCI Instructor Sergio Castro, who explains how Oracle has partnered with Microsoft Azure, Google Cloud, and AWS to bring</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-multicloud-made-easy">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Part II Transforming Database Operations: MCP Server + OCI Generative AI in Action</title>
+      <link>https://oracle-university.com/stories/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action-639847/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action-639847/</guid>
+      <pubDate>Tue, 27 Jan 2026 13:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>In Part II of this episode we explore how Oracle&#39;s latest AI-driven database tools are revolutionizing teaching and learning in higher education. Tailored for global faculty and students, the episode demonstrates how artificial intelligence makes database operations more accessible, intuitive, and r</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>From Curiosity to Career Growth: An Oracle AI Certification Journey</title>
+      <link>https://oracle-university.com/stories/from-curiosity-to-career-growth-an-oracle-ai-certification-journey-bd5794/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/from-curiosity-to-career-growth-an-oracle-ai-certification-journey-bd5794/</guid>
+      <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Join us for an inspiring conversation with private equity advisor Jeffrey Malcolm as he shares how Oracle AI certification has transformed his career, family, and approach to business. Discover the real-world impact and opportunities that come from upskilling with Oracle&#39;s leading AI training progra</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/from-curiosity-to-career-growth-an-oracle-ai-certification-journey">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Transforming Database Operations: MCP Server + OCI Generative AI in Action</title>
+      <link>https://oracle-university.com/stories/transforming-database-operations-mcp-server-oci-generative-ai-in-action-6ad8a3/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/transforming-database-operations-mcp-server-oci-generative-ai-in-action-6ad8a3/</guid>
+      <pubDate>Tue, 20 Jan 2026 13:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Part I In this episode of the Oracle Academy Tech Chat Podcast we explore how Oracle&#39;s latest AI-driven database tools are revolutionizing teaching and learning in higher education. Tailored for global faculty and students, the episode demonstrates how artificial intelligence makes database operatio</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/transforming-database-operations-mcp-server-oci-generative-ai-in-action">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Driving Business Value with OCI – Part 2</title>
+      <link>https://oracle-university.com/stories/driving-business-value-with-oci-part-2-11d505/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/driving-business-value-with-oci-part-2-11d505/</guid>
+      <pubDate>Tue, 20 Jan 2026 12:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>Security, compliance, and resilience are the cornerstones of trust. In this episode, Lois Houston and Nikita Abraham continue their conversation with David Mills and Tijo Thomas, exploring how Oracle Cloud Infrastructure empowers organizations to protect data, stay compliant, and scale with confiden</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/driving-business-value-with-oci-part-2">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Driving Business Value with OCI–Part 1</title>
+      <link>https://oracle-university.com/stories/driving-business-value-with-oci-part-1-8444fa/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/driving-business-value-with-oci-part-1-8444fa/</guid>
+      <pubDate>Wed, 14 Jan 2026 23:18:23 GMT</pubDate>
+      <category>Security</category>
+      <description>Understanding cloud costs can be challenging, but it&#39;s essential for maximizing value. In this episode, hosts Lois Houston and Nikita Abraham speak with Oracle Cloud experts David Mills and Tijo Thomas about how Oracle Cloud Infrastructure offers predictable pricing, robust security, and high perfor</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/driving-business-value-with-ocipart-1">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Getting to Know Oracle Cloud Infrastructure</title>
+      <link>https://oracle-university.com/stories/getting-to-know-oracle-cloud-infrastructure-b4f7ca/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/getting-to-know-oracle-cloud-infrastructure-b4f7ca/</guid>
+      <pubDate>Tue, 06 Jan 2026 17:15:25 GMT</pubDate>
+      <category>Security</category>
+      <description>Every system depends on reliable infrastructure behind the scenes. Oracle Cloud Infrastructure (OCI) delivers that reliability with speed, flexibility, and built-in security. Join Lois Houston and Nikita Abraham as they speak with Oracle Cloud experts David Mills and Tijo Thomas about what makes OCI</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/getting-to-know-oracle-cloud-infrastructure">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Best of 2025: Unlocking the Power of Oracle APEX and AI</title>
+      <link>https://oracle-university.com/stories/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai-6aff1f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai-6aff1f/</guid>
+      <pubDate>Tue, 23 Dec 2025 12:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Lois Houston and Nikita Abraham explore how Oracle APEX integrates with AI to build smarter low-code applications. They are joined by Chaitanya Koratamaddi, Director of Product Management at Oracle, who explains the basics of Oracle APEX, its global adoption, and the challenges it addresses for busi</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Bringing the Cloud to You: Security and Control with Exadata</title>
+      <link>https://oracle-university.com/stories/bringing-the-cloud-to-you-security-and-control-with-exadata-e7accc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/bringing-the-cloud-to-you-security-and-control-with-exadata-e7accc/</guid>
+      <pubDate>Tue, 16 Dec 2025 13:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>In this episode, we&#39;ll talk about Security and Control with Exadata We&#39;ll explore how organizations can benefit from cloud innovation while keeping full control over their data — a critical challenge in today&#39;s digital world. ---------------------------------------------------- Episode Transcript: 0</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/bringing-the-cloud-to-you-security-and-control-with-exadata">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Best of 2025: Oracle Fusion Cloud Applications Foundations Training &amp; Certifications</title>
+      <link>https://oracle-university.com/stories/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications-6881a0/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications-6881a0/</guid>
+      <pubDate>Tue, 16 Dec 2025 12:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham dive into Oracle Fusion Cloud Applications and the new courses and certifications on offer. They are joined by Oracle Fusion Apps experts Patrick McBride and Bill Lawson who introduce the concept of Oracle Modern</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>

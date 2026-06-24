@@ -1,67 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://oracle-university.com/</loc><lastmod>2026-06-23T21:57:59.296Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/</loc><lastmod>2026-06-23T21:57:59.296Z</lastmod></url>
-  <url><loc>https://oracle-university.com/about/</loc><lastmod>2026-06-23T21:57:59.296Z</lastmod></url>
-  <url><loc>https://oracle-university.com/editorial-policy/</loc><lastmod>2026-06-23T21:57:59.296Z</lastmod></url>
-  <url><loc>https://oracle-university.com/sources/</loc><lastmod>2026-06-23T21:57:59.296Z</lastmod></url>
-  <url><loc>https://oracle-university.com/privacy/</loc><lastmod>2026-06-23T21:57:59.296Z</lastmod></url>
-  <url><loc>https://oracle-university.com/trademark-disclaimer/</loc><lastmod>2026-06-23T21:57:59.296Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/oracle-cloud/</loc><lastmod>2026-06-23T21:57:59.296Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/ai-database/</loc><lastmod>2026-06-23T21:57:59.296Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/security/</loc><lastmod>2026-06-23T21:57:59.296Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/training-certification/</loc><lastmod>2026-06-23T21:57:59.296Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/java-mysql/</loc><lastmod>2026-06-23T21:57:59.296Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/applications-netsuite/</loc><lastmod>2026-06-23T21:57:59.296Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/business-earnings/</loc><lastmod>2026-06-23T21:57:59.296Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/oracle-ecosystem/</loc><lastmod>2026-06-23T21:57:59.296Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/chainlink-and-over-10-korean-lenders-push-to-kill-fx-delays-with-real-time-settlement-a01c92/</loc><lastmod>2026-06-23T20:18:53.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-s-21-000-layoffs-help-drive-its-debt-fueled-ai-investments-0e02ea/</loc><lastmod>2026-06-23T20:17:38.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/here-is-why-beone-onc-one-of-the-most-promising-long-term-stocks-to-buy-according-to-ana-b3e360/</loc><lastmod>2026-06-23T19:23:49.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-cuts-21-000-workers-as-part-of-its-massive-ai-push-bf06de/</loc><lastmod>2026-06-23T18:52:57.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/chainlink-and-multinational-banking-consortia-launch-project-pangea-to-develop-t-0-settl-79c008/</loc><lastmod>2026-06-23T17:26:06.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-s-sec-filing-just-ended-the-ai-isn-t-killing-jobs-argument-sheds-21-000-employees-93d56f/</loc><lastmod>2026-06-23T16:27:26.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/donald-trump-to-present-world-cup-trophy-as-fifa-deepens-crypto-partnerships-for-2026-to-848ef5/</loc><lastmod>2026-06-23T18:29:13.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/</loc><lastmod>2026-06-24T21:55:24.686Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/</loc><lastmod>2026-06-24T21:55:24.686Z</lastmod></url>
+  <url><loc>https://oracle-university.com/about/</loc><lastmod>2026-06-24T21:55:24.686Z</lastmod></url>
+  <url><loc>https://oracle-university.com/editorial-policy/</loc><lastmod>2026-06-24T21:55:24.686Z</lastmod></url>
+  <url><loc>https://oracle-university.com/sources/</loc><lastmod>2026-06-24T21:55:24.686Z</lastmod></url>
+  <url><loc>https://oracle-university.com/privacy/</loc><lastmod>2026-06-24T21:55:24.686Z</lastmod></url>
+  <url><loc>https://oracle-university.com/trademark-disclaimer/</loc><lastmod>2026-06-24T21:55:24.686Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/oracle-cloud/</loc><lastmod>2026-06-24T21:55:24.686Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/ai-database/</loc><lastmod>2026-06-24T21:55:24.686Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/security/</loc><lastmod>2026-06-24T21:55:24.686Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/training-certification/</loc><lastmod>2026-06-24T21:55:24.686Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/java-mysql/</loc><lastmod>2026-06-24T21:55:24.686Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/applications-netsuite/</loc><lastmod>2026-06-24T21:55:24.686Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/business-earnings/</loc><lastmod>2026-06-24T21:55:24.686Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/oracle-ecosystem/</loc><lastmod>2026-06-24T21:55:24.686Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/micron-technology-inc-mu-is-one-of-billionaire-david-tepper-s-top-ai-stocks-a2f43b/</loc><lastmod>2026-06-24T19:11:56.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/chatgpt-reviews-royaldutchshellplc-com-a-shell-archive-so-relentless-it-makes-corporate--f9a9b5/</loc><lastmod>2026-06-24T15:45:44.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/an-openly-gay-pro-baseball-player-speaks-out-on-the-sf-giants-pride-controversy-6b235b/</loc><lastmod>2026-06-24T13:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/critical-ubiquiti-vulnerabilities-in-attackers-crosshairs-d2c8fb/</loc><lastmod>2026-06-24T12:32:17.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/micron-technology-mu-gains-from-insatiable-demand-for-computing-power-189b63/</loc><lastmod>2026-06-24T12:23:07.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/hollywood-and-big-tech-are-preparing-for-war-73dc6e/</loc><lastmod>2026-06-24T12:05:57.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/oracle-sets-the-date-for-its-fourth-quarter-fiscal-year-2026-earnings-announcement-3a2dd3/</loc><lastmod>2026-06-01T20:01:00.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/oracle-sets-the-date-for-its-third-quarter-fiscal-year-2026-earnings-announcement-e65993/</loc><lastmod>2026-03-03T21:00:00.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/oracle-sets-the-date-for-its-second-quarter-fiscal-year-2026-earnings-announcement-16342c/</loc><lastmod>2025-12-02T13:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/now-we-know-how-much-oracle-downsized-its-head-count-in-the-past-year-and-how-much-it-co-ae53ac/</loc><lastmod>2026-06-23T10:41:03.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/nepal-s-former-finance-minister-arrested-for-money-laundering-4372cd/</loc><lastmod>2026-06-23T10:24:57.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/hamzah-wawasan-negara-will-strengthen-pn-s-reform-agenda-8161b0/</loc><lastmod>2026-06-23T10:24:54.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/critical-review-open-text-nasdaq-otex-microsoft-nasdaq-msft-756b46/</loc><lastmod>2026-06-23T09:47:05.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/alphabet-drops-10-on-ai-capex-fears-memory-chip-rally-reveals-a-split-market-93ec8d/</loc><lastmod>2026-06-23T09:28:43.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-cuts-21-000-jobs-as-ai-expansion-reshapes-workforce-d4b879/</loc><lastmod>2026-06-23T09:27:19.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/ai-takes-jobs-again-oracle-makes-21000-layoffs-tech-giant-spends-1-8-billion-in-restruct-940b87/</loc><lastmod>2026-06-23T09:18:45.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-cuts-21-000-jobs-as-ai-push-reshapes-business-7a81ab/</loc><lastmod>2026-06-23T09:17:13.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/latest-enterprisedb-features-unify-data-for-ai-development-b2f8a3/</loc><lastmod>2026-06-23T09:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-cuts-21-000-jobs-amid-global-ai-adoption-a85654/</loc><lastmod>2026-06-23T08:55:24.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/cat-stock-hits-1-000-on-ai-demand-here-are-two-other-stocks-powering-the-boom-c4eca1/</loc><lastmod>2026-06-23T08:37:06.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/energy-transfer-et-enter-multiple-new-agreements-through-affiliates-b329f0/</loc><lastmod>2026-06-23T08:35:58.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/micros-sa-is-a-new-oracle-netsuite-reseller-b56b7c/</loc><lastmod>2026-06-23T08:20:34.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-layoffs-firm-cuts-21-000-jobs-as-ai-reshapes-operations-signals-more-workforce-ch-94b6ff/</loc><lastmod>2026-06-23T07:50:56.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-workforce-shrinks-by-21-000-employees-amid-growing-ai-use-b32716/</loc><lastmod>2026-06-23T07:18:47.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/trimming-the-enterprise-ledger-how-the-oracle-ai-workforce-reduction-2026-funds-data-cen-1a8944/</loc><lastmod>2026-06-23T07:12:39.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-workforce-falls-by-21-000-amid-ai-adoption-push-624a24/</loc><lastmod>2026-06-23T06:55:02.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/showbiz-bts-arirang-dominates-mid-year-best-album-lists-globally-96ed48/</loc><lastmod>2026-06-23T06:48:06.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-cuts-21-000-jobs-in-a-year-cites-ai-driven-workforce-reductions-2e2938/</loc><lastmod>2026-06-23T06:42:22.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-says-ai-adoption-contributed-to-workforce-reduction-of-21-000-employees-eb1738/</loc><lastmod>2026-06-23T06:38:33.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-cuts-21-000-jobs-cites-ai-impact-on-workforce-4768c0/</loc><lastmod>2026-06-23T06:05:51.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-slashes-21-000-jobs-as-tech-giant-warns-of-further-ai-a3523d/</loc><lastmod>2026-06-23T05:39:02.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-layoffs-2026-is-ai-replacing-workers-at-oracle-what-tech-giant-s-21-000-job-cuts--1cdecc/</loc><lastmod>2026-06-23T05:30:24.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-cuts-21-000-jobs-in-12-months-as-ai-replaces-roles-across-operations-599615/</loc><lastmod>2026-06-23T05:13:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-cuts-21-000-jobs-as-ai-transformation-accelerates-561575/</loc><lastmod>2026-06-23T04:57:16.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/ai-rewrites-oracle-21-000-jobs-cut-as-cloud-wars-turn-fiercer-tech-giants-double-down-on-e1ad3d/</loc><lastmod>2026-06-23T04:49:27.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/care-ghana-calls-for-ghana-card-to-become-sole-id-for-voting-2d9452/</loc><lastmod>2026-06-23T04:37:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/nasdaq-tipped-for-steep-fall-amidst-rotation-not-liquidation-in-tech-cd00cb/</loc><lastmod>2026-06-23T14:54:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-sheds-21-000-employees-while-ramping-up-ai-investments-bc1ac2/</loc><lastmod>2026-06-23T02:41:18.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-cuts-21-000-jobs-in-one-year-blames-ai-for-at-least-some-e1cc8f/</loc><lastmod>2026-06-23T01:11:48.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/glcs-need-stronger-checks-on-public-funds-economists-watch-e9a55c/</loc><lastmod>2026-06-23T00:37:16.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/draper-makes-winning-return-at-eastbourne-with-murray-on-his-side-f20ca1/</loc><lastmod>2026-06-23T00:37:16.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-workforce-shrinks-by-about-21-000-employees-amid-ai-adoption-605ce4/</loc><lastmod>2026-06-23T00:21:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/lanka-engages-uae-business-leaders-to-promote-port-city-as-south-asian-gateway-e9ba0d/</loc><lastmod>2026-06-23T00:02:32.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/multiple-it-openings-in-phoenix-60k-150k-opportunities-222315/</loc><lastmod>2026-06-23T00:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-cut-21-000-jobs-in-12-months-says-ai-replaced-some-roles-3a5a0b/</loc><lastmod>2026-06-22T23:34:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-cut-21-000-employees-in-2026-says-ai-replaced-some-jobs-d71bca/</loc><lastmod>2026-06-22T22:43:33.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/5-ai-stocks-analysts-are-watching-microsoft-nvidia-and-more-286c4b/</loc><lastmod>2026-06-24T09:20:55.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/oracle-ai-layoffs-meta-workforce-cuts-amazon-restructuring-microsoft-workforce-changes-s-eacaaf/</loc><lastmod>2026-06-24T09:13:51.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/the-nasdaq-dropped-3-as-micron-intel-and-amd-tumble-but-one-tech-name-is-bucking-the-tre-ffb376/</loc><lastmod>2026-06-24T16:54:48.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/pharmacovigilance-automation-market-size-to-reach-usd-5-25-billion-by-2035-sns-insider-6b1888/</loc><lastmod>2026-06-24T08:30:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/pipefy-announces-new-executives-to-lead-the-global-expansion-of-partnerships-and-strateg-4462e2/</loc><lastmod>2026-06-24T08:11:09.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/oracle-cut-21-000-jobs-in-12-months-says-ai-replaced-some-roles-85831b/</loc><lastmod>2026-06-24T07:59:16.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/the-brazilian-strategist-helping-global-companies-build-safer-more-trustworthy-artificia-ca69c1/</loc><lastmod>2026-06-24T07:01:45.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/oracle-nyse-orcl-holds-638-billion-backlog-as-stock-selloff-creates-rare-entry-point-a2d3a3/</loc><lastmod>2026-06-24T06:10:11.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/plan-to-save-ksh-85b-nairobi-based-international-company-cuts-550-jobs-b34bc5/</loc><lastmod>2026-06-24T06:06:58.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/bitcoin-moves-markets-but-candychain-is-building-for-the-next-market-cycle-eace70/</loc><lastmod>2026-06-24T05:49:36.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/cloud-gaming-technology-market-analysis-by-application-type-technology-and-geography-glo-c0e70f/</loc><lastmod>2026-06-24T05:47:41.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/plm-software-professional-market-analysis-by-application-type-technology-and-geography-g-a8ec68/</loc><lastmod>2026-06-24T05:45:23.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/oracle-s-billionaire-boss-finally-discloses-the-extent-of-his-job-slashing-carnage-13-of-fdc995/</loc><lastmod>2026-06-24T04:30:39.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/oracle-cuts-21-000-jobs-in-a-year-cites-ai-driven-workforce-reductions-11aed7/</loc><lastmod>2026-06-24T03:27:18.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/petronas-makes-new-gas-find-at-suriname-offshore-block-discoveries-equivalent-to-1bil-ba-29d21c/</loc><lastmod>2026-06-24T02:05:37.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/almalinux-9-2-achieves-international-common-criteria-security-certification-in-japan-17edbf/</loc><lastmod>2026-06-24T00:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/oracle-reveals-21-000-layoffs-in-last-year-were-due-to-ai-80cee0/</loc><lastmod>2026-06-23T22:27:59.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/encore-networking-security-essentials-143705/</loc><lastmod>2026-06-05T17:38:46.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/encore-inside-cloud-networking-bdb221/</loc><lastmod>2026-05-26T11:00:00.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/vector-ai-supporting-features-what-s-new-in-oracle-exadata-and-goldengate-c72e11/</loc><lastmod>2026-04-22T16:29:45.000Z</lastmod></url>
@@ -135,4 +114,25 @@
   <url><loc>https://oracle-university.com/stories/mysql-database-design-52388a/</loc><lastmod>2025-01-21T12:00:00.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/how-do-you-find-your-voice-as-a-woman-in-tech-a0b6aa/</loc><lastmod>2025-01-07T05:01:00.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/best-of-2024-autonomous-database-on-serverless-infrastructure-33755a/</loc><lastmod>2024-12-17T12:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/best-of-2024-developing-redwood-applications-3916c9/</loc><lastmod>2024-12-10T12:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/implications-of-ai-and-privacy-b48b75/</loc><lastmod>2024-12-03T13:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/best-of-2024-preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio-79fc05/</loc><lastmod>2024-12-03T12:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/best-of-2024-introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-al-9d327b/</loc><lastmod>2024-11-26T12:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/oracle-ai-in-fusion-cloud-human-capital-management-22576f/</loc><lastmod>2024-11-19T12:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/oracle-database-23ai-backup-and-recovery-part-2-a21298/</loc><lastmod>2024-11-12T12:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/oracle-database-23ai-backup-and-recovery-part-1-cd90d3/</loc><lastmod>2024-11-05T07:34:39.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/oracle-ai-vector-search-part-2-9e86aa/</loc><lastmod>2024-10-29T11:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/oracle-ai-vector-search-part-1-412821/</loc><lastmod>2024-10-22T11:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/automatic-transaction-quarantine-358e25/</loc><lastmod>2024-10-15T11:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/automatic-transaction-rollback-ec870d/</loc><lastmod>2024-10-08T11:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/the-importance-of-data-and-continuous-learning-111f6c/</loc><lastmod>2024-10-01T16:23:48.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/unrestricted-parallel-dmls-and-direct-loads-ac305f/</loc><lastmod>2024-10-01T11:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/true-cache-6a960d/</loc><lastmod>2024-09-24T11:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/enhancements-in-sql-plan-management-securefiles-lob-write-performance-and-column-width-a309fc/</loc><lastmod>2024-09-17T11:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/hybrid-columnar-compression-fast-ingest-a4b392/</loc><lastmod>2024-09-10T11:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfall-f2dc7e/</loc><lastmod>2024-09-03T12:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/time-data-handling-data-storage-91f274/</loc><lastmod>2024-09-03T11:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/database-sharding-part-2-5face7/</loc><lastmod>2024-08-27T11:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/database-sharding-part-1-e6309a/</loc><lastmod>2024-08-20T11:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/database-security-part-2-ef77d6/</loc><lastmod>2024-08-13T11:00:00.000Z</lastmod></url>
 </urlset>
