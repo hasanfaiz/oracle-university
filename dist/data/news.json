@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T21:55:24.686Z",
+  "generatedAt": "2026-06-25T22:01:31.881Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,100 +7,36 @@
   },
   "items": [
     {
-      "id": "b556a438-edb5-4a67-97e5-e9a662c9323b",
-      "slug": "micron-technology-inc-mu-is-one-of-billionaire-david-tepper-s-top-ai-stocks-a2f43b",
-      "title": "Micron Technology, Inc. (MU) Is One Of Billionaire David Tepper’s Top AI Stocks",
-      "dek": "Memory giant Micron Technology, Inc. (NASDAQ:MU) is a major position in Appaloosa Management’s portfolio. It is also one of the oldest as the fund has held a position since the fourth quarter of 2010.",
-      "url": "https://www.insidermonkey.com/blog/micron-technology-inc-mu-is-one-of-billionaire-david-teppers-top-ai-stocks-1788624/",
+      "id": "f7d127a4-166f-44f7-aff6-cf558e80fa33",
+      "slug": "janus-henderson-global-sustainable-equity-fund-s-q1-2026-investor-letter-ff716f",
+      "title": "Janus Henderson Global Sustainable Equity Fund’s Q1 2026 Investor Letter",
+      "dek": "Janus Henderson Investors, an investment management company, released its first-quarter 2026 investor letter for the “Global Sustainable Equity Fund”. In the quarter, the Fund returned -3.07%, slightly better than the MSCI World Index's -3.57%.",
+      "url": "https://www.insidermonkey.com/blog/janus-henderson-global-sustainable-equity-funds-q1-2026-investor-letter-1789126/",
       "source": "Insider Monkey",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/q3fNjj0u3Svf87qxt1gSESBf-d4C0FIPgnZ5vz4xXxM/resize:fit:1000:666:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2016/02/11040019/shutterstock_319770983.jpg",
-      "publishedAt": "2026-06-24T19:11:56.000Z",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/OQjP8posEy-pIHQUSkSm5vYxCF1eg-RqJ_9MLr4xlNc/resize:fit:4810:3207:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2024/06/11115820/luke-chesser-JKUTrJ4vK00-unsplash.jpg",
+      "publishedAt": "2026-06-25T16:56:56.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "business"
       ],
-      "priority": 61
+      "priority": 53
     },
     {
-      "id": "90f9d6ef-e375-47ca-85fd-7ed09ecbdcac",
-      "slug": "chatgpt-reviews-royaldutchshellplc-com-a-shell-archive-so-relentless-it-makes-corporate--f9a9b5",
-      "title": "ChatGPT Reviews RoyalDutchShellPLC.com: A Shell Archive So Relentless It Makes Corporate Comms Look Like a Nap",
-      "dek": "ChatGPT image: A vast digital archive room stretching into darkness, packed with Shell files, court papers, old newspaper clippings, leaked documents, AI terminals and a glowing search bar reading “Shell plc”. In the foreground, a weary corporate PR officer tries to hold back a tsunami of documents ",
-      "url": "https://royaldutchshellplc.com/2026/06/24/chatgpt-reviews-royaldutchshellplc-com-a-shell-archive-so-relentless-it-makes-corporate-comms-look-like-a-nap/",
-      "source": "Royal Dutch Shell Plc .com",
+      "id": "e1b0566d-45f9-44c3-8cce-588897c4be1f",
+      "slug": "stifel-challenges-microsoft-margin-optimism-806259",
+      "title": "Stifel Challenges Microsoft Margin Optimism",
+      "dek": "Microsoft MSFT slipped about 2% after Stifel broke from Wall Street's bullish consensus, warning that profit expectations for the software giant may be too high, according to Tipranks.",
+      "url": "https://www.tradingview.com/news/gurufocus:590b777dd094b:0-stifel-challenges-microsoft-margin-optimism/",
+      "source": "TradingView",
       "sourceType": "external",
-      "image": "https://royaldutchshellplc.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-16.29.36-scaled.jpg",
-      "publishedAt": "2026-06-24T15:45:44.000Z",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "publishedAt": "2026-06-25T18:46:41.000Z",
       "topic": "Oracle Ecosystem",
-      "tags": [
-        "vehicles"
-      ],
-      "priority": 51
-    },
-    {
-      "id": "908704a3-8469-4ffd-a5f7-3187d220d988",
-      "slug": "an-openly-gay-pro-baseball-player-speaks-out-on-the-sf-giants-pride-controversy-6b235b",
-      "title": "An openly gay pro baseball player speaks out on the SF Giants Pride controversy",
-      "dek": "Almost two weeks since Pride Night, the uproar over four San Francisco Giants pitchers protesting the team’s rainbow-themed hats — three by writing a Bible verse from the Book of Genesis, one by refusing to wear the hat at all — shows no sign of dying down.",
-      "url": "https://sfstandard.com/2026/06/24/giants-pride-hat-controversry-solomon-bates-gay-baseball-player/",
-      "source": "The San Francisco Standard",
-      "sourceType": "external",
-      "image": "https://assets.sfstandard.com/image/994911177489/image_4j4ans361h637dur5otoirjj7n/-S3840x2640-FPNG",
-      "publishedAt": "2026-06-24T13:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "custom_search"
-      ],
-      "priority": 47
-    },
-    {
-      "id": "815af5e5-6ceb-4ce6-a63f-260fa55a047f",
-      "slug": "critical-ubiquiti-vulnerabilities-in-attackers-crosshairs-d2c8fb",
-      "title": "Critical Ubiquiti Vulnerabilities in Attackers’ Crosshairs",
-      "dek": "Threat actors have been targeting three critical-severity vulnerabilities in Ubiquiti devices, the US cybersecurity agency CISA warns. The exploited flaws, tracked as CVE-2026-34908, CVE-2026-34909, and CVE-2026-34910, with a CVSS score of 10/10, were patched last month.",
-      "url": "https://www.securityweek.com/critical-ubiquiti-vulnerabilities-in-attackers-crosshairs/",
-      "source": "SecurityWeek",
-      "sourceType": "external",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/07/CISA-KEV.jpg",
-      "publishedAt": "2026-06-24T12:32:17.000Z",
-      "topic": "Security",
-      "tags": [
-        "internet security"
-      ],
-      "priority": 46
-    },
-    {
-      "id": "49c5f488-69bb-4bd5-bd12-55783527a822",
-      "slug": "micron-technology-mu-gains-from-insatiable-demand-for-computing-power-189b63",
-      "title": "Micron Technology (MU) Gains from Insatiable Demand For Computing Power",
-      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
-      "url": "https://www.insidermonkey.com/blog/micron-technology-mu-gains-from-insatiable-demand-for-computing-power-1788240/",
-      "source": "Insider Monkey",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/Tuv5Hd2eH3qhde9YXpWxNrhUqwoavBAzIixcZ5xEdg0/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/11/29020645/XSD-insidermonkey-1701241603231.jpg",
-      "publishedAt": "2026-06-24T12:23:07.000Z",
-      "topic": "Business & Earnings",
       "tags": [
         "finance"
       ],
-      "priority": 46
-    },
-    {
-      "id": "d24a0f33-5501-4eb6-a69c-1ea11b0c6139",
-      "slug": "hollywood-and-big-tech-are-preparing-for-war-73dc6e",
-      "title": "Hollywood and Big Tech Are Preparing For War",
-      "dek": "A barrage of seemingly unrelated headlines suggest that Hollywood and Big Tech are on a collision course and that the next few years will reshape how the world spends its free time and which platforms will dominate. As tech and AI companies push further into entertainment and media, their stewardshi",
-      "url": "https://www.hollywoodreporter.com/business/business-news/hollywood-big-tech-war-entertainment-platforms-1236628274/",
-      "source": "The Hollywood Reporter",
-      "sourceType": "external",
-      "image": "https://www.hollywoodreporter.com/wp-content/uploads/2026/06/GettyImages-103781171.jpg?crop=0px%2C214px%2C3000px%2C1679px&resize=450%2C253",
-      "publishedAt": "2026-06-24T12:05:57.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "entertainment"
-      ],
-      "priority": 46
+      "priority": 47
     },
     {
       "id": "f58466d207e1f5cc",
@@ -151,15 +87,33 @@
       "priority": 46
     },
     {
-      "id": "a59f3f4ad7ae0ddf",
-      "slug": "5-ai-stocks-analysts-are-watching-microsoft-nvidia-and-more-286c4b",
-      "title": "5 AI Stocks Analysts Are Watching: Microsoft, Nvidia, and More",
-      "dek": "In this article, we are going to look at the 5 AI Stocks Analysts Are Watching: Microsoft, Nvidia, and More. For a longer list, you can go to 15 AI Stocks Analysts Are Watching: Microsoft, Nvidia, and More. 5. Apple Inc. (NASDAQ:AAPL) Number of Hedge Fund Holders: 170 Recently, CEO Tim Cook confirme",
-      "url": "https://www.insidermonkey.com/blog/5-ai-stocks-analysts-are-watching-microsoft-nvidia-and-more-1788109/",
+      "id": "540e3feb5c98a80b",
+      "slug": "how-jeps-drive-java-s-evolution-with-alex-buckley-ata-ce0abf",
+      "title": "\"How JEPs Drive Java's Evolution\" with Alex Buckley [AtA]",
+      "dek": "JDK Enhancement Proposals are OpenJDK's vehicle for documenting and communicating substantial changes of the Java language, its APIs, and the runtime but also the JDK project itself, for example when it comes to development processes. Their well-defined structure and the immense care that goes into ",
+      "url": "https://inside.java/podcast/60",
+      "source": "Inside Java",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/insidejava/ijp-60.mp3?dest-id=2318780",
+      "publishedAt": "2026-06-25T10:53:11.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Java",
+        "JDK",
+        "OpenJDK"
+      ],
+      "priority": 44
+    },
+    {
+      "id": "135696f3b976a9b1",
+      "slug": "5-best-ai-stocks-under-10-to-buy-now-e2d00b",
+      "title": "5 Best AI Stocks Under $10 to Buy Now",
+      "dek": "In this article, we will list the 5 Best AI Stocks Under $10 to Buy Now. Please visit 15 Best AI Stocks Under $10 to Buy Now if you would like to see the extended list and the methodology behind it. 5. Serve Robotics Inc (NASDAQ:SERV) Stock Price: $6.56 Number of Hedge Fund Holders: 14 [...]",
+      "url": "https://www.insidermonkey.com/blog/5-best-ai-stocks-under-10-to-buy-now-1786400/",
       "source": "Insider Trading",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/sQVMQkqlDo9wDFBzZTzxcY_DcAxnSpokWCdXkBpXTJ4/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/12/16065103/HEFA-insidermonkey-1702727461648.jpg",
-      "publishedAt": "2026-06-24T09:20:55.000Z",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/torKnEnUAjK7F-Nmk2_kr9KW3s43kkPsNtovziqZaBg/resize:fit:640:427:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2025/12/06023256/pexels-divinetechygirl-1181335.jpg",
+      "publishedAt": "2026-06-25T09:55:31.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "AI"
@@ -167,305 +121,308 @@
       "priority": 43
     },
     {
-      "id": "78938c07ba89b13a",
-      "slug": "oracle-ai-layoffs-meta-workforce-cuts-amazon-restructuring-microsoft-workforce-changes-s-eacaaf",
-      "title": "Oracle AI Layoffs, Meta Workforce Cuts, Amazon Restructuring, Microsoft Workforce Changes Signal Global Tech Downsizing Wave in 2026",
-      "dek": "Oracle has cut about 21,000 jobs as AI adoption and restructuring shrink the workforce 13%, highlighting a wider tech layoffs wave across global companies in 2026.",
-      "url": "https://www.ibtimes.sg/oracle-ai-layoffs-meta-workforce-cuts-amazon-restructuring-microsoft-workforce-changes-signal-88452",
-      "source": "International Business Times",
+      "id": "9ac51adc005c342a",
+      "slug": "containerization-market-to-reach-usd-7-5-billion-by-2035-across-north-america-europe-and-529b8a",
+      "title": "Containerization Market to Reach USD 7.5 Billion by 2035 Across North America, Europe and Asia-Pacific Amid Rising Kubernetes, DevOps and Cloud-Native Adoption",
+      "dek": "➤ Market Overview The global Containerization Market is experiencing robust growth as enterprises increasingly adopt cloud-native technologies, microservices architectures, and DevOps practices to accelerate application deployment and improve operational efficiency. The market is estimated to be val",
+      "url": "https://www.openpr.com/news/4560649/containerization-market-to-reach-usd-7-5-billion-by-2035-across",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://data.ibtimes.sg/en/full/87335/tech-layoffs.jpg?w=1200&h=630?q=60",
-      "publishedAt": "2026-06-24T09:13:51.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://cdn.open-pr.com/L/6/L625798995_g.jpg",
+      "publishedAt": "2026-06-25T09:47:16.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "tech layoffs 2026",
-        "oracle layoffs 2026",
-        "oracle job cuts ai"
+        "media release",
+        "advertising",
+        "marketing",
+        "news release",
+        "pressreleases",
+        "presses release"
       ],
       "priority": 43
     },
     {
-      "id": "e960daa6-c693-4311-8a6c-b4f149281513",
-      "slug": "the-nasdaq-dropped-3-as-micron-intel-and-amd-tumble-but-one-tech-name-is-bucking-the-tre-ffb376",
-      "title": "The NASDAQ Dropped 3% as Micron, Intel, and AMD Tumble, but One Tech Name Is Bucking the Trend",
-      "dek": "CNBC’s Dominic Chu opened Tuesday’s market coverage with a familiar tape pattern that has not shown up much in 2026. “The tech sell-off that began Monday building momentum this morning after memory chip related shares tanked on Asian markets overnight,” Chu told viewers, and damage in U.S. premarket",
-      "url": "https://247wallst.com/investing/2026/06/24/the-nasdaq-dropped-3-as-micron-intel-and-amd-tumble-but-one-tech-name-is-bucking-the-trend/",
-      "source": "24/7 Wall St.",
+      "id": "4e072ef614518eda",
+      "slug": "low-code-development-platform-market-to-reach-usd-426-billion-by-2035-across-north-ameri-3637d5",
+      "title": "Low-Code Development Platform Market to Reach USD 426 Billion by 2035 Across North America, Europe and Asia-Pacific Amid Rising AI, Hyperautomation and Digital Transformation Adoption",
+      "dek": "➤ Market Overview The global Low-Code Development Platform Market is witnessing remarkable growth as organizations seek faster and more cost-effective ways to develop applications amid increasing digital transformation initiatives. The market is estimated to be valued at approximately USD 45.3 billi",
+      "url": "https://www.openpr.com/news/4560637/low-code-development-platform-market-to-reach-usd-426-billion",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://247wallst.com/wp-content/uploads/2026/03/shutterstock-2235593851-huge-licensed-scaled.jpg",
-      "publishedAt": "2026-06-24T16:54:48.000Z",
+      "image": "https://cdn.open-pr.com/L/6/L625361990_g.jpg",
+      "publishedAt": "2026-06-25T09:43:14.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "media release",
+        "advertising",
+        "marketing",
+        "news release",
+        "pressreleases",
+        "presses release"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "1035090777dbd989",
+      "slug": "data-analytics-platform-market-to-reach-usd-162-7-billion-by-2035-across-north-america-e-889834",
+      "title": "Data Analytics Platform Market to Reach USD 162.7 Billion by 2035 Across North America, Europe and Asia-Pacific Amid Rising AI, Big Data and Cloud Analytics Adoption",
+      "dek": "➤ Market Overview The global Data Analytics Platform Market is experiencing strong growth as organizations increasingly rely on data-driven decision-making to improve operational efficiency, customer experiences, and business performance. The market is estimated to be valued at approximately USD 23.",
+      "url": "https://www.openpr.com/news/4560624/data-analytics-platform-market-to-reach-usd-162-7-billion-by-2035",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/6/L625366438_g.jpg",
+      "publishedAt": "2026-06-25T09:39:29.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "media release",
+        "advertising",
+        "marketing",
+        "news release",
+        "pressreleases",
+        "presses release"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "200b42556014121c",
+      "slug": "oracle-expands-defence-ecosystem-with-10-new-firms-ef6891",
+      "title": "Oracle expands defence ecosystem with 10 new firms",
+      "dek": "Defence buyers could gain faster access to AI, robotics and secure communications as Oracle broadens its programme with 10 more start-ups.",
+      "url": "https://itbrief.in/story/oracle-expands-defence-ecosystem-with-10-new-firms",
+      "source": "It Brief India",
+      "sourceType": "external",
+      "image": "https://itbrief.in/uploads/story/2026/06/25/compatible_futuristic-ai-secure-defense-network-cloud-platform-robots-sensors-critical-infrastructure-digital-illustration.jpg",
+      "publishedAt": "2026-06-25T09:16:00.000Z",
       "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "308b00353851e31c",
+      "slug": "earnings-call-transcript-oracle-japan-posts-record-fy-2026-shares-slip-0-48-on-muted-rea-e27f43",
+      "title": "Earnings call transcript: Oracle Japan posts record FY 2026, shares slip 0.48% on muted reaction",
+      "dek": "Earnings call transcript: Oracle Japan posts record FY 2026, shares slip 0.48% on muted reaction",
+      "url": "https://au.investing.com/news/transcripts/earnings-call-transcript-oracle-japan-posts-record-fy-2026-shares-slip-048-on-muted-reaction-93CH-4504094",
+      "source": "Investing Australia",
+      "sourceType": "external",
+      "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEL760P4_L.jpg",
+      "publishedAt": "2026-06-25T08:24:09.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "Earnings"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "1fbb595e-82dd-4e84-90cc-53f98e50c6d6",
+      "slug": "advanced-micro-devices-amd-and-rackspace-technology-sign-a-definitive-agreement-d3479a",
+      "title": "Advanced Micro Devices (AMD) and Rackspace Technology Sign a Definitive Agreement",
+      "dek": "Advanced Micro Devices, Inc. (NASDAQ:AMD) is one of the Most Promising AI Stocks to Buy and Hold for the Next 2 Years. On June 16, it was announced that Advanced Micro Devices, Inc. (NASDAQ:AMD) and Rackspace Technology signed a definitive agreement.",
+      "url": "https://www.insidermonkey.com/blog/advanced-micro-devices-amd-and-rackspace-technology-sign-a-definitive-agreement-1788635/",
+      "source": "Insider Monkey",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/lQLjBewwxatIEd0w-lS3sprlAnaQHc3FasDwjnlmUnA/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/19160555/AMD-insidermonkey-1695153952842.jpg",
+      "publishedAt": "2026-06-25T08:21:56.000Z",
+      "topic": "Business & Earnings",
       "tags": [
         "finance"
       ],
       "priority": 42
     },
     {
-      "id": "d409ea86ff498afa",
-      "slug": "pharmacovigilance-automation-market-size-to-reach-usd-5-25-billion-by-2035-sns-insider-6b1888",
-      "title": "Pharmacovigilance Automation Market Size to Reach USD 5.25 Billion by 2035 | SNS Insider",
-      "dek": "The U.S. Pharmacovigilance Automation Market is projected to grow from USD 0.94 Billion in 2025 to USD 1.52 Billion by 2035, while Europe is expected to expand from USD 0.34 Billion to USD 1.92 Billion, supported by increasing AI adoption, stringent drug safety regulations, and rising adverse event ",
-      "url": "https://www.globenewswire.com/news-release/2026/06/24/3316620/0/en/Pharmacovigilance-Automation-Market-Size-to-Reach-USD-5-25-Billion-by-2035-SNS-Insider.html",
-      "source": "Globe Newswire",
+      "id": "e6891ba9537ef433",
+      "slug": "tav-technologies-985f5e",
+      "title": "TAV Technologies",
+      "dek": "TAV Information Technologies is a core technology provider and system integration company, specialised in aviation, which delivers turn-key airport systems...",
+      "url": "https://www.airport-technology.com/contractors/consult/tav/",
+      "source": "Airport Technology",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-06-24T08:30:00.000Z",
+      "image": "https://www.airport-technology.com/wp-content/uploads/sites/14/2017/10/main-195.jpg",
+      "publishedAt": "2026-06-25T08:02:09.000Z",
       "topic": "Oracle Ecosystem",
-      "tags": [
-        "drug safety software",
-        "ai pharmacovigilance",
-        "sns insider pvt ltd",
-        "pharmacovigilance automation",
-        "pharmacovigilance market",
-        "drug safety automation"
-      ],
+      "tags": [],
       "priority": 42
     },
     {
-      "id": "524dcf00a66eddd4",
-      "slug": "pipefy-announces-new-executives-to-lead-the-global-expansion-of-partnerships-and-strateg-4462e2",
-      "title": "Pipefy Announces New Executives to Lead the Global Expansion of Partnerships and Strategic Alliances",
-      "dek": "Sandro Guedes appointed Global Director of Partnerships and Adriano Galvao to VP of Global Strategic Alliances Pipefy, a global leader in AI-driven business process orchestration, announced that Sandro Guedes was named Global Director of Partnerships and Adriano Galvão to Vice President of Global S",
-      "url": "https://salestechstar.com/scheduling-appointment-setting/pipefy-announces-new-executives-to-lead-the-global-expansion-of-partnerships-and-strategic-alliances/",
-      "source": "Salestech Star",
+      "id": "d09b3349-99aa-4a16-9225-4b140d199937",
+      "slug": "is-amazon-com-inc-amzn-the-best-ai-chip-stock-to-buy-for-the-long-term-550740",
+      "title": "Is Amazon.com, Inc. (AMZN) the Best AI Chip Stock to Buy for the Long Term?",
+      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
+      "url": "https://www.insidermonkey.com/blog/is-amazon-com-inc-amzn-the-best-ai-chip-stock-to-buy-for-the-long-term-1788844/",
+      "source": "Insider Monkey",
       "sourceType": "external",
-      "image": "https://salestechstar.com/wp-content/uploads/2026/04/NEW-HIRE-1-4-2022-1.jpg",
-      "publishedAt": "2026-06-24T08:11:09.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/yy464jTKm-W0OTC2dcYIIlOHF9f6Osw8G8htTbxogpc/resize:fit:1000:667:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2015/05/shutterstock_261115979.jpg",
+      "publishedAt": "2026-06-25T07:21:56.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "sales technology news",
-        "salestech",
-        "news",
-        "ai-driven business process orchestration",
-        "global director of partnerships",
-        "sales technology"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "c664dd54b8cfd010",
-      "slug": "oracle-cut-21-000-jobs-in-12-months-says-ai-replaced-some-roles-85831b",
-      "title": "Oracle Cut 21,000 Jobs In 12 Months, Says AI Replaced Some Roles",
-      "dek": "Oracle is under financial pressure because of an expensive build-out of AI data centers for customers like OpenAI.",
-      "url": "https://www.deccanchronicle.com/technology/in-other-news/oracle-cut-21000-jobs-in-12-months-says-ai-replaced-some-roles-1965888",
-      "source": "Deccan Chronicle",
-      "sourceType": "external",
-      "image": "https://www.deccanchronicle.com/h-upload/2026/06/24/2055860-oracle.webp",
-      "publishedAt": "2026-06-24T07:59:16.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "oracle corp.",
-        "oracle workforce reduced",
-        "oracle job cut",
-        "global job cut"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "68542c4a85fc0536",
-      "slug": "the-brazilian-strategist-helping-global-companies-build-safer-more-trustworthy-artificia-ca69c1",
-      "title": "The Brazilian Strategist Helping Global Companies Build Safer, More Trustworthy Artificial Intelligence",
-      "dek": "Luciano Ferreira: Brazilian Data Governance and AI specialist works on regulatory compliance projects for organizations across the Americas, Europe, and the Middle East, at a moment when the world is racing to regulate the use of artificial intelligence. Luciano Ferreira, a Brazilian data and artifi",
-      "url": "https://techbullion.com/the-brazilian-strategist-helping-global-companies-build-safer-more-trustworthy-artificial-intelligence/",
-      "source": "Techbullion",
-      "sourceType": "external",
-      "image": "https://techbullion.com/wp-content/uploads/2026/06/image-Luciano-Ferreira-1024x478.png",
-      "publishedAt": "2026-06-24T07:01:45.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "luciano ferreira",
-        "brazilian data governance",
-        "ai specialist"
+        "finance"
       ],
       "priority": 41
     },
     {
-      "id": "eaeacf57d108d827",
-      "slug": "oracle-nyse-orcl-holds-638-billion-backlog-as-stock-selloff-creates-rare-entry-point-a2d3a3",
-      "title": "Oracle (NYSE: ORCL) Holds $638 Billion Backlog As Stock Selloff Creates Rare Entry Point",
-      "dek": "Oracle (NYSE: ORCL) has shed 29.45% of its value since June 1, triggering alarm across the financial press while quietly presenting one of the more compelling infrastructure investment cases in the current AI cycle. The company occupies what analysts increasingly describe as the toll booth position ",
-      "url": "https://equity-insider.com/oracle-nyse-orcl-holds-638-billion-backlog-as-stock-selloff-creates-rare-entry-point/",
-      "source": "Equity Insider",
+      "id": "d0d17bc8ae45794b",
+      "slug": "oracle-strengthens-defense-ecosystem-to-help-emerging-technology-companies-scale-mission-f6cbdb",
+      "title": "Oracle Strengthens Defense Ecosystem to Help Emerging Technology Companies Scale Mission-Ready Capabilities",
+      "dek": "Oracle, Defence Holdings, and Shield Reply collaborate to help emerging defense technology companies bring mission-ready AI, cyber, and operational capabilities to the US and allied nations At Oracle Defence Tech Summit 2026, Oracle today announced the third cohort of the Oracle Defense Ecosystem,..",
+      "url": "https://investingnews.com/oracle-strengthens-defense-ecosystem-to-help-emerging-technology-companies-scale-mission-ready-capabilities/",
+      "source": "Investing News Network (inn)",
       "sourceType": "external",
-      "image": "https://equity-insider.com/wp-content/uploads/2026/06/oracle-2.jpg",
-      "publishedAt": "2026-06-24T06:10:11.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "ORCL",
-        "AI"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "cbef5e5c-be5e-45e5-b343-ea7967138219",
-      "slug": "plan-to-save-ksh-85b-nairobi-based-international-company-cuts-550-jobs-b34bc5",
-      "title": "\"Plan to save KSh 85b\": Nairobi-based international company cuts 550 jobs",
-      "dek": "The job cuts were communicated to employees via email by BBC News's interim CEO, Jonathan Munro The BBC, which employs around 21,500 full-time staff, relies largely on the TV licence fee for its revenue However, in recent years, declining TV licence sales have put pressure on its funding model",
-      "url": "https://www.tuko.co.ke/business-economy/economy/630517-nairobi-based-international-company-cuts-550-jobs-save-ksh-85b/",
-      "source": "Tuko News",
-      "sourceType": "external",
-      "image": "https://cdn.tuko.co.ke/images/1120/74b5eb6d8b97270b.jpeg?v=1",
-      "publishedAt": "2026-06-24T06:06:58.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "entertainment"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "73dfdf9debdc23d7",
-      "slug": "bitcoin-moves-markets-but-candychain-is-building-for-the-next-market-cycle-eace70",
-      "title": "Bitcoin Moves Markets. But CandyChain Is Building for the Next Market Cycle",
-      "dek": "Open any crypto group chats this month, and you'll find the same conversation looping over and over: is this the bottom, is rotation finally coming, will altcoins ever wake up? Bitcoin's been bouncing between roughly $60,000 and $65,000, dominance is",
-      "url": "https://www.openpr.com/news/4559252/bitcoin-moves-markets-but-candychain-is-building-for-the-next",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/6/L624862594_g.jpg",
-      "publishedAt": "2026-06-24T05:49:36.000Z",
+      "image": "https://investingnews.com/media-library/image.jpg?id=50349587&width=1200",
+      "publishedAt": "2026-06-25T06:35:24.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "pr",
-        "publicity",
-        "pressreleases",
-        "advertising",
-        "presses release",
-        "news release"
+        "oracle",
+        "orcl",
+        "tech-investing",
+        "nyse-orcl"
       ],
       "priority": 40
     },
     {
-      "id": "4f7c0637b4ece07d",
-      "slug": "cloud-gaming-technology-market-analysis-by-application-type-technology-and-geography-glo-c0e70f",
-      "title": "Cloud Gaming Technology Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2035",
-      "dek": "The Cloud Gaming Technology Market reached a valuation of 13.36 billion in 2026 and is anticipated to expand at a CAGR of 15.2% during the forecast period from 2026 to 2035, ultimately attaining an estimated value of 41.45 billion by",
-      "url": "https://www.openpr.com/news/4559249/cloud-gaming-technology-market-analysis-by-application-type",
-      "source": "Openpr.com",
+      "id": "c36b7d30bc960fc7",
+      "slug": "digital-health-market-size-to-reach-usd-1-830-4-billion-by-2033-driven-by-rising-adoptio-c4ed99",
+      "title": "Digital Health Market Size to Reach USD 1,830.4 Billion by 2033, Driven by Rising Adoption of Telehealth, mHealth, AI-Based Solutions, and Connected Healthcare Technologies: Grand View Research, Inc.",
+      "dek": "SAN FRANCISCO, June 24, 2026 /PRNewswire/ -- The global digital health market is expected to witness significant expansion over the coming years, with the market size estimated at USD 347.4 billio...",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-06/68857487-digital-health-market-size-to-reach-usd-1-830-4-billion-by-2033-driven-by-rising-adoption-of-telehealth-mhealth-ai-based-solutions-and-connected-h-008.htm",
+      "source": "Finanznachrichten.de",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/6/L624339806_g.jpg",
-      "publishedAt": "2026-06-24T05:47:41.000Z",
+      "image": "https://rt.prnewswire.com/rt.gif?NewsItemId=EN90140&Transmission_Id=202606242346PR_NEWS_EURO_ND__EN90140&DateId=20260624",
+      "publishedAt": "2026-06-25T03:48:00.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "pr",
-        "publicity",
-        "pressreleases",
-        "advertising",
-        "presses release",
-        "news release"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "cad3872ebf981a04",
-      "slug": "plm-software-professional-market-analysis-by-application-type-technology-and-geography-g-a8ec68",
-      "title": "Plm Software Professional Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2035",
-      "dek": "The Plm Software Professional Market reached a valuation of 15.12 billion in 2026 and is anticipated to expand at a CAGR of 11.69% during the forecast period from 2026 to 2035, ultimately attaining an estimated value of 36.62 billion by",
-      "url": "https://www.openpr.com/news/4559247/plm-software-professional-market-analysis-by-application",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/6/L624296565_g.jpg",
-      "publishedAt": "2026-06-24T05:45:23.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "pr",
-        "publicity",
-        "pressreleases",
-        "advertising",
-        "presses release",
-        "news release"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "c7ce469b53b679ab",
-      "slug": "oracle-s-billionaire-boss-finally-discloses-the-extent-of-his-job-slashing-carnage-13-of-fdc995",
-      "title": "Oracle's billionaire boss FINALLY discloses the extent of his job slashing carnage: 13% of the company's staff have been laid off over the last year",
-      "dek": "Oracle has quietly disclosed MASSIVE job cuts from the last year, equal to 21,000 jobs or 13% of the tech giant's staff.",
-      "url": "https://www.dailymail.com/yourmoney/article-15923997/oracle-larry-ellison-job-cuts-ai.html",
-      "source": "Mail Online",
-      "sourceType": "external",
-      "image": "https://i.dailymail.com/1s/2026/06/23/20/109548491-0-image-a-20_1782242637882.jpg",
-      "publishedAt": "2026-06-24T04:30:39.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "yourmoney",
-        "oracle larry ellison job cuts ai",
-        "dailymail"
+        "billion",
+        "adoption",
+        "technologies",
+        "healthcare",
+        "research",
+        "market"
       ],
       "priority": 39
     },
     {
-      "id": "fb9ec1297563ae7b",
-      "slug": "oracle-cuts-21-000-jobs-in-a-year-cites-ai-driven-workforce-reductions-11aed7",
-      "title": "Oracle cuts 21,000 jobs in a year, cites AI-driven workforce reductions",
-      "dek": "The layoffs resulted in restructuring costs of approximately $1.8 billion. Despite the job reductions, Oracle continues to invest heavily in AI infrastructure and data centres to support growing demand from customers, including OpenAI. The disclosure highlights the increasing impact of AI on employm",
-      "url": "https://www.ibtimes.co.in/oracle-cuts-21000-jobs-year-cites-ai-driven-workforce-reductions-903221",
-      "source": "International Business Times",
+      "id": "c6048c23-b6d3-49a6-a348-a6c8b952b555",
+      "slug": "tech-stocks-trade-mixed-dow-rises-to-record-ccdba0",
+      "title": "Tech Stocks Trade Mixed, Dow Rises to Record",
+      "dek": "Tech heavyweight companies in the US diverged further on Thursday, as hyperscale cloud providers sank and chip producers rallied.",
+      "url": "https://www.tradingview.com/news/te_news:561946:0-tech-stocks-trade-mixed-dow-rises-to-record/",
+      "source": "TradingView",
       "sourceType": "external",
-      "image": "https://data1.ibtimes.co.in/en/full/833772/oracle-cuts-21000-jobs-year-cites-ai-driven-workforce-reductions.jpg",
-      "publishedAt": "2026-06-24T03:27:18.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "workforce reduction",
-        "technology sector",
-        "oracle layoffs",
-        "oracle annual filing",
-        "global layoffs",
-        "ai automation"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "a749d35e-5cb9-4d9d-b22b-adb8f08ac1e2",
-      "slug": "petronas-makes-new-gas-find-at-suriname-offshore-block-discoveries-equivalent-to-1bil-ba-29d21c",
-      "title": "Petronas makes new gas find at Suriname offshore block, discoveries equivalent to 1bil barrels",
-      "dek": "No adverse effects on Iran despite 'pragmatists' vs 'hardliners' rivalry 24 June 2026, 5:13pm This is generated by AI, we welcome feedback. Factional divisions and...",
-      "url": "https://www.nst.com.my/newssummary/1471235",
-      "source": "NST Online",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-06-24T02:05:37.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+      "publishedAt": "2026-06-25T14:52:32.000Z",
+      "topic": "Business & Earnings",
       "tags": [
         "business",
-        "energy"
+        "finance"
       ],
-      "priority": 38
+      "priority": 37
     },
     {
-      "id": "6d6b32d6d590e327",
-      "slug": "almalinux-9-2-achieves-international-common-criteria-security-certification-in-japan-17edbf",
-      "title": "AlmaLinux 9.2 Achieves International Common Criteria Security Certification in Japan",
-      "dek": "IEC 15408) in Japan, an internationally recognized standard for evaluating the security functions of IT",
-      "url": "https://www.einpresswire.com/article/921646232/almalinux-9-2-achieves-international-common-criteria-security-certification-in-japan",
-      "source": "Ein Presswire",
+      "id": "e4da689c-b03d-450f-86ea-88a55309f646",
+      "slug": "top-5-blue-chip-stocks-with-growing-dividends-9cd736",
+      "title": "Top 5 Blue Chip Stocks with Growing Dividends",
+      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
+      "url": "https://www.insidermonkey.com/blog/top-5-blue-chip-stocks-with-growing-dividends-1788736/2/",
+      "source": "Insider Monkey",
       "sourceType": "external",
-      "image": "https://img.einnews.com/ampsize/589713/almalinux.png",
-      "publishedAt": "2026-06-24T00:00:00.000Z",
-      "topic": "Security",
+      "image": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2022/07/20073935/hd-wallpaper-549161_1280.jpg",
+      "publishedAt": "2026-06-25T00:09:52.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "worldnews",
-        "florida",
-        "japan",
-        "technology",
-        "it industry",
-        "united states"
+        "shopping"
       ],
       "priority": 36
     },
     {
-      "id": "a86825e0860efc96",
-      "slug": "oracle-reveals-21-000-layoffs-in-last-year-were-due-to-ai-80cee0",
-      "title": "Oracle reveals 21,000 layoffs in last year were due to AI",
-      "dek": "The Texas-based cloud company disclosed nearly $2 billion in severance and restructuring expenses tied to workforce reductions, which began in March",
-      "url": "https://www.independent.co.uk/tech/oracle-layoffs-ai-job-b3001458.html",
-      "source": "The Independent",
+      "id": "506f691ca2fb9b4b",
+      "slug": "oracle-cuts-21-000-jobs-and-blames-ai-and-company-overhaul-08daea",
+      "title": "Oracle cuts 21,000 jobs and blames AI and company overhaul",
+      "dek": "Oracle cut 21,000 jobs over the past year, citing AI and corporate restructuring. The layoffs drove severance costs to $1.84 billion.",
+      "url": "https://completeaitraining.com/news/oracle-cuts-21000-jobs-and-blames-ai-and-company-overhaul/",
+      "source": "Complete Ai Training",
       "sourceType": "external",
-      "image": "https://static.independent.co.uk/2026/06/23/21/25/GettyImages-2204393291.jpeg?width=1200&auto=webp&trim=54%2C0%2C55%2C0",
-      "publishedAt": "2026-06-23T22:27:59.000Z",
+      "image": "https://cdn.completeaitraining.com/news_images/oracle-cuts-21-000-jobs-and-blames-ai-and-company-overhaul_2026-06-24.jpg",
+      "publishedAt": "2026-06-25T00:06:03.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "AI"
+        "ai news",
+        "human resources"
       ],
+      "priority": 36
+    },
+    {
+      "id": "9e9bab76-720a-4448-bdf5-6da4813241bc",
+      "slug": "10-reliable-dividend-stocks-to-buy-for-long-term-investors-7f75d6",
+      "title": "10 Reliable Dividend Stocks to Buy for Long-Term Investors",
+      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
+      "url": "https://www.insidermonkey.com/blog/10-reliable-dividend-stocks-to-buy-for-long-term-investors-1788816/",
+      "source": "Insider Monkey",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/wXXx_w-nT4bn1Ey9vNZsEbBKEdGexc3PSkbbRFafZbo/resize:fit:1920:1275:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2021/10/28044525/dan-dennis-WEs-6Cwqs4I-unsplash.jpg",
+      "publishedAt": "2026-06-24T23:23:41.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "personal finance"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "5c4c6d32aefedf91",
+      "slug": "ncgc-smedan-partner-on-msme-financing-support-901b1a",
+      "title": "NCGC, SMEDAN Partner on MSME Financing Support",
+      "dek": "The National Credit Guarantee Company Limited (NCGC) and the Small and Medium Enterprises Development Agency of Nigeria (SMEDAN) have signed a Memorandum of Understanding (MoU) aimed at supporting access to finance for Micro, Small and Medium Enterprises (MSMEs) in Nigeria. The agreement was signed ",
+      "url": "https://www.nigeriacommunicationsweek.com.ng/ncgc-smedan-partner-on-msme-financing-support/",
+      "source": "Nigerian Communicationweek",
+      "sourceType": "external",
+      "image": "https://i0.wp.com/www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2026/06/SMEDAN-logo.png?resize=630%2C351&ssl=1",
+      "publishedAt": "2026-06-24T23:03:07.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "Partner"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "455282f22a624bb9",
+      "slug": "elon-musk-loses-trillionaire-status-as-500bn-vanishes-in-days-13a6e9",
+      "title": "Elon Musk Loses Trillionaire Status as $500Bn Vanishes in Days",
+      "dek": "Elon Musk is no longer a trillionaire after a sharp global sell-off in technology stocks wiped an estimated $500bn (£379bn) from his personal fortune. The billionaire entrepreneur Elon Musk had recently become the first individual to reach the trillion-dollar milestone following a record-breaking li",
+      "url": "https://www.nigeriacommunicationsweek.com.ng/elon-musk-loses-trillionaire-status-as-500bn-vanishes-in-days/",
+      "source": "Nigerian Communicationweek",
+      "sourceType": "external",
+      "image": "https://i0.wp.com/www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2026/05/elon.jpg?resize=900%2C400&ssl=1",
+      "publishedAt": "2026-06-24T23:02:53.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "0380c6ac786a8717",
+      "slug": "top-5-blue-chip-stocks-with-growing-dividends-f58706",
+      "title": "Top 5 Blue Chip Stocks with Growing Dividends",
+      "dek": "In this article, we will take a look at the Top 5 Blue Chip Stocks with Growing Dividends. For deeper discussion and analysis, read Top 10 Blue Chip Stocks with Growing Dividends. 5. Caterpillar Inc. (NYSE:CAT) Number of Hedge Fund Holders: 87 On June 23, Wells Fargo raised its price recommendation ",
+      "url": "https://www.insidermonkey.com/blog/top-5-blue-chip-stocks-with-growing-dividends-1788736/",
+      "source": "Insider Trading",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/4IXCahfcGqOBhdvYPXHW3D1WkZPaVlJQRwLF3a3D1_o/resize:fit:1280:853:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2022/07/20073935/hd-wallpaper-549161_1280.jpg",
+      "publishedAt": "2026-06-24T22:22:09.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "28b348a30a3f55c8",
+      "slug": "privacy-preserving-active-learning-for-smart-agriculture-microgrid-orchestration-with-et-df20ee",
+      "title": "Privacy-Preserving Active Learning for smart agriculture microgrid orchestration with ethical auditability baked in",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/technology/privacy-preserving-active-learning-for-smart-agriculture-microgrid-orchestration-with-ethical-auditability-baked-in-ABCA9244-DA96-47EA-9E38-BFB9D51CC946",
+      "source": "Bundle",
+      "sourceType": "external",
+      "image": "https://static.bundle.app/news/3b779f25-321d-5433-9dbd-eb37caf84c4b.jpg",
+      "publishedAt": "2026-06-24T22:20:59.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
       "priority": 36
     },
     {
@@ -2004,6 +1961,23 @@
       "sourceType": "podcast",
       "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP3.mp3?dest-id=3870039",
       "publishedAt": "2024-08-13T11:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Oracle Database",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ffc09f7346e6f6b5",
+      "slug": "database-security-part-1-b4c13f",
+      "title": "Database Security: Part 1",
+      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they dive into the critical topic of database security. In the first of a two-part series on database security in Oracle Database 23ai, they discuss the importance of protecting dat",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-08-06T11:00:00.000Z",
       "topic": "Security",
       "tags": [
         "Oracle Database",
