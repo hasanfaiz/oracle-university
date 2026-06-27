@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T21:49:47.776Z",
+  "generatedAt": "2026-06-27T21:39:22.578Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,151 +7,53 @@
   },
   "items": [
     {
-      "id": "351ec7ec-8ff5-4707-b2c8-ba6f0832126b",
-      "slug": "8-8-inc-eght-s-ai-studio-platform-gets-real-time-voice-translation-abafff",
-      "title": "8×8 Inc (EGHT)’s AI Studio Platform Gets Real-Time Voice Translation",
-      "dek": "On June 11, 8×8 Inc (NASDAQ:EGHT) added real-time voice translation capability to its AI Studio platform. This feature enables agents and customers to communicate in different languages without an interpreter.",
-      "url": "https://www.insidermonkey.com/blog/8x8-inc-eghts-ai-studio-platform-gets-real-time-voice-translation-1789603/",
+      "id": "758a499a-b544-4f2a-89c5-7c4af7d6d7ea",
+      "slug": "snowflake-snow-selected-by-unlimitail-for-retail-media-data-hub-fa8856",
+      "title": "Snowflake (SNOW) Selected by Unlimitail for Retail Media Data Hub",
+      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
+      "url": "https://www.insidermonkey.com/blog/snowflake-snow-selected-by-unlimitail-for-retail-media-data-hub-1790623/",
       "source": "Insider Monkey",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/Pf9wEuF6ORk_IF2WvNLCvKVFdwl6eA3ZdSu-78NiWXE/resize:fit:1920:1390:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2026/04/29080007/campaign-creators-pypeCEaJeZY-unsplash.jpg",
-      "publishedAt": "2026-06-26T20:21:56.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "finance"
-      ],
-      "priority": 68
-    },
-    {
-      "id": "6d435ba5-db0d-4df2-b775-e579f489517c",
-      "slug": "roadzen-inc-rdzn-secures-another-10-million-contract-in-india-342572",
-      "title": "Roadzen Inc (RDZN) Secures Another $10 Million Contract in India",
-      "dek": "Roadzen Inc (NASDAQ:RDZN) is one of the best AI stocks under $10 to buy now. The stock has gained around 50% over the past year, and analysts see a more than 230% upside potential in the stock from the current price.",
-      "url": "https://www.insidermonkey.com/blog/roadzen-inc-rdzn-secures-another-10-million-contract-in-india-1789622/",
-      "source": "Insider Monkey",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/mdTJiQrRwNaCBJRNqTnJJq9B9TgbHOKe5bCr1_SOmuU/resize:fit:640:360:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2026/06/26024706/igor-omilaev-FHgWFzDDAOs-unsplash.jpg",
-      "publishedAt": "2026-06-26T20:21:56.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "finance"
-      ],
-      "priority": 68
-    },
-    {
-      "id": "51fdd47d-73d2-473b-b963-325ad609af1d",
-      "slug": "oracle-stock-has-worst-week-since-2001-dot-com-bust-as-ai-financing-concerns-escalate-b3b27f",
-      "title": "Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate",
-      "dek": "Oracle CEO Clay Magouyrk, center, speaks on a media tour of the Stargate data center in Abilene, Texas, on Sept. 23, 2025.",
-      "url": "https://www.cnbc.com/2026/06/26/oracle-stock-ends-worst-week-since-2001-as-investors-dwell-on-finances.html",
-      "source": "CNBC",
-      "sourceType": "external",
-      "image": "https://image.cnbcfm.com/api/v1/image/108213143-1760637556613-gettyimages-2236546743-STARGATE_DATA_CENTER.jpeg?v=1782499975&w=1600&h=900",
-      "publishedAt": "2026-06-26T20:20:20.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "business",
-        "finance"
-      ],
-      "priority": 68
-    },
-    {
-      "id": "d826e0d6-e41a-4916-9593-0f844a0a709e",
-      "slug": "market-outlook-ge-vernova-and-asml-emerge-as-leading-ai-winners-0d9396",
-      "title": "Market Outlook: GE Vernova and ASML emerge as leading AI winners",
-      "dek": "Hans Albrecht, equity fund manager at Option Pit, joins BNN Bloomberg to discuss how to navigate the markets amid AI uncertainty.",
-      "url": "https://www.bnnbloomberg.ca/investing/market-outlook/2026/06/26/market-outlook-ge-vernova-and-asml-emerge-as-leading-ai-winners/",
-      "source": "BNN Bloomberg",
-      "sourceType": "external",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/IO4DHDOKLRYCOWRALXKOCF3BBQ.jpg?auth=21d8241d66bf7bfabd94833ca5ba997e17095753155769688035cf8700fa4517",
-      "publishedAt": "2026-06-26T19:30:57.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "energy"
-      ],
-      "priority": 63
-    },
-    {
-      "id": "276ad98b-3fa2-4f90-9c46-e6653f1aa92d",
-      "slug": "forget-apple-amazon-just-made-ai-a-lot-more-expensive-1f04ce",
-      "title": "Forget Apple. Amazon just made AI a lot more expensive.",
-      "dek": "Forget Apple. Amazon just made AI a lot more expensive. By Eugene Kim",
-      "url": "https://www.businessinsider.com/amazon-raises-ai-cloud-prices-memory-chip-costs-soar-2026-6",
-      "source": "Business Insider",
-      "sourceType": "external",
-      "image": "https://i.insider.com/69a612881fb3fcb42648c7b5?width=700",
-      "publishedAt": "2026-06-26T17:12:19.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "business"
-      ],
-      "priority": 54
-    },
-    {
-      "id": "a1587376-0bcd-4e1b-956d-c1842060c978",
-      "slug": "wedbush-brushes-off-tech-sell-off-as-buying-chance-in-multi-year-ai-bull-run-4982c3",
-      "title": "Wedbush brushes off tech sell-off as buying chance in multi-year AI bull run",
-      "dek": "A sharp sell-off in leading technology stocks reflects short-term impatience rather than any breakdown in the artificial intelligence trade, according to Wedbush.",
-      "url": "https://www.proactiveinvestors.com/companies/news/1094563/wedbush-brushes-off-tech-sell-off-as-buying-chance-in-multi-year-ai-bull-run-1094563.html",
-      "source": "Proactive financial news",
-      "sourceType": "external",
-      "image": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDI2XzA2XC8yMDIyLTAzLTI1LTE2LTMzLTIwLWM5M2Q3ZGQ0OTEwOTU0NjUzOWU4YTM2YTRjMWI5ODk2LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6NDIwLCJoZWlnaHQiOjE5NSwiZml0IjoiY292ZXIifX19",
-      "publishedAt": "2026-06-26T15:05:49.000Z",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/nOVE3bwZZxs1IHmlUu80EScRvHdil5iMt5WFYgAC3k4/resize:fit:1920:1280:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2021/09/19204541/Business-laptop-campaign-creators-774sCXD0dDU-unsplash.jpg",
+      "publishedAt": "2026-06-27T19:37:21.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "business"
       ],
-      "priority": 50
+      "priority": 64
     },
     {
-      "id": "febf4c77-86c4-4f7a-b84e-84945a7aab99",
-      "slug": "the-ai-selloff-is-getting-brutal-10-tech-giants-already-deep-in-bear-market-territory-3d8c4d",
-      "title": "The AI Selloff Is Getting Brutal: 10 Tech Giants Already Deep in Bear Market Territory",
-      "dek": "The AI boom promised to create a new generation of market winners. Instead, it has also exposed just how quickly expectations can outrun reality. After years of paying premium valuations for anything tied to artificial intelligence, investors are now demanding stronger earnings, disciplined spending",
-      "url": "https://247wallst.com/investing/2026/06/26/the-ai-selloff-is-getting-brutal-10-tech-giants-already-deep-in-bear-market-territory/",
-      "source": "24/7 Wall St.",
+      "id": "cd5a9e3d-8cdf-432a-93b5-9258d32b01f6",
+      "slug": "is-meta-meta-one-of-the-safe-stocks-for-beginners-to-buy-in-2026-41aaba",
+      "title": "Is Meta (META) One of the Safe Stocks for Beginners to Buy in 2026?",
+      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
+      "url": "https://www.insidermonkey.com/blog/is-meta-meta-one-of-the-safe-stocks-for-beginners-to-buy-in-2026-1790430/",
+      "source": "Insider Monkey",
       "sourceType": "external",
-      "image": "https://247wallst.com/wp-content/uploads/2025/07/Bear-Market.jpg",
-      "publishedAt": "2026-06-26T15:03:51.000Z",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/L1V-nIGTxebhxXRo8pLbUM3CQZJM_RemXLgkowfYJrM/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/19153233/META-insidermonkey-1695151950867.jpg",
+      "publishedAt": "2026-06-27T18:46:57.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "finance"
+        "business"
       ],
-      "priority": 50
+      "priority": 60
     },
     {
-      "id": "6026789c-beaf-4057-bac3-1a4fe24188d4",
-      "slug": "why-is-oracle-s-stock-dropping-amid-record-breaking-ai-growth-31415c",
-      "title": "Why Is Oracle’s Stock Dropping Amid Record-Breaking AI Growth?",
-      "dek": "The company is chasing unprecedented AI demand with a striking investment plan, creating a clear choice between future growth and present-day execution risk. Oracle (ORCL) just signed $67 billion in AI infrastructure contracts in a single quarter, swelling its backlog of future business to a steep $",
-      "url": "https://www.trefis.com/stock/orcl/articles/604717/why-is-oracles-stock-dropping-amid-record-breaking-ai-growth/2026-06-26",
-      "source": "Trefis",
+      "id": "8e144bec-7d7b-4e9a-90dc-0411ca6b7ad7",
+      "slug": "alphabet-goog-reports-computer-use-now-a-built-in-tool-supported-in-gemini-3-5-flash-31aac5",
+      "title": "Alphabet (GOOG) Reports Computer Use Now a Built-In Tool Supported in Gemini 3.5 Flash",
+      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
+      "url": "https://www.insidermonkey.com/blog/alphabet-goog-reports-computer-use-now-a-built-in-tool-supported-in-gemini-3-5-flash-1790428/",
+      "source": "Insider Monkey",
       "sourceType": "external",
-      "image": "https://s3.amazonaws.com/wp-uploads-trefis/articles/wp-content/uploads/2025/12/08070539/microchips-4924170_1280.jpg",
-      "publishedAt": "2026-06-26T15:00:36.000Z",
-      "topic": "Security",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/4QC-0M_E1COcXeFB8-oZBm_bD7Us8623jRX62pq0qRQ/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/19163428/GOOGL-insidermonkey-1695155666632.jpg",
+      "publishedAt": "2026-06-27T18:46:57.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "business",
-        "finance"
+        "mobile",
+        "technology"
       ],
-      "priority": 50
-    },
-    {
-      "id": "0361552d-31a1-44ad-a6f6-f3dd085b6f04",
-      "slug": "oracle-s-ai-spend-outruns-cloud-revenues-what-s-ahead-for-the-stock-3827b0",
-      "title": "Oracle's AI Spend Outruns Cloud Revenues: What's Ahead for the Stock?",
-      "dek": "Oracle's fiscal 2026 capex jumped 162% to $55.7B, while free cash flow fell to negative $23.7B. Oracle's cloud revenues rose 47% in fiscal Q4, with IaaS up 93% and RPO reaching $638B. ORCL forecasts $90B fiscal 2027 revenues, 18% non-GAAP EPS growth and 58-64% Q1 cloud growth.",
-      "url": "https://www.zacks.com/stock/news/2943781/oracles-ai-spend-outruns-cloud-revenues-whats-ahead-for-the-stock",
-      "source": "Zacks Investment Research",
-      "sourceType": "external",
-      "image": "https://staticx-tuner.zacks.com/images/articles/main/79/525.jpg",
-      "publishedAt": "2026-06-26T14:02:48.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "business",
-        "finance"
-      ],
-      "priority": 48
+      "priority": 60
     },
     {
       "id": "f58466d207e1f5cc",
@@ -202,172 +104,223 @@
       "priority": 46
     },
     {
-      "id": "8e92b311-ba52-423f-82a1-c493d4bc1e2b",
-      "slug": "miasma-malware-targets-npm-packages-and-github-actions-in-supply-chain-attack-7af773",
-      "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
-      "dek": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem.",
-      "url": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
-      "source": "The Hacker News",
+      "id": "ba2cbe092c7be9d0",
+      "slug": "oracle-layoffs-one-email-500-jobs-and-a-lot-of-unanswered-questions-here-s-what-happened-0659c1",
+      "title": "Oracle Layoffs: One Email, 500 Jobs, And A Lot Of Unanswered Questions; Here's What Happened",
+      "dek": "Oracle Layoffs: Oracle has begun another major round of layoffs in Romania, affecting about 500 employees as the tech giant continues global restructuring.",
+      "url": "https://www.timesnownews.com/business-economy/companies/oracle-layoffs-one-email-500-jobs-and-a-lot-of-unanswered-questions-heres-what-happened-article-154775541",
+      "source": "Times Now News",
       "sourceType": "external",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhatZ2Vkvxd086INLXiuhbRJrli5Ao9hoNajbVq-Xr0HVAS70cCzhRBfM78KEusnBPI1sXyAK5tYrKt55U5mTIXCQDAmBzY2e860qtXo4YAlvAnVWHDV3DddKUML1q1g71h97Ke1i-714gv5SaVW9lmaFNtRda5XP1kc20urtc-HzlX5JXwkQv0g_-1VwC3/s1700-e365/Miasma.jpg",
-      "publishedAt": "2026-06-26T11:05:00.000Z",
-      "topic": "Security",
+      "image": "https://images.timesnownews.com/thumb/msid-154775737,width-1280,height-720,resizemode-75/154775737.jpg",
+      "publishedAt": "2026-06-27T09:19:23.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "internet security"
+        "oracle layoffs june 2026",
+        "oracle romania employees",
+        "oracle layoffs romania",
+        "oracle romania layoffs 2026",
+        "oracle job cuts"
       ],
-      "priority": 45
+      "priority": 43
     },
     {
-      "id": "703a22fc-0d5e-4608-afae-ad7539fd3a58",
-      "slug": "wedbush-and-rosenblatt-boost-price-targets-on-micron-technology-mu-amid-rising-ai-memory-877138",
-      "title": "Wedbush and Rosenblatt Boost Price Targets on Micron Technology (MU) Amid Rising AI Memory Demand",
-      "dek": "Micron Technology Inc. (NASDAQ:MU) ranks among the best tech stocks to buy now for the “Vera Rubin” chip cycle. On June 18, Wedbush increased its price target for Micron Technology Inc.",
-      "url": "https://www.insidermonkey.com/blog/wedbush-and-rosenblatt-boost-price-targets-on-micron-technology-mu-amid-rising-ai-memory-demand-1789441/",
-      "source": "Insider Monkey",
+      "id": "c47c61ef-4020-4d0e-a01e-a772e69588c8",
+      "slug": "vertiv-stock-and-2-ai-power-infrastructure-picks-for-data-center-demand-2f7fb7",
+      "title": "Vertiv Stock And 2 AI Power Infrastructure Picks For Data Center Demand",
+      "dek": "With inflation trends, central bank signals and energy costs all pulling markets in different directions, many investors are looking for themes backed by essential infrastructure rather than short term headlines. The Power Grid Technology Stocks screener focuses on companies at the core of the elect",
+      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-be/bloom-energy/news/vertiv-stock-and-2-ai-power-infrastructure-picks-for-data-ce",
+      "source": "simplywall.st",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/hdYQhdqZ_eEISm9liligDXWvsF51IbHKMijEeV2shXM/resize:fit:564:543:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2015/06/Micron-Posts-706-Million-Loss-3.jpg",
-      "publishedAt": "2026-06-26T10:56:56.000Z",
+      "image": "https://images.simplywall.st/asset/industry/3052000-choice1-main-header/1585187042096",
+      "publishedAt": "2026-06-27T09:15:20.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "energy"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "8d1126ce1fabfd11",
+      "slug": "5-worst-artificial-intelligence-stocks-under-30-according-to-short-sellers-8b1240",
+      "title": "5 Worst Artificial Intelligence Stocks Under $30 According to Short Sellers",
+      "dek": "In this article, we will list the 5 Worst Artificial Intelligence Stocks Under $30 According to Short Sellers. Please visit 10 Worst Artificial Intelligence Stocks Under $30 According to Short Sellers if you’d like to see an extended list and the methodology behind it. 5. Tempus AI Inc. (NASDAQ:TEM)",
+      "url": "https://www.insidermonkey.com/blog/5-worst-artificial-intelligence-stocks-under-30-according-to-short-sellers-1790015/",
+      "source": "Insider Trading",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/SDNig-AI8VszHlKdffQgsArLgPZ0IMvWcZijZXgsJwM/resize:fit:1280:857:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2015/08/artificial-intelligence-503592_1280.jpg",
+      "publishedAt": "2026-06-27T09:08:03.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "a31dac98-fa78-4378-9462-a865d42e465b",
+      "slug": "microsoft-jumped-5-in-a-single-day-after-michael-burry-went-long-here-s-where-msft-could-790636",
+      "title": "Microsoft Jumped 5% in a Single Day After Michael Burry Went Long. Here’s Where MSFT Could Go in 2026",
+      "dek": "Key Stats for Microsoft Stock Current Price: $372.97 Target Price (Mid): ~$760 Street Target: ~$561 Potential Total Return: ~104% Annualized IRR: ~19% / year Earnings Reaction: -3.93% (April 29, 2026) Max Drawdown: 34.91% (June 25, 2026) Now Live: Discover how much upside your favorite stocks could ",
+      "url": "https://www.tikr.com/blog/microsoft-jumped-5-in-a-single-day-after-michael-burry-went-long-heres-where-msft-could-go-in-2026",
+      "source": "TIKR.com",
+      "sourceType": "external",
+      "image": "https://res.cloudinary.com/tikr/images/f_auto,q_auto,w_800/v1782548839/images/3-24_113339b00c9/3-24_113339b00c9",
+      "publishedAt": "2026-06-27T08:53:56.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "finance"
       ],
-      "priority": 44
+      "priority": 43
     },
     {
-      "id": "8a5c98405e2a1b71",
-      "slug": "oracle-health-orcl-theator-partner-to-automate-surgical-reporting-with-ai-006a8d",
-      "title": "Oracle Health (ORCL), Theator Partner to Automate Surgical Reporting with AI",
-      "dek": "Oracle Corporation (NYSE:ORCL) is one of the best stocks for beginners to buy now. On June 24, Oracle Health and Theator partnered to bring AI-powered surgical intelligence to US operating rooms. By analyzing surgical video and EHR data through Oracle Cloud Infrastructure, the platform automates ope",
-      "url": "https://www.insidermonkey.com/blog/oracle-health-orcl-theator-partner-to-automate-surgical-reporting-with-ai-1789581/",
-      "source": "Insider Trading",
+      "id": "7221a0db1f1ad7c2",
+      "slug": "should-we-fear-an-ai-bubble-bust-1fdbda",
+      "title": "Should we fear an AI bubble bust?",
+      "dek": "Recent swings in tech stocks are reviving fears of an AI bubble -- and some experts warn that if it pops, the fallout could be bigger than anything Wall Street has ever seen.",
+      "url": "https://www.thestandard.com.hk/world/article/335743/Should-we-fear-an-AI-bubble-bust",
+      "source": "The Standard 英文虎報",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/tytlz4HkqrlPVjm_RliYWxh7rVSp-cpL02x_081pgHg/resize:fit:960:635:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2017/11/19171330/computer-2788918_960_720.jpg",
-      "publishedAt": "2026-06-26T08:19:53.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "Oracle Cloud Infrastructure",
-        "Oracle Health",
-        "ORCL",
-        "AI",
-        "Partner"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "036c0145bb48ebae",
-      "slug": "practice-management-system-market-size-to-reach-usd-37-64-billion-by-2035-sns-insider-760589",
-      "title": "Practice Management System Market Size to Reach USD 37.64 Billion by 2035 | SNS Insider",
-      "dek": "The U.S. Practice Management System Market is projected to grow from USD 5.35 Billion in 2025 to USD 13.51 Billion by 2035, while Europe is expected to expand from USD 3.92 Billion to USD 9.29 Billion, supported by healthcare digitization, AI-powered revenue cycle automation, and increasing adoption",
-      "url": "https://www.globenewswire.com/news-release/2026/06/26/3318071/0/en/Practice-Management-System-Market-Size-to-Reach-USD-37-64-Billion-by-2035-SNS-Insider.html",
-      "source": "Globe Newswire",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-06-26T08:12:00.000Z",
+      "image": "https://image.hkstandard.com.hk/f/1024p0/0x0/100/none/bd3e5b67328dc143b516959ce969eb7f/2026-06/AFP__20260626__B8DJ3CT__v1__HighRes__SkoreaMarketStocks.jpg",
+      "publishedAt": "2026-06-27T08:36:48.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "healthcare it",
-        "practice management system",
-        "revenue cycle management",
-        "medical billing software",
-        "sns insider pvt ltd",
-        "practice management software"
+        "fear",
+        "bubble bust",
+        "ai"
       ],
       "priority": 42
     },
     {
-      "id": "d022184d679df235",
-      "slug": "here-is-why-tesla-tsla-is-one-of-the-best-stocks-for-beginners-to-buy-now-bf4ebc",
-      "title": "Here is Why Tesla (TSLA) is One of the Best Stocks For Beginners to Buy Now",
-      "dek": "Tesla Inc. (NASDAQ:TSLA) is one of the best stocks for beginners to buy now. On June 24, Sunrun, Renew Home, and Tesla formed a coalition to deliver over 16 gigawatts of flexible energy capacity to help meet surging electricity demand from data centers and AI growth. The companies aim to aggregate e",
-      "url": "https://www.insidermonkey.com/blog/here-is-why-tesla-tsla-is-one-of-the-best-stocks-for-beginners-to-buy-now-1789585/",
-      "source": "Insider Trading",
+      "id": "f7efb1a8ea585696",
+      "slug": "tiktok-super-app-adds-hotels-finance-and-sports-bytedance-s-china-law-problem-persists-dbd6cf",
+      "title": "TikTok Super App Adds Hotels, Finance, and Sports: ByteDance's China Law Problem Persists",
+      "dek": "TikTok super app now books hotels, streams full songs, tracks FIFA World Cup scores, and is pursuing a fintech license in Brazil — all while ByteDance retains TikTok's algorithm source code and China's National Intelligence Law obligates the company to cooperate with state intelligence on demand, re",
+      "url": "https://www.techtimes.com/articles/319176/20260627/tiktok-super-app-adds-hotels-finance-sports-bytedances-china-law-problem-persists.htm",
+      "source": "Techtimes",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/ex12o6Zveson5Ecb4hMc6EyYDrR7DvFLvMVEjIwQ2B0/resize:fit:768:432:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2021/10/27092928/Tesla_1630674574-768x432-1.jpg",
-      "publishedAt": "2026-06-26T08:06:49.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "AI"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "c8d34d47e1c06053",
-      "slug": "eli-lilly-lly-acquires-centessa-pharmaceuticals-to-advance-orexin-receptor-2-agonists-04598e",
-      "title": "Eli Lilly (LLY) Acquires Centessa Pharmaceuticals to Advance Orexin Receptor 2 Agonists",
-      "dek": "Eli Lilly and Company (NYSE:LLY) is one of the best stocks for beginners to buy now. On June 24, Eli Lilly completed its acquisition of Centessa Pharmaceuticals, aiming to advance the development of orexin receptor 2 agonists. This new class of medicine is designed to treat narcolepsy and other slee",
-      "url": "https://www.insidermonkey.com/blog/eli-lilly-lly-acquires-centessa-pharmaceuticals-to-advance-orexin-receptor-2-agonists-1789582/",
-      "source": "Insider Trading",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/qY47t5SMRpm9d4Hu8hzzNWDfx9laZuczXS9UuQ7i1fY/resize:fit:1280:853:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2025/08/05100724/medicine-8287535_1280.jpg",
-      "publishedAt": "2026-06-26T08:06:40.000Z",
-      "topic": "Business & Earnings",
-      "tags": [],
-      "priority": 42
-    },
-    {
-      "id": "e487cedbe06ed6bd",
-      "slug": "openai-broadcom-avgo-unveil-jalapeno-ai-accelerator-for-enhanced-llm-inference-9b5232",
-      "title": "OpenAI, Broadcom (AVGO) Unveil “Jalapeño” AI Accelerator for Enhanced LLM Inference",
-      "dek": "Broadcom Inc. (NASDAQ:AVGO) is one of the best stocks for beginners to buy now. On June 24, OpenAI and Broadcom introduced “Jalapeño,” a custom AI accelerator designed specifically for LLM inference. Developed in nine months, the processor is built from the ground up to optimize memory movement, ne",
-      "url": "https://www.insidermonkey.com/blog/openai-broadcom-avgo-unveil-jalapeno-ai-accelerator-for-enhanced-llm-inference-1789583/",
-      "source": "Insider Trading",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/3RXX4XuWtTIrOnu4XZGPU2Dk3KQkWgv418rC6y31E6Y/resize:fit:2016:1344:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2024/06/07084204/forex-trading-Image-by-drobotdean-on-Freepik-businessman-sitting-by-table-cafe-analyzing-indicators-laptop-computer.jpg",
-      "publishedAt": "2026-06-26T08:06:07.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "AI"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "12f8e886-d7a5-48f0-98a2-683e7acb1e1a",
-      "slug": "peter-diamandis-warns-radical-transparency-will-erase-privacy-worldwide-b3f48c",
-      "title": "Peter Diamandis warns radical transparency will erase privacy worldwide",
-      "dek": "A leading futurist predicts a sensor-filled planet and urges mutual accountability as surveillance expands, but ethical and regulatory gaps could reshape who truly controls transparency.",
-      "url": "https://mezha.net/eng/bukvy/3837fe76_peter_diamandis_warns/",
-      "source": "mezha.net",
-      "sourceType": "external",
-      "image": "https://mezha.net/eng/kd_image_generate/3837fe76_peter_diamandis_warns/2784651.jpg?ver=2.0.15",
-      "publishedAt": "2026-06-26T16:29:18.000Z",
+      "image": "https://d.techtimes.com/en/full/465359/tiktok-logo-displayed-tiktok-office.jpg",
+      "publishedAt": "2026-06-27T06:13:37.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "technology"
+        "super app",
+        "china",
+        "sports",
+        "bytedance",
+        "tiktok",
+        "hotels"
       ],
-      "priority": 41
+      "priority": 40
     },
     {
-      "id": "b991fe431b2e9e6a",
-      "slug": "ai-s-brutal-toll-on-the-job-market-is-on-the-way-cloudflare-ceo-6f3ab5",
-      "title": "AI’s brutal toll on the job market is on the way: Cloudflare CEO",
-      "dek": "Batten down the hatches, workers, the next 12 months could really suck as AI permeates offices. “When I talk to peers, everyone says, ‘Yeah, I’m gonna do that [mass layoffs].’ But they’re like, ‘I’m going to do it when everyone else does it.’ And honestly, I think that’s poor leadership, because in ",
-      "url": "https://equity-insider.com/ais-brutal-toll-on-the-job-market-is-on-the-way-cloudflare-ceo/",
-      "source": "Equity Insider",
+      "id": "fafd12dc4ec2bb62",
+      "slug": "oracle-layoffs-500-employees-get-emails-from-leadership-calls-them-proposed-impacted-emp-623d2a",
+      "title": "Oracle layoffs: 500+ employees get emails from leadership, calls them 'proposed impacted employee'",
+      "dek": "Oracle has begun a second round of layoffs in Romania, notifying around 500 to 520 employees on June 25 with emails headed \"collective dismissal-you are a proposed impacted employee.\" The cuts span OCI, Database Technologies, Oracle Health and several other units, and were reportedly planned months ",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-over-500-employees-get-oracle-leaderships-6am-email-saying-you-are-a-/articleshow/132028383.cms",
+      "source": "The Times Of India",
       "sourceType": "external",
-      "image": "https://equity-insider.com/wp-content/uploads/2026/06/Screenshot-2026-06-25-113441.jpg",
-      "publishedAt": "2026-06-26T06:42:23.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132028383/132028383.jpg",
+      "publishedAt": "2026-06-27T04:43:09.000Z",
+      "topic": "AI & Database",
       "tags": [
-        "AI"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "f809a663-5944-44f8-bc13-e7d7c945904a",
-      "slug": "xprize-founder-says-humans-behave-better-when-they-re-being-watched-dcbe0f",
-      "title": "Xprize founder says ‘humans behave better when they’re being watched’",
-      "dek": "Xprize Foundation founder Peter Diamandis has joined a growing list of tech executives who think that global surveillance is a good idea, saying, “[h]umans behave better when they’re being watched.”",
-      "url": "https://techcrunch.com/2026/06/26/xprize-founder-says-humans-behave-better-when-theyre-being-watched/",
-      "source": "TechCrunch",
-      "sourceType": "external",
-      "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1140767852.jpg?w=1024",
-      "publishedAt": "2026-06-26T15:46:05.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "technology"
+        "oracle job cuts",
+        "oracle",
+        "oracle cloud infrastructure",
+        "it job cuts",
+        "oracle leadership email",
+        "oracle layoffs"
       ],
       "priority": 39
+    },
+    {
+      "id": "6e83f30465c7fcc7",
+      "slug": "talent-tracker-top-executive-appointments-and-exits-across-industries-e62ea2",
+      "title": "Talent tracker: Top executive appointments and exits across industries",
+      "dek": "New Delhi: A series of leadership changes marked the week across industries, with companies in technology, finance, consumer goods, hospitality, media, and entertainment announcing new appointments and exits. From CEO transitions at global giants and major Indian businesses to senior appointments in",
+      "url": "https://bestmediainfo.com/mediainfo/mediainfo-marketing/talent-tracker-top-executive-appointments-and-exits-across-industries-12109328",
+      "source": "Bmi",
+      "sourceType": "external",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/bmi/media/media_files/2026/06/12/talent-tracker-of-the-week-2026-06-12-16-55-47.jpg",
+      "publishedAt": "2026-06-27T04:30:37.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "hp india",
+        "bajaj capital",
+        "meta",
+        "jiostar",
+        "noel tata",
+        "uber"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "ed17edf4baa9eec6",
+      "slug": "sap-s-july-23-test-can-hybrid-ai-and-bsi-certification-break-the-12-month-slide-92d8f5",
+      "title": "SAP’s July 23 Test: Can Hybrid AI and BSI Certification Break the 12-Month Slide?",
+      "dek": "A 52-week low in the rearview mirror, a €10 billion buyback as backstop, and a crucial earnings report just over a fortnight away. SAP’s stock is caught between fresh strategic concessions and deep structural headwinds, leaving investors counting the days until July 23. The Walldorf-based software g",
+      "url": "https://www.newscase.com/saps-july-23-test-can-hybrid-ai-and-bsi-certification-break-the-12-month-slide/",
+      "source": "Newscase",
+      "sourceType": "external",
+      "image": "https://www.newscase.com/wp-content/uploads/ai-imgs/DE0007164600-2026-06-27-03-51-07.png",
+      "publishedAt": "2026-06-27T03:51:04.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "sap"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "9d2c4fa8d0b00664",
+      "slug": "marketbeat-week-in-review-06-22-06-26-d233c8",
+      "title": "MarketBeat Week in Review – 06/22 - 06/26",
+      "dek": "SpaceX IPO buzz faded as AI volatility, hotter inflation, and a shortened trading week shifted investor focus toward earnings season",
+      "url": "https://www.inkl.com/news/marketbeat-week-in-review-06-22-06-26",
+      "source": "Inkl",
+      "sourceType": "external",
+      "image": "https://images.inkl.com/s3/article/lead_image/23505832/med_20260501133913_image.jpeg",
+      "publishedAt": "2026-06-27T00:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "breaking news",
+        "news",
+        "daily news",
+        "today news",
+        "news today",
+        "global news"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "2c504b49827e99e1",
+      "slug": "daily-ai-for-work-pulse-27th-of-june-d46979",
+      "title": "Daily 'AI for Work' Pulse: 27th of June",
+      "dek": "Big weekend update! Ease into your Sunday with 7 new AI tools and 100 AI news articles. Skim the big stuff, bookmark a few gems, and get set for the week ahead.",
+      "url": "https://completeaitraining.com/newsletter/daily-ai-for-work-pulse-27th-of-june-2/",
+      "source": "Complete Ai Training",
+      "sourceType": "external",
+      "image": "https://cdn.completeaitraining.com/newsletters/newsletter_2026-06-27_ghostwebsite.png",
+      "publishedAt": "2026-06-27T00:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "newsletter"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "86fb099f-0bfc-4c09-827c-f61932842f09",
+      "slug": "chainlink-s-47-bank-pilot-and-mica-pressure-redraw-crypto-s-institutional-map-bd2b57",
+      "title": "Chainlink’s 47-Bank Pilot And MiCA Pressure Redraw Crypto’s Institutional Map",
+      "dek": "Late June delivered a blunt reminder that crypto infrastructure is no longer just a parallel rails experiment—it is intersecting directly with the machinery of sovereign finance and legacy banking. A fresh Chainlink cross-border payment pilot with 47 banks, the Bank of England’s first detailed stabl",
+      "url": "https://blockchainreporter.net/chainlinks-47-bank-pilot-and-mica-pressure-redraw-cryptos-institutional-map/",
+      "source": "BlockchainReporter",
+      "sourceType": "external",
+      "image": "https://blockchainreporter.net/wp-content/uploads/2025/03/chainlink-pp-32.webp",
+      "publishedAt": "2026-06-26T22:30:47.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "digital currencies",
+        "finance"
+      ],
+      "priority": 36
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1975,6 +1928,70 @@
       "tags": [
         "OCI",
         "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "be8b92279cd0831f",
+      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
+      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-09T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "d38db88cd3fd3cc0",
+      "slug": "working-with-oke-virtual-nodes-f5a370",
+      "title": "Working with OKE Virtual Nodes",
+      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-02T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "bd401ec004db1755",
+      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
+      "title": "Introduction to OCI Container Engine for Kubernetes",
+      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-25T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "1d3aa287378f7e71",
+      "slug": "basics-of-kubernetes-23e26c",
+      "title": "Basics of Kubernetes",
+      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
+      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-18T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
       ],
       "priority": 36
     }
