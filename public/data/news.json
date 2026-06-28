@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T21:39:22.578Z",
+  "generatedAt": "2026-06-28T21:39:47.905Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,53 +7,84 @@
   },
   "items": [
     {
-      "id": "758a499a-b544-4f2a-89c5-7c4af7d6d7ea",
-      "slug": "snowflake-snow-selected-by-unlimitail-for-retail-media-data-hub-fa8856",
-      "title": "Snowflake (SNOW) Selected by Unlimitail for Retail Media Data Hub",
-      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
-      "url": "https://www.insidermonkey.com/blog/snowflake-snow-selected-by-unlimitail-for-retail-media-data-hub-1790623/",
-      "source": "Insider Monkey",
+      "id": "7d1f14db-2fd5-4eac-9dc6-122fecd15f85",
+      "slug": "oracle-heads-for-record-monthly-drop-e4039a",
+      "title": "Oracle Heads for Record Monthly Drop",
+      "dek": "Oracle Faces Its Biggest Monthly Decline on Record as Investors Reassess AI-Driven Rally",
+      "url": "https://www.mexc.com/news/1179925",
+      "source": "MEXC",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/nOVE3bwZZxs1IHmlUu80EScRvHdil5iMt5WFYgAC3k4/resize:fit:1920:1280:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2021/09/19204541/Business-laptop-campaign-creators-774sCXD0dDU-unsplash.jpg",
-      "publishedAt": "2026-06-27T19:37:21.000Z",
+      "image": "https://blogger.googleusercontent.com/img/a/AVvXsEioquDpsCT4zH7fBZVuyQ4OthzDraSfFbhWPwsTj2xBGJSVBLIreURRgYTseRZgMwJQxjbBrOZXTCbN_9G7CdXSAXjUIJ1GVo6DkCHJFBBJmg18KXTGiqTlyQ1PsMi6bFmKIt0N8OUzTw8FgWFgijGucPGkkUzmTRuABaXYprzmP-VCoah6HsNESVFv3ZQ=w635-h640",
+      "publishedAt": "2026-06-28T17:48:02.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "finance"
+      ],
+      "priority": 57
+    },
+    {
+      "id": "5e8605de-54a1-4c11-b49e-fd11573dcdab",
+      "slug": "meta-stock-leads-3-founder-run-ai-infrastructure-picks-to-watch-becc09",
+      "title": "Meta Stock Leads 3 Founder Run AI Infrastructure Picks To Watch",
+      "dek": "Founder led companies can give you a different type of exposure when macro data feels mixed, from shifting rate expectations in the US to changing inflation signals in Europe and Japan. While headlines focus on central banks, energy routes and trade balances, some leaders have their own capital, rep",
+      "url": "https://simplywall.st/stocks/us/retail/nasdaq-jd/jdcom/news/meta-stock-leads-3-founder-run-ai-infrastructure-picks-to-wa",
+      "source": "simplywall.st",
+      "sourceType": "external",
+      "image": "https://images.simplywall.st/asset/company-cover/36273923-main-header/1756256219947",
+      "publishedAt": "2026-06-28T15:53:59.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "business"
       ],
-      "priority": 64
+      "priority": 52
     },
     {
-      "id": "cd5a9e3d-8cdf-432a-93b5-9258d32b01f6",
-      "slug": "is-meta-meta-one-of-the-safe-stocks-for-beginners-to-buy-in-2026-41aaba",
-      "title": "Is Meta (META) One of the Safe Stocks for Beginners to Buy in 2026?",
+      "id": "5a4e511e-4566-43c5-b55d-1fb13ea8a8af",
+      "slug": "mlb-weather-report-for-sunday-6-28-26-dadcdb",
+      "title": "MLB Weather Report for Sunday 6/28/26",
+      "dek": "Get today’s MLB Weather Report, including rain delay risks, postponement concerns, DFS and betting impacts for all 15 games on Sunday’s slate.",
+      "url": "https://dknetwork.draftkings.com/2026/06/28/mlb-weather-report-for-sunday-6-28-26/",
+      "source": "DraftKings Network",
+      "sourceType": "external",
+      "image": "https://dknetwork.draftkings.com/wp-content/uploads/GettyImages-979758584.jpg",
+      "publishedAt": "2026-06-28T14:23:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "baseball"
+      ],
+      "priority": 49
+    },
+    {
+      "id": "dd093d4e-8e2f-479b-8a46-231fc4e9a53a",
+      "slug": "weekly-preview-eu-mica-transition-period-ends-multiple-platforms-halt-operations-users-m-afb107",
+      "title": "Weekly Preview | EU MiCA Transition Period Ends; Multiple Platforms Halt Operations, Users Must Migrate Assets in Time",
+      "dek": "In the coming week from June 29, 2026 to July 5, 2026, here are the blockchain news worth your attention.",
+      "url": "https://www.panewslab.com/en/articles/019f0e51-a2bc-730f-8bcc-8c8747218392",
+      "source": "PANews",
+      "sourceType": "external",
+      "image": "https://uploads.panewslab.com/08d9d0d2-a451-413c-9eab-62a74f4c5c46",
+      "publishedAt": "2026-06-28T13:29:16.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "digital currencies"
+      ],
+      "priority": 48
+    },
+    {
+      "id": "ed753473-5cbd-4e29-97a3-d7f0fa17b33c",
+      "slug": "10-best-new-stocks-to-buy-other-than-spacex-8aff3f",
+      "title": "10 Best New Stocks to Buy Other Than SpaceX",
       "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
-      "url": "https://www.insidermonkey.com/blog/is-meta-meta-one-of-the-safe-stocks-for-beginners-to-buy-in-2026-1790430/",
+      "url": "https://www.insidermonkey.com/blog/10-best-new-stocks-to-buy-other-than-spacex-1790076/",
       "source": "Insider Monkey",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/L1V-nIGTxebhxXRo8pLbUM3CQZJM_RemXLgkowfYJrM/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/19153233/META-insidermonkey-1695151950867.jpg",
-      "publishedAt": "2026-06-27T18:46:57.000Z",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/BdQJV5F3j9qz6pibHLpJfYUkLPTSYG9QiqGN8K3xPy0/resize:fit:3024:2005:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2026/02/28081314/osamu-nakazawa-V3pdV5dmsz0-unsplash.jpg",
+      "publishedAt": "2026-06-28T13:17:07.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "business"
       ],
-      "priority": 60
-    },
-    {
-      "id": "8e144bec-7d7b-4e9a-90dc-0411ca6b7ad7",
-      "slug": "alphabet-goog-reports-computer-use-now-a-built-in-tool-supported-in-gemini-3-5-flash-31aac5",
-      "title": "Alphabet (GOOG) Reports Computer Use Now a Built-In Tool Supported in Gemini 3.5 Flash",
-      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
-      "url": "https://www.insidermonkey.com/blog/alphabet-goog-reports-computer-use-now-a-built-in-tool-supported-in-gemini-3-5-flash-1790428/",
-      "source": "Insider Monkey",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/4QC-0M_E1COcXeFB8-oZBm_bD7Us8623jRX62pq0qRQ/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/19163428/GOOGL-insidermonkey-1695155666632.jpg",
-      "publishedAt": "2026-06-27T18:46:57.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "mobile",
-        "technology"
-      ],
-      "priority": 60
+      "priority": 48
     },
     {
       "id": "f58466d207e1f5cc",
@@ -104,221 +135,190 @@
       "priority": 46
     },
     {
-      "id": "ba2cbe092c7be9d0",
-      "slug": "oracle-layoffs-one-email-500-jobs-and-a-lot-of-unanswered-questions-here-s-what-happened-0659c1",
-      "title": "Oracle Layoffs: One Email, 500 Jobs, And A Lot Of Unanswered Questions; Here's What Happened",
-      "dek": "Oracle Layoffs: Oracle has begun another major round of layoffs in Romania, affecting about 500 employees as the tech giant continues global restructuring.",
-      "url": "https://www.timesnownews.com/business-economy/companies/oracle-layoffs-one-email-500-jobs-and-a-lot-of-unanswered-questions-heres-what-happened-article-154775541",
-      "source": "Times Now News",
+      "id": "e2ef422d-b35a-4042-9d92-3ed787a64cfa",
+      "slug": "12-high-growth-semiconductor-stocks-to-buy-now-19199c",
+      "title": "12 High Growth Semiconductor Stocks to Buy Now",
+      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
+      "url": "https://www.insidermonkey.com/blog/12-high-growth-semiconductor-stocks-to-buy-now-1790199/",
+      "source": "Insider Monkey",
       "sourceType": "external",
-      "image": "https://images.timesnownews.com/thumb/msid-154775737,width-1280,height-720,resizemode-75/154775737.jpg",
-      "publishedAt": "2026-06-27T09:19:23.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "oracle layoffs june 2026",
-        "oracle romania employees",
-        "oracle layoffs romania",
-        "oracle romania layoffs 2026",
-        "oracle job cuts"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "c47c61ef-4020-4d0e-a01e-a772e69588c8",
-      "slug": "vertiv-stock-and-2-ai-power-infrastructure-picks-for-data-center-demand-2f7fb7",
-      "title": "Vertiv Stock And 2 AI Power Infrastructure Picks For Data Center Demand",
-      "dek": "With inflation trends, central bank signals and energy costs all pulling markets in different directions, many investors are looking for themes backed by essential infrastructure rather than short term headlines. The Power Grid Technology Stocks screener focuses on companies at the core of the elect",
-      "url": "https://simplywall.st/stocks/us/capital-goods/nyse-be/bloom-energy/news/vertiv-stock-and-2-ai-power-infrastructure-picks-for-data-ce",
-      "source": "simplywall.st",
-      "sourceType": "external",
-      "image": "https://images.simplywall.st/asset/industry/3052000-choice1-main-header/1585187042096",
-      "publishedAt": "2026-06-27T09:15:20.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "energy"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "8d1126ce1fabfd11",
-      "slug": "5-worst-artificial-intelligence-stocks-under-30-according-to-short-sellers-8b1240",
-      "title": "5 Worst Artificial Intelligence Stocks Under $30 According to Short Sellers",
-      "dek": "In this article, we will list the 5 Worst Artificial Intelligence Stocks Under $30 According to Short Sellers. Please visit 10 Worst Artificial Intelligence Stocks Under $30 According to Short Sellers if you’d like to see an extended list and the methodology behind it. 5. Tempus AI Inc. (NASDAQ:TEM)",
-      "url": "https://www.insidermonkey.com/blog/5-worst-artificial-intelligence-stocks-under-30-according-to-short-sellers-1790015/",
-      "source": "Insider Trading",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/SDNig-AI8VszHlKdffQgsArLgPZ0IMvWcZijZXgsJwM/resize:fit:1280:857:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2015/08/artificial-intelligence-503592_1280.jpg",
-      "publishedAt": "2026-06-27T09:08:03.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "AI"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "a31dac98-fa78-4378-9462-a865d42e465b",
-      "slug": "microsoft-jumped-5-in-a-single-day-after-michael-burry-went-long-here-s-where-msft-could-790636",
-      "title": "Microsoft Jumped 5% in a Single Day After Michael Burry Went Long. Here’s Where MSFT Could Go in 2026",
-      "dek": "Key Stats for Microsoft Stock Current Price: $372.97 Target Price (Mid): ~$760 Street Target: ~$561 Potential Total Return: ~104% Annualized IRR: ~19% / year Earnings Reaction: -3.93% (April 29, 2026) Max Drawdown: 34.91% (June 25, 2026) Now Live: Discover how much upside your favorite stocks could ",
-      "url": "https://www.tikr.com/blog/microsoft-jumped-5-in-a-single-day-after-michael-burry-went-long-heres-where-msft-could-go-in-2026",
-      "source": "TIKR.com",
-      "sourceType": "external",
-      "image": "https://res.cloudinary.com/tikr/images/f_auto,q_auto,w_800/v1782548839/images/3-24_113339b00c9/3-24_113339b00c9",
-      "publishedAt": "2026-06-27T08:53:56.000Z",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/Tuv5Hd2eH3qhde9YXpWxNrhUqwoavBAzIixcZ5xEdg0/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/11/29020645/XSD-insidermonkey-1701241603231.jpg",
+      "publishedAt": "2026-06-28T10:57:03.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "finance"
       ],
-      "priority": 43
+      "priority": 45
     },
     {
-      "id": "7221a0db1f1ad7c2",
-      "slug": "should-we-fear-an-ai-bubble-bust-1fdbda",
-      "title": "Should we fear an AI bubble bust?",
-      "dek": "Recent swings in tech stocks are reviving fears of an AI bubble -- and some experts warn that if it pops, the fallout could be bigger than anything Wall Street has ever seen.",
-      "url": "https://www.thestandard.com.hk/world/article/335743/Should-we-fear-an-AI-bubble-bust",
-      "source": "The Standard 英文虎報",
+      "id": "30c0644f-196a-4830-9cb8-de0b1e626d49",
+      "slug": "5-high-growth-semiconductor-stocks-to-buy-now-b168d6",
+      "title": "5 High Growth Semiconductor Stocks to Buy Now",
+      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
+      "url": "https://www.insidermonkey.com/blog/5-high-growth-semiconductor-stocks-to-buy-now-1790200/",
+      "source": "Insider Monkey",
       "sourceType": "external",
-      "image": "https://image.hkstandard.com.hk/f/1024p0/0x0/100/none/bd3e5b67328dc143b516959ce969eb7f/2026-06/AFP__20260626__B8DJ3CT__v1__HighRes__SkoreaMarketStocks.jpg",
-      "publishedAt": "2026-06-27T08:36:48.000Z",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/Tuv5Hd2eH3qhde9YXpWxNrhUqwoavBAzIixcZ5xEdg0/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/11/29020645/XSD-insidermonkey-1701241603231.jpg",
+      "publishedAt": "2026-06-28T10:57:03.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "fear",
-        "bubble bust",
-        "ai"
+        "finance"
+      ],
+      "priority": 45
+    },
+    {
+      "id": "0892ff95-4f4e-4293-adb7-a06b9792599e",
+      "slug": "microsoft-corporation-msft-is-a-top-richard-chilton-ai-stock-8e13ec",
+      "title": "Microsoft Corporation (MSFT) Is A Top Richard Chilton AI Stock",
+      "dek": "When Jeff Bezos said that one breakthrough technology would shape Amazon’s destiny, even Wall Street’s biggest analysts were caught off guard. Fast forward a year and Amazon’s new CEO Andy Jassy described...",
+      "url": "https://www.insidermonkey.com/blog/microsoft-corporation-msft-is-a-top-richard-chilton-ai-stock-1790956/",
+      "source": "Insider Monkey",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/AvHlZ0XTXkEzlRhTidpLpyDKnpuFt-OZ1NJEnwL1kuI/resize:fit:1000:666:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2015/05/shutterstock_193598411.jpg",
+      "publishedAt": "2026-06-28T10:36:23.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "finance"
+      ],
+      "priority": 44
+    },
+    {
+      "id": "986b00198202ccf3",
+      "slug": "best-blockchain-stocks-to-watch-now-june-27th-04e01a",
+      "title": "Best Blockchain Stocks To Watch Now – June 27th",
+      "dek": "Core Scientific, Globant, and Figure Technology Solutions are the three Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that are involved in blockchain technology, including firms that develop blockchain platf",
+      "url": "https://www.americanbankingnews.com/2026/06/28/best-blockchain-stocks-to-watch-now-june-27th.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
+      "publishedAt": "2026-06-28T08:37:21.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 42
+    },
+    {
+      "id": "c42f2222901c469b",
+      "slug": "top-cybersecurity-stocks-to-follow-now-june-27th-242f8e",
+      "title": "Top Cybersecurity Stocks To Follow Now – June 27th",
+      "dek": "Palo Alto Networks, CrowdStrike, Fortinet, BlackBerry, Globant, SentinelOne, and NetScout Systems are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of companies that develop and sell products or services designed to prot",
+      "url": "https://www.americanbankingnews.com/2026/06/28/top-cybersecurity-stocks-to-follow-now-june-27th.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/palo-alto-networks-inc-logo-1200x675.png?v=20231213132526",
+      "publishedAt": "2026-06-28T08:37:19.000Z",
+      "topic": "Security",
+      "tags": [],
+      "priority": 42
+    },
+    {
+      "id": "2266a5957d6673b0",
+      "slug": "should-we-fear-an-artificial-intelligence-bubble-bust-9059ee",
+      "title": "Should we fear an artificial intelligence bubble bust?",
+      "dek": "Recent swings in tech stocks are reviving fears of an AI bubble — and some experts warn that if it pops, the fallout could be bigger than anything Wall Street has ever seen.",
+      "url": "https://www.hurriyetdailynews.com/should-we-fear-an-artificial-intelligence-bubble-bust-223761",
+      "source": "Turkish News",
+      "sourceType": "external",
+      "image": "https://image.hurimg.com/i/hurriyet/75/650x400/6a40d99a431cb29680d1ee4a.jpg",
+      "publishedAt": "2026-06-28T08:21:48.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "bubble",
+        "ai",
+        "wall street"
       ],
       "priority": 42
     },
     {
-      "id": "f7efb1a8ea585696",
-      "slug": "tiktok-super-app-adds-hotels-finance-and-sports-bytedance-s-china-law-problem-persists-dbd6cf",
-      "title": "TikTok Super App Adds Hotels, Finance, and Sports: ByteDance's China Law Problem Persists",
-      "dek": "TikTok super app now books hotels, streams full songs, tracks FIFA World Cup scores, and is pursuing a fintech license in Brazil — all while ByteDance retains TikTok's algorithm source code and China's National Intelligence Law obligates the company to cooperate with state intelligence on demand, re",
-      "url": "https://www.techtimes.com/articles/319176/20260627/tiktok-super-app-adds-hotels-finance-sports-bytedances-china-law-problem-persists.htm",
-      "source": "Techtimes",
+      "id": "b60f85c31aa4e000",
+      "slug": "braze-inc-brze-is-one-of-the-worst-ai-stocks-under-30-as-per-short-sellers-a7e411",
+      "title": "Braze Inc. (BRZE) is One of the Worst AI Stocks Under $30, As Per Short Sellers",
+      "dek": "Braze Inc. (NASDAQ:BRZE) is one of the 10 worst artificial intelligence stocks under $30 according to short sellers. The broader consensus sentiment around the stock remained strongly bullish as of the close of June 23. The stock currently offers more than 75% upside potential, based on a median 1-y",
+      "url": "https://www.insidermonkey.com/blog/braze-inc-brze-is-one-of-the-worst-ai-stocks-under-30-as-per-short-sellers-1790270/",
+      "source": "Insider Trading",
       "sourceType": "external",
-      "image": "https://d.techtimes.com/en/full/465359/tiktok-logo-displayed-tiktok-office.jpg",
-      "publishedAt": "2026-06-27T06:13:37.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "super app",
-        "china",
-        "sports",
-        "bytedance",
-        "tiktok",
-        "hotels"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "fafd12dc4ec2bb62",
-      "slug": "oracle-layoffs-500-employees-get-emails-from-leadership-calls-them-proposed-impacted-emp-623d2a",
-      "title": "Oracle layoffs: 500+ employees get emails from leadership, calls them 'proposed impacted employee'",
-      "dek": "Oracle has begun a second round of layoffs in Romania, notifying around 500 to 520 employees on June 25 with emails headed \"collective dismissal-you are a proposed impacted employee.\" The cuts span OCI, Database Technologies, Oracle Health and several other units, and were reportedly planned months ",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-over-500-employees-get-oracle-leaderships-6am-email-saying-you-are-a-/articleshow/132028383.cms",
-      "source": "The Times Of India",
-      "sourceType": "external",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132028383/132028383.jpg",
-      "publishedAt": "2026-06-27T04:43:09.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "oracle job cuts",
-        "oracle",
-        "oracle cloud infrastructure",
-        "it job cuts",
-        "oracle leadership email",
-        "oracle layoffs"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "6e83f30465c7fcc7",
-      "slug": "talent-tracker-top-executive-appointments-and-exits-across-industries-e62ea2",
-      "title": "Talent tracker: Top executive appointments and exits across industries",
-      "dek": "New Delhi: A series of leadership changes marked the week across industries, with companies in technology, finance, consumer goods, hospitality, media, and entertainment announcing new appointments and exits. From CEO transitions at global giants and major Indian businesses to senior appointments in",
-      "url": "https://bestmediainfo.com/mediainfo/mediainfo-marketing/talent-tracker-top-executive-appointments-and-exits-across-industries-12109328",
-      "source": "Bmi",
-      "sourceType": "external",
-      "image": "https://img-cdn.publive.online/fit-in/1280x960/bmi/media/media_files/2026/06/12/talent-tracker-of-the-week-2026-06-12-16-55-47.jpg",
-      "publishedAt": "2026-06-27T04:30:37.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "hp india",
-        "bajaj capital",
-        "meta",
-        "jiostar",
-        "noel tata",
-        "uber"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "ed17edf4baa9eec6",
-      "slug": "sap-s-july-23-test-can-hybrid-ai-and-bsi-certification-break-the-12-month-slide-92d8f5",
-      "title": "SAP’s July 23 Test: Can Hybrid AI and BSI Certification Break the 12-Month Slide?",
-      "dek": "A 52-week low in the rearview mirror, a €10 billion buyback as backstop, and a crucial earnings report just over a fortnight away. SAP’s stock is caught between fresh strategic concessions and deep structural headwinds, leaving investors counting the days until July 23. The Walldorf-based software g",
-      "url": "https://www.newscase.com/saps-july-23-test-can-hybrid-ai-and-bsi-certification-break-the-12-month-slide/",
-      "source": "Newscase",
-      "sourceType": "external",
-      "image": "https://www.newscase.com/wp-content/uploads/ai-imgs/DE0007164600-2026-06-27-03-51-07.png",
-      "publishedAt": "2026-06-27T03:51:04.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "sap"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "9d2c4fa8d0b00664",
-      "slug": "marketbeat-week-in-review-06-22-06-26-d233c8",
-      "title": "MarketBeat Week in Review – 06/22 - 06/26",
-      "dek": "SpaceX IPO buzz faded as AI volatility, hotter inflation, and a shortened trading week shifted investor focus toward earnings season",
-      "url": "https://www.inkl.com/news/marketbeat-week-in-review-06-22-06-26",
-      "source": "Inkl",
-      "sourceType": "external",
-      "image": "https://images.inkl.com/s3/article/lead_image/23505832/med_20260501133913_image.jpeg",
-      "publishedAt": "2026-06-27T00:00:00.000Z",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/3jBrfQA3i-fm3b6k_F-DveP-_0rP0iPoKu7zbj5Krt0/resize:fit:840:570:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2017/01/16070534/46874916_m.jpg",
+      "publishedAt": "2026-06-28T08:18:26.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "breaking news",
-        "news",
-        "daily news",
-        "today news",
-        "news today",
-        "global news"
+        "AI"
       ],
-      "priority": 37
+      "priority": 42
     },
     {
-      "id": "2c504b49827e99e1",
-      "slug": "daily-ai-for-work-pulse-27th-of-june-d46979",
-      "title": "Daily 'AI for Work' Pulse: 27th of June",
-      "dek": "Big weekend update! Ease into your Sunday with 7 new AI tools and 100 AI news articles. Skim the big stuff, bookmark a few gems, and get set for the week ahead.",
-      "url": "https://completeaitraining.com/newsletter/daily-ai-for-work-pulse-27th-of-june-2/",
-      "source": "Complete Ai Training",
+      "id": "a38ae650249c14b6",
+      "slug": "figma-inc-fig-is-one-of-the-ai-names-under-30-carrying-high-short-interest-af9f24",
+      "title": "Figma Inc. (FIG) is One of the AI Names Under $30, Carrying High Short Interest",
+      "dek": "Figma Inc. (NYSE:FIG) is one of the 10 worst artificial intelligence stocks under $30 according to short sellers. Back on May 15, Morgan Stanley reduced the target price on Figma Inc. (NYSE:FIG) from $44 to $38 while retaining an Equal Weight rating on the stock. The firm informed investors that pai",
+      "url": "https://www.insidermonkey.com/blog/figma-inc-fig-is-one-of-the-ai-names-under-30-carrying-high-short-interest-1790279/",
+      "source": "Insider Trading",
       "sourceType": "external",
-      "image": "https://cdn.completeaitraining.com/newsletters/newsletter_2026-06-27_ghostwebsite.png",
-      "publishedAt": "2026-06-27T00:00:00.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/tXKI-NicGbjBkGuW_9jT5La04xZGLYuAsCgeEynYW6Y/resize:fit:1677:1119:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2017/01/17134117/58095514_ml.jpg",
+      "publishedAt": "2026-06-28T08:18:25.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "newsletter"
+        "AI"
       ],
-      "priority": 37
+      "priority": 42
     },
     {
-      "id": "86fb099f-0bfc-4c09-827c-f61932842f09",
-      "slug": "chainlink-s-47-bank-pilot-and-mica-pressure-redraw-crypto-s-institutional-map-bd2b57",
-      "title": "Chainlink’s 47-Bank Pilot And MiCA Pressure Redraw Crypto’s Institutional Map",
-      "dek": "Late June delivered a blunt reminder that crypto infrastructure is no longer just a parallel rails experiment—it is intersecting directly with the machinery of sovereign finance and legacy banking. A fresh Chainlink cross-border payment pilot with 47 banks, the Bank of England’s first detailed stabl",
-      "url": "https://blockchainreporter.net/chainlinks-47-bank-pilot-and-mica-pressure-redraw-cryptos-institutional-map/",
-      "source": "BlockchainReporter",
+      "id": "5d6b1590a347c4cc",
+      "slug": "gds-holdings-limited-gds-is-a-top-cina-ai-stock-play-says-newsletter-5e6b78",
+      "title": "GDS Holdings Limited (GDS) Is A Top Cina AI Stock Play, Says Newsletter",
+      "dek": "GDS Holdings Limited (NASDAQ:GDS) is one of the Top 13 Stocks That Will Skyrocket. This stock was part of a presentation from Porter Stansberry and Erez Kalir. In the pitch, they discuss China’s AI market to remark that it “looks from a valuation perspective a lot like the US market did three or fou",
+      "url": "https://www.insidermonkey.com/blog/gds-holdings-limited-gds-is-a-top-cina-ai-stock-play-says-newsletter-1790284/",
+      "source": "Insider Trading",
       "sourceType": "external",
-      "image": "https://blockchainreporter.net/wp-content/uploads/2025/03/chainlink-pp-32.webp",
-      "publishedAt": "2026-06-26T22:30:47.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/3NyKxROvhBv_Iw0-JHm2y082i9WhMTaTJolA1KgIHjg/resize:fit:1920:1280:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2021/04/07043441/finance-5771541_1920.jpg",
+      "publishedAt": "2026-06-28T06:49:07.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "digital currencies",
-        "finance"
+        "AI"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "cddc8d8d0b43c338",
+      "slug": "should-you-buy-amrize-amrz-a16592",
+      "title": "Should You Buy Amrize (AMRZ)?",
+      "dek": "Amrize (NYSE:AMRZ) is one of the Top 13 Stocks That Will Skyrocket. A stock that’s part of Porter Stansberry and Luke Lango’s “1776 moment” pitch, this firm is what is dubbed “The AI Foundation.” The pitch adds that the firm “is a new spin-off from a multi-billion dollar business that has dominated ",
+      "url": "https://www.insidermonkey.com/blog/should-you-buy-amrize-amrz-1790291/",
+      "source": "Insider Trading",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/Ib_H8xhRJ8NPXJ2bRHkgffEzy6P0yWKQ4HMql-dVJ-Y/resize:fit:1280:851:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2015/06/construction-646914_1280.jpg",
+      "publishedAt": "2026-06-28T06:48:53.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "AI"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "d2251eaf8b11c724",
+      "slug": "oracle-layoffs-tech-giant-cuts-500-jobs-in-fresh-round-of-workforce-reduction-d32110",
+      "title": "Oracle Layoffs: Tech Giant Cuts 500 Jobs in Fresh Round of Workforce Reduction",
+      "dek": "Oracle has laid off approximately 500 employees at its Romania operations, with the process beginning on June 25. The move is part of the company's ongoing global restructuring drive aimed at strengthening its cloud and artificial intelligence business, according to media reports.",
+      "url": "https://www.latestly.com/technology/oracle-layoffs-tech-giant-cuts-500-jobs-in-fresh-round-of-workforce-reduction-7493317.html",
+      "source": "Latestly",
+      "sourceType": "external",
+      "image": "https://st1.latestly.com/wp-content/uploads/2026/03/image-45-1.jpg",
+      "publishedAt": "2026-06-28T02:44:28.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 38
+    },
+    {
+      "id": "8f8dd5d85616f9a5",
+      "slug": "jefferies-maintains-buy-rating-on-oracle-orcl-stock-497d7d",
+      "title": "Jefferies Maintains Buy Rating on Oracle (ORCL) Stock",
+      "dek": "Oracle Corporation (NYSE:ORCL) is one of the Best Cloud Computing Stocks to Buy According to Hedge Funds. On June 23, Jefferies analyst Brent Thill maintained a “Buy” rating on the company’s stock and reiterated the price objective of $320. As per the analyst, the company continues to witness strong",
+      "url": "https://www.insidermonkey.com/blog/jefferies-maintains-buy-rating-on-oracle-orcl-stock-1790139/",
+      "source": "Insider Trading",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/C5ktS4EaZOQ2ylCEKX-VzodNHGqqXvMw7EfL76qJUMs/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/20060404/ORCL-insidermonkey-1695204241327.jpg",
+      "publishedAt": "2026-06-27T22:17:34.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "ORCL"
       ],
       "priority": 36
     },
@@ -1957,38 +1957,6 @@
       "sourceType": "podcast",
       "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
       "publishedAt": "2024-07-02T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "bd401ec004db1755",
-      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
-      "title": "Introduction to OCI Container Engine for Kubernetes",
-      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-25T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "1d3aa287378f7e71",
-      "slug": "basics-of-kubernetes-23e26c",
-      "title": "Basics of Kubernetes",
-      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
-      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-18T14:00:00.000Z",
       "topic": "Oracle Cloud",
       "tags": [
         "OCI"
