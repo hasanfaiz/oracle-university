@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T21:49:35.073Z",
+  "generatedAt": "2026-06-30T21:52:19.287Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -55,151 +55,308 @@
       "priority": 46
     },
     {
-      "id": "4c37bde92efdd856",
-      "slug": "insider-selling-oracle-nyse-orcl-vice-chairman-sells-63-664-000-00-in-stock-94282d",
-      "title": "Insider Selling: Oracle (NYSE:ORCL) Vice Chairman Sells $63,664,000.00 in Stock",
-      "dek": "Oracle Corporation (NYSE:ORCL – Get Free Report) Vice Chairman Jeffrey Henley sold 400,000 shares of the company’s stock in a transaction on Wednesday, June 24th. The shares were sold at an average price of $159.16, for a total transaction of $63,664,000.00. Following the completion of the sale, the",
-      "url": "https://www.tickerreport.com/banking-finance/13489045/insider-selling-oracle-nyseorcl-vice-chairman-sells-63664000-00-in-stock.html",
-      "source": "Ticker Report",
+      "id": "2a27b9ded48d5742",
+      "slug": "story-of-kerala-man-trafficked-to-ai-integrated-scam-centre-in-myanmar-1a35da",
+      "title": "Story of Kerala Man Trafficked to AI-Integrated Scam Centre in Myanmar",
+      "dek": "The instructions were clear: He had four days to make each victim fall in love. And there were a lot of victims.",
+      "url": "https://www.deccanchronicle.com/southern-states/kerala/story-of-kerala-man-trafficked-to-ai-integrated-scam-centre-in-myanmar-1967299",
+      "source": "Andhrabhoomi",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-06-29T09:23:17.000Z",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/06/30/2058412-scam-centre-victim.webp",
+      "publishedAt": "2026-06-30T09:50:30.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "indian victims",
+        "myanmar scam centres",
+        "online scam"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "5f6d245fb16b8ebf",
+      "slug": "how-global-scammers-use-us-tech-to-fleece-people-worldwide-472fdf",
+      "title": "How Global Scammers Use US Tech To Fleece People Worldwide",
+      "dek": "Four days to make victims fall in love; using software built with AI models from American tech companies that scammers are targeting victims at unprecedented speed and scale.",
+      "url": "https://www.deccanchronicle.com/technology/in-other-news/how-global-scammers-use-us-tech-to-fleece-people-worldwide-1967298",
+      "source": "Andhrabhoomi",
+      "sourceType": "external",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/06/30/2058413-globalscams.webp",
+      "publishedAt": "2026-06-30T09:49:14.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "openai",
+        "google’s gemini",
+        "us tech companies",
+        "cyber fraud",
+        "starlink",
+        "ai companies"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "2ca876221c4e63b9",
+      "slug": "analyzing-sms-alternatives-otcmkts-cicn-and-open-text-nasdaq-otex-c0c443",
+      "title": "Analyzing SMS Alternatives (OTCMKTS:CICN) and Open Text (NASDAQ:OTEX)",
+      "dek": "Open Text (NASDAQ:OTEX – Get Free Report) and SMS Alternatives (OTCMKTS:CICN – Get Free Report) are both computer and technology companies, but which is the better investment? We will contrast the two businesses based on the strength of their earnings, profitability, dividends, risk, valuation, anal",
+      "url": "https://www.americanbankingnews.com/2026/06/30/analyzing-sms-alternatives-otcmktscicn-and-open-text-nasdaqotex.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/cicero-inc-logo-1200x675.png",
+      "publishedAt": "2026-06-30T09:34:51.000Z",
+      "topic": "Security",
+      "tags": [
+        "open text",
+        "review",
+        "otex",
+        "comparison",
+        "stock comparison",
+        "stock analysis"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "d67fc1efb79e0eaa",
+      "slug": "pegasystems-nasdaq-pega-and-oracle-nyse-orcl-critical-review-3b0ae3",
+      "title": "Pegasystems (NASDAQ:PEGA) and Oracle (NYSE:ORCL) Critical Review",
+      "dek": "Oracle (NYSE:ORCL – Get Free Report) and Pegasystems (NASDAQ:PEGA – Get Free Report) are both computer and technology companies, but which is the better stock? We will compare the two businesses based on the strength of their analyst recommendations, dividends, institutional ownership, earnings, pro",
+      "url": "https://www.americanbankingnews.com/2026/06/30/pegasystems-nasdaqpega-and-oracle-nyseorcl-critical-review.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/pegasystems-inc-logo-1200x675.png",
+      "publishedAt": "2026-06-30T09:34:44.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "orcl",
-        "oracle",
-        "insider trades",
-        "computer and technology",
         "nyse:orcl",
+        "review",
+        "oracle",
+        "orcl",
+        "comparison",
         "68389x10"
       ],
       "priority": 43
     },
     {
-      "id": "103d31dc514074b0",
-      "slug": "aws-raises-gpu-prices-20-as-the-memory-crunch-bites-eb736b",
-      "title": "AWS raises GPU prices 20% as the memory crunch bites",
-      "dek": "Renting an AI chip is starting to feel like booking a hotel in a sold-out city. You pay to hold the room, and the rate keeps climbing. On AWS, it just climbed again. Amazon Web Services has raised prices for EC2 Capacity Blocks for ML by roughly 20%, starting in July. Business Insider first reported",
-      "url": "https://thenextweb.com/news/aws-gpu-prices-increase-memory-shortage",
-      "source": "Tnw",
+      "id": "2543c3ec29a9a939",
+      "slug": "north-america-leads-ai-in-construction-market-asia-pacific-set-for-impressive-growth-wit-905872",
+      "title": "North America Leads AI in Construction Market; Asia-Pacific Set for Impressive Growth with a 33.1% CAGR by 2030",
+      "dek": "The AI in construction market is poised for significant growth, driven by smart city initiatives, cost optimization demands, AI-driven site monitoring, and sustainability regulations. Opportunities lie in predictive scheduling, safety monitoring, workflow automation, and energy efficiency, particula",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/06/30/3319461/28124/en/North-America-Leads-AI-in-Construction-Market-Asia-Pacific-Set-for-Impressive-Growth-with-a-33-1-CAGR-by-2030.html",
+      "source": "Globenewswire_fr",
       "sourceType": "external",
-      "image": "https://media.thenextweb.com/2026/06/eu-dma-aws-azure-cloud-gatekeeper-probe.avif",
-      "publishedAt": "2026-06-29T09:07:17.000Z",
+      "image": "",
+      "publishedAt": "2026-06-30T09:22:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "AI"
+        "smart construction",
+        "ai in construction",
+        "energy efficiency",
+        "research and markets",
+        "construction site",
+        "engineering construction"
       ],
       "priority": 43
     },
     {
-      "id": "f4006ea3038dce23",
-      "slug": "data-center-as-a-service-market-size-to-reach-1-400-6-billion-by-2035-as-ai-infrastructu-7f1ad7",
-      "title": "Data Center as a Service Market Size to Reach $1,400.6 Billion by 2035 as AI Infrastructure and Cloud Adoption Accelerate Worldwide | Report by SNS Insider",
-      "dek": "The U.S. Data Center as a Service Market is Projected to Grow from $48.7 Billion in 2025 to $427 Billion by 2035, While Europe is Expected to Expand from $26.84 Billion to $87.91 Billion, Driven by AI Workloads, Hyperscale Cloud Investments, Edge Computing, Multi-Cloud Adoption, and Increasing Deman",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/06/29/3318722/0/en/Data-Center-as-a-Service-Market-Size-to-Reach-1-400-6-Billion-by-2035-as-AI-Infrastructure-and-Cloud-Adoption-Accelerate-Worldwide-Report-by-SNS-Insider.html",
-      "source": "Globenewswire_fr",
+      "id": "ecfb95d25b180e44",
+      "slug": "four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to-fleece-people-047b56",
+      "title": "Four days to make victims fall in love: How global scammers use US tech to fleece people",
+      "dek": "Watchdogs say these companies have the technical capacity to do more to protect against abuse.",
+      "url": "https://www.redlandsdailyfacts.com/2026/06/30/global-scammers-us-tech/",
+      "source": "Redlands Daily Facts",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-06-29T08:35:00.000Z",
+      "image": "https://www.redlandsdailyfacts.com/wp-content/uploads/2026/06/Global_Scams_Technology_41244-1.jpg?w=1600&resize=1600,900",
+      "publishedAt": "2026-06-30T09:07:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "national news",
+        "news",
+        "world news",
+        "network"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "1cb54a4f3a21a92f",
+      "slug": "oracle-fusion-agentic-applications-bring-ai-driven-execution-to-supply-chains-3e2db9",
+      "title": "Oracle Fusion Agentic Applications Bring AI-Driven Execution to Supply Chains",
+      "dek": "Oracle Fusion agentic applications introduce AI-driven execution, inventory optimization, and smarter decision-making across supply chain planning and manufacturing.",
+      "url": "https://www.dqchannels.com/news/oracle-fusion-agentic-applications-bring-ai-driven-execution-to-supply-chains-12119959",
+      "source": "Dqc",
+      "sourceType": "external",
+      "image": "https://img-cdn.publive.online/dqc/media/media_files/2026/06/30/oracle-adds-new-fusion-agentic-applications-to-help-customers-improve-supply-chain-performance-2026-06-30-14-12-17.jpg",
+      "publishedAt": "2026-06-30T08:55:45.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "oracle"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "c0514cc88b41824e",
+      "slug": "2026-06-30t08-55-35-00-00-9ad167",
+      "title": "2026-06-30T08:55:35+00:00",
+      "dek": "Watchdogs say these companies have the technical capacity to do more to protect against abuse.",
+      "url": "https://www.dailynews.com/2026/06/30/global-scammers-us-tech/",
+      "source": "Los Angeles Daily News",
+      "sourceType": "external",
+      "image": "https://www.dailynews.com/wp-content/uploads/2026/06/Global_Scams_Technology_41244-1.jpg?w=1600&resize=1600,900",
+      "publishedAt": "2026-06-30T08:55:35.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "news",
+        "national news",
+        "network",
+        "world news"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "f76ceef808832901",
+      "slug": "amazon-web-services-launches-no-code-ai-customer-designer-7852a2",
+      "title": "Amazon Web Services launches no-code AI customer designer",
+      "dek": "Business teams can now build AI-led service journeys without engineering support, as AWS previews a no-code designer for Amazon Connect Customer.",
+      "url": "https://itbrief.in/story/amazon-web-services-launches-no-code-ai-customer-designer",
+      "source": "It Brief India",
+      "sourceType": "external",
+      "image": "https://itbrief.in/uploads/story/2026/06/30/compatible_collaborative-business-team-office-customer-service-icons-ai-panel-digital-illustration.jpg",
+      "publishedAt": "2026-06-30T08:30:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "69c68521db2a3192",
+      "slug": "blue-crystal-solutions-announces-partnership-with-airia-to-deliver-secure-sovereign-ai-s-efa71f",
+      "title": "Blue Crystal Solutions Announces Partnership with Airia to Deliver Secure, Sovereign AI Solutions",
+      "dek": "Blue Crystal Solutions, a leading Australian-owned IT Managed Services and Consulting company, has announced a new partnership with Airia, a next-generation AI orchestration platform. This collaboration establishes Blue Crystal Solutions as a key LLMaaS and GPUaaS partner in the South",
+      "url": "https://www.openpr.com/news/4564291/blue-crystal-solutions-announces-partnership-with-airia",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/6/L630104565_g.jpg",
+      "publishedAt": "2026-06-30T07:15:19.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "media release",
+        "advertising",
+        "marketing",
+        "news release",
+        "pressreleases",
+        "presses release"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "80af7bbe9c617e68",
+      "slug": "why-your-database-cannot-handle-agentic-workflows-ea8524",
+      "title": "Why Your Database Cannot Handle Agentic Workflows",
+      "dek": "The data stack was never built for agents, and the cost of that mismatch is now coming due.",
+      "url": "https://analyticsindiamag.com/ai-features/why-your-database-cannot-handle-agentic-workflows",
+      "source": "Analytics India Magazine",
+      "sourceType": "external",
+      "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1768999107813-69c6818d-554a-4ba2-90a3-42c87c5b05af-se9g37.webp",
+      "publishedAt": "2026-06-30T06:50:28.000Z",
+      "topic": "AI & Database",
+      "tags": [],
+      "priority": 41
+    },
+    {
+      "id": "63014d7a1a7d0615",
+      "slug": "oracle-adds-new-fusion-agentic-applications-to-help-customers-improve-supply-chain-perfo-597c6e",
+      "title": "Oracle Adds New Fusion Agentic Applications to Help Customers Improve Supply Chain Performance",
+      "dek": "Latest updates in Oracle Cloud SCM also include new inventory optimisation capabilities.",
+      "url": "https://itwire.com/business-it-news/business-technology/oracle-adds-new-fusion-agentic-applications-to-help-customers-improve-supply-chain-performance",
+      "source": "iTWire",
+      "sourceType": "external",
+      "image": "https://media.itwire.com/2026/06/30/oracle-adds-new-fusion-agentic-applications-to-help-customers-improve-supply-chain-performance-a8526df73f7e.webp",
+      "publishedAt": "2026-06-30T06:10:48.000Z",
       "topic": "Oracle Cloud",
       "tags": [
-        "data center as a service",
-        "gpu-as-a-service (gpuaas)",
-        "sns insider pvt ltd",
-        "dcaas market",
-        "edge computing",
-        "ai infrastructure"
+        "Oracle Cloud",
+        "SCM"
       ],
-      "priority": 42
+      "priority": 40
     },
     {
-      "id": "f522ef3623c222b2",
-      "slug": "promising-cybersecurity-stocks-to-consider-june-28th-63ee4c",
-      "title": "Promising Cybersecurity Stocks To Consider – June 28th",
-      "dek": "Palo Alto Networks, CrowdStrike, Fortinet, BlackBerry, Globant, SentinelOne, and NetScout Systems are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of companies that develop or provide products and services designed to p",
-      "url": "https://www.americanbankingnews.com/2026/06/29/promising-cybersecurity-stocks-to-consider-june-28th.html",
-      "source": "Americanbankingnews",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/palo-alto-networks-inc-logo-1200x675.png?v=20231213132526",
-      "publishedAt": "2026-06-29T08:34:58.000Z",
-      "topic": "Security",
-      "tags": [],
-      "priority": 42
-    },
-    {
-      "id": "77c80489361ffc29",
-      "slug": "openai-ipo-everything-you-need-to-know-1ed209",
-      "title": "OpenAI IPO: Everything You Need to Know",
-      "dek": "Market Analysis by covering: Microsoft Corporation, Alphabet Inc Class A, Meta Platforms Inc, OpenAI. Read 's Market Analysis on Investing.com UK.",
-      "url": "https://uk.investing.com/analysis/openai-ipo-everything-you-need-to-know-200626004",
-      "source": "Investing Uk",
-      "sourceType": "external",
-      "image": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
-      "publishedAt": "2026-06-29T06:43:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "openai",
-        "alphabet inc class a",
-        "meta platforms inc",
-        "microsoft corporation"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "bc3c1f16b78a1ce9",
-      "slug": "software-development-engineer-santo-domingo-do-3ef7d1",
-      "title": "Software Development Engineer (Santo Domingo, DO)",
-      "dek": "Help us change the way the world parks Parking isn’t just about spaces – it’s about creating seamless experiences, sustainable solutions, and smarter cities. At Flash, we’re not just thinking about today’s parking ...",
-      "url": "https://www.parking.net/parking-jobs/flash/software-development-engineer-santo-domingo-do-3",
-      "source": "Parking Network",
-      "sourceType": "external",
-      "image": "https://www.parking.net/Upload/ContentManagersPictures/FlashParking/flash-parking-company-logo-480px-2.jpg",
-      "publishedAt": "2026-06-29T06:34:38.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "jobs",
-        "flash",
-        "careers",
-        "do",
-        "software development engineer",
-        "santo domingo"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "7b2ba255f02b96f0",
-      "slug": "weekly-recap-browser-bugs-edr-killers-tv-botnet-openbsd-flaw-android-trojan-and-more-218a06",
-      "title": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
-      "dek": "Ravie LakshmananJun 22, 2026Cybersecurity / Hacking It’s Monday again. This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools,...",
-      "url": "https://www.swapupdate.in/weekly-recap-browser-bugs-edr-killers-tv-botnet-openbsd-flaw-android-trojan-and-more/",
+      "id": "ce7347539380c034",
+      "slug": "oracle-e-business-suite-flaw-cve-2026-46817-actively-exploited-in-the-wild-291389",
+      "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
+      "dek": "Ravie LakshmananJun 30, 2026Vulnerability / Enterprise Software A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber. The vulnerability, tracked...",
+      "url": "https://www.swapupdate.in/oracle-e-business-suite-flaw-cve-2026-46817-actively-exploited-in-the-wild/",
       "source": "Swapupdate",
       "sourceType": "external",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWTle5JU3HMoV1yUzXt6nAYO-EtyfOp22bJldi9N4fwakWmzrwwjBKfQNkprStB3B9K5HyUchIUCoNpGs-Kn2EHwClO7xJOV-qZQeDKFllNQrZ-TYq6OiikJkwi65NdfFcR7XhMTuIpmwSdoglwRcMcI43rLGB1B462ZXhd7nkh-q-FNnpPKoeUyL7bUqs/s1700-e365/recap-main.gif",
-      "publishedAt": "2026-06-29T05:21:00.000Z",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYwCBjb2uPzIs-8BNIxo90ae4xRgxzM1av-ijebBJ32Y2DEvRUvM-jMd6S535UdnbPKrLtFHxm0k9Lo7GJgVjCWCrH-0RNFZukDv7shdA02IkDs1Iqx8C-uH2hOCyfpJ01tmNVGhrvQ-6FGlmdjnCP0nXrq7zl5KVL3XZ84I9QTImD5DM8HYoJbA0A1P3w/s1700-e365/oracle.jpg",
+      "publishedAt": "2026-06-30T05:37:59.000Z",
       "topic": "Security",
       "tags": [
+        "CVE",
         "Security"
       ],
       "priority": 40
     },
     {
-      "id": "00ec6c011e3cb910",
-      "slug": "larry-ellison-s-ai-fortune-keeps-growing-while-oracle-cuts-jobs-here-s-why-38488e",
-      "title": "Larry Ellison's AI Fortune Keeps Growing While Oracle Cuts Jobs: Here's Why",
-      "dek": "Larry Ellison's wealth is soaring as Oracle's AI infrastructure investments boost investor optimism, despite workforce reductions. Explore the impact of AI on Oracle's share price and future growth.",
-      "url": "https://www.inkl.com/news/larry-ellisons-ai-fortune-keeps-growing-while-oracle-cuts-jobs-heres-why",
-      "source": "Inkl",
+      "id": "3eeba9c50a378d1e",
+      "slug": "hyperscale-data-center-market-growth-factors-healthy-cagr-and-future-outlook-exclusive-r-314b2b",
+      "title": "Hyperscale Data Center Market Growth Factors, Healthy CAGR and Future Outlook | Exclusive Report by MarketsandMarketsTM",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.qchron.com/online_features/press_releases/hyperscale-data-center-market-growth-factors-healthy-cagr-and-future-outlook-exclusive-report-by-marketsandmarkets/article_356ab0d0-4474-5398-a820-e3b33de0a563.html",
+      "source": "Qchron",
       "sourceType": "external",
-      "image": "https://images.inkl.com/s3/article/lead_image/23512476/larry-ellison.jpg",
-      "publishedAt": "2026-06-29T00:00:00.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://bloximages.chicago2.vip.townnews.com/qchron.com/content/tncms/assets/v3/editorial/d/7e/d7e30309-30d6-50d8-8768-2ad789b09d7b/6a436354ef292.image.jpg",
+      "publishedAt": "2026-06-30T04:15:03.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [],
+      "priority": 39
+    },
+    {
+      "id": "224c010e0ba8fdf9",
+      "slug": "amd-helios-faces-nvidia-vera-rubin-at-july-23-keynote-memory-leads-training-trails-b8400a",
+      "title": "AMD Helios Faces Nvidia Vera Rubin at July 23 Keynote: Memory Leads, Training Trails",
+      "dek": "AMD Advancing AI 2026 keynote on July 23 arrives as Cantor Fitzgerald raised AMD's price target to $700 today. AMD Helios packs 31 TB of HBM4 memory versus Vera Rubin's 20.7 TB — but trails Nvidia on training throughput and ROCm still lags CUDA in key optimization libraries. Here is what must change",
+      "url": "https://www.techtimes.com/articles/319338/20260629/amd-helios-faces-nvidia-vera-rubin-july-23-keynote-memory-leads-training-trails.htm",
+      "source": "Techtimes",
+      "sourceType": "external",
+      "image": "https://d.techtimes.com/en/full/466812/amd.jpg",
+      "publishedAt": "2026-06-30T03:43:36.000Z",
+      "topic": "Training & Certification",
       "tags": [
-        "global news",
-        "breaking news",
-        "news headlines",
-        "news today",
-        "news app",
-        "today news"
+        "nvidia",
+        "helios",
+        "vera rubin",
+        "amd"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "bea98e1a81f60152",
+      "slug": "daily-ai-for-work-pulse-30th-of-june-e0396c",
+      "title": "Daily 'AI for Work' Pulse: 30th of June",
+      "dek": "Start your Tuesday strong: 6 new AI tools and 95 AI news articles. Skim the headlines, spot the standouts, and grab a tool to try before your next meeting.",
+      "url": "https://completeaitraining.com/newsletter/daily-ai-for-work-pulse-30th-of-june-2/",
+      "source": "Complete Ai Training",
+      "sourceType": "external",
+      "image": "https://cdn.completeaitraining.com/newsletters/newsletter_2026-06-30_ghostwebsite.png",
+      "publishedAt": "2026-06-30T00:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "newsletter"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "3e233dab27ba3a4a",
+      "slug": "oracle-adds-ai-tools-to-fusion-supply-chain-software-7d4fef",
+      "title": "Oracle adds AI tools to Fusion supply chain software",
+      "dek": "The new functions could help supply chain teams cut stockouts, reduce supplier risk and speed factory decisions amid ongoing disruption.",
+      "url": "https://itbrief.co.nz/story/oracle-adds-ai-tools-to-fusion-supply-chain-software",
+      "source": "It Brief New Zealand",
+      "sourceType": "external",
+      "image": "https://itbrief.co.nz/uploads/story/2026/06/30/compatible_Oracle_Adds_New_Fusion_Agentic_Applications_to_Help_Customers_Improve_Supply_Chain_Performance.jpg",
+      "publishedAt": "2026-06-29T22:35:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "AI"
       ],
       "priority": 36
     },
@@ -1841,152 +1998,6 @@
       "topic": "Oracle Cloud",
       "tags": [
         "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "bd401ec004db1755",
-      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
-      "title": "Introduction to OCI Container Engine for Kubernetes",
-      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-25T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "1d3aa287378f7e71",
-      "slug": "basics-of-kubernetes-23e26c",
-      "title": "Basics of Kubernetes",
-      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
-      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-18T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ec54bf5b81f570ed",
-      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
-      "title": "Oracle Cloud Infrastructure Registry",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-11T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "OCI",
-        "Oracle Cloud Infrastructure"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "6ba1bee89c8a91cc",
-      "slug": "what-is-containerization-0326f4",
-      "title": "What is Containerization?",
-      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-04T14:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "OCI",
-        "Oracle University"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "b45e3d006fc93558",
-      "slug": "encore-episode-oci-ai-services-5e7f50",
-      "title": "Encore Episode: OCI AI Services",
-      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-28T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI",
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "57fe9154d1531745",
-      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
-      "title": "Encore Episode: Generative AI and Large Language Models",
-      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-14T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "60d141d1ef069450",
-      "slug": "encore-episode-deep-learning-fe981b",
-      "title": "Encore Episode: Deep Learning",
-      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-07T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "311a8fe7e2892283",
-      "slug": "encore-episode-machine-learning-ee26a4",
-      "title": "Encore Episode: Machine Learning",
-      "dek": "Does machine learning feel like too convoluted a topic? Not anymore! Listen to hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Hemant Gahankari, talk about foundational machine learning concepts and dive into how supervised learning, unsupervised learning, and reinf",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-machine-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-30T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "4589098868999fde",
-      "slug": "encore-episode-introduction-to-artificial-intelligence-ai-9e755a",
-      "title": "Encore Episode: Introduction to Artificial Intelligence (AI)",
-      "dek": "You probably interact with artificial intelligence (AI) more than you realize. So, there's never been a better time to start figuring out how it all works. Join Lois Houston and Nikita Abraham as they decode the fundamentals of AI so that anyone, irrespective of their technical background, can lever",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-introduction-to-artificial-intelligence-ai",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-23T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
       ],
       "priority": 36
     }
