@@ -6,7 +6,7 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 21:52:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 21:56:09 GMT</lastBuildDate>
     
     <item>
       <title>Oracle Sets the Date for its Fourth Quarter Fiscal Year 2026 Earnings Announcement</title>
@@ -36,157 +36,193 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-Second-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>Story of Kerala Man Trafficked to AI-Integrated Scam Centre in Myanmar</title>
-      <link>https://oracle-university.com/stories/story-of-kerala-man-trafficked-to-ai-integrated-scam-centre-in-myanmar-1a35da/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/story-of-kerala-man-trafficked-to-ai-integrated-scam-centre-in-myanmar-1a35da/</guid>
-      <pubDate>Tue, 30 Jun 2026 09:50:30 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The instructions were clear: He had four days to make each victim fall in love. And there were a lot of victims.</description>
-      <source url="https://www.deccanchronicle.com/southern-states/kerala/story-of-kerala-man-trafficked-to-ai-integrated-scam-centre-in-myanmar-1967299">Andhrabhoomi</source>
-    </item>
-    <item>
-      <title>How Global Scammers Use US Tech To Fleece People Worldwide</title>
-      <link>https://oracle-university.com/stories/how-global-scammers-use-us-tech-to-fleece-people-worldwide-472fdf/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/how-global-scammers-use-us-tech-to-fleece-people-worldwide-472fdf/</guid>
-      <pubDate>Tue, 30 Jun 2026 09:49:14 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Four days to make victims fall in love; using software built with AI models from American tech companies that scammers are targeting victims at unprecedented speed and scale.</description>
-      <source url="https://www.deccanchronicle.com/technology/in-other-news/how-global-scammers-use-us-tech-to-fleece-people-worldwide-1967298">Andhrabhoomi</source>
-    </item>
-    <item>
-      <title>Analyzing SMS Alternatives (OTCMKTS:CICN) and Open Text (NASDAQ:OTEX)</title>
-      <link>https://oracle-university.com/stories/analyzing-sms-alternatives-otcmkts-cicn-and-open-text-nasdaq-otex-c0c443/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/analyzing-sms-alternatives-otcmkts-cicn-and-open-text-nasdaq-otex-c0c443/</guid>
-      <pubDate>Tue, 30 Jun 2026 09:34:51 GMT</pubDate>
+      <title>AI Exploit Speed Forces Apple to Push 29 iOS 26.5.2 Patches Before Attackers Strike</title>
+      <link>https://oracle-university.com/stories/ai-exploit-speed-forces-apple-to-push-29-ios-26-5-2-patches-before-attackers-strike-e70741/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-exploit-speed-forces-apple-to-push-29-ios-26-5-2-patches-before-attackers-strike-e70741/</guid>
+      <pubDate>Wed, 01 Jul 2026 09:44:17 GMT</pubDate>
       <category>Security</category>
-      <description>Open Text (NASDAQ:OTEX – Get Free Report) and SMS Alternatives (OTCMKTS:CICN – Get Free Report) are both computer and technology companies, but which is the better investment? We will contrast the two businesses based on the strength of their earnings, profitability, dividends, risk, valuation, anal</description>
-      <source url="https://www.americanbankingnews.com/2026/06/30/analyzing-sms-alternatives-otcmktscicn-and-open-text-nasdaqotex.html">Americanbankingnews</source>
+      <description>iOS 26.5.2 security update arrives weeks early as Apple adapts to AI tools that compress vulnerability discovery into hours. The release patches 29 flaws — 23 in WebKit, the engine every iOS browser uses, plus kernel fixes — with none exploited before shipping. iPhone 11 and later are eligible; olde</description>
+      <source url="https://www.techtimes.com/articles/319418/20260701/ai-exploit-speed-forces-apple-push-29-ios-2652-patches-before-attackers-strike.htm">Techtimes</source>
     </item>
     <item>
-      <title>Pegasystems (NASDAQ:PEGA) and Oracle (NYSE:ORCL) Critical Review</title>
-      <link>https://oracle-university.com/stories/pegasystems-nasdaq-pega-and-oracle-nyse-orcl-critical-review-3b0ae3/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/pegasystems-nasdaq-pega-and-oracle-nyse-orcl-critical-review-3b0ae3/</guid>
-      <pubDate>Tue, 30 Jun 2026 09:34:44 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Oracle (NYSE:ORCL – Get Free Report) and Pegasystems (NASDAQ:PEGA – Get Free Report) are both computer and technology companies, but which is the better stock? We will compare the two businesses based on the strength of their analyst recommendations, dividends, institutional ownership, earnings, pro</description>
-      <source url="https://www.americanbankingnews.com/2026/06/30/pegasystems-nasdaqpega-and-oracle-nyseorcl-critical-review.html">Americanbankingnews</source>
-    </item>
-    <item>
-      <title>North America Leads AI in Construction Market; Asia-Pacific Set for Impressive Growth with a 33.1% CAGR by 2030</title>
-      <link>https://oracle-university.com/stories/north-america-leads-ai-in-construction-market-asia-pacific-set-for-impressive-growth-wit-905872/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/north-america-leads-ai-in-construction-market-asia-pacific-set-for-impressive-growth-wit-905872/</guid>
-      <pubDate>Tue, 30 Jun 2026 09:22:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The AI in construction market is poised for significant growth, driven by smart city initiatives, cost optimization demands, AI-driven site monitoring, and sustainability regulations. Opportunities lie in predictive scheduling, safety monitoring, workflow automation, and energy efficiency, particula</description>
-      <source url="https://www.globenewswire.com/fr/news-release/2026/06/30/3319461/28124/en/North-America-Leads-AI-in-Construction-Market-Asia-Pacific-Set-for-Impressive-Growth-with-a-33-1-CAGR-by-2030.html">Globenewswire_fr</source>
-    </item>
-    <item>
-      <title>Four days to make victims fall in love: How global scammers use US tech to fleece people</title>
-      <link>https://oracle-university.com/stories/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to-fleece-people-047b56/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/four-days-to-make-victims-fall-in-love-how-global-scammers-use-us-tech-to-fleece-people-047b56/</guid>
-      <pubDate>Tue, 30 Jun 2026 09:07:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Watchdogs say these companies have the technical capacity to do more to protect against abuse.</description>
-      <source url="https://www.redlandsdailyfacts.com/2026/06/30/global-scammers-us-tech/">Redlands Daily Facts</source>
-    </item>
-    <item>
-      <title>Oracle Fusion Agentic Applications Bring AI-Driven Execution to Supply Chains</title>
-      <link>https://oracle-university.com/stories/oracle-fusion-agentic-applications-bring-ai-driven-execution-to-supply-chains-3e2db9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-fusion-agentic-applications-bring-ai-driven-execution-to-supply-chains-3e2db9/</guid>
-      <pubDate>Tue, 30 Jun 2026 08:55:45 GMT</pubDate>
+      <title>North America LMS Market Poised for Growth: Expected to Reach USD 25.34 Billion by 2031 Driven by eLearning Adoption</title>
+      <link>https://oracle-university.com/stories/north-america-lms-market-poised-for-growth-expected-to-reach-usd-25-34-billion-by-2031-d-027a43/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/north-america-lms-market-poised-for-growth-expected-to-reach-usd-25-34-billion-by-2031-d-027a43/</guid>
+      <pubDate>Wed, 01 Jul 2026 09:41:00 GMT</pubDate>
       <category>Applications &amp; NetSuite</category>
-      <description>Oracle Fusion agentic applications introduce AI-driven execution, inventory optimization, and smarter decision-making across supply chain planning and manufacturing.</description>
-      <source url="https://www.dqchannels.com/news/oracle-fusion-agentic-applications-bring-ai-driven-execution-to-supply-chains-12119959">Dqc</source>
+      <description>Key market opportunities include the increasing adoption of cloud-based eLearning platforms, driven by growing enterprise demand for upskilling, compliance, and AI-powered learning environments. North America&#39;s rapid EdTech evolution, particularly in Mexico and Canada, supports LMS expansion despite</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/07/01/3320423/28124/en/North-America-LMS-Market-Poised-for-Growth-Expected-to-Reach-USD-25-34-Billion-by-2031-Driven-by-eLearning-Adoption.html">Globenewswire_fr</source>
     </item>
     <item>
-      <title>2026-06-30T08:55:35+00:00</title>
-      <link>https://oracle-university.com/stories/2026-06-30t08-55-35-00-00-9ad167/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/2026-06-30t08-55-35-00-00-9ad167/</guid>
-      <pubDate>Tue, 30 Jun 2026 08:55:35 GMT</pubDate>
+      <title>Microsoft Reportedly Planning Fresh Round of Layoffs Next Week</title>
+      <link>https://oracle-university.com/stories/microsoft-reportedly-planning-fresh-round-of-layoffs-next-week-da6b0f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/microsoft-reportedly-planning-fresh-round-of-layoffs-next-week-da6b0f/</guid>
+      <pubDate>Wed, 01 Jul 2026 09:32:08 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Watchdogs say these companies have the technical capacity to do more to protect against abuse.</description>
-      <source url="https://www.dailynews.com/2026/06/30/global-scammers-us-tech/">Los Angeles Daily News</source>
+      <description>Microsoft is reportedly planning to unveil a new round of layoffs as early as next week, potentially affecting more than 5,000 employees. This measure appears to be part of the company’s strategy to manage costs while simultaneously investing extensively in artificial intelligence (AI). According to</description>
+      <source url="https://thecsrjournal.in/microsoft-reportedly-planning-fresh-round-of-layoffs-next-week/">The Csr Journal</source>
     </item>
     <item>
-      <title>Amazon Web Services launches no-code AI customer designer</title>
-      <link>https://oracle-university.com/stories/amazon-web-services-launches-no-code-ai-customer-designer-7852a2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/amazon-web-services-launches-no-code-ai-customer-designer-7852a2/</guid>
-      <pubDate>Tue, 30 Jun 2026 08:30:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Business teams can now build AI-led service journeys without engineering support, as AWS previews a no-code designer for Amazon Connect Customer.</description>
-      <source url="https://itbrief.in/story/amazon-web-services-launches-no-code-ai-customer-designer">It Brief India</source>
+      <title>Goldman Sachs&#39; US stock chief explains why it&#39;s time to double down on the market&#39;s favorite AI stocks</title>
+      <link>https://oracle-university.com/stories/goldman-sachs-us-stock-chief-explains-why-it-s-time-to-double-down-on-the-market-s-favor-279f13/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/goldman-sachs-us-stock-chief-explains-why-it-s-time-to-double-down-on-the-market-s-favor-279f13/</guid>
+      <pubDate>Wed, 01 Jul 2026 09:30:01 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Goldman&#39;s Ben Snider dismissed bubble concerns and said he&#39;s continuing to lean into the major themes driving the AI trade.</description>
+      <source url="https://www.businessinsider.com/ai-stocks-investing-ideas-bubble-valuations-ben-snider-goldman-sachs-2026-7">Insider</source>
     </item>
     <item>
-      <title>Blue Crystal Solutions Announces Partnership with Airia to Deliver Secure, Sovereign AI Solutions</title>
-      <link>https://oracle-university.com/stories/blue-crystal-solutions-announces-partnership-with-airia-to-deliver-secure-sovereign-ai-s-efa71f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/blue-crystal-solutions-announces-partnership-with-airia-to-deliver-secure-sovereign-ai-s-efa71f/</guid>
-      <pubDate>Tue, 30 Jun 2026 07:15:19 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Blue Crystal Solutions, a leading Australian-owned IT Managed Services and Consulting company, has announced a new partnership with Airia, a next-generation AI orchestration platform. This collaboration establishes Blue Crystal Solutions as a key LLMaaS and GPUaaS partner in the South</description>
-      <source url="https://www.openpr.com/news/4564291/blue-crystal-solutions-announces-partnership-with-airia">Openpr.com</source>
+      <title>AI-driven cyberattacks emerge as top risk for banks and NBFCs, says RBI</title>
+      <link>https://oracle-university.com/stories/ai-driven-cyberattacks-emerge-as-top-risk-for-banks-and-nbfcs-says-rbi-2d3b7c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-driven-cyberattacks-emerge-as-top-risk-for-banks-and-nbfcs-says-rbi-2d3b7c/</guid>
+      <pubDate>Wed, 01 Jul 2026 09:17:06 GMT</pubDate>
+      <category>Security</category>
+      <description>RBI says AI-enabled cyber threats have emerged as the biggest risk facing banks and NBFCs, while also warning that the global AI investment boom could create broader financial stability concerns</description>
+      <source url="https://www.business-standard.com/technology/artificial-intelligence/ai-driven-cyberattacks-emerge-as-top-risk-for-banks-and-nbfcs-says-rbi-126070100658_1.html">Business Standard</source>
     </item>
     <item>
-      <title>Why Your Database Cannot Handle Agentic Workflows</title>
-      <link>https://oracle-university.com/stories/why-your-database-cannot-handle-agentic-workflows-ea8524/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/why-your-database-cannot-handle-agentic-workflows-ea8524/</guid>
-      <pubDate>Tue, 30 Jun 2026 06:50:28 GMT</pubDate>
+      <title>Warren Buffett&#39;s Successor, Greg Abel, Started His Tenure With a Bang by Dumping Domino&#39;s and Making a Virtual Monopoly Berkshire&#39;s New No. 5 Holding</title>
+      <link>https://oracle-university.com/stories/warren-buffett-s-successor-greg-abel-started-his-tenure-with-a-bang-by-dumping-domino-s--bf0f59/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/warren-buffett-s-successor-greg-abel-started-his-tenure-with-a-bang-by-dumping-domino-s--bf0f59/</guid>
+      <pubDate>Wed, 01 Jul 2026 09:06:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The Oracle of Omaha&#39;s protege gave Domino&#39;s Pizza the heave-ho in favor of an artificial intelligence (AI) applications pioneer whose shares have gained more than 13,300% since its IPO.</description>
+      <source url="https://www.fool.com/investing/2026/07/01/warren-buffett-successor-abel-sell-dpz-buy-googl/">Fool</source>
+    </item>
+    <item>
+      <title>RAH Infotech Partners with IntelliDB Enterprise to Accelerate AI-Powered Database Modernisation in India</title>
+      <link>https://oracle-university.com/stories/rah-infotech-partners-with-intellidb-enterprise-to-accelerate-ai-powered-database-modern-485fd0/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/rah-infotech-partners-with-intellidb-enterprise-to-accelerate-ai-powered-database-modern-485fd0/</guid>
+      <pubDate>Wed, 01 Jul 2026 08:59:30 GMT</pubDate>
       <category>AI &amp; Database</category>
-      <description>The data stack was never built for agents, and the cost of that mismatch is now coming due.</description>
-      <source url="https://analyticsindiamag.com/ai-features/why-your-database-cannot-handle-agentic-workflows">Analytics India Magazine</source>
+      <description>RAH Infotech, a value-added technology distributor, has entered into a strategic partnership with IntelliDB Enterprise, an AI-powered database management platform, to expand access to secure, scalable and sovereign database infrastructure for enterprises and government organisations across India. Th</description>
+      <source url="https://cxotoday.com/media-coverage/rah-infotech-partners-with-intellidb-enterprise-to-accelerate-ai-powered-database-modernisation-in-india/">Cxotoday</source>
     </item>
     <item>
-      <title>Oracle Adds New Fusion Agentic Applications to Help Customers Improve Supply Chain Performance</title>
-      <link>https://oracle-university.com/stories/oracle-adds-new-fusion-agentic-applications-to-help-customers-improve-supply-chain-perfo-597c6e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-adds-new-fusion-agentic-applications-to-help-customers-improve-supply-chain-perfo-597c6e/</guid>
-      <pubDate>Tue, 30 Jun 2026 06:10:48 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Latest updates in Oracle Cloud SCM also include new inventory optimisation capabilities.</description>
-      <source url="https://itwire.com/business-it-news/business-technology/oracle-adds-new-fusion-agentic-applications-to-help-customers-improve-supply-chain-performance">iTWire</source>
+      <title>Oracle Helps Organizations Scale Effective Leadership with Oracle Manager Edge</title>
+      <link>https://oracle-university.com/stories/oracle-helps-organizations-scale-effective-leadership-with-oracle-manager-edge-8a7fda/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-helps-organizations-scale-effective-leadership-with-oracle-manager-edge-8a7fda/</guid>
+      <pubDate>Wed, 01 Jul 2026 08:47:37 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Oracle announced a new AI-powered coaching assistant within Oracle Fusion Cloud Human Capital Management (HCM) to help managers lead with greater confidence, consistency, and effectiveness. Oracle Manager Edge helps managers strengthen engagement, support employee growth, improve team performance, a</description>
+      <source url="https://smestreet.in/technology/oracle-helps-organizations-scale-effective-leadership-with-oracle-manager-edge-12123262">Smestreet In</source>
     </item>
     <item>
-      <title>Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild</title>
-      <link>https://oracle-university.com/stories/oracle-e-business-suite-flaw-cve-2026-46817-actively-exploited-in-the-wild-291389/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-e-business-suite-flaw-cve-2026-46817-actively-exploited-in-the-wild-291389/</guid>
-      <pubDate>Tue, 30 Jun 2026 05:37:59 GMT</pubDate>
-      <category>Security</category>
-      <description>Ravie LakshmananJun 30, 2026Vulnerability / Enterprise Software A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber. The vulnerability, tracked...</description>
-      <source url="https://www.swapupdate.in/oracle-e-business-suite-flaw-cve-2026-46817-actively-exploited-in-the-wild/">Swapupdate</source>
-    </item>
-    <item>
-      <title>Hyperscale Data Center Market Growth Factors, Healthy CAGR and Future Outlook | Exclusive Report by MarketsandMarketsTM</title>
-      <link>https://oracle-university.com/stories/hyperscale-data-center-market-growth-factors-healthy-cagr-and-future-outlook-exclusive-r-314b2b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/hyperscale-data-center-market-growth-factors-healthy-cagr-and-future-outlook-exclusive-r-314b2b/</guid>
-      <pubDate>Tue, 30 Jun 2026 04:15:03 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.qchron.com/online_features/press_releases/hyperscale-data-center-market-growth-factors-healthy-cagr-and-future-outlook-exclusive-report-by-marketsandmarkets/article_356ab0d0-4474-5398-a820-e3b33de0a563.html">Qchron</source>
-    </item>
-    <item>
-      <title>AMD Helios Faces Nvidia Vera Rubin at July 23 Keynote: Memory Leads, Training Trails</title>
-      <link>https://oracle-university.com/stories/amd-helios-faces-nvidia-vera-rubin-at-july-23-keynote-memory-leads-training-trails-b8400a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/amd-helios-faces-nvidia-vera-rubin-at-july-23-keynote-memory-leads-training-trails-b8400a/</guid>
-      <pubDate>Tue, 30 Jun 2026 03:43:36 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>AMD Advancing AI 2026 keynote on July 23 arrives as Cantor Fitzgerald raised AMD&#39;s price target to $700 today. AMD Helios packs 31 TB of HBM4 memory versus Vera Rubin&#39;s 20.7 TB — but trails Nvidia on training throughput and ROCm still lags CUDA in key optimization libraries. Here is what must change</description>
-      <source url="https://www.techtimes.com/articles/319338/20260629/amd-helios-faces-nvidia-vera-rubin-july-23-keynote-memory-leads-training-trails.htm">Techtimes</source>
-    </item>
-    <item>
-      <title>Daily &#39;AI for Work&#39; Pulse: 30th of June</title>
-      <link>https://oracle-university.com/stories/daily-ai-for-work-pulse-30th-of-june-e0396c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/daily-ai-for-work-pulse-30th-of-june-e0396c/</guid>
-      <pubDate>Tue, 30 Jun 2026 00:00:00 GMT</pubDate>
+      <title>5G upload speeds, latency constrain real-time AI workloads in India: Ookla study</title>
+      <link>https://oracle-university.com/stories/5g-upload-speeds-latency-constrain-real-time-ai-workloads-in-india-ookla-study-c12fad/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/5g-upload-speeds-latency-constrain-real-time-ai-workloads-in-india-ookla-study-c12fad/</guid>
+      <pubDate>Wed, 01 Jul 2026 08:39:07 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Start your Tuesday strong: 6 new AI tools and 95 AI news articles. Skim the headlines, spot the standouts, and grab a tool to try before your next meeting.</description>
-      <source url="https://completeaitraining.com/newsletter/daily-ai-for-work-pulse-30th-of-june-2/">Complete Ai Training</source>
+      <description>India allocates just 7.53% of its 5G throughput to upload, delivering a median upload speed of 15.75Mbps, Ookla said. While India is among a handful of markets that have grown its upload share by 1.53 percentage points between 2023 and 2025, it falls short of the 20Mbps target required for advanced </description>
+      <source url="https://telecom.economictimes.indiatimes.com/news/industry/indias-5g-upload-speed-and-latency-challenge-ai-workloads-ookla-study-reveals-critical-constraints/132110174">Et Telecom</source>
     </item>
     <item>
-      <title>Oracle adds AI tools to Fusion supply chain software</title>
-      <link>https://oracle-university.com/stories/oracle-adds-ai-tools-to-fusion-supply-chain-software-7d4fef/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-adds-ai-tools-to-fusion-supply-chain-software-7d4fef/</guid>
-      <pubDate>Mon, 29 Jun 2026 22:35:00 GMT</pubDate>
+      <title>Infoblox Expands Universal Asset Insights to Deliver Infrastructure Intelligence for AgenticOps and Automation</title>
+      <link>https://oracle-university.com/stories/infoblox-expands-universal-asset-insights-to-deliver-infrastructure-intelligence-for-age-8886bd/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/infoblox-expands-universal-asset-insights-to-deliver-infrastructure-intelligence-for-age-8886bd/</guid>
+      <pubDate>Wed, 01 Jul 2026 08:31:45 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Evolves Universal Asset Insights from asset discovery to infrastructure intelligence through three pillars: Discovery, Inventory and Insights Establishes a continuously validated source of infrastructure truth for AgenticOps, automation and CMDB modernization Offers 40+ ecosystem integrations, AI-po</description>
+      <source url="https://cioinfluence.com/security/infoblox-expands-universal-asset-insights-to-deliver-infrastructure-intelligence-for-agenticops-and-automation/">Cio Influence</source>
+    </item>
+    <item>
+      <title>The Rise of GPUaaS: Enabling AI-Driven Infrastructure Growth in 2024 and Beyond</title>
+      <link>https://oracle-university.com/stories/the-rise-of-gpuaas-enabling-ai-driven-infrastructure-growth-in-2024-and-beyond-2a2419/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-rise-of-gpuaas-enabling-ai-driven-infrastructure-growth-in-2024-and-beyond-2a2419/</guid>
+      <pubDate>Wed, 01 Jul 2026 08:10:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Key opportunities in the GPUaaS market include the rising demand for scalable AI and HPC solutions, cost efficiency of cloud-based services over on-premise setups, and growing enterprise adoption of flexible, pay-per-use models. The expanding AI sector and digital transformation initiatives further </description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/07/01/3320385/28124/en/The-Rise-of-GPUaaS-Enabling-AI-Driven-Infrastructure-Growth-in-2024-and-Beyond.html">Globenewswire_fr</source>
+    </item>
+    <item>
+      <title>AI Infrastructure Expansion Fuels $15.34 Billion North America GPUaaS Market by 2030</title>
+      <link>https://oracle-university.com/stories/ai-infrastructure-expansion-fuels-15-34-billion-north-america-gpuaas-market-by-2030-a9651d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-infrastructure-expansion-fuels-15-34-billion-north-america-gpuaas-market-by-2030-a9651d/</guid>
+      <pubDate>Wed, 01 Jul 2026 08:09:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The North America GPUaaS market offers opportunities in AI infrastructure growth, fueled by generative AI and enterprise digital acceleration. Key drivers include strong cloud ecosystems, AI modernization, and a robust startup ecosystem, alongside challenges like energy consumption and regulatory co</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/07/01/3320384/28124/en/AI-Infrastructure-Expansion-Fuels-15-34-Billion-North-America-GPUaaS-Market-by-2030.html">Globenewswire_fr</source>
+    </item>
+    <item>
+      <title>EU Digital Sovereignty Initiatives Propel GPUaaS Adoption in AI Transformation</title>
+      <link>https://oracle-university.com/stories/eu-digital-sovereignty-initiatives-propel-gpuaas-adoption-in-ai-transformation-6fab8d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/eu-digital-sovereignty-initiatives-propel-gpuaas-adoption-in-ai-transformation-6fab8d/</guid>
+      <pubDate>Wed, 01 Jul 2026 08:08:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>The EU GPUaaS market presents key opportunities in expanding sovereign cloud initiatives, leveraging strong regulatory frameworks for secure AI adoption, and addressing industrial and public sector demand for scalable GPU services. Growth is fueled by AI and digital transformation, green data center</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/07/01/3320381/28124/en/EU-Digital-Sovereignty-Initiatives-Propel-GPUaaS-Adoption-in-AI-Transformation.html">Globenewswire_fr</source>
+    </item>
+    <item>
+      <title>Global Learning Management Systems Market to Surge From USD 31.12 Billion in 2024 to USD 79.18 Billion by 2031</title>
+      <link>https://oracle-university.com/stories/global-learning-management-systems-market-to-surge-from-usd-31-12-billion-in-2024-to-usd-780000/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/global-learning-management-systems-market-to-surge-from-usd-31-12-billion-in-2024-to-usd-780000/</guid>
+      <pubDate>Wed, 01 Jul 2026 08:04:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Key opportunities in the LMS market include rising enterprise demand for scalable workforce development, eLearning adoption driven by mobile and cloud-based platforms, and personalized learning through AI integration. Regulatory compliance needs and regional growth, particularly in Asia Pacific, als</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/07/01/3320375/28124/en/Global-Learning-Management-Systems-Market-to-Surge-From-USD-31-12-Billion-in-2024-to-USD-79-18-Billion-by-2031.html">Globenewswire_fr</source>
+    </item>
+    <item>
+      <title>How I Engineered a 1.7M Row Product Safety Database to Serve Pages in 66ms on a Single Free VM</title>
+      <link>https://oracle-university.com/stories/how-i-engineered-a-1-7m-row-product-safety-database-to-serve-pages-in-66ms-on-a-single-f-32b5d2/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/how-i-engineered-a-1-7m-row-product-safety-database-to-serve-pages-in-66ms-on-a-single-f-32b5d2/</guid>
+      <pubDate>Wed, 01 Jul 2026 06:54:43 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>How LemonKnows scaled 1.7M PostgreSQL rows, 41,000 recalls, and 7-language support on a free 6GB ARM server with 66ms page loads.</description>
+      <source url="https://hackernoon.com/how-i-engineered-a-17m-row-product-safety-database-to-serve-pages-in-66ms-on-a-single-free-vm">Hackernoon</source>
+    </item>
+    <item>
+      <title>Oracle Launches Fusion Agentic Applications for Supply Chains</title>
+      <link>https://oracle-university.com/stories/oracle-launches-fusion-agentic-applications-for-supply-chains-c92374/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-launches-fusion-agentic-applications-for-supply-chains-c92374/</guid>
+      <pubDate>Wed, 01 Jul 2026 05:47:37 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Oracle announced four new Fusion Agentic Applications that will help organizations improve supply chain performance by increasing inventory visibility, reducing supplier and operational impact, and improving manufacturing efficiency. Built into Oracle Fusion Cloud Supply Chain &amp; Manufacturing (SCM) </description>
+      <source url="https://smestreet.in/technology/oracle-launches-fusion-agentic-applications-for-supply-chains-12122504">Smestreet In</source>
+    </item>
+    <item>
+      <title>Oracle Opens MySQL Governance to Community Voices, Yet Skeptics Demand Binding Assurances</title>
+      <link>https://oracle-university.com/stories/oracle-opens-mysql-governance-to-community-voices-yet-skeptics-demand-binding-assurances-8193a2/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-opens-mysql-governance-to-community-voices-yet-skeptics-demand-binding-assurances-8193a2/</guid>
+      <pubDate>Wed, 01 Jul 2026 00:52:05 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Oracle unveiled a new MySQL governance model featuring contributor pathways, a Technical Steering Committee with AWS and Google Cloud, and transparency metrics. While some praise the direction, leaders like Percona&#39;s Peter Zaitsev question whether it delivers real decision power or merely advisory i</description>
+      <source url="https://www.webpronews.com/oracle-opens-mysql-governance-to-community-voices-yet-skeptics-demand-binding-assurances/">Webpronews</source>
+    </item>
+    <item>
+      <title>Saints &amp; Masters expands multi-cloud play with Xencia acquisition</title>
+      <link>https://oracle-university.com/stories/saints-masters-expands-multi-cloud-play-with-xencia-acquisition-448b3e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/saints-masters-expands-multi-cloud-play-with-xencia-acquisition-448b3e/</guid>
+      <pubDate>Wed, 01 Jul 2026 00:49:19 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>The deal comprises a mix of equity, debt and share swap, and follows S&amp;M&#39;s earlier acquisition of AWS partner Nubinix Technologies in March. The combined entity now has a post-money valuation of Rs 300 crore.</description>
+      <source url="https://economictimes.indiatimes.com/tech/information-tech/saints-masters-expands-multi-cloud-play-with-xencia-acquisition/articleshow/132107662.cms">The Economic Times</source>
+    </item>
+    <item>
+      <title>💻 Albuquerque IT Jobs: Multiple Openings with $100K+ Pay</title>
+      <link>https://oracle-university.com/stories/albuquerque-it-jobs-multiple-openings-with-100k-pay-626cb7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/albuquerque-it-jobs-multiple-openings-with-100k-pay-626cb7/</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
       <category>Security</category>
-      <description>The new functions could help supply chain teams cut stockouts, reduce supplier risk and speed factory decisions amid ongoing disruption.</description>
-      <source url="https://itbrief.co.nz/story/oracle-adds-ai-tools-to-fusion-supply-chain-software">It Brief New Zealand</source>
+      <description>Albuquerque’s tech scene is buzzing with solid opportunities right now — from county government IT roles to high-security defense projects. If you’ve got t</description>
+      <source url="https://www.newsbreak.com/albuquerque-nm-daily-brief-375409831/4743093461395-albuquerque-it-jobs-multiple-openings-with-100k-pay">Newsbreak</source>
+    </item>
+    <item>
+      <title>The AI Revolution Needs Electricity More Than Intelligence</title>
+      <link>https://oracle-university.com/stories/the-ai-revolution-needs-electricity-more-than-intelligence-f2712a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-ai-revolution-needs-electricity-more-than-intelligence-f2712a/</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>No generation in human history has experienced an infrastructure buildout of this speed and scale. Over the next several years, trillions of dollars will be poured into what industry leaders increasingly describe as AI factories: sprawling campuses filled with advanced processors, networking equipme</description>
+      <source url="https://oilprice.com/Energy/Energy-General/The-AI-Revolution-Needs-Electricity-More-Than-Intelligence.html">Oil Price</source>
+    </item>
+    <item>
+      <title>Conductiv Appoints Fintech Industry Veteran Gautam Sircar as Strategic Advisor</title>
+      <link>https://oracle-university.com/stories/conductiv-appoints-fintech-industry-veteran-gautam-sircar-as-strategic-advisor-40641a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/conductiv-appoints-fintech-industry-veteran-gautam-sircar-as-strategic-advisor-40641a/</guid>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Former Jack Henry Chief Strategy Officer joins Conductiv as a strategic advisor, supporting the scaling of its AI platform for lender loan optimization.</description>
+      <source url="https://www.einpresswire.com/article/923393015/conductiv-appoints-fintech-industry-veteran-gautam-sircar-as-strategic-advisor">Ein Presswire</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -421,42 +457,6 @@
       <category>Applications &amp; NetSuite</category>
       <description>In this Episode Orlaith Lawton speaks with Oracle ACE Roberto Capancioni about the importance of APEX and why it is the world&#39;s most popular low-code application platform. ------------------------------------------------------ Episode Transcript: 00:00:00:00 - 00:00:35:14 Unknown Welcome to the Orac</description>
       <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-transformative-power-of-low-code-development">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Understanding Security Risks and Threats in the Cloud - Part 1</title>
-      <link>https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</guid>
-      <pubDate>Tue, 18 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>This week, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to explore what truly keeps data safe, and what puts it at risk. They discuss the CIA triad, dive into hashing and encryption, and shed light on how cyber threats like malware, phishing, and ransomware t</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/understanding-security-risks-and-threats-in-the-cloud-part-1">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Networking &amp; Security Essentials</title>
-      <link>https://oracle-university.com/stories/networking-security-essentials-113af4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/networking-security-essentials-113af4/</guid>
-      <pubDate>Tue, 11 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>How do all your devices connect and stay safe in the cloud? In this episode, Lois Houston and Nikita Abraham talk with OCI instructors Sergio Castro and Orlando Gentil about the basics of how networks work and the simple steps that help protect them. You&#39;ll learn how information gets from one place </description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/networking-security-essentials">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Inside Cloud Networking</title>
-      <link>https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</guid>
-      <pubDate>Tue, 04 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>In this episode, hosts Lois Houston and Nikita Abraham team up with Senior Principal OCI Instructor Sergio Castro to unpack the basics of cloud networking and the Domain Name System (DNS). You&#39;ll learn how local and virtual networks connect devices, and how DNS seamlessly translates familiar names l</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/inside-cloud-networking">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 4</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</guid>
-      <pubDate>Tue, 28 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>In this episode, hosts Lois Houston and Nikita Abraham, along with Principal OCI Instructor Orlando Gentil, break down the differences between Infrastructure-as-a-Service, Platform-as-a-Service, and Software-as-a-Service. The conversation explores how each framework influences control, cost efficien</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-4">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
