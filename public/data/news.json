@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-04T21:25:14.812Z",
+  "generatedAt": "2026-07-05T21:31:39.621Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -55,172 +55,130 @@
       "priority": 46
     },
     {
-      "id": "653c7a49bcef2ca1",
-      "slug": "promising-blockchain-stocks-to-add-to-your-watchlist-july-3rd-dad9d3",
-      "title": "Promising Blockchain Stocks To Add to Your Watchlist – July 3rd",
-      "dek": "Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Globant, and Digi Power X are the five Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. “Blockchain stocks” are shares of publicly traded companies that are involved in blockchain technology, su",
-      "url": "https://www.americanbankingnews.com/2026/07/04/promising-blockchain-stocks-to-add-to-your-watchlist-july-3rd.html",
-      "source": "Americanbankingnews",
+      "id": "ae69d6f46e0c1229",
+      "slug": "week-in-review-simplehelp-vulnerability-exploited-oracle-ebs-payments-flaw-under-attack-dfbe6d",
+      "title": "Week in review: SimpleHelp vulnerability exploited, Oracle EBS Payments flaw under attack",
+      "dek": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Companies keep bolting AI onto their products, and the security bill is coming due Companies keep bolting AI and LLM features onto their products, and the security results are starting to show a pattern",
+      "url": "https://www.helpnetsecurity.com/2026/07/05/week-in-review-simplehelp-vulnerability-exploited-oracle-ebs-payments-flaw-under-attack/",
+      "source": "Help Net Security",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
-      "publishedAt": "2026-07-04T08:39:13.000Z",
-      "topic": "Business & Earnings",
-      "tags": [],
-      "priority": 43
-    },
-    {
-      "id": "037d121b071d2942",
-      "slug": "top-cost-effective-enterprise-gpu-cloud-platforms-for-ai-workloads-with-h100-gb200-elast-6d51ab",
-      "title": "Top Cost-Effective Enterprise GPU Cloud Platforms for AI Workloads with H100–GB200, Elastic Scaling and Pay-as-You-Go Compute",
-      "dek": "Shop professional Bitcoin mining hardware&BTC mining machines at Bitdeer. Explore high-performance GPU Cloud, Cloud Mining, and Litecoin/Dogecoin mining solutions.",
-      "url": "https://www.financialcontent.com/article/globeprwire-2026-7-4-top-cost-effective-enterprise-gpu-cloud-platforms-for-ai-workloads-with-h100gb200-elastic-scaling-and-pay-as-you-go-compute",
-      "source": "Financialcontent",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-07-04T08:03:18.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "AI"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "b7878dadf5522bf9",
-      "slug": "oracle-positioned-for-success-priced-for-failure-f79e8d",
-      "title": "Oracle: Positioned For Success, Priced For Failure",
-      "dek": "Oracle stock: buy call on AI-driven cloud growth—OCI up 93% YoY, FY2027 $90B revenue target, and discounted valuation despite leverage. Se more on ORCL here.",
-      "url": "https://seekingalpha.com/article/4919794-oracle-positioned-for-success-priced-for-failure",
-      "source": "Seeking Alpha",
-      "sourceType": "external",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2220360244/image_2220360244.jpg?io=getty-c-w1280",
-      "publishedAt": "2026-07-04T06:45:56.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI",
-        "ORCL",
-        "AI"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "d787cc972e0eb701",
-      "slug": "top-10-cryptocurrencies-to-watch-in-2026-d5c64f",
-      "title": "Top 10 Cryptocurrencies To Watch in 2026",
-      "dek": "The post Top 10 Cryptocurrencies To Watch in 2026 appeared first on Coinpedia Fintech News 1. Bitcoin (BTC) Market Cap: ~$1.23 trillionPrice: ~$61,685 Bitcoin still commands the room in any crypto conversation, and the numbers explain why. Launched in 2009 by the pseudonymous Satoshi Nakamoto, it al",
-      "url": "https://coinpedia.org/top-10/top-10-cryptocurrencies-to-watch-in-2026/",
-      "source": "Coinpedia",
-      "sourceType": "external",
-      "image": "https://image.coinpedia.org/wp-content/uploads/2026/06/05155739/xrp-and-top-four-altcoins-to-buy-during-this-crypto-crash.webp",
-      "publishedAt": "2026-07-04T02:40:35.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "price analysis",
-        "ethereum",
-        "altcoins",
-        "bitcoin",
-        "ripple (xrp)"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "ba65d870a5248539",
-      "slug": "paypal-holdings-pypl-posts-solid-q1-results-expands-wechat-pay-integration-e68f10",
-      "title": "PayPal Holdings (PYPL) Posts Solid Q1 Results, Expands WeChat Pay Integration",
-      "dek": "PayPal Holdings Inc. (NASDAQ:PYPL) ranks among the best fintech stocks to buy as digital payments volume surges. On June 1, Freedom Broker reduced its price target for PayPal Holdings Inc. (NASDAQ:PYPL) to $60 from $100 while retaining a Buy rating on the stock. Freedom Broker analyst Mikhail Paramo",
-      "url": "https://www.insidermonkey.com/blog/paypal-holdings-pypl-posts-solid-q1-results-expands-wechat-pay-integration-1795194/",
-      "source": "Insider Trading",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/gLmeQq6W8aoO20kuzo2yMQ6nxSomdAphyn8MCCYRb5I/resize:fit:660:371:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2019/11/12063206/10-PayPal.jpg",
-      "publishedAt": "2026-07-04T02:40:10.000Z",
-      "topic": "Business & Earnings",
-      "tags": [],
-      "priority": 38
-    },
-    {
-      "id": "7e8acb65bd7d6e2b",
-      "slug": "pump-fun-memecore-are-making-headlines-why-candychain-s-utility-driven-ecosystem-could-b-f9b62c",
-      "title": "Pump.fun & MemeCore Are Making Headlines. Why CandyChain’s Utility-Driven Ecosystem Could Be Next.",
-      "dek": "Crypto loves repeating its patterns dedicatedly. It’s often seen (quite too many times now!) that a token launches, gets too much influencer hype, Twitter goes crazy for weeks, volume spikes, and then silence. Frenzy subsides, adrenaline returns to normal, and the market waits to repeat the same pat",
-      "url": "https://techbullion.com/pump-fun-memecore-are-making-headlines-why-candychains-utility-driven-ecosystem-could-be-next/",
-      "source": "Techbullion",
-      "sourceType": "external",
-      "image": "https://techbullion.com/wp-content/uploads/2026/07/TechBuillion-0307-1024x536.png",
-      "publishedAt": "2026-07-04T02:03:18.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "candychain's",
-        "candy's"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "00162b333686bb42",
-      "slug": "oracle-introduces-ai-coaching-assistant-for-managers-in-fusion-cloud-hcm-762da0",
-      "title": "Oracle introduces AI coaching assistant for managers in Fusion Cloud HCM",
-      "dek": "Oracle launched an AI coaching assistant in HCM on July 2. 65.9% of firms prefer AI embedded in platforms.",
-      "url": "https://completeaitraining.com/news/oracle-introduces-ai-coaching-assistant-for-managers-in/",
-      "source": "Complete Ai Training",
-      "sourceType": "external",
-      "image": "https://cdn.completeaitraining.com/news_images/oracle-introduces-ai-coaching-assistant-for-managers-in-fusion-cloud-hcm_2026-07-03.jpg",
-      "publishedAt": "2026-07-04T00:28:24.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "management",
-        "ai news"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "badbc1b1d67e4bea",
-      "slug": "nvidia-pushes-deeper-into-ai-economy-with-revenue-sharing-model-for-startups-4014b9",
-      "title": "Nvidia Pushes Deeper Into AI Economy With Revenue-Sharing Model for Startups",
-      "dek": "Nvidia is broadening its role in the artificial intelligence industry beyond designing the chips powering the AI revolution, unveiling a new revenue-sharing initiative that will allow fast-growing startups to exchange future earnings for access to high-performance computing infrastructure. The strat",
-      "url": "https://www.tekedia.com/nvidia-pushes-deeper-into-ai-economy-with-revenue-sharing-model-for-startups/",
-      "source": "Tekedia",
-      "sourceType": "external",
-      "image": "https://www.tekedia.com/wp-content/uploads/2025/09/nvidia.jpg",
-      "publishedAt": "2026-07-04T00:20:23.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "Earnings",
-        "AI"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "0b5664cc28c49699",
-      "slug": "it-security-news-daily-summary-2026-07-03-442598",
-      "title": "IT Security News Daily Summary 2026-07-03",
-      "dek": "102 posts were published in the last hour 21:32 : Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices 21:6 : The Department of Know: PeopleSoft exploit, Ford brings back gray beards, LLM vetting 20:36 : FBI Seizes... Read more → The post IT Security News Daily Summary 2",
-      "url": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-07-03/",
-      "source": "It Security News",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-07-03T21:56:10.000Z",
+      "image": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/16184227/week-in-review.jpg",
+      "publishedAt": "2026-07-05T05:10:59.000Z",
       "topic": "Security",
       "tags": [
-        "daily summary",
-        "2026-07-03"
+        "week in review"
       ],
-      "priority": 36
+      "priority": 40
     },
     {
-      "id": "e70daaf817de802a",
-      "slug": "why-oracle-corporation-s-orcl-cloud-outlook-keeps-ai-infrastructure-at-the-center-of-its-45641d",
-      "title": "Why Oracle Corporation’s (ORCL) Cloud Outlook Keeps AI Infrastructure at the Center of Its Estimate Story",
-      "dek": "Oracle Corporation (NYSE:ORCL) is one of the stocks with rising earnings estimates and fresh catalysts. The stock has 22 upward EPS revisions and 14 downward revisions for the upcoming fiscal year over the last three months, while revenue estimates show 30 upward revisions and 5 downward revisions. ",
-      "url": "https://www.insidermonkey.com/blog/why-oracle-corporations-orcl-cloud-outlook-keeps-ai-infrastructure-at-the-center-of-its-estimate-story-1795145/",
+      "id": "e183df5c63152eb7",
+      "slug": "lead-bizops-engineer-masterc-736480",
+      "title": "Lead BizOps Engineer @ Masterc",
+      "dek": "Lead BizOps Engineer @ Mastercard Technologies LLC (O'Fallon, MO) F/T Engge in & imprv the full lifcycle of srvcs by dsgnng sclbl, maintinble systms usng tools like Jenkins, PwrApps, & clud mntrng pltfrms. Anlyz ITSM actvts usng SrvceNw & Rmdy...",
+      "url": "https://www.stltoday.com/ads/other/ads/ad_1fa3f402-b4f7-55dc-96ca-c892a8a72a50.html",
+      "source": "Stltoday",
+      "sourceType": "external",
+      "image": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/eb61b074-2765-4d8f-b4a5-7dfc6af9fe87.png?resize=600%2C333",
+      "publishedAt": "2026-07-05T05:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "liner",
+        "ad"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "451de230219ad5ef",
+      "slug": "hotel-technology-launches-embed-ai-into-core-operating-systems-0eabec",
+      "title": "Hotel technology launches embed AI into core operating systems",
+      "dek": "Hotel tech launches at HITEC 2026 embed AI into core systems like PMS and guest tools. The shift aims to cut manual work and link siloed departments.",
+      "url": "https://completeaitraining.com/news/hotel-technology-launches-embed-ai-into-core-operating/",
+      "source": "Complete Ai Training",
+      "sourceType": "external",
+      "image": "https://cdn.completeaitraining.com/news_images/hotel-technology-launches-embed-ai-into-core-operating-systems_2026-07-04.jpg",
+      "publishedAt": "2026-07-05T03:10:18.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "ai news",
+        "hospitality and events"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "2c03309b57c6ab58",
+      "slug": "blackrock-s-30-most-important-ai-stocks-right-now-6718c2",
+      "title": "BlackRock’s 30 Most Important AI Stocks Right Now",
+      "dek": "In this article, we will take a look at some of BlackRock’s 30 Most Important AI Stocks Right Now. During the first week of June, BlackRock shared a report highlighting how AI and expanding resource constraints are redefining investment opportunities. In the report, the asset manager revealed that c",
+      "url": "https://www.insidermonkey.com/blog/blackrocks-30-most-important-ai-stocks-right-now-1794983/",
       "source": "Insider Trading",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/C5ktS4EaZOQ2ylCEKX-VzodNHGqqXvMw7EfL76qJUMs/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/20060404/ORCL-insidermonkey-1695204241327.jpg",
-      "publishedAt": "2026-07-03T21:52:00.000Z",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/4hyhoQhh3LQh4sKohJLGnzp09icuwFefQoZpl5x-nf4/resize:fit:1920:1282:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2021/06/07041450/lucas-law-44F07VuR9vQ-unsplash.jpg",
+      "publishedAt": "2026-07-05T02:50:10.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "ORCL",
-        "Earnings",
         "AI"
       ],
-      "priority": 36
+      "priority": 38
+    },
+    {
+      "id": "d279b1b9e60d5f41",
+      "slug": "blackrock-s-5-most-important-ai-stocks-right-now-edded5",
+      "title": "BlackRock’s 5 Most Important AI Stocks Right Now",
+      "dek": "In this article, we will list BlackRock’s 5 most important AI stocks right now. Please visit BlackRock’s 30 most important AI stocks right now if you’d like to see an extended list and the methodology behind it. 5. Marvell Technology Inc. (NASDAQ:MRVL) Weight in ARTY ETF: 4.37% Number of Hedge Fund ",
+      "url": "https://www.insidermonkey.com/blog/blackrocks-5-most-important-ai-stocks-right-now-1794985/",
+      "source": "Insider Trading",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/ixEKafMb3VXAxgybFbI_mxQUAtE0sRfjduwoFZyOkYc/resize:fit:1280:853:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2021/03/31221953/artificial-intelligence-3382507_1280.jpg",
+      "publishedAt": "2026-07-05T02:49:22.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "AI"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "f121b69b1172bf1e",
+      "slug": "here-is-why-planet-labs-pl-is-one-of-the-best-industrial-stocks-to-buy-6eb5e6",
+      "title": "Here is Why Planet Labs (PL) is One of the Best Industrial Stocks to Buy",
+      "dek": "Planet Labs PBC (NYSE:PL) is one of the 12 best industrial stocks with more than 50% upside. On June 11, Goldman Sachs increased the firm’s target price on Planet Labs PBC (NYSE:PL) from $20 to $22, and maintained a Neutral rating on the stock. The firm noted that, based on impressive growth across ",
+      "url": "https://www.insidermonkey.com/blog/here-is-why-planet-labs-pl-is-one-of-the-best-industrial-stocks-to-buy-1795468/",
+      "source": "Insider Trading",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/ytCLgb5BLCr2WDVuWZhkTfAtsueH9JvahnGjlcnRNzw/resize:fit:1000:664:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2017/04/26174053/shutterstock_473809174.jpg",
+      "publishedAt": "2026-07-05T02:24:39.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 38
+    },
+    {
+      "id": "4aaf71b121107e1f",
+      "slug": "stocks-on-the-rise-10-best-stocks-to-invest-in-546f9a",
+      "title": "Stocks On The Rise: 10 Best Stocks to Invest In",
+      "dek": "In this article, we will look at the Stocks On The Rise: 10 Best Stocks to Invest In. On July 2, Ed Yardeni of Yardeni Research appeared on CNBC to talk about the upcoming earnings season and how it is driving market momentum. He was of the view that the story is that this is [...]",
+      "url": "https://www.insidermonkey.com/blog/stocks-on-the-rise-10-best-stocks-to-invest-in-1795245/",
+      "source": "Insider Trading",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/c9qVHTduPuvJ3PEgiSZaccUWQsZMwhdDdUABhE6r0OQ/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/11/25074921/NSL-insidermonkey-1700916559539.jpg",
+      "publishedAt": "2026-07-05T02:21:17.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "Earnings"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "0548969c0352f4dc",
+      "slug": "sap-partners-supporting-backint-splitint-interface-20c98a",
+      "title": "SAP partners supporting BACKINT/SPLITINT interface",
+      "dek": "Hello, I am trying to verify if this is true but I am unable to access this note SAP Note: 83792 - SAP partners supporting BACKINT/SPLITINT interface stating that SAP is not supporting this interface anymore: no SAP support is available for problems, malfunctions, or failures in connection with the ",
+      "url": "https://community.sap.com/t5/crm-and-cx-q-a/sap-partners-supporting-backint-splitint-interface/qaq-p/14433140",
+      "source": "Sap",
+      "sourceType": "external",
+      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
+      "publishedAt": "2026-07-05T00:48:20.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 37
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1975,6 +1933,38 @@
       "publishedAt": "2024-05-07T14:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "311a8fe7e2892283",
+      "slug": "encore-episode-machine-learning-ee26a4",
+      "title": "Encore Episode: Machine Learning",
+      "dek": "Does machine learning feel like too convoluted a topic? Not anymore! Listen to hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Hemant Gahankari, talk about foundational machine learning concepts and dive into how supervised learning, unsupervised learning, and reinf",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-machine-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-30T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "4589098868999fde",
+      "slug": "encore-episode-introduction-to-artificial-intelligence-ai-9e755a",
+      "title": "Encore Episode: Introduction to Artificial Intelligence (AI)",
+      "dek": "You probably interact with artificial intelligence (AI) more than you realize. So, there's never been a better time to start figuring out how it all works. Join Lois Houston and Nikita Abraham as they decode the fundamentals of AI so that anyone, irrespective of their technical background, can lever",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-introduction-to-artificial-intelligence-ai",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-23T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
       "priority": 36
     }
   ]
