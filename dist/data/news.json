@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-05T21:31:39.621Z",
+  "generatedAt": "2026-07-06T21:52:30.767Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -55,130 +55,176 @@
       "priority": 46
     },
     {
-      "id": "ae69d6f46e0c1229",
-      "slug": "week-in-review-simplehelp-vulnerability-exploited-oracle-ebs-payments-flaw-under-attack-dfbe6d",
-      "title": "Week in review: SimpleHelp vulnerability exploited, Oracle EBS Payments flaw under attack",
-      "dek": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Companies keep bolting AI onto their products, and the security bill is coming due Companies keep bolting AI and LLM features onto their products, and the security results are starting to show a pattern",
-      "url": "https://www.helpnetsecurity.com/2026/07/05/week-in-review-simplehelp-vulnerability-exploited-oracle-ebs-payments-flaw-under-attack/",
-      "source": "Help Net Security",
+      "id": "8b9ccbdacd74afa9",
+      "slug": "barclays-raises-its-price-target-on-equinix-eqix-8e03ed",
+      "title": "Barclays Raises its Price Target on Equinix (EQIX)",
+      "dek": "Equinix, Inc. (NASDAQ:EQIX) is one of the 10 Best Pick and Shovel AI Stocks to Invest In. On July 1, 2026, Barclays raised its price target on Equinix, Inc. (NASDAQ:EQIX) to $1,130 from $1,109 and kept an Equal Weight rating. Barclays raised targets across the communications infrastructure real esta",
+      "url": "https://www.insidermonkey.com/blog/barclays-raises-its-price-target-on-equinix-eqix-1796581/",
+      "source": "Insider Trading",
       "sourceType": "external",
-      "image": "https://img.helpnetsecurity.com/wp-content/uploads/2023/07/16184227/week-in-review.jpg",
-      "publishedAt": "2026-07-05T05:10:59.000Z",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/lbMmrSkQHNeat5PfXR_cvytBgc3zuAy_b274R_L4CfM/resize:fit:1280:854:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2015/05/laptop-731904_1280.jpg",
+      "publishedAt": "2026-07-06T09:41:35.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "0bd524f57a1e2476",
+      "slug": "sap-freezes-most-hiring-to-focus-on-ai-ceo-predicts-a-very-very-different-workforce-425c6c",
+      "title": "SAP Freezes Most Hiring to Focus on AI: CEO Predicts a 'Very, Very Different Workforce'",
+      "dek": "SAP, the leading enterprise software firm, halts most hiring and non-essential travel to prioritise AI development, as CEO Christian Klein envisions a transformed workforce.",
+      "url": "https://www.ibtimes.co.uk/sap-freezes-hiring-travel-boost-ai-investment-1806994",
+      "source": "International Business Times",
+      "sourceType": "external",
+      "image": "https://d.ibtimes.co.uk/en/full/1817628/sap-hiring-freeze.png?w=1600&h=900&q=88&f=abff8380443fb2e7f7ef7c450294bca1",
+      "publishedAt": "2026-07-06T09:22:26.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "sap hiring freeze",
+        "ai investment",
+        "ai roles",
+        "enterprise software",
+        "workforce transformation"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "ea799fbd00bae89b",
+      "slug": "oracle-corporation-orcl-position-lifted-by-dividend-assets-capital-llc-8b2cd4",
+      "title": "Oracle Corporation $ORCL Position Lifted by Dividend Assets Capital LLC",
+      "dek": "Dividend Assets Capital LLC raised its holdings in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 24.4% during the first quarter, HoldingsChannel reports. The institutional investor owned 90,802 shares of the enterprise software provider’s stock after acquiring an additional 17,837 shares",
+      "url": "https://www.americanbankingnews.com/2026/07/06/oracle-corporation-orcl-position-lifted-by-dividend-assets-capital-llc.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-07-06T08:28:26.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "hedge fund holdings",
+        "sec filings",
+        "68389x10",
+        "nyse:orcl",
+        "13f",
+        "oracle"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "6f71cde16fa57a21",
+      "slug": "rising-digital-health-investments-propel-ai-driven-disease-outbreak-prediction-solutions-4932e3",
+      "title": "Rising Digital Health Investments Propel AI-driven Disease Outbreak Prediction Solutions",
+      "dek": "Key market opportunities include the integration of AI analytics in disease outbreak prediction, driven by increased digitization, public health investments, and AI-driven surveillance solutions. Enhanced digital health infrastructure and real-time data use are fueling growth, despite tariff challen",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/07/06/3322191/28124/en/Rising-Digital-Health-Investments-Propel-AI-driven-Disease-Outbreak-Prediction-Solutions.html",
+      "source": "Globenewswire_fr",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-07-06T08:12:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "artificial intelligence",
+        "research and markets",
+        "ai model",
+        "ai analytics"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "0818cd32a2d82b69",
+      "slug": "vendor-risk-management-market-size-to-surpass-usd-47-95-billion-by-2035-sns-insider-752fa7",
+      "title": "Vendor Risk Management Market Size to Surpass USD 47.95 Billion by 2035 | SNS Insider",
+      "dek": "The U.S. vendor risk management market is expected to reach $21.20 billion by 2035, while Europe is projected to hit $10.90 billion, driven by GDPR, DORA, ESG reporting requirements, AI-based vendor risk analytics, and increasing demand for third-party cybersecurity and compliance management. The U.",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/07/06/3322173/0/en/Vendor-Risk-Management-Market-Size-to-Surpass-USD-47-95-Billion-by-2035-SNS-Insider.html",
+      "source": "Globenewswire_fr",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-07-06T07:05:00.000Z",
       "topic": "Security",
       "tags": [
-        "week in review"
+        "ai-powered risk monitoring",
+        "vendor compliance management",
+        "sns insider pvt ltd",
+        "vendor risk management market",
+        "third-party risk management"
       ],
-      "priority": 40
+      "priority": 41
     },
     {
-      "id": "e183df5c63152eb7",
-      "slug": "lead-bizops-engineer-masterc-736480",
-      "title": "Lead BizOps Engineer @ Masterc",
-      "dek": "Lead BizOps Engineer @ Mastercard Technologies LLC (O'Fallon, MO) F/T Engge in & imprv the full lifcycle of srvcs by dsgnng sclbl, maintinble systms usng tools like Jenkins, PwrApps, & clud mntrng pltfrms. Anlyz ITSM actvts usng SrvceNw & Rmdy...",
-      "url": "https://www.stltoday.com/ads/other/ads/ad_1fa3f402-b4f7-55dc-96ca-c892a8a72a50.html",
-      "source": "Stltoday",
+      "id": "e704e15663cdf755",
+      "slug": "meta-ai-cloud-push-triggers-the-biggest-chip-stocks-selloff-4afe8d",
+      "title": "Meta AI Cloud Push Triggers the Biggest Chip Stocks Selloff",
+      "dek": "Meta's Meta Compute cloud announcement wiped over $200 billion from semiconductor stocks on July 1 — Micron fell 11%, Intel 9%, AMD 7%. Combined with OpenAI halving its inference costs through software alone, you're watching the AI hardware trade enter a new and less forgiving phase. The post Meta A",
+      "url": "https://memeburn.com/meta-cloud-chip-stocks-selloff/",
+      "source": "Memeburn",
       "sourceType": "external",
-      "image": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/custom/image/eb61b074-2765-4d8f-b4a5-7dfc6af9fe87.png?resize=600%2C333",
-      "publishedAt": "2026-07-05T05:00:00.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://memeburn.com/wp-content/uploads/2026/07/Meta-AI-Cloud-Push-Triggers-the-Biggest-Chip-Stocks-Selloff.jpg",
+      "publishedAt": "2026-07-06T05:04:29.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "liner",
-        "ad"
+        "AI"
       ],
-      "priority": 40
+      "priority": 39
     },
     {
-      "id": "451de230219ad5ef",
-      "slug": "hotel-technology-launches-embed-ai-into-core-operating-systems-0eabec",
-      "title": "Hotel technology launches embed AI into core operating systems",
-      "dek": "Hotel tech launches at HITEC 2026 embed AI into core systems like PMS and guest tools. The shift aims to cut manual work and link siloed departments.",
-      "url": "https://completeaitraining.com/news/hotel-technology-launches-embed-ai-into-core-operating/",
+      "id": "51ad934c1afa8adb",
+      "slug": "how-parker-hannifin-corporation-s-ph-motion-control-layer-anchors-its-automation-exposur-bde2f3",
+      "title": "How Parker-Hannifin Corporation’s (PH) Motion-Control Layer Anchors Its Automation Exposure",
+      "dek": "Parker-Hannifin Corporation (NYSE:PH) is one of the best industrial automation stocks to buy now. On June 30, Barron’s discussed Mizuho’s physical AI investment framework and included Parker-Hannifin among companies positioned in the component layer that supports automation. The angle is straightfor",
+      "url": "https://www.insidermonkey.com/blog/how-parker-hannifin-corporations-ph-motion-control-layer-anchors-its-automation-exposure-1796038/",
+      "source": "Insider Trading",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/cBfOLfGAmJTE_j9uP2WYsKsWbj47yz8zDfPj-mFlweE/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/28160905/PH-insidermonkey-1695931743004.jpg",
+      "publishedAt": "2026-07-06T02:39:43.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "AI"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "5613e59955a91aba",
+      "slug": "daily-ai-for-work-pulse-6th-of-july-9d1f63",
+      "title": "Daily 'AI for Work' Pulse: 6th of July",
+      "dek": "Happy Monday! Big update: 7 new AI tools and 86 AI news articles. Skim the highlights, spot the standouts, and get back to work.",
+      "url": "https://completeaitraining.com/newsletter/daily-ai-for-work-pulse-6th-of-july-2/",
       "source": "Complete Ai Training",
       "sourceType": "external",
-      "image": "https://cdn.completeaitraining.com/news_images/hotel-technology-launches-embed-ai-into-core-operating-systems_2026-07-04.jpg",
-      "publishedAt": "2026-07-05T03:10:18.000Z",
+      "image": "https://cdn.completeaitraining.com/newsletters/newsletter_2026-07-06_ghostwebsite.png",
+      "publishedAt": "2026-07-06T00:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "ai news",
-        "hospitality and events"
+        "newsletter"
       ],
-      "priority": 38
+      "priority": 36
     },
     {
-      "id": "2c03309b57c6ab58",
-      "slug": "blackrock-s-30-most-important-ai-stocks-right-now-6718c2",
-      "title": "BlackRock’s 30 Most Important AI Stocks Right Now",
-      "dek": "In this article, we will take a look at some of BlackRock’s 30 Most Important AI Stocks Right Now. During the first week of June, BlackRock shared a report highlighting how AI and expanding resource constraints are redefining investment opportunities. In the report, the asset manager revealed that c",
-      "url": "https://www.insidermonkey.com/blog/blackrocks-30-most-important-ai-stocks-right-now-1794983/",
-      "source": "Insider Trading",
+      "id": "c7131adffec7cc00",
+      "slug": "building-nl2sql-pipelines-with-oracle-dbms-cloud-ai-and-oracle-integration-cloud-4ed3d0",
+      "title": "Building NL2SQL Pipelines With Oracle DBMS_CLOUD_AI and Oracle Integration Cloud",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/technology/building-nl2sql-pipelines-with-oracle-dbmscloudai-and-oracle-integration-cloud-94B6C1FE-8995-4966-B2B9-8152E523CE15",
+      "source": "Bundle",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/4hyhoQhh3LQh4sKohJLGnzp09icuwFefQoZpl5x-nf4/resize:fit:1920:1282:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2021/06/07041450/lucas-law-44F07VuR9vQ-unsplash.jpg",
-      "publishedAt": "2026-07-05T02:50:10.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "AI"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "d279b1b9e60d5f41",
-      "slug": "blackrock-s-5-most-important-ai-stocks-right-now-edded5",
-      "title": "BlackRock’s 5 Most Important AI Stocks Right Now",
-      "dek": "In this article, we will list BlackRock’s 5 most important AI stocks right now. Please visit BlackRock’s 30 most important AI stocks right now if you’d like to see an extended list and the methodology behind it. 5. Marvell Technology Inc. (NASDAQ:MRVL) Weight in ARTY ETF: 4.37% Number of Hedge Fund ",
-      "url": "https://www.insidermonkey.com/blog/blackrocks-5-most-important-ai-stocks-right-now-1794985/",
-      "source": "Insider Trading",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/ixEKafMb3VXAxgybFbI_mxQUAtE0sRfjduwoFZyOkYc/resize:fit:1280:853:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2021/03/31221953/artificial-intelligence-3382507_1280.jpg",
-      "publishedAt": "2026-07-05T02:49:22.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "AI"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "f121b69b1172bf1e",
-      "slug": "here-is-why-planet-labs-pl-is-one-of-the-best-industrial-stocks-to-buy-6eb5e6",
-      "title": "Here is Why Planet Labs (PL) is One of the Best Industrial Stocks to Buy",
-      "dek": "Planet Labs PBC (NYSE:PL) is one of the 12 best industrial stocks with more than 50% upside. On June 11, Goldman Sachs increased the firm’s target price on Planet Labs PBC (NYSE:PL) from $20 to $22, and maintained a Neutral rating on the stock. The firm noted that, based on impressive growth across ",
-      "url": "https://www.insidermonkey.com/blog/here-is-why-planet-labs-pl-is-one-of-the-best-industrial-stocks-to-buy-1795468/",
-      "source": "Insider Trading",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/ytCLgb5BLCr2WDVuWZhkTfAtsueH9JvahnGjlcnRNzw/resize:fit:1000:664:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2017/04/26174053/shutterstock_473809174.jpg",
-      "publishedAt": "2026-07-05T02:24:39.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://static.bundle.app/news/da468ae3-dab7-59ce-b879-ed5d9b7b9836.jpg",
+      "publishedAt": "2026-07-05T22:31:30.000Z",
+      "topic": "AI & Database",
       "tags": [],
-      "priority": 38
+      "priority": 36
     },
     {
-      "id": "4aaf71b121107e1f",
-      "slug": "stocks-on-the-rise-10-best-stocks-to-invest-in-546f9a",
-      "title": "Stocks On The Rise: 10 Best Stocks to Invest In",
-      "dek": "In this article, we will look at the Stocks On The Rise: 10 Best Stocks to Invest In. On July 2, Ed Yardeni of Yardeni Research appeared on CNBC to talk about the upcoming earnings season and how it is driving market momentum. He was of the view that the story is that this is [...]",
-      "url": "https://www.insidermonkey.com/blog/stocks-on-the-rise-10-best-stocks-to-invest-in-1795245/",
-      "source": "Insider Trading",
+      "id": "2b29395085ab869d",
+      "slug": "air-kit-deep-dive-is-air-kit-the-best-zk-identity-sdk-in-web3-a-developer-s-hands-on-rev-709658",
+      "title": "AIR Kit Deep Dive: Is AIR Kit the Best ZK Identity SDK in Web3? A Developer's Hands-On Review",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/technology/air-kit-deep-dive-is-air-kit-the-best-zk-identity-sdk-in-web3-a-developers-hands-on-review-AD260FDF-11B0-47CD-88E8-526AF2F28363",
+      "source": "Bundle",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/c9qVHTduPuvJ3PEgiSZaccUWQsZMwhdDdUABhE6r0OQ/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/11/25074921/NSL-insidermonkey-1700916559539.jpg",
-      "publishedAt": "2026-07-05T02:21:17.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "Earnings"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "0548969c0352f4dc",
-      "slug": "sap-partners-supporting-backint-splitint-interface-20c98a",
-      "title": "SAP partners supporting BACKINT/SPLITINT interface",
-      "dek": "Hello, I am trying to verify if this is true but I am unable to access this note SAP Note: 83792 - SAP partners supporting BACKINT/SPLITINT interface stating that SAP is not supporting this interface anymore: no SAP support is available for problems, malfunctions, or failures in connection with the ",
-      "url": "https://community.sap.com/t5/crm-and-cx-q-a/sap-partners-supporting-backint-splitint-interface/qaq-p/14433140",
-      "source": "Sap",
-      "sourceType": "external",
-      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
-      "publishedAt": "2026-07-05T00:48:20.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://static.bundle.app/news/a67b0064-648b-5a6c-8f8f-802d6a99d294.jpg",
+      "publishedAt": "2026-07-05T22:31:30.000Z",
+      "topic": "Java & MySQL",
       "tags": [],
-      "priority": 37
+      "priority": 36
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1933,38 +1979,6 @@
       "publishedAt": "2024-05-07T14:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "311a8fe7e2892283",
-      "slug": "encore-episode-machine-learning-ee26a4",
-      "title": "Encore Episode: Machine Learning",
-      "dek": "Does machine learning feel like too convoluted a topic? Not anymore! Listen to hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Hemant Gahankari, talk about foundational machine learning concepts and dive into how supervised learning, unsupervised learning, and reinf",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-machine-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-30T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "4589098868999fde",
-      "slug": "encore-episode-introduction-to-artificial-intelligence-ai-9e755a",
-      "title": "Encore Episode: Introduction to Artificial Intelligence (AI)",
-      "dek": "You probably interact with artificial intelligence (AI) more than you realize. So, there's never been a better time to start figuring out how it all works. Join Lois Houston and Nikita Abraham as they decode the fundamentals of AI so that anyone, irrespective of their technical background, can lever",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-introduction-to-artificial-intelligence-ai",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-23T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
       "priority": 36
     }
   ]

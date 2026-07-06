@@ -6,7 +6,7 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 21:31:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 21:52:30 GMT</lastBuildDate>
     
     <item>
       <title>Oracle Sets the Date for its Fourth Quarter Fiscal Year 2026 Earnings Announcement</title>
@@ -36,76 +36,94 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-Second-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>Week in review: SimpleHelp vulnerability exploited, Oracle EBS Payments flaw under attack</title>
-      <link>https://oracle-university.com/stories/week-in-review-simplehelp-vulnerability-exploited-oracle-ebs-payments-flaw-under-attack-dfbe6d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/week-in-review-simplehelp-vulnerability-exploited-oracle-ebs-payments-flaw-under-attack-dfbe6d/</guid>
-      <pubDate>Sun, 05 Jul 2026 05:10:59 GMT</pubDate>
+      <title>Barclays Raises its Price Target on Equinix (EQIX)</title>
+      <link>https://oracle-university.com/stories/barclays-raises-its-price-target-on-equinix-eqix-8e03ed/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/barclays-raises-its-price-target-on-equinix-eqix-8e03ed/</guid>
+      <pubDate>Mon, 06 Jul 2026 09:41:35 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Equinix, Inc. (NASDAQ:EQIX) is one of the 10 Best Pick and Shovel AI Stocks to Invest In. On July 1, 2026, Barclays raised its price target on Equinix, Inc. (NASDAQ:EQIX) to $1,130 from $1,109 and kept an Equal Weight rating. Barclays raised targets across the communications infrastructure real esta</description>
+      <source url="https://www.insidermonkey.com/blog/barclays-raises-its-price-target-on-equinix-eqix-1796581/">Insider Trading</source>
+    </item>
+    <item>
+      <title>SAP Freezes Most Hiring to Focus on AI: CEO Predicts a &#39;Very, Very Different Workforce&#39;</title>
+      <link>https://oracle-university.com/stories/sap-freezes-most-hiring-to-focus-on-ai-ceo-predicts-a-very-very-different-workforce-425c6c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/sap-freezes-most-hiring-to-focus-on-ai-ceo-predicts-a-very-very-different-workforce-425c6c/</guid>
+      <pubDate>Mon, 06 Jul 2026 09:22:26 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>SAP, the leading enterprise software firm, halts most hiring and non-essential travel to prioritise AI development, as CEO Christian Klein envisions a transformed workforce.</description>
+      <source url="https://www.ibtimes.co.uk/sap-freezes-hiring-travel-boost-ai-investment-1806994">International Business Times</source>
+    </item>
+    <item>
+      <title>Oracle Corporation $ORCL Position Lifted by Dividend Assets Capital LLC</title>
+      <link>https://oracle-university.com/stories/oracle-corporation-orcl-position-lifted-by-dividend-assets-capital-llc-8b2cd4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-position-lifted-by-dividend-assets-capital-llc-8b2cd4/</guid>
+      <pubDate>Mon, 06 Jul 2026 08:28:26 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Dividend Assets Capital LLC raised its holdings in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 24.4% during the first quarter, HoldingsChannel reports. The institutional investor owned 90,802 shares of the enterprise software provider’s stock after acquiring an additional 17,837 shares</description>
+      <source url="https://www.americanbankingnews.com/2026/07/06/oracle-corporation-orcl-position-lifted-by-dividend-assets-capital-llc.html">Americanbankingnews</source>
+    </item>
+    <item>
+      <title>Rising Digital Health Investments Propel AI-driven Disease Outbreak Prediction Solutions</title>
+      <link>https://oracle-university.com/stories/rising-digital-health-investments-propel-ai-driven-disease-outbreak-prediction-solutions-4932e3/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/rising-digital-health-investments-propel-ai-driven-disease-outbreak-prediction-solutions-4932e3/</guid>
+      <pubDate>Mon, 06 Jul 2026 08:12:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Key market opportunities include the integration of AI analytics in disease outbreak prediction, driven by increased digitization, public health investments, and AI-driven surveillance solutions. Enhanced digital health infrastructure and real-time data use are fueling growth, despite tariff challen</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/07/06/3322191/28124/en/Rising-Digital-Health-Investments-Propel-AI-driven-Disease-Outbreak-Prediction-Solutions.html">Globenewswire_fr</source>
+    </item>
+    <item>
+      <title>Vendor Risk Management Market Size to Surpass USD 47.95 Billion by 2035 | SNS Insider</title>
+      <link>https://oracle-university.com/stories/vendor-risk-management-market-size-to-surpass-usd-47-95-billion-by-2035-sns-insider-752fa7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/vendor-risk-management-market-size-to-surpass-usd-47-95-billion-by-2035-sns-insider-752fa7/</guid>
+      <pubDate>Mon, 06 Jul 2026 07:05:00 GMT</pubDate>
       <category>Security</category>
-      <description>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: Companies keep bolting AI onto their products, and the security bill is coming due Companies keep bolting AI and LLM features onto their products, and the security results are starting to show a pattern</description>
-      <source url="https://www.helpnetsecurity.com/2026/07/05/week-in-review-simplehelp-vulnerability-exploited-oracle-ebs-payments-flaw-under-attack/">Help Net Security</source>
+      <description>The U.S. vendor risk management market is expected to reach $21.20 billion by 2035, while Europe is projected to hit $10.90 billion, driven by GDPR, DORA, ESG reporting requirements, AI-based vendor risk analytics, and increasing demand for third-party cybersecurity and compliance management. The U.</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/07/06/3322173/0/en/Vendor-Risk-Management-Market-Size-to-Surpass-USD-47-95-Billion-by-2035-SNS-Insider.html">Globenewswire_fr</source>
     </item>
     <item>
-      <title>Lead BizOps Engineer @ Masterc</title>
-      <link>https://oracle-university.com/stories/lead-bizops-engineer-masterc-736480/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/lead-bizops-engineer-masterc-736480/</guid>
-      <pubDate>Sun, 05 Jul 2026 05:00:00 GMT</pubDate>
+      <title>Meta AI Cloud Push Triggers the Biggest Chip Stocks Selloff</title>
+      <link>https://oracle-university.com/stories/meta-ai-cloud-push-triggers-the-biggest-chip-stocks-selloff-4afe8d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/meta-ai-cloud-push-triggers-the-biggest-chip-stocks-selloff-4afe8d/</guid>
+      <pubDate>Mon, 06 Jul 2026 05:04:29 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Meta&#39;s Meta Compute cloud announcement wiped over $200 billion from semiconductor stocks on July 1 — Micron fell 11%, Intel 9%, AMD 7%. Combined with OpenAI halving its inference costs through software alone, you&#39;re watching the AI hardware trade enter a new and less forgiving phase. The post Meta A</description>
+      <source url="https://memeburn.com/meta-cloud-chip-stocks-selloff/">Memeburn</source>
+    </item>
+    <item>
+      <title>How Parker-Hannifin Corporation’s (PH) Motion-Control Layer Anchors Its Automation Exposure</title>
+      <link>https://oracle-university.com/stories/how-parker-hannifin-corporation-s-ph-motion-control-layer-anchors-its-automation-exposur-bde2f3/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/how-parker-hannifin-corporation-s-ph-motion-control-layer-anchors-its-automation-exposur-bde2f3/</guid>
+      <pubDate>Mon, 06 Jul 2026 02:39:43 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Parker-Hannifin Corporation (NYSE:PH) is one of the best industrial automation stocks to buy now. On June 30, Barron’s discussed Mizuho’s physical AI investment framework and included Parker-Hannifin among companies positioned in the component layer that supports automation. The angle is straightfor</description>
+      <source url="https://www.insidermonkey.com/blog/how-parker-hannifin-corporations-ph-motion-control-layer-anchors-its-automation-exposure-1796038/">Insider Trading</source>
+    </item>
+    <item>
+      <title>Daily &#39;AI for Work&#39; Pulse: 6th of July</title>
+      <link>https://oracle-university.com/stories/daily-ai-for-work-pulse-6th-of-july-9d1f63/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/daily-ai-for-work-pulse-6th-of-july-9d1f63/</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Lead BizOps Engineer @ Mastercard Technologies LLC (O&#39;Fallon, MO) F/T Engge in &amp; imprv the full lifcycle of srvcs by dsgnng sclbl, maintinble systms usng tools like Jenkins, PwrApps, &amp; clud mntrng pltfrms. Anlyz ITSM actvts usng SrvceNw &amp; Rmdy...</description>
-      <source url="https://www.stltoday.com/ads/other/ads/ad_1fa3f402-b4f7-55dc-96ca-c892a8a72a50.html">Stltoday</source>
+      <description>Happy Monday! Big update: 7 new AI tools and 86 AI news articles. Skim the highlights, spot the standouts, and get back to work.</description>
+      <source url="https://completeaitraining.com/newsletter/daily-ai-for-work-pulse-6th-of-july-2/">Complete Ai Training</source>
     </item>
     <item>
-      <title>Hotel technology launches embed AI into core operating systems</title>
-      <link>https://oracle-university.com/stories/hotel-technology-launches-embed-ai-into-core-operating-systems-0eabec/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/hotel-technology-launches-embed-ai-into-core-operating-systems-0eabec/</guid>
-      <pubDate>Sun, 05 Jul 2026 03:10:18 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Hotel tech launches at HITEC 2026 embed AI into core systems like PMS and guest tools. The shift aims to cut manual work and link siloed departments.</description>
-      <source url="https://completeaitraining.com/news/hotel-technology-launches-embed-ai-into-core-operating/">Complete Ai Training</source>
+      <title>Building NL2SQL Pipelines With Oracle DBMS_CLOUD_AI and Oracle Integration Cloud</title>
+      <link>https://oracle-university.com/stories/building-nl2sql-pipelines-with-oracle-dbms-cloud-ai-and-oracle-integration-cloud-4ed3d0/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/building-nl2sql-pipelines-with-oracle-dbms-cloud-ai-and-oracle-integration-cloud-4ed3d0/</guid>
+      <pubDate>Sun, 05 Jul 2026 22:31:30 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>ONLY AVAILABLE IN PAID PLANS</description>
+      <source url="https://www.bundle.app/en/technology/building-nl2sql-pipelines-with-oracle-dbmscloudai-and-oracle-integration-cloud-94B6C1FE-8995-4966-B2B9-8152E523CE15">Bundle</source>
     </item>
     <item>
-      <title>BlackRock’s 30 Most Important AI Stocks Right Now</title>
-      <link>https://oracle-university.com/stories/blackrock-s-30-most-important-ai-stocks-right-now-6718c2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/blackrock-s-30-most-important-ai-stocks-right-now-6718c2/</guid>
-      <pubDate>Sun, 05 Jul 2026 02:50:10 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>In this article, we will take a look at some of BlackRock’s 30 Most Important AI Stocks Right Now. During the first week of June, BlackRock shared a report highlighting how AI and expanding resource constraints are redefining investment opportunities. In the report, the asset manager revealed that c</description>
-      <source url="https://www.insidermonkey.com/blog/blackrocks-30-most-important-ai-stocks-right-now-1794983/">Insider Trading</source>
-    </item>
-    <item>
-      <title>BlackRock’s 5 Most Important AI Stocks Right Now</title>
-      <link>https://oracle-university.com/stories/blackrock-s-5-most-important-ai-stocks-right-now-edded5/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/blackrock-s-5-most-important-ai-stocks-right-now-edded5/</guid>
-      <pubDate>Sun, 05 Jul 2026 02:49:22 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>In this article, we will list BlackRock’s 5 most important AI stocks right now. Please visit BlackRock’s 30 most important AI stocks right now if you’d like to see an extended list and the methodology behind it. 5. Marvell Technology Inc. (NASDAQ:MRVL) Weight in ARTY ETF: 4.37% Number of Hedge Fund </description>
-      <source url="https://www.insidermonkey.com/blog/blackrocks-5-most-important-ai-stocks-right-now-1794985/">Insider Trading</source>
-    </item>
-    <item>
-      <title>Here is Why Planet Labs (PL) is One of the Best Industrial Stocks to Buy</title>
-      <link>https://oracle-university.com/stories/here-is-why-planet-labs-pl-is-one-of-the-best-industrial-stocks-to-buy-6eb5e6/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/here-is-why-planet-labs-pl-is-one-of-the-best-industrial-stocks-to-buy-6eb5e6/</guid>
-      <pubDate>Sun, 05 Jul 2026 02:24:39 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Planet Labs PBC (NYSE:PL) is one of the 12 best industrial stocks with more than 50% upside. On June 11, Goldman Sachs increased the firm’s target price on Planet Labs PBC (NYSE:PL) from $20 to $22, and maintained a Neutral rating on the stock. The firm noted that, based on impressive growth across </description>
-      <source url="https://www.insidermonkey.com/blog/here-is-why-planet-labs-pl-is-one-of-the-best-industrial-stocks-to-buy-1795468/">Insider Trading</source>
-    </item>
-    <item>
-      <title>Stocks On The Rise: 10 Best Stocks to Invest In</title>
-      <link>https://oracle-university.com/stories/stocks-on-the-rise-10-best-stocks-to-invest-in-546f9a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/stocks-on-the-rise-10-best-stocks-to-invest-in-546f9a/</guid>
-      <pubDate>Sun, 05 Jul 2026 02:21:17 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>In this article, we will look at the Stocks On The Rise: 10 Best Stocks to Invest In. On July 2, Ed Yardeni of Yardeni Research appeared on CNBC to talk about the upcoming earnings season and how it is driving market momentum. He was of the view that the story is that this is [...]</description>
-      <source url="https://www.insidermonkey.com/blog/stocks-on-the-rise-10-best-stocks-to-invest-in-1795245/">Insider Trading</source>
-    </item>
-    <item>
-      <title>SAP partners supporting BACKINT/SPLITINT interface</title>
-      <link>https://oracle-university.com/stories/sap-partners-supporting-backint-splitint-interface-20c98a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/sap-partners-supporting-backint-splitint-interface-20c98a/</guid>
-      <pubDate>Sun, 05 Jul 2026 00:48:20 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Hello, I am trying to verify if this is true but I am unable to access this note SAP Note: 83792 - SAP partners supporting BACKINT/SPLITINT interface stating that SAP is not supporting this interface anymore: no SAP support is available for problems, malfunctions, or failures in connection with the </description>
-      <source url="https://community.sap.com/t5/crm-and-cx-q-a/sap-partners-supporting-backint-splitint-interface/qaq-p/14433140">Sap</source>
+      <title>AIR Kit Deep Dive: Is AIR Kit the Best ZK Identity SDK in Web3? A Developer&#39;s Hands-On Review</title>
+      <link>https://oracle-university.com/stories/air-kit-deep-dive-is-air-kit-the-best-zk-identity-sdk-in-web3-a-developer-s-hands-on-rev-709658/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/air-kit-deep-dive-is-air-kit-the-best-zk-identity-sdk-in-web3-a-developer-s-hands-on-rev-709658/</guid>
+      <pubDate>Sun, 05 Jul 2026 22:31:30 GMT</pubDate>
+      <category>Java &amp; MySQL</category>
+      <description>ONLY AVAILABLE IN PAID PLANS</description>
+      <source url="https://www.bundle.app/en/technology/air-kit-deep-dive-is-air-kit-the-best-zk-identity-sdk-in-web3-a-developers-hands-on-review-AD260FDF-11B0-47CD-88E8-526AF2F28363">Bundle</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -439,24 +457,6 @@
       <category>Applications &amp; NetSuite</category>
       <description>Want to make AI work for your business? In today&#39;s episode, Lois Houston and Nikita Abraham continue their discussion of AI in Oracle Fusion Applications by focusing on three key AI capabilities: predictive, generative, and agentic. Joining them is Principal Instructor Yunus Mohammed, who explains h</description>
       <source url="https://oracleuniversitypodcast.libsyn.com/oracle-ai-for-fusion-apps">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Oracle&#39;s AI Ecosystem</title>
-      <link>https://oracle-university.com/stories/oracle-s-ai-ecosystem-1d77a2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-s-ai-ecosystem-1d77a2/</guid>
-      <pubDate>Tue, 16 Sep 2025 11:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to explore Oracle&#39;s approach to enterprise AI. The conversation covers the essential components of the Oracle AI stack and how each part, from the foundational infrastructure to business-specific appli</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/oracles-ai-ecosystem">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Buy or Build AI?</title>
-      <link>https://oracle-university.com/stories/buy-or-build-ai-6e5a7d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/buy-or-build-ai-6e5a7d/</guid>
-      <pubDate>Tue, 09 Sep 2025 11:14:43 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>How do you decide whether to buy a ready-made AI solution or build one from the ground up? The choice is more than just a technical decision; it&#39;s about aligning AI with your business goals. In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to examine</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/buy-or-build-ai">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
