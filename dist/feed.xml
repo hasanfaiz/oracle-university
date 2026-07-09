@@ -6,8 +6,17 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 21:36:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 21:53:41 GMT</lastBuildDate>
     
+    <item>
+      <title>&quot;Scripting JS and Python with Project Detroit&quot; with Mikael Vidstedt [AtA]</title>
+      <link>https://oracle-university.com/stories/scripting-js-and-python-with-project-detroit-with-mikael-vidstedt-ata-267c5c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/scripting-js-and-python-with-project-detroit-with-mikael-vidstedt-ata-267c5c/</guid>
+      <pubDate>Thu, 09 Jul 2026 07:53:45 GMT</pubDate>
+      <category>Java &amp; MySQL</category>
+      <description>OpenJDK recently resurrected Project Detroit, an effort to ease Java&#39;s interoperability with Python and JavaScript. Interestingly, while both integrations will work through the _java.scripting_ API, there are still differences between them. On top of that, the JavaScript integration needs to explain</description>
+      <source url="https://inside.java/2026/07/09/podcast-061/">Inside Java</source>
+    </item>
     <item>
       <title>Oracle Sets the Date for its Fourth Quarter Fiscal Year 2026 Earnings Announcement</title>
       <link>https://oracle-university.com/stories/oracle-sets-the-date-for-its-fourth-quarter-fiscal-year-2026-earnings-announcement-3a2dd3/</link>
@@ -36,157 +45,148 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-Second-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>AI investment boom raises fears of global spending correction as trillion-dollar bets outpace returns</title>
-      <link>https://oracle-university.com/stories/ai-investment-boom-raises-fears-of-global-spending-correction-as-trillion-dollar-bets-ou-5f88f8/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-investment-boom-raises-fears-of-global-spending-correction-as-trillion-dollar-bets-ou-5f88f8/</guid>
-      <pubDate>Wed, 08 Jul 2026 09:24:04 GMT</pubDate>
+      <title>UK Court of Appeal gives Microsoft complaint the green light</title>
+      <link>https://oracle-university.com/stories/uk-court-of-appeal-gives-microsoft-complaint-the-green-light-61da91/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/uk-court-of-appeal-gives-microsoft-complaint-the-green-light-61da91/</guid>
+      <pubDate>Thu, 09 Jul 2026 09:32:00 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>The global race to dominate artificial intelligence is fuelling one of the largest technology investment cycles in history, with the read more AI investment boom raises fears of global spending correction as trillion-dollar bets outpace returns</description>
-      <source url="https://businessday.ng/technology/article/ai-investment-boom-raises-fears-of-global-spending-correction-as-trillion-dollar-bets-outpace-returns/">Business News Nigeria</source>
+      <description>The ValueLicensing complaint against Microsoft is being upheld following a Court of Appeal ruling . The Court of Appeal unanimously upheld the Competition Appeal Tribunal’s (CAT) decisions in the pre-owned software reseller’s ongoing abuse of dominance competition law claim against Microsoft. The ap</description>
+      <source url="https://www.computerweekly.com/news/366645701/UK-Court-of-Appeal-gives-Microsoft-complaint-the-green-light">Techtarget</source>
     </item>
     <item>
-      <title>AI in Warehousing Market Projected to Reach $127.66 Billion by 2035 as E-Commerce Automation and Intelligent Logistics Accelerate Worldwide | Report by SNS Insider</title>
-      <link>https://oracle-university.com/stories/ai-in-warehousing-market-projected-to-reach-127-66-billion-by-2035-as-e-commerce-automat-48d1a5/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-in-warehousing-market-projected-to-reach-127-66-billion-by-2035-as-e-commerce-automat-48d1a5/</guid>
-      <pubDate>Wed, 08 Jul 2026 09:10:00 GMT</pubDate>
+      <title>BTCS Inc (BTCS) Appoints Chris Janis to Board of Directors</title>
+      <link>https://oracle-university.com/stories/btcs-inc-btcs-appoints-chris-janis-to-board-of-directors-0590fc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/btcs-inc-btcs-appoints-chris-janis-to-board-of-directors-0590fc/</guid>
+      <pubDate>Thu, 09 Jul 2026 09:29:23 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>BTCS Inc. (NASDAQ:BTCS) is one of the 8 Best Crypto Penny Stocks to Buy Now. On July 1, 2026, BTCS Inc. (NASDAQ:BTCS) announced the appointment of Chris Janis to its Board of Directors. Janis was also appointed Chairperson of the Audit Committee and a member of the Compensation Committee. BTCS said </description>
+      <source url="https://www.insidermonkey.com/blog/btcs-inc-btcs-appoints-chris-janis-to-board-of-directors-1798419/">Insider Trading</source>
+    </item>
+    <item>
+      <title>Is Hyperscale Data (GPUS) the Best Crypto Penny Stock to Buy Now?</title>
+      <link>https://oracle-university.com/stories/is-hyperscale-data-gpus-the-best-crypto-penny-stock-to-buy-now-d052ba/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/is-hyperscale-data-gpus-the-best-crypto-penny-stock-to-buy-now-d052ba/</guid>
+      <pubDate>Thu, 09 Jul 2026 09:28:43 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Hyperscale Data, Inc. (NYSEAMERICAN:GPUS) is one of the 8 Best Crypto Penny Stocks to Buy Now. On June 29, 2026, Hyperscale Data, Inc. (NYSEAMERICAN:GPUS) announced the establishment of a Michigan AI development reserve account. The dedicated capital reserve account targets approximately $120M to su</description>
+      <source url="https://www.insidermonkey.com/blog/is-hyperscale-data-gpus-the-best-crypto-penny-stock-to-buy-now-1798425/">Insider Trading</source>
+    </item>
+    <item>
+      <title>AIGH Capital Management LLC Purchases Shares of 758,328 Biodesix, Inc. $BDSX</title>
+      <link>https://oracle-university.com/stories/aigh-capital-management-llc-purchases-shares-of-758-328-biodesix-inc-bdsx-1cc734/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/aigh-capital-management-llc-purchases-shares-of-758-328-biodesix-inc-bdsx-1cc734/</guid>
+      <pubDate>Thu, 09 Jul 2026 09:11:01 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>AIGH Capital Management LLC acquired a new position in shares of Biodesix, Inc. (NASDAQ:BDSX – Free Report) in the first quarter, Holdings Channel.com reports. The institutional investor acquired 758,328 shares of the company’s stock, valued at approximately $10,996,000. Biodesix accounts for approx</description>
+      <source url="https://baseballnewssource.com/2026/07/09/aigh-capital-management-llc-purchases-shares-of-758328-biodesix-inc-bdsx/11179639.html">Bbns</source>
+    </item>
+    <item>
+      <title>Treat AI like electricity, not a killer app</title>
+      <link>https://oracle-university.com/stories/treat-ai-like-electricity-not-a-killer-app-3a06dd/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/treat-ai-like-electricity-not-a-killer-app-3a06dd/</guid>
+      <pubDate>Thu, 09 Jul 2026 08:42:00 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>The U.S. AI in Warehousing Market is Projected to Reach $34.98 Billion by 2035, While Europe is Expected to Hit $26.46 Billion, Driven by AI-Powered Robotics, Predictive Analytics, Warehouse Automation, and Rising Demand for Faster E-Commerce Fulfillment and Intelligent Supply Chain Operations. The </description>
-      <source url="https://www.globenewswire.com/fr/news-release/2026/07/08/3323879/0/en/AI-in-Warehousing-Market-Projected-to-Reach-127-66-Billion-by-2035-as-E-Commerce-Automation-and-Intelligent-Logistics-Accelerate-Worldwide-Report-by-SNS-Insider.html">Globenewswire_fr</source>
+      <description>It&#39;s rare AI news that doesn&#39;t land one of two ways: either we&#39;re all screwed, or we&#39;re on the verge of thoughtfully managed intelligence that’ll usher in an idyllic existence for all. It’s attractive to simplify things like that, but the important truth is, as usual, hovering in the middle. The doo</description>
+      <source url="https://www.computerweekly.com/opinion/Treat-AI-like-electricity-not-a-killer-app">Techtarget</source>
     </item>
     <item>
-      <title>Warren Buffett&#39;s Successor, Greg Abel, Has 30% of Berkshire Hathaway&#39;s $343 Billion Investment Portfolio Tied Up in 2 Foundational AI Stocks</title>
-      <link>https://oracle-university.com/stories/warren-buffett-s-successor-greg-abel-has-30-of-berkshire-hathaway-s-343-billion-investme-e26d02/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/warren-buffett-s-successor-greg-abel-has-30-of-berkshire-hathaway-s-343-billion-investme-e26d02/</guid>
-      <pubDate>Wed, 08 Jul 2026 09:06:00 GMT</pubDate>
+      <title>Promising Blockchain Stocks To Research – July 8th</title>
+      <link>https://oracle-university.com/stories/promising-blockchain-stocks-to-research-july-8th-1aaed1/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/promising-blockchain-stocks-to-research-july-8th-1aaed1/</guid>
+      <pubDate>Thu, 09 Jul 2026 08:32:57 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Berkshire&#39;s investment portfolio is getting a tech makeover with Abel at the helm.</description>
-      <source url="https://www.fool.com/investing/2026/07/08/warren-buffett-abel-30-brka-343-billion-2-ai-stock/">Fool</source>
+      <description>Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Globant, Digi Power X, RTB Digital, Inc. Common Stock, and Mercurity Fintech are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. “Blockchain stocks” are shares of publicly traded comp</description>
+      <source url="https://www.americanbankingnews.com/2026/07/09/promising-blockchain-stocks-to-research-july-8th.html">Americanbankingnews</source>
     </item>
     <item>
-      <title>Oracle’s record backlog is booming, so why is the stock down 50%?</title>
-      <link>https://oracle-university.com/stories/oracle-s-record-backlog-is-booming-so-why-is-the-stock-down-50-4b6048/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-s-record-backlog-is-booming-so-why-is-the-stock-down-50-4b6048/</guid>
-      <pubDate>Wed, 08 Jul 2026 08:46:32 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Oracle has the kind of AI backlog most software companies would envy, but Wall Street is no longer rewarding backlog alone. ORCL is under pressure as investors are also focusing on customer concentration, required capital spending and the timeline for converting Oracle’s backlog into cash flow. That</description>
-      <source url="https://invezz.com/news/2026/07/08/oracles-record-backlog-is-booming-so-why-is-the-stock-down-50/">Invezz</source>
-    </item>
-    <item>
-      <title>Singapore’s AI adoption problem is not worker resistance, but weak execution</title>
-      <link>https://oracle-university.com/stories/singapore-s-ai-adoption-problem-is-not-worker-resistance-but-weak-execution-ce7cc8/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/singapore-s-ai-adoption-problem-is-not-worker-resistance-but-weak-execution-ce7cc8/</guid>
-      <pubDate>Wed, 08 Jul 2026 08:44:55 GMT</pubDate>
+      <title>Wrongly Paid Service Tax cannot be taken as CENVAT Credit Suo Moto, Can Only seek Refund: Madras HC [Read Order]</title>
+      <link>https://oracle-university.com/stories/wrongly-paid-service-tax-cannot-be-taken-as-cenvat-credit-suo-moto-can-only-seek-refund--a1a130/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/wrongly-paid-service-tax-cannot-be-taken-as-cenvat-credit-suo-moto-can-only-seek-refund--a1a130/</guid>
+      <pubDate>Thu, 09 Jul 2026 07:41:48 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Singapore’s office workers are among the least sceptical about artificial intelligence (AI) globally, but companies are failing to convert that openness into regular workplace use, according to new research from Salesforce. The study, conducted with YouGov, found that only 6 per cent of the island n</description>
-      <source url="https://e27.co/singapores-ai-adoption-problem-is-not-worker-resistance-but-weak-execution-20260708/">E27</source>
+      <description>Proper procedure is to seek refund of the excess tax paid. The remedy is to file a refund claim under Section 11-B of the Central Excise Act, 1944, not taking suo moto credit, observed the bench.</description>
+      <source url="https://www.taxscan.in/top-stories/wrongly-paid-service-tax-cannot-be-taken-as-cenvat-credit-suo-moto-can-only-seek-refund-madras-hc-1448750">Taxscan</source>
     </item>
     <item>
-      <title>Microsoft Layoffs: Employees Could Get Up To 39 Weeks&#39; Salary; Here&#39;s The Full Severance Package</title>
-      <link>https://oracle-university.com/stories/microsoft-layoffs-employees-could-get-up-to-39-weeks-salary-here-s-the-full-severance-pa-a75ab2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/microsoft-layoffs-employees-could-get-up-to-39-weeks-salary-here-s-the-full-severance-pa-a75ab2/</guid>
-      <pubDate>Wed, 08 Jul 2026 08:42:02 GMT</pubDate>
+      <title>AI Data Center Liquid Cooling Market &amp; Project Pipeline Intelligence Report 2026- 2032</title>
+      <link>https://oracle-university.com/stories/ai-data-center-liquid-cooling-market-project-pipeline-intelligence-report-2026-2032-5735ac/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-data-center-liquid-cooling-market-project-pipeline-intelligence-report-2026-2032-5735ac/</guid>
+      <pubDate>Thu, 09 Jul 2026 07:41:17 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>We have recently published Global AI Data Center Project Tracker &amp; Liquid Cooling Intelligence Database (2026-2032). Our report includes intelligence database tracks 500+ existing, under-construction, and planned AI-ready data center projects across North America, Europe, the Middle East, Asia-Pacif</description>
+      <source url="https://www.openpr.com/news/4571777/ai-data-center-liquid-cooling-market-project-pipeline">Openpr.com</source>
+    </item>
+    <item>
+      <title>Farmers &amp; Merchants Trust Co of Chambersburg PA Buys 5,296 Shares of Oracle Corporation $ORCL</title>
+      <link>https://oracle-university.com/stories/farmers-merchants-trust-co-of-chambersburg-pa-buys-5-296-shares-of-oracle-corporation-or-db5f2b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/farmers-merchants-trust-co-of-chambersburg-pa-buys-5-296-shares-of-oracle-corporation-or-db5f2b/</guid>
+      <pubDate>Thu, 09 Jul 2026 07:35:02 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Microsoft has announced a fresh round of layoffs affecting nearly 4,800 employees. Here&#39;s a look at the severance package, health benefits, stock vesting, and AI-driven cost cuts</description>
-      <source url="https://www.news18.com/viral/microsoft-layoffs-employees-could-get-up-to-39-weeks-salary-heres-the-full-severance-package-ws-l-10197712.html">News 18</source>
+      <description>Farmers &amp; Merchants Trust Co of Chambersburg PA raised its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 30.4% in the 1st quarter, according to the company in its most recent filing with the Securities and Exchange Commission (SEC). The firm owned 22,713 shares of the enterprise software </description>
+      <source url="https://www.americanbankingnews.com/2026/07/09/farmers-merchants-trust-co-of-chambersburg-pa-buys-5296-shares-of-oracle-corporation-orcl.html">Americanbankingnews</source>
     </item>
     <item>
-      <title>Google to plant its AI flag in India: What it means for the country</title>
-      <link>https://oracle-university.com/stories/google-to-plant-its-ai-flag-in-india-what-it-means-for-the-country-d10509/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/google-to-plant-its-ai-flag-in-india-what-it-means-for-the-country-d10509/</guid>
-      <pubDate>Wed, 08 Jul 2026 08:37:51 GMT</pubDate>
+      <title>One interface isn&#39;t enough for enterprise AI</title>
+      <link>https://oracle-university.com/stories/one-interface-isn-t-enough-for-enterprise-ai-9012c1/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/one-interface-isn-t-enough-for-enterprise-ai-9012c1/</guid>
+      <pubDate>Thu, 09 Jul 2026 07:00:00 GMT</pubDate>
       <category>Applications &amp; NetSuite</category>
-      <description>In a major shift for India&#39;s AI ecosystem, Google Cloud is bringing its latest Gemini AI models to infrastructure located within the country, allowing enterprises to keep both their data and AI processing in India. The move is driven by growing demand for digital sovereignty and marks India&#39;s emerge</description>
-      <source url="https://economictimes.indiatimes.com/news/company/corporate-trends/google-cloud-plants-its-ai-flag-in-india-gemini-local-hosting-data-sovereignty-what-it-means-for-the-country/articleshow/132257905.cms">The Economic Times</source>
+      <description>Presented by Oracle NetSuite Every major technology transition produces a set of assumptions about where the market is headed. The assumptions are often directionally correct, but they tend to underestimate the degree to which organizations adapt new technologies to their own circumstances. AI is fo</description>
+      <source url="https://venturebeat.com/orchestration/one-interface-isnt-enough-for-enterprise-ai">Venturebeat</source>
     </item>
     <item>
-      <title>AI, Cybersecurity, and Interoperable Systems: Core Pillars Driving the Smart Hospital Evolution</title>
-      <link>https://oracle-university.com/stories/ai-cybersecurity-and-interoperable-systems-core-pillars-driving-the-smart-hospital-evolu-060ffd/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-cybersecurity-and-interoperable-systems-core-pillars-driving-the-smart-hospital-evolu-060ffd/</guid>
-      <pubDate>Wed, 08 Jul 2026 08:20:00 GMT</pubDate>
-      <category>Security</category>
-      <description>Smart hospital growth driven by AI, IoT, and digital health initiatives across APAC, Europe, and North America offers opportunities for enhanced care, efficiency, and strategic healthcare transformations. Smart hospital growth driven by AI, IoT, and digital health initiatives across APAC, Europe, an</description>
-      <source url="https://www.globenewswire.com/fr/news-release/2026/07/08/3323867/28124/en/AI-Cybersecurity-and-Interoperable-Systems-Core-Pillars-Driving-the-Smart-Hospital-Evolution.html">Globenewswire_fr</source>
-    </item>
-    <item>
-      <title>Explosive Growth in Virtual Training and Simulation Market: Expected to Reach $1.16 Trillion by 2030</title>
-      <link>https://oracle-university.com/stories/explosive-growth-in-virtual-training-and-simulation-market-expected-to-reach-1-16-trilli-4208fa/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/explosive-growth-in-virtual-training-and-simulation-market-expected-to-reach-1-16-trilli-4208fa/</guid>
-      <pubDate>Wed, 08 Jul 2026 08:01:00 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>Key opportunities in the virtual training and simulation market include growth driven by metaverse learning, increased VR adoption, demand for cost-effective training solutions, and cloud-based scalability. The fastest-growing region is Asia-Pacific, with major companies focusing on immersive VR sol</description>
-      <source url="https://www.globenewswire.com/fr/news-release/2026/07/08/3323847/28124/en/Explosive-Growth-in-Virtual-Training-and-Simulation-Market-Expected-to-Reach-1-16-Trillion-by-2030.html">Globenewswire_fr</source>
-    </item>
-    <item>
-      <title>United States Robotic Process Automation Market Outlook 2035 | AI Automation Trends, Growth Drivers, Competitive Landscape &amp; Investment Opportunities</title>
-      <link>https://oracle-university.com/stories/united-states-robotic-process-automation-market-outlook-2035-ai-automation-trends-growth-df01fe/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/united-states-robotic-process-automation-market-outlook-2035-ai-automation-trends-growth-df01fe/</guid>
-      <pubDate>Wed, 08 Jul 2026 07:20:39 GMT</pubDate>
+      <title>Jharkhand Engages Global Tech Leaders to Drive AI-Led Governance and Digital Transformation</title>
+      <link>https://oracle-university.com/stories/jharkhand-engages-global-tech-leaders-to-drive-ai-led-governance-and-digital-transformat-6847b1/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/jharkhand-engages-global-tech-leaders-to-drive-ai-led-governance-and-digital-transformat-6847b1/</guid>
+      <pubDate>Thu, 09 Jul 2026 06:03:17 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Market Size and Forecast 2026-35 The Robotic Process Automation (RPA) Market is estimated to reach USD 8.53 Billion in 2026 and is projected to grow to USD 83.11 Billion by 2035, registering exceptional growth at a CAGR of 28.8% during the</description>
-      <source url="https://www.openpr.com/news/4571359/united-states-robotic-process-automation-market-outlook-2035">Openpr.com</source>
+      <description>Jharkhand Engages Global Tech Leaders to Drive AI-Led Governance and Digital Transformation</description>
+      <source url="https://www.deccanherald.com/dhbrandpr/jharkhand-engages-global-tech-leaders-to-drive-ai-led-governance-and-digital-transformation-4067448">Deccan Herald</source>
     </item>
     <item>
-      <title>PBS secures 10-year Central America bank deal</title>
-      <link>https://oracle-university.com/stories/pbs-secures-10-year-central-america-bank-deal-339bd8/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/pbs-secures-10-year-central-america-bank-deal-339bd8/</guid>
-      <pubDate>Wed, 08 Jul 2026 05:07:00 GMT</pubDate>
+      <title>Hemant Soren Engages Google, AWS And Oracle To Build An AI-Powered Jharkhand</title>
+      <link>https://oracle-university.com/stories/hemant-soren-engages-google-aws-and-oracle-to-build-an-ai-powered-jharkhand-975ec9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/hemant-soren-engages-google-aws-and-oracle-to-build-an-ai-powered-jharkhand-975ec9/</guid>
+      <pubDate>Thu, 09 Jul 2026 05:21:18 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Jharkhand Chief Minister Hemant Soren chaired a series of Business-to-Government meetings with global technology companies during the National Stakeholders Consultation on Vision 2050. The discussions brought together firms including Google, Oracle, Microsoft, IBM, AWS, and Salesforce, among others,</description>
+      <source url="https://news.abplive.com/cities/hemant-soren-engages-google-aws-and-oracle-to-build-an-ai-powered-jharkhand-1855373">Abp News</source>
+    </item>
+    <item>
+      <title>CoMaps and the right to fork</title>
+      <link>https://oracle-university.com/stories/comaps-and-the-right-to-fork-e4a3d7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/comaps-and-the-right-to-fork-e4a3d7/</guid>
+      <pubDate>Thu, 09 Jul 2026 05:03:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>CoMaps, my favorite OpenStreetMap-based mobile app, is now one year old! This Google Maps alternative first became available on Google Play and the Apple App Store on July 3, 2025. What exactly is CoMaps? It is a free and offline map and navigation mobile app that is community-driven and privacy-fir</description>
+      <source url="https://technology.inquirer.net/147812/comaps-and-the-right-to-fork">Inquirer</source>
+    </item>
+    <item>
+      <title>U.S. Ambient Computing Market Poised to Reach USD 96.11 Billion by 2033 as AI-Powered Intelligent Environments Reshape Digital Experiences</title>
+      <link>https://oracle-university.com/stories/u-s-ambient-computing-market-poised-to-reach-usd-96-11-billion-by-2033-as-ai-powered-int-9288e7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/u-s-ambient-computing-market-poised-to-reach-usd-96-11-billion-by-2033-as-ai-powered-int-9288e7/</guid>
+      <pubDate>Thu, 09 Jul 2026 04:41:28 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The growing adoption of edge AI, IoT ecosystems, neuromorphic computing, and context-aware technologies is accelerating the deployment of ambient computing solutions across the residential, commercial, healthcare, and industrial sectors. July 8, 2026 - The U.S. technology landscape is undergoing a m</description>
+      <source url="https://www.openpr.com/news/4572373/u-s-ambient-computing-market-poised-to-reach-usd-96-11-billion">Openpr.com</source>
+    </item>
+    <item>
+      <title>Healthcare Supply Chain Management Market Size, Share, Growth, 2034</title>
+      <link>https://oracle-university.com/stories/healthcare-supply-chain-management-market-size-share-growth-2034-f496b5/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/healthcare-supply-chain-management-market-size-share-growth-2034-f496b5/</guid>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The healthcare supply chain management market size is projected to grow from $4.09 billion in 2026 to $5.9 billion by 2034, at a CAGR of 4.7% during the forecast period 2026-2034.</description>
+      <source url="https://straitsresearch.com/report/healthcare-supply-chain-management-market">Straitsresearch</source>
+    </item>
+    <item>
+      <title>500 Blog Posts To Learn About Api</title>
+      <link>https://oracle-university.com/stories/500-blog-posts-to-learn-about-api-d44369/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/500-blog-posts-to-learn-about-api-d44369/</guid>
+      <pubDate>Wed, 08 Jul 2026 22:31:32 GMT</pubDate>
       <category>Oracle Ecosystem</category>
       <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.jamaicaobserver.com/2026/07/08/pbs-secures-10-year-central-america-bank-deal/">Jamaica Observer</source>
-    </item>
-    <item>
-      <title>Redefining Scalable AI Performance: OCI Supercomputing in the Cloud</title>
-      <link>https://oracle-university.com/stories/redefining-scalable-ai-performance-oci-supercomputing-in-the-cloud-e49314/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/redefining-scalable-ai-performance-oci-supercomputing-in-the-cloud-e49314/</guid>
-      <pubDate>Wed, 08 Jul 2026 04:19:11 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Organizations building frontier AI models need infrastructure designed for performance at scale. This session shows how OCI combines AMD Instinct, AMD EPYC, and Pensando in Oracle Acceleron to enable ultra-low-latency networking for high-throughput distributed workloads, with practical guidance for </description>
-      <source url="https://www.amd.com/en/corporate/events/advancing-ai/sessions-catalog/redefining-scalable-ai-performance--oci-supercomputing-in-the-cloud.html">Advanced Micro Devices</source>
-    </item>
-    <item>
-      <title>Unlocking Secure Enterprise Intelligence at Scale with Cisco</title>
-      <link>https://oracle-university.com/stories/unlocking-secure-enterprise-intelligence-at-scale-with-cisco-b32a35/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/unlocking-secure-enterprise-intelligence-at-scale-with-cisco-b32a35/</guid>
-      <pubDate>Wed, 08 Jul 2026 04:19:09 GMT</pubDate>
-      <category>Security</category>
-      <description>As organizations transition from AI experimentation to production-scale infrastructure, demand for high-performance compute must be matched by security and reliability. This session explores Cisco&#39;s vision for secure, high-performance AI environments and a framework for accelerating AI deployment wh</description>
-      <source url="https://www.amd.com/en/corporate/events/advancing-ai/sessions-catalog/unlocking-secure-enterprise-intelligence-at-scale-with-cisco.html">Advanced Micro Devices</source>
-    </item>
-    <item>
-      <title>Dell Technologies: Balancing CPU and GPU for the Agentic AI Era</title>
-      <link>https://oracle-university.com/stories/dell-technologies-balancing-cpu-and-gpu-for-the-agentic-ai-era-879e20/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/dell-technologies-balancing-cpu-and-gpu-for-the-agentic-ai-era-879e20/</guid>
-      <pubDate>Wed, 08 Jul 2026 04:19:02 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Agentic AI changes the infrastructure equation. These workloads plan, branch, call tools, retrieve data, manage long context, and re-plan in real time, creating far greater CPU demand than traditional GPU-heavy inference. In this Meet the Expert session, learn why balanced Dell PowerEdge platforms w</description>
-      <source url="https://www.amd.com/en/corporate/events/advancing-ai/sessions-catalog/dell-technologies--balancing-cpu-and-gpu-for-the-agentic-ai-era.html">Advanced Micro Devices</source>
-    </item>
-    <item>
-      <title>At-Scale Agentic RL with Miles</title>
-      <link>https://oracle-university.com/stories/at-scale-agentic-rl-with-miles-6dae66/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/at-scale-agentic-rl-with-miles-6dae66/</guid>
-      <pubDate>Wed, 08 Jul 2026 04:18:59 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>An intermediate-to-advanced hands-on workshop on scalable RL training with MILES on AMD GPUs. Participants will learn how to deploy RL techniques such as GRPO, PPO, etc. The workshop also demonstrates multi-turn agentic RL training with mixed datasets like SWE Bench, Terminal bench etc. through a si</description>
-      <source url="https://www.amd.com/en/corporate/events/advancing-ai/sessions-catalog/at-scale-agentic-rl-with-miles-1.html">Advanced Micro Devices</source>
-    </item>
-    <item>
-      <title>How Data Structures for Financial Applications Works: A Guide for the US Financial Market</title>
-      <link>https://oracle-university.com/stories/how-data-structures-for-financial-applications-works-a-guide-for-the-us-financial-market-cad121/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/how-data-structures-for-financial-applications-works-a-guide-for-the-us-financial-market-cad121/</guid>
-      <pubDate>Wed, 08 Jul 2026 04:00:00 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Picture a US payments engineer at 2 a.m. trying to reconcile a 4 million row daily ledger against a custodian feed that arrived 90 seconds late. The query that decides whether she goes back to sleep or wakes a managing director is a tree walk over a B+ index. The data structure choice is the [...] R</description>
-      <source url="https://techbullion.com/data-structures-financial-apps-guide-usa-2026/">Techbullion</source>
-    </item>
-    <item>
-      <title>Oracle Stock Plummeted by 25% in the First Half of 2026, and This Dire AI Warning Might Be Why</title>
-      <link>https://oracle-university.com/stories/oracle-stock-plummeted-by-25-in-the-first-half-of-2026-and-this-dire-ai-warning-might-be-f95c6a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-stock-plummeted-by-25-in-the-first-half-of-2026-and-this-dire-ai-warning-might-be-f95c6a/</guid>
-      <pubDate>Wed, 08 Jul 2026 01:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Some of Oracle&#39;s biggest data center customers might be unable to meet their obligations.</description>
-      <source url="https://www.fool.com/investing/2026/07/07/oracle-stock-plummeted-by-25-in-the-first-half-of/">Fool</source>
+      <source url="https://www.bundle.app/en/technology/500-blog-posts-to-learn-about-api-2151DE72-2CD6-402C-B6C5-D60E745C97D4">Bundle</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>

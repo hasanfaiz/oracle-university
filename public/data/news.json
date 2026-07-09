@@ -1,11 +1,28 @@
 {
-  "generatedAt": "2026-07-08T21:36:41.874Z",
+  "generatedAt": "2026-07-09T21:53:41.410Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
     "siteUrl": "https://oracle-university.com"
   },
   "items": [
+    {
+      "id": "0903c6aef3773a3c",
+      "slug": "scripting-js-and-python-with-project-detroit-with-mikael-vidstedt-ata-267c5c",
+      "title": "\"Scripting JS and Python with Project Detroit\" with Mikael Vidstedt [AtA]",
+      "dek": "OpenJDK recently resurrected Project Detroit, an effort to ease Java's interoperability with Python and JavaScript. Interestingly, while both integrations will work through the _java.scripting_ API, there are still differences between them. On top of that, the JavaScript integration needs to explain",
+      "url": "https://inside.java/2026/07/09/podcast-061/",
+      "source": "Inside Java",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/insidejava/2026-07-inside-java-podcast-61--mikael.mp3?dest-id=2318780",
+      "publishedAt": "2026-07-09T07:53:45.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "Java",
+        "OpenJDK"
+      ],
+      "priority": 54
+    },
     {
       "id": "f58466d207e1f5cc",
       "slug": "oracle-sets-the-date-for-its-fourth-quarter-fiscal-year-2026-earnings-announcement-3a2dd3",
@@ -55,15 +72,15 @@
       "priority": 46
     },
     {
-      "id": "5f6164bd8e47c985",
-      "slug": "ai-investment-boom-raises-fears-of-global-spending-correction-as-trillion-dollar-bets-ou-5f88f8",
-      "title": "AI investment boom raises fears of global spending correction as trillion-dollar bets outpace returns",
-      "dek": "The global race to dominate artificial intelligence is fuelling one of the largest technology investment cycles in history, with the read more AI investment boom raises fears of global spending correction as trillion-dollar bets outpace returns",
-      "url": "https://businessday.ng/technology/article/ai-investment-boom-raises-fears-of-global-spending-correction-as-trillion-dollar-bets-outpace-returns/",
-      "source": "Business News Nigeria",
+      "id": "804e1a2e03295f7e",
+      "slug": "uk-court-of-appeal-gives-microsoft-complaint-the-green-light-61da91",
+      "title": "UK Court of Appeal gives Microsoft complaint the green light",
+      "dek": "The ValueLicensing complaint against Microsoft is being upheld following a Court of Appeal ruling . The Court of Appeal unanimously upheld the Competition Appeal Tribunal’s (CAT) decisions in the pre-owned software reseller’s ongoing abuse of dominance competition law claim against Microsoft. The ap",
+      "url": "https://www.computerweekly.com/news/366645701/UK-Court-of-Appeal-gives-Microsoft-complaint-the-green-light",
+      "source": "Techtarget",
       "sourceType": "external",
-      "image": "https://cdn.businessday.ng/wp-content/uploads/2026/07/AI-investment.jpg",
-      "publishedAt": "2026-07-08T09:24:04.000Z",
+      "image": "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/traffic-lights-road-travel-monticellllo-adobe.jpg",
+      "publishedAt": "2026-07-09T09:32:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
         "AI"
@@ -71,171 +88,235 @@
       "priority": 43
     },
     {
-      "id": "1cf705f237d68811",
-      "slug": "ai-in-warehousing-market-projected-to-reach-127-66-billion-by-2035-as-e-commerce-automat-48d1a5",
-      "title": "AI in Warehousing Market Projected to Reach $127.66 Billion by 2035 as E-Commerce Automation and Intelligent Logistics Accelerate Worldwide | Report by SNS Insider",
-      "dek": "The U.S. AI in Warehousing Market is Projected to Reach $34.98 Billion by 2035, While Europe is Expected to Hit $26.46 Billion, Driven by AI-Powered Robotics, Predictive Analytics, Warehouse Automation, and Rising Demand for Faster E-Commerce Fulfillment and Intelligent Supply Chain Operations. The ",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/07/08/3323879/0/en/AI-in-Warehousing-Market-Projected-to-Reach-127-66-Billion-by-2035-as-E-Commerce-Automation-and-Intelligent-Logistics-Accelerate-Worldwide-Report-by-SNS-Insider.html",
-      "source": "Globenewswire_fr",
+      "id": "6e3c31c1c3b2580c",
+      "slug": "btcs-inc-btcs-appoints-chris-janis-to-board-of-directors-0590fc",
+      "title": "BTCS Inc (BTCS) Appoints Chris Janis to Board of Directors",
+      "dek": "BTCS Inc. (NASDAQ:BTCS) is one of the 8 Best Crypto Penny Stocks to Buy Now. On July 1, 2026, BTCS Inc. (NASDAQ:BTCS) announced the appointment of Chris Janis to its Board of Directors. Janis was also appointed Chairperson of the Audit Committee and a member of the Compensation Committee. BTCS said ",
+      "url": "https://www.insidermonkey.com/blog/btcs-inc-btcs-appoints-chris-janis-to-board-of-directors-1798419/",
+      "source": "Insider Trading",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-07-08T09:10:00.000Z",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/LwXLyAWthtln0Jw89w-gOoLOYc59s7zUiDSQ8M61QxY/resize:fit:1280:853:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2017/03/30173118/business-1850021_1280.jpg",
+      "publishedAt": "2026-07-09T09:29:23.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 43
+    },
+    {
+      "id": "e0d1f06e89da8840",
+      "slug": "is-hyperscale-data-gpus-the-best-crypto-penny-stock-to-buy-now-d052ba",
+      "title": "Is Hyperscale Data (GPUS) the Best Crypto Penny Stock to Buy Now?",
+      "dek": "Hyperscale Data, Inc. (NYSEAMERICAN:GPUS) is one of the 8 Best Crypto Penny Stocks to Buy Now. On June 29, 2026, Hyperscale Data, Inc. (NYSEAMERICAN:GPUS) announced the establishment of a Michigan AI development reserve account. The dedicated capital reserve account targets approximately $120M to su",
+      "url": "https://www.insidermonkey.com/blog/is-hyperscale-data-gpus-the-best-crypto-penny-stock-to-buy-now-1798425/",
+      "source": "Insider Trading",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/hEM39mm-ImnlJ4Av5xhh9xSvaYm4lE8Q6dhlrOQKP6s/resize:fit:1280:851:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2021/05/04112714/laptop-2589420_1280.jpg",
+      "publishedAt": "2026-07-09T09:28:43.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "30698c7b0e9d6d9d",
+      "slug": "aigh-capital-management-llc-purchases-shares-of-758-328-biodesix-inc-bdsx-1cc734",
+      "title": "AIGH Capital Management LLC Purchases Shares of 758,328 Biodesix, Inc. $BDSX",
+      "dek": "AIGH Capital Management LLC acquired a new position in shares of Biodesix, Inc. (NASDAQ:BDSX – Free Report) in the first quarter, Holdings Channel.com reports. The institutional investor acquired 758,328 shares of the company’s stock, valued at approximately $10,996,000. Biodesix accounts for approx",
+      "url": "https://baseballnewssource.com/2026/07/09/aigh-capital-management-llc-purchases-shares-of-758328-biodesix-inc-bdsx/11179639.html",
+      "source": "Bbns",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/biodesix-inc-logo-1200x675.png?v=20240523094005",
+      "publishedAt": "2026-07-09T09:11:01.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "hedge fund holdings",
+        "nasdaq:bdsx",
+        "biodesix",
+        "medical",
+        "13f",
+        "bdsx"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "b1bd068662a5883c",
+      "slug": "treat-ai-like-electricity-not-a-killer-app-3a06dd",
+      "title": "Treat AI like electricity, not a killer app",
+      "dek": "It's rare AI news that doesn't land one of two ways: either we're all screwed, or we're on the verge of thoughtfully managed intelligence that’ll usher in an idyllic existence for all. It’s attractive to simplify things like that, but the important truth is, as usual, hovering in the middle. The doo",
+      "url": "https://www.computerweekly.com/opinion/Treat-AI-like-electricity-not-a-killer-app",
+      "source": "Techtarget",
+      "sourceType": "external",
+      "image": "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/AI-power-human-impact-smartboy10-Getty-RF-hero.jpg",
+      "publishedAt": "2026-07-09T08:42:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "warehouse automation",
-        "sns insider pvt ltd",
-        "ai in warehousing market",
-        "ai-powered logistics",
-        "robotic order picking",
-        "smart warehouse solutions"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "d1ed9cca0a4c93c8",
-      "slug": "warren-buffett-s-successor-greg-abel-has-30-of-berkshire-hathaway-s-343-billion-investme-e26d02",
-      "title": "Warren Buffett's Successor, Greg Abel, Has 30% of Berkshire Hathaway's $343 Billion Investment Portfolio Tied Up in 2 Foundational AI Stocks",
-      "dek": "Berkshire's investment portfolio is getting a tech makeover with Abel at the helm.",
-      "url": "https://www.fool.com/investing/2026/07/08/warren-buffett-abel-30-brka-343-billion-2-ai-stock/",
-      "source": "Fool",
-      "sourceType": "external",
-      "image": "https://g.foolcdn.com/editorial/images/877463/buffett11-tmf.jpg",
-      "publishedAt": "2026-07-08T09:06:00.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
+        "Security",
         "AI"
       ],
-      "priority": 43
+      "priority": 42
     },
     {
-      "id": "bfba128a768823b2",
-      "slug": "oracle-s-record-backlog-is-booming-so-why-is-the-stock-down-50-4b6048",
-      "title": "Oracle’s record backlog is booming, so why is the stock down 50%?",
-      "dek": "Oracle has the kind of AI backlog most software companies would envy, but Wall Street is no longer rewarding backlog alone. ORCL is under pressure as investors are also focusing on customer concentration, required capital spending and the timeline for converting Oracle’s backlog into cash flow. That",
-      "url": "https://invezz.com/news/2026/07/08/oracles-record-backlog-is-booming-so-why-is-the-stock-down-50/",
-      "source": "Invezz",
+      "id": "c396d9739afa11ee",
+      "slug": "promising-blockchain-stocks-to-research-july-8th-1aaed1",
+      "title": "Promising Blockchain Stocks To Research – July 8th",
+      "dek": "Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Globant, Digi Power X, RTB Digital, Inc. Common Stock, and Mercurity Fintech are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. “Blockchain stocks” are shares of publicly traded comp",
+      "url": "https://www.americanbankingnews.com/2026/07/09/promising-blockchain-stocks-to-research-july-8th.html",
+      "source": "Americanbankingnews",
       "sourceType": "external",
-      "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/04/Oracle-logo-outside-its-office.png",
-      "publishedAt": "2026-07-08T08:46:32.000Z",
+      "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
+      "publishedAt": "2026-07-09T08:32:57.000Z",
       "topic": "Business & Earnings",
-      "tags": [
-        "Oracle Cloud",
-        "ORCL",
-        "AI"
-      ],
-      "priority": 43
+      "tags": [],
+      "priority": 42
     },
     {
-      "id": "298dc243f3d191ac",
-      "slug": "singapore-s-ai-adoption-problem-is-not-worker-resistance-but-weak-execution-ce7cc8",
-      "title": "Singapore’s AI adoption problem is not worker resistance, but weak execution",
-      "dek": "Singapore’s office workers are among the least sceptical about artificial intelligence (AI) globally, but companies are failing to convert that openness into regular workplace use, according to new research from Salesforce. The study, conducted with YouGov, found that only 6 per cent of the island n",
-      "url": "https://e27.co/singapores-ai-adoption-problem-is-not-worker-resistance-but-weak-execution-20260708/",
-      "source": "E27",
+      "id": "2e6cedbf7e50a03d",
+      "slug": "wrongly-paid-service-tax-cannot-be-taken-as-cenvat-credit-suo-moto-can-only-seek-refund--a1a130",
+      "title": "Wrongly Paid Service Tax cannot be taken as CENVAT Credit Suo Moto, Can Only seek Refund: Madras HC [Read Order]",
+      "dek": "Proper procedure is to seek refund of the excess tax paid. The remedy is to file a refund claim under Section 11-B of the Central Excise Act, 1944, not taking suo moto credit, observed the bench.",
+      "url": "https://www.taxscan.in/top-stories/wrongly-paid-service-tax-cannot-be-taken-as-cenvat-credit-suo-moto-can-only-seek-refund-madras-hc-1448750",
+      "source": "Taxscan",
       "sourceType": "external",
-      "image": "https://e27.co/wp-content/uploads/2026/07/Salesforce.jpg",
-      "publishedAt": "2026-07-08T08:44:55.000Z",
+      "image": "https://images.taxscan.in/h-upload/2026/07/09/2142896-madras-hc-refund-not-suo-moto-cenvat-credit-taxscan.webp",
+      "publishedAt": "2026-07-09T07:41:48.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "AI"
+        "madras high court",
+        "excess tax paid",
+        "no self credit",
+        "important judgment",
+        "no suo moto credit",
+        "cenvat credit"
       ],
-      "priority": 43
+      "priority": 41
     },
     {
-      "id": "9e82457b8326dc26",
-      "slug": "microsoft-layoffs-employees-could-get-up-to-39-weeks-salary-here-s-the-full-severance-pa-a75ab2",
-      "title": "Microsoft Layoffs: Employees Could Get Up To 39 Weeks' Salary; Here's The Full Severance Package",
-      "dek": "Microsoft has announced a fresh round of layoffs affecting nearly 4,800 employees. Here's a look at the severance package, health benefits, stock vesting, and AI-driven cost cuts",
-      "url": "https://www.news18.com/viral/microsoft-layoffs-employees-could-get-up-to-39-weeks-salary-heres-the-full-severance-package-ws-l-10197712.html",
-      "source": "News 18",
-      "sourceType": "external",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/07/someone-reserved-3-2026-07-b6908cc3bd173a67e7869bd0b45d7916-1200x800.png",
-      "publishedAt": "2026-07-08T08:42:02.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "microsoft azure",
-        "tech layoffs",
-        "ai investment",
-        "microsoft layoffs",
-        "severance package",
-        "workforce reduction"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "9d9f55cb4e2f54a3",
-      "slug": "google-to-plant-its-ai-flag-in-india-what-it-means-for-the-country-d10509",
-      "title": "Google to plant its AI flag in India: What it means for the country",
-      "dek": "In a major shift for India's AI ecosystem, Google Cloud is bringing its latest Gemini AI models to infrastructure located within the country, allowing enterprises to keep both their data and AI processing in India. The move is driven by growing demand for digital sovereignty and marks India's emerge",
-      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/google-cloud-plants-its-ai-flag-in-india-gemini-local-hosting-data-sovereignty-what-it-means-for-the-country/articleshow/132257905.cms",
-      "source": "The Economic Times",
-      "sourceType": "external",
-      "image": "https://img.etimg.com/thumb/msid-132258328,resizemode-4,width-1200,height-900,imgsize-153722,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-08T08:37:51.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "indian bank",
-        "gemini ai india",
-        "ai data centres india",
-        "google cloud india",
-        "generative ai india",
-        "enterprise ai adoption"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "ab4468e28cedc02a",
-      "slug": "ai-cybersecurity-and-interoperable-systems-core-pillars-driving-the-smart-hospital-evolu-060ffd",
-      "title": "AI, Cybersecurity, and Interoperable Systems: Core Pillars Driving the Smart Hospital Evolution",
-      "dek": "Smart hospital growth driven by AI, IoT, and digital health initiatives across APAC, Europe, and North America offers opportunities for enhanced care, efficiency, and strategic healthcare transformations. Smart hospital growth driven by AI, IoT, and digital health initiatives across APAC, Europe, an",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/07/08/3323867/28124/en/AI-Cybersecurity-and-Interoperable-Systems-Core-Pillars-Driving-the-Smart-Hospital-Evolution.html",
-      "source": "Globenewswire_fr",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-07-08T08:20:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "patient experience",
-        "infection control",
-        "smart hospital",
-        "smart hospitals",
-        "private hospital",
-        "hospitals"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "d22884dbb03bb83d",
-      "slug": "explosive-growth-in-virtual-training-and-simulation-market-expected-to-reach-1-16-trilli-4208fa",
-      "title": "Explosive Growth in Virtual Training and Simulation Market: Expected to Reach $1.16 Trillion by 2030",
-      "dek": "Key opportunities in the virtual training and simulation market include growth driven by metaverse learning, increased VR adoption, demand for cost-effective training solutions, and cloud-based scalability. The fastest-growing region is Asia-Pacific, with major companies focusing on immersive VR sol",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/07/08/3323847/28124/en/Explosive-Growth-in-Virtual-Training-and-Simulation-Market-Expected-to-Reach-1-16-Trillion-by-2030.html",
-      "source": "Globenewswire_fr",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-07-08T08:01:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "virtual reality",
-        "research and markets",
-        "simulation",
-        "virtual training",
-        "virtual and augmented reality",
-        "virtual realities"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "80e9adf78ef3a23c",
-      "slug": "united-states-robotic-process-automation-market-outlook-2035-ai-automation-trends-growth-df01fe",
-      "title": "United States Robotic Process Automation Market Outlook 2035 | AI Automation Trends, Growth Drivers, Competitive Landscape & Investment Opportunities",
-      "dek": "Market Size and Forecast 2026-35 The Robotic Process Automation (RPA) Market is estimated to reach USD 8.53 Billion in 2026 and is projected to grow to USD 83.11 Billion by 2035, registering exceptional growth at a CAGR of 28.8% during the",
-      "url": "https://www.openpr.com/news/4571359/united-states-robotic-process-automation-market-outlook-2035",
+      "id": "7aac1ee17b657fdf",
+      "slug": "ai-data-center-liquid-cooling-market-project-pipeline-intelligence-report-2026-2032-5735ac",
+      "title": "AI Data Center Liquid Cooling Market & Project Pipeline Intelligence Report 2026- 2032",
+      "dek": "We have recently published Global AI Data Center Project Tracker & Liquid Cooling Intelligence Database (2026-2032). Our report includes intelligence database tracks 500+ existing, under-construction, and planned AI-ready data center projects across North America, Europe, the Middle East, Asia-Pacif",
+      "url": "https://www.openpr.com/news/4571777/ai-data-center-liquid-cooling-market-project-pipeline",
       "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/7/L708928071_k.jpg",
-      "publishedAt": "2026-07-08T07:20:39.000Z",
+      "image": "https://cdn.open-pr.com/L/7/L708828798_k.jpg",
+      "publishedAt": "2026-07-09T07:41:17.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "pr service",
+        "public relations",
+        "presses release",
+        "advertising",
+        "pr",
+        "pr marketing"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "1cf39affc36b7ce1",
+      "slug": "farmers-merchants-trust-co-of-chambersburg-pa-buys-5-296-shares-of-oracle-corporation-or-db5f2b",
+      "title": "Farmers & Merchants Trust Co of Chambersburg PA Buys 5,296 Shares of Oracle Corporation $ORCL",
+      "dek": "Farmers & Merchants Trust Co of Chambersburg PA raised its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 30.4% in the 1st quarter, according to the company in its most recent filing with the Securities and Exchange Commission (SEC). The firm owned 22,713 shares of the enterprise software ",
+      "url": "https://www.americanbankingnews.com/2026/07/09/farmers-merchants-trust-co-of-chambersburg-pa-buys-5296-shares-of-oracle-corporation-orcl.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-07-09T07:35:02.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "hedge fund holdings",
+        "sec filings",
+        "68389x10",
+        "nyse:orcl",
+        "13f",
+        "oracle"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "f226a40d12a70099",
+      "slug": "one-interface-isn-t-enough-for-enterprise-ai-9012c1",
+      "title": "One interface isn't enough for enterprise AI",
+      "dek": "Presented by Oracle NetSuite Every major technology transition produces a set of assumptions about where the market is headed. The assumptions are often directionally correct, but they tend to underestimate the degree to which organizations adapt new technologies to their own circumstances. AI is fo",
+      "url": "https://venturebeat.com/orchestration/one-interface-isnt-enough-for-enterprise-ai",
+      "source": "Venturebeat",
+      "sourceType": "external",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4x9dSPxassUF3IWNIitCAe/45be20ce213185ce3def62a788fc6286/VBImage.jpg?w=300&q=30",
+      "publishedAt": "2026-07-09T07:00:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "NetSuite",
+        "Security",
+        "AI"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "1a76a6d3b0f2bc83",
+      "slug": "jharkhand-engages-global-tech-leaders-to-drive-ai-led-governance-and-digital-transformat-6847b1",
+      "title": "Jharkhand Engages Global Tech Leaders to Drive AI-Led Governance and Digital Transformation",
+      "dek": "Jharkhand Engages Global Tech Leaders to Drive AI-Led Governance and Digital Transformation",
+      "url": "https://www.deccanherald.com/dhbrandpr/jharkhand-engages-global-tech-leaders-to-drive-ai-led-governance-and-digital-transformation-4067448",
+      "source": "Deccan Herald",
+      "sourceType": "external",
+      "image": "https://media.assettype.com/deccanherald/2026-07-09/guage748/WhatsApp-Image-2026-07-09-at-11.16.49-AM.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "publishedAt": "2026-07-09T06:03:17.000Z",
       "topic": "Oracle Ecosystem",
+      "tags": [
+        "global technology leaders",
+        "digital public services",
+        "ai-led governance",
+        "e-governance",
+        "artificial intelligence",
+        "government innovation"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "7213f085d4074b0e",
+      "slug": "hemant-soren-engages-google-aws-and-oracle-to-build-an-ai-powered-jharkhand-975ec9",
+      "title": "Hemant Soren Engages Google, AWS And Oracle To Build An AI-Powered Jharkhand",
+      "dek": "Jharkhand Chief Minister Hemant Soren chaired a series of Business-to-Government meetings with global technology companies during the National Stakeholders Consultation on Vision 2050. The discussions brought together firms including Google, Oracle, Microsoft, IBM, AWS, and Salesforce, among others,",
+      "url": "https://news.abplive.com/cities/hemant-soren-engages-google-aws-and-oracle-to-build-an-ai-powered-jharkhand-1855373",
+      "source": "Abp News",
+      "sourceType": "external",
+      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/09/05/9f743b264c9fb464f2ed4de9d30cdc2b1725542380193926_original.jpg?impolicy=abp_cdn&imwidth=1200&height=675",
+      "publishedAt": "2026-07-09T05:21:18.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "cities",
+        "ai-led administration india",
+        "jharkhand tech consultation",
+        "jharkhand digital transformation",
+        "jharkhand vision 2050",
+        "cloud infrastructure jharkhand"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "80d75fa24584754a",
+      "slug": "comaps-and-the-right-to-fork-e4a3d7",
+      "title": "CoMaps and the right to fork",
+      "dek": "CoMaps, my favorite OpenStreetMap-based mobile app, is now one year old! This Google Maps alternative first became available on Google Play and the Apple App Store on July 3, 2025. What exactly is CoMaps? It is a free and offline map and navigation mobile app that is community-driven and privacy-fir",
+      "url": "https://technology.inquirer.net/147812/comaps-and-the-right-to-fork",
+      "source": "Inquirer",
+      "sourceType": "external",
+      "image": "https://technology.inquirer.net/files/2026/07/CoMaps-hero-banner.jpg",
+      "publishedAt": "2026-07-09T05:03:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 39
+    },
+    {
+      "id": "819a0eca267a1dfc",
+      "slug": "u-s-ambient-computing-market-poised-to-reach-usd-96-11-billion-by-2033-as-ai-powered-int-9288e7",
+      "title": "U.S. Ambient Computing Market Poised to Reach USD 96.11 Billion by 2033 as AI-Powered Intelligent Environments Reshape Digital Experiences",
+      "dek": "The growing adoption of edge AI, IoT ecosystems, neuromorphic computing, and context-aware technologies is accelerating the deployment of ambient computing solutions across the residential, commercial, healthcare, and industrial sectors. July 8, 2026 - The U.S. technology landscape is undergoing a m",
+      "url": "https://www.openpr.com/news/4572373/u-s-ambient-computing-market-poised-to-reach-usd-96-11-billion",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/7/L709968029_k.jpg",
+      "publishedAt": "2026-07-09T04:41:28.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
         "publicity",
         "pr",
@@ -244,121 +325,42 @@
         "pr strategy",
         "pr service"
       ],
-      "priority": 41
+      "priority": 39
     },
     {
-      "id": "cf9079e6f441df54",
-      "slug": "pbs-secures-10-year-central-america-bank-deal-339bd8",
-      "title": "PBS secures 10-year Central America bank deal",
+      "id": "0242963008fc0ff2",
+      "slug": "healthcare-supply-chain-management-market-size-share-growth-2034-f496b5",
+      "title": "Healthcare Supply Chain Management Market Size, Share, Growth, 2034",
+      "dek": "The healthcare supply chain management market size is projected to grow from $4.09 billion in 2026 to $5.9 billion by 2034, at a CAGR of 4.7% during the forecast period 2026-2034.",
+      "url": "https://straitsresearch.com/report/healthcare-supply-chain-management-market",
+      "source": "Straitsresearch",
+      "sourceType": "external",
+      "image": "https://straitsresearch.com/uploads/reports/1708438532-healthcare-supply-chain-management-market.jpg",
+      "publishedAt": "2026-07-09T00:00:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "healthcare supply chain management market research",
+        "healthcare supply chain management market trends",
+        "healthcare supply chain management market drivers",
+        "healthcare supply chain management market growth",
+        "healthcare supply chain management market share",
+        "healthcare supply chain management market size"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "3cda561f22380516",
+      "slug": "500-blog-posts-to-learn-about-api-d44369",
+      "title": "500 Blog Posts To Learn About Api",
       "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.jamaicaobserver.com/2026/07/08/pbs-secures-10-year-central-america-bank-deal/",
-      "source": "Jamaica Observer",
+      "url": "https://www.bundle.app/en/technology/500-blog-posts-to-learn-about-api-2151DE72-2CD6-402C-B6C5-D60E745C97D4",
+      "source": "Bundle",
       "sourceType": "external",
-      "image": "https://www.jamaicaobserver.com/jamaicaobserver/news/wp-content/uploads/sites/4/2026/07/1c16fca8d6a7c1ad9ffca9ba0a4647e8-1024x683.jpg",
-      "publishedAt": "2026-07-08T05:07:00.000Z",
+      "image": "https://static.bundle.app/news/4086fe83-ef8c-59cf-a2b9-c77c62434925.jpg",
+      "publishedAt": "2026-07-08T22:31:32.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [],
-      "priority": 40
-    },
-    {
-      "id": "4544ebd33078863a",
-      "slug": "redefining-scalable-ai-performance-oci-supercomputing-in-the-cloud-e49314",
-      "title": "Redefining Scalable AI Performance: OCI Supercomputing in the Cloud",
-      "dek": "Organizations building frontier AI models need infrastructure designed for performance at scale. This session shows how OCI combines AMD Instinct, AMD EPYC, and Pensando in Oracle Acceleron to enable ultra-low-latency networking for high-throughput distributed workloads, with practical guidance for ",
-      "url": "https://www.amd.com/en/corporate/events/advancing-ai/sessions-catalog/redefining-scalable-ai-performance--oci-supercomputing-in-the-cloud.html",
-      "source": "Advanced Micro Devices",
-      "sourceType": "external",
-      "image": "https://www.amd.com/content/dam/code/images/header/ogimage.jpg",
-      "publishedAt": "2026-07-08T04:19:11.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI",
-        "AI"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "5238896ad7f6c45c",
-      "slug": "unlocking-secure-enterprise-intelligence-at-scale-with-cisco-b32a35",
-      "title": "Unlocking Secure Enterprise Intelligence at Scale with Cisco",
-      "dek": "As organizations transition from AI experimentation to production-scale infrastructure, demand for high-performance compute must be matched by security and reliability. This session explores Cisco's vision for secure, high-performance AI environments and a framework for accelerating AI deployment wh",
-      "url": "https://www.amd.com/en/corporate/events/advancing-ai/sessions-catalog/unlocking-secure-enterprise-intelligence-at-scale-with-cisco.html",
-      "source": "Advanced Micro Devices",
-      "sourceType": "external",
-      "image": "https://www.amd.com/content/dam/code/images/header/ogimage.jpg",
-      "publishedAt": "2026-07-08T04:19:09.000Z",
-      "topic": "Security",
-      "tags": [
-        "Security",
-        "AI"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "ee75c9568c3cb029",
-      "slug": "dell-technologies-balancing-cpu-and-gpu-for-the-agentic-ai-era-879e20",
-      "title": "Dell Technologies: Balancing CPU and GPU for the Agentic AI Era",
-      "dek": "Agentic AI changes the infrastructure equation. These workloads plan, branch, call tools, retrieve data, manage long context, and re-plan in real time, creating far greater CPU demand than traditional GPU-heavy inference. In this Meet the Expert session, learn why balanced Dell PowerEdge platforms w",
-      "url": "https://www.amd.com/en/corporate/events/advancing-ai/sessions-catalog/dell-technologies--balancing-cpu-and-gpu-for-the-agentic-ai-era.html",
-      "source": "Advanced Micro Devices",
-      "sourceType": "external",
-      "image": "https://www.amd.com/content/dam/code/images/header/ogimage.jpg",
-      "publishedAt": "2026-07-08T04:19:02.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "14b3d39ab7b44b45",
-      "slug": "at-scale-agentic-rl-with-miles-6dae66",
-      "title": "At-Scale Agentic RL with Miles",
-      "dek": "An intermediate-to-advanced hands-on workshop on scalable RL training with MILES on AMD GPUs. Participants will learn how to deploy RL techniques such as GRPO, PPO, etc. The workshop also demonstrates multi-turn agentic RL training with mixed datasets like SWE Bench, Terminal bench etc. through a si",
-      "url": "https://www.amd.com/en/corporate/events/advancing-ai/sessions-catalog/at-scale-agentic-rl-with-miles-1.html",
-      "source": "Advanced Micro Devices",
-      "sourceType": "external",
-      "image": "https://www.amd.com/content/dam/code/images/header/ogimage.jpg",
-      "publishedAt": "2026-07-08T04:18:59.000Z",
-      "topic": "Training & Certification",
-      "tags": [],
-      "priority": 39
-    },
-    {
-      "id": "2528c70938924740",
-      "slug": "how-data-structures-for-financial-applications-works-a-guide-for-the-us-financial-market-cad121",
-      "title": "How Data Structures for Financial Applications Works: A Guide for the US Financial Market",
-      "dek": "Picture a US payments engineer at 2 a.m. trying to reconcile a 4 million row daily ledger against a custodian feed that arrived 90 seconds late. The query that decides whether she goes back to sleep or wakes a managing director is a tree walk over a B+ index. The data structure choice is the [...] R",
-      "url": "https://techbullion.com/data-structures-financial-apps-guide-usa-2026/",
-      "source": "Techbullion",
-      "sourceType": "external",
-      "image": "https://techbullion.com/wp-content/uploads/2026/07/761570-featured-1024x478.jpg",
-      "publishedAt": "2026-07-08T04:00:00.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "·fintech news",
-        "postgres",
-        "redis",
-        "fednow",
-        "data engineering"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "3cdc5e7a279948e9",
-      "slug": "oracle-stock-plummeted-by-25-in-the-first-half-of-2026-and-this-dire-ai-warning-might-be-f95c6a",
-      "title": "Oracle Stock Plummeted by 25% in the First Half of 2026, and This Dire AI Warning Might Be Why",
-      "dek": "Some of Oracle's biggest data center customers might be unable to meet their obligations.",
-      "url": "https://www.fool.com/investing/2026/07/07/oracle-stock-plummeted-by-25-in-the-first-half-of/",
-      "source": "Fool",
-      "sourceType": "external",
-      "image": "https://g.foolcdn.com/editorial/images/877465/the-oracle-logo-on-a-red-translucent-background.png",
-      "publishedAt": "2026-07-08T01:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "AI"
-      ],
-      "priority": 37
+      "priority": 36
     },
     {
       "id": "d6a53992d5b9b644",
