@@ -1,28 +1,11 @@
 {
-  "generatedAt": "2026-07-09T21:53:41.410Z",
+  "generatedAt": "2026-07-10T21:31:47.785Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
     "siteUrl": "https://oracle-university.com"
   },
   "items": [
-    {
-      "id": "0903c6aef3773a3c",
-      "slug": "scripting-js-and-python-with-project-detroit-with-mikael-vidstedt-ata-267c5c",
-      "title": "\"Scripting JS and Python with Project Detroit\" with Mikael Vidstedt [AtA]",
-      "dek": "OpenJDK recently resurrected Project Detroit, an effort to ease Java's interoperability with Python and JavaScript. Interestingly, while both integrations will work through the _java.scripting_ API, there are still differences between them. On top of that, the JavaScript integration needs to explain",
-      "url": "https://inside.java/2026/07/09/podcast-061/",
-      "source": "Inside Java",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/insidejava/2026-07-inside-java-podcast-61--mikael.mp3?dest-id=2318780",
-      "publishedAt": "2026-07-09T07:53:45.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "Java",
-        "OpenJDK"
-      ],
-      "priority": 54
-    },
     {
       "id": "f58466d207e1f5cc",
       "slug": "oracle-sets-the-date-for-its-fourth-quarter-fiscal-year-2026-earnings-announcement-3a2dd3",
@@ -72,135 +55,225 @@
       "priority": 46
     },
     {
-      "id": "804e1a2e03295f7e",
-      "slug": "uk-court-of-appeal-gives-microsoft-complaint-the-green-light-61da91",
-      "title": "UK Court of Appeal gives Microsoft complaint the green light",
-      "dek": "The ValueLicensing complaint against Microsoft is being upheld following a Court of Appeal ruling . The Court of Appeal unanimously upheld the Competition Appeal Tribunal’s (CAT) decisions in the pre-owned software reseller’s ongoing abuse of dominance competition law claim against Microsoft. The ap",
-      "url": "https://www.computerweekly.com/news/366645701/UK-Court-of-Appeal-gives-Microsoft-complaint-the-green-light",
-      "source": "Techtarget",
+      "id": "a911eb4ee51f000c",
+      "slug": "e-commerce-boom-fuels-generative-ai-adoption-in-retail-a-1-55-billion-market-by-2026-3df030",
+      "title": "E-commerce Boom Fuels Generative AI Adoption in Retail: A $1.55 Billion Market By 2026",
+      "dek": "The generative AI in retail market is expanding due to e-commerce growth, advancements in AI algorithms, and demand for personalized experiences. Key opportunities include enhanced customer service via AI virtual agents, efficient inventory management, and dynamic pricing optimization, particularly ",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/07/10/3325371/28124/en/E-commerce-Boom-Fuels-Generative-AI-Adoption-in-Retail-A-1-55-Billion-Market-By-2026.html",
+      "source": "Globenewswire_fr",
       "sourceType": "external",
-      "image": "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/traffic-lights-road-travel-monticellllo-adobe.jpg",
-      "publishedAt": "2026-07-09T09:32:00.000Z",
+      "image": "",
+      "publishedAt": "2026-07-10T09:29:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "AI"
+        "retail automation",
+        "retail",
+        "virtual agent",
+        "shopping mall",
+        "research and markets",
+        "virtual assistant"
       ],
       "priority": 43
     },
     {
-      "id": "6e3c31c1c3b2580c",
-      "slug": "btcs-inc-btcs-appoints-chris-janis-to-board-of-directors-0590fc",
-      "title": "BTCS Inc (BTCS) Appoints Chris Janis to Board of Directors",
-      "dek": "BTCS Inc. (NASDAQ:BTCS) is one of the 8 Best Crypto Penny Stocks to Buy Now. On July 1, 2026, BTCS Inc. (NASDAQ:BTCS) announced the appointment of Chris Janis to its Board of Directors. Janis was also appointed Chairperson of the Audit Committee and a member of the Compensation Committee. BTCS said ",
-      "url": "https://www.insidermonkey.com/blog/btcs-inc-btcs-appoints-chris-janis-to-board-of-directors-1798419/",
-      "source": "Insider Trading",
+      "id": "2a63ea39fed39922",
+      "slug": "generative-ai-in-hr-market-set-to-hit-1-7-billion-by-2030-with-17-8-cagr-growth-dc57cd",
+      "title": "Generative AI in HR Market Set to Hit $1.7 Billion by 2030 with 17.8% CAGR Growth",
+      "dek": "Opportunities in the generative AI HR market include AI-driven talent acquisition, predictive analytics for performance evaluation, and RPA for payroll automation. Key trends are automation, employee engagement chatbots, virtual reality training, and regional growth in Asia-Pacific, fostering innova",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/07/10/3325372/28124/en/Generative-AI-in-HR-Market-Set-to-Hit-1-7-Billion-by-2030-with-17-8-CAGR-Growth.html",
+      "source": "Globenewswire_fr",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/LwXLyAWthtln0Jw89w-gOoLOYc59s7zUiDSQ8M61QxY/resize:fit:1280:853:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2017/03/30173118/business-1850021_1280.jpg",
-      "publishedAt": "2026-07-09T09:29:23.000Z",
-      "topic": "Business & Earnings",
-      "tags": [],
+      "image": "",
+      "publishedAt": "2026-07-10T09:29:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "facial recognition",
+        "ai model",
+        "ai software",
+        "deep learning",
+        "research and markets",
+        "artificial intelligence"
+      ],
       "priority": 43
     },
     {
-      "id": "e0d1f06e89da8840",
-      "slug": "is-hyperscale-data-gpus-the-best-crypto-penny-stock-to-buy-now-d052ba",
-      "title": "Is Hyperscale Data (GPUS) the Best Crypto Penny Stock to Buy Now?",
-      "dek": "Hyperscale Data, Inc. (NYSEAMERICAN:GPUS) is one of the 8 Best Crypto Penny Stocks to Buy Now. On June 29, 2026, Hyperscale Data, Inc. (NYSEAMERICAN:GPUS) announced the establishment of a Michigan AI development reserve account. The dedicated capital reserve account targets approximately $120M to su",
-      "url": "https://www.insidermonkey.com/blog/is-hyperscale-data-gpus-the-best-crypto-penny-stock-to-buy-now-1798425/",
-      "source": "Insider Trading",
+      "id": "1e5ccdb610c03864",
+      "slug": "christopher-wood-warns-of-ai-fatigue-why-jefferies-is-turning-to-india-and-china-e1d073",
+      "title": "Christopher Wood warns of AI fatigue. Why Jefferies is turning to India and China",
+      "dek": "Christopher Wood of Jefferies warns that the AI trade is showing signs of fatigue as investors seek cheaper value opportunities. With India and China positioned to benefit from a rotation away from crowded AI winners, Wood believes picks-and-shovels companies will continue to outperform amid massive",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/christopher-wood-warns-of-ai-fatigue-why-jefferies-is-turning-to-india-and-china/articleshow/132308164.cms",
+      "source": "The Economic Times",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/hEM39mm-ImnlJ4Av5xhh9xSvaYm4lE8Q6dhlrOQKP6s/resize:fit:1280:851:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2021/05/04112714/laptop-2589420_1280.jpg",
-      "publishedAt": "2026-07-09T09:28:43.000Z",
+      "image": "https://img.etimg.com/thumb/msid-132308164,resizemode-4,width-1200,height-900,imgsize-49112,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-10T09:25:52.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "AI"
+        "china equities",
+        "christopher wood jefferies",
+        "ai fatigue",
+        "ai trade rotation",
+        "jefferies greed & fear",
+        "india stock market outlook"
       ],
       "priority": 43
     },
     {
-      "id": "30698c7b0e9d6d9d",
-      "slug": "aigh-capital-management-llc-purchases-shares-of-758-328-biodesix-inc-bdsx-1cc734",
-      "title": "AIGH Capital Management LLC Purchases Shares of 758,328 Biodesix, Inc. $BDSX",
-      "dek": "AIGH Capital Management LLC acquired a new position in shares of Biodesix, Inc. (NASDAQ:BDSX – Free Report) in the first quarter, Holdings Channel.com reports. The institutional investor acquired 758,328 shares of the company’s stock, valued at approximately $10,996,000. Biodesix accounts for approx",
-      "url": "https://baseballnewssource.com/2026/07/09/aigh-capital-management-llc-purchases-shares-of-758328-biodesix-inc-bdsx/11179639.html",
-      "source": "Bbns",
+      "id": "9ee82fb617a91e27",
+      "slug": "ambient-clinical-intelligence-market-surges-as-voice-ai-reduces-physician-burnout-and-st-e1e234",
+      "title": "Ambient Clinical Intelligence Market Surges as Voice AI Reduces Physician Burnout and Streamlines Clinical Documentation",
+      "dek": "The Global Ambient Clinical Intelligence (Voice AI for EHR) Market reached US$ 1.92 billion in 2024, rose to US$ 2.34 billion in 2025, and is expected to reach US$ 11.58 billion by 2033. Growth is driven by increasing adoption of",
+      "url": "https://www.openpr.com/news/4573633/ambient-clinical-intelligence-market-surges-as-voice-ai-reduces",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/biodesix-inc-logo-1200x675.png?v=20240523094005",
-      "publishedAt": "2026-07-09T09:11:01.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "hedge fund holdings",
-        "nasdaq:bdsx",
-        "biodesix",
-        "medical",
-        "13f",
-        "bdsx"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "b1bd068662a5883c",
-      "slug": "treat-ai-like-electricity-not-a-killer-app-3a06dd",
-      "title": "Treat AI like electricity, not a killer app",
-      "dek": "It's rare AI news that doesn't land one of two ways: either we're all screwed, or we're on the verge of thoughtfully managed intelligence that’ll usher in an idyllic existence for all. It’s attractive to simplify things like that, but the important truth is, as usual, hovering in the middle. The doo",
-      "url": "https://www.computerweekly.com/opinion/Treat-AI-like-electricity-not-a-killer-app",
-      "source": "Techtarget",
-      "sourceType": "external",
-      "image": "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/AI-power-human-impact-smartboy10-Getty-RF-hero.jpg",
-      "publishedAt": "2026-07-09T08:42:00.000Z",
+      "image": "https://cdn.open-pr.com/L/7/L710528954_k.jpg",
+      "publishedAt": "2026-07-10T09:12:16.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "Security",
-        "AI"
+        "pr service",
+        "public relations",
+        "presses release",
+        "advertising",
+        "pr",
+        "pr marketing"
       ],
-      "priority": 42
+      "priority": 43
     },
     {
-      "id": "c396d9739afa11ee",
-      "slug": "promising-blockchain-stocks-to-research-july-8th-1aaed1",
-      "title": "Promising Blockchain Stocks To Research – July 8th",
-      "dek": "Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Globant, Digi Power X, RTB Digital, Inc. Common Stock, and Mercurity Fintech are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. “Blockchain stocks” are shares of publicly traded comp",
-      "url": "https://www.americanbankingnews.com/2026/07/09/promising-blockchain-stocks-to-research-july-8th.html",
+      "id": "98cbe7a0afd2c023",
+      "slug": "top-10-ai-companies-building-financial-digital-twins-643cbf",
+      "title": "Top 10 AI Companies Building Financial Digital Twins",
+      "dek": "Digital twins have existed for a long time and are linked to manufacturing facilities, aircraft engines, and smart cities. A virtual model is built by engineers to simulate a physical system to predict failure and optimise the system’s performance without changing the physical system. This idea is n",
+      "url": "https://mpost.io/top-10-ai-companies-building-financial-digital-twins/",
+      "source": "Metaverse Post",
+      "sourceType": "external",
+      "image": "https://mpost.io/wp-content/uploads/IMG_8571-2.jpg",
+      "publishedAt": "2026-07-10T09:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "blockchain",
+        "crypto",
+        "cryptocurrency"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "8e04efc371072376",
+      "slug": "enterprise-ai-agent-adoption-market-driven-by-workflow-automation-and-generative-ai-inno-7950b0",
+      "title": "Enterprise AI Agent Adoption Market Driven by Workflow Automation and Generative AI Innovation",
+      "dek": "The Global Enterprise AI Agent Adoption Market reached US$ 6.65 billion in 2025 and is expected to reach US$ 142.35 billion by 2035, growing with a CAGR of 36.9% during the forecast period 2026-2035. Growth is driven by increasing demand",
+      "url": "https://www.openpr.com/news/4573617/enterprise-ai-agent-adoption-market-driven-by-workflow",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/7/L710508316_k.jpg",
+      "publishedAt": "2026-07-10T08:57:17.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "pr service",
+        "public relations",
+        "presses release",
+        "advertising",
+        "pr",
+        "pr marketing"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "7b2e3c26290f7364",
+      "slug": "thisam-2026-marks-decade-of-global-media-dialogue-with-ai-trust-and-journalism-at-the-fo-a00f71",
+      "title": "THISAM 2026 Marks Decade of Global Media Dialogue with AI, Trust and Journalism at the Forefront",
+      "dek": "THISAM 2026 celebrated its tenth anniversary by expanding to Kastoria and bringing together media professionals from 19 countries to examine artificial intelligence, journalism, media literacy, audience attention, ethics, misinformation and democratic trust. The academy explored how technology is re",
+      "url": "https://www.aryanage.com/article/40957/at-10--a-media-academy-leaves-home---and-asks-what-s-left-to-fight-for-in-journalism",
+      "source": "Aryan Age",
+      "sourceType": "external",
+      "image": "https://www.aryanage.com/media/2026-07/36145_thisam.jpg",
+      "publishedAt": "2026-07-10T08:50:21.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "ef42c9afcbffa99a",
+      "slug": "top-blockchain-stocks-worth-watching-july-9th-2f4c7c",
+      "title": "Top Blockchain Stocks Worth Watching – July 9th",
+      "dek": "Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Globant, Digi Power X, RTB Digital, Inc. Common Stock, and Mercurity Fintech are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded compan",
+      "url": "https://www.americanbankingnews.com/2026/07/10/top-blockchain-stocks-worth-watching-july-9th.html",
       "source": "Americanbankingnews",
       "sourceType": "external",
       "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
-      "publishedAt": "2026-07-09T08:32:57.000Z",
+      "publishedAt": "2026-07-10T08:18:47.000Z",
       "topic": "Business & Earnings",
       "tags": [],
       "priority": 42
     },
     {
-      "id": "2e6cedbf7e50a03d",
-      "slug": "wrongly-paid-service-tax-cannot-be-taken-as-cenvat-credit-suo-moto-can-only-seek-refund--a1a130",
-      "title": "Wrongly Paid Service Tax cannot be taken as CENVAT Credit Suo Moto, Can Only seek Refund: Madras HC [Read Order]",
-      "dek": "Proper procedure is to seek refund of the excess tax paid. The remedy is to file a refund claim under Section 11-B of the Central Excise Act, 1944, not taking suo moto credit, observed the bench.",
-      "url": "https://www.taxscan.in/top-stories/wrongly-paid-service-tax-cannot-be-taken-as-cenvat-credit-suo-moto-can-only-seek-refund-madras-hc-1448750",
-      "source": "Taxscan",
-      "sourceType": "external",
-      "image": "https://images.taxscan.in/h-upload/2026/07/09/2142896-madras-hc-refund-not-suo-moto-cenvat-credit-taxscan.webp",
-      "publishedAt": "2026-07-09T07:41:48.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "madras high court",
-        "excess tax paid",
-        "no self credit",
-        "important judgment",
-        "no suo moto credit",
-        "cenvat credit"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "7aac1ee17b657fdf",
-      "slug": "ai-data-center-liquid-cooling-market-project-pipeline-intelligence-report-2026-2032-5735ac",
-      "title": "AI Data Center Liquid Cooling Market & Project Pipeline Intelligence Report 2026- 2032",
-      "dek": "We have recently published Global AI Data Center Project Tracker & Liquid Cooling Intelligence Database (2026-2032). Our report includes intelligence database tracks 500+ existing, under-construction, and planned AI-ready data center projects across North America, Europe, the Middle East, Asia-Pacif",
-      "url": "https://www.openpr.com/news/4571777/ai-data-center-liquid-cooling-market-project-pipeline",
+      "id": "0a82843a9be430b0",
+      "slug": "global-ai-liquid-cooling-infrastructure-intelligence-market-trends-forecasts-upto-2040-ba3b2a",
+      "title": "Global AI Liquid Cooling Infrastructure Intelligence Market Trends & Forecasts Upto 2040",
+      "dek": "Artificial Intelligence is creating the biggest transformation in data center cooling since the invention of the computer room air conditioner. Traditional air-cooling technologies that have powered enterprise servers and cloud infrastructure for decades are approaching their technical and economic ",
+      "url": "https://www.openpr.com/news/4573430/global-ai-liquid-cooling-infrastructure-intelligence-market",
       "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/7/L708828798_k.jpg",
-      "publishedAt": "2026-07-09T07:41:17.000Z",
-      "topic": "AI & Database",
+      "image": "https://cdn.open-pr.com/L/7/L710862181_k.jpg",
+      "publishedAt": "2026-07-10T07:45:19.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "pr service",
+        "public relations",
+        "presses release",
+        "advertising",
+        "pr",
+        "pr marketing"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "55cd4a3519334732",
+      "slug": "uk-to-regulate-cloud-service-providers-microsoft-google-and-others-to-protect-financial--41aab0",
+      "title": "UK to regulate cloud service providers Microsoft, Google and others to protect financial stability",
+      "dek": "The move aims to strengthen financial firms by reducing cyber attack and technology outage risks",
+      "url": "https://tribune.com.pk/story/2617528/uk-to-regulate-cloud-service-providers-microsoft-google-and-others-to-protect-financial-stability",
+      "source": "The Express Tribune",
+      "sourceType": "external",
+      "image": "https://i.tribune.com.pk/media/images/google-building-r1783687717-0/google-building-r1783687717-0-640x480.webp",
+      "publishedAt": "2026-07-10T07:42:27.000Z",
+      "topic": "Security",
+      "tags": [
+        "google and others to protect financial stability",
+        "latest",
+        "uk to regulate cloud service providers microsoft"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "0903c6aef3773a3c",
+      "slug": "scripting-js-and-python-with-project-detroit-with-mikael-vidstedt-ata-267c5c",
+      "title": "\"Scripting JS and Python with Project Detroit\" with Mikael Vidstedt [AtA]",
+      "dek": "OpenJDK recently resurrected Project Detroit, an effort to ease Java's interoperability with Python and JavaScript. Interestingly, while both integrations will work through the _java.scripting_ API, there are still differences between them. On top of that, the JavaScript integration needs to explain",
+      "url": "https://inside.java/2026/07/09/podcast-061/",
+      "source": "Inside Java",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/insidejava/2026-07-inside-java-podcast-61--mikael.mp3?dest-id=2318780",
+      "publishedAt": "2026-07-09T07:53:45.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "Java",
+        "OpenJDK"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "fdd8250e2d82c46c",
+      "slug": "next-gen-cloud-3-0-infrastructure-market-to-reach-us-408-54-billion-by-2035-amid-ai-driv-e38913",
+      "title": "Next-Gen Cloud 3.0 Infrastructure Market to Reach US$ 408.54 Billion by 2035 Amid AI-Driven Cloud Infrastructure Trend, North America Holds 36% Share, AWS, Microsoft & Google Cloud Lead",
+      "dek": "DataM Intelligence has released a new research report titled \"Next-Gen Cloud 3.0 Infrastructure Market Size 2026.\" The report delivers in-depth insights into key market dynamics, including regional growth trends, market segmentation, CAGR projections, and the revenue performance of leading industry",
+      "url": "https://www.openpr.com/news/4573508/next-gen-cloud-3-0-infrastructure-market-to-reach-us-408-54",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/7/L710616143_k.jpg",
+      "publishedAt": "2026-07-10T06:53:50.000Z",
+      "topic": "Oracle Cloud",
       "tags": [
         "pr service",
         "public relations",
@@ -212,155 +285,164 @@
       "priority": 41
     },
     {
-      "id": "1cf39affc36b7ce1",
-      "slug": "farmers-merchants-trust-co-of-chambersburg-pa-buys-5-296-shares-of-oracle-corporation-or-db5f2b",
-      "title": "Farmers & Merchants Trust Co of Chambersburg PA Buys 5,296 Shares of Oracle Corporation $ORCL",
-      "dek": "Farmers & Merchants Trust Co of Chambersburg PA raised its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 30.4% in the 1st quarter, according to the company in its most recent filing with the Securities and Exchange Commission (SEC). The firm owned 22,713 shares of the enterprise software ",
-      "url": "https://www.americanbankingnews.com/2026/07/09/farmers-merchants-trust-co-of-chambersburg-pa-buys-5296-shares-of-oracle-corporation-orcl.html",
-      "source": "Americanbankingnews",
+      "id": "1b04c0e30ea6944f",
+      "slug": "tcs-begins-fy27-with-continued-growth-wins-multiple-ai-transformation-deals-2a0ade",
+      "title": "TCS begins FY27 with continued growth; wins multiple AI transformation deals",
+      "dek": "Tata Consultancy Services reported its consolidated financial results according to IFRS, for the quarter ending June 30, 2026. Highlights of the Quarter Ended June 30, 2026 Revenue at US$ 7,624 million, Flat QoQ, +2.7% YoY Operating Margin at 24.0% * Net Income at US$ 1,460 million *| Net Margin at ",
+      "url": "https://smestreet.in/infocus/tcs-begins-fy27-with-continued-growth-wins-multiple-ai-transformation-deals-12150827",
+      "source": "Smestreet In",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-07-09T07:35:02.000Z",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/smstreet/media/media_files/ZAaf41Ol5fNUcezNI2xq.jpg",
+      "publishedAt": "2026-07-10T05:53:37.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "hedge fund holdings",
-        "sec filings",
-        "68389x10",
-        "nyse:orcl",
-        "13f",
-        "oracle"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "f226a40d12a70099",
-      "slug": "one-interface-isn-t-enough-for-enterprise-ai-9012c1",
-      "title": "One interface isn't enough for enterprise AI",
-      "dek": "Presented by Oracle NetSuite Every major technology transition produces a set of assumptions about where the market is headed. The assumptions are often directionally correct, but they tend to underestimate the degree to which organizations adapt new technologies to their own circumstances. AI is fo",
-      "url": "https://venturebeat.com/orchestration/one-interface-isnt-enough-for-enterprise-ai",
-      "source": "Venturebeat",
-      "sourceType": "external",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/4x9dSPxassUF3IWNIitCAe/45be20ce213185ce3def62a788fc6286/VBImage.jpg?w=300&q=30",
-      "publishedAt": "2026-07-09T07:00:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "NetSuite",
-        "Security",
-        "AI"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "1a76a6d3b0f2bc83",
-      "slug": "jharkhand-engages-global-tech-leaders-to-drive-ai-led-governance-and-digital-transformat-6847b1",
-      "title": "Jharkhand Engages Global Tech Leaders to Drive AI-Led Governance and Digital Transformation",
-      "dek": "Jharkhand Engages Global Tech Leaders to Drive AI-Led Governance and Digital Transformation",
-      "url": "https://www.deccanherald.com/dhbrandpr/jharkhand-engages-global-tech-leaders-to-drive-ai-led-governance-and-digital-transformation-4067448",
-      "source": "Deccan Herald",
-      "sourceType": "external",
-      "image": "https://media.assettype.com/deccanherald/2026-07-09/guage748/WhatsApp-Image-2026-07-09-at-11.16.49-AM.jpeg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "publishedAt": "2026-07-09T06:03:17.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "global technology leaders",
-        "digital public services",
-        "ai-led governance",
-        "e-governance",
-        "artificial intelligence",
-        "government innovation"
+        "ai",
+        "tata consultancy services",
+        "tcs"
       ],
       "priority": 40
     },
     {
-      "id": "7213f085d4074b0e",
-      "slug": "hemant-soren-engages-google-aws-and-oracle-to-build-an-ai-powered-jharkhand-975ec9",
-      "title": "Hemant Soren Engages Google, AWS And Oracle To Build An AI-Powered Jharkhand",
-      "dek": "Jharkhand Chief Minister Hemant Soren chaired a series of Business-to-Government meetings with global technology companies during the National Stakeholders Consultation on Vision 2050. The discussions brought together firms including Google, Oracle, Microsoft, IBM, AWS, and Salesforce, among others,",
-      "url": "https://news.abplive.com/cities/hemant-soren-engages-google-aws-and-oracle-to-build-an-ai-powered-jharkhand-1855373",
-      "source": "Abp News",
-      "sourceType": "external",
-      "image": "https://feeds.abplive.com/onecms/images/uploaded-images/2024/09/05/9f743b264c9fb464f2ed4de9d30cdc2b1725542380193926_original.jpg?impolicy=abp_cdn&imwidth=1200&height=675",
-      "publishedAt": "2026-07-09T05:21:18.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "cities",
-        "ai-led administration india",
-        "jharkhand tech consultation",
-        "jharkhand digital transformation",
-        "jharkhand vision 2050",
-        "cloud infrastructure jharkhand"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "80d75fa24584754a",
-      "slug": "comaps-and-the-right-to-fork-e4a3d7",
-      "title": "CoMaps and the right to fork",
-      "dek": "CoMaps, my favorite OpenStreetMap-based mobile app, is now one year old! This Google Maps alternative first became available on Google Play and the Apple App Store on July 3, 2025. What exactly is CoMaps? It is a free and offline map and navigation mobile app that is community-driven and privacy-fir",
-      "url": "https://technology.inquirer.net/147812/comaps-and-the-right-to-fork",
-      "source": "Inquirer",
-      "sourceType": "external",
-      "image": "https://technology.inquirer.net/files/2026/07/CoMaps-hero-banner.jpg",
-      "publishedAt": "2026-07-09T05:03:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 39
-    },
-    {
-      "id": "819a0eca267a1dfc",
-      "slug": "u-s-ambient-computing-market-poised-to-reach-usd-96-11-billion-by-2033-as-ai-powered-int-9288e7",
-      "title": "U.S. Ambient Computing Market Poised to Reach USD 96.11 Billion by 2033 as AI-Powered Intelligent Environments Reshape Digital Experiences",
-      "dek": "The growing adoption of edge AI, IoT ecosystems, neuromorphic computing, and context-aware technologies is accelerating the deployment of ambient computing solutions across the residential, commercial, healthcare, and industrial sectors. July 8, 2026 - The U.S. technology landscape is undergoing a m",
-      "url": "https://www.openpr.com/news/4572373/u-s-ambient-computing-market-poised-to-reach-usd-96-11-billion",
+      "id": "ff592a809d2cc42c",
+      "slug": "u-s-smart-hospitals-market-to-reach-us-119-9-billion-by-2033-driven-by-ai-and-iot-digita-562e62",
+      "title": "U.S. Smart Hospitals Market to Reach US$ 119.9 Billion by 2033 Driven by AI and IoT Digital Transformation Trends with Hardware Holding 45% Share Led by Honeywell Siemens Healthineers and Philips",
+      "dek": "The U.S. Smart Hospitals Market reached US$ 19.39 Billion in 2024, rising to US$ 23.09 Billion in 2025 and is expected to reach US$ 119.9 Billion by 2033, growing at a CAGR of 23.3% from 2026 to 2033., driven by",
+      "url": "https://www.openpr.com/news/4573469/u-s-smart-hospitals-market-to-reach-us-119-9-billion-by-2033",
       "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/7/L709968029_k.jpg",
-      "publishedAt": "2026-07-09T04:41:28.000Z",
+      "image": "https://cdn.open-pr.com/L/7/L710442684_k.jpg",
+      "publishedAt": "2026-07-10T05:53:34.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "publicity",
-        "pr",
+        "pr service",
+        "public relations",
         "presses release",
-        "pr marketing",
-        "pr strategy",
-        "pr service"
+        "advertising",
+        "pr",
+        "pr marketing"
       ],
-      "priority": 39
+      "priority": 40
     },
     {
-      "id": "0242963008fc0ff2",
-      "slug": "healthcare-supply-chain-management-market-size-share-growth-2034-f496b5",
-      "title": "Healthcare Supply Chain Management Market Size, Share, Growth, 2034",
-      "dek": "The healthcare supply chain management market size is projected to grow from $4.09 billion in 2026 to $5.9 billion by 2034, at a CAGR of 4.7% during the forecast period 2026-2034.",
-      "url": "https://straitsresearch.com/report/healthcare-supply-chain-management-market",
-      "source": "Straitsresearch",
+      "id": "1e94723cbc25100e",
+      "slug": "tcs-ai-revenue-run-rate-hits-2-6-billion-as-enterprise-deals-widen-5c33de",
+      "title": "TCS AI Revenue Run Rate Hits $2.6 Billion as Enterprise Deals Widen",
+      "dek": "India’s largest IT services company reported a 13.6% sequential rise in annualized AI revenue, helped by an $800 million SKF contract, new model partnerships and demand for AI-led operations work The post TCS AI Revenue Run Rate Hits $2.6 Billion as Enterprise Deals Widen appeared first on MIT Sloan",
+      "url": "https://mitsloanindia.com/article/tcs-ai-revenue-run-rate-hits-2-6-billion-as-enterprise-deals-widen",
+      "source": "Mit Sloan Management Review India",
       "sourceType": "external",
-      "image": "https://straitsresearch.com/uploads/reports/1708438532-healthcare-supply-chain-management-market.jpg",
-      "publishedAt": "2026-07-09T00:00:00.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://mitsloanindia.com/wp-content/uploads/2026/06/TCS.jpg.jpeg",
+      "publishedAt": "2026-07-10T05:08:41.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "healthcare supply chain management market research",
-        "healthcare supply chain management market trends",
-        "healthcare supply chain management market drivers",
-        "healthcare supply chain management market growth",
-        "healthcare supply chain management market share",
-        "healthcare supply chain management market size"
+        "arthur mensch",
+        "ai",
+        "k krithivasan",
+        "tata consultancy services ltd",
+        "tcs",
+        "rickard gustafson"
       ],
-      "priority": 36
+      "priority": 40
     },
     {
-      "id": "3cda561f22380516",
-      "slug": "500-blog-posts-to-learn-about-api-d44369",
-      "title": "500 Blog Posts To Learn About Api",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/technology/500-blog-posts-to-learn-about-api-2151DE72-2CD6-402C-B6C5-D60E745C97D4",
-      "source": "Bundle",
+      "id": "9585a6d7ee18012e",
+      "slug": "class-action-investigation-launched-following-assuranceamerica-data-breach-eed24b",
+      "title": "Class action investigation launched following AssuranceAmerica data breach",
+      "dek": "The MGA's phishing-driven breach exposed Social Security numbers and driver's license data",
+      "url": "https://www.insurancebusinessmag.com/us/news/cyber/class-action-investigation-launched-following-assuranceamerica-data-breach-581930.aspx",
+      "source": "Insurance Business",
       "sourceType": "external",
-      "image": "https://static.bundle.app/news/4086fe83-ef8c-59cf-a2b9-c77c62434925.jpg",
-      "publishedAt": "2026-07-08T22:31:32.000Z",
+      "image": "https://cdn-res.keymedia.com/cms/images/us/003/0382_639192557381869970.png",
+      "publishedAt": "2026-07-10T03:01:08.000Z",
+      "topic": "Security",
+      "tags": [
+        "data breach",
+        "assuranceamerica",
+        "metered",
+        "class action"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "27bee3d82c0ddc97",
+      "slug": "microsoft-warns-customers-ai-will-mean-busier-patch-tuesdays-19aa7b",
+      "title": "Microsoft warns customers AI will mean busier Patch Tuesdays",
+      "dek": "More patches mean more reasons to buy Redmond’s auto-patching tools",
+      "url": "https://www.theregister.com/security/2026/07/10/microsoft-warns-customers-ai-will-mean-busier-patch-tuesdays/5269618",
+      "source": "The Register",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-07-10T01:56:29.000Z",
       "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
+      "tags": [
+        "microsoft",
+        "oracle",
+        "patch tuesday",
+        "windows",
+        "security",
+        "ai and ml"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "f80fd5e46537adbf",
+      "slug": "database-systems-for-finance-in-america-use-cases-benefits-risks-and-long-term-opportuni-11c53a",
+      "title": "Database Systems for Finance in America: Use Cases, Benefits, Risks, and Long-Term Opportunities",
+      "dek": "Inside a Capital One data center in Virginia, a single PostgreSQL cluster reconciles roughly 100 million card transactions every business day, with the ledger settling before East Coast traders pour their second coffee. American finance now runs on databases the way it once ran on paper, and the sys",
+      "url": "https://techbullion.com/database-systems-for-finance-america-use-cases-benefits-risks-2026/",
+      "source": "Techbullion",
+      "sourceType": "external",
+      "image": "https://techbullion.com/wp-content/uploads/2026/07/761872-featured-1024x478.jpg",
+      "publishedAt": "2026-07-10T01:30:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "databases",
+        "federal reserve",
+        "cloud computing",
+        "·fintech news",
+        "data infrastructure"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "0d8708381214fd87",
+      "slug": "how-database-systems-for-finance-works-a-guide-for-the-us-financial-market-af9a31",
+      "title": "How Database Systems for Finance Works: A Guide for the US Financial Market",
+      "dek": "On a Thursday night in March 2025, a JPMorgan SRE watched a deliberately staged failover move a 9-petabyte deposit ledger from one Db2 z/OS LPAR to a hot standby in under 90 seconds, with no committed transactions lost. That single test, run by a team of fourteen engineers, was more demanding than m",
+      "url": "https://techbullion.com/financial-database-guide-us-financial-market-2026/",
+      "source": "Techbullion",
+      "sourceType": "external",
+      "image": "https://techbullion.com/wp-content/uploads/2026/07/761869-featured-1024x478.jpg",
+      "publishedAt": "2026-07-10T01:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "postgres",
+        "cloud computing",
+        "·fintech news",
+        "database",
+        "banking technology"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "70c11dfff053cff5",
+      "slug": "database-systems-for-finance-explained-what-it-means-for-consumers-and-businesses-in-the-447327",
+      "title": "Database Systems for Finance Explained: What It Means for Consumers and Businesses in the USA",
+      "dek": "When a Capital One customer in Atlanta swipes a credit card at a coffee shop, the merchant sees an approval in roughly 800 milliseconds. Somewhere in that window, a database in a Virginia data center has read the account, checked balance and fraud signals, written a hold, and replied. That single ap",
+      "url": "https://techbullion.com/financial-database-systems-usa-explained-2026-2/",
+      "source": "Techbullion",
+      "sourceType": "external",
+      "image": "https://techbullion.com/wp-content/uploads/2026/07/761866-featured-1024x478.jpg",
+      "publishedAt": "2026-07-10T00:30:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "data privacy",
+        "cloud computing",
+        "·fintech news",
+        "database",
+        "banking technology"
+      ],
+      "priority": 37
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1952,55 +2034,6 @@
       "publishedAt": "2024-07-23T14:00:00.000Z",
       "topic": "AI & Database",
       "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "f046bd97147c0cf8",
-      "slug": "container-engine-for-kubernetes-security-practices-26ab8f",
-      "title": "Container Engine for Kubernetes: Security Practices",
-      "dek": "In the season's final episode, hosts Lois Houston and Nikita Abraham interview senior OCI instructor Mahendra Mehra about the security practices that are vital for OKE clusters on OCI. Mahendra shares his expert insights on the importance of Kubernetes security, especially in today's digital landsca",
-      "url": "https://oracleuniversitypodcast.libsyn.com/container-engine-for-kubernetes-security-practices",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP7.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-16T14:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "OCI",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "be8b92279cd0831f",
-      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
-      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-09T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "d38db88cd3fd3cc0",
-      "slug": "working-with-oke-virtual-nodes-f5a370",
-      "title": "Working with OKE Virtual Nodes",
-      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-02T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
       "priority": 36
     }
   ]
