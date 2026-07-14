@@ -6,7 +6,7 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jul 2026 21:26:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 21:27:49 GMT</lastBuildDate>
     
     <item>
       <title>Oracle Sets the Date for its Fourth Quarter Fiscal Year 2026 Earnings Announcement</title>
@@ -36,112 +36,157 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-Second-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>ZAN Node Is the World&#39;s Fastest Web3 Node Provider, Covering Ethereum, Solana, Base, Polygon, and 47+ Networks</title>
-      <link>https://oracle-university.com/stories/zan-node-is-the-world-s-fastest-web3-node-provider-covering-ethereum-solana-base-polygon-2cfc25/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/zan-node-is-the-world-s-fastest-web3-node-provider-covering-ethereum-solana-base-polygon-2cfc25/</guid>
-      <pubDate>Mon, 13 Jul 2026 08:58:38 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Redefining Multi-Chain Speed: Overcoming Web3 Latency Barriers How many seconds do decentralized applications lose when users trigger smart contracts during peak network traffic? Why do standard remote procedure call (RPC) requests frequently encounter synchronization lag when simultaneously queryin</description>
-      <source url="https://www.openpr.com/news/4575069/zan-node-is-the-world-s-fastest-web3-node-provider-covering">Openpr.com</source>
-    </item>
-    <item>
-      <title>IBM AS400 Life Asia Application Continues to Drive Enterprise Digital Transformation</title>
-      <link>https://oracle-university.com/stories/ibm-as400-life-asia-application-continues-to-drive-enterprise-digital-transformation-487aec/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ibm-as400-life-asia-application-continues-to-drive-enterprise-digital-transformation-487aec/</guid>
-      <pubDate>Mon, 13 Jul 2026 08:07:59 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Digital transformation has become a strategic priority for organizations seeking to improve operational efficiency, enhance customer experiences, and remain competitive in today&#39;s fast-changing business environment. While many businesses are adopting cloud computing, artificial intelligence, and aut</description>
-      <source url="http://prsync.com/multisoft-systems/ibm-as-life-asia-application-continues-to-drive-enterprise-digital-transformation-5191633/">prsync</source>
-    </item>
-    <item>
-      <title>Exploring the Rapid Growth of the Generative AI in Automation Market: A Deep Dive into Trends and Projections</title>
-      <link>https://oracle-university.com/stories/exploring-the-rapid-growth-of-the-generative-ai-in-automation-market-a-deep-dive-into-tr-cb8c24/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/exploring-the-rapid-growth-of-the-generative-ai-in-automation-market-a-deep-dive-into-tr-cb8c24/</guid>
-      <pubDate>Mon, 13 Jul 2026 08:03:00 GMT</pubDate>
+      <title>&quot;Decrepit, disconnected, and directionless,&quot; we spoke to Ed Zitron on Microsoft&#39;s chances in the artificial intelligence biz — and whether or not the AI &#39;bubble&#39; is primed to implode</title>
+      <link>https://oracle-university.com/stories/decrepit-disconnected-and-directionless-we-spoke-to-ed-zitron-on-microsoft-s-chances-in--60335b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/decrepit-disconnected-and-directionless-we-spoke-to-ed-zitron-on-microsoft-s-chances-in--60335b/</guid>
+      <pubDate>Tue, 14 Jul 2026 09:17:29 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Key opportunities in the generative AI in automation market include advancements in autonomous systems, predictive maintenance, smart factories, and intelligent RPA. Growth is fueled by AI&#39;s integration in robotics and workflow optimization, with North America leading in 2025 and Asia-Pacific as the</description>
-      <source url="https://www.globenewswire.com/fr/news-release/2026/07/13/3325943/28124/en/Exploring-the-Rapid-Growth-of-the-Generative-AI-in-Automation-Market-A-Deep-Dive-into-Trends-and-Projections.html">Globenewswire_fr</source>
+      <description>Journalist Ed Zitron of the &#39;Better Offline Podcast&#39; and &#39;Where&#39;s Your Ed At&#39; newsletter offered us a scathing take on Microsoft&#39;s chances in the AI race.</description>
+      <source url="https://www.windowscentral.com/artificial-intelligence/ed-zitron-on-microsoft-ai-and-the-big-bubble">Windows Central</source>
     </item>
     <item>
-      <title>Carnegie Investment Counsel Raises Stock Holdings in Oracle Corporation $ORCL</title>
-      <link>https://oracle-university.com/stories/carnegie-investment-counsel-raises-stock-holdings-in-oracle-corporation-orcl-dba3bd/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/carnegie-investment-counsel-raises-stock-holdings-in-oracle-corporation-orcl-dba3bd/</guid>
-      <pubDate>Mon, 13 Jul 2026 07:59:18 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Carnegie Investment Counsel raised its holdings in Oracle Corporation (NYSE:ORCL – Free Report) by 25.7% during the 1st quarter, Holdings Channel reports. The firm owned 50,126 shares of the enterprise software provider’s stock after buying an additional 10,246 shares during the quarter. Carnegie In</description>
-      <source url="https://www.tickerreport.com/banking-finance/13502056/carnegie-investment-counsel-raises-stock-holdings-in-oracle-corporation-orcl.html">Ticker Report</source>
+      <title>Your vendor knows where your data lives. Do you?</title>
+      <link>https://oracle-university.com/stories/your-vendor-knows-where-your-data-lives-do-you-c69339/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/your-vendor-knows-where-your-data-lives-do-you-c69339/</guid>
+      <pubDate>Tue, 14 Jul 2026 09:08:00 GMT</pubDate>
+      <category>Security</category>
+      <description>Many South African companies have no clear picture of where their data lives, which jurisdiction governs it or what happens if something goes wrong, says Richard Frost, head of technology solutions and consulting at Armata Cyber Security.</description>
+      <source url="https://www.itweb.co.za/article/your-vendor-knows-where-your-data-lives-do-you/WnxpE74YZWXMV8XL">Itweb</source>
     </item>
     <item>
-      <title>The Search Engine Vs the Stethoscope</title>
-      <link>https://oracle-university.com/stories/the-search-engine-vs-the-stethoscope-3e63e6/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-search-engine-vs-the-stethoscope-3e63e6/</guid>
-      <pubDate>Mon, 13 Jul 2026 07:37:23 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>We have entered the era of &quot;Dr Google,&quot; where the most common medical degree is obtained without NEET or an MCAT, and the &quot;invisible intern&quot; of search algorithms sits in the consultation room, whispering into the patient’s ear.</description>
-      <source url="https://www.newindianexpress.com/lifestyle/health/2026/Jul/13/the-search-engine-vs-the-stethoscope">The New Indian Express</source>
-    </item>
-    <item>
-      <title>Enterprise Software Market AI-Powered Software Trends</title>
-      <link>https://oracle-university.com/stories/enterprise-software-market-ai-powered-software-trends-445929/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/enterprise-software-market-ai-powered-software-trends-445929/</guid>
-      <pubDate>Mon, 13 Jul 2026 07:25:08 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>The global Enterprise Software Market was valued at USD 291.8 billion in 2025 and is projected to grow from USD 322.8 billion in 2026 to USD 750.0 [read full press release...]</description>
-      <source url="https://express-press-release.net/news/2026/07/13/1762482">Express-press-release</source>
-    </item>
-    <item>
-      <title>SAP CC Oracle Database missing indexes</title>
-      <link>https://oracle-university.com/stories/sap-cc-oracle-database-missing-indexes-4d53c4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/sap-cc-oracle-database-missing-indexes-4d53c4/</guid>
-      <pubDate>Mon, 13 Jul 2026 06:59:11 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Hello Community, After upgrading SAP Convergent Charging from 5.0 to 2022, we noticed that the Oracle Database appears to have missing indexes. The issue was identified during post-upgrade database checks/performance analysis. The concern is that some indexes expected for the SAP CC Core Database ..</description>
-      <source url="https://community.sap.com/t5/financial-management-q-a/sap-cc-oracle-database-missing-indexes/qaq-p/14434421">Sap</source>
-    </item>
-    <item>
-      <title>Dynamic Data Masking with Regex: What Actually Works in Oracle</title>
-      <link>https://oracle-university.com/stories/dynamic-data-masking-with-regex-what-actually-works-in-oracle-edeb17/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/dynamic-data-masking-with-regex-what-actually-works-in-oracle-edeb17/</guid>
-      <pubDate>Mon, 13 Jul 2026 02:39:21 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Oracle Data Redaction with regex: patterns, performance, and 23ai enhancements.</description>
-      <source url="https://hackernoon.com/dynamic-data-masking-with-regex-what-actually-works-in-oracle">Hackernoon</source>
-    </item>
-    <item>
-      <title>15 Best AI Stocks to Buy and Hold for the Next 5 Years</title>
-      <link>https://oracle-university.com/stories/15-best-ai-stocks-to-buy-and-hold-for-the-next-5-years-7e5fc9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/15-best-ai-stocks-to-buy-and-hold-for-the-next-5-years-7e5fc9/</guid>
-      <pubDate>Mon, 13 Jul 2026 01:21:32 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>In this article, we will discuss: 15 Best AI Stocks to Buy and Hold for the Next 5 Years. On July 9, CNBC reported that OpenAI CEO Sam Altman said the company’s new GPT-5.6 Sol model achieves 54% higher token efficiency on agentic coding jobs than previous models while performing “as good or better”</description>
-      <source url="https://www.insidermonkey.com/blog/15-best-ai-stocks-to-buy-and-hold-for-the-next-5-years-1799625/">Insider Trading</source>
-    </item>
-    <item>
-      <title>Fisher Agency Earns Official JSEB Certification, Expanding Public Sector Footprint in Jacksonville</title>
-      <link>https://oracle-university.com/stories/fisher-agency-earns-official-jseb-certification-expanding-public-sector-footprint-in-jac-7a2adb/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/fisher-agency-earns-official-jseb-certification-expanding-public-sector-footprint-in-jac-7a2adb/</guid>
-      <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+      <title>IBM AS400 Life Asia Application Training Helps Professionals Build In-Demand Enterprise IT Skills</title>
+      <link>https://oracle-university.com/stories/ibm-as400-life-asia-application-training-helps-professionals-build-in-demand-enterprise--a6f67f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ibm-as400-life-asia-application-training-helps-professionals-build-in-demand-enterprise--a6f67f/</guid>
+      <pubDate>Tue, 14 Jul 2026 08:45:14 GMT</pubDate>
       <category>Training &amp; Certification</category>
-      <description>Vetted through an intense city audit, the local firm is officially cleared to power upcoming municipal and multi-agency projects.</description>
-      <source url="https://www.einpresswire.com/article/926341509/fisher-agency-earns-official-jseb-certification-expanding-public-sector-footprint-in-jacksonville">Ein Presswire</source>
+      <description>As organizations continue to modernize their IT infrastructure while maintaining reliable legacy systems, the demand for professionals with expertise in IBM AS400 Life Asia Application is growing steadily. To address this industry need, Multisoft Systems offers IBM AS400 Life Asia Application Traini</description>
+      <source url="http://prsync.com/multisoft-systems/ibm-as-life-asia-application-training-helps-professionals-build-in-demand-enterprise-it-skills-5191706/">prsync</source>
     </item>
     <item>
-      <title># Why We Built DRM: Stopping Production Incidents Caused by Manual Database Deployments *By Alexey Levin &amp; Eli Shohat, co-founders of D-Band* ---</title>
-      <link>https://oracle-university.com/stories/why-we-built-drm-stopping-production-incidents-caused-by-manual-database-deployments-by--b052ce/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/why-we-built-drm-stopping-production-incidents-caused-by-manual-database-deployments-by--b052ce/</guid>
-      <pubDate>Sun, 12 Jul 2026 22:35:33 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.bundle.app/en/technology/why-we-built-drm-stopping-production-incidents-caused-by-manual-database-deployments-by-alexey-levin-eli-shohat-co-founders-of-d-band--90011A91-DF81-44EE-B25E-5128D5F35663">Bundle</source>
-    </item>
-    <item>
-      <title>478 Blog Posts To Learn About Backend</title>
-      <link>https://oracle-university.com/stories/478-blog-posts-to-learn-about-backend-dff18f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/478-blog-posts-to-learn-about-backend-dff18f/</guid>
-      <pubDate>Sun, 12 Jul 2026 22:31:32 GMT</pubDate>
+      <title>Global Infrastructure Asset Management Market Report 2026 Now Published; Segments Market by Software, Services, and Deployment Models</title>
+      <link>https://oracle-university.com/stories/global-infrastructure-asset-management-market-report-2026-now-published-segments-market--4266d8/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/global-infrastructure-asset-management-market-report-2026-now-published-segments-market--4266d8/</guid>
+      <pubDate>Tue, 14 Jul 2026 08:07:00 GMT</pubDate>
       <category>Oracle Ecosystem</category>
+      <description>The infrastructure asset management market is driven by aging infrastructure renewal needs, adoption of predictive maintenance, and a focus on strategic asset management. High implementation costs are a challenge, but the shift to service-led modernization for strategic planning, combined with regio</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/07/14/3326609/28124/en/Global-Infrastructure-Asset-Management-Market-Report-2026-Now-Published-Segments-Market-by-Software-Services-and-Deployment-Models.html">Globenewswire_fr</source>
+    </item>
+    <item>
+      <title>Veritone Maps AI Growth Push as Oracle Partnership Targets Cost Savings</title>
+      <link>https://oracle-university.com/stories/veritone-maps-ai-growth-push-as-oracle-partnership-targets-cost-savings-c416cc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/veritone-maps-ai-growth-push-as-oracle-partnership-targets-cost-savings-c416cc/</guid>
+      <pubDate>Tue, 14 Jul 2026 08:05:05 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Veritone (NASDAQ:VERI) used a July 7 investor webcast to outline its strategy across artificial intelligence, data management, media, public sector and talent acquisition, with executives emphasizing the company’s focus on unstructured data and AI-enabled workflows. Ryan Steelberg, Veritone’s CEO an</description>
+      <source url="https://www.americanbankingnews.com/2026/07/14/veritone-maps-ai-growth-push-as-oracle-partnership-targets-cost-savings.html">Americanbankingnews</source>
+    </item>
+    <item>
+      <title>Blockchain Stocks To Keep An Eye On – July 13th</title>
+      <link>https://oracle-university.com/stories/blockchain-stocks-to-keep-an-eye-on-july-13th-b99544/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/blockchain-stocks-to-keep-an-eye-on-july-13th-b99544/</guid>
+      <pubDate>Tue, 14 Jul 2026 08:04:59 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Globant, and Digi Power X are the five Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, use, or benefit from blockchain te</description>
+      <source url="https://www.americanbankingnews.com/2026/07/14/blockchain-stocks-to-keep-an-eye-on-july-13th.html">Americanbankingnews</source>
+    </item>
+    <item>
+      <title>PairSoft Appoints Brian Rigney as Chief Executive Officer</title>
+      <link>https://oracle-university.com/stories/pairsoft-appoints-brian-rigney-as-chief-executive-officer-050cbb/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/pairsoft-appoints-brian-rigney-as-chief-executive-officer-050cbb/</guid>
+      <pubDate>Tue, 14 Jul 2026 08:03:21 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Seasoned ERP, fintech, and enterprise commerce executive to steer PairSoft’s next phase of growth PairSoft, a leading provider of AI-driven procurement and accounts payable automation, announces the appointment of Brian Rigney as Chief Executive Officer. Rigney steps into the role with a distinguish</description>
+      <source url="https://globalfintechseries.com/artificial-intelligence/pairsoft-appoints-brian-rigney-as-chief-executive-officer/">Globalfintechseries</source>
+    </item>
+    <item>
+      <title>Oracle shares under pressure: What&#39;s driving the recent selloff?</title>
+      <link>https://oracle-university.com/stories/oracle-shares-under-pressure-what-s-driving-the-recent-selloff-555d8d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-shares-under-pressure-what-s-driving-the-recent-selloff-555d8d/</guid>
+      <pubDate>Tue, 14 Jul 2026 07:04:00 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Oracle&#39;s stock has remained under pressure, falling below the key $135 support level, even after delivering better-than-expected earnings. Investors are increasingly questioning whether the company&#39;s massive AI investments and cloud expansion will generate sufficient returns to justify the sharp ris</description>
+      <source url="https://economictimes.indiatimes.com/markets/us-stocks/news/oracle-shares-under-pressure-whats-driving-the-recent-selloff/slideshow/132383693.cms">The Economic Times</source>
+    </item>
+    <item>
+      <title>Awtomated TBMS launched Intelligent Workflow and AI Automation for LSPs</title>
+      <link>https://oracle-university.com/stories/awtomated-tbms-launched-intelligent-workflow-and-ai-automation-for-lsps-3ec602/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/awtomated-tbms-launched-intelligent-workflow-and-ai-automation-for-lsps-3ec602/</guid>
+      <pubDate>Tue, 14 Jul 2026 06:43:57 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Release 1.22.0 eliminates manual task creation while maintaining user flexibility. The platform now offers a few predefined automations with plans to expand to 50-100 templates. The automation options cover common translation workflows, including applying Microsoft, DeepL or Translation Memory Machi</description>
+      <source url="https://www.openpr.com/news/4575648/awtomated-tbms-launched-intelligent-workflow-and-ai-automation">Openpr.com</source>
+    </item>
+    <item>
+      <title>TestingXperts Sets Up AI Engineering Hub in Hyderabad</title>
+      <link>https://oracle-university.com/stories/testingxperts-sets-up-ai-engineering-hub-in-hyderabad-35fa59/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/testingxperts-sets-up-ai-engineering-hub-in-hyderabad-35fa59/</guid>
+      <pubDate>Tue, 14 Jul 2026 05:41:37 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>TestingXperts, the world&#39;s third largest pure play Quality Engineering and Software Testing company, today announced the inauguration of its new state-of-the-art delivery centre in Hyderabad, marking another significant milestone in the company&#39;s global expansion strategy. The new 300-seat facility </description>
+      <source url="https://smestreet.in/technology/testingxperts-sets-up-ai-engineering-hub-in-hyderabad-12161783">Smestreet In</source>
+    </item>
+    <item>
+      <title>Hyperscale Giants Lead Gartner’s First Magic Quadrant for Cloud AI Infrastructure</title>
+      <link>https://oracle-university.com/stories/hyperscale-giants-lead-gartner-s-first-magic-quadrant-for-cloud-ai-infrastructure-64e702/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/hyperscale-giants-lead-gartner-s-first-magic-quadrant-for-cloud-ai-infrastructure-64e702/</guid>
+      <pubDate>Tue, 14 Jul 2026 02:04:31 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The three big hyperscale giants AWS, Azure and Google Cloud have emerged as leaders in Gartner’s first-ever Magic Quadrant for cloud AI infrastructure. Right behind them are the neo-cloud heavyweights who are either credible “challengers” or have emerged as “niche players” in the market. Leading the</description>
+      <source url="https://cxotoday.com/cloud/hyperscale-giants-lead-gartners-first-magic-quadrant-for-cloud-ai-infrastructure/">Cxotoday</source>
+    </item>
+    <item>
+      <title>Famous AI Investor Says This is the ‘Mega Bull Case’ For Stocks like NVIDIA, Micron, and Broadcom</title>
+      <link>https://oracle-university.com/stories/famous-ai-investor-says-this-is-the-mega-bull-case-for-stocks-like-nvidia-micron-and-bro-ee0d80/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/famous-ai-investor-says-this-is-the-mega-bull-case-for-stocks-like-nvidia-micron-and-bro-ee0d80/</guid>
+      <pubDate>Tue, 14 Jul 2026 01:30:52 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>A prominent AI investor argues that the real winners of the AI boom are not the labs building the models, and the cash flow numbers already suggest a massive redistribution is quietly underway.</description>
+      <source url="https://247wallst.com/investing/2026/07/13/famous-ai-investor-says-this-is-the-mega-bull-case-for-stocks-like-nvidia-micron-and-broadcom/">24/7 Wall St</source>
+    </item>
+    <item>
+      <title>Bahrain EDB’s CEO H.E. Noor is doubling down on growth amid mounting regional headwinds</title>
+      <link>https://oracle-university.com/stories/bahrain-edb-s-ceo-h-e-noor-is-doubling-down-on-growth-amid-mounting-regional-headwinds-d0b20f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/bahrain-edb-s-ceo-h-e-noor-is-doubling-down-on-growth-amid-mounting-regional-headwinds-d0b20f/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>As Gulf states compete through scale and headline-grabbing mega-projects, Bahrain EDB’s CEO H.E. Noor is pursuing a different path—leveraging regulatory innovation, specialist sectors, and strategic partnerships to position the kingdom as the region&#39;s agile investment hub.</description>
+      <source url="https://www.inkl.com/news/bahrain-edbs-ceo-h-e-noor-is-doubling-down-on-growth-amid-mounting-regional-headwinds">Inkl</source>
+    </item>
+    <item>
+      <title>Aviation Analytics Market to Reach US$ 12.68 Billion by 2035 at 11.32% CAGR, Powered by AI and Cloud Trends</title>
+      <link>https://oracle-university.com/stories/aviation-analytics-market-to-reach-us-12-68-billion-by-2035-at-11-32-cagr-powered-by-ai--465aff/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/aviation-analytics-market-to-reach-us-12-68-billion-by-2035-at-11-32-cagr-powered-by-ai--465aff/</guid>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Aviation Analytics Market is projected to grow from USD 4.10 Billion in 2025 to USD 12.68 Billion by 2035, registering a CAGR of 11.32% during(2026–2035.</description>
+      <source url="https://www.einpresswire.com/article/926546838/aviation-analytics-market-to-reach-us-12-68-billion-by-2035-at-11-32-cagr-powered-by-ai-and-cloud-trends">Ein Presswire</source>
+    </item>
+    <item>
+      <title>Oracle Stock Hits 52-Week Low as AI Infrastructure Spending Fuels Debt Concerns</title>
+      <link>https://oracle-university.com/stories/oracle-stock-hits-52-week-low-as-ai-infrastructure-spending-fuels-debt-concerns-b8ee1a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-stock-hits-52-week-low-as-ai-infrastructure-spending-fuels-debt-concerns-b8ee1a/</guid>
+      <pubDate>Mon, 13 Jul 2026 23:25:45 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Oracle stock hit a 52-week low as investors weighed rising AI spending, debt concerns and negative free cash flow despite strong cloud growth.</description>
+      <source url="https://abbonews.com/oracle-stock-hits-52-week-low-as-ai-infrastructure-spending-fuels-debt-concerns/">Abbo News -</source>
+    </item>
+    <item>
+      <title>Earnings call transcript: HCLTech rises on strong bookings in Q1 2026</title>
+      <link>https://oracle-university.com/stories/earnings-call-transcript-hcltech-rises-on-strong-bookings-in-q1-2026-033b7e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/earnings-call-transcript-hcltech-rises-on-strong-bookings-in-q1-2026-033b7e/</guid>
+      <pubDate>Mon, 13 Jul 2026 23:04:08 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Earnings call transcript: HCLTech rises on strong bookings in Q1 2026</description>
+      <source url="https://ng.investing.com/news/transcripts/earnings-call-transcript-hcltech-rises-on-strong-bookings-in-q1-2026-93CH-2597752">Investing Nigeria</source>
+    </item>
+    <item>
+      <title>Oracle vs. IBM: Which Cloud Computing Stock Is the Better Buy?</title>
+      <link>https://oracle-university.com/stories/oracle-vs-ibm-which-cloud-computing-stock-is-the-better-buy-8c971c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-vs-ibm-which-cloud-computing-stock-is-the-better-buy-8c971c/</guid>
+      <pubDate>Mon, 13 Jul 2026 22:57:34 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
       <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.bundle.app/en/technology/478-blog-posts-to-learn-about-backend-EF43B8D9-0124-43B1-A8A6-239C55A6E84B">Bundle</source>
+      <source url="https://www.bundle.app/en/finance/oracle-vs-ibm-which-cloud-computing-stock-is-the-better-buy-5BD38D07-244D-4BD7-A863-F9C4D599F15E">Bundle</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -412,51 +457,6 @@
       <category>Oracle Cloud</category>
       <description>In this episode, hosts Lois Houston and Nikita Abraham, along with Principal OCI Instructor Orlando Gentil, break down the differences between Infrastructure-as-a-Service, Platform-as-a-Service, and Software-as-a-Service. The conversation explores how each framework influences control, cost efficien</description>
       <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-4">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 3</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</guid>
-      <pubDate>Tue, 21 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Have you ever considered how a single server can support countless applications and workloads at once? In this episode, hosts Lois Houston and Nikita Abraham, together with Principal OCI Instructor Orlando Gentil, explore the sophisticated technologies that make this possible in modern cloud data ce</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-3">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>AI and Security</title>
-      <link>https://oracle-university.com/stories/ai-and-security-7b0e26/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-and-security-7b0e26/</guid>
-      <pubDate>Tue, 14 Oct 2025 15:58:49 GMT</pubDate>
-      <category>Security</category>
-      <description>In this episode host Oracle Academy Program Manager Benelux &amp; DACH Rik Bleeker speaks with Oracle expert Thomas Minne on the crucial intersection of Artificial Intelligence and data security, explaining why the Oracle Database is foundational to both. Drawing on his 15 years as a DBA and current rol</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-and-security">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 2</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-2-9a562f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-2-9a562f/</guid>
-      <pubDate>Tue, 14 Oct 2025 06:44:39 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Have you ever wondered where all your digital memories, work projects, or favorite photos actually live in the cloud? In this episode, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to discuss cloud storage. They explore how data is carefully organized, the dif</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-2">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>AI for Data: When Data meets Intelligence</title>
-      <link>https://oracle-university.com/stories/ai-for-data-when-data-meets-intelligence-f7601f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-for-data-when-data-meets-intelligence-f7601f/</guid>
-      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In this two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle AI Vector an</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-for-data-when-data-meet-intelligence">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Part II of AI for Data: When Data meets Intelligence</title>
-      <link>https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</guid>
-      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In the second of a two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle A</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-of-data-for-ai-when-data-meets-intelligence">Oracle Academy Tech Chat</source>
     </item>
   </channel>
 </rss>

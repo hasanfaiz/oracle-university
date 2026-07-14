@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T21:26:05.801Z",
+  "generatedAt": "2026-07-14T21:27:49.426Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -55,16 +55,158 @@
       "priority": 46
     },
     {
-      "id": "d4df89c68a69663c",
-      "slug": "zan-node-is-the-world-s-fastest-web3-node-provider-covering-ethereum-solana-base-polygon-2cfc25",
-      "title": "ZAN Node Is the World's Fastest Web3 Node Provider, Covering Ethereum, Solana, Base, Polygon, and 47+ Networks",
-      "dek": "Redefining Multi-Chain Speed: Overcoming Web3 Latency Barriers How many seconds do decentralized applications lose when users trigger smart contracts during peak network traffic? Why do standard remote procedure call (RPC) requests frequently encounter synchronization lag when simultaneously queryin",
-      "url": "https://www.openpr.com/news/4575069/zan-node-is-the-world-s-fastest-web3-node-provider-covering",
+      "id": "01b091ea2fae50d1",
+      "slug": "decrepit-disconnected-and-directionless-we-spoke-to-ed-zitron-on-microsoft-s-chances-in--60335b",
+      "title": "\"Decrepit, disconnected, and directionless,\" we spoke to Ed Zitron on Microsoft's chances in the artificial intelligence biz — and whether or not the AI 'bubble' is primed to implode",
+      "dek": "Journalist Ed Zitron of the 'Better Offline Podcast' and 'Where's Your Ed At' newsletter offered us a scathing take on Microsoft's chances in the AI race.",
+      "url": "https://www.windowscentral.com/artificial-intelligence/ed-zitron-on-microsoft-ai-and-the-big-bubble",
+      "source": "Windows Central",
+      "sourceType": "external",
+      "image": "https://cdn.mos.cms.futurecdn.net/YDtJjnNZy5zSvhrqyCLX5N-1280-80.jpg",
+      "publishedAt": "2026-07-14T09:17:29.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "openai",
+        "copilot",
+        "microsoft azure",
+        "microsoft 365",
+        "artificial intelligence"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "6f60d675fd4366ca",
+      "slug": "your-vendor-knows-where-your-data-lives-do-you-c69339",
+      "title": "Your vendor knows where your data lives. Do you?",
+      "dek": "Many South African companies have no clear picture of where their data lives, which jurisdiction governs it or what happens if something goes wrong, says Richard Frost, head of technology solutions and consulting at Armata Cyber Security.",
+      "url": "https://www.itweb.co.za/article/your-vendor-knows-where-your-data-lives-do-you/WnxpE74YZWXMV8XL",
+      "source": "Itweb",
+      "sourceType": "external",
+      "image": "https://www.itweb.co.za/static/brainstorm/pictures/2023/10/Richard-Frost.jpg",
+      "publishedAt": "2026-07-14T09:08:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "popi act",
+        "hyperscalers",
+        "data centres",
+        "amazon",
+        "ibm 2025 cost of a data breach report",
+        "data governance"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "b7fec25a6d136de3",
+      "slug": "ibm-as400-life-asia-application-training-helps-professionals-build-in-demand-enterprise--a6f67f",
+      "title": "IBM AS400 Life Asia Application Training Helps Professionals Build In-Demand Enterprise IT Skills",
+      "dek": "As organizations continue to modernize their IT infrastructure while maintaining reliable legacy systems, the demand for professionals with expertise in IBM AS400 Life Asia Application is growing steadily. To address this industry need, Multisoft Systems offers IBM AS400 Life Asia Application Traini",
+      "url": "http://prsync.com/multisoft-systems/ibm-as-life-asia-application-training-helps-professionals-build-in-demand-enterprise-it-skills-5191706/",
+      "source": "prsync",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-07-14T08:45:14.000Z",
+      "topic": "Training & Certification",
+      "tags": [],
+      "priority": 43
+    },
+    {
+      "id": "f2a8dba644e67acb",
+      "slug": "global-infrastructure-asset-management-market-report-2026-now-published-segments-market--4266d8",
+      "title": "Global Infrastructure Asset Management Market Report 2026 Now Published; Segments Market by Software, Services, and Deployment Models",
+      "dek": "The infrastructure asset management market is driven by aging infrastructure renewal needs, adoption of predictive maintenance, and a focus on strategic asset management. High implementation costs are a challenge, but the shift to service-led modernization for strategic planning, combined with regio",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/07/14/3326609/28124/en/Global-Infrastructure-Asset-Management-Market-Report-2026-Now-Published-Segments-Market-by-Software-Services-and-Deployment-Models.html",
+      "source": "Globenewswire_fr",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-07-14T08:07:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "research and markets",
+        "finance",
+        "asset management",
+        "grants"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "32c1ded1e739e3c5",
+      "slug": "veritone-maps-ai-growth-push-as-oracle-partnership-targets-cost-savings-c416cc",
+      "title": "Veritone Maps AI Growth Push as Oracle Partnership Targets Cost Savings",
+      "dek": "Veritone (NASDAQ:VERI) used a July 7 investor webcast to outline its strategy across artificial intelligence, data management, media, public sector and talent acquisition, with executives emphasizing the company’s focus on unstructured data and AI-enabled workflows. Ryan Steelberg, Veritone’s CEO an",
+      "url": "https://www.americanbankingnews.com/2026/07/14/veritone-maps-ai-growth-push-as-oracle-partnership-targets-cost-savings.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/veritone-inc-logo-1200x675.jpg?v=20221215083813",
+      "publishedAt": "2026-07-14T08:05:05.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "AI"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "6d793094b0ed45df",
+      "slug": "blockchain-stocks-to-keep-an-eye-on-july-13th-b99544",
+      "title": "Blockchain Stocks To Keep An Eye On – July 13th",
+      "dek": "Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Globant, and Digi Power X are the five Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, use, or benefit from blockchain te",
+      "url": "https://www.americanbankingnews.com/2026/07/14/blockchain-stocks-to-keep-an-eye-on-july-13th.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
+      "publishedAt": "2026-07-14T08:04:59.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 42
+    },
+    {
+      "id": "b3272d2588d903f3",
+      "slug": "pairsoft-appoints-brian-rigney-as-chief-executive-officer-050cbb",
+      "title": "PairSoft Appoints Brian Rigney as Chief Executive Officer",
+      "dek": "Seasoned ERP, fintech, and enterprise commerce executive to steer PairSoft’s next phase of growth PairSoft, a leading provider of AI-driven procurement and accounts payable automation, announces the appointment of Brian Rigney as Chief Executive Officer. Rigney steps into the role with a distinguish",
+      "url": "https://globalfintechseries.com/artificial-intelligence/pairsoft-appoints-brian-rigney-as-chief-executive-officer/",
+      "source": "Globalfintechseries",
+      "sourceType": "external",
+      "image": "https://globalfintechseries.com/wp-content/uploads/PairSoft-Appoints-Brian-Rigney-as-Chief-Executive-Officer.jpg",
+      "publishedAt": "2026-07-14T08:03:21.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "erp platform",
+        "microsoft dynamics suite",
+        "netsuite",
+        "brian rigney",
+        "sage intacct",
+        "oracle"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "279d82bac64d83fa",
+      "slug": "oracle-shares-under-pressure-what-s-driving-the-recent-selloff-555d8d",
+      "title": "Oracle shares under pressure: What's driving the recent selloff?",
+      "dek": "Oracle's stock has remained under pressure, falling below the key $135 support level, even after delivering better-than-expected earnings. Investors are increasingly questioning whether the company's massive AI investments and cloud expansion will generate sufficient returns to justify the sharp ris",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/oracle-shares-under-pressure-whats-driving-the-recent-selloff/slideshow/132383693.cms",
+      "source": "The Economic Times",
+      "sourceType": "external",
+      "image": "https://img.etimg.com/thumb/msid-132383693,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+      "publishedAt": "2026-07-14T07:04:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "Earnings",
+        "AI"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "9d997e73a32e72ef",
+      "slug": "awtomated-tbms-launched-intelligent-workflow-and-ai-automation-for-lsps-3ec602",
+      "title": "Awtomated TBMS launched Intelligent Workflow and AI Automation for LSPs",
+      "dek": "Release 1.22.0 eliminates manual task creation while maintaining user flexibility. The platform now offers a few predefined automations with plans to expand to 50-100 templates. The automation options cover common translation workflows, including applying Microsoft, DeepL or Translation Memory Machi",
+      "url": "https://www.openpr.com/news/4575648/awtomated-tbms-launched-intelligent-workflow-and-ai-automation",
       "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/7/L713841406_k.jpg",
-      "publishedAt": "2026-07-13T08:58:38.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://cdn.open-pr.com/L/7/L713242764_k.jpg",
+      "publishedAt": "2026-07-14T06:43:57.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
         "presses release",
         "advertising",
@@ -73,140 +215,54 @@
         "pr",
         "marketing"
       ],
-      "priority": 43
-    },
-    {
-      "id": "0a1a83cc295ba3cb",
-      "slug": "ibm-as400-life-asia-application-continues-to-drive-enterprise-digital-transformation-487aec",
-      "title": "IBM AS400 Life Asia Application Continues to Drive Enterprise Digital Transformation",
-      "dek": "Digital transformation has become a strategic priority for organizations seeking to improve operational efficiency, enhance customer experiences, and remain competitive in today's fast-changing business environment. While many businesses are adopting cloud computing, artificial intelligence, and aut",
-      "url": "http://prsync.com/multisoft-systems/ibm-as-life-asia-application-continues-to-drive-enterprise-digital-transformation-5191633/",
-      "source": "prsync",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-07-13T08:07:59.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [],
-      "priority": 42
-    },
-    {
-      "id": "ac8395a807569f46",
-      "slug": "exploring-the-rapid-growth-of-the-generative-ai-in-automation-market-a-deep-dive-into-tr-cb8c24",
-      "title": "Exploring the Rapid Growth of the Generative AI in Automation Market: A Deep Dive into Trends and Projections",
-      "dek": "Key opportunities in the generative AI in automation market include advancements in autonomous systems, predictive maintenance, smart factories, and intelligent RPA. Growth is fueled by AI's integration in robotics and workflow optimization, with North America leading in 2025 and Asia-Pacific as the",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/07/13/3325943/28124/en/Exploring-the-Rapid-Growth-of-the-Generative-AI-in-Automation-Market-A-Deep-Dive-into-Trends-and-Projections.html",
-      "source": "Globenewswire_fr",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-07-13T08:03:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "neural networks",
-        "generative ai",
-        "image recognition",
-        "object detection",
-        "image segmentation",
-        "facial recognition"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "e16145a5474a8ac7",
-      "slug": "carnegie-investment-counsel-raises-stock-holdings-in-oracle-corporation-orcl-dba3bd",
-      "title": "Carnegie Investment Counsel Raises Stock Holdings in Oracle Corporation $ORCL",
-      "dek": "Carnegie Investment Counsel raised its holdings in Oracle Corporation (NYSE:ORCL – Free Report) by 25.7% during the 1st quarter, Holdings Channel reports. The firm owned 50,126 shares of the enterprise software provider’s stock after buying an additional 10,246 shares during the quarter. Carnegie In",
-      "url": "https://www.tickerreport.com/banking-finance/13502056/carnegie-investment-counsel-raises-stock-holdings-in-oracle-corporation-orcl.html",
-      "source": "Ticker Report",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-07-13T07:59:18.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "hedge fund holdings",
-        "sec filings",
-        "68389x10",
-        "nyse:orcl",
-        "13f",
-        "oracle"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "c4130e8b8aee4be4",
-      "slug": "the-search-engine-vs-the-stethoscope-3e63e6",
-      "title": "The Search Engine Vs the Stethoscope",
-      "dek": "We have entered the era of \"Dr Google,\" where the most common medical degree is obtained without NEET or an MCAT, and the \"invisible intern\" of search algorithms sits in the consultation room, whispering into the patient’s ear.",
-      "url": "https://www.newindianexpress.com/lifestyle/health/2026/Jul/13/the-search-engine-vs-the-stethoscope",
-      "source": "The New Indian Express",
-      "sourceType": "external",
-      "image": "https://cf-images.assettype.com/newindianexpress/2026-07-13/8mf6m2er/pexels-asphotography-218717.jpg",
-      "publishedAt": "2026-07-13T07:37:23.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "google",
-        "symptoms",
-        "dr pandiyan natrajan"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "696e90644202fbd6",
-      "slug": "enterprise-software-market-ai-powered-software-trends-445929",
-      "title": "Enterprise Software Market AI-Powered Software Trends",
-      "dek": "The global Enterprise Software Market was valued at USD 291.8 billion in 2025 and is projected to grow from USD 322.8 billion in 2026 to USD 750.0 [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/07/13/1762482",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
-      "publishedAt": "2026-07-13T07:25:08.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "AI"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "df23829b1cbf9b08",
-      "slug": "sap-cc-oracle-database-missing-indexes-4d53c4",
-      "title": "SAP CC Oracle Database missing indexes",
-      "dek": "Hello Community, After upgrading SAP Convergent Charging from 5.0 to 2022, we noticed that the Oracle Database appears to have missing indexes. The issue was identified during post-upgrade database checks/performance analysis. The concern is that some indexes expected for the SAP CC Core Database ..",
-      "url": "https://community.sap.com/t5/financial-management-q-a/sap-cc-oracle-database-missing-indexes/qaq-p/14434421",
-      "source": "Sap",
-      "sourceType": "external",
-      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
-      "publishedAt": "2026-07-13T06:59:11.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "oracle",
-        "sap cc",
-        "database"
-      ],
       "priority": 41
     },
     {
-      "id": "e4e6519840ae64b0",
-      "slug": "dynamic-data-masking-with-regex-what-actually-works-in-oracle-edeb17",
-      "title": "Dynamic Data Masking with Regex: What Actually Works in Oracle",
-      "dek": "Oracle Data Redaction with regex: patterns, performance, and 23ai enhancements.",
-      "url": "https://hackernoon.com/dynamic-data-masking-with-regex-what-actually-works-in-oracle",
-      "source": "Hackernoon",
+      "id": "aa7069298f42eab9",
+      "slug": "testingxperts-sets-up-ai-engineering-hub-in-hyderabad-35fa59",
+      "title": "TestingXperts Sets Up AI Engineering Hub in Hyderabad",
+      "dek": "TestingXperts, the world's third largest pure play Quality Engineering and Software Testing company, today announced the inauguration of its new state-of-the-art delivery centre in Hyderabad, marking another significant milestone in the company's global expansion strategy. The new 300-seat facility ",
+      "url": "https://smestreet.in/technology/testingxperts-sets-up-ai-engineering-hub-in-hyderabad-12161783",
+      "source": "Smestreet In",
       "sourceType": "external",
-      "image": "https://hackernoon.imgix.net/images/lh3GIz5KYbVlETykJ0q4yOt71CA3-yu93d3w.jpeg",
-      "publishedAt": "2026-07-13T02:39:21.000Z",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/smstreet/media/media_files/2026/07/14/testingxperts-sets-up-ai-engineering-hub-in-hyderabad-2026-07-14-10-10-53.jpg",
+      "publishedAt": "2026-07-14T05:41:37.000Z",
       "topic": "Oracle Ecosystem",
-      "tags": [],
+      "tags": [
+        "engineering",
+        "testingxperts",
+        "ai"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "c9024f7b25fbdde1",
+      "slug": "hyperscale-giants-lead-gartner-s-first-magic-quadrant-for-cloud-ai-infrastructure-64e702",
+      "title": "Hyperscale Giants Lead Gartner’s First Magic Quadrant for Cloud AI Infrastructure",
+      "dek": "The three big hyperscale giants AWS, Azure and Google Cloud have emerged as leaders in Gartner’s first-ever Magic Quadrant for cloud AI infrastructure. Right behind them are the neo-cloud heavyweights who are either credible “challengers” or have emerged as “niche players” in the market. Leading the",
+      "url": "https://cxotoday.com/cloud/hyperscale-giants-lead-gartners-first-magic-quadrant-for-cloud-ai-infrastructure/",
+      "source": "Cxotoday",
+      "sourceType": "external",
+      "image": "https://cxotoday.com/wp-content/uploads/2026/07/gartner-magic-quadrant.jpg",
+      "publishedAt": "2026-07-14T02:04:31.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "magic quadrant",
+        "gartner",
+        "cloud"
+      ],
       "priority": 38
     },
     {
-      "id": "13f527d9e98dddd0",
-      "slug": "15-best-ai-stocks-to-buy-and-hold-for-the-next-5-years-7e5fc9",
-      "title": "15 Best AI Stocks to Buy and Hold for the Next 5 Years",
-      "dek": "In this article, we will discuss: 15 Best AI Stocks to Buy and Hold for the Next 5 Years. On July 9, CNBC reported that OpenAI CEO Sam Altman said the company’s new GPT-5.6 Sol model achieves 54% higher token efficiency on agentic coding jobs than previous models while performing “as good or better”",
-      "url": "https://www.insidermonkey.com/blog/15-best-ai-stocks-to-buy-and-hold-for-the-next-5-years-1799625/",
-      "source": "Insider Trading",
+      "id": "c1ebbd709d40521d",
+      "slug": "famous-ai-investor-says-this-is-the-mega-bull-case-for-stocks-like-nvidia-micron-and-bro-ee0d80",
+      "title": "Famous AI Investor Says This is the ‘Mega Bull Case’ For Stocks like NVIDIA, Micron, and Broadcom",
+      "dek": "A prominent AI investor argues that the real winners of the AI boom are not the labs building the models, and the cash flow numbers already suggest a massive redistribution is quietly underway.",
+      "url": "https://247wallst.com/investing/2026/07/13/famous-ai-investor-says-this-is-the-mega-bull-case-for-stocks-like-nvidia-micron-and-broadcom/",
+      "source": "24/7 Wall St",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/hjYQYd5Q9Svq4vvsA3GZi_FZO-aTgKiJMy-ZyU6lEvY/resize:fit:640:426:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2026/05/22083653/jessica-lewis-thepaintedsquare-DeyfdybVQhA-unsplash.jpg",
-      "publishedAt": "2026-07-13T01:21:32.000Z",
+      "image": "https://247wallst.com/wp-content/uploads/2026/03/shutterstock-2337227389-huge-licensed-scaled.jpg",
+      "publishedAt": "2026-07-14T01:30:52.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "AI"
@@ -214,51 +270,88 @@
       "priority": 37
     },
     {
-      "id": "91246ab5f1b55a1c",
-      "slug": "fisher-agency-earns-official-jseb-certification-expanding-public-sector-footprint-in-jac-7a2adb",
-      "title": "Fisher Agency Earns Official JSEB Certification, Expanding Public Sector Footprint in Jacksonville",
-      "dek": "Vetted through an intense city audit, the local firm is officially cleared to power upcoming municipal and multi-agency projects.",
-      "url": "https://www.einpresswire.com/article/926341509/fisher-agency-earns-official-jseb-certification-expanding-public-sector-footprint-in-jacksonville",
-      "source": "Ein Presswire",
+      "id": "3a2fbfb4b0d90900",
+      "slug": "bahrain-edb-s-ceo-h-e-noor-is-doubling-down-on-growth-amid-mounting-regional-headwinds-d0b20f",
+      "title": "Bahrain EDB’s CEO H.E. Noor is doubling down on growth amid mounting regional headwinds",
+      "dek": "As Gulf states compete through scale and headline-grabbing mega-projects, Bahrain EDB’s CEO H.E. Noor is pursuing a different path—leveraging regulatory innovation, specialist sectors, and strategic partnerships to position the kingdom as the region's agile investment hub.",
+      "url": "https://www.inkl.com/news/bahrain-edbs-ceo-h-e-noor-is-doubling-down-on-growth-amid-mounting-regional-headwinds",
+      "source": "Inkl",
       "sourceType": "external",
-      "image": "https://img.einnews.com/ampsize/1150682/fisher-agency-is-jseb-certified.jpeg",
-      "publishedAt": "2026-07-13T00:00:00.000Z",
-      "topic": "Training & Certification",
+      "image": "https://images.inkl.com/s3/article/lead_image/23575843/HE-Noor-on-UK-trip-1.jpeg",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "farming and forestry industry",
-        "military industry",
-        "worldnews",
-        "united states",
-        "banking",
-        "building and construction industry"
+        "daily news",
+        "news",
+        "news app",
+        "news today",
+        "global news",
+        "today news"
       ],
       "priority": 37
     },
     {
-      "id": "44e6b468103a41d0",
-      "slug": "why-we-built-drm-stopping-production-incidents-caused-by-manual-database-deployments-by--b052ce",
-      "title": "# Why We Built DRM: Stopping Production Incidents Caused by Manual Database Deployments *By Alexey Levin & Eli Shohat, co-founders of D-Band* ---",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/technology/why-we-built-drm-stopping-production-incidents-caused-by-manual-database-deployments-by-alexey-levin-eli-shohat-co-founders-of-d-band--90011A91-DF81-44EE-B25E-5128D5F35663",
-      "source": "Bundle",
+      "id": "babd7ee89ae32abd",
+      "slug": "aviation-analytics-market-to-reach-us-12-68-billion-by-2035-at-11-32-cagr-powered-by-ai--465aff",
+      "title": "Aviation Analytics Market to Reach US$ 12.68 Billion by 2035 at 11.32% CAGR, Powered by AI and Cloud Trends",
+      "dek": "Aviation Analytics Market is projected to grow from USD 4.10 Billion in 2025 to USD 12.68 Billion by 2035, registering a CAGR of 11.32% during(2026–2035.",
+      "url": "https://www.einpresswire.com/article/926546838/aviation-analytics-market-to-reach-us-12-68-billion-by-2035-at-11-32-cagr-powered-by-ai-and-cloud-trends",
+      "source": "Ein Presswire",
       "sourceType": "external",
-      "image": "https://static.bundle.app/news/acbb09c2-a993-5e10-a67a-c31253a043e0.jpg",
-      "publishedAt": "2026-07-12T22:35:33.000Z",
-      "topic": "AI & Database",
-      "tags": [],
+      "image": "https://img.einnews.com/ampsize/1151363/aviation-analytics-market.png",
+      "publishedAt": "2026-07-14T00:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "worldnews",
+        "aviation and aerospace industry",
+        "united states",
+        "united kingdom"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "f22c5216249bcfff",
+      "slug": "oracle-stock-hits-52-week-low-as-ai-infrastructure-spending-fuels-debt-concerns-b8ee1a",
+      "title": "Oracle Stock Hits 52-Week Low as AI Infrastructure Spending Fuels Debt Concerns",
+      "dek": "Oracle stock hit a 52-week low as investors weighed rising AI spending, debt concerns and negative free cash flow despite strong cloud growth.",
+      "url": "https://abbonews.com/oracle-stock-hits-52-week-low-as-ai-infrastructure-spending-fuels-debt-concerns/",
+      "source": "Abbo News -",
+      "sourceType": "external",
+      "image": "https://abbonews.com/wp-content/uploads/2026/07/Oracle-Stock.png",
+      "publishedAt": "2026-07-13T23:25:45.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "AI"
+      ],
       "priority": 36
     },
     {
-      "id": "d5e90593e08ce7a3",
-      "slug": "478-blog-posts-to-learn-about-backend-dff18f",
-      "title": "478 Blog Posts To Learn About Backend",
+      "id": "13ce5ef81968c082",
+      "slug": "earnings-call-transcript-hcltech-rises-on-strong-bookings-in-q1-2026-033b7e",
+      "title": "Earnings call transcript: HCLTech rises on strong bookings in Q1 2026",
+      "dek": "Earnings call transcript: HCLTech rises on strong bookings in Q1 2026",
+      "url": "https://ng.investing.com/news/transcripts/earnings-call-transcript-hcltech-rises-on-strong-bookings-in-q1-2026-93CH-2597752",
+      "source": "Investing Nigeria",
+      "sourceType": "external",
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEA7L0F3_M.jpg",
+      "publishedAt": "2026-07-13T23:04:08.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "Earnings"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "6ce6643691e9874c",
+      "slug": "oracle-vs-ibm-which-cloud-computing-stock-is-the-better-buy-8c971c",
+      "title": "Oracle vs. IBM: Which Cloud Computing Stock Is the Better Buy?",
       "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/technology/478-blog-posts-to-learn-about-backend-EF43B8D9-0124-43B1-A8A6-239C55A6E84B",
+      "url": "https://www.bundle.app/en/finance/oracle-vs-ibm-which-cloud-computing-stock-is-the-better-buy-5BD38D07-244D-4BD7-A863-F9C4D599F15E",
       "source": "Bundle",
       "sourceType": "external",
-      "image": "https://static.bundle.app/news/8d0e8314-09c4-51ef-bf3a-dd85b3112b78.jpg",
-      "publishedAt": "2026-07-12T22:31:32.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://static.bundle.app/news/8352cb68-fb8a-5aa4-adfb-9c6810347a68.jpg",
+      "publishedAt": "2026-07-13T22:57:34.000Z",
+      "topic": "Business & Earnings",
       "tags": [],
       "priority": 36
     },
@@ -1900,90 +1993,6 @@
       "topic": "Oracle Cloud",
       "tags": [
         "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "bd401ec004db1755",
-      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
-      "title": "Introduction to OCI Container Engine for Kubernetes",
-      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-25T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "1d3aa287378f7e71",
-      "slug": "basics-of-kubernetes-23e26c",
-      "title": "Basics of Kubernetes",
-      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
-      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-18T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ec54bf5b81f570ed",
-      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
-      "title": "Oracle Cloud Infrastructure Registry",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-11T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "OCI",
-        "Oracle Cloud Infrastructure"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "6ba1bee89c8a91cc",
-      "slug": "what-is-containerization-0326f4",
-      "title": "What is Containerization?",
-      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-04T14:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "OCI",
-        "Oracle University"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "b45e3d006fc93558",
-      "slug": "encore-episode-oci-ai-services-5e7f50",
-      "title": "Encore Episode: OCI AI Services",
-      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-28T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI",
-        "AI"
       ],
       "priority": 36
     }
