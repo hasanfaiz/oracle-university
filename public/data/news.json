@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T21:30:22.989Z",
+  "generatedAt": "2026-07-17T21:12:36.121Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -55,234 +55,250 @@
       "priority": 46
     },
     {
-      "id": "1154c45e138619c3",
-      "slug": "blockchain-stocks-to-keep-an-eye-on-july-13th-e4fa09",
-      "title": "Blockchain Stocks To Keep An Eye On – July 13th",
-      "dek": "Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Globant, and Digi Power X are the five Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, use, or benefit from blockchain te",
-      "url": "https://baseballnewssource.com/2026/07/16/blockchain-stocks-to-keep-an-eye-on-july-13th/11186408.html",
-      "source": "Bbns",
+      "id": "24c76e63b061fc96",
+      "slug": "application-container-market-trends-point-to-usd-77-47-billion-value-with-21-4-cagr-by-2-beab7f",
+      "title": "Application Container Market Trends Point to USD 77.47 Billion Value with 21.4% CAGR by 2035",
+      "dek": "The Application Container Market was valued at USD 10.98 Billion in 2025, with forecast-period revenue projected to reach USD 13.52 Billion in 2026 and climb to USD 77.47 Billion by 2035, registering a compound annual growth rate (CAGR) of 21.4%",
+      "url": "https://www.openpr.com/news/4579802/application-container-market-trends-point-to-usd-77-47-billion",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
-      "publishedAt": "2026-07-16T09:04:47.000Z",
+      "image": "https://cdn.open-pr.com/L/7/L717263021_k.jpg",
+      "publishedAt": "2026-07-17T08:38:31.000Z",
       "topic": "Business & Earnings",
-      "tags": [],
+      "tags": [
+        "presses release",
+        "advertising",
+        "pr strategy",
+        "pr service",
+        "pr",
+        "marketing"
+      ],
       "priority": 43
     },
     {
-      "id": "483a45de59359ead",
-      "slug": "vamsee-pamisetty-on-building-decision-intelligence-that-stakeholders-can-actually-trust-ca8488",
-      "title": "Vamsee Pamisetty on Building Decision Intelligence That Stakeholders Can Actually Trust",
-      "dek": "Vamsee Pamisetty introduces an explainable AI framework that brings transparency, auditability, and trust to enterprise decision intelligence.",
-      "url": "https://hackernoon.com/vamsee-pamisetty-on-building-decision-intelligence-that-stakeholders-can-actually-trust",
-      "source": "Hackernoon",
+      "id": "4cce8abe332986bc",
+      "slug": "cycraft-named-a-sample-provider-in-the-gartner-latest-ai-reasoning-models-report-the-onl-0c1a95",
+      "title": "CyCraft Named a Sample Provider in the Gartner® Latest AI Reasoning Models Report—The Only Taiwan-Based Cybersecurity Provider Listed",
+      "dek": "TAIPEI, TAIWAN - Media OutReach Newswire - 16 July 2026 - CyCraft (Stock Code: 7823) has been recognized by the global business and technology insights organization Gartner in its latest report, \"Emerging Tech: AI Vendor Race: Reasoning Models Reshape Providers' Approaches to AI Pricing.\" In this re",
+      "url": "https://www.asiaone.com/paid-media-releases/cycraft-named-sample-provider-gartnerr-latest-ai-reasoning-models-report-only",
+      "source": "Asiaone",
       "sourceType": "external",
-      "image": "https://hackernoon.imgix.net/images/InxBRjRIs6M1kdhuWcyNHiiUrxm1-d893bqn.png",
-      "publishedAt": "2026-07-16T09:00:48.000Z",
+      "image": "https://www.asiaone.com/sites/default/files/styles/article_top_image/public/original_images/Jul2026/787159-Dashboard-IASM-PR-PNG-120.png?itok=2-KrIIX6",
+      "publishedAt": "2026-07-17T08:22:58.000Z",
+      "topic": "Security",
+      "tags": [
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "42eab94fc62ad3fd",
+      "slug": "industrial-system-integrator-and-iiot-technology-market-to-reach-usd-2-20-trillion-by-20-2905b4",
+      "title": "Industrial System Integrator and IIoT Technology Market to Reach USD 2.20 Trillion by 2032",
+      "dek": "Global market projected to expand at a 23.47% CAGR as industrial enterprises accelerate smart manufacturing, OT-IT convergence, edge computing, artificial intelligence and cybersecurity investments Global market projected to expand at a 23.47% CAGR as industrial enterprises accelerate smart manufact",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/07/17/3328940/28124/en/Industrial-System-Integrator-and-IIoT-Technology-Market-to-Reach-USD-2-20-Trillion-by-2032.html",
+      "source": "Globenewswire_fr",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-07-17T08:07:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "internet of things technology",
+        "internet of things",
+        "supervisory control",
+        "system integrator",
+        "research and markets",
+        "industrial internet of things"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "e7d554fe10e0e847",
+      "slug": "customer-intelligence-platform-market-rebuilds-around-autonomous-ai-agents-as-data-platf-c92cca",
+      "title": "Customer Intelligence Platform Market Rebuilds Around Autonomous AI Agents as Data Platforms and Software Companies Accelerate Acquisitions",
+      "dek": "July 17, 2026 - Customer intelligence platforms are being rebuilt around AI agents capable of deciding when, where and how to engage individual customers. MoEngage accelerated this transition in June 2026 by acquiring San Francisco-based Aampe, whose reinforcement-learning infrastructure assigns",
+      "url": "https://www.openpr.com/news/4579775/customer-intelligence-platform-market-rebuilds-around",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/7/L717652533_k.jpg",
+      "publishedAt": "2026-07-17T07:51:44.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "presses release",
+        "advertising",
+        "pr strategy",
+        "pr service",
+        "pr",
+        "marketing"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "84c99875f388d848",
+      "slug": "the-ultimate-guide-to-defi-marketing-in-2026-53a8ee",
+      "title": "The Ultimate Guide to DeFi Marketing in 2026",
+      "dek": "Decentralised finance has entered a more demanding stage of growth. A DeFi protocol can no longer depend only on high annual percentage yields, token incentives, and a large Telegram group. Users now examine smart-contract security, liquidity depth, governance controls, token emissions, oracle depen",
+      "url": "https://techbullion.com/the-ultimate-guide-to-defi-marketing-in-2026/",
+      "source": "Techbullion",
+      "sourceType": "external",
+      "image": "https://techbullion.com/wp-content/uploads/2026/06/Screenshot-2026-06-10-at-15-21-33-BTCPressWire-Crypto-Mining-Press-Release-Distribution-1024x468.png",
+      "publishedAt": "2026-07-17T07:50:41.000Z",
+      "topic": "Security",
+      "tags": [
+        "cryptocurrency",
+        "crypto"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "54a4428abcb579cd",
+      "slug": "global-ai-infrastructure-investment-intelligence-market-tracking-the-capital-powering-th-01dfe7",
+      "title": "Global AI Infrastructure Investment Intelligence Market - Tracking the Capital Powering the Artificial Intelligence Revolution (2026-2040)",
+      "dek": "Artificial Intelligence is driving one of the largest infrastructure investment cycles of the 21st century. The development of AI factories, hyperscale campuses, GPU superclusters, power generation assets, cooling systems, and digital infrastructure is expected to require unprecedented levels of cap",
+      "url": "https://www.openpr.com/news/4579656/global-ai-infrastructure-investment-intelligence-market",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/7/L717522375_k.jpg",
+      "publishedAt": "2026-07-17T07:44:32.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "presses release",
+        "advertising",
+        "pr strategy",
+        "pr service",
+        "pr",
+        "marketing"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "dbfc83dcd11060bc",
+      "slug": "nextgencarrier-releases-universal-file-conversion-tool-v3-1-6-for-windows-on-the-microso-0b024b",
+      "title": "Nextgencarrier Releases Universal File Conversion Tool v3.1.6 for Windows on the Microsoft Store",
+      "dek": "Nextgencarrier, a telecommunications software company with over 40 years of carrier operations experience, today announced the release of Universal File Conversion Tool v3.1.6.0 for Windows, now available on the Microsoft Store. The application converts data files between eight industry-standard for",
+      "url": "https://www.openpr.com/news/4579361/nextgencarrier-releases-universal-file-conversion-tool-v3-1-6",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/7/L716399290_k.jpg",
+      "publishedAt": "2026-07-17T07:25:41.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "AI"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "e71db3e13ce41c48",
-      "slug": "cycraft-named-a-sample-provider-in-the-gartner-latest-ai-reasoning-models-report-the-onl-e83a4f",
-      "title": "CyCraft Named a Sample Provider in the Gartner® Latest AI Reasoning Models Report—The Only Taiwan-Based Cybersecurity Provider Listed",
-      "dek": "TAIPEI, TAIWAN - Media OutReach Newswire - 16 July 2026 - CyCraft (Stock Code: 7823) has been recognized by the global business and technology insights organization Gartner in its latest report, \"Emerging Tech: AI Vendor Race: Reasoning Models Reshape Providers' Approaches to AI Pricing.",
-      "url": "https://thesun.my/business/corporate-news/cycraft-named-a-sample-provider-in-the-gartner-latest-ai-reasoning-models-report-the-only-taiwan-based-cybersecurity-provider-listed/",
-      "source": "Thesun",
-      "sourceType": "external",
-      "image": "https://thesun.my/wp-content/uploads/2026/07/cycraft.webp",
-      "publishedAt": "2026-07-16T08:18:16.000Z",
-      "topic": "Security",
-      "tags": [
-        "cycraft"
+        "presses release",
+        "advertising",
+        "pr strategy",
+        "pr service",
+        "pr",
+        "marketing"
       ],
       "priority": 42
     },
     {
-      "id": "b885c0ec9a9d370e",
-      "slug": "why-the-uk-s-500m-sovereign-ai-bet-matters-more-than-ever-for-financial-services-0bae11",
-      "title": "Why the UK's £500M Sovereign AI Bet Matters More Than Ever for Financial Services",
-      "dek": "In April, the UK government launched its £500 million Sovereign AI Unit, the state-backed fund built to make Britain, in the (then) Prime Minister's words , \"an AI maker, not an AI taker\". At the time, it read as an industrial strategy. Within two months, Washington turned it into a warning. On 12 J",
-      "url": "https://financialit.net/blog/artificialintelligence/why-uks-ps500m-sovereign-ai-bet-matters-more-ever-financial-services",
-      "source": "Financial It",
+      "id": "0277f44bc34cf1b1",
+      "slug": "wipro-announces-results-for-the-quarter-ended-june-30-2026-4aac18",
+      "title": "Wipro announces results for the Quarter ended June 30, 2026",
+      "dek": "EAST BRUNSWICK, N.J. | BANGALORE : Wipro Limited (NYSE: WIT, BSE: 507685, NSE: WIPRO), a leading AI-powered technology services and consulting company, announced financial results under International Financial Reporting Standards (IFRS) for the quarter ended June 30, 2026. Highlights of the Results ",
+      "url": "https://www.fmlive.in/wipro-announces-results-for-the-quarter-ended-june-30-2026/",
+      "source": "Fm Live",
       "sourceType": "external",
-      "image": "https://financialit.net/sites/default/files/vikas_krishan_chief_digital_business_officer_at_altimetrik_7.jpg",
-      "publishedAt": "2026-07-16T07:38:36.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "Security",
-        "AI"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "1c2ad9e243d9a811",
-      "slug": "oracle-nyse-orcl-versus-scientific-learning-otcmkts-scil-head-to-head-review-249576",
-      "title": "Oracle (NYSE:ORCL) versus Scientific Learning (OTCMKTS:SCIL) Head-To-Head Review",
-      "dek": "Scientific Learning (OTCMKTS:SCIL – Get Free Report) and Oracle (NYSE:ORCL – Get Free Report) are both computer and technology companies, but which is the better stock? We will contrast the two businesses based on the strength of their risk, earnings, valuation, institutional ownership, dividends, a",
-      "url": "https://www.americanbankingnews.com/2026/07/16/oracle-nyseorcl-versus-scientific-learning-otcmktsscil-head-to-head-review.html",
-      "source": "Americanbankingnews",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-07-16T07:34:49.000Z",
-      "topic": "Security",
-      "tags": [
-        "stock analysis",
-        "comparison",
-        "otcmkts:scil",
-        "review",
-        "stock comparison",
-        "scil"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "f3cc923c79fef71b",
-      "slug": "want-an-ai-proof-job-new-research-says-you-may-be-safer-at-companies-embracing-the-techn-c26386",
-      "title": "Want an AI-proof job? New research says you may be safer at companies embracing the technology",
-      "dek": "The low-intensity, casual AI adopters didn’t see any hiring gains and reduced headcount.",
-      "url": "https://www.paradisepost.com/2026/07/16/ai-proof-jobs-companies-embracing-tech/",
-      "source": "Paradise Post",
-      "sourceType": "external",
-      "image": "https://www.paradisepost.com/wp-content/uploads/2026/07/202607070415MCT_____PHOTO____BIZ-WRK-AI-PROOF-JOBS-FILEPIC-GET.jpg?w=1600&resize=1600,900",
-      "publishedAt": "2026-07-16T07:01:15.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "network",
-        "business"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "297ed09b1e558d17",
-      "slug": "deep-sail-capital-q2-2026-investor-letter-df7e97",
-      "title": "Deep Sail Capital Q2 2026 Investor Letter",
-      "dek": "Deep Sail Capital Partners reported a 41.6% return in Q2 2026, driven by strong gains in AI-related infrastructure and optics. Read the full analysis for more details.",
-      "url": "https://seekingalpha.com/article/4922505-deep-sail-capital-q2-2026-investor-letter",
-      "source": "Seeking Alpha",
-      "sourceType": "external",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2218768036/image_2218768036.jpg?io=getty-c-w1280",
-      "publishedAt": "2026-07-16T06:55:00.000Z",
+      "image": "https://www.fmlive.in/wp-content/uploads/2021/10/DA-Portfolio-1024x1024-1.png",
+      "publishedAt": "2026-07-17T04:38:57.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "AI"
       ],
-      "priority": 41
-    },
-    {
-      "id": "5fd4121e680d1422",
-      "slug": "pernas-research-q2-2026-investment-letter-27e06f",
-      "title": "Pernas Research Q2 2026 Investment Letter",
-      "dek": "The Pernas Portfolio gained 30% in Q2, beating major benchmarks through high-growth tech holdings. Read the full analysis for more details on AI investment trends.",
-      "url": "https://seekingalpha.com/article/4922500-pernas-research-q2-2026-investment-letter",
-      "source": "Seeking Alpha",
-      "sourceType": "external",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1156875068/image_1156875068.jpg?io=getty-c-w1280",
-      "publishedAt": "2026-07-16T06:40:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "2798ece861655d6a",
-      "slug": "fiduciary-management-q2-2026-investment-strategy-outlook-97195f",
-      "title": "Fiduciary Management Q2 2026 Investment Strategy Outlook",
-      "dek": "FMI outlines its cautious stance on the AI bubble while identifying value in overlooked high-quality businesses. Read the full analysis for more details.",
-      "url": "https://seekingalpha.com/article/4922495-fiduciary-management-q2-2026-investment-strategy-outlook",
-      "source": "Seeking Alpha",
-      "sourceType": "external",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1352214366/image_1352214366.jpg?io=getty-c-w1280",
-      "publishedAt": "2026-07-16T06:15:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "e8118ad146c98f4c",
-      "slug": "2025-update-supply-chain-management-in-ecommerce-process-benefits-optimization-ae9bdf",
-      "title": "[2025 Update] Supply Chain Management in eCommerce : Process, Benefits, Optimization",
-      "dek": "Supply Chain Management in eCommerce : Process, Benefits, Optimization",
-      "url": "https://easyecom.io/blog/ecommerce-supply-chain-management",
-      "source": "Easyecom",
-      "sourceType": "external",
-      "image": "https://cdn.prod.website-files.com/63a40b5d0bd7064cf2860235/655f534eb04026d472bec0c7_supply%20chain%20process%20%20benifts%20optimisation.jpg",
-      "publishedAt": "2026-07-16T05:15:46.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
       "priority": 40
     },
     {
-      "id": "894fac57c5fd4399",
-      "slug": "esds-launches-swaraj-nandi-and-swaraj-hansa-two-sovereign-enterprise-security-platforms--6e9aad",
-      "title": "ESDS Launches Swaraj Nandi and Swaraj Hansa, Two Sovereign Enterprise Security Platforms Built Entirely in India",
-      "dek": "Mumbai (Maharashtra) [India], July 16: Two of the most exploited weaknesses in enterprise security, unwatched privileged access and unread security alerts, get closed at once, by a platform built for governance and a platform born inside a live security operations centre. Launched in the presence of",
-      "url": "https://www.aninews.in/news/business/esds-launches-swaraj-nandi-and-swaraj-hansa-two-sovereign-enterprise-security-platforms-built-entirely-in-india20260716174920/",
-      "source": "Ani (asian News International)",
+      "id": "ff86370221591cf4",
+      "slug": "low-code-development-platform-market-to-reach-usd-426-0-billion-by-2035-ai-powered-enter-55ff6e",
+      "title": "Low-Code Development Platform Market to Reach USD 426.0 Billion by 2035 | AI-Powered Enterprise Software Driving 25.1% CAGR Across North America, Europe & APAC",
+      "dek": "➤ Low-Code Development Platform Market Overview (2025-2035) The Low-Code Development Platform Market is witnessing exceptional growth as enterprises accelerate digital transformation, automate business processes, and reduce software development timelines. According to MarketGenics, the global Low-Co",
+      "url": "https://www.openpr.com/news/4579618/low-code-development-platform-market-to-reach-usd-426-0-billion",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/__sized__/ANI-20260716121903-thumbnail-320x180-70.jpg",
-      "publishedAt": "2026-07-16T00:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "enterprise security",
-        "advertorial disclaimer",
-        "vmpl",
-        "privileged access management",
-        "ai-powered siem",
-        "compliance architecture"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "26a823854021d76c",
-      "slug": "building-etl-pipelines-with-ai-424a72",
-      "title": "Building ETL Pipelines with AI",
-      "dek": "As the world’s leader in enterprise cloud data management, we’re prepared to help you intelligently lead—in any sector, category or niche",
-      "url": "https://www.informatica.com/resources/articles/build-etl-pipelines-with-ai.html",
-      "source": "Informatica Corporation",
-      "sourceType": "external",
-      "image": "https://www.informatica.com/content/dam/informatica-com/en/image/misc/infa-social-1600x630.png",
-      "publishedAt": "2026-07-16T00:00:00.000Z",
+      "image": "https://cdn.open-pr.com/L/7/L717757402_k.jpg",
+      "publishedAt": "2026-07-17T04:36:30.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "article",
-        "data integration"
+        "pr service",
+        "public relations",
+        "presses release",
+        "advertising",
+        "pr",
+        "pr marketing"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "ba00f15966b611b7",
+      "slug": "travelingwiki-expands-to-over-400-combined-sports-venues-global-airports-offering-text-v-4d508e",
+      "title": "TravelingWiki Expands to Over 400 Combined Sports Venues & Global Airports, Offering Text, Voice & Web Services in Up To 15 Global Languages",
+      "dek": "Total TravelingWiki.com and SportsFanWiki.com coverage includes over 258 sports venues (18,500 capacity or greater) and over 140 airports. This includes, but...",
+      "url": "https://www.prweb.com/releases/travelingwiki-expands-to-over-400-combined-sports-venues--global-airports-offering-text-voice--web-services-in-up-to-15-global-languages-302828099.html",
+      "source": "Prweb",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-07-17T00:30:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "travel",
+        "passenger aviation",
+        "general sports",
+        "hispanic",
+        "airlines & aviation",
+        "sporting events"
       ],
       "priority": 37
     },
     {
-      "id": "91e01cfe641bab42",
-      "slug": "top-10-cyber-attacks-of-2025-633ce7",
-      "title": "Top 10 Cyber-Attacks of 2025",
-      "dek": "Discover the most significant cyber-attacks of 2025 in Infosecurity Magazine’s expert roundup",
-      "url": "https://www.infosecurity-magazine.com/news-features/top-10-cyberattacks-of-2025/",
-      "source": "Infosecurity Magazine",
+      "id": "1830545f083b81ab",
+      "slug": "164-blog-posts-to-learn-about-career-development-78a360",
+      "title": "164 Blog Posts To Learn About Career Development",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/technology/164-blog-posts-to-learn-about-career-development-8A1022F9-8BB4-4324-B023-0B9910470153",
+      "source": "Bundle",
       "sourceType": "external",
-      "image": "https://assets.infosecurity-magazine.com/webpage/og/113b7cba-0869-41b4-839b-2ec75a1ca1e7.jpg",
-      "publishedAt": "2026-07-16T00:00:00.000Z",
-      "topic": "Security",
+      "image": "https://static.bundle.app/news/84c19784-9a36-5345-a965-4ef09cacd89f.jpg",
+      "publishedAt": "2026-07-16T22:31:30.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [],
-      "priority": 37
+      "priority": 36
     },
     {
-      "id": "7a77adef798320d0",
-      "slug": "oracle-the-massive-ai-backlog-won-t-save-the-balance-sheet-yet-nyse-orcl-bb675b",
-      "title": "Oracle: The Massive AI Backlog Won’t Save The Balance Sheet Yet (NYSE:ORCL)",
-      "dek": "Oracle Corporation pivots to AI cloud infrastructure as capex and debt surge. Click for this look at the positives and risks of ORCL.",
-      "url": "https://seekingalpha.com/article/4922432-oracle-the-massive-ai-backlog-wont-save-the-balance-sheet-yet",
-      "source": "Seeking Alpha",
+      "id": "2bde37e807493d45",
+      "slug": "momentum-hunter-tops-india-s-best-algo-trading-tools-2026-42f22a",
+      "title": "Momentum Hunter Tops India's Best Algo Trading Tools 2026",
+      "dek": "Momentum Hunter's TradingView swing and momentum indicator ranks No. 1 among India's top algo and signal trading tools for 2026, ahead of Streak and Sensibull. MUMBAI - 16 July, 2026 - Momentum Hunter [https://momentumhunter.in/], a Pine Script indicator built for swing",
+      "url": "https://www.openpr.com/news/4579556/momentum-hunter-tops-india-s-best-algo-trading-tools-2026",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2219617661/image_2219617661.jpg?io=getty-c-w1536",
-      "publishedAt": "2026-07-15T22:00:38.000Z",
+      "image": "https://cdn.open-pr.com/7/1/717394837_k.jpg",
+      "publishedAt": "2026-07-16T22:30:04.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "presses release",
+        "advertising",
+        "pr strategy",
+        "pr service",
+        "pr",
+        "marketing"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "eaf6a97dab0cf799",
+      "slug": "it-security-news-daily-summary-2026-07-16-ef634f",
+      "title": "IT Security News Daily Summary 2026-07-16",
+      "dek": "170 posts were published in the last hour 21:35 : How mapping security controls can ease the compliance burden 21:34 : Coca-Cola suspended production at its Fairlife dairy after a ransomware attack 20:34 : Wordfence Intelligence Weekly WordPress Vulnerability Report... Read more → The post IT Securi",
+      "url": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-07-16/",
+      "source": "It Security News",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-07-16T21:55:34.000Z",
       "topic": "Security",
       "tags": [
-        "ORCL",
-        "AI"
+        "daily summary",
+        "2026-07-16"
       ],
       "priority": 36
     },
@@ -1974,6 +1990,23 @@
         "Oracle Cloud",
         "OCI",
         "Oracle Cloud Infrastructure"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "6ba1bee89c8a91cc",
+      "slug": "what-is-containerization-0326f4",
+      "title": "What is Containerization?",
+      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-04T14:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "OCI",
+        "Oracle University"
       ],
       "priority": 36
     }
