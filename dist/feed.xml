@@ -6,7 +6,7 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 21:10:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 21:11:33 GMT</lastBuildDate>
     
     <item>
       <title>Oracle Sets the Date for its Fourth Quarter Fiscal Year 2026 Earnings Announcement</title>
@@ -36,49 +36,85 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-Second-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>The Cost of Cheap AI for US Tech</title>
-      <link>https://oracle-university.com/stories/the-cost-of-cheap-ai-for-us-tech-7b259d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-cost-of-cheap-ai-for-us-tech-7b259d/</guid>
-      <pubDate>Sat, 18 Jul 2026 08:54:00 GMT</pubDate>
+      <title>&quot;JDK 27 + Valhalla, Now! + Hackathon&quot; [IJN]</title>
+      <link>https://oracle-university.com/stories/jdk-27-valhalla-now-hackathon-ijn-ce9bfc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/jdk-27-valhalla-now-hackathon-ijn-ce9bfc/</guid>
+      <pubDate>Sun, 19 Jul 2026 09:24:00 GMT</pubDate>
+      <category>Java &amp; MySQL</category>
+      <description>JDK 27 entered Ramp-Down-Phase 1 in early June, so we can go over its features. Valhalla&#39;s first JDK Enhancement Proposal (401) will likely be part of JDK 28. Show off your Java ideas in the &quot; Modern Java in the Wild&quot; hackathon. There are two interesting articles for those who want to dive deeper in</description>
+      <source url="https://inside.java/2026/07/19/podcast-062/">Inside Java</source>
+    </item>
+    <item>
+      <title>SpaceX Extends Its AI Leasing Playbook to Pentagon</title>
+      <link>https://oracle-university.com/stories/spacex-extends-its-ai-leasing-playbook-to-pentagon-9c35c1/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/spacex-extends-its-ai-leasing-playbook-to-pentagon-9c35c1/</guid>
+      <pubDate>Sun, 19 Jul 2026 07:38:09 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Market Analysis by covering: Microsoft Corporation, Oracle Corporation, Alphabet Inc Class A, Apple Inc. Read &#39;s Market Analysis on Investing.com ZA.</description>
-      <source url="https://za.investing.com/analysis/the-cost-of-cheap-ai-for-us-tech-200621452">Investing South Africa</source>
+      <description>NewsGhana, Latest Updates and Breaking News of Ghana, News Ghana, https://www.newsghana.com.gh/spacex-extends-its-ai-leasing-playbook-to-pentagon/SpaceX is in talks to lease AI computing capacity to the Pentagon for billions of dollars, extending a leasing model it has already sold three times to pr</description>
+      <source url="https://www.newsghana.com.gh/spacex-extends-its-ai-leasing-playbook-to-pentagon/">News Ghana</source>
     </item>
     <item>
-      <title>US allows TikTok on government devices, says app no longer poses security risk</title>
-      <link>https://oracle-university.com/stories/us-allows-tiktok-on-government-devices-says-app-no-longer-poses-security-risk-b292ea/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/us-allows-tiktok-on-government-devices-says-app-no-longer-poses-security-risk-b292ea/</guid>
-      <pubDate>Sat, 18 Jul 2026 08:39:33 GMT</pubDate>
-      <category>Security</category>
-      <description>The US Justice Department has cleared federal employees to download and use TikTok on government-issued devices, reversing a restriction that had been in place since 2022 over national security concerns</description>
-      <source url="https://www.firstpost.com/world/us-allows-tiktok-on-government-devices-says-app-no-longer-poses-security-risk-14032289.html">Firstpost</source>
+      <title>Can AI industry survive if OpenAI collapses?</title>
+      <link>https://oracle-university.com/stories/can-ai-industry-survive-if-openai-collapses-ef253a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/can-ai-industry-survive-if-openai-collapses-ef253a/</guid>
+      <pubDate>Sun, 19 Jul 2026 06:07:02 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Ed Zitron, an AI critic and researcher, has warned that the ongoing boom in artificial intelligence (AI) is largely driven by OpenAI.</description>
+      <source url="https://www.newsbytesapp.com/news/business/openai-s-potential-collapse-could-rival-lehman-brothers-s-downfall-ai-researcher/story">Newsbytes</source>
     </item>
     <item>
-      <title>10 Enterprise SaaS Solutions Streamlining Finance Workflows In 2026</title>
-      <link>https://oracle-university.com/stories/10-enterprise-saas-solutions-streamlining-finance-workflows-in-2026-9986bb/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/10-enterprise-saas-solutions-streamlining-finance-workflows-in-2026-9986bb/</guid>
-      <pubDate>Sat, 18 Jul 2026 03:55:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Finance teams spent a long time running on spreadsheets, email approval chains, and a mad scramble every month-end to get the books closed. That’s changed faster than most people outside finance probably realize. There’s now a real software layer sitting between the moment money moves and the moment</description>
-      <source url="https://mpost.io/10-enterprise-saas-solutions-streamlining-finance-workflows-in-2026/">Metaverse Post</source>
+      <title>Silver DBA Oracle Database Administrati...</title>
+      <link>https://oracle-university.com/stories/silver-dba-oracle-database-administrati-4c4d6c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/silver-dba-oracle-database-administrati-4c4d6c/</guid>
+      <pubDate>Sun, 19 Jul 2026 00:24:59 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>ONLY AVAILABLE IN PAID PLANS</description>
+      <source url="http://www.semanario.pt/items/J27211272956/">Semanário Económico</source>
     </item>
     <item>
-      <title>17th Jul 2026 — Nifty Report — 127pts up, Reclaimed 6th Jul</title>
-      <link>https://oracle-university.com/stories/17th-jul-2026-nifty-report-127pts-up-reclaimed-6th-jul-d80f23/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/17th-jul-2026-nifty-report-127pts-up-reclaimed-6th-jul-d80f23/</guid>
-      <pubDate>Sat, 18 Jul 2026 03:18:23 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Nifty Stance: Neutral Last week, our markets reacted to the social media posts from Trump that the military activities in Iran may intensify. Our markets fell first and then retraced a portion of their losses. This week, we ensured the retracement is complete, and we are now trading at a level as se</description>
-      <source url="https://in.tradingview.com/chart/NIFTY/kIBKf6qj-17th-Jul-2026-Nifty-Report-127pts-up-Reclaimed-6th-Jul/">Tradingview</source>
-    </item>
-    <item>
-      <title>500 Blog Posts To Learn About Cloud Computing</title>
-      <link>https://oracle-university.com/stories/500-blog-posts-to-learn-about-cloud-computing-39e925/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/500-blog-posts-to-learn-about-cloud-computing-39e925/</guid>
-      <pubDate>Fri, 17 Jul 2026 22:31:31 GMT</pubDate>
+      <title>Junaid Saifi Appointed IT Manager at JW Marriott Kolkata</title>
+      <link>https://oracle-university.com/stories/junaid-saifi-appointed-it-manager-at-jw-marriott-kolkata-8b8872/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/junaid-saifi-appointed-it-manager-at-jw-marriott-kolkata-8b8872/</guid>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
       <category>Oracle Ecosystem</category>
       <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.bundle.app/en/technology/500-blog-posts-to-learn-about-cloud-computing-F94B4584-9C4E-4DED-8C79-947AFBD6BAF2">Bundle</source>
+      <source url="https://hospitalitynews.in/news/junaid-saifi-joins-jw-marriott-kolkata-as-it-manager">Hospitalitynews</source>
+    </item>
+    <item>
+      <title>NVIDIA Vera Rubin Cuts Post-Training Token Costs With Seven-Chip Codesign</title>
+      <link>https://oracle-university.com/stories/nvidia-vera-rubin-cuts-post-training-token-costs-with-seven-chip-codesign-edbc38/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/nvidia-vera-rubin-cuts-post-training-token-costs-with-seven-chip-codesign-edbc38/</guid>
+      <pubDate>Sat, 18 Jul 2026 23:31:12 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>NVIDIA Vera Rubin platform targets post-training AI costs with a seven-chip codesign architecture delivering 22 TB/s of HBM4 bandwidth per GPU, double the NVLink 6 speed of Blackwell, and claimed 10x lower inference token costs — with cloud deployments now rolling out to AWS, Azure, Google Cloud, an</description>
+      <source url="https://www.techtimes.com/articles/320933/20260718/nvidia-vera-rubin-cuts-post-training-token-costs-seven-chip-codesign.htm">Techtimes</source>
+    </item>
+    <item>
+      <title>Federal Workers Reinstated on TikTok: DOJ Lifts 2022 Ban After Ownership Shift</title>
+      <link>https://oracle-university.com/stories/federal-workers-reinstated-on-tiktok-doj-lifts-2022-ban-after-ownership-shift-ed6293/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/federal-workers-reinstated-on-tiktok-doj-lifts-2022-ban-after-ownership-shift-ed6293/</guid>
+      <pubDate>Sat, 18 Jul 2026 22:52:06 GMT</pubDate>
+      <category>Security</category>
+      <description>The DOJ has lifted the 2022 TikTok ban on federal government devices following an ownership transfer to a U.S.-backed joint venture. President Trump approved the change, giving agencies discretion. This reversal eases prior national security restrictions while raising fresh questions about data safe</description>
+      <source url="https://www.webpronews.com/federal-workers-reinstated-on-tiktok-doj-lifts-2022-ban-after-ownership-shift/">Webpronews</source>
+    </item>
+    <item>
+      <title>Your Data Is Already Sold: How to Fight Back Against Brokers Profiting From Your Life</title>
+      <link>https://oracle-university.com/stories/your-data-is-already-sold-how-to-fight-back-against-brokers-profiting-from-your-life-579829/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/your-data-is-already-sold-how-to-fight-back-against-brokers-profiting-from-your-life-579829/</guid>
+      <pubDate>Sat, 18 Jul 2026 22:42:05 GMT</pubDate>
+      <category>Security</category>
+      <description>Data brokers sell your addresses, family ties, and history to scammers and marketers, creating phishing and stalking risks. California&#39;s DROP tool now lets residents mass-delete from 600+ brokers starting August, while services like Incogni automate opt-outs. Persistent effort pays off with fewer th</description>
+      <source url="https://www.webpronews.com/your-data-is-already-sold-how-to-fight-back-against-brokers-profiting-from-your-life/">Webpronews</source>
+    </item>
+    <item>
+      <title>137 Blog Posts To Learn About Cloud Native</title>
+      <link>https://oracle-university.com/stories/137-blog-posts-to-learn-about-cloud-native-67f835/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/137-blog-posts-to-learn-about-cloud-native-67f835/</guid>
+      <pubDate>Sat, 18 Jul 2026 22:31:30 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>ONLY AVAILABLE IN PAID PLANS</description>
+      <source url="https://www.bundle.app/en/technology/137-blog-posts-to-learn-about-cloud-native-838478C0-6FEE-411F-9B8F-BE33AE60F995">Bundle</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -421,42 +457,6 @@
       <category>Applications &amp; NetSuite</category>
       <description>In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to explore Oracle&#39;s approach to enterprise AI. The conversation covers the essential components of the Oracle AI stack and how each part, from the foundational infrastructure to business-specific appli</description>
       <source url="https://oracleuniversitypodcast.libsyn.com/oracles-ai-ecosystem">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Buy or Build AI?</title>
-      <link>https://oracle-university.com/stories/buy-or-build-ai-6e5a7d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/buy-or-build-ai-6e5a7d/</guid>
-      <pubDate>Tue, 09 Sep 2025 11:14:43 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>How do you decide whether to buy a ready-made AI solution or build one from the ground up? The choice is more than just a technical decision; it&#39;s about aligning AI with your business goals. In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to examine</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/buy-or-build-ai">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>The AI Workflow</title>
-      <link>https://oracle-university.com/stories/the-ai-workflow-2273cc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-ai-workflow-2273cc/</guid>
-      <pubDate>Tue, 02 Sep 2025 11:00:00 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>Join Lois Houston and Nikita Abraham as they chat with Yunus Mohammed, a Principal Instructor at Oracle University, about the key stages of AI model development. From gathering and preparing data to selecting, training, and deploying models, learn how each phase impacts AI&#39;s real-world effectiveness</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/the-ai-workflow">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Core AI Concepts – Part 3</title>
-      <link>https://oracle-university.com/stories/core-ai-concepts-part-3-b8133b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/core-ai-concepts-part-3-b8133b/</guid>
-      <pubDate>Tue, 26 Aug 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Join hosts Lois Houston and Nikita Abraham, along with Principal AI/ML Instructor Himanshu Raj, as they discuss the transformative world of Generative AI. Together, they uncover the ways in which generative AI agents are changing the way we interact with technology, automating tasks and delivering n</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-3">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Core AI Concepts – Part 2</title>
-      <link>https://oracle-university.com/stories/core-ai-concepts-part-2-7bf4a7/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/core-ai-concepts-part-2-7bf4a7/</guid>
-      <pubDate>Tue, 19 Aug 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>In this episode, Lois Houston and Nikita Abraham continue their discussion on AI fundamentals, diving into Data Science with Principal AI/ML Instructor Himanshu Raj. They explore key concepts like data collection, cleaning, and analysis, and talk about how quality data drives impactful insights. AI </description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-2">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
