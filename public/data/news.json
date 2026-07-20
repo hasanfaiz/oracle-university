@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T21:11:33.921Z",
+  "generatedAt": "2026-07-20T21:38:01.109Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -55,159 +55,334 @@
       "priority": 46
     },
     {
-      "id": "5f3585d4af2459d4",
-      "slug": "jdk-27-valhalla-now-hackathon-ijn-ce9bfc",
-      "title": "\"JDK 27 + Valhalla, Now! + Hackathon\" [IJN]",
-      "dek": "JDK 27 entered Ramp-Down-Phase 1 in early June, so we can go over its features. Valhalla's first JDK Enhancement Proposal (401) will likely be part of JDK 28. Show off your Java ideas in the \" Modern Java in the Wild\" hackathon. There are two interesting articles for those who want to dive deeper in",
-      "url": "https://inside.java/2026/07/19/podcast-062/",
-      "source": "Inside Java",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/insidejava/2026-07-inside-java-podcast-62--ijn113.mp3?dest-id=2318780",
-      "publishedAt": "2026-07-19T09:24:00.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "Java",
-        "JDK"
-      ],
-      "priority": 44
+      "id": "5ed0adba4c2a9f15",
+      "slug": "top-cybersecurity-stocks-to-research-july-19th-516185",
+      "title": "Top Cybersecurity Stocks To Research – July 19th",
+      "dek": "Palo Alto Networks, CrowdStrike, Fortinet, BlackBerry, SentinelOne, Globant, and NetScout Systems are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop products and services designed",
+      "url": "https://www.defenseworld.net/2026/07/20/top-cybersecurity-stocks-to-research-july-19th.html",
+      "source": "Defenseworld Net",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/palo-alto-networks-inc-logo-1200x675.png?v=20231213132526",
+      "publishedAt": "2026-07-20T09:06:50.000Z",
+      "topic": "Security",
+      "tags": [],
+      "priority": 43
     },
     {
-      "id": "bb4c8e125dbd4605",
-      "slug": "spacex-extends-its-ai-leasing-playbook-to-pentagon-9c35c1",
-      "title": "SpaceX Extends Its AI Leasing Playbook to Pentagon",
-      "dek": "NewsGhana, Latest Updates and Breaking News of Ghana, News Ghana, https://www.newsghana.com.gh/spacex-extends-its-ai-leasing-playbook-to-pentagon/SpaceX is in talks to lease AI computing capacity to the Pentagon for billions of dollars, extending a leasing model it has already sold three times to pr",
-      "url": "https://www.newsghana.com.gh/spacex-extends-its-ai-leasing-playbook-to-pentagon/",
-      "source": "News Ghana",
+      "id": "cdd2a31a07f2df23",
+      "slug": "global-sovereign-ai-infrastructure-intelligence-tracking-the-global-race-for-ai-sovereig-5d1e1e",
+      "title": "Global Sovereign AI Infrastructure Intelligence - Tracking the Global Race for AI Sovereignty 2026-2040",
+      "dek": "Artificial Intelligence is rapidly evolving from a commercial technology opportunity into a defining geopolitical and strategic competition. Just as previous decades witnessed global races for energy resources, industrial manufacturing capacity, and semiconductor leadership, nations are now competin",
+      "url": "https://www.openpr.com/news/4580351/global-sovereign-ai-infrastructure-intelligence-tracking",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://www.newsghana.com.gh/wp-content/uploads/2026/07/SpaceX-696x392.webp",
-      "publishedAt": "2026-07-19T07:38:09.000Z",
+      "image": "https://cdn.open-pr.com/L/7/L717930075_k.jpg",
+      "publishedAt": "2026-07-20T08:35:24.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "AI"
+        "publicity",
+        "pr service",
+        "presses release",
+        "pr marketing",
+        "advertising",
+        "marketing"
       ],
       "priority": 42
     },
     {
-      "id": "201557d30b052bff",
-      "slug": "can-ai-industry-survive-if-openai-collapses-ef253a",
-      "title": "Can AI industry survive if OpenAI collapses?",
-      "dek": "Ed Zitron, an AI critic and researcher, has warned that the ongoing boom in artificial intelligence (AI) is largely driven by OpenAI.",
-      "url": "https://www.newsbytesapp.com/news/business/openai-s-potential-collapse-could-rival-lehman-brothers-s-downfall-ai-researcher/story",
-      "source": "Newsbytes",
+      "id": "bd7d56551b050bfb",
+      "slug": "global-ai-water-infrastructure-intelligence-managing-the-water-behind-artificial-intelli-5af594",
+      "title": "Global AI Water Infrastructure Intelligence - Managing the Water Behind Artificial Intelligence (2026-2040)",
+      "dek": "Artificial Intelligence is rapidly evolving into not only an energy-intensive industry, but also one of the world's fastest-growing industrial consumers of water resources. The rise of hyperscale AI campuses, GPU manufacturing facilities, and liquid-cooled data centers is significantly increasing in",
+      "url": "https://www.openpr.com/news/4580319/global-ai-water-infrastructure-intelligence-managing",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://i.cdn.newsbytesapp.com/images/l71520260719101659.jpeg",
-      "publishedAt": "2026-07-19T06:07:02.000Z",
+      "image": "https://cdn.open-pr.com/L/7/L717933643_k.jpg",
+      "publishedAt": "2026-07-20T08:35:23.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "publicity",
+        "pr service",
+        "presses release",
+        "pr marketing",
+        "advertising",
+        "marketing"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "ebbdcaca77c851eb",
+      "slug": "ibm-s-trading-range-reflects-a-battle-between-quantum-promise-and-ai-reality-59795a",
+      "title": "IBM’s Trading Range Reflects a Battle Between Quantum Promise and AI Reality",
+      "dek": "Market Analysis by covering: International Business Machines. Read 's Market Analysis on Investing.com",
+      "url": "https://www.investing.com/analysis/ibms-trading-range-reflects-a-battle-between-quantum-promise-and-ai-reality-200684193",
+      "source": "Investing Us",
+      "sourceType": "external",
+      "image": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+      "publishedAt": "2026-07-20T08:32:00.000Z",
       "topic": "Oracle Ecosystem",
+      "tags": [
+        "international business machines"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "de20e238c070b42e",
+      "slug": "fde-hiring-surges-as-indian-it-puts-ai-into-production-77d7a5",
+      "title": "FDE hiring surges as Indian IT puts AI into production",
+      "dek": "The Indian IT sector is now hiring engineers who combine engineering with consulting and delivery skills. These Forward Deployed Engineers (FDEs) embed with client teams to take AI and digital projects from pilot to deployment. Over the past few months, IT services firms have increased their focus o",
+      "url": "https://www.deccanherald.com/business/fde-hiring-surges-as-indian-it-puts-ai-into-production-2-4080076",
+      "source": "Deccan Herald",
+      "sourceType": "external",
+      "image": "https://media.assettype.com/deccanherald/2026-07-20/m3wdkd9l/iStock-2012746910.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "publishedAt": "2026-07-20T08:30:12.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "aws ai investment",
+        "indian it hiring trends",
+        "pocs in ai",
+        "campus hiring ai skills",
+        "hcltech elite engineers",
+        "ai-native development"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "8d107d239e43f4db",
+      "slug": "global-ai-networking-connectivity-infrastructure-intelligence-connecting-the-factories-o-d3f80d",
+      "title": "Global AI Networking & Connectivity Infrastructure - Intelligence Connecting the Factories of Artificial Intelligence (2026-2040)",
+      "dek": "Artificial Intelligence is triggering the largest global networking investment cycle since the emergence of the internet. As AI models evolve from billions to trillions of parameters, the movement of data across GPUs, accelerators, storage systems, and distributed computing environments is",
+      "url": "https://www.openpr.com/news/4579921/global-ai-networking-connectivity-infrastructure",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/7/L717843188_k.jpg",
+      "publishedAt": "2026-07-20T08:27:24.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "publicity",
+        "pr service",
+        "presses release",
+        "pr marketing",
+        "advertising",
+        "marketing"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "34bcc22cd1192409",
+      "slug": "dimensional-fund-advisors-lp-increases-stock-position-in-oracle-corporation-orcl-fa3e10",
+      "title": "Dimensional Fund Advisors LP Increases Stock Position in Oracle Corporation $ORCL",
+      "dek": "Dimensional Fund Advisors LP raised its stake in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 1.7% in the 1st quarter, according to its most recent 13F filing with the Securities & Exchange Commission. The fund owned 8,586,492 shares of the enterprise software provider’s stock after pur",
+      "url": "https://www.americanbankingnews.com/2026/07/20/dimensional-fund-advisors-lp-increases-stock-position-in-oracle-corporation-orcl.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-07-20T08:11:11.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "orcl",
+        "oracle",
+        "13f",
+        "hedge fund holdings",
+        "68389x10",
+        "sec filings"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "f84abbf964d97280",
+      "slug": "clsa-initiates-oracle-stock-coverage-with-hold-rating-on-ai-debt-concerns-095048",
+      "title": "CLSA initiates Oracle stock coverage with hold rating on AI debt concerns",
+      "dek": "CLSA initiates Oracle stock coverage with hold rating on AI debt concerns",
+      "url": "https://ph.investing.com/news/stock-market-news/clsa-initiates-oracle-stock-coverage-with-hold-rating-on-ai-debt-concerns-93CH-2498427",
+      "source": "Investing Philippines",
+      "sourceType": "external",
+      "image": "https://i-invdn-com.investing.com/news/oracle_2_M_1440048709.jpg",
+      "publishedAt": "2026-07-20T07:34:12.000Z",
+      "topic": "Business & Earnings",
       "tags": [
         "AI"
       ],
       "priority": 41
     },
     {
-      "id": "d855cacbd11cb3c0",
-      "slug": "silver-dba-oracle-database-administrati-4c4d6c",
-      "title": "Silver DBA Oracle Database Administrati...",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "http://www.semanario.pt/items/J27211272956/",
-      "source": "Semanário Económico",
+      "id": "b02c50b4e5851160",
+      "slug": "downfall-of-a-wall-street-darling-why-oracle-shares-crashed-65-from-peak-56fd2a",
+      "title": "Downfall of a Wall Street darling: Why Oracle shares crashed 65% from peak",
+      "dek": "Oracle shares have dropped about 65% from their peak as investors shift focus from AI-driven cloud growth to rising capital expenditure, debt and execution risks. Despite strong OCI revenue and a massive backlog, markets seek proof that AI investments can generate sustainable returns.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/downfall-of-a-wall-street-darling-why-oracle-shares-crashed-65-from-peak/articleshow/132516113.cms",
+      "source": "The Economic Times",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-07-19T00:24:59.000Z",
+      "image": "https://img.etimg.com/thumb/msid-132516113,resizemode-4,width-1200,height-900,imgsize-91498,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-07-20T07:09:43.000Z",
+      "topic": "Security",
+      "tags": [
+        "oracle",
+        "ai cloud demand",
+        "capital expenditure",
+        "oci revenue",
+        "oracle shares",
+        "oracle cloud infrastructure"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "5477cf36e7ed5f33",
+      "slug": "mysql-connectivity-from-sap-integration-suite-workaround-needed-75427a",
+      "title": "MySQL connectivity from SAP Integration Suite - workaround needed",
+      "dek": "Hello, We're trying to set up a connection from SAP Integration Suite (Cloud Integration), via the JDBC adapter (with Cloud Connector), to an on-premise MySQL database In the JDBC Data Source configuration, there's no separate type for MySQL, only MariaDB, SQL Server, Oracle, and DB2. Our research i",
+      "url": "https://community.sap.com/t5/technology-q-a/mysql-connectivity-from-sap-integration-suite-workaround-needed/qaq-p/14442745",
+      "source": "Sap",
+      "sourceType": "external",
+      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
+      "publishedAt": "2026-07-20T06:59:43.000Z",
       "topic": "AI & Database",
       "tags": [
-        "Oracle Database"
+        "MySQL"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "dd13a0507a21e22b",
+      "slug": "rdb-consulting-pioneers-ai-driven-infrastructure-optimisation-tools-for-sa-stud-book-906f89",
+      "title": "RDB Consulting pioneers AI-driven infrastructure optimisation tools for SA Stud Book",
+      "dek": "The company has assisted SA Stud Book in improving the speed and reliability of its mission-critical infrastructure and establishing the foundation for in-house digital development.",
+      "url": "https://www.itweb.co.za/article/rdb-consulting-pioneers-ai-driven-infrastructure-optimisation-tools-for-sa-stud-book/dgp45qaB8m5vX9l8",
+      "source": "Itweb",
+      "sourceType": "external",
+      "image": "https://www.itweb.co.za/static/pictures/2026/07/Bobbie-van-der-Westhuizen-20July2026.jpg",
+      "publishedAt": "2026-07-20T06:32:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "animal recording",
+        "sa stud book",
+        "livestock breeding industry",
+        "kobus jacobs",
+        "kgosi moleme",
+        "ai-driven infrastructure optimisation tools"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "7846ed0b3a41f82f",
+      "slug": "multisoft-systems-introduces-industry-focused-synchro-4d-training-for-advanced-construct-c2294a",
+      "title": "Multisoft Systems Introduces Industry-Focused Synchro 4D Training for Advanced Construction Planning and BIM Professionals",
+      "dek": "The construction industry is rapidly embracing digital technologies to improve project planning, collaboration, and execution. Among the most innovative solutions driving this transformation is Synchro 4D, a powerful construction planning platform that combines 3D Building Information Modeling (BIM)",
+      "url": "http://prsync.com/multisoft-systems/multisoft-systems-introduces-industry-focused-synchro-d-training-for-advanced-construction-planning-and-bim-professionals-5192165/",
+      "source": "Pr Sync",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-07-20T05:57:59.000Z",
+      "topic": "Training & Certification",
+      "tags": [],
+      "priority": 40
+    },
+    {
+      "id": "d42d32975340b619",
+      "slug": "this-us-tech-billionaire-once-begged-power-companies-to-keep-his-electricity-on-faced-re-57442c",
+      "title": "This US tech billionaire once begged power companies to keep his electricity on, faced rejection from almost every investor, now owns a $300 million Hawaiian island",
+      "dek": "Larry Ellison, the co-founder of Oracle, once struggled to pay his electricity bills for his computer and faced investor rejection while building his early software products. Later, he named his company Oracle after a CIA project code. Ellison purchased nearly all of a Hawaiian island for three hund",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/this-us-tech-billionaire-larry-ellison-oracle-once-begged-power-companies-to-keep-his-electricity-on-faced-rejection-from-almost-every-investor-now-owns-a-300-million-hawaiian-island/articleshow/132506460.cms",
+      "source": "The Economic Times",
+      "sourceType": "external",
+      "image": "https://img.etimg.com/thumb/msid-132506485,resizemode-4,width-1200,height-900,imgsize-21654,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-07-20T05:09:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "larry ellison hawaiian island",
+        "larry ellison yachts",
+        "oracle corporation",
+        "oracle founder",
+        "oracle cloud computing",
+        "larry ellison biography"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "bdda60e863e0ca62",
+      "slug": "lost-job-to-ai-the-real-enemy-isn-t-the-bot-it-s-your-boss-here-s-proof-9fbc36",
+      "title": "Lost Job to AI? The Real Enemy Isn’t The Bot – It’s Your Boss. Here’s Proof",
+      "dek": "While companies hide behind AI to fire thousands, one Chinese billionaire is choosing to retrain his workers even while automating, something few in the world are doing, even when research finds it’s profitable, finds Satyen K. Bordoloi Richard Liu, founder of JD.com, China’s answer to Amazon, is a ",
+      "url": "https://www.sify.com/ai-analytics/lost-job-to-ai-the-real-enemy-isnt-the-bot-its-your-boss-heres-proof/",
+      "source": "Sify News",
+      "sourceType": "external",
+      "image": "https://www.sify.com/wp-content/uploads/2026/07/ai-job-loss.webp",
+      "publishedAt": "2026-07-20T05:01:47.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "it job cuts",
+        "ai automation",
+        "satyen k. bordoloi",
+        "artificial intelligence",
+        "spotlight"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "74d4fa69e2675aee",
+      "slug": "oracle-unveils-ai-native-builder-for-fusion-applications-amid-strong-customer-adoption-a-1b09ac",
+      "title": "Oracle Unveils AI-Native Builder for Fusion Applications Amid Strong Customer Adoption and Financial Growth",
+      "dek": "Oracle's new AI-native builder for Fusion Applications enables no-code to pro-code development. See how Red Bull Racing and Clayton use it, and why RPO surged to $638B despite a stock dip. The post Oracle Unveils AI-Native Builder for Fusion Applications Amid Strong Customer Adoption and Financial G",
+      "url": "https://www.sourcetrail.com/software/oracle-unveils-ai-native-builder-for-fusion-applications-amid-strong-customer-adoption-and-financial-growth/",
+      "source": "sourcetrail",
+      "sourceType": "external",
+      "image": "https://www.sourcetrail.com/wp-content/uploads/2026/07/Oracle-4.jpg",
+      "publishedAt": "2026-07-20T00:30:11.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "AI"
       ],
       "priority": 37
     },
     {
-      "id": "47a8e6fc98818da8",
-      "slug": "junaid-saifi-appointed-it-manager-at-jw-marriott-kolkata-8b8872",
-      "title": "Junaid Saifi Appointed IT Manager at JW Marriott Kolkata",
+      "id": "14f10de7a0913b33",
+      "slug": "hyatt-adopts-oracle-opera-cloud-for-property-management-d77e14",
+      "title": "Hyatt Adopts Oracle OPERA Cloud for Property Management",
       "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://hospitalitynews.in/news/junaid-saifi-joins-jw-marriott-kolkata-as-it-manager",
+      "url": "https://hospitalitynews.in/news/hyatt-selects-oracle-opera-cloud-as-global-property-management-system",
       "source": "Hospitalitynews",
       "sourceType": "external",
-      "image": "https://hospitalitynews.in/uploads/images/202504/image_870x580_6807960e9a575.jpg",
-      "publishedAt": "2026-07-19T00:00:00.000Z",
+      "image": "https://hospitalitynews.in/uploads/images/202409/image_870x580_66e9776eb1a25.jpg",
+      "publishedAt": "2026-07-20T00:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [],
       "priority": 37
     },
     {
-      "id": "f4defd8fe4446721",
-      "slug": "nvidia-vera-rubin-cuts-post-training-token-costs-with-seven-chip-codesign-edbc38",
-      "title": "NVIDIA Vera Rubin Cuts Post-Training Token Costs With Seven-Chip Codesign",
-      "dek": "NVIDIA Vera Rubin platform targets post-training AI costs with a seven-chip codesign architecture delivering 22 TB/s of HBM4 bandwidth per GPU, double the NVLink 6 speed of Blackwell, and claimed 10x lower inference token costs — with cloud deployments now rolling out to AWS, Azure, Google Cloud, an",
-      "url": "https://www.techtimes.com/articles/320933/20260718/nvidia-vera-rubin-cuts-post-training-token-costs-seven-chip-codesign.htm",
-      "source": "Techtimes",
+      "id": "90a42e6add0835f5",
+      "slug": "itransition-named-the-leading-microsoft-dynamics-365-finance-supply-chain-management-par-ace350",
+      "title": "Itransition Named the Leading Microsoft Dynamics 365 Finance & Supply Chain Management Partner by ERP Pilot",
+      "dek": "Itransition earns the top position for its expertise in Dynamics 365 Finance and Supply Chain Management consulting, implementation, and support.",
+      "url": "https://www.einpresswire.com/article/927075259/itransition-named-the-leading-microsoft-dynamics-365-finance-supply-chain-management-partner-by-erp-pilot",
+      "source": "Ein Presswire",
       "sourceType": "external",
-      "image": "https://d.techtimes.com/en/full/469176/nvidia-co-packaged-optics-based-switches.jpg",
-      "publishedAt": "2026-07-18T23:31:12.000Z",
-      "topic": "Training & Certification",
+      "image": "https://img.einnews.com/ampsize/1153035/itransition-in-erp-pilot-rating.png",
+      "publishedAt": "2026-07-20T00:00:00.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "nvidia vera rubin",
-        "ai inference",
-        "nvidia dynamo inference",
-        "gpu cloud",
-        "nvidia",
-        "agentic ai"
+        "united kingdom",
+        "it industry",
+        "worldnews",
+        "georgia",
+        "united states"
       ],
-      "priority": 36
+      "priority": 37
     },
     {
-      "id": "be17b2c34e4a4905",
-      "slug": "federal-workers-reinstated-on-tiktok-doj-lifts-2022-ban-after-ownership-shift-ed6293",
-      "title": "Federal Workers Reinstated on TikTok: DOJ Lifts 2022 Ban After Ownership Shift",
-      "dek": "The DOJ has lifted the 2022 TikTok ban on federal government devices following an ownership transfer to a U.S.-backed joint venture. President Trump approved the change, giving agencies discretion. This reversal eases prior national security restrictions while raising fresh questions about data safe",
-      "url": "https://www.webpronews.com/federal-workers-reinstated-on-tiktok-doj-lifts-2022-ban-after-ownership-shift/",
-      "source": "Webpronews",
-      "sourceType": "external",
-      "image": "https://www.webpronews.com/wp-content/uploads/2026/07/article-21483-1784411799.jpeg",
-      "publishedAt": "2026-07-18T22:52:06.000Z",
-      "topic": "Security",
-      "tags": [
-        "federal employees tiktok",
-        "doj tiktok reversal",
-        "tiktok federal ban",
-        "government devices policy",
-        "tiktok ownership transfer",
-        "top news"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "40e65b2560dd5c8d",
-      "slug": "your-data-is-already-sold-how-to-fight-back-against-brokers-profiting-from-your-life-579829",
-      "title": "Your Data Is Already Sold: How to Fight Back Against Brokers Profiting From Your Life",
-      "dek": "Data brokers sell your addresses, family ties, and history to scammers and marketers, creating phishing and stalking risks. California's DROP tool now lets residents mass-delete from 600+ brokers starting August, while services like Incogni automate opt-outs. Persistent effort pays off with fewer th",
-      "url": "https://www.webpronews.com/your-data-is-already-sold-how-to-fight-back-against-brokers-profiting-from-your-life/",
-      "source": "Webpronews",
-      "sourceType": "external",
-      "image": "https://www.webpronews.com/wp-content/uploads/2026/07/article-21482-1784411643.jpeg",
-      "publishedAt": "2026-07-18T22:42:05.000Z",
-      "topic": "Security",
-      "tags": [
-        "drop platform",
-        "data brokers",
-        "top news",
-        "opt out data brokers",
-        "california delete act",
-        "personal data removal"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "8fd068caec37613e",
-      "slug": "137-blog-posts-to-learn-about-cloud-native-67f835",
-      "title": "137 Blog Posts To Learn About Cloud Native",
+      "id": "cded7ace4193dedf",
+      "slug": "your-first-oracle-autonomous-database-on-oci-always-free-d399be",
+      "title": "Your First Oracle Autonomous Database on OCI Always Free",
       "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/technology/137-blog-posts-to-learn-about-cloud-native-838478C0-6FEE-411F-9B8F-BE33AE60F995",
+      "url": "https://www.bundle.app/en/technology/your-first-oracle-autonomous-database-on-oci-always-free-B3735BBC-C492-4F32-8AB5-5B26F1EAFEC5",
       "source": "Bundle",
       "sourceType": "external",
-      "image": "https://static.bundle.app/news/07c562ad-d64b-5a0b-81c0-b46d34ffc372.jpg",
-      "publishedAt": "2026-07-18T22:31:30.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
+      "image": "https://static.bundle.app/news/13f6e88a-00ec-5695-bafc-9996caea8a8d.jpg",
+      "publishedAt": "2026-07-19T23:19:31.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "OCI",
+        "Autonomous Database"
+      ],
       "priority": 36
     },
     {
@@ -1829,152 +2004,6 @@
       "sourceType": "podcast",
       "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
       "publishedAt": "2024-07-09T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "d38db88cd3fd3cc0",
-      "slug": "working-with-oke-virtual-nodes-f5a370",
-      "title": "Working with OKE Virtual Nodes",
-      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-02T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "bd401ec004db1755",
-      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
-      "title": "Introduction to OCI Container Engine for Kubernetes",
-      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-25T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "1d3aa287378f7e71",
-      "slug": "basics-of-kubernetes-23e26c",
-      "title": "Basics of Kubernetes",
-      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
-      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-18T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ec54bf5b81f570ed",
-      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
-      "title": "Oracle Cloud Infrastructure Registry",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-11T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "OCI",
-        "Oracle Cloud Infrastructure"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "6ba1bee89c8a91cc",
-      "slug": "what-is-containerization-0326f4",
-      "title": "What is Containerization?",
-      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-04T14:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "OCI",
-        "Oracle University"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "b45e3d006fc93558",
-      "slug": "encore-episode-oci-ai-services-5e7f50",
-      "title": "Encore Episode: OCI AI Services",
-      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-28T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI",
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "57fe9154d1531745",
-      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
-      "title": "Encore Episode: Generative AI and Large Language Models",
-      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-14T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "60d141d1ef069450",
-      "slug": "encore-episode-deep-learning-fe981b",
-      "title": "Encore Episode: Deep Learning",
-      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-07T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "311a8fe7e2892283",
-      "slug": "encore-episode-machine-learning-ee26a4",
-      "title": "Encore Episode: Machine Learning",
-      "dek": "Does machine learning feel like too convoluted a topic? Not anymore! Listen to hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Hemant Gahankari, talk about foundational machine learning concepts and dive into how supervised learning, unsupervised learning, and reinf",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-machine-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-30T14:00:00.000Z",
       "topic": "Oracle Cloud",
       "tags": [
         "OCI"

@@ -6,7 +6,7 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 21:11:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 21:38:01 GMT</lastBuildDate>
     
     <item>
       <title>Oracle Sets the Date for its Fourth Quarter Fiscal Year 2026 Earnings Announcement</title>
@@ -36,85 +36,166 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-Second-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>&quot;JDK 27 + Valhalla, Now! + Hackathon&quot; [IJN]</title>
-      <link>https://oracle-university.com/stories/jdk-27-valhalla-now-hackathon-ijn-ce9bfc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/jdk-27-valhalla-now-hackathon-ijn-ce9bfc/</guid>
-      <pubDate>Sun, 19 Jul 2026 09:24:00 GMT</pubDate>
-      <category>Java &amp; MySQL</category>
-      <description>JDK 27 entered Ramp-Down-Phase 1 in early June, so we can go over its features. Valhalla&#39;s first JDK Enhancement Proposal (401) will likely be part of JDK 28. Show off your Java ideas in the &quot; Modern Java in the Wild&quot; hackathon. There are two interesting articles for those who want to dive deeper in</description>
-      <source url="https://inside.java/2026/07/19/podcast-062/">Inside Java</source>
+      <title>Top Cybersecurity Stocks To Research – July 19th</title>
+      <link>https://oracle-university.com/stories/top-cybersecurity-stocks-to-research-july-19th-516185/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/top-cybersecurity-stocks-to-research-july-19th-516185/</guid>
+      <pubDate>Mon, 20 Jul 2026 09:06:50 GMT</pubDate>
+      <category>Security</category>
+      <description>Palo Alto Networks, CrowdStrike, Fortinet, BlackBerry, SentinelOne, Globant, and NetScout Systems are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop products and services designed</description>
+      <source url="https://www.defenseworld.net/2026/07/20/top-cybersecurity-stocks-to-research-july-19th.html">Defenseworld Net</source>
     </item>
     <item>
-      <title>SpaceX Extends Its AI Leasing Playbook to Pentagon</title>
-      <link>https://oracle-university.com/stories/spacex-extends-its-ai-leasing-playbook-to-pentagon-9c35c1/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/spacex-extends-its-ai-leasing-playbook-to-pentagon-9c35c1/</guid>
-      <pubDate>Sun, 19 Jul 2026 07:38:09 GMT</pubDate>
+      <title>Global Sovereign AI Infrastructure Intelligence - Tracking the Global Race for AI Sovereignty 2026-2040</title>
+      <link>https://oracle-university.com/stories/global-sovereign-ai-infrastructure-intelligence-tracking-the-global-race-for-ai-sovereig-5d1e1e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/global-sovereign-ai-infrastructure-intelligence-tracking-the-global-race-for-ai-sovereig-5d1e1e/</guid>
+      <pubDate>Mon, 20 Jul 2026 08:35:24 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>NewsGhana, Latest Updates and Breaking News of Ghana, News Ghana, https://www.newsghana.com.gh/spacex-extends-its-ai-leasing-playbook-to-pentagon/SpaceX is in talks to lease AI computing capacity to the Pentagon for billions of dollars, extending a leasing model it has already sold three times to pr</description>
-      <source url="https://www.newsghana.com.gh/spacex-extends-its-ai-leasing-playbook-to-pentagon/">News Ghana</source>
+      <description>Artificial Intelligence is rapidly evolving from a commercial technology opportunity into a defining geopolitical and strategic competition. Just as previous decades witnessed global races for energy resources, industrial manufacturing capacity, and semiconductor leadership, nations are now competin</description>
+      <source url="https://www.openpr.com/news/4580351/global-sovereign-ai-infrastructure-intelligence-tracking">Openpr.com</source>
     </item>
     <item>
-      <title>Can AI industry survive if OpenAI collapses?</title>
-      <link>https://oracle-university.com/stories/can-ai-industry-survive-if-openai-collapses-ef253a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/can-ai-industry-survive-if-openai-collapses-ef253a/</guid>
-      <pubDate>Sun, 19 Jul 2026 06:07:02 GMT</pubDate>
+      <title>Global AI Water Infrastructure Intelligence - Managing the Water Behind Artificial Intelligence (2026-2040)</title>
+      <link>https://oracle-university.com/stories/global-ai-water-infrastructure-intelligence-managing-the-water-behind-artificial-intelli-5af594/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/global-ai-water-infrastructure-intelligence-managing-the-water-behind-artificial-intelli-5af594/</guid>
+      <pubDate>Mon, 20 Jul 2026 08:35:23 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Artificial Intelligence is rapidly evolving into not only an energy-intensive industry, but also one of the world&#39;s fastest-growing industrial consumers of water resources. The rise of hyperscale AI campuses, GPU manufacturing facilities, and liquid-cooled data centers is significantly increasing in</description>
+      <source url="https://www.openpr.com/news/4580319/global-ai-water-infrastructure-intelligence-managing">Openpr.com</source>
+    </item>
+    <item>
+      <title>IBM’s Trading Range Reflects a Battle Between Quantum Promise and AI Reality</title>
+      <link>https://oracle-university.com/stories/ibm-s-trading-range-reflects-a-battle-between-quantum-promise-and-ai-reality-59795a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ibm-s-trading-range-reflects-a-battle-between-quantum-promise-and-ai-reality-59795a/</guid>
+      <pubDate>Mon, 20 Jul 2026 08:32:00 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Ed Zitron, an AI critic and researcher, has warned that the ongoing boom in artificial intelligence (AI) is largely driven by OpenAI.</description>
-      <source url="https://www.newsbytesapp.com/news/business/openai-s-potential-collapse-could-rival-lehman-brothers-s-downfall-ai-researcher/story">Newsbytes</source>
+      <description>Market Analysis by covering: International Business Machines. Read &#39;s Market Analysis on Investing.com</description>
+      <source url="https://www.investing.com/analysis/ibms-trading-range-reflects-a-battle-between-quantum-promise-and-ai-reality-200684193">Investing Us</source>
     </item>
     <item>
-      <title>Silver DBA Oracle Database Administrati...</title>
-      <link>https://oracle-university.com/stories/silver-dba-oracle-database-administrati-4c4d6c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/silver-dba-oracle-database-administrati-4c4d6c/</guid>
-      <pubDate>Sun, 19 Jul 2026 00:24:59 GMT</pubDate>
+      <title>FDE hiring surges as Indian IT puts AI into production</title>
+      <link>https://oracle-university.com/stories/fde-hiring-surges-as-indian-it-puts-ai-into-production-77d7a5/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/fde-hiring-surges-as-indian-it-puts-ai-into-production-77d7a5/</guid>
+      <pubDate>Mon, 20 Jul 2026 08:30:12 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The Indian IT sector is now hiring engineers who combine engineering with consulting and delivery skills. These Forward Deployed Engineers (FDEs) embed with client teams to take AI and digital projects from pilot to deployment. Over the past few months, IT services firms have increased their focus o</description>
+      <source url="https://www.deccanherald.com/business/fde-hiring-surges-as-indian-it-puts-ai-into-production-2-4080076">Deccan Herald</source>
+    </item>
+    <item>
+      <title>Global AI Networking &amp; Connectivity Infrastructure - Intelligence Connecting the Factories of Artificial Intelligence (2026-2040)</title>
+      <link>https://oracle-university.com/stories/global-ai-networking-connectivity-infrastructure-intelligence-connecting-the-factories-o-d3f80d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/global-ai-networking-connectivity-infrastructure-intelligence-connecting-the-factories-o-d3f80d/</guid>
+      <pubDate>Mon, 20 Jul 2026 08:27:24 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Artificial Intelligence is triggering the largest global networking investment cycle since the emergence of the internet. As AI models evolve from billions to trillions of parameters, the movement of data across GPUs, accelerators, storage systems, and distributed computing environments is</description>
+      <source url="https://www.openpr.com/news/4579921/global-ai-networking-connectivity-infrastructure">Openpr.com</source>
+    </item>
+    <item>
+      <title>Dimensional Fund Advisors LP Increases Stock Position in Oracle Corporation $ORCL</title>
+      <link>https://oracle-university.com/stories/dimensional-fund-advisors-lp-increases-stock-position-in-oracle-corporation-orcl-fa3e10/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/dimensional-fund-advisors-lp-increases-stock-position-in-oracle-corporation-orcl-fa3e10/</guid>
+      <pubDate>Mon, 20 Jul 2026 08:11:11 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Dimensional Fund Advisors LP raised its stake in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 1.7% in the 1st quarter, according to its most recent 13F filing with the Securities &amp; Exchange Commission. The fund owned 8,586,492 shares of the enterprise software provider’s stock after pur</description>
+      <source url="https://www.americanbankingnews.com/2026/07/20/dimensional-fund-advisors-lp-increases-stock-position-in-oracle-corporation-orcl.html">Americanbankingnews</source>
+    </item>
+    <item>
+      <title>CLSA initiates Oracle stock coverage with hold rating on AI debt concerns</title>
+      <link>https://oracle-university.com/stories/clsa-initiates-oracle-stock-coverage-with-hold-rating-on-ai-debt-concerns-095048/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/clsa-initiates-oracle-stock-coverage-with-hold-rating-on-ai-debt-concerns-095048/</guid>
+      <pubDate>Mon, 20 Jul 2026 07:34:12 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>CLSA initiates Oracle stock coverage with hold rating on AI debt concerns</description>
+      <source url="https://ph.investing.com/news/stock-market-news/clsa-initiates-oracle-stock-coverage-with-hold-rating-on-ai-debt-concerns-93CH-2498427">Investing Philippines</source>
+    </item>
+    <item>
+      <title>Downfall of a Wall Street darling: Why Oracle shares crashed 65% from peak</title>
+      <link>https://oracle-university.com/stories/downfall-of-a-wall-street-darling-why-oracle-shares-crashed-65-from-peak-56fd2a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/downfall-of-a-wall-street-darling-why-oracle-shares-crashed-65-from-peak-56fd2a/</guid>
+      <pubDate>Mon, 20 Jul 2026 07:09:43 GMT</pubDate>
+      <category>Security</category>
+      <description>Oracle shares have dropped about 65% from their peak as investors shift focus from AI-driven cloud growth to rising capital expenditure, debt and execution risks. Despite strong OCI revenue and a massive backlog, markets seek proof that AI investments can generate sustainable returns.</description>
+      <source url="https://economictimes.indiatimes.com/markets/us-stocks/news/downfall-of-a-wall-street-darling-why-oracle-shares-crashed-65-from-peak/articleshow/132516113.cms">The Economic Times</source>
+    </item>
+    <item>
+      <title>MySQL connectivity from SAP Integration Suite - workaround needed</title>
+      <link>https://oracle-university.com/stories/mysql-connectivity-from-sap-integration-suite-workaround-needed-75427a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/mysql-connectivity-from-sap-integration-suite-workaround-needed-75427a/</guid>
+      <pubDate>Mon, 20 Jul 2026 06:59:43 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Hello, We&#39;re trying to set up a connection from SAP Integration Suite (Cloud Integration), via the JDBC adapter (with Cloud Connector), to an on-premise MySQL database In the JDBC Data Source configuration, there&#39;s no separate type for MySQL, only MariaDB, SQL Server, Oracle, and DB2. Our research i</description>
+      <source url="https://community.sap.com/t5/technology-q-a/mysql-connectivity-from-sap-integration-suite-workaround-needed/qaq-p/14442745">Sap</source>
+    </item>
+    <item>
+      <title>RDB Consulting pioneers AI-driven infrastructure optimisation tools for SA Stud Book</title>
+      <link>https://oracle-university.com/stories/rdb-consulting-pioneers-ai-driven-infrastructure-optimisation-tools-for-sa-stud-book-906f89/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/rdb-consulting-pioneers-ai-driven-infrastructure-optimisation-tools-for-sa-stud-book-906f89/</guid>
+      <pubDate>Mon, 20 Jul 2026 06:32:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The company has assisted SA Stud Book in improving the speed and reliability of its mission-critical infrastructure and establishing the foundation for in-house digital development.</description>
+      <source url="https://www.itweb.co.za/article/rdb-consulting-pioneers-ai-driven-infrastructure-optimisation-tools-for-sa-stud-book/dgp45qaB8m5vX9l8">Itweb</source>
+    </item>
+    <item>
+      <title>Multisoft Systems Introduces Industry-Focused Synchro 4D Training for Advanced Construction Planning and BIM Professionals</title>
+      <link>https://oracle-university.com/stories/multisoft-systems-introduces-industry-focused-synchro-4d-training-for-advanced-construct-c2294a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/multisoft-systems-introduces-industry-focused-synchro-4d-training-for-advanced-construct-c2294a/</guid>
+      <pubDate>Mon, 20 Jul 2026 05:57:59 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>The construction industry is rapidly embracing digital technologies to improve project planning, collaboration, and execution. Among the most innovative solutions driving this transformation is Synchro 4D, a powerful construction planning platform that combines 3D Building Information Modeling (BIM)</description>
+      <source url="http://prsync.com/multisoft-systems/multisoft-systems-introduces-industry-focused-synchro-d-training-for-advanced-construction-planning-and-bim-professionals-5192165/">Pr Sync</source>
+    </item>
+    <item>
+      <title>This US tech billionaire once begged power companies to keep his electricity on, faced rejection from almost every investor, now owns a $300 million Hawaiian island</title>
+      <link>https://oracle-university.com/stories/this-us-tech-billionaire-once-begged-power-companies-to-keep-his-electricity-on-faced-re-57442c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/this-us-tech-billionaire-once-begged-power-companies-to-keep-his-electricity-on-faced-re-57442c/</guid>
+      <pubDate>Mon, 20 Jul 2026 05:09:00 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Larry Ellison, the co-founder of Oracle, once struggled to pay his electricity bills for his computer and faced investor rejection while building his early software products. Later, he named his company Oracle after a CIA project code. Ellison purchased nearly all of a Hawaiian island for three hund</description>
+      <source url="https://economictimes.indiatimes.com/news/new-updates/this-us-tech-billionaire-larry-ellison-oracle-once-begged-power-companies-to-keep-his-electricity-on-faced-rejection-from-almost-every-investor-now-owns-a-300-million-hawaiian-island/articleshow/132506460.cms">The Economic Times</source>
+    </item>
+    <item>
+      <title>Lost Job to AI? The Real Enemy Isn’t The Bot – It’s Your Boss. Here’s Proof</title>
+      <link>https://oracle-university.com/stories/lost-job-to-ai-the-real-enemy-isn-t-the-bot-it-s-your-boss-here-s-proof-9fbc36/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/lost-job-to-ai-the-real-enemy-isn-t-the-bot-it-s-your-boss-here-s-proof-9fbc36/</guid>
+      <pubDate>Mon, 20 Jul 2026 05:01:47 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>While companies hide behind AI to fire thousands, one Chinese billionaire is choosing to retrain his workers even while automating, something few in the world are doing, even when research finds it’s profitable, finds Satyen K. Bordoloi Richard Liu, founder of JD.com, China’s answer to Amazon, is a </description>
+      <source url="https://www.sify.com/ai-analytics/lost-job-to-ai-the-real-enemy-isnt-the-bot-its-your-boss-heres-proof/">Sify News</source>
+    </item>
+    <item>
+      <title>Oracle Unveils AI-Native Builder for Fusion Applications Amid Strong Customer Adoption and Financial Growth</title>
+      <link>https://oracle-university.com/stories/oracle-unveils-ai-native-builder-for-fusion-applications-amid-strong-customer-adoption-a-1b09ac/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-unveils-ai-native-builder-for-fusion-applications-amid-strong-customer-adoption-a-1b09ac/</guid>
+      <pubDate>Mon, 20 Jul 2026 00:30:11 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Oracle&#39;s new AI-native builder for Fusion Applications enables no-code to pro-code development. See how Red Bull Racing and Clayton use it, and why RPO surged to $638B despite a stock dip. The post Oracle Unveils AI-Native Builder for Fusion Applications Amid Strong Customer Adoption and Financial G</description>
+      <source url="https://www.sourcetrail.com/software/oracle-unveils-ai-native-builder-for-fusion-applications-amid-strong-customer-adoption-and-financial-growth/">sourcetrail</source>
+    </item>
+    <item>
+      <title>Hyatt Adopts Oracle OPERA Cloud for Property Management</title>
+      <link>https://oracle-university.com/stories/hyatt-adopts-oracle-opera-cloud-for-property-management-d77e14/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/hyatt-adopts-oracle-opera-cloud-for-property-management-d77e14/</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>ONLY AVAILABLE IN PAID PLANS</description>
+      <source url="https://hospitalitynews.in/news/hyatt-selects-oracle-opera-cloud-as-global-property-management-system">Hospitalitynews</source>
+    </item>
+    <item>
+      <title>Itransition Named the Leading Microsoft Dynamics 365 Finance &amp; Supply Chain Management Partner by ERP Pilot</title>
+      <link>https://oracle-university.com/stories/itransition-named-the-leading-microsoft-dynamics-365-finance-supply-chain-management-par-ace350/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/itransition-named-the-leading-microsoft-dynamics-365-finance-supply-chain-management-par-ace350/</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Itransition earns the top position for its expertise in Dynamics 365 Finance and Supply Chain Management consulting, implementation, and support.</description>
+      <source url="https://www.einpresswire.com/article/927075259/itransition-named-the-leading-microsoft-dynamics-365-finance-supply-chain-management-partner-by-erp-pilot">Ein Presswire</source>
+    </item>
+    <item>
+      <title>Your First Oracle Autonomous Database on OCI Always Free</title>
+      <link>https://oracle-university.com/stories/your-first-oracle-autonomous-database-on-oci-always-free-d399be/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/your-first-oracle-autonomous-database-on-oci-always-free-d399be/</guid>
+      <pubDate>Sun, 19 Jul 2026 23:19:31 GMT</pubDate>
       <category>AI &amp; Database</category>
       <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="http://www.semanario.pt/items/J27211272956/">Semanário Económico</source>
-    </item>
-    <item>
-      <title>Junaid Saifi Appointed IT Manager at JW Marriott Kolkata</title>
-      <link>https://oracle-university.com/stories/junaid-saifi-appointed-it-manager-at-jw-marriott-kolkata-8b8872/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/junaid-saifi-appointed-it-manager-at-jw-marriott-kolkata-8b8872/</guid>
-      <pubDate>Sun, 19 Jul 2026 00:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://hospitalitynews.in/news/junaid-saifi-joins-jw-marriott-kolkata-as-it-manager">Hospitalitynews</source>
-    </item>
-    <item>
-      <title>NVIDIA Vera Rubin Cuts Post-Training Token Costs With Seven-Chip Codesign</title>
-      <link>https://oracle-university.com/stories/nvidia-vera-rubin-cuts-post-training-token-costs-with-seven-chip-codesign-edbc38/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/nvidia-vera-rubin-cuts-post-training-token-costs-with-seven-chip-codesign-edbc38/</guid>
-      <pubDate>Sat, 18 Jul 2026 23:31:12 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>NVIDIA Vera Rubin platform targets post-training AI costs with a seven-chip codesign architecture delivering 22 TB/s of HBM4 bandwidth per GPU, double the NVLink 6 speed of Blackwell, and claimed 10x lower inference token costs — with cloud deployments now rolling out to AWS, Azure, Google Cloud, an</description>
-      <source url="https://www.techtimes.com/articles/320933/20260718/nvidia-vera-rubin-cuts-post-training-token-costs-seven-chip-codesign.htm">Techtimes</source>
-    </item>
-    <item>
-      <title>Federal Workers Reinstated on TikTok: DOJ Lifts 2022 Ban After Ownership Shift</title>
-      <link>https://oracle-university.com/stories/federal-workers-reinstated-on-tiktok-doj-lifts-2022-ban-after-ownership-shift-ed6293/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/federal-workers-reinstated-on-tiktok-doj-lifts-2022-ban-after-ownership-shift-ed6293/</guid>
-      <pubDate>Sat, 18 Jul 2026 22:52:06 GMT</pubDate>
-      <category>Security</category>
-      <description>The DOJ has lifted the 2022 TikTok ban on federal government devices following an ownership transfer to a U.S.-backed joint venture. President Trump approved the change, giving agencies discretion. This reversal eases prior national security restrictions while raising fresh questions about data safe</description>
-      <source url="https://www.webpronews.com/federal-workers-reinstated-on-tiktok-doj-lifts-2022-ban-after-ownership-shift/">Webpronews</source>
-    </item>
-    <item>
-      <title>Your Data Is Already Sold: How to Fight Back Against Brokers Profiting From Your Life</title>
-      <link>https://oracle-university.com/stories/your-data-is-already-sold-how-to-fight-back-against-brokers-profiting-from-your-life-579829/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/your-data-is-already-sold-how-to-fight-back-against-brokers-profiting-from-your-life-579829/</guid>
-      <pubDate>Sat, 18 Jul 2026 22:42:05 GMT</pubDate>
-      <category>Security</category>
-      <description>Data brokers sell your addresses, family ties, and history to scammers and marketers, creating phishing and stalking risks. California&#39;s DROP tool now lets residents mass-delete from 600+ brokers starting August, while services like Incogni automate opt-outs. Persistent effort pays off with fewer th</description>
-      <source url="https://www.webpronews.com/your-data-is-already-sold-how-to-fight-back-against-brokers-profiting-from-your-life/">Webpronews</source>
-    </item>
-    <item>
-      <title>137 Blog Posts To Learn About Cloud Native</title>
-      <link>https://oracle-university.com/stories/137-blog-posts-to-learn-about-cloud-native-67f835/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/137-blog-posts-to-learn-about-cloud-native-67f835/</guid>
-      <pubDate>Sat, 18 Jul 2026 22:31:30 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.bundle.app/en/technology/137-blog-posts-to-learn-about-cloud-native-838478C0-6FEE-411F-9B8F-BE33AE60F995">Bundle</source>
+      <source url="https://www.bundle.app/en/technology/your-first-oracle-autonomous-database-on-oci-always-free-B3735BBC-C492-4F32-8AB5-5B26F1EAFEC5">Bundle</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -376,87 +457,6 @@
       <category>Oracle Cloud</category>
       <description>In this episode, hosts Lois Houston and Nikita Abraham team up with Senior Principal OCI Instructor Sergio Castro to unpack the basics of cloud networking and the Domain Name System (DNS). You&#39;ll learn how local and virtual networks connect devices, and how DNS seamlessly translates familiar names l</description>
       <source url="https://oracleuniversitypodcast.libsyn.com/inside-cloud-networking">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 4</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</guid>
-      <pubDate>Tue, 28 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>In this episode, hosts Lois Houston and Nikita Abraham, along with Principal OCI Instructor Orlando Gentil, break down the differences between Infrastructure-as-a-Service, Platform-as-a-Service, and Software-as-a-Service. The conversation explores how each framework influences control, cost efficien</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-4">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 3</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</guid>
-      <pubDate>Tue, 21 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Have you ever considered how a single server can support countless applications and workloads at once? In this episode, hosts Lois Houston and Nikita Abraham, together with Principal OCI Instructor Orlando Gentil, explore the sophisticated technologies that make this possible in modern cloud data ce</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-3">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>AI and Security</title>
-      <link>https://oracle-university.com/stories/ai-and-security-7b0e26/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-and-security-7b0e26/</guid>
-      <pubDate>Tue, 14 Oct 2025 15:58:49 GMT</pubDate>
-      <category>Security</category>
-      <description>In this episode host Oracle Academy Program Manager Benelux &amp; DACH Rik Bleeker speaks with Oracle expert Thomas Minne on the crucial intersection of Artificial Intelligence and data security, explaining why the Oracle Database is foundational to both. Drawing on his 15 years as a DBA and current rol</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-and-security">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 2</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-2-9a562f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-2-9a562f/</guid>
-      <pubDate>Tue, 14 Oct 2025 06:44:39 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Have you ever wondered where all your digital memories, work projects, or favorite photos actually live in the cloud? In this episode, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to discuss cloud storage. They explore how data is carefully organized, the dif</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-2">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>AI for Data: When Data meets Intelligence</title>
-      <link>https://oracle-university.com/stories/ai-for-data-when-data-meets-intelligence-f7601f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-for-data-when-data-meets-intelligence-f7601f/</guid>
-      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In this two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle AI Vector an</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-for-data-when-data-meet-intelligence">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Part II of AI for Data: When Data meets Intelligence</title>
-      <link>https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</guid>
-      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In the second of a two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle A</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-of-data-for-ai-when-data-meets-intelligence">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 1</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</guid>
-      <pubDate>Tue, 07 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Curious about what really goes on inside a cloud data center? In this episode, Lois Houston and Nikita Abraham chat with Principal OCI Instructor Orlando Gentil about how cloud data centers are transforming the way organizations manage technology. They explore the differences between traditional and</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-1">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Oracle AI for Fusion Apps</title>
-      <link>https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</guid>
-      <pubDate>Tue, 23 Sep 2025 11:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Want to make AI work for your business? In today&#39;s episode, Lois Houston and Nikita Abraham continue their discussion of AI in Oracle Fusion Applications by focusing on three key AI capabilities: predictive, generative, and agentic. Joining them is Principal Instructor Yunus Mohammed, who explains h</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-ai-for-fusion-apps">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Oracle&#39;s AI Ecosystem</title>
-      <link>https://oracle-university.com/stories/oracle-s-ai-ecosystem-1d77a2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-s-ai-ecosystem-1d77a2/</guid>
-      <pubDate>Tue, 16 Sep 2025 11:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to explore Oracle&#39;s approach to enterprise AI. The conversation covers the essential components of the Oracle AI stack and how each part, from the foundational infrastructure to business-specific appli</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/oracles-ai-ecosystem">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
