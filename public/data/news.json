@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T21:38:01.109Z",
+  "generatedAt": "2026-07-21T21:37:42.274Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -55,334 +55,345 @@
       "priority": 46
     },
     {
-      "id": "5ed0adba4c2a9f15",
-      "slug": "top-cybersecurity-stocks-to-research-july-19th-516185",
-      "title": "Top Cybersecurity Stocks To Research – July 19th",
-      "dek": "Palo Alto Networks, CrowdStrike, Fortinet, BlackBerry, SentinelOne, Globant, and NetScout Systems are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop products and services designed",
-      "url": "https://www.defenseworld.net/2026/07/20/top-cybersecurity-stocks-to-research-july-19th.html",
-      "source": "Defenseworld Net",
+      "id": "8b3aabdc3c4d3a23",
+      "slug": "tesla-alphabet-intel-which-earnings-bet-is-priced-for-chaos-b940a7",
+      "title": "Tesla, Alphabet, Intel: which earnings bet is priced for chaos?",
+      "dek": "Wall Street is preparing for three technology earnings reports, but options traders see one as more dangerous than the others. As per market data, Intel shares (NASDAQ: INTC) are priced for a 13.52% move after Thursday’s results, compared with 9.17% for Alphabet (NASDAQ: GOOG) and 6.79% for Tesla (N",
+      "url": "https://invezz.com/news/2026/07/21/tesla-alphabet-intel-which-earnings-bet-is-priced-for-chaos/",
+      "source": "Invezz",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/palo-alto-networks-inc-logo-1200x675.png?v=20231213132526",
-      "publishedAt": "2026-07-20T09:06:50.000Z",
-      "topic": "Security",
+      "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/07/Investors-at-stock-market-trading-floor.png",
+      "publishedAt": "2026-07-21T09:32:10.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "Earnings",
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "6dc4dad9cb26cae5",
+      "slug": "synchro-4d-and-5d-training-online-helps-professionals-master-digital-construction-planni-88de43",
+      "title": "Synchro 4D and 5D Training Online Helps Professionals Master Digital Construction Planning and BIM Workflows",
+      "dek": "Multisoft Systems, a trusted name in professional technical training, proudly introduces its Synchro 4D and 5D Training Online program, designed to help engineers, project planners, BIM professionals, and construction managers develop expertise in digital construction planning, project scheduling, a",
+      "url": "http://prsync.com/multisoft-systems/synchro-d-and-d-training-online-helps-professionals-master-digital-construction-planning-and-bim-workflows-5192309/",
+      "source": "Pr Sync",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-07-21T09:23:57.000Z",
+      "topic": "Training & Certification",
       "tags": [],
       "priority": 43
     },
     {
-      "id": "cdd2a31a07f2df23",
-      "slug": "global-sovereign-ai-infrastructure-intelligence-tracking-the-global-race-for-ai-sovereig-5d1e1e",
-      "title": "Global Sovereign AI Infrastructure Intelligence - Tracking the Global Race for AI Sovereignty 2026-2040",
-      "dek": "Artificial Intelligence is rapidly evolving from a commercial technology opportunity into a defining geopolitical and strategic competition. Just as previous decades witnessed global races for energy resources, industrial manufacturing capacity, and semiconductor leadership, nations are now competin",
-      "url": "https://www.openpr.com/news/4580351/global-sovereign-ai-infrastructure-intelligence-tracking",
-      "source": "Openpr.com",
+      "id": "d6859816f801acf5",
+      "slug": "what-to-expect-at-amd-advancing-ai-2026-9964bd",
+      "title": "What to expect at AMD Advancing AI 2026",
+      "dek": "Here are three things I expect to hear about at AMD’s annual get together – and one I don’t",
+      "url": "https://www.itpro.com/infrastructure/what-to-expect-at-amd-advancing-ai-2026",
+      "source": "Itpro",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/7/L717930075_k.jpg",
-      "publishedAt": "2026-07-20T08:35:24.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/kLnviFBTMkqbE45gfRYfkY-1280-80.jpg",
+      "publishedAt": "2026-07-21T09:09:27.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "publicity",
-        "pr service",
-        "presses release",
-        "pr marketing",
-        "advertising",
-        "marketing"
+        "amd"
       ],
-      "priority": 42
+      "priority": 43
     },
     {
-      "id": "bd7d56551b050bfb",
-      "slug": "global-ai-water-infrastructure-intelligence-managing-the-water-behind-artificial-intelli-5af594",
-      "title": "Global AI Water Infrastructure Intelligence - Managing the Water Behind Artificial Intelligence (2026-2040)",
-      "dek": "Artificial Intelligence is rapidly evolving into not only an energy-intensive industry, but also one of the world's fastest-growing industrial consumers of water resources. The rise of hyperscale AI campuses, GPU manufacturing facilities, and liquid-cooled data centers is significantly increasing in",
-      "url": "https://www.openpr.com/news/4580319/global-ai-water-infrastructure-intelligence-managing",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/7/L717933643_k.jpg",
-      "publishedAt": "2026-07-20T08:35:23.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "publicity",
-        "pr service",
-        "presses release",
-        "pr marketing",
-        "advertising",
-        "marketing"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "ebbdcaca77c851eb",
-      "slug": "ibm-s-trading-range-reflects-a-battle-between-quantum-promise-and-ai-reality-59795a",
-      "title": "IBM’s Trading Range Reflects a Battle Between Quantum Promise and AI Reality",
-      "dek": "Market Analysis by covering: International Business Machines. Read 's Market Analysis on Investing.com",
-      "url": "https://www.investing.com/analysis/ibms-trading-range-reflects-a-battle-between-quantum-promise-and-ai-reality-200684193",
-      "source": "Investing Us",
-      "sourceType": "external",
-      "image": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
-      "publishedAt": "2026-07-20T08:32:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "international business machines"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "de20e238c070b42e",
-      "slug": "fde-hiring-surges-as-indian-it-puts-ai-into-production-77d7a5",
-      "title": "FDE hiring surges as Indian IT puts AI into production",
-      "dek": "The Indian IT sector is now hiring engineers who combine engineering with consulting and delivery skills. These Forward Deployed Engineers (FDEs) embed with client teams to take AI and digital projects from pilot to deployment. Over the past few months, IT services firms have increased their focus o",
-      "url": "https://www.deccanherald.com/business/fde-hiring-surges-as-indian-it-puts-ai-into-production-2-4080076",
-      "source": "Deccan Herald",
-      "sourceType": "external",
-      "image": "https://media.assettype.com/deccanherald/2026-07-20/m3wdkd9l/iStock-2012746910.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "publishedAt": "2026-07-20T08:30:12.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "aws ai investment",
-        "indian it hiring trends",
-        "pocs in ai",
-        "campus hiring ai skills",
-        "hcltech elite engineers",
-        "ai-native development"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "8d107d239e43f4db",
-      "slug": "global-ai-networking-connectivity-infrastructure-intelligence-connecting-the-factories-o-d3f80d",
-      "title": "Global AI Networking & Connectivity Infrastructure - Intelligence Connecting the Factories of Artificial Intelligence (2026-2040)",
-      "dek": "Artificial Intelligence is triggering the largest global networking investment cycle since the emergence of the internet. As AI models evolve from billions to trillions of parameters, the movement of data across GPUs, accelerators, storage systems, and distributed computing environments is",
-      "url": "https://www.openpr.com/news/4579921/global-ai-networking-connectivity-infrastructure",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/7/L717843188_k.jpg",
-      "publishedAt": "2026-07-20T08:27:24.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "publicity",
-        "pr service",
-        "presses release",
-        "pr marketing",
-        "advertising",
-        "marketing"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "34bcc22cd1192409",
-      "slug": "dimensional-fund-advisors-lp-increases-stock-position-in-oracle-corporation-orcl-fa3e10",
-      "title": "Dimensional Fund Advisors LP Increases Stock Position in Oracle Corporation $ORCL",
-      "dek": "Dimensional Fund Advisors LP raised its stake in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 1.7% in the 1st quarter, according to its most recent 13F filing with the Securities & Exchange Commission. The fund owned 8,586,492 shares of the enterprise software provider’s stock after pur",
-      "url": "https://www.americanbankingnews.com/2026/07/20/dimensional-fund-advisors-lp-increases-stock-position-in-oracle-corporation-orcl.html",
-      "source": "Americanbankingnews",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-07-20T08:11:11.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "orcl",
-        "oracle",
-        "13f",
-        "hedge fund holdings",
-        "68389x10",
-        "sec filings"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "f84abbf964d97280",
-      "slug": "clsa-initiates-oracle-stock-coverage-with-hold-rating-on-ai-debt-concerns-095048",
-      "title": "CLSA initiates Oracle stock coverage with hold rating on AI debt concerns",
-      "dek": "CLSA initiates Oracle stock coverage with hold rating on AI debt concerns",
-      "url": "https://ph.investing.com/news/stock-market-news/clsa-initiates-oracle-stock-coverage-with-hold-rating-on-ai-debt-concerns-93CH-2498427",
-      "source": "Investing Philippines",
-      "sourceType": "external",
-      "image": "https://i-invdn-com.investing.com/news/oracle_2_M_1440048709.jpg",
-      "publishedAt": "2026-07-20T07:34:12.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "AI"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "b02c50b4e5851160",
-      "slug": "downfall-of-a-wall-street-darling-why-oracle-shares-crashed-65-from-peak-56fd2a",
-      "title": "Downfall of a Wall Street darling: Why Oracle shares crashed 65% from peak",
-      "dek": "Oracle shares have dropped about 65% from their peak as investors shift focus from AI-driven cloud growth to rising capital expenditure, debt and execution risks. Despite strong OCI revenue and a massive backlog, markets seek proof that AI investments can generate sustainable returns.",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/downfall-of-a-wall-street-darling-why-oracle-shares-crashed-65-from-peak/articleshow/132516113.cms",
-      "source": "The Economic Times",
-      "sourceType": "external",
-      "image": "https://img.etimg.com/thumb/msid-132516113,resizemode-4,width-1200,height-900,imgsize-91498,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-20T07:09:43.000Z",
-      "topic": "Security",
-      "tags": [
-        "oracle",
-        "ai cloud demand",
-        "capital expenditure",
-        "oci revenue",
-        "oracle shares",
-        "oracle cloud infrastructure"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "5477cf36e7ed5f33",
-      "slug": "mysql-connectivity-from-sap-integration-suite-workaround-needed-75427a",
-      "title": "MySQL connectivity from SAP Integration Suite - workaround needed",
-      "dek": "Hello, We're trying to set up a connection from SAP Integration Suite (Cloud Integration), via the JDBC adapter (with Cloud Connector), to an on-premise MySQL database In the JDBC Data Source configuration, there's no separate type for MySQL, only MariaDB, SQL Server, Oracle, and DB2. Our research i",
-      "url": "https://community.sap.com/t5/technology-q-a/mysql-connectivity-from-sap-integration-suite-workaround-needed/qaq-p/14442745",
-      "source": "Sap",
-      "sourceType": "external",
-      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
-      "publishedAt": "2026-07-20T06:59:43.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "MySQL"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "dd13a0507a21e22b",
-      "slug": "rdb-consulting-pioneers-ai-driven-infrastructure-optimisation-tools-for-sa-stud-book-906f89",
-      "title": "RDB Consulting pioneers AI-driven infrastructure optimisation tools for SA Stud Book",
-      "dek": "The company has assisted SA Stud Book in improving the speed and reliability of its mission-critical infrastructure and establishing the foundation for in-house digital development.",
-      "url": "https://www.itweb.co.za/article/rdb-consulting-pioneers-ai-driven-infrastructure-optimisation-tools-for-sa-stud-book/dgp45qaB8m5vX9l8",
-      "source": "Itweb",
-      "sourceType": "external",
-      "image": "https://www.itweb.co.za/static/pictures/2026/07/Bobbie-van-der-Westhuizen-20July2026.jpg",
-      "publishedAt": "2026-07-20T06:32:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "animal recording",
-        "sa stud book",
-        "livestock breeding industry",
-        "kobus jacobs",
-        "kgosi moleme",
-        "ai-driven infrastructure optimisation tools"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "7846ed0b3a41f82f",
-      "slug": "multisoft-systems-introduces-industry-focused-synchro-4d-training-for-advanced-construct-c2294a",
-      "title": "Multisoft Systems Introduces Industry-Focused Synchro 4D Training for Advanced Construction Planning and BIM Professionals",
-      "dek": "The construction industry is rapidly embracing digital technologies to improve project planning, collaboration, and execution. Among the most innovative solutions driving this transformation is Synchro 4D, a powerful construction planning platform that combines 3D Building Information Modeling (BIM)",
-      "url": "http://prsync.com/multisoft-systems/multisoft-systems-introduces-industry-focused-synchro-d-training-for-advanced-construction-planning-and-bim-professionals-5192165/",
-      "source": "Pr Sync",
+      "id": "5a887c2de98ce53c",
+      "slug": "microsoft-to-deploy-amd-helios-ai-system-on-azure-574598",
+      "title": "Microsoft to deploy AMD Helios AI system on Azure",
+      "dek": "Microsoft became the latest major cloud provider to adopt AMD's rack-scale Helios AI system, deepening a partnership which spans GPUs, CPUs, networking and software across Azure's infrastructure. The post Microsoft to deploy AMD Helios AI system on Azure appeared first on Mobile World Live .",
+      "url": "https://www.mobileworldlive.com/microsoft/microsoft-to-deploy-amd-helios-ai-system-on-azure/",
+      "source": "Mobileworldlive",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-07-20T05:57:59.000Z",
-      "topic": "Training & Certification",
-      "tags": [],
-      "priority": 40
-    },
-    {
-      "id": "d42d32975340b619",
-      "slug": "this-us-tech-billionaire-once-begged-power-companies-to-keep-his-electricity-on-faced-re-57442c",
-      "title": "This US tech billionaire once begged power companies to keep his electricity on, faced rejection from almost every investor, now owns a $300 million Hawaiian island",
-      "dek": "Larry Ellison, the co-founder of Oracle, once struggled to pay his electricity bills for his computer and faced investor rejection while building his early software products. Later, he named his company Oracle after a CIA project code. Ellison purchased nearly all of a Hawaiian island for three hund",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/this-us-tech-billionaire-larry-ellison-oracle-once-begged-power-companies-to-keep-his-electricity-on-faced-rejection-from-almost-every-investor-now-owns-a-300-million-hawaiian-island/articleshow/132506460.cms",
-      "source": "The Economic Times",
-      "sourceType": "external",
-      "image": "https://img.etimg.com/thumb/msid-132506485,resizemode-4,width-1200,height-900,imgsize-21654,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-07-20T05:09:00.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "larry ellison hawaiian island",
-        "larry ellison yachts",
-        "oracle corporation",
-        "oracle founder",
-        "oracle cloud computing",
-        "larry ellison biography"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "bdda60e863e0ca62",
-      "slug": "lost-job-to-ai-the-real-enemy-isn-t-the-bot-it-s-your-boss-here-s-proof-9fbc36",
-      "title": "Lost Job to AI? The Real Enemy Isn’t The Bot – It’s Your Boss. Here’s Proof",
-      "dek": "While companies hide behind AI to fire thousands, one Chinese billionaire is choosing to retrain his workers even while automating, something few in the world are doing, even when research finds it’s profitable, finds Satyen K. Bordoloi Richard Liu, founder of JD.com, China’s answer to Amazon, is a ",
-      "url": "https://www.sify.com/ai-analytics/lost-job-to-ai-the-real-enemy-isnt-the-bot-its-your-boss-heres-proof/",
-      "source": "Sify News",
-      "sourceType": "external",
-      "image": "https://www.sify.com/wp-content/uploads/2026/07/ai-job-loss.webp",
-      "publishedAt": "2026-07-20T05:01:47.000Z",
+      "publishedAt": "2026-07-21T08:31:29.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "it job cuts",
-        "ai automation",
-        "satyen k. bordoloi",
-        "artificial intelligence",
-        "spotlight"
+        "AI"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "b68f683c7e30cc1a",
+      "slug": "best-kaneai-alternatives-for-test-automation-in-2026-20f2eb",
+      "title": "Best KaneAI Alternatives for Test Automation in 2026",
+      "dek": "For teams trying to reduce manual effort and move beyond script-heavy testing, that promise is compelling.",
+      "url": "https://www.techloy.com/best-kaneai-alternatives-for-test-automation-in-2026/",
+      "source": "Techloy",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-07-21T08:10:53.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "/ featured",
+        "test automation engineer"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "f9e32f2659ff78e6",
+      "slug": "promising-blockchain-stocks-to-follow-now-july-20th-834f5d",
+      "title": "Promising Blockchain Stocks To Follow Now – July 20th",
+      "dek": "Core Scientific, Figure Technology Solutions, Bitdeer Technologies Group, Digi Power X, Globant, Core Scientific, and Nukkleus are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, use, o",
+      "url": "https://www.americanbankingnews.com/2026/07/21/promising-blockchain-stocks-to-follow-now-july-20th.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
+      "publishedAt": "2026-07-21T08:05:15.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 42
+    },
+    {
+      "id": "2d4a6b1cde02897a",
+      "slug": "coherent-market-insights-announced-as-knowledge-partner-for-automation-expo-2026-mumbai--cab6a5",
+      "title": "Coherent Market Insights Announced as Knowledge Partner for Automation Expo 2026, Mumbai; to Unveil Industry Insights Report on India's Process and Factory Automation Market",
+      "dek": "Mumbai, India - July, 2026 - Coherent Market Insights today announced its participation as the official Knowledge Partner for Automation Expo 2026, Asia's leading showcase for industrial automation, robotics, and smart manufacturing technologies. The event will be held from 22-25",
+      "url": "https://www.openpr.com/news/4582309/coherent-market-insights-announced-as-knowledge-partner",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/7/L721860672_k.jpg",
+      "publishedAt": "2026-07-21T07:58:51.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "pr service",
+        "presses release",
+        "pr marketing",
+        "public relations",
+        "pr",
+        "marketing"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "abaf6fb516e20d00",
+      "slug": "data-modernisation-fails-when-nobody-understands-the-data-776e38",
+      "title": "Data modernisation fails when nobody understands the data",
+      "dek": "Before an organisation can improve its data environment, it needs an accurate view of the environment it already has, says Juan Joubert, product manager at Blue Turtle.",
+      "url": "https://www.itweb.co.za/article/data-modernisation-fails-when-nobody-understands-the-data/Pero37Z31zYMQb6m",
+      "source": "Itweb",
+      "sourceType": "external",
+      "image": "https://www.itweb.co.za/static/pictures/2026/07/BlueTurtle-21July2026.jpg",
+      "publishedAt": "2026-07-21T06:34:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "ai governance",
+        "blue turtle",
+        "quest",
+        "juan joubert",
+        "data estates",
+        "erwin data modeler"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "a92ecb9911257424",
+      "slug": "graph-database-market-size-share-trends-global-industry-forecast-to-2035-2f8df0",
+      "title": "Graph Database Market Size, Share & Trends | Global Industry Forecast to 2035",
+      "dek": "The global Graph Database market, valued at USD 5.37 Billion in 2025, is expected to reach USD 38.24 Billion by 2035, registering a revenue CAGR of 21.7% during the forecast period. Organizations are increasingly adopting graph database technologies to analyze",
+      "url": "https://www.openpr.com/news/4582205/graph-database-market-size-share-trends-global-industry",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/7/L721111250_k.jpg",
+      "publishedAt": "2026-07-21T05:29:18.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "pr service",
+        "presses release",
+        "pr marketing",
+        "public relations",
+        "pr",
+        "marketing"
       ],
       "priority": 40
     },
     {
-      "id": "74d4fa69e2675aee",
-      "slug": "oracle-unveils-ai-native-builder-for-fusion-applications-amid-strong-customer-adoption-a-1b09ac",
-      "title": "Oracle Unveils AI-Native Builder for Fusion Applications Amid Strong Customer Adoption and Financial Growth",
-      "dek": "Oracle's new AI-native builder for Fusion Applications enables no-code to pro-code development. See how Red Bull Racing and Clayton use it, and why RPO surged to $638B despite a stock dip. The post Oracle Unveils AI-Native Builder for Fusion Applications Amid Strong Customer Adoption and Financial G",
-      "url": "https://www.sourcetrail.com/software/oracle-unveils-ai-native-builder-for-fusion-applications-amid-strong-customer-adoption-and-financial-growth/",
-      "source": "sourcetrail",
+      "id": "027e148b27c581e1",
+      "slug": "blueish-oracle-japan-award-2026-best-cloud-ai-partner-of-the-year-tech-15769a",
+      "title": "BLUEISH、「Oracle Japan Award 2026」にて「Best Cloud AI Partner of the Year (Tech)」を受賞",
+      "dek": "BLUEISH、「Oracle Japan Award 2026」にて「Best Cloud AI Partner of the Year (Tech)」を受賞 株式会社BLUEISHのプレスリリース",
+      "url": "https://prtimes.jp/main/html/rd/p/000000085.000078860.html",
+      "source": "Pr Times",
       "sourceType": "external",
-      "image": "https://www.sourcetrail.com/wp-content/uploads/2026/07/Oracle-4.jpg",
-      "publishedAt": "2026-07-20T00:30:11.000Z",
+      "image": "https://prcdn.freetls.fastly.net/release_image/78860/85/78860-85-102f7fcb2663147e4f5c70c1acea9516-2352x1324.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "publishedAt": "2026-07-21T04:30:07.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "システム・webサイト・アプリ開発",
+        "aiエージェント",
+        "エンタープライズai",
+        "oraclejapanaward",
+        "生成ai",
+        "イベント"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "73fe15ec4e2aff49",
+      "slug": "chinese-open-source-ai-surge-puts-u-s-policy-to-the-test-8f4cb3",
+      "title": "Chinese Open-Source AI Surge Puts U.S. Policy to the Test",
+      "dek": "Chinese open-weight models like GLM 5.2 and Kimi K3 deliver near-frontier performance at a fraction of U.S. costs, forcing a policy reckoning in Washington. Restrictions intended to protect American leadership have instead accelerated adoption of Beijing-backed alternatives. The debate pits security",
+      "url": "https://www.webpronews.com/chinese-open-source-ai-surge-puts-u-s-policy-to-the-test/",
+      "source": "Webpronews",
+      "sourceType": "external",
+      "image": "https://www.webpronews.com/wp-content/uploads/2026/07/article-21649-1784606597.jpeg",
+      "publishedAt": "2026-07-21T04:03:22.000Z",
+      "topic": "Security",
+      "tags": [
+        "ai policy debate",
+        "top news",
+        "chinese open source ai",
+        "glm 5.2",
+        "us china ai competition",
+        "open weight models"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "70dde32f3774fe58",
+      "slug": "west-fargo-airport-authority-asks-to-be-considered-in-plans-for-city-growth-318ae4",
+      "title": "West Fargo Airport Authority asks to be considered in plans for city growth",
+      "dek": "The West Fargo City Commission voted Monday, July 20, to adopt the Growth Area Plan and directed city staff to work with community partners like the West Fargo Municipal Airport.",
+      "url": "https://www.inforum.com/news/west-fargo/west-fargo-airport-authority-asks-to-be-considered-in-plans-for-city-growth",
+      "source": "Inforum",
+      "sourceType": "external",
+      "image": "https://cdn.forumcomm.com/dims4/default/00d397b/2147483647/resize/800x/quality/90/?url=https%3A%2F%2Fforum-communications-production-web.s3.us-west-2.amazonaws.com%2Fbrightspot%2F7d%2F31%2F8d09a2f5409e84cb7453d3d5572b%2F070726-n-ff-wfcommission-2.JPG",
+      "publishedAt": "2026-07-21T03:13:13.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "government and politics",
+        "west fargo",
+        "west fargo city commission"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "ba3aab1f7d5ff6b9",
+      "slug": "psky-orcl-tlry-stocks-hit-52-week-lows-today-what-s-driving-the-selloff-ca2b28",
+      "title": "PSKY, ORCL, TLRY Stocks Hit 52-Week Lows Today: What's Driving The Selloff?",
+      "dek": "Legal hurdle, AI spending and profit concerns weighed on sentiment.",
+      "url": "https://newsable.asianetnews.com/markets/psky-orcl-tlry-stocks-hit-52-week-lows-today-what-s-driving-the-selloff-articleshow-igzhefw",
+      "source": "Asianet Newsable",
+      "sourceType": "external",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-b0eb83b9-b842-45ee-85be-e8d12f43e246.webp",
+      "publishedAt": "2026-07-21T02:40:01.000Z",
       "topic": "Business & Earnings",
+      "tags": [
+        "mid cap",
+        "us",
+        "retail",
+        "afterhours",
+        "large cap",
+        "small cap"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "75426dded76fa652",
+      "slug": "giverny-capital-asset-management-q2-2026-investment-letter-911611",
+      "title": "Giverny Capital Asset Management Q2 2026 Investment Letter",
+      "dek": "Giverny Capital reviews Q2 2026 results, highlighting performance dispersion and the impact of the AI investment surge. Read the full analysis for more details.",
+      "url": "https://seekingalpha.com/article/4923601-giverny-capital-asset-management-q2-2026-investment-letter",
+      "source": "Seeking Alpha",
+      "sourceType": "external",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1347159499/image_1347159499.jpg?io=getty-c-w1280",
+      "publishedAt": "2026-07-21T01:10:00.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
         "AI"
       ],
       "priority": 37
     },
     {
-      "id": "14f10de7a0913b33",
-      "slug": "hyatt-adopts-oracle-opera-cloud-for-property-management-d77e14",
-      "title": "Hyatt Adopts Oracle OPERA Cloud for Property Management",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://hospitalitynews.in/news/hyatt-selects-oracle-opera-cloud-as-global-property-management-system",
-      "source": "Hospitalitynews",
+      "id": "6f3880289a85e0c3",
+      "slug": "lansing-street-advisors-q2-2026-letter-27f834",
+      "title": "Lansing Street Advisors Q2 2026 Letter",
+      "dek": "Lansing Street Advisors assesses 2026 market volatility, the AI buildout risks, and the return of diversification. Read the full analysis for more details.",
+      "url": "https://seekingalpha.com/article/4923596-lansing-street-advisors-q2-2026-letter",
+      "source": "Seeking Alpha",
       "sourceType": "external",
-      "image": "https://hospitalitynews.in/uploads/images/202409/image_870x580_66e9776eb1a25.jpg",
-      "publishedAt": "2026-07-20T00:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2258773474/image_2258773474.jpg?io=getty-c-w1280",
+      "publishedAt": "2026-07-21T00:45:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "AI"
+      ],
       "priority": 37
     },
     {
-      "id": "90a42e6add0835f5",
-      "slug": "itransition-named-the-leading-microsoft-dynamics-365-finance-supply-chain-management-par-ace350",
-      "title": "Itransition Named the Leading Microsoft Dynamics 365 Finance & Supply Chain Management Partner by ERP Pilot",
-      "dek": "Itransition earns the top position for its expertise in Dynamics 365 Finance and Supply Chain Management consulting, implementation, and support.",
-      "url": "https://www.einpresswire.com/article/927075259/itransition-named-the-leading-microsoft-dynamics-365-finance-supply-chain-management-partner-by-erp-pilot",
+      "id": "6c618074d17c59e7",
+      "slug": "dell-poweredge-r7725-can-consolidate-oracle-database-workloads-running-on-legacy-servers-038ac6",
+      "title": "Dell PowerEdge R7725 can consolidate Oracle Database workloads running on legacy servers, cut 5-year TCO",
+      "dek": "Principled Technologies testing found a single Dell PowerEdge R7725 with AMD EPYC 9175F processors handled the analytics work of multiple legacy HPE servers.",
+      "url": "https://www.einpresswire.com/article/928266542/dell-poweredge-r7725-can-consolidate-oracle-database-workloads-running-on-legacy-servers-cut-5-year-tco",
       "source": "Ein Presswire",
       "sourceType": "external",
-      "image": "https://img.einnews.com/ampsize/1153035/itransition-in-erp-pilot-rating.png",
-      "publishedAt": "2026-07-20T00:00:00.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://img.einnews.com/ampsize/796694/pt-logo-with-space-below.png",
+      "publishedAt": "2026-07-21T00:00:00.000Z",
+      "topic": "AI & Database",
       "tags": [
-        "united kingdom",
+        "united states",
         "it industry",
-        "worldnews",
-        "georgia",
-        "united states"
+        "texas",
+        "technology",
+        "business and economy",
+        "canada"
       ],
       "priority": 37
     },
     {
-      "id": "cded7ace4193dedf",
-      "slug": "your-first-oracle-autonomous-database-on-oci-always-free-d399be",
-      "title": "Your First Oracle Autonomous Database on OCI Always Free",
+      "id": "a61ee791ed87fb03",
+      "slug": "progressive-group-seeks-special-audit-of-nm-environment-dept-contracts-with-ex-cabinet-o-d717dc",
+      "title": "Progressive group seeks special audit of NM Environment Dept. contracts with ex-cabinet official's firm",
+      "dek": "ProgressNow NM has filed a complaint requesting a special audit of the New Mexico Environment Department's contracts with Apaluma, Inc., a company founded by former state Economic Development Secretary Alicia Keyes. The complaint alleges potential procurement violations and conflicts of interest inv",
+      "url": "https://www.abqjournal.com/news/progressive-group-seeks-environment-department-special-audit/3086131",
+      "source": "Albuquerque Journal",
+      "sourceType": "external",
+      "image": "https://image.abqjournal.com/?imageId=2903763&format=webp&width=1200",
+      "publishedAt": "2026-07-20T23:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "new mexico environment department",
+        "progressnow nm",
+        "project jupiter",
+        "apaluma inc.",
+        "news",
+        "alicia keyes"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "4ba5d4f09e1f455c",
+      "slug": "amd-unveils-helios-its-next-gen-ai-powerhouse-with-mi455x-6th-gen-epyc-challenging-nvidi-46e445",
+      "title": "AMD Unveils Helios, Its Next-Gen AI Powerhouse With MI455X & 6th Gen EPYC, Challenging NVIDIA’s Rack-Scale Dominance",
+      "dek": "AMD has unveiled its next-generation Helios AI Rack, which aims to become the leading solution for frontier AI and sovereign computing, powered by its MI455X GPUs and 6th Gen EPYC CPUs. AMD's Helios AI Racks Are A Sight To Behold: Combining Next-Generation Instinct GPUs, EPYC CPUs, & Pensando Networ",
+      "url": "https://wccftech.com/amd-helios-ai-rack-mi455x-6th-gen-epyc-challenging-nvidia/",
+      "source": "Wccftech",
+      "sourceType": "external",
+      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/07/AMD-Helios-AI-Rack-Official-1456x819.jpg",
+      "publishedAt": "2026-07-20T22:45:05.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "27a5b4630f76f709",
+      "slug": "500-blog-posts-to-learn-about-coding-bc1512",
+      "title": "500 Blog Posts To Learn About Coding",
       "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/technology/your-first-oracle-autonomous-database-on-oci-always-free-B3735BBC-C492-4F32-8AB5-5B26F1EAFEC5",
+      "url": "https://www.bundle.app/en/technology/500-blog-posts-to-learn-about-coding-A860FAA7-BB01-4FC1-A7BD-F5A28EB6E4E5",
       "source": "Bundle",
       "sourceType": "external",
-      "image": "https://static.bundle.app/news/13f6e88a-00ec-5695-bafc-9996caea8a8d.jpg",
-      "publishedAt": "2026-07-19T23:19:31.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "OCI",
-        "Autonomous Database"
-      ],
+      "image": "https://static.bundle.app/news/2bc59426-7b8f-5ddc-988c-9318280e0e78.jpg",
+      "publishedAt": "2026-07-20T22:31:32.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
       "priority": 36
     },
     {
@@ -1991,22 +2002,6 @@
       "tags": [
         "OCI",
         "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "be8b92279cd0831f",
-      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
-      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-09T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
       ],
       "priority": 36
     }
