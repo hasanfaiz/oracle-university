@@ -6,7 +6,7 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 21:37:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:34:07 GMT</lastBuildDate>
     
     <item>
       <title>Oracle Sets the Date for its Fourth Quarter Fiscal Year 2026 Earnings Announcement</title>
@@ -36,175 +36,202 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-Second-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>Tesla, Alphabet, Intel: which earnings bet is priced for chaos?</title>
-      <link>https://oracle-university.com/stories/tesla-alphabet-intel-which-earnings-bet-is-priced-for-chaos-b940a7/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/tesla-alphabet-intel-which-earnings-bet-is-priced-for-chaos-b940a7/</guid>
-      <pubDate>Tue, 21 Jul 2026 09:32:10 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Wall Street is preparing for three technology earnings reports, but options traders see one as more dangerous than the others. As per market data, Intel shares (NASDAQ: INTC) are priced for a 13.52% move after Thursday’s results, compared with 9.17% for Alphabet (NASDAQ: GOOG) and 6.79% for Tesla (N</description>
-      <source url="https://invezz.com/news/2026/07/21/tesla-alphabet-intel-which-earnings-bet-is-priced-for-chaos/">Invezz</source>
-    </item>
-    <item>
-      <title>Synchro 4D and 5D Training Online Helps Professionals Master Digital Construction Planning and BIM Workflows</title>
-      <link>https://oracle-university.com/stories/synchro-4d-and-5d-training-online-helps-professionals-master-digital-construction-planni-88de43/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/synchro-4d-and-5d-training-online-helps-professionals-master-digital-construction-planni-88de43/</guid>
-      <pubDate>Tue, 21 Jul 2026 09:23:57 GMT</pubDate>
+      <title>SAP IS Utilities (IS-U) Training Equips Professionals for Modern Utility Industry Transformation</title>
+      <link>https://oracle-university.com/stories/sap-is-utilities-is-u-training-equips-professionals-for-modern-utility-industry-transfor-8ae703/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/sap-is-utilities-is-u-training-equips-professionals-for-modern-utility-industry-transfor-8ae703/</guid>
+      <pubDate>Wed, 22 Jul 2026 09:31:17 GMT</pubDate>
       <category>Training &amp; Certification</category>
-      <description>Multisoft Systems, a trusted name in professional technical training, proudly introduces its Synchro 4D and 5D Training Online program, designed to help engineers, project planners, BIM professionals, and construction managers develop expertise in digital construction planning, project scheduling, a</description>
-      <source url="http://prsync.com/multisoft-systems/synchro-d-and-d-training-online-helps-professionals-master-digital-construction-planning-and-bim-workflows-5192309/">Pr Sync</source>
+      <description>As utility providers continue to modernize their operations through digital technologies, the demand for skilled SAP IS Utilities (IS-U) professionals is growing rapidly. To address this industry need, Multisoft Systems has introduced its comprehensive SAP IS Utilities (IS-U) Training program, desig</description>
+      <source url="http://prsync.com/multisoft-systems/sap-is-utilities-is-u-training-equips-professionals-for-modern-utility-industry-transformation-5192394/">Pr Sync</source>
     </item>
     <item>
-      <title>What to expect at AMD Advancing AI 2026</title>
-      <link>https://oracle-university.com/stories/what-to-expect-at-amd-advancing-ai-2026-9964bd/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/what-to-expect-at-amd-advancing-ai-2026-9964bd/</guid>
-      <pubDate>Tue, 21 Jul 2026 09:09:27 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Here are three things I expect to hear about at AMD’s annual get together – and one I don’t</description>
-      <source url="https://www.itpro.com/infrastructure/what-to-expect-at-amd-advancing-ai-2026">Itpro</source>
+      <title>Dorsey Wright &amp; Associates Acquires 16,154 Shares of Broadcom Inc. $AVGO</title>
+      <link>https://oracle-university.com/stories/dorsey-wright-associates-acquires-16-154-shares-of-broadcom-inc-avgo-a3b2df/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/dorsey-wright-associates-acquires-16-154-shares-of-broadcom-inc-avgo-a3b2df/</guid>
+      <pubDate>Wed, 22 Jul 2026 09:26:50 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Dorsey Wright &amp; Associates grew its stake in shares of Broadcom Inc. (NASDAQ:AVGO – Free Report) by 44.9% in the first quarter, according to its most recent disclosure with the Securities and Exchange Commission. The firm owned 52,125 shares of the semiconductor manufacturer’s stock after purchasing</description>
+      <source url="https://www.defenseworld.net/2026/07/22/dorsey-wright-associates-acquires-16154-shares-of-broadcom-inc-avgo.html">Defenseworld Net</source>
     </item>
     <item>
-      <title>Microsoft to deploy AMD Helios AI system on Azure</title>
-      <link>https://oracle-university.com/stories/microsoft-to-deploy-amd-helios-ai-system-on-azure-574598/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/microsoft-to-deploy-amd-helios-ai-system-on-azure-574598/</guid>
-      <pubDate>Tue, 21 Jul 2026 08:31:29 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Microsoft became the latest major cloud provider to adopt AMD&#39;s rack-scale Helios AI system, deepening a partnership which spans GPUs, CPUs, networking and software across Azure&#39;s infrastructure. The post Microsoft to deploy AMD Helios AI system on Azure appeared first on Mobile World Live .</description>
-      <source url="https://www.mobileworldlive.com/microsoft/microsoft-to-deploy-amd-helios-ai-system-on-azure/">Mobileworldlive</source>
+      <title>Broadcom Inc. $AVGO Shares Acquired by Dorsey Wright &amp; Associates</title>
+      <link>https://oracle-university.com/stories/broadcom-inc-avgo-shares-acquired-by-dorsey-wright-associates-c60775/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/broadcom-inc-avgo-shares-acquired-by-dorsey-wright-associates-c60775/</guid>
+      <pubDate>Wed, 22 Jul 2026 09:26:40 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Dorsey Wright &amp; Associates grew its holdings in shares of Broadcom Inc. (NASDAQ:AVGO – Free Report) by 44.9% in the 1st quarter, HoldingsChannel.com reports. The firm owned 52,125 shares of the semiconductor manufacturer’s stock after purchasing an additional 16,154 shares during the quarter. Broadc</description>
+      <source url="https://www.americanbankingnews.com/2026/07/22/broadcom-inc-avgo-shares-acquired-by-dorsey-wright-associates.html">Americanbankingnews</source>
     </item>
     <item>
-      <title>Best KaneAI Alternatives for Test Automation in 2026</title>
-      <link>https://oracle-university.com/stories/best-kaneai-alternatives-for-test-automation-in-2026-20f2eb/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/best-kaneai-alternatives-for-test-automation-in-2026-20f2eb/</guid>
-      <pubDate>Tue, 21 Jul 2026 08:10:53 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>For teams trying to reduce manual effort and move beyond script-heavy testing, that promise is compelling.</description>
-      <source url="https://www.techloy.com/best-kaneai-alternatives-for-test-automation-in-2026/">Techloy</source>
-    </item>
-    <item>
-      <title>Promising Blockchain Stocks To Follow Now – July 20th</title>
-      <link>https://oracle-university.com/stories/promising-blockchain-stocks-to-follow-now-july-20th-834f5d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/promising-blockchain-stocks-to-follow-now-july-20th-834f5d/</guid>
-      <pubDate>Tue, 21 Jul 2026 08:05:15 GMT</pubDate>
+      <title>US Stock Market: Big tech&#39;s AI spending boom raises cash flow concerns despite early returns</title>
+      <link>https://oracle-university.com/stories/us-stock-market-big-tech-s-ai-spending-boom-raises-cash-flow-concerns-despite-early-retu-4d9d4a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/us-stock-market-big-tech-s-ai-spending-boom-raises-cash-flow-concerns-despite-early-retu-4d9d4a/</guid>
+      <pubDate>Wed, 22 Jul 2026 09:21:24 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Core Scientific, Figure Technology Solutions, Bitdeer Technologies Group, Digi Power X, Globant, Core Scientific, and Nukkleus are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, use, o</description>
-      <source url="https://www.americanbankingnews.com/2026/07/21/promising-blockchain-stocks-to-follow-now-july-20th.html">Americanbankingnews</source>
+      <description>America&#39;s biggest technology companies are beginning to generate meaningful AI-driven revenue, but surging infrastructure spending is putting free cash flow under pressure. Reuters&#39; analysis of LSEG estimates shows capital expenditure is expected to outpace free cash flow by 2027, shifting investor </description>
+      <source url="https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-big-techs-ai-spending-boom-raises-cash-flow-concerns-despite-early-returns/articleshow/132555349.cms">The Economic Times</source>
     </item>
     <item>
-      <title>Coherent Market Insights Announced as Knowledge Partner for Automation Expo 2026, Mumbai; to Unveil Industry Insights Report on India&#39;s Process and Factory Automation Market</title>
-      <link>https://oracle-university.com/stories/coherent-market-insights-announced-as-knowledge-partner-for-automation-expo-2026-mumbai--cab6a5/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/coherent-market-insights-announced-as-knowledge-partner-for-automation-expo-2026-mumbai--cab6a5/</guid>
-      <pubDate>Tue, 21 Jul 2026 07:58:51 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Mumbai, India - July, 2026 - Coherent Market Insights today announced its participation as the official Knowledge Partner for Automation Expo 2026, Asia&#39;s leading showcase for industrial automation, robotics, and smart manufacturing technologies. The event will be held from 22-25</description>
-      <source url="https://www.openpr.com/news/4582309/coherent-market-insights-announced-as-knowledge-partner">Openpr.com</source>
-    </item>
-    <item>
-      <title>Data modernisation fails when nobody understands the data</title>
-      <link>https://oracle-university.com/stories/data-modernisation-fails-when-nobody-understands-the-data-776e38/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/data-modernisation-fails-when-nobody-understands-the-data-776e38/</guid>
-      <pubDate>Tue, 21 Jul 2026 06:34:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Before an organisation can improve its data environment, it needs an accurate view of the environment it already has, says Juan Joubert, product manager at Blue Turtle.</description>
-      <source url="https://www.itweb.co.za/article/data-modernisation-fails-when-nobody-understands-the-data/Pero37Z31zYMQb6m">Itweb</source>
-    </item>
-    <item>
-      <title>Graph Database Market Size, Share &amp; Trends | Global Industry Forecast to 2035</title>
-      <link>https://oracle-university.com/stories/graph-database-market-size-share-trends-global-industry-forecast-to-2035-2f8df0/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/graph-database-market-size-share-trends-global-industry-forecast-to-2035-2f8df0/</guid>
-      <pubDate>Tue, 21 Jul 2026 05:29:18 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>The global Graph Database market, valued at USD 5.37 Billion in 2025, is expected to reach USD 38.24 Billion by 2035, registering a revenue CAGR of 21.7% during the forecast period. Organizations are increasingly adopting graph database technologies to analyze</description>
-      <source url="https://www.openpr.com/news/4582205/graph-database-market-size-share-trends-global-industry">Openpr.com</source>
-    </item>
-    <item>
-      <title>BLUEISH、「Oracle Japan Award 2026」にて「Best Cloud AI Partner of the Year (Tech)」を受賞</title>
-      <link>https://oracle-university.com/stories/blueish-oracle-japan-award-2026-best-cloud-ai-partner-of-the-year-tech-15769a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/blueish-oracle-japan-award-2026-best-cloud-ai-partner-of-the-year-tech-15769a/</guid>
-      <pubDate>Tue, 21 Jul 2026 04:30:07 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>BLUEISH、「Oracle Japan Award 2026」にて「Best Cloud AI Partner of the Year (Tech)」を受賞 株式会社BLUEISHのプレスリリース</description>
-      <source url="https://prtimes.jp/main/html/rd/p/000000085.000078860.html">Pr Times</source>
-    </item>
-    <item>
-      <title>Chinese Open-Source AI Surge Puts U.S. Policy to the Test</title>
-      <link>https://oracle-university.com/stories/chinese-open-source-ai-surge-puts-u-s-policy-to-the-test-8f4cb3/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/chinese-open-source-ai-surge-puts-u-s-policy-to-the-test-8f4cb3/</guid>
-      <pubDate>Tue, 21 Jul 2026 04:03:22 GMT</pubDate>
-      <category>Security</category>
-      <description>Chinese open-weight models like GLM 5.2 and Kimi K3 deliver near-frontier performance at a fraction of U.S. costs, forcing a policy reckoning in Washington. Restrictions intended to protect American leadership have instead accelerated adoption of Beijing-backed alternatives. The debate pits security</description>
-      <source url="https://www.webpronews.com/chinese-open-source-ai-surge-puts-u-s-policy-to-the-test/">Webpronews</source>
-    </item>
-    <item>
-      <title>West Fargo Airport Authority asks to be considered in plans for city growth</title>
-      <link>https://oracle-university.com/stories/west-fargo-airport-authority-asks-to-be-considered-in-plans-for-city-growth-318ae4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/west-fargo-airport-authority-asks-to-be-considered-in-plans-for-city-growth-318ae4/</guid>
-      <pubDate>Tue, 21 Jul 2026 03:13:13 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The West Fargo City Commission voted Monday, July 20, to adopt the Growth Area Plan and directed city staff to work with community partners like the West Fargo Municipal Airport.</description>
-      <source url="https://www.inforum.com/news/west-fargo/west-fargo-airport-authority-asks-to-be-considered-in-plans-for-city-growth">Inforum</source>
-    </item>
-    <item>
-      <title>PSKY, ORCL, TLRY Stocks Hit 52-Week Lows Today: What&#39;s Driving The Selloff?</title>
-      <link>https://oracle-university.com/stories/psky-orcl-tlry-stocks-hit-52-week-lows-today-what-s-driving-the-selloff-ca2b28/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/psky-orcl-tlry-stocks-hit-52-week-lows-today-what-s-driving-the-selloff-ca2b28/</guid>
-      <pubDate>Tue, 21 Jul 2026 02:40:01 GMT</pubDate>
+      <title>AI in Revenue Cycle Management Market Size to Reach $225.87 Billion by 2035 | SNS Insider</title>
+      <link>https://oracle-university.com/stories/ai-in-revenue-cycle-management-market-size-to-reach-225-87-billion-by-2035-sns-insider-49de7f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-in-revenue-cycle-management-market-size-to-reach-225-87-billion-by-2035-sns-insider-49de7f/</guid>
+      <pubDate>Wed, 22 Jul 2026 09:06:00 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Legal hurdle, AI spending and profit concerns weighed on sentiment.</description>
-      <source url="https://newsable.asianetnews.com/markets/psky-orcl-tlry-stocks-hit-52-week-lows-today-what-s-driving-the-selloff-articleshow-igzhefw">Asianet Newsable</source>
+      <description>The U.S. AI in Revenue Cycle Management Market is Expected to Reach $90.71 Billion by 2035, While Europe is Projected to Attain $59.82 Billion, Driven by Rising Claim Denials, Healthcare Digitalization, Predictive Analytics, and AI-Powered Revenue Cycle Automation The U.S. AI in Revenue Cycle Manage</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/07/22/3331134/0/en/AI-in-Revenue-Cycle-Management-Market-Size-to-Reach-225-87-Billion-by-2035-SNS-Insider.html">Globenewswire_fr</source>
     </item>
     <item>
-      <title>Giverny Capital Asset Management Q2 2026 Investment Letter</title>
-      <link>https://oracle-university.com/stories/giverny-capital-asset-management-q2-2026-investment-letter-911611/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/giverny-capital-asset-management-q2-2026-investment-letter-911611/</guid>
-      <pubDate>Tue, 21 Jul 2026 01:10:00 GMT</pubDate>
+      <title>How AI data centre spending is creating hidden debt for tech giants</title>
+      <link>https://oracle-university.com/stories/how-ai-data-centre-spending-is-creating-hidden-debt-for-tech-giants-9737aa/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/how-ai-data-centre-spending-is-creating-hidden-debt-for-tech-giants-9737aa/</guid>
+      <pubDate>Wed, 22 Jul 2026 08:52:01 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Giverny Capital reviews Q2 2026 results, highlighting performance dispersion and the impact of the AI investment surge. Read the full analysis for more details.</description>
-      <source url="https://seekingalpha.com/article/4923601-giverny-capital-asset-management-q2-2026-investment-letter">Seeking Alpha</source>
+      <description>AI spending by Alphabet, Microsoft, Amazon, Meta and Oracle is driving a surge in hidden debt, with off-balance-sheet commitments reaching $1.65 trillion</description>
+      <source url="https://www.business-standard.com/world-news/tech-giants-ai-investment-hidden-debt-balance-sheets-data-centres-microsoft-126072200668_1.html">Business Standard</source>
     </item>
     <item>
-      <title>Lansing Street Advisors Q2 2026 Letter</title>
-      <link>https://oracle-university.com/stories/lansing-street-advisors-q2-2026-letter-27f834/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/lansing-street-advisors-q2-2026-letter-27f834/</guid>
-      <pubDate>Tue, 21 Jul 2026 00:45:00 GMT</pubDate>
+      <title>Bartlett &amp; CO. Wealth Management LLC Acquires 62,050 Shares of Broadcom Inc. $AVGO</title>
+      <link>https://oracle-university.com/stories/bartlett-co-wealth-management-llc-acquires-62-050-shares-of-broadcom-inc-avgo-716931/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/bartlett-co-wealth-management-llc-acquires-62-050-shares-of-broadcom-inc-avgo-716931/</guid>
+      <pubDate>Wed, 22 Jul 2026 08:49:22 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Bartlett &amp; CO. Wealth Management LLC raised its holdings in Broadcom Inc. (NASDAQ:AVGO – Free Report) by 129.3% during the 1st quarter, according to its most recent filing with the Securities and Exchange Commission. The fund owned 110,048 shares of the semiconductor manufacturer’s stock after buyin</description>
+      <source url="https://www.defenseworld.net/2026/07/22/bartlett-co-wealth-management-llc-acquires-62050-shares-of-broadcom-inc-avgo.html">Defenseworld Net</source>
+    </item>
+    <item>
+      <title>Analysis-AI investment boom puts Big Tech’s free cash flow under pressure</title>
+      <link>https://oracle-university.com/stories/analysis-ai-investment-boom-puts-big-tech-s-free-cash-flow-under-pressure-5b365b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/analysis-ai-investment-boom-puts-big-tech-s-free-cash-flow-under-pressure-5b365b/</guid>
+      <pubDate>Wed, 22 Jul 2026 08:44:04 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>July 22 (Reuters) - U.S. hyperscalers are starting to show returns on their artificial intelligence investments, but the rising cost of the buildout. The post Analysis-AI investment boom puts Big Tech’s free cash flow under pressure appeared first on Inside Telecom .</description>
+      <source url="https://insidetelecom.com/ai-investment-boom-puts-big-techs-free-cash-flow-under-pressure/">Inside Telecom</source>
+    </item>
+    <item>
+      <title>Head-To-Head Contrast: ZIM (OTCMKTS:ZIMCF) vs. Open Text (NASDAQ:OTEX)</title>
+      <link>https://oracle-university.com/stories/head-to-head-contrast-zim-otcmkts-zimcf-vs-open-text-nasdaq-otex-b269dd/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/head-to-head-contrast-zim-otcmkts-zimcf-vs-open-text-nasdaq-otex-b269dd/</guid>
+      <pubDate>Wed, 22 Jul 2026 08:15:09 GMT</pubDate>
       <category>Security</category>
-      <description>Lansing Street Advisors assesses 2026 market volatility, the AI buildout risks, and the return of diversification. Read the full analysis for more details.</description>
-      <source url="https://seekingalpha.com/article/4923596-lansing-street-advisors-q2-2026-letter">Seeking Alpha</source>
+      <description>ZIM (OTCMKTS:ZIMCF – Get Free Report) and Open Text (NASDAQ:OTEX – Get Free Report) are both computer and technology companies, but which is the superior business? We will contrast the two companies based on the strength of their earnings, risk, analyst recommendations, dividends, institutional owne</description>
+      <source url="https://baseballnewssource.com/2026/07/22/head-to-head-contrast-zim-otcmktszimcf-vs-open-text-nasdaqotex/11191960.html">Bbns</source>
     </item>
     <item>
-      <title>Dell PowerEdge R7725 can consolidate Oracle Database workloads running on legacy servers, cut 5-year TCO</title>
-      <link>https://oracle-university.com/stories/dell-poweredge-r7725-can-consolidate-oracle-database-workloads-running-on-legacy-servers-038ac6/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/dell-poweredge-r7725-can-consolidate-oracle-database-workloads-running-on-legacy-servers-038ac6/</guid>
-      <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Principled Technologies testing found a single Dell PowerEdge R7725 with AMD EPYC 9175F processors handled the analytics work of multiple legacy HPE servers.</description>
-      <source url="https://www.einpresswire.com/article/928266542/dell-poweredge-r7725-can-consolidate-oracle-database-workloads-running-on-legacy-servers-cut-5-year-tco">Ein Presswire</source>
+      <title>WEKA Debuts NeuralMesh 6 to Power Enterprise and Agentic AI Workloads at Production Scale</title>
+      <link>https://oracle-university.com/stories/weka-debuts-neuralmesh-6-to-power-enterprise-and-agentic-ai-workloads-at-production-scal-eaa704/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/weka-debuts-neuralmesh-6-to-power-enterprise-and-agentic-ai-workloads-at-production-scal-eaa704/</guid>
+      <pubDate>Wed, 22 Jul 2026 08:04:23 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The most significant software release in the company’s history extends what’s possible for agentic AI and other accelerated compute workloads. NeuralMesh 6 redefines inference economics with native multi-tenancy, a unified file-and-object protocol stack built on NVMe, intelligent data mobility with </description>
+      <source url="https://martechseries.com/predictive-ai/ai-platforms-machine-learning/weka-debuts-neuralmesh-6-to-power-enterprise-and-agentic-ai-workloads-at-production-scale/">Marketing Technology Series</source>
     </item>
     <item>
-      <title>Progressive group seeks special audit of NM Environment Dept. contracts with ex-cabinet official&#39;s firm</title>
-      <link>https://oracle-university.com/stories/progressive-group-seeks-special-audit-of-nm-environment-dept-contracts-with-ex-cabinet-o-d717dc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/progressive-group-seeks-special-audit-of-nm-environment-dept-contracts-with-ex-cabinet-o-d717dc/</guid>
-      <pubDate>Mon, 20 Jul 2026 23:00:00 GMT</pubDate>
+      <title>Gotomyerp Invites Businesses to Take a Free Test Drive of Its Secure Cloud ERP Hosting Platform</title>
+      <link>https://oracle-university.com/stories/gotomyerp-invites-businesses-to-take-a-free-test-drive-of-its-secure-cloud-erp-hosting-p-33e0b8/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/gotomyerp-invites-businesses-to-take-a-free-test-drive-of-its-secure-cloud-erp-hosting-p-33e0b8/</guid>
+      <pubDate>Wed, 22 Jul 2026 07:53:52 GMT</pubDate>
+      <category>Security</category>
+      <description>Experience the Speed, Security, and Simplicity of Cloud Hosting for Desktop ERP Systems with a Risk-Free Live Demo Choosing a new Quick Books cloud hosting provider for your desktop accounting or ERP system is a major business decision. To help organizations</description>
+      <source url="https://www.openpr.com/news/4583167/gotomyerp-invites-businesses-to-take-a-free-test-drive-of-its">Openpr.com</source>
+    </item>
+    <item>
+      <title>AI-Native SMB Financial Operating System Market Top Players- Intuit Inc., Xero Limited, Sage Group plc, Zoho Corporation.</title>
+      <link>https://oracle-university.com/stories/ai-native-smb-financial-operating-system-market-top-players-intuit-inc-xero-limited-sage-959031/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-native-smb-financial-operating-system-market-top-players-intuit-inc-xero-limited-sage-959031/</guid>
+      <pubDate>Wed, 22 Jul 2026 07:06:01 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>InsightAce Analytic Pvt. Ltd. announces the release of a market assessment report on the &quot;Global AI-Native SMB Financial Operating System Market Size, Share &amp; Trends Analysis Report By Module (Business Banking &amp; Checking, Expense Management, Global Payments, Treasury Management, Stablecoin</description>
+      <source url="https://www.openpr.com/news/4583301/ai-native-smb-financial-operating-system-market-top-players">Openpr.com</source>
+    </item>
+    <item>
+      <title>Therabody taps NetSuite to simplify global operations, create AI powered workflows, and reduce tech costs</title>
+      <link>https://oracle-university.com/stories/therabody-taps-netsuite-to-simplify-global-operations-create-ai-powered-workflows-and-re-4d7aa9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/therabody-taps-netsuite-to-simplify-global-operations-create-ai-powered-workflows-and-re-4d7aa9/</guid>
+      <pubDate>Wed, 22 Jul 2026 04:43:04 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Therabody, a specialist in wellness technology, is using Oracle NetSuite. It says that, with NetSuite’s AI powered cloud enterprise resource planning (ERP) system, it has scaled its business by unifying its global operations, automating order management, and increasing productivity across its team. </description>
+      <source url="https://retailtechinnovationhub.com/home/2026/7/21/therabody-taps-netsuite-to-simplify-global-operations-create-ai-powered-workflows-and-reduce-tech-costs">Retail Technology Innovation Hub</source>
+    </item>
+    <item>
+      <title>WEKA debuts NeuralMesh 6 for enterprise AI workloads</title>
+      <link>https://oracle-university.com/stories/weka-debuts-neuralmesh-6-for-enterprise-ai-workloads-5d7643/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/weka-debuts-neuralmesh-6-for-enterprise-ai-workloads-5d7643/</guid>
+      <pubDate>Wed, 22 Jul 2026 03:32:50 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>WEKA debuted NeuralMesh 6 redefining inference economics with native multi tenancy and a unified file and object protocol stack built on NVMe in what the company calls its most significant software release</description>
+      <source url="https://vir.com.vn/weka-debuts-neuralmesh-6-for-enterprise-ai-workloads-157190.html">Vietnam Investment Review - Vir</source>
+    </item>
+    <item>
+      <title>Nvidia Vera Rubin: Inside the agentic AI factory that rewrites the CPU playbook</title>
+      <link>https://oracle-university.com/stories/nvidia-vera-rubin-inside-the-agentic-ai-factory-that-rewrites-the-cpu-playbook-da6002/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/nvidia-vera-rubin-inside-the-agentic-ai-factory-that-rewrites-the-cpu-playbook-da6002/</guid>
+      <pubDate>Wed, 22 Jul 2026 02:12:16 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>ProgressNow NM has filed a complaint requesting a special audit of the New Mexico Environment Department&#39;s contracts with Apaluma, Inc., a company founded by former state Economic Development Secretary Alicia Keyes. The complaint alleges potential procurement violations and conflicts of interest inv</description>
-      <source url="https://www.abqjournal.com/news/progressive-group-seeks-environment-department-special-audit/3086131">Albuquerque Journal</source>
+      <description>On the surface, this week’s Vera Rubin launch is another major platform moment for Nvidia Corp., as the company maintains a steady drumbeat of artificial intelligence infrastructure innovation. Nvidia is positioning Vera Rubin as a full-stack system designed to improve performance per watt and reduc</description>
+      <source url="https://siliconangle.com/2026/07/21/nvidia-vera-rubin-inside-agentic-ai-factory-rewrites-cpu-playbook/">Siliconangle</source>
     </item>
     <item>
-      <title>AMD Unveils Helios, Its Next-Gen AI Powerhouse With MI455X &amp; 6th Gen EPYC, Challenging NVIDIA’s Rack-Scale Dominance</title>
-      <link>https://oracle-university.com/stories/amd-unveils-helios-its-next-gen-ai-powerhouse-with-mi455x-6th-gen-epyc-challenging-nvidi-46e445/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/amd-unveils-helios-its-next-gen-ai-powerhouse-with-mi455x-6th-gen-epyc-challenging-nvidi-46e445/</guid>
-      <pubDate>Mon, 20 Jul 2026 22:45:05 GMT</pubDate>
+      <title>Vast Edge Enhances Primavera P6 Hosting with AI Monitoring, Recovery Readiness, and Multi-Cloud Management</title>
+      <link>https://oracle-university.com/stories/vast-edge-enhances-primavera-p6-hosting-with-ai-monitoring-recovery-readiness-and-multi--607264/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/vast-edge-enhances-primavera-p6-hosting-with-ai-monitoring-recovery-readiness-and-multi--607264/</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>AMD has unveiled its next-generation Helios AI Rack, which aims to become the leading solution for frontier AI and sovereign computing, powered by its MI455X GPUs and 6th Gen EPYC CPUs. AMD&#39;s Helios AI Racks Are A Sight To Behold: Combining Next-Generation Instinct GPUs, EPYC CPUs, &amp; Pensando Networ</description>
-      <source url="https://wccftech.com/amd-helios-ai-rack-mi455x-6th-gen-epyc-challenging-nvidia/">Wccftech</source>
+      <description>Vast Edge enhances Primavera P6 hosting with AI-powered monitoring, recovery readiness insights, disaster recovery visibility, and multi-cloud management.</description>
+      <source url="https://www.einpresswire.com/article/928505249/vast-edge-enhances-primavera-p6-hosting-with-ai-monitoring-recovery-readiness-and-multi-cloud-management">Ein Presswire</source>
     </item>
     <item>
-      <title>500 Blog Posts To Learn About Coding</title>
-      <link>https://oracle-university.com/stories/500-blog-posts-to-learn-about-coding-bc1512/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/500-blog-posts-to-learn-about-coding-bc1512/</guid>
-      <pubDate>Mon, 20 Jul 2026 22:31:32 GMT</pubDate>
+      <title>Renowned Aerospace and Infrastructure Architect Danne Stayskal Joins Hurone AI as CTO</title>
+      <link>https://oracle-university.com/stories/renowned-aerospace-and-infrastructure-architect-danne-stayskal-joins-hurone-ai-as-cto-0d7ae8/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/renowned-aerospace-and-infrastructure-architect-danne-stayskal-joins-hurone-ai-as-cto-0d7ae8/</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Former NASA Systems Architect, Oracle Cloud Technical Lead, &amp; Stripe Software Systems Lead Brings Global Scale Expertise to Cancer Care AI Startup</description>
+      <source url="https://www.einpresswire.com/article/928324266/renowned-aerospace-and-infrastructure-architect-danne-stayskal-joins-hurone-ai-as-cto">Ein Presswire</source>
+    </item>
+    <item>
+      <title>Advintek Secures Preapproved OTA ASP Status in Oman, Advancing Fawtara E-Invoicing Readiness</title>
+      <link>https://oracle-university.com/stories/advintek-secures-preapproved-ota-asp-status-in-oman-advancing-fawtara-e-invoicing-readin-b2c2d7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/advintek-secures-preapproved-ota-asp-status-in-oman-advancing-fawtara-e-invoicing-readin-b2c2d7/</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Global e-Invoicing Specialist gains Preapproved OTA ASP status, empowering Oman&#39;s businesses to prepare for Fawtara Phase 1 with enterprise invoice automation.</description>
+      <source url="https://www.einpresswire.com/article/928515041/advintek-secures-preapproved-ota-asp-status-in-oman-advancing-fawtara-e-invoicing-readiness">Ein Presswire</source>
+    </item>
+    <item>
+      <title>Karini AI Achieves AWS Manufacturing and Industrial Software Competency for Its Agentic AI Foundation Platform</title>
+      <link>https://oracle-university.com/stories/karini-ai-achieves-aws-manufacturing-and-industrial-software-competency-for-its-agentic--65c6b4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/karini-ai-achieves-aws-manufacturing-and-industrial-software-competency-for-its-agentic--65c6b4/</guid>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.bundle.app/en/technology/500-blog-posts-to-learn-about-coding-A860FAA7-BB01-4FC1-A7BD-F5A28EB6E4E5">Bundle</source>
+      <description>AWS validates Karini AI’s agentic AI foundation platform, helping manufacturers deploy governed, production‐ready agents across demand planning and supply chain</description>
+      <source url="https://www.einpresswire.com/article/928357664/karini-ai-achieves-aws-manufacturing-and-industrial-software-competency-for-its-agentic-ai-foundation-platform">Ein Presswire</source>
+    </item>
+    <item>
+      <title>AMD to Launch 10 New Instinct MI300 AI Accelerators in 2025-2026</title>
+      <link>https://oracle-university.com/stories/amd-to-launch-10-new-instinct-mi300-ai-accelerators-in-2025-2026-ceec6f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/amd-to-launch-10-new-instinct-mi300-ai-accelerators-in-2025-2026-ceec6f/</guid>
+      <pubDate>Tue, 21 Jul 2026 23:42:07 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>AMD plans to release four new Instinct MI300-series AI accelerators in 2025 and six more in 2026, expanding its challenge to NVIDIA’s data-center dominance with higher memory, improved efficiency on CDNA 4 architecture, and enhanced ROCm software. This diverse portfolio aims to meet varied training </description>
+      <source url="https://www.webpronews.com/amd-to-launch-10-new-instinct-mi300-ai-accelerators-in-2025-2026/">Webpronews</source>
+    </item>
+    <item>
+      <title>AMD stock gets a new reason to watch from Bank of America</title>
+      <link>https://oracle-university.com/stories/amd-stock-gets-a-new-reason-to-watch-from-bank-of-america-3b6252/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/amd-stock-gets-a-new-reason-to-watch-from-bank-of-america-3b6252/</guid>
+      <pubDate>Tue, 21 Jul 2026 23:17:00 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Advanced Micro Devices (AMD) stock jumped more than 7% Tuesday, July 21, as investors cheered the chipmaker&#39;s latest AI infrastructure push and looked ahead to its key AI event. On Monday, July 20, AMD introduced Helios, its first rack-scale AI system, which is expected to begin shipping later this </description>
+      <source url="https://www.thestreet.com/investing/amd-stock-gets-a-new-reason-to-watch-from-bank-of-america">Thestreet</source>
+    </item>
+    <item>
+      <title>Therabody unifies global operations on Oracle NetSuite</title>
+      <link>https://oracle-university.com/stories/therabody-unifies-global-operations-on-oracle-netsuite-b5dda8/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/therabody-unifies-global-operations-on-oracle-netsuite-b5dda8/</guid>
+      <pubDate>Tue, 21 Jul 2026 22:52:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The wellness brand has cut technology costs by 45% after replacing disconnected systems with a single cloud platform across finance and supply chain.</description>
+      <source url="https://cfotech.asia/story/therabody-unifies-global-operations-on-oracle-netsuite">Cfotech Asia</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -430,33 +457,6 @@
       <category>AI &amp; Database</category>
       <description>Join hosts Lois Houston and Nikita Abraham as they explore the world of MySQL 8.4. Together with Perside Foster, a MySQL Principal Solution Engineer, they break down the fundamentals of MySQL, its wide range of applications, and why it&#39;s so popular among developers and database administrators. This </description>
       <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-introduction-to-mysql">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>The Transformative Power of Low Code Development</title>
-      <link>https://oracle-university.com/stories/the-transformative-power-of-low-code-development-d12adc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-transformative-power-of-low-code-development-d12adc/</guid>
-      <pubDate>Tue, 25 Nov 2025 13:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>In this Episode Orlaith Lawton speaks with Oracle ACE Roberto Capancioni about the importance of APEX and why it is the world&#39;s most popular low-code application platform. ------------------------------------------------------ Episode Transcript: 00:00:00:00 - 00:00:35:14 Unknown Welcome to the Orac</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-transformative-power-of-low-code-development">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Understanding Security Risks and Threats in the Cloud - Part 1</title>
-      <link>https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</guid>
-      <pubDate>Tue, 18 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>This week, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to explore what truly keeps data safe, and what puts it at risk. They discuss the CIA triad, dive into hashing and encryption, and shed light on how cyber threats like malware, phishing, and ransomware t</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/understanding-security-risks-and-threats-in-the-cloud-part-1">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Networking &amp; Security Essentials</title>
-      <link>https://oracle-university.com/stories/networking-security-essentials-113af4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/networking-security-essentials-113af4/</guid>
-      <pubDate>Tue, 11 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>How do all your devices connect and stay safe in the cloud? In this episode, Lois Houston and Nikita Abraham talk with OCI instructors Sergio Castro and Orlando Gentil about the basics of how networks work and the simple steps that help protect them. You&#39;ll learn how information gets from one place </description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/networking-security-essentials">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
