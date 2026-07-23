@@ -1,11 +1,28 @@
 {
-  "generatedAt": "2026-07-22T21:34:07.810Z",
+  "generatedAt": "2026-07-23T21:32:34.163Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
     "siteUrl": "https://oracle-university.com"
   },
   "items": [
+    {
+      "id": "f6e136dc9b013dc4",
+      "slug": "ai-solutions-with-spring-ai-2-0-and-java-i-o-bf52a8",
+      "title": "\"AI Solutions with Spring AI 2.0 and Java\" [I/O]",
+      "dek": "Spring AI 2.0 released in June 2026 and is one of several projects ensuring Java's continued strength in enterprise AI development. Here are some tips on deterministic agents, MCP servers and skills, prompt engineering, and where Java's richness for AI solutions stems from. In this \"Input/Output\" ep",
+      "url": "https://inside.java/2026/07/23/podcast-063",
+      "source": "Inside Java",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/insidejava/2026-07-inside-java-podcast-63--dan-vega.mp3?dest-id=2318780",
+      "publishedAt": "2026-07-23T07:02:00.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "Java",
+        "AI"
+      ],
+      "priority": 53
+    },
     {
       "id": "f58466d207e1f5cc",
       "slug": "oracle-sets-the-date-for-its-fourth-quarter-fiscal-year-2026-earnings-announcement-3a2dd3",
@@ -55,441 +72,132 @@
       "priority": 46
     },
     {
-      "id": "83fa8a99230e4fed",
-      "slug": "sap-is-utilities-is-u-training-equips-professionals-for-modern-utility-industry-transfor-8ae703",
-      "title": "SAP IS Utilities (IS-U) Training Equips Professionals for Modern Utility Industry Transformation",
-      "dek": "As utility providers continue to modernize their operations through digital technologies, the demand for skilled SAP IS Utilities (IS-U) professionals is growing rapidly. To address this industry need, Multisoft Systems has introduced its comprehensive SAP IS Utilities (IS-U) Training program, desig",
-      "url": "http://prsync.com/multisoft-systems/sap-is-utilities-is-u-training-equips-professionals-for-modern-utility-industry-transformation-5192394/",
-      "source": "Pr Sync",
+      "id": "f6d11c6afde7ae1a",
+      "slug": "tech-layoffs-a-2026-timeline-bd03b6",
+      "title": "Tech layoffs: A 2026 timeline",
+      "dek": "Among a range of factors leading to a wave of tech sector layoffs in 2026 is the rapid rise of artificial intelligence and automation. Companies are reconfiguring their workforces to leverage AI for increased efficiency and reduced operating costs. This realignment and reduction is implemented even ",
+      "url": "https://www.computerworld.com/article/3816579/tech-layoffs-this-year-a-timeline.html",
+      "source": "Computer World",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-07-22T09:31:17.000Z",
-      "topic": "Training & Certification",
-      "tags": [],
-      "priority": 43
+      "image": "https://www.computerworld.com/wp-content/uploads/2026/07/3816579-0-85419400-1784808375-shutterstock_1164531244-100963104-orig.jpg?quality=50&strip=all",
+      "publishedAt": "2026-07-23T08:02:04.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "hiring",
+        "it jobs",
+        "industry",
+        "markets",
+        "technology industry",
+        "careers"
+      ],
+      "priority": 42
     },
     {
-      "id": "0d2bc2395ddea7e7",
-      "slug": "dorsey-wright-associates-acquires-16-154-shares-of-broadcom-inc-avgo-a3b2df",
-      "title": "Dorsey Wright & Associates Acquires 16,154 Shares of Broadcom Inc. $AVGO",
-      "dek": "Dorsey Wright & Associates grew its stake in shares of Broadcom Inc. (NASDAQ:AVGO – Free Report) by 44.9% in the first quarter, according to its most recent disclosure with the Securities and Exchange Commission. The firm owned 52,125 shares of the semiconductor manufacturer’s stock after purchasing",
-      "url": "https://www.defenseworld.net/2026/07/22/dorsey-wright-associates-acquires-16154-shares-of-broadcom-inc-avgo.html",
-      "source": "Defenseworld Net",
+      "id": "5e7c39652dca20c7",
+      "slug": "openai-s-750-billion-ai-spending-spree-reshapes-the-georgia-power-grid-300a57",
+      "title": "OpenAI’s $750 Billion AI Spending Spree Reshapes the Georgia Power Grid",
+      "dek": "OpenAI has committed $750 billion to AI infrastructure through 2030, a 25 percent increase from earlier estimates, with Project Camellia as the centerpiece. The $20 billion data center campus near Savannah, Georgia will draw at least 3.2 gigawatts from Georgia Power, forcing the utility to nearly do",
+      "url": "https://easternherald.com/2026/07/23/openai-project-camellia-georgia-power-grid-ai/",
+      "source": "The Eastern Herald",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/broadcom-inc-logo-1200x675.png?v=20231122110526",
-      "publishedAt": "2026-07-22T09:26:50.000Z",
+      "image": "https://easternherald.com/wp-content/uploads/2026/07/openai-project-camellia-georgia-data-center.jpg",
+      "publishedAt": "2026-07-23T07:59:28.000Z",
       "topic": "Oracle Cloud",
       "tags": [
-        "broadcom",
-        "institutional investor holdings",
-        "computer and technology",
-        "sec filings",
-        "nasdaq:avgo",
-        "y0486s10"
+        "electricity",
+        "georgia (u.s. state)",
+        "sam altman",
+        "stargate",
+        "openai",
+        "softbank"
       ],
-      "priority": 43
+      "priority": 42
     },
     {
-      "id": "295dee047ec2ca90",
-      "slug": "broadcom-inc-avgo-shares-acquired-by-dorsey-wright-associates-c60775",
-      "title": "Broadcom Inc. $AVGO Shares Acquired by Dorsey Wright & Associates",
-      "dek": "Dorsey Wright & Associates grew its holdings in shares of Broadcom Inc. (NASDAQ:AVGO – Free Report) by 44.9% in the 1st quarter, HoldingsChannel.com reports. The firm owned 52,125 shares of the semiconductor manufacturer’s stock after purchasing an additional 16,154 shares during the quarter. Broadc",
-      "url": "https://www.americanbankingnews.com/2026/07/22/broadcom-inc-avgo-shares-acquired-by-dorsey-wright-associates.html",
+      "id": "987ae76cb42009fc",
+      "slug": "rimini-street-rmni-to-announce-quarterly-earnings-on-thursday-c1dc71",
+      "title": "Rimini Street (RMNI) to Announce Quarterly Earnings on Thursday",
+      "dek": "Rimini Street (NASDAQ:RMNI – Get Free Report) is expected to release its Q2 2026 results after the market closes on Thursday, July 30th. Analysts expect the company to post earnings of $0.07 per share and revenue of $106.7220 million for the quarter. Individuals can check the company’s upcoming Q2 2",
+      "url": "https://www.americanbankingnews.com/2026/07/23/rimini-street-rmni-to-announce-quarterly-earnings-on-thursday.html",
       "source": "Americanbankingnews",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/broadcom-inc-logo-1200x675.png?v=20231122110526",
-      "publishedAt": "2026-07-22T09:26:40.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "nasdaq:avgo",
-        "institutional investor holdings",
-        "avgo",
-        "13f",
-        "hedge fund holdings",
-        "broadcom"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "e3d2dfd8d2bc630c",
-      "slug": "us-stock-market-big-tech-s-ai-spending-boom-raises-cash-flow-concerns-despite-early-retu-4d9d4a",
-      "title": "US Stock Market: Big tech's AI spending boom raises cash flow concerns despite early returns",
-      "dek": "America's biggest technology companies are beginning to generate meaningful AI-driven revenue, but surging infrastructure spending is putting free cash flow under pressure. Reuters' analysis of LSEG estimates shows capital expenditure is expected to outpace free cash flow by 2027, shifting investor ",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-big-techs-ai-spending-boom-raises-cash-flow-concerns-despite-early-returns/articleshow/132555349.cms",
-      "source": "The Economic Times",
-      "sourceType": "external",
-      "image": "https://img.etimg.com/thumb/msid-132555356,resizemode-4,width-1200,height-900,imgsize-154377,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-07-22T09:21:24.000Z",
+      "image": "https://www.marketbeat.com/logos/rimini-street-inc-logo-1200x675.jpg?v=20240522112008",
+      "publishedAt": "2026-07-23T06:40:52.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "free cash flow",
-        "big tech",
-        "ai monetisation",
-        "amazon",
-        "capital expenditure",
-        "ai infrastructure"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "b86fb65d93232e3c",
-      "slug": "ai-in-revenue-cycle-management-market-size-to-reach-225-87-billion-by-2035-sns-insider-49de7f",
-      "title": "AI in Revenue Cycle Management Market Size to Reach $225.87 Billion by 2035 | SNS Insider",
-      "dek": "The U.S. AI in Revenue Cycle Management Market is Expected to Reach $90.71 Billion by 2035, While Europe is Projected to Attain $59.82 Billion, Driven by Rising Claim Denials, Healthcare Digitalization, Predictive Analytics, and AI-Powered Revenue Cycle Automation The U.S. AI in Revenue Cycle Manage",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/07/22/3331134/0/en/AI-in-Revenue-Cycle-Management-Market-Size-to-Reach-225-87-Billion-by-2035-SNS-Insider.html",
-      "source": "Globenewswire_fr",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-07-22T09:06:00.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "ai in revenue cycle management",
-        "ai medical billing",
-        "rcm automation",
-        "sns insider pvt ltd",
-        "healthcare revenue ai",
-        "ai rcm market"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "7fd8381213846d4c",
-      "slug": "how-ai-data-centre-spending-is-creating-hidden-debt-for-tech-giants-9737aa",
-      "title": "How AI data centre spending is creating hidden debt for tech giants",
-      "dek": "AI spending by Alphabet, Microsoft, Amazon, Meta and Oracle is driving a surge in hidden debt, with off-balance-sheet commitments reaching $1.65 trillion",
-      "url": "https://www.business-standard.com/world-news/tech-giants-ai-investment-hidden-debt-balance-sheets-data-centres-microsoft-126072200668_1.html",
-      "source": "Business Standard",
-      "sourceType": "external",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/21/full/1766335650-8754.jpg",
-      "publishedAt": "2026-07-22T08:52:01.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "big tech ai spending",
-        "microsoft ai infrastructure",
-        "meta ai spending",
-        "alphabet ai investment",
-        "tech giants hidden debt",
-        "tech giants ai investment"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "e3359dbc0743d349",
-      "slug": "bartlett-co-wealth-management-llc-acquires-62-050-shares-of-broadcom-inc-avgo-716931",
-      "title": "Bartlett & CO. Wealth Management LLC Acquires 62,050 Shares of Broadcom Inc. $AVGO",
-      "dek": "Bartlett & CO. Wealth Management LLC raised its holdings in Broadcom Inc. (NASDAQ:AVGO – Free Report) by 129.3% during the 1st quarter, according to its most recent filing with the Securities and Exchange Commission. The fund owned 110,048 shares of the semiconductor manufacturer’s stock after buyin",
-      "url": "https://www.defenseworld.net/2026/07/22/bartlett-co-wealth-management-llc-acquires-62050-shares-of-broadcom-inc-avgo.html",
-      "source": "Defenseworld Net",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/broadcom-inc-logo-1200x675.png?v=20231122110526",
-      "publishedAt": "2026-07-22T08:49:22.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "broadcom",
-        "institutional investor holdings",
+        "rimini street",
         "computer and technology",
-        "sec filings",
-        "nasdaq:avgo",
-        "y0486s10"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "992e0754de465e19",
-      "slug": "analysis-ai-investment-boom-puts-big-tech-s-free-cash-flow-under-pressure-5b365b",
-      "title": "Analysis-AI investment boom puts Big Tech’s free cash flow under pressure",
-      "dek": "July 22 (Reuters) - U.S. hyperscalers are starting to show returns on their artificial intelligence investments, but the rising cost of the buildout. The post Analysis-AI investment boom puts Big Tech’s free cash flow under pressure appeared first on Inside Telecom .",
-      "url": "https://insidetelecom.com/ai-investment-boom-puts-big-techs-free-cash-flow-under-pressure/",
-      "source": "Inside Telecom",
-      "sourceType": "external",
-      "image": "https://insidetelecom.com/wp-content/uploads/2026/07/investment.jpg",
-      "publishedAt": "2026-07-22T08:44:04.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "artificial intelligence",
-        "ai investment",
-        "u.s.",
-        "news",
-        "technology"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "505a177108db4144",
-      "slug": "head-to-head-contrast-zim-otcmkts-zimcf-vs-open-text-nasdaq-otex-b269dd",
-      "title": "Head-To-Head Contrast: ZIM (OTCMKTS:ZIMCF) vs. Open Text (NASDAQ:OTEX)",
-      "dek": "ZIM (OTCMKTS:ZIMCF – Get Free Report) and Open Text (NASDAQ:OTEX – Get Free Report) are both computer and technology companies, but which is the superior business? We will contrast the two companies based on the strength of their earnings, risk, analyst recommendations, dividends, institutional owne",
-      "url": "https://baseballnewssource.com/2026/07/22/head-to-head-contrast-zim-otcmktszimcf-vs-open-text-nasdaqotex/11191960.html",
-      "source": "Bbns",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/open-text-co-logo-1200x675.jpg?v=20221109170332",
-      "publishedAt": "2026-07-22T08:15:09.000Z",
-      "topic": "Security",
-      "tags": [
-        "comparison",
-        "otcmkts:zimcf",
-        "stock comparison",
-        "review",
-        "zimcf",
-        "stock analysis"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "73aae73f4932b376",
-      "slug": "weka-debuts-neuralmesh-6-to-power-enterprise-and-agentic-ai-workloads-at-production-scal-eaa704",
-      "title": "WEKA Debuts NeuralMesh 6 to Power Enterprise and Agentic AI Workloads at Production Scale",
-      "dek": "The most significant software release in the company’s history extends what’s possible for agentic AI and other accelerated compute workloads. NeuralMesh 6 redefines inference economics with native multi-tenancy, a unified file-and-object protocol stack built on NVMe, intelligent data mobility with ",
-      "url": "https://martechseries.com/predictive-ai/ai-platforms-machine-learning/weka-debuts-neuralmesh-6-to-power-enterprise-and-agentic-ai-workloads-at-production-scale/",
-      "source": "Marketing Technology Series",
-      "sourceType": "external",
-      "image": "https://martechseries.com/wp-content/uploads/2026/07/MarTech-Series-12-9.jpg",
-      "publishedAt": "2026-07-22T08:04:23.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "marketing technology news",
-        "news",
-        "oracle cloud infrastructure (oci)",
-        "marketing technology",
-        "martech",
-        "agentic workflows"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "985950a20900a414",
-      "slug": "gotomyerp-invites-businesses-to-take-a-free-test-drive-of-its-secure-cloud-erp-hosting-p-33e0b8",
-      "title": "Gotomyerp Invites Businesses to Take a Free Test Drive of Its Secure Cloud ERP Hosting Platform",
-      "dek": "Experience the Speed, Security, and Simplicity of Cloud Hosting for Desktop ERP Systems with a Risk-Free Live Demo Choosing a new Quick Books cloud hosting provider for your desktop accounting or ERP system is a major business decision. To help organizations",
-      "url": "https://www.openpr.com/news/4583167/gotomyerp-invites-businesses-to-take-a-free-test-drive-of-its",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/7/L722628617_k.jpg",
-      "publishedAt": "2026-07-22T07:53:52.000Z",
-      "topic": "Security",
-      "tags": [
-        "pr service",
-        "presses release",
-        "pr marketing",
-        "public relations",
-        "pr",
-        "marketing"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "c260f1312f3a70d8",
-      "slug": "ai-native-smb-financial-operating-system-market-top-players-intuit-inc-xero-limited-sage-959031",
-      "title": "AI-Native SMB Financial Operating System Market Top Players- Intuit Inc., Xero Limited, Sage Group plc, Zoho Corporation.",
-      "dek": "InsightAce Analytic Pvt. Ltd. announces the release of a market assessment report on the \"Global AI-Native SMB Financial Operating System Market Size, Share & Trends Analysis Report By Module (Business Banking & Checking, Expense Management, Global Payments, Treasury Management, Stablecoin",
-      "url": "https://www.openpr.com/news/4583301/ai-native-smb-financial-operating-system-market-top-players",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/7/L722925641_k.jpg",
-      "publishedAt": "2026-07-22T07:06:01.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "publicity",
-        "pr service",
-        "presses release",
-        "pr marketing",
-        "advertising",
-        "marketing"
+        "nasdaq:rmni",
+        "earnings",
+        "rmni"
       ],
       "priority": 41
     },
     {
-      "id": "bf59769e1f9ac989",
-      "slug": "therabody-taps-netsuite-to-simplify-global-operations-create-ai-powered-workflows-and-re-4d7aa9",
-      "title": "Therabody taps NetSuite to simplify global operations, create AI powered workflows, and reduce tech costs",
-      "dek": "Therabody, a specialist in wellness technology, is using Oracle NetSuite. It says that, with NetSuite’s AI powered cloud enterprise resource planning (ERP) system, it has scaled its business by unifying its global operations, automating order management, and increasing productivity across its team. ",
-      "url": "https://retailtechinnovationhub.com/home/2026/7/21/therabody-taps-netsuite-to-simplify-global-operations-create-ai-powered-workflows-and-reduce-tech-costs",
-      "source": "Retail Technology Innovation Hub",
-      "sourceType": "external",
-      "image": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/1784644205753-R5U3Y5SKE3DNVUZCXEBP/Theragun.jpg?format=1500w",
-      "publishedAt": "2026-07-22T04:43:04.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "NetSuite",
-        "AI"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "922f59e2dd3e72d3",
-      "slug": "weka-debuts-neuralmesh-6-for-enterprise-ai-workloads-5d7643",
-      "title": "WEKA debuts NeuralMesh 6 for enterprise AI workloads",
-      "dek": "WEKA debuted NeuralMesh 6 redefining inference economics with native multi tenancy and a unified file and object protocol stack built on NVMe in what the company calls its most significant software release",
-      "url": "https://vir.com.vn/weka-debuts-neuralmesh-6-for-enterprise-ai-workloads-157190.html",
-      "source": "Vietnam Investment Review - Vir",
-      "sourceType": "external",
-      "image": "https://vir.com.vn/stores/news_dataimages/2026/072026/22/10/in_social/weka-debuts-neuralmesh-6-for-enterprise-ai-workloads-20260722103131.jpg?randTime=1784691504",
-      "publishedAt": "2026-07-22T03:32:50.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "ai infrastructure",
-        "weka neuralmesh 6",
-        "weka",
-        "neuralmesh software",
-        "multitenancy architecture"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "20e94827824303e1",
-      "slug": "nvidia-vera-rubin-inside-the-agentic-ai-factory-that-rewrites-the-cpu-playbook-da6002",
-      "title": "Nvidia Vera Rubin: Inside the agentic AI factory that rewrites the CPU playbook",
-      "dek": "On the surface, this week’s Vera Rubin launch is another major platform moment for Nvidia Corp., as the company maintains a steady drumbeat of artificial intelligence infrastructure innovation. Nvidia is positioning Vera Rubin as a full-stack system designed to improve performance per watt and reduc",
-      "url": "https://siliconangle.com/2026/07/21/nvidia-vera-rubin-inside-agentic-ai-factory-rewrites-cpu-playbook/",
+      "id": "93568dd4e0b01a26",
+      "slug": "oracle-debuts-base-database-cloud-customer-system-for-on-premises-databases-0b0c23",
+      "title": "Oracle debuts Base Database Cloud@Customer system for on-premises databases",
+      "dek": "Oracle Corp. today debuted an appliance that enterprises can use to run its flagship database at locations such as branch offices. The system is known as Base Database Cloud@Customer. Oracle already offers several appliances that enable companies to run its software on-premises. One of the systems, ",
+      "url": "https://siliconangle.com/2026/07/22/oracle-debuts-base-database-cloudcustomer-system-premises-databases/",
       "source": "Siliconangle",
       "sourceType": "external",
-      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/veracpu.png",
-      "publishedAt": "2026-07-22T02:12:16.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/oracle-768x400.png",
+      "publishedAt": "2026-07-22T22:59:32.000Z",
+      "topic": "AI & Database",
       "tags": [
-        "artificial intelligence",
-        "ai factory",
-        "nvidia",
+        "oracle",
+        "data center",
         "ai agent",
-        "cpu",
-        "infra"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "93027cf7050ca689",
-      "slug": "vast-edge-enhances-primavera-p6-hosting-with-ai-monitoring-recovery-readiness-and-multi--607264",
-      "title": "Vast Edge Enhances Primavera P6 Hosting with AI Monitoring, Recovery Readiness, and Multi-Cloud Management",
-      "dek": "Vast Edge enhances Primavera P6 hosting with AI-powered monitoring, recovery readiness insights, disaster recovery visibility, and multi-cloud management.",
-      "url": "https://www.einpresswire.com/article/928505249/vast-edge-enhances-primavera-p6-hosting-with-ai-monitoring-recovery-readiness-and-multi-cloud-management",
-      "source": "Ein Presswire",
-      "sourceType": "external",
-      "image": "https://img.einnews.com/ampsize/1156724/ai-powered-oracle-primavera-p6.jpeg",
-      "publishedAt": "2026-07-22T00:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "worldnews",
-        "building and construction industry",
-        "united states",
-        "technology",
-        "california",
-        "united kingdom"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "2144d6d704805d05",
-      "slug": "renowned-aerospace-and-infrastructure-architect-danne-stayskal-joins-hurone-ai-as-cto-0d7ae8",
-      "title": "Renowned Aerospace and Infrastructure Architect Danne Stayskal Joins Hurone AI as CTO",
-      "dek": "Former NASA Systems Architect, Oracle Cloud Technical Lead, & Stripe Software Systems Lead Brings Global Scale Expertise to Cancer Care AI Startup",
-      "url": "https://www.einpresswire.com/article/928324266/renowned-aerospace-and-infrastructure-architect-danne-stayskal-joins-hurone-ai-as-cto",
-      "source": "Ein Presswire",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-07-22T00:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "worldnews",
-        "business and economy",
-        "healthcare and pharmaceuticals industry",
-        "united states",
-        "technology",
-        "canada"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "59b60ba94965717b",
-      "slug": "advintek-secures-preapproved-ota-asp-status-in-oman-advancing-fawtara-e-invoicing-readin-b2c2d7",
-      "title": "Advintek Secures Preapproved OTA ASP Status in Oman, Advancing Fawtara E-Invoicing Readiness",
-      "dek": "Global e-Invoicing Specialist gains Preapproved OTA ASP status, empowering Oman's businesses to prepare for Fawtara Phase 1 with enterprise invoice automation.",
-      "url": "https://www.einpresswire.com/article/928515041/advintek-secures-preapproved-ota-asp-status-in-oman-advancing-fawtara-e-invoicing-readiness",
-      "source": "Ein Presswire",
-      "sourceType": "external",
-      "image": "https://img.einnews.com/ampsize/1156771/best-e-invoicing-platform-in-om.png",
-      "publishedAt": "2026-07-22T00:00:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "technology",
-        "it industry",
-        "worldnews",
-        "finance and investment industry",
-        "banking",
-        "business and economy"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "5447a397cf66f7e1",
-      "slug": "karini-ai-achieves-aws-manufacturing-and-industrial-software-competency-for-its-agentic--65c6b4",
-      "title": "Karini AI Achieves AWS Manufacturing and Industrial Software Competency for Its Agentic AI Foundation Platform",
-      "dek": "AWS validates Karini AI’s agentic AI foundation platform, helping manufacturers deploy governed, production‐ready agents across demand planning and supply chain",
-      "url": "https://www.einpresswire.com/article/928357664/karini-ai-achieves-aws-manufacturing-and-industrial-software-competency-for-its-agentic-ai-foundation-platform",
-      "source": "Ein Presswire",
-      "sourceType": "external",
-      "image": "https://img.einnews.com/ampsize/1156196/aws-manufacturing-and-industria.png",
-      "publishedAt": "2026-07-22T00:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "business and economy",
-        "manufacturing",
-        "worldnews",
-        "india",
-        "technology",
-        "finance and investment industry"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "5418ddbf0f9d6850",
-      "slug": "amd-to-launch-10-new-instinct-mi300-ai-accelerators-in-2025-2026-ceec6f",
-      "title": "AMD to Launch 10 New Instinct MI300 AI Accelerators in 2025-2026",
-      "dek": "AMD plans to release four new Instinct MI300-series AI accelerators in 2025 and six more in 2026, expanding its challenge to NVIDIA’s data-center dominance with higher memory, improved efficiency on CDNA 4 architecture, and enhanced ROCm software. This diverse portfolio aims to meet varied training ",
-      "url": "https://www.webpronews.com/amd-to-launch-10-new-instinct-mi300-ai-accelerators-in-2025-2026/",
-      "source": "Webpronews",
-      "sourceType": "external",
-      "image": "https://www.webpronews.com/wp-content/uploads/2026/07/article-21701-1784672912.jpeg",
-      "publishedAt": "2026-07-21T23:42:07.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "top news",
-        "mi400 series",
-        "rocm softw",
-        "mi350 series",
-        "amd instinct mi300",
-        "ai accelerators 2025"
+        "amd",
+        "appliance",
+        "base database cloud@customer"
       ],
       "priority": 36
     },
     {
-      "id": "9225cdd53a395cbd",
-      "slug": "amd-stock-gets-a-new-reason-to-watch-from-bank-of-america-3b6252",
-      "title": "AMD stock gets a new reason to watch from Bank of America",
-      "dek": "Advanced Micro Devices (AMD) stock jumped more than 7% Tuesday, July 21, as investors cheered the chipmaker's latest AI infrastructure push and looked ahead to its key AI event. On Monday, July 20, AMD introduced Helios, its first rack-scale AI system, which is expected to begin shipping later this ",
-      "url": "https://www.thestreet.com/investing/amd-stock-gets-a-new-reason-to-watch-from-bank-of-america",
-      "source": "Thestreet",
+      "id": "4fb9f307cf034e1b",
+      "slug": "ai-at-an-inflection-point-market-dynamics-autonomous-systems-and-the-future-of-enterpris-ee8780",
+      "title": "AI at an Inflection Point: Market Dynamics, Autonomous Systems, and the Future of Enterprise",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/technology/ai-at-an-inflection-point-market-dynamics-autonomous-systems-and-the-future-of-enterprise-72242BD6-CD64-4FB4-AE1F-23BAE415DF6A",
+      "source": "Bundle",
       "sourceType": "external",
-      "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTIwNDQ1/amd-ceo-lisa-su-is-speaking-during-an-event-standing-in-front-of-a-blue-screen.jpg?profile=rss",
-      "publishedAt": "2026-07-21T23:17:00.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://static.bundle.app/news/0359e25b-5229-50c9-b3dc-a2fe5870cd71.jpg",
+      "publishedAt": "2026-07-22T22:31:31.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
         "AI"
       ],
       "priority": 36
     },
     {
-      "id": "cfb14f553078c325",
-      "slug": "therabody-unifies-global-operations-on-oracle-netsuite-b5dda8",
-      "title": "Therabody unifies global operations on Oracle NetSuite",
-      "dek": "The wellness brand has cut technology costs by 45% after replacing disconnected systems with a single cloud platform across finance and supply chain.",
-      "url": "https://cfotech.asia/story/therabody-unifies-global-operations-on-oracle-netsuite",
-      "source": "Cfotech Asia",
+      "id": "62d46a829d0262d7",
+      "slug": "207-blog-posts-to-learn-about-csharp-2a71cd",
+      "title": "207 Blog Posts To Learn About Csharp",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/technology/207-blog-posts-to-learn-about-csharp-B8103B3D-96FD-47B8-806D-F9C4350733A3",
+      "source": "Bundle",
       "sourceType": "external",
-      "image": "https://cfotech.asia/uploads/story/2026/07/22/compatible_yash-murali-and-julie-drimel.jpg",
-      "publishedAt": "2026-07-21T22:52:00.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://static.bundle.app/news/b5cf3700-fa58-5665-8c13-3899fd1fec21.jpg",
+      "publishedAt": "2026-07-22T22:31:30.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "9f54d89862b31e53",
+      "slug": "it-security-news-daily-summary-2026-07-22-899958",
+      "title": "IT Security News Daily Summary 2026-07-22",
+      "dek": "169 posts were published in the last hour 20:34 : OpenClaw security best practices for CISOs 20:34 : GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier 20:4 : Third-Party SDKs Raise Privacy Questions for Apps Marketed... Read more → The post IT Security News Daily Summary 2026-07-2",
+      "url": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-07-22/",
+      "source": "It Security News",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-07-22T21:56:21.000Z",
+      "topic": "Security",
       "tags": [
-        "NetSuite"
+        "daily summary",
+        "2026-07-22"
       ],
       "priority": 36
     },
@@ -2050,6 +1758,233 @@
       "tags": [
         "Oracle Database",
         "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "7c3ad34d1ff092f6",
+      "slug": "blockchain-tables-a4f246",
+      "title": "Blockchain Tables",
+      "dek": "In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham kick off a new season with a deep dive into the latest features of Oracle Database 23ai. Joined by Bill Millar, a Senior Principal Database & MySQL Instructor, they explore the new enhancements to blockchain tabl",
+      "url": "https://oracleuniversitypodcast.libsyn.com/blockchain-tables",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-30T11:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Oracle Database",
+        "MySQL",
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ff92a6749fa996f7",
+      "slug": "database-essentials-027d69",
+      "title": "Database Essentials",
+      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Hope Fisher, Oracle's Product Manager for Database Technologies, as they break down the basics of databases, explore different database management systems, and delve into database development. Whether you're a newcomer or just need a refresher, ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-essentials",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-23T14:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "f046bd97147c0cf8",
+      "slug": "container-engine-for-kubernetes-security-practices-26ab8f",
+      "title": "Container Engine for Kubernetes: Security Practices",
+      "dek": "In the season's final episode, hosts Lois Houston and Nikita Abraham interview senior OCI instructor Mahendra Mehra about the security practices that are vital for OKE clusters on OCI. Mahendra shares his expert insights on the importance of Kubernetes security, especially in today's digital landsca",
+      "url": "https://oracleuniversitypodcast.libsyn.com/container-engine-for-kubernetes-security-practices",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP7.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-16T14:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "OCI",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "be8b92279cd0831f",
+      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
+      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-09T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "d38db88cd3fd3cc0",
+      "slug": "working-with-oke-virtual-nodes-f5a370",
+      "title": "Working with OKE Virtual Nodes",
+      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-02T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "bd401ec004db1755",
+      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
+      "title": "Introduction to OCI Container Engine for Kubernetes",
+      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-25T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "1d3aa287378f7e71",
+      "slug": "basics-of-kubernetes-23e26c",
+      "title": "Basics of Kubernetes",
+      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
+      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-18T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ec54bf5b81f570ed",
+      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
+      "title": "Oracle Cloud Infrastructure Registry",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-11T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "OCI",
+        "Oracle Cloud Infrastructure"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "6ba1bee89c8a91cc",
+      "slug": "what-is-containerization-0326f4",
+      "title": "What is Containerization?",
+      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-04T14:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "OCI",
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "b45e3d006fc93558",
+      "slug": "encore-episode-oci-ai-services-5e7f50",
+      "title": "Encore Episode: OCI AI Services",
+      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-28T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "57fe9154d1531745",
+      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
+      "title": "Encore Episode: Generative AI and Large Language Models",
+      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-14T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "60d141d1ef069450",
+      "slug": "encore-episode-deep-learning-fe981b",
+      "title": "Encore Episode: Deep Learning",
+      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-07T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "311a8fe7e2892283",
+      "slug": "encore-episode-machine-learning-ee26a4",
+      "title": "Encore Episode: Machine Learning",
+      "dek": "Does machine learning feel like too convoluted a topic? Not anymore! Listen to hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Hemant Gahankari, talk about foundational machine learning concepts and dive into how supervised learning, unsupervised learning, and reinf",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-machine-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-30T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "4589098868999fde",
+      "slug": "encore-episode-introduction-to-artificial-intelligence-ai-9e755a",
+      "title": "Encore Episode: Introduction to Artificial Intelligence (AI)",
+      "dek": "You probably interact with artificial intelligence (AI) more than you realize. So, there's never been a better time to start figuring out how it all works. Join Lois Houston and Nikita Abraham as they decode the fundamentals of AI so that anyone, irrespective of their technical background, can lever",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-introduction-to-artificial-intelligence-ai",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-23T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
       ],
       "priority": 36
     }
