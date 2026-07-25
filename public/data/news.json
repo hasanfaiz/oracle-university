@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T21:33:53.331Z",
+  "generatedAt": "2026-07-25T21:14:00.970Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -55,180 +55,228 @@
       "priority": 46
     },
     {
-      "id": "e062132af73bb5fa",
-      "slug": "aws-kills-the-ai-services-it-launched-just-two-years-ago-3d0d81",
-      "title": "AWS Kills The AI Services It Launched Just Two Years Ago",
-      "dek": "AWS moved Q Business, Kendra and Bedrock Agents to maintenance mode. What the retirement of its first-generation AI services means for enterprise cloud buyers.",
-      "url": "https://www.forbes.com/sites/janakirammsv/2026/07/24/aws-kills-the-ai-services-it-launched-just-two-years-ago/",
-      "source": "Forbes",
+      "id": "492ef5320dd84b08",
+      "slug": "mapping-rural-data-center-development-finds-growing-opposition-9cb5e6",
+      "title": "Mapping rural data center development finds growing opposition",
+      "dek": "Washington, D.C.’s metropolitan area has long hummed with data centers. The region, which encompasses much of Northern Virginia, has become known as Data Center Alley, home to more data centers than anywhere else in the world. But the data center boom, driven by the rise of AI and the race to build ",
+      "url": "https://kvia.com/news/us-world/stacker-news/2026/07/25/mapping-rural-data-center-development-finds-growing-opposition/",
+      "source": "Kvia",
       "sourceType": "external",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a632fea0061ba40106dd420/0x0.jpg",
-      "publishedAt": "2026-07-24T09:30:37.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "amazon quick suite",
-        "amazon q business",
-        "bedrock knowledge bases",
-        "aws service retirements",
-        "bedrock agents classic",
-        "aws maintenance mode"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "6385ce1e88be5cbe",
-      "slug": "oracle-s-7b-pentagon-deal-win-sparks-buy-calls-from-retail-traders-as-orcl-rebounds-prem-b067b0",
-      "title": "Oracle’s $7B Pentagon Deal Win Sparks 'Buy' Calls From Retail Traders As ORCL Rebounds Premarket",
-      "dek": "The move came as a relief for the stock which has fallen sharply over the last two months.",
-      "url": "https://newsable.asianetnews.com/markets/oracle-s-7b-pentagon-deal-win-sparks-buy-calls-from-retail-traders-as-orcl-rebounds-premarket-articleshow-glr115g",
-      "source": "Asianet Newsable",
-      "sourceType": "external",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-13de8767-6720-4e2d-8a68-dcd6087bb539.webp",
-      "publishedAt": "2026-07-24T09:30:06.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "premarket",
-        "equities"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "fe49bb7920722fe7",
-      "slug": "ken-research-stated-uae-data-center-and-cloud-services-market-to-reach-usd-16-900-millio-c42cc8",
-      "title": "Ken Research Stated UAE Data Center and Cloud Services Market to Reach USD 16,900 Million by 2031",
-      "dek": "Comprehensive market analysis maps the UAE's transition toward hyperscale infrastructure, sovereign cloud environments, AI-ready computing capacity, high-density colocation, and managed cloud services. Delhi, India - July 2026 - Ken Research released its strategic market analysis titled \"UAE Data Ce",
-      "url": "https://www.openpr.com/news/4585858/ken-research-stated-uae-data-center-and-cloud-services-market",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/7/L724329639_k.jpg",
-      "publishedAt": "2026-07-24T09:24:23.000Z",
+      "image": "https://kvia.com/wp-content/uploads/2026/07/daily-yonder-mapping-rural-data-center-development-finds-growing-opposition.jpeg",
+      "publishedAt": "2026-07-25T08:19:06.000Z",
       "topic": "Oracle Cloud",
       "tags": [
-        "pr service",
-        "presses release",
-        "pr marketing",
-        "public relations",
-        "pr",
-        "marketing"
+        "reporting"
       ],
-      "priority": 43
+      "priority": 42
     },
     {
-      "id": "e9167bd8024743fa",
-      "slug": "announcing-oracle-base-database-cloud-customer-9ab5b7",
-      "title": "Announcing Oracle Base Database Cloud@Customer",
-      "dek": "Organizations are adopting Oracle AI Database due to its ability to run their mission-critical workloads – from transaction processing to AI and analytics. AI is natively architected into Oracle AI Database and SQL, making it simpler, faster, more secure, and more trustworthy, while also enabling AI",
-      "url": "https://cxotoday.com/media-coverage/announcing-oracle-base-database-cloudcustomer/",
-      "source": "Cxotoday",
+      "id": "a80c1adb12c32fc6",
+      "slug": "oracle-corporation-nyse-orcl-s-stock-is-the-one-to-watch-says-jim-cramer-01533a",
+      "title": "Oracle Corporation (NYSE:ORCL)’s Stock Is The One To Watch, Says Jim Cramer",
+      "dek": "Oracle Corporation (NYSE:ORCL)’s shares are among the most troubled in the market when it comes to AI investing. They have been on a wild ride in 2026 and are down by 41% year-to-date after having gained 27% until June 1st. Cramer has also discussed Oracle Corporation (NYSE:ORCL) several times in 20",
+      "url": "https://ca.finance.yahoo.com/news/oracle-corporation-nyse-orcl-stock-080707294.html",
+      "source": "Yahoo! News",
       "sourceType": "external",
-      "image": "https://cxotoday.com/wp-content/uploads/2022/08/CXO-Oracle-300x200.jpeg",
-      "publishedAt": "2026-07-24T09:05:06.000Z",
+      "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+      "publishedAt": "2026-07-25T08:07:07.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "oracle corporation",
+        "debt levels",
+        "jim cramer"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "1b9189db9590d51d",
+      "slug": "ca-mba-vacancy-in-bcg-12138b",
+      "title": "CA, MBA Vacancy In BCG",
+      "dek": "BCG invited applications for the post of BCG X Finance Operations Analyst Main responsibilities include: Manage accounting of revenue and costs and ensure governance in financial processes Own, manage and maintain project, vendor and product database in financial systems Work closely with the accoun",
+      "url": "https://www.taxscan.in/job-scan/ca-mba-vacancy-in-bcg-1449306",
+      "source": "Taxscan",
+      "sourceType": "external",
+      "image": "https://images.taxscan.in/h-upload/2026/07/25/2144341-ca-mba-vacancy-in-bcg-by-taxscan.webp",
+      "publishedAt": "2026-07-25T08:06:06.000Z",
       "topic": "AI & Database",
       "tags": [
-        "Oracle AI Database",
+        "financial analyst jobs",
+        "chartered accountant jobs",
+        "business consulting",
+        "bcg careers",
+        "management consulting careers",
+        "bcg recruitment"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "302fca36c46b8b99",
+      "slug": "ge-vernova-gev-176-billion-backlog-and-ai-power-demand-outweigh-short-term-eps-miss-02d2c7",
+      "title": "GE Vernova (GEV): $176 Billion Backlog and AI Power Demand Outweigh Short-Term EPS Miss",
+      "dek": "AI data centers are putting pressure on the US power grid, making grid equipment manufacturers, apart from chipmakers, direct beneficiaries of the AI buildout. US data center power consumption is expected to increase 22% in a single year, with total grid demand almost tripling to 134.4 GW by 2030. H",
+      "url": "https://www.insidermonkey.com/blog/ge-vernova-gev-176-billion-backlog-and-ai-power-demand-outweigh-short-term-eps-miss-1803773/",
+      "source": "Insider Trading",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/D4XWlkaQB42t3ZNO0baqi16rLS9pZRgnUNH8QXslsrk/resize:fit:6075:4050:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2024/06/11112443/yorgos-ntrahas-mcAUHlGirVs-unsplash-1.jpg",
+      "publishedAt": "2026-07-25T06:55:04.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
         "AI"
       ],
-      "priority": 43
+      "priority": 41
     },
     {
-      "id": "3fb3b848d744e1bf",
-      "slug": "digital-agricultural-integrated-services-market-set-to-booming-growth-2026-2033-as-preci-dbfdd1",
-      "title": "Digital Agricultural Integrated Services Market Set to Booming Growth 2026-2033 as Precision Farming and Smart Agriculture Accelerate | Deere & Company, Corteva Agriscience, Syngenta AG",
-      "dek": "Digital Agricultural Integrated Services Market is witnessing robust growth as the global agriculture sector increasingly embraces digital technologies to improve productivity, resource efficiency, and sustainable farming practices. Rising adoption of precision agriculture, artificial intelligence (",
-      "url": "https://www.openpr.com/news/4585828/digital-agricultural-integrated-services-market-set-to-booming",
-      "source": "Openpr.com",
+      "id": "d92d6011b4eb8835",
+      "slug": "as-oracle-loses-498-billion-in-less-than-10-months-why-credit-rating-agency-s-p-has-iden-5a5f74",
+      "title": "As Oracle loses $498 billion in less than 10 months, why credit rating agency S&P has identified Sam Altman's OpenAI as a 'key credit risk' for Larry Ellison's company",
+      "dek": "Oracle faces significant market value loss and a credit rating downgrade. S&P Global Ratings identified OpenAI as a key credit risk for Oracle. The AI giant's substantial reliance on OpenAI creates financial vulnerabilities for Oracle. Oracle's aggressive AI infrastructure push exposes it to conside",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-oracle-loses-498-billion-in-less-than-10-months-why-credit-rating-agency-sp-has-identified-sam-altmans-openai-as-a-key-credit-risk-for-larry-ellisons-company/articleshow/132617776.cms",
+      "source": "The Times Of India",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/7/L724706889_k.jpg",
-      "publishedAt": "2026-07-24T09:04:23.000Z",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132617776/132617776.jpg",
+      "publishedAt": "2026-07-25T02:25:20.000Z",
+      "topic": "Security",
+      "tags": [
+        "sam altman",
+        "openai credit risk",
+        "sam altman openai",
+        "data center leases",
+        "oracle market value loss",
+        "oracle cloud business growth"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "976ad9ac5a1fe1de",
+      "slug": "salesforce-crm-lands-1-6-billion-va-deal-to-power-veteran-care-b76ee3",
+      "title": "Salesforce (CRM) Lands $1.6 Billion VA Deal To Power Veteran Care",
+      "dek": "Salesforce (NYSE:CRM) has secured a US$1.6 billion, three-year contract with the U.S. Department of Veterans Affairs. The Missionforce platform will be used to modernize care and service delivery for more than 17 million veterans. The contract focuses on AI-powered workflows, 24/7 care coordination,",
+      "url": "https://ca.finance.yahoo.com/news/salesforce-crm-lands-1-6-020852466.html",
+      "source": "Yahoo! News",
+      "sourceType": "external",
+      "image": "https://media.zenfs.com/en/simply_wall_st__316/10ecce545fa735023d0267ec6d5e46ff",
+      "publishedAt": "2026-07-25T02:08:52.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "public relations",
-        "pr strategy",
-        "news release",
-        "media release",
-        "pr",
-        "pressreleases"
+        "unified data",
+        "va",
+        "public sector",
+        "salesforce"
       ],
-      "priority": 43
+      "priority": 38
     },
     {
-      "id": "4af75fc48e1004f0",
-      "slug": "cetera-investment-advisers-has-115-81-million-stock-holdings-in-oracle-corporation-orcl-3a7fe6",
-      "title": "Cetera Investment Advisers Has $115.81 Million Stock Holdings in Oracle Corporation $ORCL",
-      "dek": "Cetera Investment Advisers raised its position in Oracle Corporation (NYSE:ORCL – Free Report) by 7.4% during the first quarter, Holdings Channel reports. The institutional investor owned 787,215 shares of the enterprise software provider’s stock after buying an additional 54,003 shares during the q",
-      "url": "https://www.watchlistnews.com/cetera-investment-advisers-has-115-81-million-stock-holdings-in-oracle-corporation-orcl/11154626.html",
-      "source": "Watch List News",
+      "id": "a95e5fe323368e54",
+      "slug": "bond-market-anxiety-is-growing-over-ai-capex-budgets-5f3f16",
+      "title": "Bond market anxiety is growing over AI capex budgets",
+      "dek": "Investors are getting increasingly uncomfortable with the amount of capital needed to make the artificial intelligence buildout a reality. It’s playing out in real time",
+      "url": "https://dieselgasoil.com/bond-market-anxiety-is-growing-over-ai-capex-budgets/",
+      "source": "Dieselgasoil",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-07-24T09:01:50.000Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/108339509-1784838276583-gettyimages-2286702658-AFP_C3233TJ.jpeg",
+      "publishedAt": "2026-07-25T00:00:06.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "orcl",
-        "oracle",
-        "13f",
-        "hedge fund holdings",
-        "68389x10",
-        "sec filings"
+        "AI"
       ],
-      "priority": 43
+      "priority": 37
     },
     {
-      "id": "cb7c36d804e5e218",
-      "slug": "helios-packs-50-more-hbm-than-rubin-boosting-memory-demand-c6e378",
-      "title": "Helios Packs 50% More HBM Than Rubin, Boosting Memory Demand",
-      "dek": "Samsung Electronics will supply HBM4 for AMD's new AI server rack Helios, which loads 432GB per chip—50% more than Nvidia's Rubin—intensifying the global HBM shortage.",
-      "url": "https://en.sedaily.com/international/2026/07/24/amd-teams-with-samsung-loads-50-percent-more-memory-per",
-      "source": "서울경제",
+      "id": "58c768ad48e26e65",
+      "slug": "marketbeat-week-in-review-07-20-07-24-977aee",
+      "title": "MarketBeat Week in Review – 07/20- 07/24",
+      "dek": "Stocks fell as investors weighed AI CapEx concerns, Oracle's credit downgrade, Netflix and Tesla earnings, and upcoming Fed and Magnificent 7 reports, plus stock picks across sectors.",
+      "url": "https://www.inkl.com/news/marketbeat-week-in-review-07-20-07-24",
+      "source": "Inkl",
       "sourceType": "external",
-      "image": "https://wimg.sedaily.com/news/cms/2026/07/24/news-p.v1.20260724.e4183de0b68c4d268c42d90f2ca60e50_P1.jpg",
-      "publishedAt": "2026-07-24T08:49:32.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://images.inkl.com/s3/article/lead_image/23623159/med_20260501133913_image.jpeg",
+      "publishedAt": "2026-07-25T00:00:00.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "nvidia vera rubin",
-        "samsung electronics",
-        "sk hynix",
-        "amd",
-        "ai infrastructure",
-        "hbm4"
+        "inkl",
+        "news headlines",
+        "breaking news",
+        "today news",
+        "news app",
+        "news today"
       ],
-      "priority": 43
+      "priority": 37
     },
     {
-      "id": "dd816dfaf38e6a79",
-      "slug": "prodai-q-expands-agentic-ai-suite-for-erp-users-with-order-automation-invoice-matching-a-a4571e",
-      "title": "ProdAI.Q Expands Agentic AI Suite for ERP Users with Order Automation, Invoice Matching, and PAQ Pilot",
-      "dek": "New and enhanced capabilities help enterprises running JD Edwards, SAP, Oracle EBS, and Dynamics 365 automate high-friction manual processes without replacing their existing ERP. Mumbai, India - ProdAI.Q, an enterprise agentic AI platform designed to work alongside existing ERP systems, has",
-      "url": "https://www.openpr.com/news/4585635/prodai-q-expands-agentic-ai-suite-for-erp-users-with-order",
+      "id": "f46682e68dca48d0",
+      "slug": "oracle-just-hit-a-new-52-week-low-wall-street-s-average-target-is-still-more-than-double-588360",
+      "title": "Oracle Just Hit a New 52-Week Low. Wall Street's Average Target Is Still More Than Double the Stock.",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/finance/oracle-just-hit-a-new-52-week-low-wall-streets-average-target-is-still-more-than-double-the-stock-EC828EA3-FB06-43BA-A5E2-4972E36868E4",
+      "source": "Bundle",
+      "sourceType": "external",
+      "image": "https://static.bundle.app/news/2b470dee-cc62-5168-9bb4-3e10170c5372.jpg",
+      "publishedAt": "2026-07-24T23:57:34.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 37
+    },
+    {
+      "id": "1774652d95e3340b",
+      "slug": "ai-server-boom-huawei-atlas-950-dell-poweredge-hpe-proliant-nvidia-vera-rubin-lead-the-l-7a9c63",
+      "title": "AI Server Boom: Huawei Atlas 950, Dell PowerEdge, HPE ProLiant, NVIDIA Vera Rubin Lead the Liquid-Cooling Revolution",
+      "dek": "The global AI computing infrastructure has entered a period of explosive growth in 2026. At the recent Mobile World Congress (MWC) 2026 in Barcelona, flagship AI server platforms including Huawei Atlas 950 SuperPoD, Dell PowerEdge, HPE ProLiant, and NVIDIA Vera",
+      "url": "https://www.openpr.com/news/4586482/ai-server-boom-huawei-atlas-950-dell-poweredge-hpe-proliant",
       "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/7/L724438894_k.jpg",
-      "publishedAt": "2026-07-24T07:45:38.000Z",
+      "image": "https://cdn.open-pr.com/7/2/725171786_k.jpg",
+      "publishedAt": "2026-07-24T23:24:04.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
+        "publicity",
         "pr service",
         "presses release",
         "pr marketing",
-        "public relations",
-        "pr",
+        "advertising",
         "marketing"
       ],
-      "priority": 42
+      "priority": 36
     },
     {
-      "id": "e4276b2eb13f966f",
-      "slug": "amd-unveils-sixth-generation-epyc-venice-processors-up-to-256-zen-6-cores-203-billion-tr-9619b4",
-      "title": "AMD Unveils Sixth-Generation EPYC Venice Processors: Up to 256 Zen 6 Cores, 203 Billion Transistors, and TSMC 2nm Technology",
-      "dek": "At its Advancing AI 2026 event in San Francisco, AMD officially introduced the sixth-generation EPYC Venice server processors, marking a major milestone for the company’s data center roadmap. Built on TSMC’s cutting-edge 2nm process, EPYC Venice is the first high-performance computing processor fami",
-      "url": "https://www.igeekphone.com/amd-unveils-sixth-generation-epyc-venice-processors-up-to-256-zen-6-cores-203-billion-transistors-and-tsmc-2nm-technology/",
-      "source": "Igeekphone China Phone, Tablet Pc, Vr, Rc Drone Ne",
+      "id": "f7026436481e9942",
+      "slug": "software-giant-secures-historic-7-billion-pentagon-agreement-391458",
+      "title": "Software giant secures ‘historic’ $7 billion Pentagon agreement",
+      "dek": "The Pentagon said its saving at least $441 million with the deal.",
+      "url": "https://www.nj.com/news/2026/07/software-giant-secures-historic-7-billion-pentagon-agreement.html",
+      "source": "Nj",
       "sourceType": "external",
-      "image": "https://www.igeekphone.com/wp-content/uploads/2026/07/Se31eeea7-837a-441f-abc7-bbd719c.jpg",
-      "publishedAt": "2026-07-24T07:38:45.000Z",
-      "topic": "Oracle Cloud",
+      "image": "https://www.nj.com/resizer/v2/4GZEG6MTAFGBZPPNCYS64DX26U.jpg?auth=5cb34477ac37faec79c32ca602e43f6fe392cbcb4ea7a88489226ef817376025&smart=true&height=1200",
+      "publishedAt": "2026-07-24T22:54:54.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "amd epyc venice processors"
+        "@si-river",
+        "@river-state",
+        "section:/news",
+        "@yahoo",
+        "@river-huntsville"
       ],
-      "priority": 42
+      "priority": 36
+    },
+    {
+      "id": "1ffcf35579216658",
+      "slug": "java-s-quiet-shift-scoped-values-arrive-as-threadlocals-face-new-scrutiny-ceeaf7",
+      "title": "Java’s Quiet Shift: Scoped Values Arrive as ThreadLocals Face New Scrutiny",
+      "dek": "Scoped values reach final form in JDK 25, offering a safer, lower-overhead alternative to ThreadLocal for sharing immutable data in concurrent Java applications. Paired with virtual threads and structured concurrency, they bound lifetimes and reduce costs. Meanwhile JEP 541 deprecates macOS/x64 supp",
+      "url": "https://www.webpronews.com/javas-quiet-shift-scoped-values-arrive-as-threadlocals-face-new-scrutiny/",
+      "source": "Webpronews",
+      "sourceType": "external",
+      "image": "https://www.webpronews.com/wp-content/uploads/2026/07/article-21966-1784916776.jpeg",
+      "publishedAt": "2026-07-24T22:02:10.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "top news",
+        "structured concurrency",
+        "java concurrency",
+        "jep 506",
+        "project loom",
+        "scoped values"
+      ],
+      "priority": 36
     },
     {
       "id": "f6e136dc9b013dc4",
@@ -245,189 +293,6 @@
         "Java",
         "AI"
       ],
-      "priority": 42
-    },
-    {
-      "id": "e837bbb28a83b22b",
-      "slug": "oracle-expands-hybrid-ai-database-with-cloud-customer-98069d",
-      "title": "Oracle Expands Hybrid AI Database with Cloud@Customer",
-      "dek": "Organizations are adopting Oracle AI Database due to its ability to run their mission-critical workloads – from transaction processing to AI and analytics. AI is natively architected into Oracle AI Database and SQL, making it simpler, faster, more secure, and more trustworthy, while also enabling AI",
-      "url": "https://smestreet.in/technology/oracle-expands-hybrid-ai-database-with-cloudcustomer-12193265",
-      "source": "Smestreet In",
-      "sourceType": "external",
-      "image": "https://img-cdn.publive.online/fit-in/1280x960/smstreet/media/media_files/2025/02/10/BFHNdlE8FUD3SeHJxx9i.png",
-      "publishedAt": "2026-07-24T06:47:37.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "oracle",
-        "hybrid ai",
-        "database"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "04fc16a4780c74b2",
-      "slug": "infosys-ai-revenues-at-8-2-in-q1-resilient-operating-margin-of-21-1-713ec5",
-      "title": "Infosys: AI Revenues at 8.2% in Q1; Resilient Operating Margin of 21.1%",
-      "dek": "PRNewswire Bengaluru (Karnataka) [India], July 24: Infosys (NSE: INFY) (BSE: INFY) (NYSE: INFY), a global leader in AI-first business consulting and technology services, delivered $5,082 million in Q1 revenues, year on year growth of 2.4% and sequential growth of 1.0% in constant currency. Operating",
-      "url": "http://www.philippinetimes.com/news/279206812/infosys-ai-revenues-at-82-in-q1-resilient-operating-margin-of-211",
-      "source": "Philippine Times",
-      "sourceType": "external",
-      "image": "https://image.chitra.live/api/v1/wps/6d10e42/862b3c5e-4a8a-45b7-a82c-00585886eef8/0/ANI-20260724043836-600x315.jpg",
-      "publishedAt": "2026-07-24T05:31:47.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "ended june",
-        "press release",
-        "said infosys",
-        "such forward",
-        "finance",
-        "safe harbor"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "101aa395dfb4fd9b",
-      "slug": "oracle-bags-pentagon-software-deal-worth-7b-8f64e8",
-      "title": "Oracle bags Pentagon software deal worth $7B",
-      "dek": "The US Department of Defense has awarded a nearly $7 billion contract to Oracle, the tech giant co-founded by billionaire Larry Ellison.",
-      "url": "https://www.newsbytesapp.com/news/business/oracle-bags-pentagon-software-deal-worth-7b/story",
-      "source": "Newsbytes",
-      "sourceType": "external",
-      "image": "https://i.cdn.newsbytesapp.com/images/l64420260724103500.jpeg",
-      "publishedAt": "2026-07-24T05:06:52.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 40
-    },
-    {
-      "id": "6e9f9c2ad268fc51",
-      "slug": "business-news-infosys-ai-revenues-at-8-2-in-q1-resilient-operating-margin-of-21-1-c428be",
-      "title": "Business News | Infosys: AI Revenues at 8.2% in Q1; Resilient Operating Margin of 21.1%",
-      "dek": "Get latest articles and stories on Business at LatestLY. Bengaluru (Karnataka) [India], July 24: Infosys (NSE: INFY) (BSE: INFY) (NYSE: INFY), a global leader in AI-first business consulting and technology services, delivered $5,082 million in Q1 revenues, year on year growth of 2.4% and sequential ",
-      "url": "https://www.latestly.com/agency-news/business-news-infosys-ai-revenues-at-8-2-in-q1-resilient-operating-margin-of-21-1-7529755.html",
-      "source": "Latestly",
-      "sourceType": "external",
-      "image": "https://st1.latestly.com/wp-content/uploads/2026/07/ANI-20260724043836.jpg",
-      "publishedAt": "2026-07-24T04:52:23.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "AI"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "5f36334e01b77f02",
-      "slug": "smart-icu-systems-market-to-reach-usd-27-6-billion-by-2035-as-ai-and-iomt-transform-crit-0416fe",
-      "title": "Smart ICU Systems Market to Reach USD 27.6 Billion by 2035 as AI and IoMT Transform Critical Care Worldwide",
-      "dek": "➤ Market Overview According to Market Genics, the Global Smart ICU Systems Market is projected to grow from USD 5.9 Billion in 2025 to USD 27.6 Billion by 2035, registering a CAGR of 16.7% during the forecast period. The market is",
-      "url": "https://www.openpr.com/news/4585515/smart-icu-systems-market-to-reach-usd-27-6-billion-by-2035-as-ai",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/7/L724521655_k.jpg",
-      "publishedAt": "2026-07-24T03:45:11.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "pr service",
-        "presses release",
-        "pr marketing",
-        "public relations",
-        "pr",
-        "marketing"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "e5e21f0978e06c66",
-      "slug": "comprehensive-guide-to-sap-s-4hana-evolution-and-migration-cb07bb",
-      "title": "Comprehensive Guide to SAP S/4HANA Evolution and Migration",
-      "dek": "Discover how to evolve your business with SAP S/4HANA. Explore deployment options, migration paths, and AI-driven innovations to boost efficiency. The post Comprehensive Guide to SAP S/4HANA Evolution and Migration appeared first on SourceTrail .",
-      "url": "https://www.sourcetrail.com/software/erp/comprehensive-guide-to-sap-s-4hana-evolution-and-migration/",
-      "source": "Sourcetrail",
-      "sourceType": "external",
-      "image": "https://www.sourcetrail.com/wp-content/uploads/2026/07/4HANA.png",
-      "publishedAt": "2026-07-24T03:23:30.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "f8ffd056dc4e3a25",
-      "slug": "oracle-secures-7b-contract-to-supply-the-pentagon-with-vital-software-and-services-e7efd8",
-      "title": "Oracle secures $7B contract to supply the Pentagon with vital software and services",
-      "dek": "Database giant Oracle Corp. has signed a new, multibillion-dollar deal with the Pentagon that will see it provide its software to branches of the U.S. military, Coast Guard and intelligence community over the next 10 years. The deal, valued at almost $7 billion, includes a five-year base period for ",
-      "url": "https://siliconangle.com/2026/07/23/oracle-secures-7b-contract-supply-pentagon-vital-software-services/",
-      "source": "Siliconangle",
-      "sourceType": "external",
-      "image": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2026/07/Screenshot-from-2026-07-24-08-42-06.png",
-      "publishedAt": "2026-07-24T01:44:28.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "oracle database",
-        "oracle",
-        "oracle services",
-        "pete hegseth",
-        "cia",
-        "dod"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "9a550a47241ff9dc",
-      "slug": "database-management-platform-market-size-share-growth-2034-78c1fd",
-      "title": "Database Management Platform Market Size, Share, Growth, 2034",
-      "dek": "The database management platform market size is projected to grow from $139.39 billion in 2026 to $352.6 billion by 2034, at a CAGR of 12.3% during the forecast period 2026-2034.",
-      "url": "https://straitsresearch.com/report/database-management-platform-market",
-      "source": "Straitsresearch",
-      "sourceType": "external",
-      "image": "https://straitsresearch.com/uploads/reports/database-management-platform-market-57037.jpg",
-      "publishedAt": "2026-07-24T00:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "database management platform market trends",
-        "database management platform market research",
-        "database management platform market drivers",
-        "database management platform market size",
-        "database management platform market share",
-        "database management platform market growth"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "6d84047fa322b6df",
-      "slug": "stock-market-today-s-p-500-dow-jones-nasdaq-100-futures-gain-as-oil-prices-decline-intel-ebabc9",
-      "title": "Stock Market Today: S&P 500, Dow Jones, Nasdaq 100 Futures Gain as Oil Prices Decline—Intel, Edwards Lifesciences, SAP in Focus (UPDATED)",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.inkl.com/news/stock-market-today-s-p-500-dow-jones-futures-gain-as-oil-prices-decline-intel-edwards-lifesciences-sap-in-focus",
-      "source": "Inkl",
-      "sourceType": "external",
-      "image": "https://images.inkl.com/s3/article/lead_image/23618724/Wall-Street.jpg",
-      "publishedAt": "2026-07-24T00:00:00.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "news today",
-        "news headlines",
-        "inkl",
-        "news",
-        "world news",
-        "global news"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "363503bfcd234ded",
-      "slug": "96-blog-posts-to-learn-about-deployment-571a73",
-      "title": "96 Blog Posts To Learn About Deployment",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/technology/96-blog-posts-to-learn-about-deployment-DA0D49F3-0BC6-4967-B515-E8C5EA7F6F71",
-      "source": "Bundle",
-      "sourceType": "external",
-      "image": "https://static.bundle.app/news/22efcd1d-f978-56f7-b593-3b64e99aa320.jpg",
-      "publishedAt": "2026-07-23T22:31:30.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
       "priority": 36
     },
     {
@@ -2020,6 +1885,122 @@
       "publishedAt": "2024-07-23T14:00:00.000Z",
       "topic": "AI & Database",
       "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "f046bd97147c0cf8",
+      "slug": "container-engine-for-kubernetes-security-practices-26ab8f",
+      "title": "Container Engine for Kubernetes: Security Practices",
+      "dek": "In the season's final episode, hosts Lois Houston and Nikita Abraham interview senior OCI instructor Mahendra Mehra about the security practices that are vital for OKE clusters on OCI. Mahendra shares his expert insights on the importance of Kubernetes security, especially in today's digital landsca",
+      "url": "https://oracleuniversitypodcast.libsyn.com/container-engine-for-kubernetes-security-practices",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP7.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-16T14:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "OCI",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "be8b92279cd0831f",
+      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
+      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-09T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "d38db88cd3fd3cc0",
+      "slug": "working-with-oke-virtual-nodes-f5a370",
+      "title": "Working with OKE Virtual Nodes",
+      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-02T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "bd401ec004db1755",
+      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
+      "title": "Introduction to OCI Container Engine for Kubernetes",
+      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-25T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "1d3aa287378f7e71",
+      "slug": "basics-of-kubernetes-23e26c",
+      "title": "Basics of Kubernetes",
+      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
+      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-18T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ec54bf5b81f570ed",
+      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
+      "title": "Oracle Cloud Infrastructure Registry",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-11T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "OCI",
+        "Oracle Cloud Infrastructure"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "6ba1bee89c8a91cc",
+      "slug": "what-is-containerization-0326f4",
+      "title": "What is Containerization?",
+      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-04T14:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "OCI",
+        "Oracle University"
+      ],
       "priority": 36
     }
   ]
