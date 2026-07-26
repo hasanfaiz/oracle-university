@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T21:14:00.970Z",
+  "generatedAt": "2026-07-26T21:23:25.398Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -55,243 +55,201 @@
       "priority": 46
     },
     {
-      "id": "492ef5320dd84b08",
-      "slug": "mapping-rural-data-center-development-finds-growing-opposition-9cb5e6",
-      "title": "Mapping rural data center development finds growing opposition",
-      "dek": "Washington, D.C.’s metropolitan area has long hummed with data centers. The region, which encompasses much of Northern Virginia, has become known as Data Center Alley, home to more data centers than anywhere else in the world. But the data center boom, driven by the rise of AI and the race to build ",
-      "url": "https://kvia.com/news/us-world/stacker-news/2026/07/25/mapping-rural-data-center-development-finds-growing-opposition/",
-      "source": "Kvia",
+      "id": "dd882e01314a1ada",
+      "slug": "the-rise-of-the-ellison-empire-e0cbf6",
+      "title": "The Rise of the Ellison Empire",
+      "dek": "by Martin Armstrong, Armstrong Economics: There was a time when America’s industrial titans built railroads, steel mills, and oil companies. Today, influence is measured in data, artificial intelligence, cloud computing, media, and information. Few families illustrate that transformation better than",
+      "url": "https://www.sgtreport.com/2026/07/the-rise-of-the-ellison-empire/",
+      "source": "Sgt Report",
       "sourceType": "external",
-      "image": "https://kvia.com/wp-content/uploads/2026/07/daily-yonder-mapping-rural-data-center-development-finds-growing-opposition.jpeg",
-      "publishedAt": "2026-07-25T08:19:06.000Z",
-      "topic": "Oracle Cloud",
+      "image": "",
+      "publishedAt": "2026-07-26T09:00:14.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 43
+    },
+    {
+      "id": "c88335b62fd84247",
+      "slug": "ai-spending-soars-as-tech-giants-keep-cutting-thousands-of-jobs-a754a3",
+      "title": "AI spending soars as tech giants keep cutting thousands of jobs",
+      "dek": "Billions are flowing into artificial intelligence, but the hiring boom many expected has yet to arrive as major technology companies continue shrinking their workforces.",
+      "url": "https://www.moneycontrol.com/world/ai-spending-soars-as-tech-giants-keep-cutting-thousands-of-jobs-article-13983752.html",
+      "source": "Moneycontrol",
+      "sourceType": "external",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/06/20260611110618_artificial-intelligence.jpg",
+      "publishedAt": "2026-07-26T08:36:20.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "reporting"
+        "ai",
+        "ai news"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "0e801c1fa5b9f04a",
+      "slug": "microsoft-bet-everything-on-ai-is-its-north-star-now-a-noose-702549",
+      "title": "Microsoft bet everything on AI. Is its North Star now a noose?",
+      "dek": "Microsoft bet everything on AI. Is its North Star now a noose?",
+      "url": "https://www.businessinsider.com/inside-nadella-hardest-year-microsoft-ai-azure-github-2026-7",
+      "source": "Insider",
+      "sourceType": "external",
+      "image": "https://i.insider.com/6a638819ce52cb26b8393951?width=1200&format=jpeg",
+      "publishedAt": "2026-07-26T08:07:01.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "openai",
+        "microsoft",
+        "discourse"
       ],
       "priority": 42
     },
     {
-      "id": "a80c1adb12c32fc6",
-      "slug": "oracle-corporation-nyse-orcl-s-stock-is-the-one-to-watch-says-jim-cramer-01533a",
-      "title": "Oracle Corporation (NYSE:ORCL)’s Stock Is The One To Watch, Says Jim Cramer",
-      "dek": "Oracle Corporation (NYSE:ORCL)’s shares are among the most troubled in the market when it comes to AI investing. They have been on a wild ride in 2026 and are down by 41% year-to-date after having gained 27% until June 1st. Cramer has also discussed Oracle Corporation (NYSE:ORCL) several times in 20",
-      "url": "https://ca.finance.yahoo.com/news/oracle-corporation-nyse-orcl-stock-080707294.html",
-      "source": "Yahoo! News",
+      "id": "4fce6e2843d6537c",
+      "slug": "week-in-review-servicenow-pre-auth-rce-exploited-in-the-wild-hugging-face-breached-0734cd",
+      "title": "Week in review: ServiceNow pre-auth RCE exploited in the wild, Hugging Face breached",
+      "dek": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: AI agents are still logging in as humans Most large companies run more than one AI platform at the same time. Developers pull up coding assistants, marketing teams lean on writing tools, and analysts qu",
+      "url": "https://www.helpnetsecurity.com/2026/07/26/week-in-review-servicenow-pre-auth-rce-exploited-in-the-wild-hugging-face-breached/",
+      "source": "Help Net Security",
       "sourceType": "external",
-      "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
-      "publishedAt": "2026-07-25T08:07:07.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112502/cybersecurity_week_in_review1.jpg",
+      "publishedAt": "2026-07-26T08:00:34.000Z",
+      "topic": "Security",
       "tags": [
-        "oracle corporation",
-        "debt levels",
-        "jim cramer"
+        "week in review"
       ],
       "priority": 42
     },
     {
-      "id": "1b9189db9590d51d",
-      "slug": "ca-mba-vacancy-in-bcg-12138b",
-      "title": "CA, MBA Vacancy In BCG",
-      "dek": "BCG invited applications for the post of BCG X Finance Operations Analyst Main responsibilities include: Manage accounting of revenue and costs and ensure governance in financial processes Own, manage and maintain project, vendor and product database in financial systems Work closely with the accoun",
-      "url": "https://www.taxscan.in/job-scan/ca-mba-vacancy-in-bcg-1449306",
-      "source": "Taxscan",
+      "id": "f3c219358ec652e1",
+      "slug": "top-5-web3-crypto-coins-to-watch-in-india-july-2026-cd0815",
+      "title": "Top 5 Web3 Crypto Coins to Watch in India – July 2026",
+      "dek": "Explore Web3 Crypto Coins shaping the Web3 Crypto Market with Chainlink and Toncoin. Discover top projects and July 2026 insights",
+      "url": "https://www.analyticsinsight.net/cryptocurrency-analytics-insight/top-5-web3-crypto-coins-to-watch-in-india-july-2026",
+      "source": "Analytics And Insight",
       "sourceType": "external",
-      "image": "https://images.taxscan.in/h-upload/2026/07/25/2144341-ca-mba-vacancy-in-bcg-by-taxscan.webp",
-      "publishedAt": "2026-07-25T08:06:06.000Z",
-      "topic": "AI & Database",
+      "image": "https://media.assettype.com/analyticsinsight/2026-07-26/j0d4xf3f/Top-5-Web3-Crypto-Coins-to-Watch-in-India-July-2026.jpg",
+      "publishedAt": "2026-07-26T07:30:00.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "financial analyst jobs",
-        "chartered accountant jobs",
-        "business consulting",
-        "bcg careers",
-        "management consulting careers",
-        "bcg recruitment"
+        "web3 crypto coins",
+        "web3",
+        "crypto market",
+        "chainlink",
+        "toncoin"
       ],
       "priority": 42
     },
     {
-      "id": "302fca36c46b8b99",
-      "slug": "ge-vernova-gev-176-billion-backlog-and-ai-power-demand-outweigh-short-term-eps-miss-02d2c7",
-      "title": "GE Vernova (GEV): $176 Billion Backlog and AI Power Demand Outweigh Short-Term EPS Miss",
-      "dek": "AI data centers are putting pressure on the US power grid, making grid equipment manufacturers, apart from chipmakers, direct beneficiaries of the AI buildout. US data center power consumption is expected to increase 22% in a single year, with total grid demand almost tripling to 134.4 GW by 2030. H",
-      "url": "https://www.insidermonkey.com/blog/ge-vernova-gev-176-billion-backlog-and-ai-power-demand-outweigh-short-term-eps-miss-1803773/",
-      "source": "Insider Trading",
+      "id": "13dec504e42606ab",
+      "slug": "ai-layoffs-mount-across-tech-sector-amid-saas-market-downturn-report-00fdbb",
+      "title": "AI Layoffs Mount Across Tech Sector Amid SaaS Market Downturn: Report",
+      "dek": "Artificial intelligence-driven layoffs are accelerating across the global and Israeli software sectors as companies restructure their operations around automation. According to a Jerusalem Post report, firms like monday.com, Wix, and major tech giants are cutting jobs to fund AI investments.",
+      "url": "https://www.latestly.com/technology/ai-layoffs-mount-across-tech-sector-amid-saas-market-downturn-report-7532481.html",
+      "source": "Latestly",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/D4XWlkaQB42t3ZNO0baqi16rLS9pZRgnUNH8QXslsrk/resize:fit:6075:4050:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2024/06/11112443/yorgos-ntrahas-mcAUHlGirVs-unsplash-1.jpg",
-      "publishedAt": "2026-07-25T06:55:04.000Z",
-      "topic": "Oracle Cloud",
+      "image": "https://st1.latestly.com/wp-content/uploads/2024/07/31-61.jpg",
+      "publishedAt": "2026-07-26T06:11:07.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "AI"
+        "fiverr layoffs",
+        "tech layoffs",
+        "wix layoffs",
+        "artificial intelligence jobs",
+        "ai layoffs",
+        "monday.com layoffs"
       ],
       "priority": 41
     },
     {
-      "id": "d92d6011b4eb8835",
-      "slug": "as-oracle-loses-498-billion-in-less-than-10-months-why-credit-rating-agency-s-p-has-iden-5a5f74",
-      "title": "As Oracle loses $498 billion in less than 10 months, why credit rating agency S&P has identified Sam Altman's OpenAI as a 'key credit risk' for Larry Ellison's company",
-      "dek": "Oracle faces significant market value loss and a credit rating downgrade. S&P Global Ratings identified OpenAI as a key credit risk for Oracle. The AI giant's substantial reliance on OpenAI creates financial vulnerabilities for Oracle. Oracle's aggressive AI infrastructure push exposes it to conside",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-oracle-loses-498-billion-in-less-than-10-months-why-credit-rating-agency-sp-has-identified-sam-altmans-openai-as-a-key-credit-risk-for-larry-ellisons-company/articleshow/132617776.cms",
-      "source": "The Times Of India",
+      "id": "54a9db8b5f308907",
+      "slug": "top-blockchain-stocks-to-consider-july-24th-a6c4f2",
+      "title": "Top Blockchain Stocks To Consider – July 24th",
+      "dek": "Core Scientific, Bitdeer Technologies Group, Globant, Figure Technology Solutions, Digi Power X, Nukkleus, and Mercurity Fintech are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, use,",
+      "url": "https://www.defenseworld.net/2026/07/26/top-blockchain-stocks-to-consider-july-24th.html",
+      "source": "Defenseworld Net",
       "sourceType": "external",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132617776/132617776.jpg",
-      "publishedAt": "2026-07-25T02:25:20.000Z",
-      "topic": "Security",
-      "tags": [
-        "sam altman",
-        "openai credit risk",
-        "sam altman openai",
-        "data center leases",
-        "oracle market value loss",
-        "oracle cloud business growth"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "976ad9ac5a1fe1de",
-      "slug": "salesforce-crm-lands-1-6-billion-va-deal-to-power-veteran-care-b76ee3",
-      "title": "Salesforce (CRM) Lands $1.6 Billion VA Deal To Power Veteran Care",
-      "dek": "Salesforce (NYSE:CRM) has secured a US$1.6 billion, three-year contract with the U.S. Department of Veterans Affairs. The Missionforce platform will be used to modernize care and service delivery for more than 17 million veterans. The contract focuses on AI-powered workflows, 24/7 care coordination,",
-      "url": "https://ca.finance.yahoo.com/news/salesforce-crm-lands-1-6-020852466.html",
-      "source": "Yahoo! News",
-      "sourceType": "external",
-      "image": "https://media.zenfs.com/en/simply_wall_st__316/10ecce545fa735023d0267ec6d5e46ff",
-      "publishedAt": "2026-07-25T02:08:52.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "unified data",
-        "va",
-        "public sector",
-        "salesforce"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "a95e5fe323368e54",
-      "slug": "bond-market-anxiety-is-growing-over-ai-capex-budgets-5f3f16",
-      "title": "Bond market anxiety is growing over AI capex budgets",
-      "dek": "Investors are getting increasingly uncomfortable with the amount of capital needed to make the artificial intelligence buildout a reality. It’s playing out in real time",
-      "url": "https://dieselgasoil.com/bond-market-anxiety-is-growing-over-ai-capex-budgets/",
-      "source": "Dieselgasoil",
-      "sourceType": "external",
-      "image": "https://image.cnbcfm.com/api/v1/image/108339509-1784838276583-gettyimages-2286702658-AFP_C3233TJ.jpeg",
-      "publishedAt": "2026-07-25T00:00:06.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "AI"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "58c768ad48e26e65",
-      "slug": "marketbeat-week-in-review-07-20-07-24-977aee",
-      "title": "MarketBeat Week in Review – 07/20- 07/24",
-      "dek": "Stocks fell as investors weighed AI CapEx concerns, Oracle's credit downgrade, Netflix and Tesla earnings, and upcoming Fed and Magnificent 7 reports, plus stock picks across sectors.",
-      "url": "https://www.inkl.com/news/marketbeat-week-in-review-07-20-07-24",
-      "source": "Inkl",
-      "sourceType": "external",
-      "image": "https://images.inkl.com/s3/article/lead_image/23623159/med_20260501133913_image.jpeg",
-      "publishedAt": "2026-07-25T00:00:00.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "inkl",
-        "news headlines",
-        "breaking news",
-        "today news",
-        "news app",
-        "news today"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "f46682e68dca48d0",
-      "slug": "oracle-just-hit-a-new-52-week-low-wall-street-s-average-target-is-still-more-than-double-588360",
-      "title": "Oracle Just Hit a New 52-Week Low. Wall Street's Average Target Is Still More Than Double the Stock.",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/finance/oracle-just-hit-a-new-52-week-low-wall-streets-average-target-is-still-more-than-double-the-stock-EC828EA3-FB06-43BA-A5E2-4972E36868E4",
-      "source": "Bundle",
-      "sourceType": "external",
-      "image": "https://static.bundle.app/news/2b470dee-cc62-5168-9bb4-3e10170c5372.jpg",
-      "publishedAt": "2026-07-24T23:57:34.000Z",
+      "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
+      "publishedAt": "2026-07-26T05:03:24.000Z",
       "topic": "Business & Earnings",
       "tags": [],
-      "priority": 37
+      "priority": 40
     },
     {
-      "id": "1774652d95e3340b",
-      "slug": "ai-server-boom-huawei-atlas-950-dell-poweredge-hpe-proliant-nvidia-vera-rubin-lead-the-l-7a9c63",
-      "title": "AI Server Boom: Huawei Atlas 950, Dell PowerEdge, HPE ProLiant, NVIDIA Vera Rubin Lead the Liquid-Cooling Revolution",
-      "dek": "The global AI computing infrastructure has entered a period of explosive growth in 2026. At the recent Mobile World Congress (MWC) 2026 in Barcelona, flagship AI server platforms including Huawei Atlas 950 SuperPoD, Dell PowerEdge, HPE ProLiant, and NVIDIA Vera",
-      "url": "https://www.openpr.com/news/4586482/ai-server-boom-huawei-atlas-950-dell-poweredge-hpe-proliant",
-      "source": "Openpr.com",
+      "id": "7d8b40d10e4d9ffe",
+      "slug": "monday-com-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are-20-others-8d67e2",
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "dek": "Monday.com, the Tel Aviv-based work management software company known for its colorful, customizable project-tracking boards, this week became the latest tech company to cite AI as a factor in job cuts. On Wednesday, the company said in an SEC filing that it will lay off about 20% of its workforce, ",
+      "url": "https://primanews.org/monday-com-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are-20-others/",
+      "source": "Prima News",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/7/2/725171786_k.jpg",
-      "publishedAt": "2026-07-24T23:24:04.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "publicity",
-        "pr service",
-        "presses release",
-        "pr marketing",
-        "advertising",
-        "marketing"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "f7026436481e9942",
-      "slug": "software-giant-secures-historic-7-billion-pentagon-agreement-391458",
-      "title": "Software giant secures ‘historic’ $7 billion Pentagon agreement",
-      "dek": "The Pentagon said its saving at least $441 million with the deal.",
-      "url": "https://www.nj.com/news/2026/07/software-giant-secures-historic-7-billion-pentagon-agreement.html",
-      "source": "Nj",
-      "sourceType": "external",
-      "image": "https://www.nj.com/resizer/v2/4GZEG6MTAFGBZPPNCYS64DX26U.jpg?auth=5cb34477ac37faec79c32ca602e43f6fe392cbcb4ea7a88489226ef817376025&smart=true&height=1200",
-      "publishedAt": "2026-07-24T22:54:54.000Z",
+      "image": "https://primanews.org/wp-content/uploads/2026/07/Mondaycom-is-the-latest-tech-company-to-blame-AI-for.png",
+      "publishedAt": "2026-07-26T04:44:19.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "@si-river",
-        "@river-state",
-        "section:/news",
-        "@yahoo",
-        "@river-huntsville"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "1ffcf35579216658",
-      "slug": "java-s-quiet-shift-scoped-values-arrive-as-threadlocals-face-new-scrutiny-ceeaf7",
-      "title": "Java’s Quiet Shift: Scoped Values Arrive as ThreadLocals Face New Scrutiny",
-      "dek": "Scoped values reach final form in JDK 25, offering a safer, lower-overhead alternative to ThreadLocal for sharing immutable data in concurrent Java applications. Paired with virtual threads and structured concurrency, they bound lifetimes and reduce costs. Meanwhile JEP 541 deprecates macOS/x64 supp",
-      "url": "https://www.webpronews.com/javas-quiet-shift-scoped-values-arrive-as-threadlocals-face-new-scrutiny/",
-      "source": "Webpronews",
-      "sourceType": "external",
-      "image": "https://www.webpronews.com/wp-content/uploads/2026/07/article-21966-1784916776.jpeg",
-      "publishedAt": "2026-07-24T22:02:10.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "top news",
-        "structured concurrency",
-        "java concurrency",
-        "jep 506",
-        "project loom",
-        "scoped values"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "f6e136dc9b013dc4",
-      "slug": "ai-solutions-with-spring-ai-2-0-and-java-i-o-bf52a8",
-      "title": "\"AI Solutions with Spring AI 2.0 and Java\" [I/O]",
-      "dek": "Spring AI 2.0 released in June 2026 and is one of several projects ensuring Java's continued strength in enterprise AI development. Here are some tips on deterministic agents, MCP servers and skills, prompt engineering, and where Java's richness for AI solutions stems from. In this \"Input/Output\" ep",
-      "url": "https://inside.java/2026/07/23/podcast-063",
-      "source": "Inside Java",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/insidejava/2026-07-inside-java-podcast-63--dan-vega.mp3?dest-id=2318780",
-      "publishedAt": "2026-07-23T07:02:00.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "Java",
         "AI"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "4948c3dc701ec0c5",
+      "slug": "405-blog-posts-to-learn-about-development-b59b8e",
+      "title": "405 Blog Posts To Learn About Development",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/technology/405-blog-posts-to-learn-about-development-2C89604B-DFAF-4EE8-8D46-A33FE0D86504",
+      "source": "Bundle",
+      "sourceType": "external",
+      "image": "https://static.bundle.app/news/7076df5c-6f8d-52dd-b2d2-4b924e06973e.jpg",
+      "publishedAt": "2026-07-25T22:31:32.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "de9787bbc37c3d1d",
+      "slug": "242-blog-posts-to-learn-about-devops-tools-6db14f",
+      "title": "242 Blog Posts To Learn About Devops Tools",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/technology/242-blog-posts-to-learn-about-devops-tools-E0810A8E-18FA-4CE3-912B-1128691A5E3B",
+      "source": "Bundle",
+      "sourceType": "external",
+      "image": "https://static.bundle.app/news/0f8e4512-f641-5571-8412-72d68bf5921e.jpg",
+      "publishedAt": "2026-07-25T22:31:30.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "fb86f19af3e75e67",
+      "slug": "the-praxian-genocidal-kill-chain-part-3-98871c",
+      "title": "The Praxian Genocidal Kill Chain — Part 3",
+      "dek": "In Part 1, Iain Davis defined the Praxians, considered their openly stated control of the Trump administration, and examined their extensive partnerships with the Israeli defence technology sector. In Part 2, Davis considered global events through the lens of State Crimes Against Democracy (SCADs) a",
+      "url": "https://www.activistpost.com/the-praxian-genocidal-kill-chain-part-3/",
+      "source": "Activist Post",
+      "sourceType": "external",
+      "image": "https://www.activistpost.com/wp-content/uploads/2026/07/smr-2.jpg",
+      "publishedAt": "2026-07-25T22:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "iain davis",
+        "unlimited hangout",
+        "independent media alliance"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "109899944aecb20d",
+      "slug": "it-security-news-daily-summary-2026-07-25-f008b0",
+      "title": "IT Security News Daily Summary 2026-07-25",
+      "dek": "72 posts were published in the last hour 20:31 : Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable 20:31 : Iran-Linked Actors Breach Are Targeting US Water and Energy Control Systems 20:31 : The hacker who... Read more → The post IT Security News Daily Summary 2026-07",
+      "url": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-07-25/",
+      "source": "It Security News",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-07-25T21:55:11.000Z",
+      "topic": "Security",
+      "tags": [
+        "2026-07-25",
+        "daily summary"
       ],
       "priority": 36
     },
@@ -2000,6 +1958,23 @@
       "tags": [
         "OCI",
         "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "b45e3d006fc93558",
+      "slug": "encore-episode-oci-ai-services-5e7f50",
+      "title": "Encore Episode: OCI AI Services",
+      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-28T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI",
+        "AI"
       ],
       "priority": 36
     }
