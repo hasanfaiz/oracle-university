@@ -6,7 +6,7 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 21:23:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 21:34:34 GMT</lastBuildDate>
     
     <item>
       <title>Oracle Sets the Date for its Fourth Quarter Fiscal Year 2026 Earnings Announcement</title>
@@ -36,112 +36,193 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-Second-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>The Rise of the Ellison Empire</title>
-      <link>https://oracle-university.com/stories/the-rise-of-the-ellison-empire-e0cbf6/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-rise-of-the-ellison-empire-e0cbf6/</guid>
-      <pubDate>Sun, 26 Jul 2026 09:00:14 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>by Martin Armstrong, Armstrong Economics: There was a time when America’s industrial titans built railroads, steel mills, and oil companies. Today, influence is measured in data, artificial intelligence, cloud computing, media, and information. Few families illustrate that transformation better than</description>
-      <source url="https://www.sgtreport.com/2026/07/the-rise-of-the-ellison-empire/">Sgt Report</source>
-    </item>
-    <item>
-      <title>AI spending soars as tech giants keep cutting thousands of jobs</title>
-      <link>https://oracle-university.com/stories/ai-spending-soars-as-tech-giants-keep-cutting-thousands-of-jobs-a754a3/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-spending-soars-as-tech-giants-keep-cutting-thousands-of-jobs-a754a3/</guid>
-      <pubDate>Sun, 26 Jul 2026 08:36:20 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Billions are flowing into artificial intelligence, but the hiring boom many expected has yet to arrive as major technology companies continue shrinking their workforces.</description>
-      <source url="https://www.moneycontrol.com/world/ai-spending-soars-as-tech-giants-keep-cutting-thousands-of-jobs-article-13983752.html">Moneycontrol</source>
-    </item>
-    <item>
-      <title>Microsoft bet everything on AI. Is its North Star now a noose?</title>
-      <link>https://oracle-university.com/stories/microsoft-bet-everything-on-ai-is-its-north-star-now-a-noose-702549/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/microsoft-bet-everything-on-ai-is-its-north-star-now-a-noose-702549/</guid>
-      <pubDate>Sun, 26 Jul 2026 08:07:01 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Microsoft bet everything on AI. Is its North Star now a noose?</description>
-      <source url="https://www.businessinsider.com/inside-nadella-hardest-year-microsoft-ai-azure-github-2026-7">Insider</source>
-    </item>
-    <item>
-      <title>Week in review: ServiceNow pre-auth RCE exploited in the wild, Hugging Face breached</title>
-      <link>https://oracle-university.com/stories/week-in-review-servicenow-pre-auth-rce-exploited-in-the-wild-hugging-face-breached-0734cd/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/week-in-review-servicenow-pre-auth-rce-exploited-in-the-wild-hugging-face-breached-0734cd/</guid>
-      <pubDate>Sun, 26 Jul 2026 08:00:34 GMT</pubDate>
-      <category>Security</category>
-      <description>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: AI agents are still logging in as humans Most large companies run more than one AI platform at the same time. Developers pull up coding assistants, marketing teams lean on writing tools, and analysts qu</description>
-      <source url="https://www.helpnetsecurity.com/2026/07/26/week-in-review-servicenow-pre-auth-rce-exploited-in-the-wild-hugging-face-breached/">Help Net Security</source>
-    </item>
-    <item>
-      <title>Top 5 Web3 Crypto Coins to Watch in India – July 2026</title>
-      <link>https://oracle-university.com/stories/top-5-web3-crypto-coins-to-watch-in-india-july-2026-cd0815/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-5-web3-crypto-coins-to-watch-in-india-july-2026-cd0815/</guid>
-      <pubDate>Sun, 26 Jul 2026 07:30:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Explore Web3 Crypto Coins shaping the Web3 Crypto Market with Chainlink and Toncoin. Discover top projects and July 2026 insights</description>
-      <source url="https://www.analyticsinsight.net/cryptocurrency-analytics-insight/top-5-web3-crypto-coins-to-watch-in-india-july-2026">Analytics And Insight</source>
-    </item>
-    <item>
-      <title>AI Layoffs Mount Across Tech Sector Amid SaaS Market Downturn: Report</title>
-      <link>https://oracle-university.com/stories/ai-layoffs-mount-across-tech-sector-amid-saas-market-downturn-report-00fdbb/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-layoffs-mount-across-tech-sector-amid-saas-market-downturn-report-00fdbb/</guid>
-      <pubDate>Sun, 26 Jul 2026 06:11:07 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Artificial intelligence-driven layoffs are accelerating across the global and Israeli software sectors as companies restructure their operations around automation. According to a Jerusalem Post report, firms like monday.com, Wix, and major tech giants are cutting jobs to fund AI investments.</description>
-      <source url="https://www.latestly.com/technology/ai-layoffs-mount-across-tech-sector-amid-saas-market-downturn-report-7532481.html">Latestly</source>
-    </item>
-    <item>
-      <title>Top Blockchain Stocks To Consider – July 24th</title>
-      <link>https://oracle-university.com/stories/top-blockchain-stocks-to-consider-july-24th-a6c4f2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-blockchain-stocks-to-consider-july-24th-a6c4f2/</guid>
-      <pubDate>Sun, 26 Jul 2026 05:03:24 GMT</pubDate>
+      <title>Taksh IT Solutions Private Limited Expands Its Technology Capabilities to Support the Next Generation of Digital Transformation</title>
+      <link>https://oracle-university.com/stories/taksh-it-solutions-private-limited-expands-its-technology-capabilities-to-support-the-ne-8620f9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/taksh-it-solutions-private-limited-expands-its-technology-capabilities-to-support-the-ne-8620f9/</guid>
+      <pubDate>Mon, 27 Jul 2026 09:22:37 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Core Scientific, Bitdeer Technologies Group, Globant, Figure Technology Solutions, Digi Power X, Nukkleus, and Mercurity Fintech are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, use,</description>
-      <source url="https://www.defenseworld.net/2026/07/26/top-blockchain-stocks-to-consider-july-24th.html">Defenseworld Net</source>
+      <description>Company Strengthens Its Focus on Custom Software Development, Artificial Intelligence, Blockchain, Enterprise Solutions, and Scalable Business Technologies. Taksh IT Solutions Private Limited, a rapidly growing software development company headquartered in Noida, today announced the continued expans</description>
+      <source url="https://www.openpr.com/news/4586150/taksh-it-solutions-private-limited-expands-its-technology">Openpr.com</source>
     </item>
     <item>
-      <title>Monday.com is the latest tech company to blame AI for layoffs — here are 20 others</title>
-      <link>https://oracle-university.com/stories/monday-com-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are-20-others-8d67e2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/monday-com-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are-20-others-8d67e2/</guid>
-      <pubDate>Sun, 26 Jul 2026 04:44:19 GMT</pubDate>
+      <title>Inside Nadella’s Hardest Year – Business Insider</title>
+      <link>https://oracle-university.com/stories/inside-nadella-s-hardest-year-business-insider-5a7e53/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/inside-nadella-s-hardest-year-business-insider-5a7e53/</guid>
+      <pubDate>Mon, 27 Jul 2026 09:08:05 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Monday.com, the Tel Aviv-based work management software company known for its colorful, customizable project-tracking boards, this week became the latest tech company to cite AI as a factor in job cuts. On Wednesday, the company said in an SEC filing that it will lay off about 20% of its workforce, </description>
-      <source url="https://primanews.org/monday-com-is-the-latest-tech-company-to-blame-ai-for-layoffs-here-are-20-others/">Prima News</source>
+      <description>Three years ago, Satya Nadella catapulted Microsoft to the front of the AI race and became “like a superhero,” one [...]</description>
+      <source url="https://recentlyheard.com/inside-nadellas-hardest-year-business-insider/">Recentlyheard</source>
     </item>
     <item>
-      <title>405 Blog Posts To Learn About Development</title>
-      <link>https://oracle-university.com/stories/405-blog-posts-to-learn-about-development-b59b8e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/405-blog-posts-to-learn-about-development-b59b8e/</guid>
-      <pubDate>Sat, 25 Jul 2026 22:31:32 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.bundle.app/en/technology/405-blog-posts-to-learn-about-development-2C89604B-DFAF-4EE8-8D46-A33FE0D86504">Bundle</source>
-    </item>
-    <item>
-      <title>242 Blog Posts To Learn About Devops Tools</title>
-      <link>https://oracle-university.com/stories/242-blog-posts-to-learn-about-devops-tools-6db14f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/242-blog-posts-to-learn-about-devops-tools-6db14f/</guid>
-      <pubDate>Sat, 25 Jul 2026 22:31:30 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.bundle.app/en/technology/242-blog-posts-to-learn-about-devops-tools-E0810A8E-18FA-4CE3-912B-1128691A5E3B">Bundle</source>
-    </item>
-    <item>
-      <title>The Praxian Genocidal Kill Chain — Part 3</title>
-      <link>https://oracle-university.com/stories/the-praxian-genocidal-kill-chain-part-3-98871c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-praxian-genocidal-kill-chain-part-3-98871c/</guid>
-      <pubDate>Sat, 25 Jul 2026 22:00:00 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>In Part 1, Iain Davis defined the Praxians, considered their openly stated control of the Trump administration, and examined their extensive partnerships with the Israeli defence technology sector. In Part 2, Davis considered global events through the lens of State Crimes Against Democracy (SCADs) a</description>
-      <source url="https://www.activistpost.com/the-praxian-genocidal-kill-chain-part-3/">Activist Post</source>
-    </item>
-    <item>
-      <title>IT Security News Daily Summary 2026-07-25</title>
-      <link>https://oracle-university.com/stories/it-security-news-daily-summary-2026-07-25-f008b0/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/it-security-news-daily-summary-2026-07-25-f008b0/</guid>
-      <pubDate>Sat, 25 Jul 2026 21:55:11 GMT</pubDate>
+      <title>The hidden ERP risk CIOs miss: When ‘job succeeded’ doesn’t mean the business was protected</title>
+      <link>https://oracle-university.com/stories/the-hidden-erp-risk-cios-miss-when-job-succeeded-doesn-t-mean-the-business-was-protected-baca3b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-hidden-erp-risk-cios-miss-when-job-succeeded-doesn-t-mean-the-business-was-protected-baca3b/</guid>
+      <pubDate>Mon, 27 Jul 2026 09:00:00 GMT</pubDate>
       <category>Security</category>
-      <description>72 posts were published in the last hour 20:31 : Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable 20:31 : Iran-Linked Actors Breach Are Targeting US Water and Energy Control Systems 20:31 : The hacker who... Read more → The post IT Security News Daily Summary 2026-07</description>
-      <source url="https://www.itsecuritynews.info/it-security-news-daily-summary-2026-07-25/">It Security News</source>
+      <description>Process Monitor is the built-in PeopleSoft tool administrators use to track the status of scheduled jobs. CIOs who only measure success or failure are missing where the real risk lives. For most CIOs and ERP leaders, ERP reliability conversations center on uptime, integrations and transaction throug</description>
+      <source url="https://www.cio.com/article/4200135/the-hidden-erp-risk-cios-miss-when-job-succeeded-doesnt-mean-the-business-was-protected.html">Cio.com India</source>
+    </item>
+    <item>
+      <title>Data Fabric Market Booming with Rapid Growth Through 2033 as AI, Hybrid Cloud, and Enterprise Data Integration Accelerate Digital Transformation | IBM Corporation, Oracle Corporation, SAP SE</title>
+      <link>https://oracle-university.com/stories/data-fabric-market-booming-with-rapid-growth-through-2033-as-ai-hybrid-cloud-and-enterpr-cc91ad/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/data-fabric-market-booming-with-rapid-growth-through-2033-as-ai-hybrid-cloud-and-enterpr-cc91ad/</guid>
+      <pubDate>Mon, 27 Jul 2026 08:59:39 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The Data Fabric Market is witnessing remarkable growth as organizations increasingly adopt intelligent data management solutions to unify, integrate, and govern data across hybrid and multi-cloud environments. The growing volume of enterprise data, rising adoption of artificial intelligence (AI), ma</description>
+      <source url="https://www.openpr.com/news/4587375/data-fabric-market-booming-with-rapid-growth-through-2033-as-ai">Openpr.com</source>
+    </item>
+    <item>
+      <title>The AI military complex: Which are the main companies in it?</title>
+      <link>https://oracle-university.com/stories/the-ai-military-complex-which-are-the-main-companies-in-it-b62ee6/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-ai-military-complex-which-are-the-main-companies-in-it-b62ee6/</guid>
+      <pubDate>Mon, 27 Jul 2026 08:38:34 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>For centuries, fighting wars meant deploying hardware such as tanks, aircraft, artillery and weapons, built by a handful...</description>
+      <source url="https://jamaicainquirer.com/the-ai-military-complex-which-are-the-main-companies-in-it/">Jamaica Inquirer</source>
+    </item>
+    <item>
+      <title>The AI data center behind ChatGPT could cost more than $500 billion</title>
+      <link>https://oracle-university.com/stories/the-ai-data-center-behind-chatgpt-could-cost-more-than-500-billion-899a9a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-ai-data-center-behind-chatgpt-could-cost-more-than-500-billion-899a9a/</guid>
+      <pubDate>Mon, 27 Jul 2026 08:35:03 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>According to The Wall Street Journal , Nvidia is in talks to back financing that would allow OpenAI to lease a massive 10-gigawatt data center being developed in southern Ohio by an energy subsidiary of SoftBank</description>
+      <source url="https://www.independent.co.uk/tech/nvidia-openai-data-center-financing-ohio-b3022069.html">The Independent</source>
+    </item>
+    <item>
+      <title>Nasdaq Futures Lead US Premarket Rally As Iran Ceasefire Reports Ease Fears Ahead Of Big Tech Earnings: Why NVDA, ORCL, SPCX, XOM, OTLK Are In Focus</title>
+      <link>https://oracle-university.com/stories/nasdaq-futures-lead-us-premarket-rally-as-iran-ceasefire-reports-ease-fears-ahead-of-big-e00357/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/nasdaq-futures-lead-us-premarket-rally-as-iran-ceasefire-reports-ease-fears-ahead-of-big-e00357/</guid>
+      <pubDate>Mon, 27 Jul 2026 08:35:01 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Despite the futures rebound, retail investors remain cautious. Stocktwits data showed retail sentiment is ‘bearish’ on SPY and QQQ.</description>
+      <source url="https://newsable.asianetnews.com/markets/nasdaq-futures-lead-us-premarket-rally-as-iran-ceasefire-reports-ease-fears-ahead-of-big-tech-earnings-why-nvda-orcl-spcx-xom-otlk-are-in-focus-articleshow-y8vtf12">Asianet Newsable</source>
+    </item>
+    <item>
+      <title>Nvidia in talks to back $250 bln for OpenAI&#39;s data centre: report</title>
+      <link>https://oracle-university.com/stories/nvidia-in-talks-to-back-250-bln-for-openai-s-data-centre-report-688391/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/nvidia-in-talks-to-back-250-bln-for-openai-s-data-centre-report-688391/</guid>
+      <pubDate>Mon, 27 Jul 2026 08:27:06 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Nvidia is in discussions to provide around $250 billion in financing guarantees for OpenAI, a move that would help the artificial intelligence company secure a massive data centre campus in southern Ohio.</description>
+      <source url="https://www.thedailystar.net/news/tech-startup/news/nvidia-talks-back-250-bln-openais-data-centre-report-4233776">The Daily Star</source>
+    </item>
+    <item>
+      <title>Why container opacity has become a boardroom problem</title>
+      <link>https://oracle-university.com/stories/why-container-opacity-has-become-a-boardroom-problem-d3e465/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/why-container-opacity-has-become-a-boardroom-problem-d3e465/</guid>
+      <pubDate>Mon, 27 Jul 2026 08:05:01 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Enterprises are being squeezed from two directions on the same infrastructure layer: commercially, by licensing re-pricing, and technically, by supply chain attacks. Both exploit the same weakness, and September&#39;s compliance deadline is about to make it visible.</description>
+      <source url="https://diginomica.com/why-container-opacity-has-become-boardroom-problem">Diginomica</source>
+    </item>
+    <item>
+      <title>The CPO Who Used AI To Revamp A CDP And Address His Own Health</title>
+      <link>https://oracle-university.com/stories/the-cpo-who-used-ai-to-revamp-a-cdp-and-address-his-own-health-af3c34/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-cpo-who-used-ai-to-revamp-a-cdp-and-address-his-own-health-af3c34/</guid>
+      <pubDate>Mon, 27 Jul 2026 05:00:22 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Rafa Flores’ career has come full circle. In 2016, he joined Treasure Data (which rebranded earlier this year to Treasure AI) as the company’s second-ever product hire. At the time, Treasure Data was just getting off the ground as a data management company. The company soon found an opportunity in t</description>
+      <source url="https://www.adexchanger.com/ai/the-cpo-who-used-ai-to-revamp-a-cdp-and-address-his-own-health/">Adexchanger</source>
+    </item>
+    <item>
+      <title>IBM i PTF Guide, Volume 28, Number 25</title>
+      <link>https://oracle-university.com/stories/ibm-i-ptf-guide-volume-28-number-25-361818/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ibm-i-ptf-guide-volume-28-number-25-361818/</guid>
+      <pubDate>Mon, 27 Jul 2026 04:01:20 GMT</pubDate>
+      <category>Security</category>
+      <description>Brace yourself, there is a lot of IBM i Technology Refreshes, patches, security vulnerabilities, and other stuff you need to deal with this week. Let’s start by pointing you to the Technology Refreshes. You can get more detailed information on the IBM i 7.6 Technology Refresh 2 enhancements at https</description>
+      <source url="https://www.itjungle.com/2026/07/27/ibm-i-ptf-guide-volume-28-number-25/">It Jungle</source>
+    </item>
+    <item>
+      <title>Best Programming Languages for Database Administrators to Master</title>
+      <link>https://oracle-university.com/stories/best-programming-languages-for-database-administrators-to-master-0497a6/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-programming-languages-for-database-administrators-to-master-0497a6/</guid>
+      <pubDate>Mon, 27 Jul 2026 04:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Master SQL, Python, Java, and PowerShell skills for database administrators to automate tasks, improve database performance, and advance careers.</description>
+      <source url="https://www.analyticsinsight.net/programming/best-programming-languages-for-database-administrators-to-master">Analytics And Insight</source>
+    </item>
+    <item>
+      <title>Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week: NVDA, GOOGL, ORCL, TSLA, INTC</title>
+      <link>https://oracle-university.com/stories/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-nvda-googl-orcl-t-063bb7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-nvda-googl-orcl-t-063bb7/</guid>
+      <pubDate>Mon, 27 Jul 2026 02:40:01 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Tech, AI and earnings drove a busy week across software and chips sectors.</description>
+      <source url="https://newsable.asianetnews.com/markets/why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week-nvda-googl-orcl-tsla-intc-articleshow-lg2cdm6">Asianet Newsable</source>
+    </item>
+    <item>
+      <title>Earnings Preview: What To Expect From Oracle’s Report</title>
+      <link>https://oracle-university.com/stories/earnings-preview-what-to-expect-from-oracle-s-report-04b730/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/earnings-preview-what-to-expect-from-oracle-s-report-04b730/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Oracle is set to report Q1 earnings, with analysts expecting double-digit year-over-year EPS growth.</description>
+      <source url="https://www.inkl.com/news/earnings-preview-what-to-expect-from-oracles-report">Inkl</source>
+    </item>
+    <item>
+      <title>💻 Washington, DC Tech Jobs with Multiple Six-Figure Roles</title>
+      <link>https://oracle-university.com/stories/washington-dc-tech-jobs-with-multiple-six-figure-roles-a24932/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/washington-dc-tech-jobs-with-multiple-six-figure-roles-a24932/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>DC’s tech scene is buzzing, especially around federal, data, and security work. If you’ve got clearance, cloud, or analytics skills, there’s a lot here for</description>
+      <source url="https://www.newsbreak.com/washington-dc-daily-brief-373178858/4792829262614-washington-dc-tech-jobs-with-multiple-six-figure-roles">Newsbreak</source>
+    </item>
+    <item>
+      <title>💻 Houston IT Jobs with Multiple High-Paying Roles ($55K–$250K+)</title>
+      <link>https://oracle-university.com/stories/houston-it-jobs-with-multiple-high-paying-roles-55k-250k-5f6164/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/houston-it-jobs-with-multiple-high-paying-roles-55k-250k-5f6164/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>Houston’s tech scene is busy right now – from AI and data to ERP and cybersecurity, there’s a lot hiring across energy, finance, and consulting. Here are s</description>
+      <source url="https://www.newsbreak.com/houston-tx-daily-brief-375420257/4792926990572-houston-it-jobs-with-multiple-high-paying-roles-55k-250k">Newsbreak</source>
+    </item>
+    <item>
+      <title>Digital Economy: A new frontier for Bangladesh–US business relations</title>
+      <link>https://oracle-university.com/stories/digital-economy-a-new-frontier-for-bangladesh-us-business-relations-59d518/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/digital-economy-a-new-frontier-for-bangladesh-us-business-relations-59d518/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The key to sustaining this partnership lies in human capital development. The successful adoption of AI requires a workforce equipped with advanced digital skills rather than only basic programming knowledge.</description>
+      <source url="https://en.bonikbarta.com/opinion/cfml22wPN32wf3j7">Daily Bonik Barta</source>
+    </item>
+    <item>
+      <title>Tecnotree Strengthens LATAM Growth with New Digital Transformation Contracts Worth USD 8.8 Million&gt;</title>
+      <link>https://oracle-university.com/stories/tecnotree-strengthens-latam-growth-with-new-digital-transformation-contracts-worth-usd-8-fd7376/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/tecnotree-strengthens-latam-growth-with-new-digital-transformation-contracts-worth-usd-8-fd7376/</guid>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>(BUSINESS WIRE) -- Tecnotree, a global leader in AI-native Digital Business Support Systems (BSS) and digital platform solutions, today announced it has secured new digital transformation contracts across Latin America with a combined value of USD 8.8 million, reinforcing the company’s continued com</description>
+      <source url="https://www.tecnotree.com/">Aetoswire</source>
+    </item>
+    <item>
+      <title>257 Blog Posts To Learn About Distributed Systems</title>
+      <link>https://oracle-university.com/stories/257-blog-posts-to-learn-about-distributed-systems-6d73da/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/257-blog-posts-to-learn-about-distributed-systems-6d73da/</guid>
+      <pubDate>Sun, 26 Jul 2026 22:31:31 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>ONLY AVAILABLE IN PAID PLANS</description>
+      <source url="https://www.bundle.app/en/technology/257-blog-posts-to-learn-about-distributed-systems-244CC22C-EB01-4219-8736-F32D821DC9E0">Bundle</source>
+    </item>
+    <item>
+      <title>Salesforce’s new deal could reshape veteran health care</title>
+      <link>https://oracle-university.com/stories/salesforce-s-new-deal-could-reshape-veteran-health-care-1c9dc4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/salesforce-s-new-deal-could-reshape-veteran-health-care-1c9dc4/</guid>
+      <pubDate>Sun, 26 Jul 2026 22:03:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The price tag and the timeline both raise questions about how fast this can actually happen.</description>
+      <source url="https://www.thestreet.com/technology/salesforce-ai-veterans-affairs-deal">Thestreet</source>
+    </item>
+    <item>
+      <title>IT Security News Weekly Summary 30</title>
+      <link>https://oracle-university.com/stories/it-security-news-weekly-summary-30-34036b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/it-security-news-weekly-summary-30-34036b/</guid>
+      <pubDate>Sun, 26 Jul 2026 21:58:32 GMT</pubDate>
+      <category>Security</category>
+      <description>210 posts were published in the last hour 21:55 : IT Security News Daily Summary 2026-07-26 20:2 : How the Bing Images RCE Flaws Actually Worked, and How to Check Your Own Pipeline 20:2 : ENCFORGE Ransomware Targets AI Models... Read more → The post IT Security News Weekly Summary 30 appeared first </description>
+      <source url="https://www.itsecuritynews.info/it-security-news-weekly-summary-30-2/">It Security News</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -376,87 +457,6 @@
       <category>Applications &amp; NetSuite</category>
       <description>In this Episode Orlaith Lawton speaks with Oracle ACE Roberto Capancioni about the importance of APEX and why it is the world&#39;s most popular low-code application platform. ------------------------------------------------------ Episode Transcript: 00:00:00:00 - 00:00:35:14 Unknown Welcome to the Orac</description>
       <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-transformative-power-of-low-code-development">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Understanding Security Risks and Threats in the Cloud - Part 1</title>
-      <link>https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</guid>
-      <pubDate>Tue, 18 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>This week, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to explore what truly keeps data safe, and what puts it at risk. They discuss the CIA triad, dive into hashing and encryption, and shed light on how cyber threats like malware, phishing, and ransomware t</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/understanding-security-risks-and-threats-in-the-cloud-part-1">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Networking &amp; Security Essentials</title>
-      <link>https://oracle-university.com/stories/networking-security-essentials-113af4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/networking-security-essentials-113af4/</guid>
-      <pubDate>Tue, 11 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>How do all your devices connect and stay safe in the cloud? In this episode, Lois Houston and Nikita Abraham talk with OCI instructors Sergio Castro and Orlando Gentil about the basics of how networks work and the simple steps that help protect them. You&#39;ll learn how information gets from one place </description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/networking-security-essentials">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Inside Cloud Networking</title>
-      <link>https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</guid>
-      <pubDate>Tue, 04 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>In this episode, hosts Lois Houston and Nikita Abraham team up with Senior Principal OCI Instructor Sergio Castro to unpack the basics of cloud networking and the Domain Name System (DNS). You&#39;ll learn how local and virtual networks connect devices, and how DNS seamlessly translates familiar names l</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/inside-cloud-networking">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 4</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</guid>
-      <pubDate>Tue, 28 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>In this episode, hosts Lois Houston and Nikita Abraham, along with Principal OCI Instructor Orlando Gentil, break down the differences between Infrastructure-as-a-Service, Platform-as-a-Service, and Software-as-a-Service. The conversation explores how each framework influences control, cost efficien</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-4">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 3</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</guid>
-      <pubDate>Tue, 21 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Have you ever considered how a single server can support countless applications and workloads at once? In this episode, hosts Lois Houston and Nikita Abraham, together with Principal OCI Instructor Orlando Gentil, explore the sophisticated technologies that make this possible in modern cloud data ce</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-3">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>AI and Security</title>
-      <link>https://oracle-university.com/stories/ai-and-security-7b0e26/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-and-security-7b0e26/</guid>
-      <pubDate>Tue, 14 Oct 2025 15:58:49 GMT</pubDate>
-      <category>Security</category>
-      <description>In this episode host Oracle Academy Program Manager Benelux &amp; DACH Rik Bleeker speaks with Oracle expert Thomas Minne on the crucial intersection of Artificial Intelligence and data security, explaining why the Oracle Database is foundational to both. Drawing on his 15 years as a DBA and current rol</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-and-security">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 2</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-2-9a562f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-2-9a562f/</guid>
-      <pubDate>Tue, 14 Oct 2025 06:44:39 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Have you ever wondered where all your digital memories, work projects, or favorite photos actually live in the cloud? In this episode, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to discuss cloud storage. They explore how data is carefully organized, the dif</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-2">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>AI for Data: When Data meets Intelligence</title>
-      <link>https://oracle-university.com/stories/ai-for-data-when-data-meets-intelligence-f7601f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-for-data-when-data-meets-intelligence-f7601f/</guid>
-      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In this two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle AI Vector an</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-for-data-when-data-meet-intelligence">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Part II of AI for Data: When Data meets Intelligence</title>
-      <link>https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</guid>
-      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In the second of a two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle A</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-of-data-for-ai-when-data-meets-intelligence">Oracle Academy Tech Chat</source>
     </item>
   </channel>
 </rss>
