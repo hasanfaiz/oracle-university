@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T21:24:14.205Z",
+  "generatedAt": "2026-07-30T21:38:44.938Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -55,376 +55,210 @@
       "priority": 46
     },
     {
-      "id": "638ed56e1e6bb9c3",
-      "slug": "promising-blockchain-stocks-to-follow-today-july-28th-d0616c",
-      "title": "Promising Blockchain Stocks To Follow Today – July 28th",
-      "dek": "Nukkleus, Core Scientific, Bitdeer Technologies Group, Globant, Figure Technology Solutions, Digi Power X, and Core Scientific are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, use, o",
-      "url": "https://www.tickerreport.com/banking-finance/13519968/promising-blockchain-stocks-to-follow-today-july-28th.html",
-      "source": "Ticker Report",
+      "id": "4ad58cd37f9eff78",
+      "slug": "jit-compiler-from-the-ground-up-ata-57d879",
+      "title": "\"JIT Compiler From the Ground Up\" [AtA]",
+      "dek": "While Java programs are deployed as bytecode, performance-relevant code will be compiled, at run time, to machine code whose performance rivals that of any other platform. In the HotSpot JVM, this is the job of the just-in-time compilers C1 and C2 and between speculation and traps, inlining and cons",
+      "url": "https://inside.java/2026/07/30/podcast-064",
+      "source": "Inside Java",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/insidejava/2026-07-inside-java-podcast-64--roberto.mp3?dest-id=2318780",
+      "publishedAt": "2026-07-30T09:47:00.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "Java"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "b75c768e8ab0fcee",
+      "slug": "tech-companies-increasingly-targeted-as-satellite-images-back-up-latest-claims-of-iran-s-980f5f",
+      "title": "Tech Companies Increasingly Targeted as Satellite Images Back Up Latest Claims of Iran Strike on Amazon Data Centers",
+      "dek": "One defense tech company chief is advising civilian commercial entities to coordinate with the military for protection.",
+      "url": "https://www.nysun.com/article/tech-companies-increasingly-targeted-as-satellite-images-back-up-latest-claims-of-iran-strike-on-amazon-data-centers",
+      "source": "The New York Sun",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/nukkleus-inc-logo-1200x675.jpg?v=20240123111702",
-      "publishedAt": "2026-07-29T09:05:08.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://wp.nysun.com/wp-content/uploads/2026/07/AWS-logo-Amazon-Newsroom-via-X.png",
+      "publishedAt": "2026-07-30T08:00:00.000Z",
+      "topic": "Oracle Cloud",
       "tags": [],
-      "priority": 43
-    },
-    {
-      "id": "5533cf28be69e849",
-      "slug": "greencore-ships-cpg-knowledge-graph-covering-3-29m-stores-ebe99c",
-      "title": "GreenCore ships CPG Knowledge Graph covering 3 29m stores",
-      "dek": "GreenCore Solutions shipped CPG Knowledge Graph v3 2 0 powering AI agents at more than 9 5 million monthly transactions and covering 3 29 million points of sale across 15 688 retail grocery banners in 50 global markets",
-      "url": "https://vir.com.vn/greencore-ships-cpg-knowledge-graph-covering-329m-stores-157657.html",
-      "source": "Vietnam Investment Review - Vir",
-      "sourceType": "external",
-      "image": "https://vir.com.vn/stores/news_dataimages/in_social/prnasia_image.jpg?randTime=1785316511",
-      "publishedAt": "2026-07-29T08:43:50.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "cpg knowledge graph",
-        "retail grocery banners",
-        "greencore solutions corp.",
-        "ai agents",
-        "greencore"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "d1723ea83fe5c3c2",
-      "slug": "business-news-27th-et-edge-cio-leader-conference-to-bring-together-250-of-india-s-top-te-28c456",
-      "title": "Business News | 27th ET Edge CIO&Leader Conference to Bring Together 250+ of India's Top Technology Leaders to Shape the Agentic AI Roadmap",
-      "dek": "Get latest articles and stories on Business at LatestLY. New Delhi [India], July 29: Enterprise AI is entering a new phase. Having moved past copilots and assistants, organizations are now confronting a harder question: how do they build, govern and scale systems that can act -- not just advise? The",
-      "url": "https://www.latestly.com/agency-news/business-news-27th-et-edge-cioleader-conference-to-bring-together-250-of-indias-top-technology-leaders-to-shape-the-agentic-ai-roadmap-7536987.html",
-      "source": "Latestly",
-      "sourceType": "external",
-      "image": "https://st1.latestly.com/wp-content/uploads/2026/07/ANI-20260729081146.jpg",
-      "publishedAt": "2026-07-29T08:38:24.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "AI"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "3b2b554c54f4f192",
-      "slug": "burnham-s-spanner-in-the-works-leaves-uk-government-tech-scattered-across-whitehall-5441f7",
-      "title": "Burnham's spanner in the works leaves UK government tech scattered across Whitehall",
-      "dek": "Splitting up responsibility for digital transformation and procurement while AI gets a seat at Cabinet risks incoherency",
-      "url": "https://www.theregister.com/public-sector/2026/07/29/burnhams-spanner-in-the-works-leaves-uk-government-tech-scattered-across-whitehall/5279437",
-      "source": "The Register",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-07-29T08:30:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "government digital service",
-        "public sector",
-        "procurement",
-        "whitehall",
-        "government of the united kingdom"
-      ],
       "priority": 42
     },
     {
-      "id": "b6f84b786ded6854",
-      "slug": "cetera-investment-advisers-reduces-stake-in-alibaba-group-holding-limited-baba-8509a5",
-      "title": "Cetera Investment Advisers Reduces Stake in Alibaba Group Holding Limited $BABA",
-      "dek": "Cetera Investment Advisers cut its stake in Alibaba Group Holding Limited (NYSE:BABA – Free Report) by 4.1% in the first quarter, according to its most recent 13F filing with the Securities & Exchange Commission. The fund owned 129,802 shares of the specialty retailer’s stock after selling 5,552 sha",
-      "url": "https://www.americanbankingnews.com/2026/07/29/cetera-investment-advisers-reduces-stake-in-alibaba-group-holding-limited-baba.html",
-      "source": "Americanbankingnews",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/alibaba-group-holding-limited-logo-1200x675.png?v=20221020143329",
-      "publishedAt": "2026-07-29T08:22:54.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "alibaba group",
-        "baba",
-        "hedge fund holdings",
-        "13f",
-        "institutional investor holdings",
-        "sec filings"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "065918f094b591ea",
-      "slug": "vigilance-fr-oracle-database-server-three-vulnerabilities-dated-29-05-2026-187809",
-      "title": "Vigilance.fr - Oracle Database Server: three vulnerabilities dated 29/05/2026",
-      "dek": "An attacker can use several vulnerabilities of Oracle Database Server, dated 29/05/2026. - Security Vulnerability",
-      "url": "https://www.globalsecuritymag.fr/vigilance-fr-oracle-database-server-three-vulnerabilities-dated-29-05-2026.html",
-      "source": "Global Security Mag",
-      "sourceType": "external",
-      "image": "https://www.globalsecuritymag.fr/local/cache-vignettes/L40xH21/b3d264c16bde876a7b5973d9519e3c-49a9a.png",
-      "publishedAt": "2026-07-29T08:08:53.000Z",
-      "topic": "Security",
-      "tags": [
-        "fan",
-        "sas (security as a service)",
-        "logiciel antispam",
-        "iso 27001",
-        "dossier sécurité informatique",
-        "vidéoprotection"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "bf3a7b0a6cca5cce",
-      "slug": "amundi-raises-holdings-in-oracle-corporation-orcl-83ccb8",
-      "title": "Amundi Raises Holdings in Oracle Corporation $ORCL",
-      "dek": "Amundi boosted its holdings in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 4.4% in the 1st quarter, according to the company in its most recent Form 13F filing with the Securities & Exchange Commission. The fund owned 9,734,097 shares of the enterprise software provider’s stock after a",
-      "url": "https://www.americanbankingnews.com/2026/07/29/amundi-raises-holdings-in-oracle-corporation-orcl.html",
-      "source": "Americanbankingnews",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-07-29T07:47:01.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "computer and technology",
-        "13f",
-        "68389x10",
-        "orcl",
-        "hedge fund holdings",
-        "institutional investor holdings"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "8cda5814de5c122b",
-      "slug": "storpool-builds-momentum-as-organizations-accelerate-infrastructure-modernization-across-cd3140",
-      "title": "StorPool Builds Momentum as Organizations Accelerate Infrastructure Modernization Across Virtualization, AI, and Cloud",
-      "dek": "StorPool Storage highlighted strong momentum during the first half of 2026, marked by strategic partnerships, industry recognition, and continued innovation helping organizations modernize virtualization, accelerate AI initiatives, and build more sovereign, efficient infrastructure. Also Read: AiTho",
-      "url": "https://aithority.com/it-and-devops/cloud/storpool-builds-momentum-as-organizations-accelerate-infrastructure-modernization-across-virtualization-ai-and-cloud/",
+      "id": "d6528e85f9f0e30d",
+      "slug": "veeam-data-platform-v13-1-now-available-helping-organizations-recover-clean-and-fast-fro-c07e6d",
+      "title": "Veeam Data Platform v13.1 Now Available, Helping Organizations Recover Clean and Fast from Cyber Disruption",
+      "dek": "Advancing Data and AI Trust with expanded platform choice, threat detection before restore, and deeper enterprise application protection to help organizations recover from trusted data across hybrid environments Veeam® Software, the Data and AI Trust Company, announced the general availability of Ve",
+      "url": "https://aithority.com/it-and-devops/cloud/veeam-data-platform-v13-1-now-available-helping-organizations-recover-clean-and-fast-from-cyber-disruption/",
       "source": "Aithority",
       "sourceType": "external",
-      "image": "https://aithority.com/wp-content/uploads/2026/07/perm-russia-july-13-2023-humanoid-600nw-2374631151.jpg",
-      "publishedAt": "2026-07-29T07:46:02.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://aithority.com/wp-content/uploads/2026/07/ai-robot-arm-industrial-technology-manufacture-600nw-2334097329-1.jpg",
+      "publishedAt": "2026-07-30T06:54:15.000Z",
+      "topic": "Security",
       "tags": [
-        "storpool",
-        "ceo and co-founder",
-        "boyan ivanov",
-        "pve"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "dd56fdd9b561c55b",
-      "slug": "nvidia-sits-at-the-centre-of-the-global-ai-boom-here-s-why-1b654e",
-      "title": "Nvidia Sits at the Centre of the Global AI Boom; Here’s Why",
-      "dek": "Copyright protected content copied from PhoneWorld website. Nvidia’s $5 trillion valuation reflects its central role linking the world’s largest technology companies through AI chips, investments and infrastructure. The post Nvidia Sits at the Centre of the Global AI Boom; Here’s Why appeared first ",
-      "url": "https://www.phoneworld.com.pk/nvidia-sits-at-the-centre-of-the-global-ai-boom-heres-why/",
-      "source": "Phoneworld Pk",
-      "sourceType": "external",
-      "image": "https://www.phoneworld.com.pk/wp-content/uploads/2026/07/Nvidia-AI-boom.png",
-      "publishedAt": "2026-07-29T07:31:07.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "fbc57af13c8ba40a",
-      "slug": "altshuler-shaham-ltd-boosts-position-in-oracle-corporation-orcl-04f151",
-      "title": "Altshuler Shaham Ltd Boosts Position in Oracle Corporation $ORCL",
-      "dek": "Altshuler Shaham Ltd raised its holdings in Oracle Corporation (NYSE:ORCL – Free Report) by 0.5% in the 1st quarter, according to the company in its most recent filing with the SEC. The firm owned 1,324,210 shares of the enterprise software provider’s stock after acquiring an additional 6,927 shares",
-      "url": "https://www.defenseworld.net/2026/07/29/altshuler-shaham-ltd-boosts-position-in-oracle-corporation-orcl.html",
-      "source": "Defenseworld Net",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-07-29T07:07:38.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "68389x10",
-        "hedge fund holdings",
-        "sec filings",
-        "institutional investor holdings",
-        "orcl",
-        "oracle"
+        "data and ai trust",
+        "veeam",
+        "rehan jalil",
+        "president of products and technology"
       ],
       "priority": 41
     },
     {
-      "id": "9fd6662f7a9ae21e",
-      "slug": "oracle-corporation-orcl-position-raised-by-altshuler-shaham-ltd-f975d5",
-      "title": "Oracle Corporation $ORCL Position Raised by Altshuler Shaham Ltd",
-      "dek": "Altshuler Shaham Ltd boosted its holdings in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 0.5% in the 1st quarter, according to its most recent Form 13F filing with the SEC. The firm owned 1,324,210 shares of the enterprise software provider’s stock after buying an additional 6,927 shar",
-      "url": "https://www.americanbankingnews.com/2026/07/29/oracle-corporation-orcl-position-raised-by-altshuler-shaham-ltd.html",
-      "source": "Americanbankingnews",
+      "id": "eee8887f20e393b5",
+      "slug": "ai-s-fragile-bubble-and-china-s-quiet-rise-warns-devere-ceo-744ff3",
+      "title": "AI’s fragile bubble and China’s quiet rise, warns deVere CEO",
+      "dek": "The dazzling allure of artificial intelligence, with its promise of transformative breakthroughs and staggering market valuations, has captivated investors worldwide. Yet beneath the surface of this trillion-dollar spectacle lies a financial web that is increasingly precarious, with risks that exten",
+      "url": "https://weekendpost.co.bw/ais-fragile-bubble-and-chinas-quiet-rise-warns-devere-ceo/",
+      "source": "Weekend Post",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-07-29T07:06:56.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "hedge fund holdings",
-        "institutional investor holdings",
-        "oracle",
-        "68389x10",
-        "nyse:orcl",
-        "sec filings"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "f8545e779668f0ba",
-      "slug": "rah-infotech-and-dbexpert-ai-partnership-targets-database-complexity-2a4d3f",
-      "title": "RAH Infotech and dbexpert.ai partnership targets database complexity",
-      "dek": "RAH Infotech and dbexpert.ai partnership targets India’s database challenges with unified observability, multi-engine support, and automated root-cause analysis.",
-      "url": "https://www.dqchannels.com/news/rah-infotech-and-dbexpertai-partnership-tackles-indias-database-challenges-12207628",
-      "source": "Dqc",
-      "sourceType": "external",
-      "image": "https://img-cdn.publive.online/dqc/media/media_files/2026/07/29/rah-infotech-and-dbexpertai-expand-access-to-unified-database-observability-in-india-2026-07-29-11-30-40.jpg",
-      "publishedAt": "2026-07-29T06:48:37.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "rah-infotech"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "17a07d6780feb4df",
-      "slug": "rimini-street-rmni-expected-to-release-earnings-on-thursday-9f55b3",
-      "title": "Rimini Street (RMNI) Expected to Release Earnings on Thursday",
-      "dek": "Rimini Street (NASDAQ:RMNI – Get Free Report) is anticipated to issue its Q2 2026 results after the market closes on Thursday, July 30th. Analysts expect Rimini Street to announce earnings of $0.07 per share and revenue of $106.7220 million for the quarter. Parties may review the information on the ",
-      "url": "https://zolmax.com/investing/rimini-street-rmni-expected-to-release-earnings-on-thursday/11929423.html",
-      "source": "Zolmax",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/rimini-street-inc-logo-1200x675.jpg?v=20240522112008",
-      "publishedAt": "2026-07-29T06:26:48.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "earnings",
-        "rmni",
-        "rimini street",
-        "nasdaq:rmni",
-        "computer and technology"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "1dd30675f2e25f57",
-      "slug": "pursuitci-ranks-500-certifications-by-what-they-actually-pay-and-makes-it-free-15bac5",
-      "title": "PursuitCI Ranks 500+ Certifications by What They Actually Pay – and Makes It Free",
-      "dek": "Orlando, FL - Every year, millions of working professionals are told the same thing: get certified. Almost none of them are told which one.",
-      "url": "https://www.financialcontent.com/article/abnewswire-2026-7-29-pursuitci-ranks-500-certifications-by-what-they-actually-pay-and-makes-it-free",
-      "source": "Financialcontent",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-07-29T06:23:02.000Z",
-      "topic": "Training & Certification",
-      "tags": [],
-      "priority": 41
-    },
-    {
-      "id": "8332deb56d19f3ee",
-      "slug": "autobacs-seven-marks-10-years-of-system-stability-and-self-funded-innovation-with-rimini-750150",
-      "title": "AUTOBACS SEVEN Marks 10 Years of System Stability and Self-Funded Innovation with Rimini Street",
-      "dek": "Business Wire India Rimini Street, Inc. (Nasdaq: RMNI), the Software Support and Agentic AI ERP CompanyTM and the leading third-party support provider for Oracle, SAP and VMware software, today announced that AUTOBACS SEVEN Co., Ltd. celebrates its 10-year partnership with Rimini Street, marking a d",
-      "url": "https://nynewsly.com/autobacs-seven-marks-10-years-of-system-stability-and-self-funded-innovation-with-rimini-street/40535/",
-      "source": "Ny Newsly",
-      "sourceType": "external",
-      "image": "https://nynewsly.com/wp-content/themes/publisher/images/default-thumb/large.png",
-      "publishedAt": "2026-07-29T06:20:12.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://weekendpost.co.bw/wp-content/uploads/2026/07/Bank-Gaborone-Launches-Digital-Self-Onboarding-Platform-Making-Banking-Simpler-and-More-Accessible-1-2.jpg",
+      "publishedAt": "2026-07-30T06:54:11.000Z",
+      "topic": "Security",
       "tags": [
         "AI"
       ],
       "priority": 41
     },
     {
-      "id": "9004209fc64e3f9f",
-      "slug": "zoho-enters-the-erp-race-what-it-could-mean-for-retailers-weighing-their-next-systems-mo-5f2b77",
-      "title": "Zoho enters the ERP race - what it could mean for retailers weighing their next systems move",
-      "dek": "Zoho announced at its Zoholics USA 2026 conference that it's building out an ERP product, one being positioned as a direct challenger to the likes of SAP, Oracle, and NetSuite. Reports around the announcement point to a staged roll-out, with India named as the first market to get access, starting in",
-      "url": "https://retailtechinnovationhub.com/home/zoho-enters-the-erp-race-what-it-could-mean-for-retailers-weighing-their-next-systems-move",
-      "source": "Retail Technology Innovation Hub",
+      "id": "6d0fc18ba06ba2cd",
+      "slug": "satya-nadella-has-a-new-headache-microsoft-s-breakup-with-disney-as-mouse-house-dumps-f5aeed",
+      "title": "Satya Nadella has a new 'headache', Microsoft's 'breakup' with Disney, as Mouse House dumps ...",
+      "dek": "Disney is dropping GitHub Copilot and several AI coding tools in the US. The company will adopt OpenAI's Codex as its coding assistant. Disney is also retaining access to Anthropic's Claude Enterprise and Cursor. Two Amazon tools, Kiro and Q, will also be dropped. Claude will no longer be accessible",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/satya-nadella-has-a-new-headache-microsofts-breakup-with-disney-as-mouse-house-dumps-/articleshow/132727976.cms",
+      "source": "The Times Of India",
       "sourceType": "external",
-      "image": "https://images.squarespace-cdn.com/content/v1/590eeff5b8a79b2147a783be/1784806004090-4ZTQWIUVKJLBSILL31BJ/Store.PNG?format=1500w",
-      "publishedAt": "2026-07-29T05:04:36.000Z",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-132727970/132727970.jpg",
+      "publishedAt": "2026-07-30T05:28:41.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "NetSuite",
-        "Partner"
+        "github copilot",
+        "microsoft",
+        "satya nadella",
+        "disney",
+        "openai codex"
       ],
       "priority": 40
     },
     {
-      "id": "c066d2648f72197f",
-      "slug": "latest-global-ai-in-medical-coding-market-size-share-worth-usd-10-6-billion-by-2035-at-a-daa732",
-      "title": "[Latest] Global AI in Medical Coding Market Size/Share Worth USD 10.6 Billion by 2035 at a 13.5% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
-      "dek": "[220+ Pages Latest Report] According to a market research study published by Healthcare Foresights, the demand analysis of Global AI in Medical Coding Market size & share revenue was valued at approximately USD 3 Billion in 2025 and is expected to reach USD 3.4 Billion in 2026 and is expected to rea",
-      "url": "https://www.globenewswire.com/news-release/2026/07/29/3334955/0/en/Latest-Global-AI-in-Medical-Coding-Market-Size-Share-Worth-USD-10-6-Billion-by-2035-at-a-13-5-CAGR-Healthcare-Foresights-Analysis-Outlook-Leaders-Report-Trends-Forecast-Segmentatio.html",
-      "source": "Globe Newswire",
+      "id": "5a1c9275aaa7cd57",
+      "slug": "top-8-penetration-testing-tools-to-enhance-your-security-in-2026-c06b3b",
+      "title": "Top 8 Penetration Testing Tools to Enhance Your Security in 2026",
+      "dek": "Compare the best penetration testing tools for 2026, including pricing, key features, use cases, and top picks for modern security teams today. The post Top 8 Penetration Testing Tools to Enhance Your Security in 2026 appeared first on TechRepublic .",
+      "url": "https://www.techrepublic.com/article/best-penetration-testing-tools/",
+      "source": "Techrepublic",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-07-29T04:30:00.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://assets.techrepublic.com/uploads/2022/08/vulnerability-scanning-vs-penetration-testing.jpeg?f=jpeg",
+      "publishedAt": "2026-07-30T05:00:17.000Z",
+      "topic": "Security",
       "tags": [
-        "codametrix",
-        "cac",
-        "medical",
-        "coding",
-        "billing",
-        "healthcare"
+        "Security"
       ],
-      "priority": 39
+      "priority": 40
     },
     {
-      "id": "b5108f9103bc77f6",
-      "slug": "autobacs-seven-marks-decade-with-rimini-street-support-717b5a",
-      "title": "AUTOBACS SEVEN marks decade with Rimini Street support",
-      "dek": "The retailer says lower support costs have freed up budget for AI and other projects while keeping its SAP and Oracle systems stable.",
-      "url": "https://cfotech.co.nz/story/autobacs-seven-marks-decade-with-rimini-street-support",
-      "source": "Cfotech New Zealand",
+      "id": "486685c2b94e8e89",
+      "slug": "graph-database-market-size-share-growth-analysis-report-2034-3b6f1e",
+      "title": "Graph Database Market Size, Share, Growth, Analysis, Report, 2034",
+      "dek": "The graph database market size is projected to grow from $4.32 Billion in 2026 to $28.27 Billion by 2034, at a CAGR of 26.46% during the forecast period 2026-2034.",
+      "url": "https://straitsresearch.com/report/graph-database-market",
+      "source": "Straitsresearch",
       "sourceType": "external",
-      "image": "https://cfotech.co.nz/uploads/story/2026/07/29/compatible_nancy-lyskawa.jpg",
-      "publishedAt": "2026-07-29T04:14:00.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://straitsresearch.com/uploads/reports/graph-database-market-229.webp",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "topic": "AI & Database",
       "tags": [
-        "AI"
+        "graph database market research",
+        "graph database market drivers",
+        "graph database market share",
+        "graph database market size",
+        "graph database market trends",
+        "graph database market growth"
       ],
-      "priority": 39
+      "priority": 37
     },
     {
-      "id": "f60847befe80e97b",
-      "slug": "oracle-opera-cloud-welcomes-rest-a-leap-in-smoking-detection-technology-d1bb36",
-      "title": "Oracle OPERA Cloud Welcomes Rest: A Leap in Smoking Detection Technology",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://hospitalitynews.in/featured/oracle-opera-cloud-welcomes-rest-a-leap-in-smoking-detection-technology",
-      "source": "Hospitalitynews",
+      "id": "cabae0ded766326c",
+      "slug": "latam-infrastructure-hit-by-fortinet-and-ivanti-exploits-864a1b",
+      "title": "LATAM Infrastructure Hit by Fortinet and Ivanti Exploits",
+      "dek": "CloudSEK maps Operation Escaneo, a campaign hitting Latin American infrastructure via perimeter bugs",
+      "url": "https://www.infosecurity-magazine.com/news/operation-escaneo-cloudsek-latam/",
+      "source": "Infosecurity Magazine",
       "sourceType": "external",
-      "image": "https://hospitalitynews.in/uploads/images/202402/image_870x580_65c4d0ff1784d.jpg",
-      "publishedAt": "2026-07-29T00:00:00.000Z",
+      "image": "https://assets.infosecurity-magazine.com/webpage/og/291f9095-1f50-453d-b41d-c24aeda272d7.jpg",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [],
       "priority": 37
     },
     {
-      "id": "f859d2dae885929d",
-      "slug": "282-blog-posts-to-learn-about-dotnet-315eb6",
-      "title": "282 Blog Posts To Learn About Dotnet",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/technology/282-blog-posts-to-learn-about-dotnet-FF7EAC37-72F8-4E6D-92E5-61F515E5B42D",
-      "source": "Bundle",
+      "id": "6587faffa109c745",
+      "slug": "ncsc-urges-fortinet-customers-to-tackle-fortibleed-fallout-a625f3",
+      "title": "NCSC Urges Fortinet Customers to Tackle FortiBleed Fallout",
+      "dek": "The NCSC has released guidance for Fortinet customers impacted by the FortiBleed threat campaign",
+      "url": "https://www.infosecurity-magazine.com/news/ncsc-fortinet-customers-tackle/",
+      "source": "Infosecurity Magazine",
       "sourceType": "external",
-      "image": "https://static.bundle.app/news/c8811576-7a0a-5cb0-8659-85c02091975b.jpg",
-      "publishedAt": "2026-07-28T22:31:31.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://assets.infosecurity-magazine.com/webpage/og/2e3a5b75-a977-4283-9da9-f4a562d12b31.jpg",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "topic": "Security",
       "tags": [],
+      "priority": 37
+    },
+    {
+      "id": "4dba2f8e737a6d2e",
+      "slug": "ai-revenue-is-the-biggest-indicator-ltm-ceo-venu-lambu-tells-investors-af3f0b",
+      "title": "'AI Revenue Is The Biggest Indicator': LTM CEO Venu Lambu Tells Investors",
+      "dek": "In conversation with BW Businessworld, LTM CEO says AI revenue will emerge as the defining metric for Indian IT as companies pivot from effort-linked growth to AI-powered business transformation",
+      "url": "https://www.businessworld.in/article/ai-revenue-is-the-biggest-indicator-ltm-ceo-venu-lambu-tells-investors-617216",
+      "source": "Bw Businessworld",
+      "sourceType": "external",
+      "image": "https://static.businessworld.in/venu%20lambu_20260730075657_original_image_37.webp",
+      "publishedAt": "2026-07-30T00:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "ai",
+        "it services",
+        "ai revenue",
+        "ltm ceo",
+        "ltm",
+        "ltm ai revenue"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "f99289dc504bb682",
+      "slug": "marriott-international-elevates-guest-experience-with-oracle-cloud-partnership-a9a610",
+      "title": "Marriott International Elevates Guest Experience with Oracle Cloud Partnership",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://hospitalitynews.in/news/marriott-international-elevates-guest-experience-with-oracle-cloud-partnership",
+      "source": "Hospitalitynews",
+      "sourceType": "external",
+      "image": "https://hospitalitynews.in/uploads/images/202401/image_870x580_65ba3fed4d1f8.jpg",
+      "publishedAt": "2026-07-29T23:30:51.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud"
+      ],
       "priority": 36
     },
     {
-      "id": "35fb6da1468bb8ac",
-      "slug": "earnings-call-transcript-bloom-energy-tops-q2-2026-forecasts-shares-jump-after-hours-b4c01f",
-      "title": "Earnings call transcript: Bloom Energy tops Q2 2026 forecasts, shares jump after hours",
-      "dek": "Earnings call transcript: Bloom Energy tops Q2 2026 forecasts, shares jump after hours",
-      "url": "https://au.investing.com/news/transcripts/earnings-call-transcript-bloom-energy-tops-q2-2026-forecasts-shares-jump-after-hours-93CH-4558105",
-      "source": "Investing Australia",
+      "id": "79aff1bf24eca432",
+      "slug": "tech-fest-2026-showcases-the-future-of-ai-startups-and-innovation-in-silicon-valley-1dcacb",
+      "title": "Tech Fest 2026 Showcases the Future of AI, Startups, and Innovation in Silicon Valley",
+      "dek": "Image: https://www.globalnewslines.com/uploads/2026/07/139262e160a2d1da336de3fde1b17ff7.jpg California - As artificial intelligence reshapes every industry and enterprise adoption accelerates worldwide, Tech Fest 2026 brought together more than 500 founders, investors, and technologists to explore w",
+      "url": "https://www.openpr.com/news/4590818/tech-fest-2026-showcases-the-future-of-ai-startups",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://i-invdn-com.investing.com/news/oracle_2_M_1440048709.jpg",
-      "publishedAt": "2026-07-28T22:16:14.000Z",
+      "image": "https://cdn.open-pr.com/7/3/730298129_k.jpg",
+      "publishedAt": "2026-07-29T23:22:03.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "Earnings"
+        "marketing",
+        "news release",
+        "advertising",
+        "pr strategy",
+        "media release",
+        "presses release"
       ],
       "priority": 36
     },
@@ -2003,6 +1837,153 @@
         "Oracle Database",
         "MySQL",
         "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ff92a6749fa996f7",
+      "slug": "database-essentials-027d69",
+      "title": "Database Essentials",
+      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Hope Fisher, Oracle's Product Manager for Database Technologies, as they break down the basics of databases, explore different database management systems, and delve into database development. Whether you're a newcomer or just need a refresher, ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-essentials",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-23T14:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "f046bd97147c0cf8",
+      "slug": "container-engine-for-kubernetes-security-practices-26ab8f",
+      "title": "Container Engine for Kubernetes: Security Practices",
+      "dek": "In the season's final episode, hosts Lois Houston and Nikita Abraham interview senior OCI instructor Mahendra Mehra about the security practices that are vital for OKE clusters on OCI. Mahendra shares his expert insights on the importance of Kubernetes security, especially in today's digital landsca",
+      "url": "https://oracleuniversitypodcast.libsyn.com/container-engine-for-kubernetes-security-practices",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP7.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-16T14:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "OCI",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "be8b92279cd0831f",
+      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
+      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-09T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "d38db88cd3fd3cc0",
+      "slug": "working-with-oke-virtual-nodes-f5a370",
+      "title": "Working with OKE Virtual Nodes",
+      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-02T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "bd401ec004db1755",
+      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
+      "title": "Introduction to OCI Container Engine for Kubernetes",
+      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-25T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "1d3aa287378f7e71",
+      "slug": "basics-of-kubernetes-23e26c",
+      "title": "Basics of Kubernetes",
+      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
+      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-18T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ec54bf5b81f570ed",
+      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
+      "title": "Oracle Cloud Infrastructure Registry",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-11T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "OCI",
+        "Oracle Cloud Infrastructure"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "6ba1bee89c8a91cc",
+      "slug": "what-is-containerization-0326f4",
+      "title": "What is Containerization?",
+      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-04T14:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "OCI",
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "b45e3d006fc93558",
+      "slug": "encore-episode-oci-ai-services-5e7f50",
+      "title": "Encore Episode: OCI AI Services",
+      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-28T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI",
+        "AI"
       ],
       "priority": 36
     }
