@@ -6,7 +6,7 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 21:38:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 21:34:07 GMT</lastBuildDate>
     
     <item>
       <title>Oracle Sets the Date for its Fourth Quarter Fiscal Year 2026 Earnings Announcement</title>
@@ -36,112 +36,94 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-Second-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>&quot;JIT Compiler From the Ground Up&quot; [AtA]</title>
-      <link>https://oracle-university.com/stories/jit-compiler-from-the-ground-up-ata-57d879/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/jit-compiler-from-the-ground-up-ata-57d879/</guid>
-      <pubDate>Thu, 30 Jul 2026 09:47:00 GMT</pubDate>
-      <category>Java &amp; MySQL</category>
-      <description>While Java programs are deployed as bytecode, performance-relevant code will be compiled, at run time, to machine code whose performance rivals that of any other platform. In the HotSpot JVM, this is the job of the just-in-time compilers C1 and C2 and between speculation and traps, inlining and cons</description>
-      <source url="https://inside.java/2026/07/30/podcast-064">Inside Java</source>
-    </item>
-    <item>
-      <title>Tech Companies Increasingly Targeted as Satellite Images Back Up Latest Claims of Iran Strike on Amazon Data Centers</title>
-      <link>https://oracle-university.com/stories/tech-companies-increasingly-targeted-as-satellite-images-back-up-latest-claims-of-iran-s-980f5f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/tech-companies-increasingly-targeted-as-satellite-images-back-up-latest-claims-of-iran-s-980f5f/</guid>
-      <pubDate>Thu, 30 Jul 2026 08:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>One defense tech company chief is advising civilian commercial entities to coordinate with the military for protection.</description>
-      <source url="https://www.nysun.com/article/tech-companies-increasingly-targeted-as-satellite-images-back-up-latest-claims-of-iran-strike-on-amazon-data-centers">The New York Sun</source>
-    </item>
-    <item>
-      <title>Veeam Data Platform v13.1 Now Available, Helping Organizations Recover Clean and Fast from Cyber Disruption</title>
-      <link>https://oracle-university.com/stories/veeam-data-platform-v13-1-now-available-helping-organizations-recover-clean-and-fast-fro-c07e6d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/veeam-data-platform-v13-1-now-available-helping-organizations-recover-clean-and-fast-fro-c07e6d/</guid>
-      <pubDate>Thu, 30 Jul 2026 06:54:15 GMT</pubDate>
-      <category>Security</category>
-      <description>Advancing Data and AI Trust with expanded platform choice, threat detection before restore, and deeper enterprise application protection to help organizations recover from trusted data across hybrid environments Veeam® Software, the Data and AI Trust Company, announced the general availability of Ve</description>
-      <source url="https://aithority.com/it-and-devops/cloud/veeam-data-platform-v13-1-now-available-helping-organizations-recover-clean-and-fast-from-cyber-disruption/">Aithority</source>
-    </item>
-    <item>
-      <title>AI’s fragile bubble and China’s quiet rise, warns deVere CEO</title>
-      <link>https://oracle-university.com/stories/ai-s-fragile-bubble-and-china-s-quiet-rise-warns-devere-ceo-744ff3/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-s-fragile-bubble-and-china-s-quiet-rise-warns-devere-ceo-744ff3/</guid>
-      <pubDate>Thu, 30 Jul 2026 06:54:11 GMT</pubDate>
-      <category>Security</category>
-      <description>The dazzling allure of artificial intelligence, with its promise of transformative breakthroughs and staggering market valuations, has captivated investors worldwide. Yet beneath the surface of this trillion-dollar spectacle lies a financial web that is increasingly precarious, with risks that exten</description>
-      <source url="https://weekendpost.co.bw/ais-fragile-bubble-and-chinas-quiet-rise-warns-devere-ceo/">Weekend Post</source>
-    </item>
-    <item>
-      <title>Satya Nadella has a new &#39;headache&#39;, Microsoft&#39;s &#39;breakup&#39; with Disney, as Mouse House dumps ...</title>
-      <link>https://oracle-university.com/stories/satya-nadella-has-a-new-headache-microsoft-s-breakup-with-disney-as-mouse-house-dumps-f5aeed/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/satya-nadella-has-a-new-headache-microsoft-s-breakup-with-disney-as-mouse-house-dumps-f5aeed/</guid>
-      <pubDate>Thu, 30 Jul 2026 05:28:41 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Disney is dropping GitHub Copilot and several AI coding tools in the US. The company will adopt OpenAI&#39;s Codex as its coding assistant. Disney is also retaining access to Anthropic&#39;s Claude Enterprise and Cursor. Two Amazon tools, Kiro and Q, will also be dropped. Claude will no longer be accessible</description>
-      <source url="https://timesofindia.indiatimes.com/technology/tech-news/satya-nadella-has-a-new-headache-microsofts-breakup-with-disney-as-mouse-house-dumps-/articleshow/132727976.cms">The Times Of India</source>
-    </item>
-    <item>
-      <title>Top 8 Penetration Testing Tools to Enhance Your Security in 2026</title>
-      <link>https://oracle-university.com/stories/top-8-penetration-testing-tools-to-enhance-your-security-in-2026-c06b3b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-8-penetration-testing-tools-to-enhance-your-security-in-2026-c06b3b/</guid>
-      <pubDate>Thu, 30 Jul 2026 05:00:17 GMT</pubDate>
-      <category>Security</category>
-      <description>Compare the best penetration testing tools for 2026, including pricing, key features, use cases, and top picks for modern security teams today. The post Top 8 Penetration Testing Tools to Enhance Your Security in 2026 appeared first on TechRepublic .</description>
-      <source url="https://www.techrepublic.com/article/best-penetration-testing-tools/">Techrepublic</source>
-    </item>
-    <item>
-      <title>Graph Database Market Size, Share, Growth, Analysis, Report, 2034</title>
-      <link>https://oracle-university.com/stories/graph-database-market-size-share-growth-analysis-report-2034-3b6f1e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/graph-database-market-size-share-growth-analysis-report-2034-3b6f1e/</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>The graph database market size is projected to grow from $4.32 Billion in 2026 to $28.27 Billion by 2034, at a CAGR of 26.46% during the forecast period 2026-2034.</description>
-      <source url="https://straitsresearch.com/report/graph-database-market">Straitsresearch</source>
-    </item>
-    <item>
-      <title>LATAM Infrastructure Hit by Fortinet and Ivanti Exploits</title>
-      <link>https://oracle-university.com/stories/latam-infrastructure-hit-by-fortinet-and-ivanti-exploits-864a1b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/latam-infrastructure-hit-by-fortinet-and-ivanti-exploits-864a1b/</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>CloudSEK maps Operation Escaneo, a campaign hitting Latin American infrastructure via perimeter bugs</description>
-      <source url="https://www.infosecurity-magazine.com/news/operation-escaneo-cloudsek-latam/">Infosecurity Magazine</source>
-    </item>
-    <item>
-      <title>NCSC Urges Fortinet Customers to Tackle FortiBleed Fallout</title>
-      <link>https://oracle-university.com/stories/ncsc-urges-fortinet-customers-to-tackle-fortibleed-fallout-a625f3/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ncsc-urges-fortinet-customers-to-tackle-fortibleed-fallout-a625f3/</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>The NCSC has released guidance for Fortinet customers impacted by the FortiBleed threat campaign</description>
-      <source url="https://www.infosecurity-magazine.com/news/ncsc-fortinet-customers-tackle/">Infosecurity Magazine</source>
-    </item>
-    <item>
-      <title>&#39;AI Revenue Is The Biggest Indicator&#39;: LTM CEO Venu Lambu Tells Investors</title>
-      <link>https://oracle-university.com/stories/ai-revenue-is-the-biggest-indicator-ltm-ceo-venu-lambu-tells-investors-af3f0b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-revenue-is-the-biggest-indicator-ltm-ceo-venu-lambu-tells-investors-af3f0b/</guid>
-      <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
+      <title>AlTi Global Inc. Raises Stock Position in Alphabet Inc. $GOOGL</title>
+      <link>https://oracle-university.com/stories/alti-global-inc-raises-stock-position-in-alphabet-inc-googl-741dc8/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/alti-global-inc-raises-stock-position-in-alphabet-inc-googl-741dc8/</guid>
+      <pubDate>Fri, 31 Jul 2026 08:13:51 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>In conversation with BW Businessworld, LTM CEO says AI revenue will emerge as the defining metric for Indian IT as companies pivot from effort-linked growth to AI-powered business transformation</description>
-      <source url="https://www.businessworld.in/article/ai-revenue-is-the-biggest-indicator-ltm-ceo-venu-lambu-tells-investors-617216">Bw Businessworld</source>
+      <description>AlTi Global Inc. boosted its holdings in shares of Alphabet Inc. (NASDAQ:GOOGL – Free Report) by 2.4% in the first quarter, according to its most recent disclosure with the Securities and Exchange Commission (SEC). The firm owned 256,372 shares of the information services provider’s stock after purc</description>
+      <source url="https://www.defenseworld.net/2026/07/31/alti-global-inc-raises-stock-position-in-alphabet-inc-googl.html">Defenseworld Net</source>
     </item>
     <item>
-      <title>Marriott International Elevates Guest Experience with Oracle Cloud Partnership</title>
-      <link>https://oracle-university.com/stories/marriott-international-elevates-guest-experience-with-oracle-cloud-partnership-a9a610/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/marriott-international-elevates-guest-experience-with-oracle-cloud-partnership-a9a610/</guid>
-      <pubDate>Wed, 29 Jul 2026 23:30:51 GMT</pubDate>
+      <title>Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers</title>
+      <link>https://oracle-university.com/stories/oracle-to-make-gemini-models-available-to-thousands-of-enterprise-applications-customers-0f4054/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-to-make-gemini-models-available-to-thousands-of-enterprise-applications-customers-0f4054/</guid>
+      <pubDate>Fri, 31 Jul 2026 07:47:00 GMT</pubDate>
       <category>Oracle Cloud</category>
-      <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://hospitalitynews.in/news/marriott-international-elevates-guest-experience-with-oracle-cloud-partnership">Hospitalitynews</source>
+      <description>Oracle and Google Cloud have expanded their partnership to bring Google’s Gemini models to Oracle’s extensive portfolio of enterprise applications. The partnership builds on customers’ existing access to Gemini models through Oracle Cloud Infrastructure (OCI) Enterprise AI and is planned to make Gem</description>
+      <source url="https://cxotoday.com/media-coverage/oracle-to-make-gemini-models-available-to-thousands-of-enterprise-applications-customers/">Cxotoday</source>
     </item>
     <item>
-      <title>Tech Fest 2026 Showcases the Future of AI, Startups, and Innovation in Silicon Valley</title>
-      <link>https://oracle-university.com/stories/tech-fest-2026-showcases-the-future-of-ai-startups-and-innovation-in-silicon-valley-1dcacb/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/tech-fest-2026-showcases-the-future-of-ai-startups-and-innovation-in-silicon-valley-1dcacb/</guid>
-      <pubDate>Wed, 29 Jul 2026 23:22:03 GMT</pubDate>
+      <title>Rimini Street Announces Fiscal Second Quarter 2026 Financial and Operating Results</title>
+      <link>https://oracle-university.com/stories/rimini-street-announces-fiscal-second-quarter-2026-financial-and-operating-results-a4280d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/rimini-street-announces-fiscal-second-quarter-2026-financial-and-operating-results-a4280d/</guid>
+      <pubDate>Fri, 31 Jul 2026 06:00:32 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Image: https://www.globalnewslines.com/uploads/2026/07/139262e160a2d1da336de3fde1b17ff7.jpg California - As artificial intelligence reshapes every industry and enterprise adoption accelerates worldwide, Tech Fest 2026 brought together more than 500 founders, investors, and technologists to explore w</description>
-      <source url="https://www.openpr.com/news/4590818/tech-fest-2026-showcases-the-future-of-ai-startups">Openpr.com</source>
+      <description>Business Wire India Second Quarter Financial Highlights Include: Revenue of $111.1 million, up 6.7% year over year Adjusted Revenue of $108.0 million, up 10.0% year over year Remaining Performance Obligations (RPO) of $636.9 million, up 8.0% year over year Adjusted Annualized Recurring Revenue of $4</description>
+      <source url="https://nynewsly.com/rimini-street-announces-fiscal-second-quarter-2026-financial-and-operating-results/40817/">Ny Newsly</source>
+    </item>
+    <item>
+      <title>Oracle Co. Japan (OTCMKTS:OCLCF) Trading Down 1.8% – Here’s Why</title>
+      <link>https://oracle-university.com/stories/oracle-co-japan-otcmkts-oclcf-trading-down-1-8-here-s-why-6efa9c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-co-japan-otcmkts-oclcf-trading-down-1-8-here-s-why-6efa9c/</guid>
+      <pubDate>Fri, 31 Jul 2026 05:01:33 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Oracle Co. Japan (OTCMKTS:OCLCF – Get Free Report) fell 1.8% during trading on Thursday . The stock traded as low as $57.90 and last traded at $57.90. Approximately 610 shares changed hands during trading, a decline of 49% from the average daily volume of 1,200 shares. The stock had previously close</description>
+      <source url="https://www.dailypolitical.com/2026/07/30/oracle-co-japan-otcmktsoclcf-trading-down-1-8-heres-why.html">Daily Political</source>
+    </item>
+    <item>
+      <title>Rimini Street (NASDAQ:RMNI) Posts Earnings Results, Misses Expectations By $0.04 EPS</title>
+      <link>https://oracle-university.com/stories/rimini-street-nasdaq-rmni-posts-earnings-results-misses-expectations-by-0-04-eps-b77a5c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/rimini-street-nasdaq-rmni-posts-earnings-results-misses-expectations-by-0-04-eps-b77a5c/</guid>
+      <pubDate>Fri, 31 Jul 2026 02:26:46 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Rimini Street (NASDAQ:RMNI – Get Free Report) posted its earnings results on Thursday. The company reported $0.03 earnings per share (EPS) for the quarter, missing the consensus estimate of $0.07 by ($0.04), FiscalAI reports. The business had revenue of $108.02 million for the quarter, compared to a</description>
+      <source url="https://www.themarketsdaily.com/2026/07/31/rimini-street-nasdaqrmni-posts-earnings-results-misses-expectations-by-0-04-eps.html">Markets Daily</source>
+    </item>
+    <item>
+      <title>Rimini Street Q2 Earnings Call Highlights</title>
+      <link>https://oracle-university.com/stories/rimini-street-q2-earnings-call-highlights-e8c9e4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/rimini-street-q2-earnings-call-highlights-e8c9e4/</guid>
+      <pubDate>Fri, 31 Jul 2026 01:36:44 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Rimini Street (NASDAQ:RMNI) reported second-quarter revenue growth and reiterated its full-year outlook, citing demand for its core support offerings, expansion of its enterprise software services portfolio and progress in selling AI-focused solutions. Revenue for the quarter ended June 30 was $111.</description>
+      <source url="https://baseballnewssource.com/2026/07/30/rimini-street-q2-earnings-call-highlights/11204418.html">Bbns</source>
+    </item>
+    <item>
+      <title>Rimini Street (NASDAQ:RMNI) Issues Earnings Results, Misses Expectations By $0.04 EPS</title>
+      <link>https://oracle-university.com/stories/rimini-street-nasdaq-rmni-issues-earnings-results-misses-expectations-by-0-04-eps-eaac70/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/rimini-street-nasdaq-rmni-issues-earnings-results-misses-expectations-by-0-04-eps-eaac70/</guid>
+      <pubDate>Fri, 31 Jul 2026 00:56:47 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Rimini Street (NASDAQ:RMNI – Get Free Report) posted its quarterly earnings results on Thursday. The company reported $0.03 earnings per share for the quarter, missing analysts’ consensus estimates of $0.07 by ($0.04), FiscalAI reports. The firm had revenue of $108.02 million for the quarter, compar</description>
+      <source url="https://www.thelincolnianonline.com/2026/07/30/rimini-street-nasdaqrmni-issues-earnings-results-misses-expectations-by-0-04-eps.html">The Lincolnian Online</source>
+    </item>
+    <item>
+      <title>Oracle stock pops despite bleak financial outlook</title>
+      <link>https://oracle-university.com/stories/oracle-stock-pops-despite-bleak-financial-outlook-223ff9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-stock-pops-despite-bleak-financial-outlook-223ff9/</guid>
+      <pubDate>Thu, 30 Jul 2026 23:37:41 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>(KRON) -- Wall Street rewarded Oracle Thursday after announcing it would expand a partnership with Google Cloud. Businesses that use Oracle&#39;s software and computing infrastructure will now have access to Google&#39;s Gemini AI model through its AI Agent Studio. Gemini will also be integrated into Oracle</description>
+      <source url="https://www.kron4.com/news/technology-ai/oracle-stock-pops-despite-bleak-financial-outlook/">Kron4</source>
+    </item>
+    <item>
+      <title>Best Penetration Testing Tools for 2026</title>
+      <link>https://oracle-university.com/stories/best-penetration-testing-tools-for-2026-b36563/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-penetration-testing-tools-for-2026-b36563/</guid>
+      <pubDate>Thu, 30 Jul 2026 22:53:50 GMT</pubDate>
+      <category>Security</category>
+      <description>As technology advances, ensuring the security of computer systems, networks, and applications becomes increasingly critical. One of the ways in which security professionals can assess the security posture of an...</description>
+      <source url="https://www.swapupdate.in/best-penetration-testing-tools-for-2026/">Swapupdate</source>
+    </item>
+    <item>
+      <title>S&amp;P 500, Nasdaq End Best Day In A Month On Support From Microsoft Gains, AI Stocks — ORCL, GOOGL, MSFT, BE, TSLA Stock In Focus</title>
+      <link>https://oracle-university.com/stories/s-p-500-nasdaq-end-best-day-in-a-month-on-support-from-microsoft-gains-ai-stocks-orcl-go-9633b1/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/s-p-500-nasdaq-end-best-day-in-a-month-on-support-from-microsoft-gains-ai-stocks-orcl-go-9633b1/</guid>
+      <pubDate>Thu, 30 Jul 2026 22:40:01 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Microsoft stock records best day since 2008 on strong cloud revenue.</description>
+      <source url="https://newsable.asianetnews.com/markets/s-p-500-nasdaq-end-best-day-in-a-month-on-support-from-microsoft-gains-ai-stocks-orcl-googl-msft-be-tsla-stock-in-focus-articleshow-w8zucle">Asianet Newsable</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -457,6 +439,24 @@
       <category>Oracle Ecosystem</category>
       <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In the second of a two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle A</description>
       <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-of-data-for-ai-when-data-meets-intelligence">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Cloud Data Centers: Core Concepts - Part 1</title>
+      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</guid>
+      <pubDate>Tue, 07 Oct 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Curious about what really goes on inside a cloud data center? In this episode, Lois Houston and Nikita Abraham chat with Principal OCI Instructor Orlando Gentil about how cloud data centers are transforming the way organizations manage technology. They explore the differences between traditional and</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-1">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Oracle AI for Fusion Apps</title>
+      <link>https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</guid>
+      <pubDate>Tue, 23 Sep 2025 11:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Want to make AI work for your business? In today&#39;s episode, Lois Houston and Nikita Abraham continue their discussion of AI in Oracle Fusion Applications by focusing on three key AI capabilities: predictive, generative, and agentic. Joining them is Principal Instructor Yunus Mohammed, who explains h</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-ai-for-fusion-apps">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
