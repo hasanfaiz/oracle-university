@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T21:14:13.891Z",
+  "generatedAt": "2026-08-02T21:14:54.856Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -55,89 +55,79 @@
       "priority": 46
     },
     {
-      "id": "d750816fddd614e1",
-      "slug": "oracle-to-make-gemini-models-available-to-thousands-of-enterprise-applications-customers-4a3089",
-      "title": "Oracle to Make Gemini Models Available to Thousands of Enterprise Applications Customers",
-      "dek": "Oracle and Google Cloud have expanded their partnership to bring Google’s Gemini models to Oracle’s extensive portfolio of enterprise applications. The partnership builds on customers’ existing access to Gemini models through Oracle Cloud Infrastructure (OCI) Enterprise AI and is planned to make Gem",
-      "url": "https://smestreet.in/technology/oracle-to-make-gemini-models-available-to-thousands-of-enterprise-applications-customers-12217690",
-      "source": "Smestreet In",
+      "id": "1170f6abaf81d958",
+      "slug": "alphabet-nasdaq-googl-downgraded-to-hold-rating-by-wall-street-zen-998bf9",
+      "title": "Alphabet (NASDAQ:GOOGL) Downgraded to Hold Rating by Wall Street Zen",
+      "dek": "Wall Street Zen downgraded shares of Alphabet (NASDAQ:GOOGL – Free Report) from a buy rating to a hold rating in a research note published on Saturday morning. GOOGL has been the topic of a number of other reports. Phillip Securities raised Alphabet from a “moderate buy” rating to a “strong-buy” rat",
+      "url": "https://www.tickerreport.com/banking-finance/13526809/alphabet-nasdaqgoogl-downgraded-to-hold-rating-by-wall-street-zen.html",
+      "source": "Ticker Report",
       "sourceType": "external",
-      "image": "https://img-cdn.publive.online/fit-in/1280x960/smstreet/media/media_files/2025/02/10/BFHNdlE8FUD3SeHJxx9i.png",
-      "publishedAt": "2026-08-01T06:25:38.000Z",
-      "topic": "Oracle Cloud",
+      "image": "https://www.marketbeat.com/logos/alphabet-inc-logo.png?v=20260723084701",
+      "publishedAt": "2026-08-02T08:45:02.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "gemini",
-        "enterprise",
-        "oracle"
+        "downgrade",
+        "nasdaq:googl",
+        "alphabet",
+        "googl",
+        "wall street zen",
+        "communication service"
       ],
+      "priority": 43
+    },
+    {
+      "id": "c87cf946f0f61957",
+      "slug": "alphabet-inc-googl-position-increased-by-first-trust-advisors-lp-5d13c0",
+      "title": "Alphabet Inc. $GOOGL Position Increased by First Trust Advisors LP",
+      "dek": "First Trust Advisors LP raised its stake in shares of Alphabet Inc. (NASDAQ:GOOGL – Free Report) by 1.0% during the first quarter, according to its most recent 13F filing with the Securities and Exchange Commission. The institutional investor owned 4,897,499 shares of the information services provid",
+      "url": "https://www.americanbankingnews.com/2026/08/02/alphabet-inc-googl-position-increased-by-first-trust-advisors-lp.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/alphabet-inc-logo-1200x675.png?v=20260723084701",
+      "publishedAt": "2026-08-02T08:13:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "nasdaq:googl",
+        "alphabet",
+        "hedge fund holdings",
+        "googl",
+        "sec filings",
+        "13f"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "3b531e948039cbb7",
+      "slug": "blockchain-stocks-worth-watching-july-31st-e1ecb6",
+      "title": "Blockchain Stocks Worth Watching – July 31st",
+      "dek": "Core Scientific, Nukkleus, Bitdeer Technologies Group, Figure Technology Solutions, Globant, Bit Origin, and Digi Power X are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, use, or sup",
+      "url": "https://www.defenseworld.net/2026/08/02/blockchain-stocks-worth-watching-july-31st.html",
+      "source": "Defenseworld Net",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
+      "publishedAt": "2026-08-02T07:03:46.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
       "priority": 41
     },
     {
-      "id": "954ff26aba697ce7",
-      "slug": "rimini-street-q2-earnings-call-highlights-898c02",
-      "title": "Rimini Street Q2 Earnings Call Highlights",
-      "dek": "Rimini Street (NASDAQ:RMNI) reported second-quarter revenue growth and reiterated its full-year outlook, citing demand for its core support offerings, expansion of its enterprise software services portfolio and progress in selling AI-focused solutions. Revenue for the quarter ended June 30 was $111.",
-      "url": "https://www.watchlistnews.com/rimini-street-q2-earnings-call-highlights/11166205.html",
-      "source": "Watch List News",
+      "id": "8499ff1c55b1220f",
+      "slug": "phoenix-tech-roundup-multiple-high-paying-it-roles-open-now-d85a3a",
+      "title": "💻 Phoenix Tech Roundup: Multiple High-Paying IT Roles Open Now",
+      "dek": "Phoenix tech is buzzing right now – from AI and cloud security to database admin and help desk, there’s something for every skill level. Here are some stan",
+      "url": "https://www.newsbreak.com/phoenix-az-daily-brief-373176511/4804573134937-phoenix-tech-roundup-multiple-high-paying-it-roles-open-now",
+      "source": "Newsbreak",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/rimini-street-inc-logo-1200x675.jpg?v=20240522112008",
-      "publishedAt": "2026-08-01T02:04:59.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "Earnings",
-        "AI"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "b7d6223e22e1d932",
-      "slug": "oracle-adds-api-access-control-to-autonomous-ai-database-1f0561",
-      "title": "Oracle adds API access control to Autonomous AI Database",
-      "dek": "Oracle added API Access Control to Autonomous AI Database on July 30, 2026. The feature mandates approval for sensitive tasks like database restores and deletions.",
-      "url": "https://completeaitraining.com/news/oracle-adds-api-access-control-to-autonomous-ai-database/",
-      "source": "Complete Ai Training",
-      "sourceType": "external",
-      "image": "https://cdn.completeaitraining.com/news_images/oracle-adds-api-access-control-to-autonomous-ai-database_2026-07-31.jpg",
-      "publishedAt": "2026-07-31T23:06:06.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "operations",
-        "ai news"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "686adecf21542dc1",
-      "slug": "it-security-news-weekly-summary-august-823e69",
-      "title": "IT Security News Weekly Summary August",
-      "dek": "210 posts were published in the last hour 21:55 : IT Security News Daily Summary 2026-07-31 21:31 : Friday Squid Blogging: Squid Helps Discover New Marine Species 21:31 : Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire... Read more → The post IT Security News Weekly Summary August ",
-      "url": "https://www.itsecuritynews.info/it-security-news-weekly-summary-august-2/",
-      "source": "It Security News",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-07-31T22:01:26.000Z",
+      "image": "https://img.particlenews.com/img/id/0uqf9w_1DrBwBKw00",
+      "publishedAt": "2026-08-02T00:00:00.000Z",
       "topic": "Security",
       "tags": [
-        "monthly summary"
+        "breaking news",
+        "local news",
+        "phoenix az daily brief",
+        "newsbreak"
       ],
-      "priority": 36
-    },
-    {
-      "id": "ab8f5c0163d40d8f",
-      "slug": "it-security-news-daily-summary-2026-07-31-0c27f3",
-      "title": "IT Security News Daily Summary 2026-07-31",
-      "dek": "210 posts were published in the last hour 21:31 : Friday Squid Blogging: Squid Helps Discover New Marine Species 21:31 : Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet 21:31 : Headteacher had the most guessable... Read more → The post IT Security News Daily Summary 2026-07-3",
-      "url": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-07-31/",
-      "source": "It Security News",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-07-31T21:55:27.000Z",
-      "topic": "Security",
-      "tags": [
-        "2026-07-31",
-        "daily summary"
-      ],
-      "priority": 36
+      "priority": 37
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1967,6 +1957,22 @@
       "topic": "Oracle Cloud",
       "tags": [
         "Oracle Cloud",
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "0bc5f5b9fa209155",
+      "slug": "preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio-23f876",
+      "title": "Preparing to Extend Oracle Fusion Apps Using Visual Builder Studio",
+      "dek": "What do you need to start customizing the next generation of Oracle Fusion Apps? How do you create new pages for business processes? What level of expertise do you require for this? Join Lois Houston and Nikita Abraham as they get answers to all these questions and more from Senior Principal OCI Ins",
+      "url": "https://oracleuniversitypodcast.libsyn.com/preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-03-26T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
         "OCI"
       ],
       "priority": 36
