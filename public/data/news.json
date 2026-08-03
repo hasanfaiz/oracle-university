@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T21:14:54.856Z",
+  "generatedAt": "2026-08-03T21:36:06.753Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -55,79 +55,297 @@
       "priority": 46
     },
     {
-      "id": "1170f6abaf81d958",
-      "slug": "alphabet-nasdaq-googl-downgraded-to-hold-rating-by-wall-street-zen-998bf9",
-      "title": "Alphabet (NASDAQ:GOOGL) Downgraded to Hold Rating by Wall Street Zen",
-      "dek": "Wall Street Zen downgraded shares of Alphabet (NASDAQ:GOOGL – Free Report) from a buy rating to a hold rating in a research note published on Saturday morning. GOOGL has been the topic of a number of other reports. Phillip Securities raised Alphabet from a “moderate buy” rating to a “strong-buy” rat",
-      "url": "https://www.tickerreport.com/banking-finance/13526809/alphabet-nasdaqgoogl-downgraded-to-hold-rating-by-wall-street-zen.html",
-      "source": "Ticker Report",
+      "id": "bb5ab663f074a4c7",
+      "slug": "best-6-real-time-data-pipeline-platforms-for-ai-applications-0b14e1",
+      "title": "Best 6 Real-Time Data Pipeline Platforms for AI Applications",
+      "dek": "Key Takeaways A chatbot that answers from yesterday’s customer data may give the wrong recommendation. A fraud model that waits for batch updates may miss a suspicious pattern. A sales copilot that cannot see the latest CRM change may brief a representative with outdated context. A recommendation en",
+      "url": "https://aitechtrend.com/data-pipeline-platforms/",
+      "source": "Aitechtrend",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/alphabet-inc-logo.png?v=20260723084701",
-      "publishedAt": "2026-08-02T08:45:02.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://aitechtrend.com/wp-content/uploads/2023/04/amild_dashboard_etl_pipeline_flows_for_a_data_science_website_d_f9d55076-4c17-478f-b0ad-9ca70714cc58.png",
+      "publishedAt": "2026-08-03T09:29:44.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "downgrade",
-        "nasdaq:googl",
-        "alphabet",
-        "googl",
-        "wall street zen",
-        "communication service"
+        "data pipeline"
       ],
       "priority": 43
     },
     {
-      "id": "c87cf946f0f61957",
-      "slug": "alphabet-inc-googl-position-increased-by-first-trust-advisors-lp-5d13c0",
-      "title": "Alphabet Inc. $GOOGL Position Increased by First Trust Advisors LP",
-      "dek": "First Trust Advisors LP raised its stake in shares of Alphabet Inc. (NASDAQ:GOOGL – Free Report) by 1.0% during the first quarter, according to its most recent 13F filing with the Securities and Exchange Commission. The institutional investor owned 4,897,499 shares of the information services provid",
-      "url": "https://www.americanbankingnews.com/2026/08/02/alphabet-inc-googl-position-increased-by-first-trust-advisors-lp.html",
-      "source": "Americanbankingnews",
+      "id": "0ced73d53d674a0b",
+      "slug": "active-network-management-market-projected-to-hit-5-26-billion-by-2035-sns-insider-80b669",
+      "title": "Active Network Management Market Projected to Hit $5.26 Billion by 2035 | SNS Insider",
+      "dek": "The U.S. active network management market is expected to reach $1.30 billion by 2035, while Europe is projected to hit $1.43 billion, driven by smart grid investments, renewable energy integration, AI-powered grid optimization, and growing deployment of real-time network management solutions. The U.",
+      "url": "https://www.globenewswire.com/news-release/2026/08/03/3337287/0/en/Active-Network-Management-Market-Projected-to-Hit-5-26-Billion-by-2035-SNS-Insider.html",
+      "source": "Globe Newswire",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-08-03T09:29:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "anm industry",
+        "anm market",
+        "renewable energy integration",
+        "network optimization",
+        "smart grid management",
+        "active network management"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "7e5a59f9d154bd3a",
+      "slug": "monograph-wealth-advisors-llc-grows-stock-position-in-alphabet-inc-googl-004296",
+      "title": "Monograph Wealth Advisors LLC Grows Stock Position in Alphabet Inc. $GOOGL",
+      "dek": "Monograph Wealth Advisors LLC raised its position in Alphabet Inc. (NASDAQ:GOOGL – Free Report) by 43.4% during the 1st quarter, HoldingsChannel.com reports. The institutional investor owned 48,525 shares of the information services provider’s stock after acquiring an additional 14,684 shares during",
+      "url": "https://www.tickerreport.com/banking-finance/13527715/monograph-wealth-advisors-llc-grows-stock-position-in-alphabet-inc-googl.html",
+      "source": "Ticker Report",
       "sourceType": "external",
       "image": "https://www.marketbeat.com/logos/alphabet-inc-logo-1200x675.png?v=20260723084701",
-      "publishedAt": "2026-08-02T08:13:00.000Z",
+      "publishedAt": "2026-08-03T09:17:52.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "nasdaq:googl",
-        "alphabet",
-        "hedge fund holdings",
         "googl",
+        "institutional investor holdings",
+        "hedge fund holdings",
         "sec filings",
-        "13f"
+        "alphabet"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "8c5b70d1f647aae6",
+      "slug": "a-former-oracle-engineer-on-an-h-1b-visa-says-ai-and-tech-layoffs-pushed-him-into-consta-19b60d",
+      "title": "A former Oracle engineer on an H-1B visa says AI and tech layoffs pushed him into constant career-prep mode",
+      "dek": "A former Oracle engineer says AI and layoffs have raised the stakes for H-1B visa holders. Here's how he's adapting.",
+      "url": "https://www.businessinsider.com/former-oracle-software-engineer-visa-how-adapting-ai-tools-layoffs-2026-8",
+      "source": "Business Insider",
+      "sourceType": "external",
+      "image": "https://i.insider.com/6a6cd4e5a62e6e00bc5392ef?width=1200&format=jpeg",
+      "publishedAt": "2026-08-03T09:15:02.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "layoffs",
+        "careers",
+        "immigration"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "3d42ef6e104c49dd",
+      "slug": "as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk-98355b",
+      "title": "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK",
+      "dek": "Use it to debug and review, says Big Red, but don't submit its output",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/03/as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk/5281851",
+      "source": "The Register",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-08-03T09:15:00.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "oracle",
+        "development",
+        "coding agents",
+        "ai and ml"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "ce977d27fef31650",
+      "slug": "warren-buffett-s-successor-greg-abel-started-his-tenure-with-a-bang-by-slashing-berkshir-6bcb5a",
+      "title": "Warren Buffett's Successor, Greg Abel, Started His Tenure With a Bang by Slashing Berkshire's Chevron Stake and Making a Virtual Monopoly the New No. 5 Holding",
+      "dek": "The Oracle of Omaha's understudy cut Berkshire Hathaway's Chevron stake by 35% in favor of a company with a foundational sustainable moat and serious artificial intelligence (AI) ambitions.",
+      "url": "https://www.fool.com/investing/2026/08/03/warren-buffett-successor-abel-sell-cvx-buy-googl/",
+      "source": "Fool",
+      "sourceType": "external",
+      "image": "https://g.foolcdn.com/editorial/images/881734/buffett13-tmf.jpg",
+      "publishedAt": "2026-08-03T09:06:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "12b77f6c244fb21f",
+      "slug": "global-vertical-ai-market-accelerates-as-industry-focused-ai-solutions-move-from-assista-174603",
+      "title": "Global Vertical AI Market Accelerates as Industry-Focused AI Solutions Move from Assistance to Autonomous Execution",
+      "dek": "Businesses across healthcare, finance, legal services, manufacturing, and insurance are increasingly turning to specialized artificial intelligence platforms that can understand industry-specific workflows, regulations, and operational requirements, creating a new wave of enterprise AI adoption. Art",
+      "url": "https://www.openpr.com/news/4593546/global-vertical-ai-market-accelerates-as-industry-focused-ai",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/8/L803391879_k.jpg",
+      "publishedAt": "2026-08-03T09:02:25.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "media release",
+        "presses release",
+        "marketing",
+        "pr marketing",
+        "news release",
+        "publicity"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "4c3648d034390010",
+      "slug": "ai-data-centers-have-become-sitting-ducks-in-the-iran-war-ab72e0",
+      "title": "AI data centers have become sitting ducks in the Iran war",
+      "dek": "Iran’s strategy to counter military might with economic pain has exposed a vulnerability in one of the world’s most vital interests: AI data centers.",
+      "url": "https://www.cnn.com/2026/08/03/business/ai-data-centers-iran-war-oil",
+      "source": "Cnn",
+      "sourceType": "external",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-27t113929z-779550971-rc2jxkalz33p-rtrmadp-3-iran-crisis-daily-lifea.JPG?c=original/w_800",
+      "publishedAt": "2026-08-03T09:00:26.000Z",
+      "topic": "Security",
+      "tags": [
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "6f4f3a5e20127ee4",
+      "slug": "first-national-bank-of-mount-dora-trust-investment-services-increases-position-in-oracle-685e4a",
+      "title": "First National Bank of Mount Dora Trust Investment Services Increases Position in Oracle Corporation $ORCL",
+      "dek": "First National Bank of Mount Dora Trust Investment Services raised its holdings in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 31.1% in the first quarter, according to its most recent Form 13F filing with the SEC. The institutional investor owned 47,844 shares of the enterprise softwar",
+      "url": "https://www.defenseworld.net/2026/08/03/first-national-bank-of-mount-dora-trust-investment-services-increases-position-in-oracle-corporation-orcl.html",
+      "source": "Defenseworld Net",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-08-03T08:17:51.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "13f",
+        "hedge fund holdings",
+        "oracle",
+        "nyse:orcl",
+        "technology",
+        "68389x10"
       ],
       "priority": 42
     },
     {
-      "id": "3b531e948039cbb7",
-      "slug": "blockchain-stocks-worth-watching-july-31st-e1ecb6",
-      "title": "Blockchain Stocks Worth Watching – July 31st",
-      "dek": "Core Scientific, Nukkleus, Bitdeer Technologies Group, Figure Technology Solutions, Globant, Bit Origin, and Digi Power X are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, use, or sup",
-      "url": "https://www.defenseworld.net/2026/08/02/blockchain-stocks-worth-watching-july-31st.html",
-      "source": "Defenseworld Net",
+      "id": "5697e0ec80e5fab4",
+      "slug": "presentation-architecting-ai-systems-for-the-messy-reality-of-enterprises-why-agentic-co-02088c",
+      "title": "Presentation: Architecting AI Systems for the Messy Reality of Enterprises: Why Agentic Compute is the Missing Layer",
+      "dek": "Arun Joseph shares real-world insights on scaling enterprise agentic platforms like Deutsche Telekom’s LMOS. He discusses bridging organizational fault lines, replacing tool sprawl with core platform abstractions, and moving beyond basic chatbots to operational intelligence systems through ephemeral",
+      "url": "https://www.infoq.com/presentations/agentic-compute/",
+      "source": "Information Queue",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
-      "publishedAt": "2026-08-02T07:03:46.000Z",
-      "topic": "Business & Earnings",
-      "tags": [],
-      "priority": 41
+      "image": "https://res.infoq.com/presentations/agentic-compute/en/mediumimage/ArunJoseph-medium-1785311900135.jpeg",
+      "publishedAt": "2026-08-03T08:08:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "ai architecture",
+        "qcon software development conference",
+        "transcripts",
+        "ai",
+        "infoq dev summit munich 2025",
+        "agents"
+      ],
+      "priority": 42
     },
     {
-      "id": "8499ff1c55b1220f",
-      "slug": "phoenix-tech-roundup-multiple-high-paying-it-roles-open-now-d85a3a",
-      "title": "💻 Phoenix Tech Roundup: Multiple High-Paying IT Roles Open Now",
-      "dek": "Phoenix tech is buzzing right now – from AI and cloud security to database admin and help desk, there’s something for every skill level. Here are some stan",
-      "url": "https://www.newsbreak.com/phoenix-az-daily-brief-373176511/4804573134937-phoenix-tech-roundup-multiple-high-paying-it-roles-open-now",
-      "source": "Newsbreak",
+      "id": "7366e779f340b0a2",
+      "slug": "down-48-is-oracle-stock-a-buy-right-now-dbf7bd",
+      "title": "Down 48%, Is Oracle Stock a Buy Right Now?",
+      "dek": "AI spending is ramping up, but this tech stock looks like a good deal.",
+      "url": "https://www.fool.com/investing/2026/08/03/down-48-is-oracle-stock-a-buy-right-now/",
+      "source": "Fool",
       "sourceType": "external",
-      "image": "https://img.particlenews.com/img/id/0uqf9w_1DrBwBKw00",
-      "publishedAt": "2026-08-02T00:00:00.000Z",
+      "image": "https://g.foolcdn.com/editorial/images/881432/investor-trader-chart-graph-stock-point-growth-profit-loss-1200x800-5b2df79.jpg",
+      "publishedAt": "2026-08-03T04:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "AI"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "7771d0402d841f98",
+      "slug": "security-researchers-find-47-zero-days-at-pwn2own-berlin-71acd2",
+      "title": "Security Researchers Find 47 Zero-Days at Pwn2Own Berlin",
+      "dek": "The research community was awarded $1.3m as it found dozens of novel vulnerabilities at Pwn2Own Berlin",
+      "url": "https://www.infosecurity-magazine.com/news/security-researchers-47-zerodays/",
+      "source": "Infosecurity Magazine",
+      "sourceType": "external",
+      "image": "https://assets.infosecurity-magazine.com/webpage/og/99583cba-0f39-4cb8-b019-4b1247c0b64d.jpg",
+      "publishedAt": "2026-08-03T00:00:00.000Z",
       "topic": "Security",
       "tags": [
-        "breaking news",
-        "local news",
-        "phoenix az daily brief",
-        "newsbreak"
+        "Security"
       ],
       "priority": 37
+    },
+    {
+      "id": "963c9a30609c9ed7",
+      "slug": "powerbuilder-developer-9023c0",
+      "title": "PowerBuilder Developer.",
+      "dek": "Empresa: Grupo EGOR Categoria: Informática ( Programação ) Zona: Lisboa Data: 3-8-2026 Descrição: IT House is looking for a PowerBuilder Developer for a client in the software development sector within the automotive industry. Responsibilities Develop, maintain, and optimize applications using ",
+      "url": "https://www.net-empregos.com/15797525/powerbuilder-developer/",
+      "source": "Net Empregos",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-08-03T00:00:00.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "ofertas emprego",
+        "centro emprego",
+        "trabalho",
+        "emprego powerbuilder developer. - grupo egor",
+        "estagio"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "2159e81f4d96fda8",
+      "slug": "barts-health-seeks-high-court-ban-after-oracle-ebs-breach-685055",
+      "title": "Barts Health Seeks High Court Ban After Oracle EBS Breach",
+      "dek": "Barts Health NHS Trust has revealed itself to be the latest victim of Cl0p’s Oracle EBS campaign",
+      "url": "https://www.infosecurity-magazine.com/news/barts-health-high-court-ban-oracle/",
+      "source": "Infosecurity Magazine",
+      "sourceType": "external",
+      "image": "https://assets.infosecurity-magazine.com/webpage/og/0a7dfd60-7198-4187-bcfb-bb8fd1f82b02.jpg",
+      "publishedAt": "2026-08-03T00:00:00.000Z",
+      "topic": "Security",
+      "tags": [],
+      "priority": 37
+    },
+    {
+      "id": "4a27972d933e2888",
+      "slug": "surging-short-interest-in-spacex-stock-sends-strong-signal-to-wall-street-360742",
+      "title": "Surging Short Interest in SpaceX Stock Sends Strong Signal to Wall Street",
+      "dek": "SpaceX's short interest has jumped to $24.6 billion ahead of earnings and a massive share unlock. Here is what it means for investors.",
+      "url": "https://www.inkl.com/news/surging-short-interest-in-spacex-stock-sends-strong-signal-to-wall-street",
+      "source": "Inkl",
+      "sourceType": "external",
+      "image": "https://images.inkl.com/s3/article/lead_image/23659950/Planet%20earth%20with%20flying%20rocket%20by%20Sergey%20Mironov%20via%20Shutterstock.jpg",
+      "publishedAt": "2026-08-03T00:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "breaking news",
+        "world news",
+        "inkl",
+        "news today",
+        "news app",
+        "news headlines"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "97387e5c4dbc139b",
+      "slug": "it-security-news-weekly-summary-31-fa749b",
+      "title": "IT Security News Weekly Summary 31",
+      "dek": "210 posts were published in the last hour 21:55 : IT Security News Daily Summary 2026-08-02 21:1 : CareCloud Breach Exposes Medical and Financial Data of 345,000 19:5 : IT Security News Hourly Summary 2026-08-02 21h : 1 posts 19:1... Read more → The post IT Security News Weekly Summary 31 appeared f",
+      "url": "https://www.itsecuritynews.info/it-security-news-weekly-summary-31-2/",
+      "source": "It Security News",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-08-02T21:58:24.000Z",
+      "topic": "Security",
+      "tags": [
+        "weekly summary"
+      ],
+      "priority": 36
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1780,197 +1998,6 @@
       "sourceType": "podcast",
       "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
       "publishedAt": "2024-06-25T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "1d3aa287378f7e71",
-      "slug": "basics-of-kubernetes-23e26c",
-      "title": "Basics of Kubernetes",
-      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
-      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-18T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ec54bf5b81f570ed",
-      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
-      "title": "Oracle Cloud Infrastructure Registry",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-11T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "OCI",
-        "Oracle Cloud Infrastructure"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "6ba1bee89c8a91cc",
-      "slug": "what-is-containerization-0326f4",
-      "title": "What is Containerization?",
-      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-04T14:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "OCI",
-        "Oracle University"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "b45e3d006fc93558",
-      "slug": "encore-episode-oci-ai-services-5e7f50",
-      "title": "Encore Episode: OCI AI Services",
-      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-28T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI",
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "57fe9154d1531745",
-      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
-      "title": "Encore Episode: Generative AI and Large Language Models",
-      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-14T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "60d141d1ef069450",
-      "slug": "encore-episode-deep-learning-fe981b",
-      "title": "Encore Episode: Deep Learning",
-      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-07T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "311a8fe7e2892283",
-      "slug": "encore-episode-machine-learning-ee26a4",
-      "title": "Encore Episode: Machine Learning",
-      "dek": "Does machine learning feel like too convoluted a topic? Not anymore! Listen to hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Hemant Gahankari, talk about foundational machine learning concepts and dive into how supervised learning, unsupervised learning, and reinf",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-machine-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-30T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "4589098868999fde",
-      "slug": "encore-episode-introduction-to-artificial-intelligence-ai-9e755a",
-      "title": "Encore Episode: Introduction to Artificial Intelligence (AI)",
-      "dek": "You probably interact with artificial intelligence (AI) more than you realize. So, there's never been a better time to start figuring out how it all works. Join Lois Houston and Nikita Abraham as they decode the fundamentals of AI so that anyone, irrespective of their technical background, can lever",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-introduction-to-artificial-intelligence-ai",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-23T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ba70f7a05b875a4b",
-      "slug": "using-ords-to-make-your-adb-data-available-in-vbs-061acb",
-      "title": "Using ORDS to Make Your ADB Data Available in VBS",
-      "dek": "Visual Builder Studio requires its data sources to connect to the webpage it produces using REST calls. Therefore, the data source has to provide a REST interface. A simple, easy, secure, and free way to do that is with Oracle REST Data Services (ORDS). In this episode, hosts Lois Houston and Nikita",
-      "url": "https://oracleuniversitypodcast.libsyn.com/using-ords-to-make-your-adb-data-available-in-vbs",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-16T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "967d33e1489de57e",
-      "slug": "forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today-f03edc",
-      "title": "Forgotten, But Not Gone: How Model-Based Development Is Still Alive and Well Today",
-      "dek": "Computer Aided Software Engineering (CASE) tools, which helped make the analysis, design, and implementation phases of software development better, faster, and cheaper, fell out of favor in the mid-'90s. Yet much of what they have to offer remains and is in active use within different Oracle tools. ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/-forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-09T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "513c87bee83d2547",
-      "slug": "developing-redwood-applications-86e984",
-      "title": "Developing Redwood Applications",
-      "dek": "Redwood is a state-of-the-art graphical interface that defines the look and feel of the new Oracle Cloud Redwood Applications. In this episode, hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Joe Greenwald, take a closer look at the intent behind the design and deve",
-      "url": "https://oracleuniversitypodcast.libsyn.com/developing-redwood-applications",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-02T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "0bc5f5b9fa209155",
-      "slug": "preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio-23f876",
-      "title": "Preparing to Extend Oracle Fusion Apps Using Visual Builder Studio",
-      "dek": "What do you need to start customizing the next generation of Oracle Fusion Apps? How do you create new pages for business processes? What level of expertise do you require for this? Join Lois Houston and Nikita Abraham as they get answers to all these questions and more from Senior Principal OCI Ins",
-      "url": "https://oracleuniversitypodcast.libsyn.com/preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-03-26T14:00:00.000Z",
       "topic": "Oracle Cloud",
       "tags": [
         "OCI"
