@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T21:36:06.753Z",
+  "generatedAt": "2026-08-04T21:44:38.851Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -55,296 +55,273 @@
       "priority": 46
     },
     {
-      "id": "bb5ab663f074a4c7",
-      "slug": "best-6-real-time-data-pipeline-platforms-for-ai-applications-0b14e1",
-      "title": "Best 6 Real-Time Data Pipeline Platforms for AI Applications",
-      "dek": "Key Takeaways A chatbot that answers from yesterday’s customer data may give the wrong recommendation. A fraud model that waits for batch updates may miss a suspicious pattern. A sales copilot that cannot see the latest CRM change may brief a representative with outdated context. A recommendation en",
-      "url": "https://aitechtrend.com/data-pipeline-platforms/",
-      "source": "Aitechtrend",
+      "id": "8863c067b3109be2",
+      "slug": "what-bubble-amazon-enters-3-trillion-market-cap-club-ceo-highlights-striking-ai-demand-243776",
+      "title": "What bubble? Amazon enters $3 trillion market cap club, CEO highlights striking AI demand",
+      "dek": "Amazon shares reached a new high, briefly surpassing $3 trillion in market value. This surge followed a strong earnings report and increased investor confidence in artificial intelligence. The company's cloud services showed significant growth, exceeding expectations and boosting its valuation. Amaz",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/us-markets-academy/what-bubble-amazon-enters-3-trillion-market-cap-club-ceo-highlights-striking-ai-demand/articleshow/132854970.cms",
+      "source": "The Economic Times",
       "sourceType": "external",
-      "image": "https://aitechtrend.com/wp-content/uploads/2023/04/amild_dashboard_etl_pipeline_flows_for_a_data_science_website_d_f9d55076-4c17-478f-b0ad-9ca70714cc58.png",
-      "publishedAt": "2026-08-03T09:29:44.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://img.etimg.com/thumb/msid-132855021,resizemode-4,width-1200,height-900,imgsize-47996,overlay-etmarkets/articleshow.jpg",
+      "publishedAt": "2026-08-04T09:26:46.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "data pipeline"
+        "nvidia",
+        "amazon shares",
+        "apple",
+        "alphabet",
+        "microsoft",
+        "ai stocks"
       ],
       "priority": 43
     },
     {
-      "id": "0ced73d53d674a0b",
-      "slug": "active-network-management-market-projected-to-hit-5-26-billion-by-2035-sns-insider-80b669",
-      "title": "Active Network Management Market Projected to Hit $5.26 Billion by 2035 | SNS Insider",
-      "dek": "The U.S. active network management market is expected to reach $1.30 billion by 2035, while Europe is projected to hit $1.43 billion, driven by smart grid investments, renewable energy integration, AI-powered grid optimization, and growing deployment of real-time network management solutions. The U.",
-      "url": "https://www.globenewswire.com/news-release/2026/08/03/3337287/0/en/Active-Network-Management-Market-Projected-to-Hit-5-26-Billion-by-2035-SNS-Insider.html",
+      "id": "f4e2ae81467f1200",
+      "slug": "iran-has-found-a-new-pressure-point-against-us-and-it-s-not-oil-or-missiles-the-sitting--8274c8",
+      "title": "Iran has found a new pressure point against US, and it's not oil or missiles: The sitting ducks now under attack",
+      "dek": "Iran is increasingly targeting AI data centres across the Gulf, turning critical technology infrastructure into a new battlefield in its confrontation with the US.",
+      "url": "https://www.moneycontrol.com/world/iran-has-found-a-new-pressure-point-against-us-and-it-s-not-oil-or-missiles-the-sitting-ducks-now-under-attack-article-13993734.html",
+      "source": "Moneycontrol",
+      "sourceType": "external",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260804091942_Trump-Iran-New-7.jpg",
+      "publishedAt": "2026-08-04T09:20:41.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "us-iran talks",
+        "iran war",
+        "iran war news",
+        "trump latest news",
+        "donald trump"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "04a4e1db10ae263e",
+      "slug": "amazon-enters-3-trillion-club-as-ai-cloud-growth-power-rally-a0a851",
+      "title": "Amazon Enters $3 Trillion Club as AI, Cloud Growth Power Rally",
+      "dek": "Amazon Web Services has benefited from expanding its partnerships, including cloud infrastructure and chip supply deals with OpenAI, Anthropic and Meta, among others",
+      "url": "https://www.deccanchronicle.com/technology/amazon-enters-3-trillion-club-as-ai-cloud-growth-power-rally-1976481",
+      "source": "Andhrabhoomi",
+      "sourceType": "external",
+      "image": "https://www.deccanchronicle.com/h-upload/2026/08/04/2072315-ama.webp",
+      "publishedAt": "2026-08-04T09:12:10.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "tamilaga vetri kazhagam",
+        "companies",
+        "technology",
+        "artificial intelligence",
+        "amazon",
+        "business"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "29774eb01cb6b2c8",
+      "slug": "enterprise-software-market-security-takes-center-stage-1bc5f8",
+      "title": "Enterprise Software Market: Security Takes Center Stage",
+      "dek": "Every large organization today runs on software it didn’t build itself — the ERP system tracking finances, the CRM managing customer relationships, the business intelligence [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/08/04/1765833",
+      "source": "Express-press-release",
+      "sourceType": "external",
+      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
+      "publishedAt": "2026-08-04T08:58:37.000Z",
+      "topic": "Security",
+      "tags": [
+        "internet & online"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "548aaf5fb4081f9b",
+      "slug": "ai-inference-infrastructure-market-size-to-surpass-229-95-billion-by-2035-sns-insider-a06956",
+      "title": "AI Inference Infrastructure Market Size to Surpass $229.95 Billion by 2035 | SNS Insider",
+      "dek": "The U.S. AI Inference Infrastructure Market is Expected to Reach $157.83 Billion by 2035, While Europe is Projected to Hit $51.93 Billion, Driven by Hyperscale Data Center Expansion, AI Accelerators, GPU Adoption, and Growing Enterprise Demand for High-Performance AI Inference Infrastructure The U.S",
+      "url": "https://www.globenewswire.com/news-release/2026/08/04/3338073/0/en/AI-Inference-Infrastructure-Market-Size-to-Surpass-229-95-Billion-by-2035-SNS-Insider.html",
       "source": "Globe Newswire",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-08-03T09:29:00.000Z",
-      "topic": "Oracle Ecosystem",
+      "publishedAt": "2026-08-04T08:58:00.000Z",
+      "topic": "Oracle Cloud",
       "tags": [
-        "anm industry",
-        "anm market",
-        "renewable energy integration",
-        "network optimization",
-        "smart grid management",
-        "active network management"
+        "market research reports",
+        "research analysis and reports",
+        "press releases"
       ],
       "priority": 43
     },
     {
-      "id": "7e5a59f9d154bd3a",
-      "slug": "monograph-wealth-advisors-llc-grows-stock-position-in-alphabet-inc-googl-004296",
-      "title": "Monograph Wealth Advisors LLC Grows Stock Position in Alphabet Inc. $GOOGL",
-      "dek": "Monograph Wealth Advisors LLC raised its position in Alphabet Inc. (NASDAQ:GOOGL – Free Report) by 43.4% during the 1st quarter, HoldingsChannel.com reports. The institutional investor owned 48,525 shares of the information services provider’s stock after acquiring an additional 14,684 shares during",
-      "url": "https://www.tickerreport.com/banking-finance/13527715/monograph-wealth-advisors-llc-grows-stock-position-in-alphabet-inc-googl.html",
-      "source": "Ticker Report",
+      "id": "a487ea1f8485c737",
+      "slug": "endava-nyse-dava-and-sify-technologies-nasdaq-sify-head-to-head-contrast-5e0da8",
+      "title": "Endava (NYSE:DAVA) and Sify Technologies (NASDAQ:SIFY) Head to Head Contrast",
+      "dek": "Endava (NYSE:DAVA – Get Free Report) and Sify Technologies (NASDAQ:SIFY – Get Free Report) are both small-cap technology companies, but which is the better business? We will compare the two companies based on the strength of their profitability, valuation, dividends, earnings, analyst recommendation",
+      "url": "https://www.americanbankingnews.com/2026/08/04/endava-nysedava-and-sify-technologies-nasdaqsify-head-to-head-contrast.html",
+      "source": "Americanbankingnews",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/alphabet-inc-logo-1200x675.png?v=20260723084701",
-      "publishedAt": "2026-08-03T09:17:52.000Z",
+      "image": "https://www.marketbeat.com/logos/sify-technologies-limited-logo-1200x675.png",
+      "publishedAt": "2026-08-04T08:15:02.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "nasdaq:googl",
-        "googl",
-        "institutional investor holdings",
-        "hedge fund holdings",
-        "sec filings",
-        "alphabet"
+        "market news",
+        "comparison articles"
       ],
-      "priority": 43
+      "priority": 42
     },
     {
-      "id": "8c5b70d1f647aae6",
-      "slug": "a-former-oracle-engineer-on-an-h-1b-visa-says-ai-and-tech-layoffs-pushed-him-into-consta-19b60d",
-      "title": "A former Oracle engineer on an H-1B visa says AI and tech layoffs pushed him into constant career-prep mode",
-      "dek": "A former Oracle engineer says AI and layoffs have raised the stakes for H-1B visa holders. Here's how he's adapting.",
-      "url": "https://www.businessinsider.com/former-oracle-software-engineer-visa-how-adapting-ai-tools-layoffs-2026-8",
-      "source": "Business Insider",
+      "id": "dc528ce6c358a94c",
+      "slug": "expert-computer-science-assignment-help-for-coding-databases-and-ai-c4e503",
+      "title": "Expert Computer Science Assignment Help for Coding, Databases, and AI",
+      "dek": "Computer science is one of the fastest-growing academic disciplines, offering students opportunities to build careers in software development, cybersecurity, artificial intelligence, cloud computing, ...",
+      "url": "https://www.elephantjournal.com/2026/08/expert-computer-science-assignment-help-for-coding-databases-and-ai/",
+      "source": "Elephant Journal",
       "sourceType": "external",
-      "image": "https://i.insider.com/6a6cd4e5a62e6e00bc5392ef?width=1200&format=jpeg",
-      "publishedAt": "2026-08-03T09:15:02.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "layoffs",
-        "careers",
-        "immigration"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "3d42ef6e104c49dd",
-      "slug": "as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk-98355b",
-      "title": "As Larry Ellison bets the farm, Oracle says it loves AI-written code, just not in OpenJDK",
-      "dek": "Use it to debug and review, says Big Red, but don't submit its output",
-      "url": "https://www.theregister.com/ai-and-ml/2026/08/03/as-larry-ellison-bets-the-farm-oracle-says-it-loves-ai-written-code-just-not-in-openjdk/5281851",
-      "source": "The Register",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-08-03T09:15:00.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "oracle",
-        "development",
-        "coding agents",
-        "ai and ml"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "ce977d27fef31650",
-      "slug": "warren-buffett-s-successor-greg-abel-started-his-tenure-with-a-bang-by-slashing-berkshir-6bcb5a",
-      "title": "Warren Buffett's Successor, Greg Abel, Started His Tenure With a Bang by Slashing Berkshire's Chevron Stake and Making a Virtual Monopoly the New No. 5 Holding",
-      "dek": "The Oracle of Omaha's understudy cut Berkshire Hathaway's Chevron stake by 35% in favor of a company with a foundational sustainable moat and serious artificial intelligence (AI) ambitions.",
-      "url": "https://www.fool.com/investing/2026/08/03/warren-buffett-successor-abel-sell-cvx-buy-googl/",
-      "source": "Fool",
-      "sourceType": "external",
-      "image": "https://g.foolcdn.com/editorial/images/881734/buffett13-tmf.jpg",
-      "publishedAt": "2026-08-03T09:06:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "12b77f6c244fb21f",
-      "slug": "global-vertical-ai-market-accelerates-as-industry-focused-ai-solutions-move-from-assista-174603",
-      "title": "Global Vertical AI Market Accelerates as Industry-Focused AI Solutions Move from Assistance to Autonomous Execution",
-      "dek": "Businesses across healthcare, finance, legal services, manufacturing, and insurance are increasingly turning to specialized artificial intelligence platforms that can understand industry-specific workflows, regulations, and operational requirements, creating a new wave of enterprise AI adoption. Art",
-      "url": "https://www.openpr.com/news/4593546/global-vertical-ai-market-accelerates-as-industry-focused-ai",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/8/L803391879_k.jpg",
-      "publishedAt": "2026-08-03T09:02:25.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "media release",
-        "presses release",
-        "marketing",
-        "pr marketing",
-        "news release",
-        "publicity"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "4c3648d034390010",
-      "slug": "ai-data-centers-have-become-sitting-ducks-in-the-iran-war-ab72e0",
-      "title": "AI data centers have become sitting ducks in the Iran war",
-      "dek": "Iran’s strategy to counter military might with economic pain has exposed a vulnerability in one of the world’s most vital interests: AI data centers.",
-      "url": "https://www.cnn.com/2026/08/03/business/ai-data-centers-iran-war-oil",
-      "source": "Cnn",
-      "sourceType": "external",
-      "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-27t113929z-779550971-rc2jxkalz33p-rtrmadp-3-iran-crisis-daily-lifea.JPG?c=original/w_800",
-      "publishedAt": "2026-08-03T09:00:26.000Z",
+      "image": "https://img.elephantjournal.com/wp-content/uploads/2026/08/pexels-rdne-7606009-scaled.jpg",
+      "publishedAt": "2026-08-04T07:14:01.000Z",
       "topic": "Security",
       "tags": [
         "AI"
       ],
-      "priority": 43
+      "priority": 41
     },
     {
-      "id": "6f4f3a5e20127ee4",
-      "slug": "first-national-bank-of-mount-dora-trust-investment-services-increases-position-in-oracle-685e4a",
-      "title": "First National Bank of Mount Dora Trust Investment Services Increases Position in Oracle Corporation $ORCL",
-      "dek": "First National Bank of Mount Dora Trust Investment Services raised its holdings in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 31.1% in the first quarter, according to its most recent Form 13F filing with the SEC. The institutional investor owned 47,844 shares of the enterprise softwar",
-      "url": "https://www.defenseworld.net/2026/08/03/first-national-bank-of-mount-dora-trust-investment-services-increases-position-in-oracle-corporation-orcl.html",
-      "source": "Defenseworld Net",
+      "id": "2d4504fb4b327ff3",
+      "slug": "factory-automation-market-analysis-by-robotics-plc-scada-ai-industry-4-0-solutions-in-un-5959c4",
+      "title": "Factory Automation Market Analysis by Robotics, PLC, SCADA, AI & Industry 4.0 Solutions in United States Expansion",
+      "dek": "Factory Automation Market will reach US$ 171,235 million in 2026, up from US$ 157,530 million in 2025, and is projected to reach US$ 325,219 million by 2035, registering strong growth at a CAGR of 8.7% during the forecast period from",
+      "url": "https://www.openpr.com/news/4594526/factory-automation-market-analysis-by-robotics-plc-scada-ai",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-08-03T08:17:51.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://cdn.open-pr.com/L/8/L804920352_k.jpg",
+      "publishedAt": "2026-08-04T05:03:59.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "13f",
-        "hedge fund holdings",
-        "oracle",
-        "nyse:orcl",
-        "technology",
-        "68389x10"
+        "pr marketing",
+        "news release",
+        "publicity",
+        "marketing",
+        "pr service",
+        "pressreleases"
       ],
-      "priority": 42
+      "priority": 40
     },
     {
-      "id": "5697e0ec80e5fab4",
-      "slug": "presentation-architecting-ai-systems-for-the-messy-reality-of-enterprises-why-agentic-co-02088c",
-      "title": "Presentation: Architecting AI Systems for the Messy Reality of Enterprises: Why Agentic Compute is the Missing Layer",
-      "dek": "Arun Joseph shares real-world insights on scaling enterprise agentic platforms like Deutsche Telekom’s LMOS. He discusses bridging organizational fault lines, replacing tool sprawl with core platform abstractions, and moving beyond basic chatbots to operational intelligence systems through ephemeral",
-      "url": "https://www.infoq.com/presentations/agentic-compute/",
-      "source": "Information Queue",
+      "id": "3c3dd259b2e5ad28",
+      "slug": "the-missing-discipline-in-healthcare-modernization-5a0f74",
+      "title": "The Missing Discipline in Healthcare Modernization",
+      "dek": "Modernization in healthcare is usually measured by what gets implemented next: an ERP platform replaced, EHR systems consolidated, a database moved to the cloud. But a successful go-live does not equal successful modernization. The full value of a new investment is only captured when the legacy syst",
+      "url": "https://hitconsultant.net/2026/08/04/missing-discipline-healthcare-modernization/",
+      "source": "Hit Consultant",
       "sourceType": "external",
-      "image": "https://res.infoq.com/presentations/agentic-compute/en/mediumimage/ArunJoseph-medium-1785311900135.jpeg",
-      "publishedAt": "2026-08-03T08:08:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "ai architecture",
-        "qcon software development conference",
-        "transcripts",
-        "ai",
-        "infoq dev summit munich 2025",
-        "agents"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "7366e779f340b0a2",
-      "slug": "down-48-is-oracle-stock-a-buy-right-now-dbf7bd",
-      "title": "Down 48%, Is Oracle Stock a Buy Right Now?",
-      "dek": "AI spending is ramping up, but this tech stock looks like a good deal.",
-      "url": "https://www.fool.com/investing/2026/08/03/down-48-is-oracle-stock-a-buy-right-now/",
-      "source": "Fool",
-      "sourceType": "external",
-      "image": "https://g.foolcdn.com/editorial/images/881432/investor-trader-chart-graph-stock-point-growth-profit-loss-1200x800-5b2df79.jpg",
-      "publishedAt": "2026-08-03T04:00:00.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "AI"
-      ],
+      "image": "https://hitconsultant.net/wp-content/uploads/2026/08/Jonathan-Cook.jpg",
+      "publishedAt": "2026-08-04T04:56:00.000Z",
+      "topic": "AI & Database",
+      "tags": [],
       "priority": 39
     },
     {
-      "id": "7771d0402d841f98",
-      "slug": "security-researchers-find-47-zero-days-at-pwn2own-berlin-71acd2",
-      "title": "Security Researchers Find 47 Zero-Days at Pwn2Own Berlin",
-      "dek": "The research community was awarded $1.3m as it found dozens of novel vulnerabilities at Pwn2Own Berlin",
-      "url": "https://www.infosecurity-magazine.com/news/security-researchers-47-zerodays/",
-      "source": "Infosecurity Magazine",
+      "id": "9b3dab53fb3249d1",
+      "slug": "minor-hotels-accelerates-global-digital-transformation-with-oracle-cloud-aap-2a6fac",
+      "title": "Minor Hotels Accelerates Global Digital Transformation with Oracle Cloud | AAP",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://aap.com.au/aapreleases/cision20260803ae17753/",
+      "source": "Australian Associated Press",
       "sourceType": "external",
-      "image": "https://assets.infosecurity-magazine.com/webpage/og/99583cba-0f39-4cb8-b019-4b1247c0b64d.jpg",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "topic": "Security",
+      "image": "",
+      "publishedAt": "2026-08-04T01:30:04.000Z",
+      "topic": "Oracle Cloud",
       "tags": [
-        "Security"
+        "Oracle Cloud"
       ],
       "priority": 37
     },
     {
-      "id": "963c9a30609c9ed7",
-      "slug": "powerbuilder-developer-9023c0",
-      "title": "PowerBuilder Developer.",
-      "dek": "Empresa: Grupo EGOR Categoria: Informática ( Programação ) Zona: Lisboa Data: 3-8-2026 Descrição: IT House is looking for a PowerBuilder Developer for a client in the software development sector within the automotive industry. Responsibilities Develop, maintain, and optimize applications using ",
-      "url": "https://www.net-empregos.com/15797525/powerbuilder-developer/",
+      "id": "18ce8237ecbc8dc4",
+      "slug": "minor-hotels-accelerates-global-digital-transformation-with-oracle-cloud-216e35",
+      "title": "Minor Hotels Accelerates Global Digital Transformation with Oracle Cloud",
+      "dek": "Oracle OPERA Cloud enables Bangkok-based chain to centralize operations, speed up hotel openings, and deliver more connected guest experiences across its portfolio AUSTIN, Texas and BANGKOK, Aug. 4, 2026 /PRNewswire/ -- Minor Hotels has successfully rolled out Oracle OPERA Cloud across 106 of its h.",
+      "url": "https://www.itbiznews.com/news/articleView.html?idxno=220867",
+      "source": "It비즈뉴스",
+      "sourceType": "external",
+      "image": "https://cdn.itbiznews.com/news/photo/202608/220867_223698_1505.jpg",
+      "publishedAt": "2026-08-04T01:26:30.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "df63030d78b637b7",
+      "slug": "database-administrator-0c0b7a",
+      "title": "Database Administrator",
+      "dek": "Empresa: Kwan Categoria: Informática ( Programação ) Zona: Lisboa Data: 4-8-2026 Descrição: We are looking for a Database Administrator who's eager to embark on an exciting new opportunity! 💪 Apply here https://form.typeform.com/to/PYqxT8NO?opportunity=Filipa%20Almeida&channel=NetEmpregos Abou",
+      "url": "https://www.net-empregos.com/15808600/database-administrator/",
       "source": "Net Empregos",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "topic": "Java & MySQL",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "topic": "AI & Database",
       "tags": [
-        "ofertas emprego",
-        "centro emprego",
+        "emprego database administrator - kwan",
         "trabalho",
-        "emprego powerbuilder developer. - grupo egor",
-        "estagio"
+        "estagio",
+        "ofertas emprego",
+        "centro emprego"
       ],
-      "priority": 37
+      "priority": 36
     },
     {
-      "id": "2159e81f4d96fda8",
-      "slug": "barts-health-seeks-high-court-ban-after-oracle-ebs-breach-685055",
-      "title": "Barts Health Seeks High Court Ban After Oracle EBS Breach",
-      "dek": "Barts Health NHS Trust has revealed itself to be the latest victim of Cl0p’s Oracle EBS campaign",
-      "url": "https://www.infosecurity-magazine.com/news/barts-health-high-court-ban-oracle/",
-      "source": "Infosecurity Magazine",
+      "id": "21b03d63df3694eb",
+      "slug": "catalyst-introduces-caia-an-enterprise-ai-agent-for-netsuite-2cae64",
+      "title": "Catalyst Introduces CAIA, an Enterprise AI Agent for NetSuite",
+      "dek": "CAIA brings natural-language business intelligence, automation and business reasoning directly into the NetSuite interface.",
+      "url": "https://www.einpresswire.com/article/931711795/catalyst-introduces-caia-an-enterprise-ai-agent-for-netsuite",
+      "source": "Ein Presswire",
       "sourceType": "external",
-      "image": "https://assets.infosecurity-magazine.com/webpage/og/0a7dfd60-7198-4187-bcfb-bb8fd1f82b02.jpg",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "topic": "Security",
-      "tags": [],
-      "priority": 37
+      "image": "https://img.einnews.com/ampsize/1164654/caia-launch-banner.jpeg",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "canada",
+        "united states",
+        "companies",
+        "worldnews",
+        "it industry",
+        "technology"
+      ],
+      "priority": 36
     },
     {
-      "id": "4a27972d933e2888",
-      "slug": "surging-short-interest-in-spacex-stock-sends-strong-signal-to-wall-street-360742",
-      "title": "Surging Short Interest in SpaceX Stock Sends Strong Signal to Wall Street",
-      "dek": "SpaceX's short interest has jumped to $24.6 billion ahead of earnings and a massive share unlock. Here is what it means for investors.",
-      "url": "https://www.inkl.com/news/surging-short-interest-in-spacex-stock-sends-strong-signal-to-wall-street",
-      "source": "Inkl",
+      "id": "10d19edb46b35c7b",
+      "slug": "minneapolis-it-roles-with-multiple-high-paying-openings-ffeeec",
+      "title": "💻 Minneapolis IT Roles with Multiple High-Paying Openings",
+      "dek": "Minneapolis is hot right now for tech pros, from junior AI roles up to six-figure leadership gigs. Lots of hybrid options and several healthcare and fintec",
+      "url": "https://www.newsbreak.com/minneapolis-mn-daily-brief-373352266/4808129869536-minneapolis-it-roles-with-multiple-high-paying-openings",
+      "source": "Newsbreak",
       "sourceType": "external",
-      "image": "https://images.inkl.com/s3/article/lead_image/23659950/Planet%20earth%20with%20flying%20rocket%20by%20Sergey%20Mironov%20via%20Shutterstock.jpg",
-      "publishedAt": "2026-08-03T00:00:00.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://img.particlenews.com/img/id/0uqf9w_1DumiRzg00",
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
         "breaking news",
-        "world news",
-        "inkl",
-        "news today",
-        "news app",
-        "news headlines"
+        "minneapolis mn daily brief",
+        "local news",
+        "newsbreak"
       ],
-      "priority": 37
+      "priority": 36
     },
     {
-      "id": "97387e5c4dbc139b",
-      "slug": "it-security-news-weekly-summary-31-fa749b",
-      "title": "IT Security News Weekly Summary 31",
-      "dek": "210 posts were published in the last hour 21:55 : IT Security News Daily Summary 2026-08-02 21:1 : CareCloud Breach Exposes Medical and Financial Data of 345,000 19:5 : IT Security News Hourly Summary 2026-08-02 21h : 1 posts 19:1... Read more → The post IT Security News Weekly Summary 31 appeared f",
-      "url": "https://www.itsecuritynews.info/it-security-news-weekly-summary-31-2/",
-      "source": "It Security News",
+      "id": "9c8f39851783569c",
+      "slug": "ethereum-gains-institutional-momentum-as-bitmine-expands-holdings-and-etf-inflows-resume-38438f",
+      "title": "Ethereum Gains Institutional Momentum As BitMine Expands Holdings And ETF Inflows Resume",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/finance/ethereum-gains-institutional-momentum-as-bitmine-expands-holdings-and-etf-inflows-resume-783127D4-6B43-402C-89A8-838FD61B314F",
+      "source": "Bundle",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-08-02T21:58:24.000Z",
-      "topic": "Security",
-      "tags": [
-        "weekly summary"
-      ],
+      "image": "https://static.bundle.app/news/5e40c0b0-34b9-5fa8-81c6-5f5c2cea5af8.jpg",
+      "publishedAt": "2026-08-03T22:15:52.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
       "priority": 36
     },
     {
@@ -1998,6 +1975,22 @@
       "sourceType": "podcast",
       "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
       "publishedAt": "2024-06-25T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "1d3aa287378f7e71",
+      "slug": "basics-of-kubernetes-23e26c",
+      "title": "Basics of Kubernetes",
+      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
+      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-18T14:00:00.000Z",
       "topic": "Oracle Cloud",
       "tags": [
         "OCI"
