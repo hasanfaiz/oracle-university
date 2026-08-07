@@ -1,11 +1,28 @@
 {
-  "generatedAt": "2026-08-05T21:39:57.365Z",
+  "generatedAt": "2026-08-07T00:56:19.153Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
     "siteUrl": "https://oracle-university.com"
   },
   "items": [
+    {
+      "id": "9964cc5d74726912",
+      "slug": "embracing-virtual-threads-with-helidon-i-o-6239de",
+      "title": "\"Embracing Virtual Threads with Helidon\" [I/O]",
+      "dek": "Helidon 4.4 was released in April 2026 and stands out from other web frameworks by embracing new Java features as early as possible, particularly virtual threads and ahead-of-time computation. It is also aiming to become an OpenJDK project in the coming months. In this \"Input/Output\" episode of the ",
+      "url": "https://inside.java/2026/08/06/podcast-065/",
+      "source": "Inside Java",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/insidejava/2026-08-inside-java-podcast-65--joe.mp3?dest-id=2318780",
+      "publishedAt": "2026-08-06T09:03:00.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "Java",
+        "OpenJDK"
+      ],
+      "priority": 52
+    },
     {
       "id": "f58466d207e1f5cc",
       "slug": "oracle-sets-the-date-for-its-fourth-quarter-fiscal-year-2026-earnings-announcement-3a2dd3",
@@ -55,417 +72,316 @@
       "priority": 46
     },
     {
-      "id": "31a61f5ed8fb112e",
-      "slug": "amd-ceo-lisa-su-hails-excellent-quarter-as-data-center-sales-underpin-record-revenue-and-9e1981",
-      "title": "AMD CEO Lisa Su hails ‘excellent quarter’ as data center sales underpin ‘record revenue and profitability’",
-      "dek": "The record-breaking quarter comes as AMD prepares to roll out its Helios rack-scale architecture later this year",
-      "url": "https://www.itpro.com/hardware/amd-ceo-lisa-su-hails-excellent-quarter-as-data-center-sales-underpin-record-revenue-and-profitability",
-      "source": "Itpro",
+      "id": "96ec537fff4764ab",
+      "slug": "google-s-ai-shake-up-tariff-refunds-the-interest-rate-outlook-and-more-in-morning-squawk-4a3d9f",
+      "title": "Google's AI shake-up, tariff refunds, the interest rate outlook and more in Morning Squawk",
+      "dek": "Here are five key things investors need to know to start the trading day.",
+      "url": "https://www.cnbc.com/2026/08/06/5-things-to-know-before-the-stock-market-opens.html",
+      "source": "Cnbc",
       "sourceType": "external",
-      "image": "https://cdn.mos.cms.futurecdn.net/VQEG3atSHa7ZdvcP8HSTpA-1280-80.jpg",
-      "publishedAt": "2026-08-05T09:23:47.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "hardware"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "ecd84f153d079053",
-      "slug": "will-america-s-ai-investment-boom-end-in-tears-955322",
-      "title": "Will America’s AI Investment Boom End in Tears?",
-      "dek": "A data center under construction in Vernon, Calif., on July 8, 2026. (Mario Tama/Getty Images)",
-      "url": "https://www.theepochtimes.com/business/will-americas-ai-investment-boom-end-in-tears-6070741",
-      "source": "The Epoch Times",
-      "sourceType": "external",
-      "image": "https://img.theepochtimes.com/assets/uploads/2026/07/16/id6063071-GettyImages-2285283694-ed-1080x720.jpg",
-      "publishedAt": "2026-08-05T09:00:49.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "economy",
-        "tech",
-        "artificial intelligence",
-        "markets",
-        "business"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "503fcb2ca7e60fd1",
-      "slug": "do-wall-street-analysts-like-oracle-stock-7e2a8f",
-      "title": "Do Wall Street Analysts Like Oracle Stock?",
-      "dek": "Oracle's disappointing stock performance over the past year has done little to dampen Wall Street's optimism, with analysts remaining firmly bullish on its outlook.",
-      "url": "https://www.barchart.com/story/news/3657470/do-wall-street-analysts-like-oracle-stock",
-      "source": "Barchart.com",
-      "sourceType": "external",
-      "image": "https://media.barchart.com/contributors-admin/common-images/images/S%26P%20500%20Companies/Technology%20(names%20J%20-%20Z)/Oracle%20Corp_%20office%20logo-by%20Mesut%20Dogan%20via%20iStock.jpg",
-      "publishedAt": "2026-08-05T08:53:48.000Z",
+      "image": "https://image.cnbcfm.com/api/v1/image/107165046-1785947673833-107165046-1670885047420-gettyimages-1197130647-GOOGLE_AI.jpeg?v=1785947872&w=1200&h=675",
+      "publishedAt": "2026-08-06T12:44:54.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "n/a"
+        "donald trump",
+        "economy",
+        "ishares semiconductor etf",
+        "oracle corp",
+        "consumer discretionary select sector spdr fund",
+        "kevin breuninger"
       ],
       "priority": 43
     },
     {
-      "id": "6bdf442c6c47334c",
-      "slug": "enterprise-procurement-ai-agent-market-set-for-strong-growth-through-2032-latest-trends--114daa",
-      "title": "Enterprise Procurement AI Agent Market Set for Strong Growth Through 2032: Latest Trends, Competitive Landscape Analysis And Strategic Insights",
-      "dek": "Los Angeles, United State: QY Research has recently published a research report titled, \"Global Enterprise Procurement AI Agent Market Share and Ranking, Overall Sales and Demand Forecast 2026-2032\". The report on the global Enterprise Procurement AI Agent market is a",
-      "url": "https://www.openpr.com/news/4595761/enterprise-procurement-ai-agent-market-set-for-strong-growth",
+      "id": "99a4eeb2e0511181",
+      "slug": "mercury-systems-mrcy-turnaround-gains-traction-with-accelerated-growth-6ac23f",
+      "title": "Mercury Systems’ (MRCY) Turnaround Gains Traction With Accelerated Growth",
+      "dek": "Conestoga Capital Advisors, an asset management company, released its second-quarter 2026 investor letter. A copy of the letter can be downloaded here. The letter reports a positive market shift towards Small Caps, with the Russell 2000 Index achieving its best first half since 1991 and the Russell ",
+      "url": "https://www.insidermonkey.com/blog/mercury-systems-mrcy-turnaround-gains-traction-with-accelerated-growth-1807665/",
+      "source": "Insider Trading",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/JI-BIOCqtNIN4qcOs8gxkf5qUsInrR9sYE_JzYk0zAM/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/10/12215609/MRCY-insidermonkey-1697162166615.jpg",
+      "publishedAt": "2026-08-06T12:41:44.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "daily newsletter",
+        "nasdaq:mrcy",
+        "hedge fund investor letters",
+        "news",
+        "yahoo finance"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "3ff5d27d2fca5f02",
+      "slug": "ais-q2-2026-slides-strong-growth-tempered-by-2h-caution-685a38",
+      "title": "AIS Q2 2026 slides: strong growth tempered by 2H caution",
+      "dek": "AIS Q2 2026 slides: strong growth tempered by 2H caution",
+      "url": "https://ng.investing.com/news/company-news/ais-q2-2026-slides-strong-growth-tempered-by-2h-caution-93CH-2643686",
+      "source": "Investing Nigeria",
+      "sourceType": "external",
+      "image": "https://i-invdn-com.investing.com/news/LYNXMPEM1H1CM_1200_L.jpg",
+      "publishedAt": "2026-08-06T12:38:16.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 43
+    },
+    {
+      "id": "582a58cf3624e499",
+      "slug": "physical-identity-and-access-management-market-to-reach-usd-15-billion-by-2033-growing-f-e6e808",
+      "title": "Physical Identity and Access Management Market to Reach USD 15 Billion by 2033, Growing from USD 15 Billion Base Range - SRI",
+      "dek": "London, UK - August 2026 | Strategic Revenue Insights Inc. - Fueled by an urgent industry-wide pivot toward automated security infrastructure and stringent compliance mandates, the enterprise software ecosystem is experiencing a major operational overhaul. The global Physical Identity and",
+      "url": "https://www.openpr.com/news/4597277/physical-identity-and-access-management-market-to-reach-usd-15",
       "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/8/L805684788_k.jpg",
-      "publishedAt": "2026-08-05T08:22:33.000Z",
+      "image": "https://cdn.open-pr.com/L/8/L806591059_k.jpg",
+      "publishedAt": "2026-08-06T12:21:19.000Z",
+      "topic": "Security",
+      "tags": [
+        "media consulting",
+        "advertising",
+        "marketing research"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "60490ae23c985132",
+      "slug": "top-blockchain-stocks-to-consider-august-3rd-96fdc8",
+      "title": "Top Blockchain Stocks To Consider – August 3rd",
+      "dek": "Nukkleus, Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Globant, Digi Power X, and CoinShares are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, use, or ben",
+      "url": "https://www.tickerreport.com/banking-finance/13532335/top-blockchain-stocks-to-consider-august-3rd.html",
+      "source": "Ticker Report",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/nukkleus-inc-logo-1200x675.jpg?v=20240123111702",
+      "publishedAt": "2026-08-06T12:04:59.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "banking",
+        "partner feed articles"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "38ef8ba3593a4c45",
+      "slug": "khunt-toolkit-turns-oracle-sql-injection-into-system-level-rce-and-credential-theft-c1481b",
+      "title": "KHunt Toolkit Turns Oracle SQL Injection Into SYSTEM-Level RCE and Credential Theft",
+      "dek": "KHunt shows how a “routine” SQL injection against an Oracle‐backed web app can be weaponized into SYSTEM‐level remote code execution and credential theft... Read more → The post KHunt Toolkit Turns Oracle SQL Injection Into SYSTEM-Level RCE and Credential Theft appeared first on IT Security News .",
+      "url": "https://www.itsecuritynews.info/khunt-toolkit-turns-oracle-sql-injection-into-system-level-rce-and-credential-theft/",
+      "source": "It Security News",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-08-06T12:02:05.000Z",
+      "topic": "Security",
+      "tags": [
+        "en"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "ea65c98ccd4c5a7d",
+      "slug": "indian-enterprises-must-move-beyond-ai-pilots-to-measurable-business-outcomes-say-techno-85eaaa",
+      "title": "Indian Enterprises Must Move Beyond AI Pilots to Measurable Business Outcomes, Say Technology Leaders at ET Edge CIO&Leader Annual Conference",
+      "dek": "Over 250 CIOs and global AI experts highlight trusted data, governance, resilient infrastructure and responsible AI as the foundations of the Agentic Enterprise Jaipur, August 4, 2026: More than 250... The post Indian Enterprises Must Move Beyond AI Pilots to Measurable Business Outcomes, Say Techno",
+      "url": "https://www.cioandleader.com/indian-enterprises-must-move-beyond-ai-pilots-to-measurable-business-outcomes-say-technology-leaders-at-et-edge-cioleader-annual-conference/",
+      "source": "Cio&leader",
+      "sourceType": "external",
+      "image": "https://www.cioandleader.com/wp-content/uploads/2026/08/Annual-photo.jpg",
+      "publishedAt": "2026-08-06T12:01:23.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "ai pilots",
+        "press release",
+        "latest",
+        "news",
+        "agentic ai",
+        "cio"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "ac54852f0db98938",
+      "slug": "ubs-cuts-oracle-stock-price-target-on-ai-infrastructure-concerns-697b8c",
+      "title": "UBS cuts Oracle stock price target on AI infrastructure concerns",
+      "dek": "UBS cuts Oracle stock price target on AI infrastructure concerns",
+      "url": "https://ph.investing.com/news/stock-market-news/ubs-cuts-oracle-stock-price-target-on-ai-infrastructure-concerns-93CH-2535060",
+      "source": "Investing Philippines",
+      "sourceType": "external",
+      "image": "https://i-invdn-com.investing.com/news/oracle_2_M_1440048709.jpg",
+      "publishedAt": "2026-08-06T11:06:18.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "AI"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "de1384f5280166e6",
+      "slug": "information-systems-075e98",
+      "title": "Information Systems",
+      "dek": "Aimed at graduates from any discipline, this course will teach you to design and implement information systems and effective project management techniques alongside practical computing skills, including computer programming. The MSc award is CILIP accredited.",
+      "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/information-systems-msc",
+      "source": "University Of Sheffield",
+      "sourceType": "external",
+      "image": "https://sheffield.ac.uk/sites/default/files/styles/two_thirds_2x/public/2021-03/AO200187.jpg?h=a93980ca&itok=xOVj_83F",
+      "publishedAt": "2026-08-06T10:49:47.000Z",
+      "topic": "Training & Certification",
+      "tags": [],
+      "priority": 41
+    },
+    {
+      "id": "13421ac26e25a794",
+      "slug": "enterprise-ai-agent-adoption-market-analysis-2026-2035-north-america-leads-with-39-6-sha-c6673d",
+      "title": "Enterprise AI Agent Adoption Market Analysis 2026-2035: North America Leads with 39.6% Share, Microsoft and Salesforce Drive AI Transformation",
+      "dek": "The Enterprise AI Agent Adoption Market size was at US$ 6.65 billion in 2025 and is expected to reach US$ 142.35 billion by 2035, growing at a CAGR of 36.9% during the forecast period 2026 to 2035. The market is experiencing",
+      "url": "https://www.openpr.com/news/4597109/enterprise-ai-agent-adoption-market-analysis-2026-2035-north",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/8/L806700262_k.jpg",
+      "publishedAt": "2026-08-06T10:40:48.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
         "it",
         "new media & software"
       ],
-      "priority": 42
+      "priority": 41
     },
     {
-      "id": "c18b39633e921181",
-      "slug": "the-real-cryptography-behind-a-fictional-quantum-machine-7f21dd",
-      "title": "The Real Cryptography Behind a Fictional Quantum Machine",
-      "dek": "A novel about a machine that breaks RSA-4096. Seven details readers assume were invented for the plot, traced to the document each actually came from.",
-      "url": "https://hackernoon.com/the-real-cryptography-behind-a-fictional-quantum-machine",
-      "source": "Hackernoon",
+      "id": "dd2bb336b51eabc4",
+      "slug": "attackers-compile-khunt-inside-oracle-to-turn-sql-injection-into-windows-system-access-890ba1",
+      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
+      "dek": "Swati KhandelwalAug 06, 2026Database Security / Endpoint Security Attackers broke into an organization’s Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit...",
+      "url": "https://www.swapupdate.in/attackers-compile-khunt-inside-oracle-to-turn-sql-injection-into-windows-system-access/",
+      "source": "Swapupdate",
       "sourceType": "external",
-      "image": "https://cdn.hackernoon.com/images/MlZgdhMSpMUBUQLvJG32GO1XcF92-j503i5z.png",
-      "publishedAt": "2026-08-05T08:08:51.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGMHYrRkDGf3XV_lOoUbE1UCSjvcN9x-XNpNGpX_f45JqZzd2FrxJ-metvu-U5VyDqH2PGNaY9MiSeShhH-YVN3O4ryN5lh4ICsuXtz0-DuCSAgnywXUifDOf_qZS81AtjRGNQWgs1QnL4Eu54icswla_ZK7qGoZqWDaVzPX46pmcTrvj_ec0yQwrt9k/s1700-e365/oracle-root.jpg",
+      "publishedAt": "2026-08-06T10:35:02.000Z",
+      "topic": "Security",
       "tags": [
-        "rsa-4096",
-        "pqc",
-        "cybersecurity",
-        "ml-kem",
-        "public-exponent-65537",
-        "post-quantum-security"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "7e47857b2df73d4e",
-      "slug": "resumeup-ai-crosses-500-000-users-and-launches-a-conversational-ai-resume-builder-cbb6e4",
-      "title": "ResumeUp.AI Crosses 500,000 Users and Launches a Conversational AI Resume Builder",
-      "dek": "ResumeUp.AI, one of the fastest-growing U.S.-based AI resume builders, replaces traditional resume forms with an...",
-      "url": "https://itbusinessnet.com/2026/08/resumeup-ai-crosses-500000-users-and-launches-a-conversational-ai-resume-builder/",
-      "source": "Itbusinessnet",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-08-05T07:06:57.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "news"
+        "technology"
       ],
       "priority": 41
     },
     {
-      "id": "7b0051903a5e3f35",
-      "slug": "public-cloud-market-report-highlights-16-2-cagr-and-usd-3-51-trillion-opportunity-by-203-8b86df",
-      "title": "Public Cloud Market Report Highlights 16.2% CAGR and USD 3.51 Trillion Opportunity by 2035",
-      "dek": "India Morning Times is an online news publication focusing on the India: Your daily news update on India",
-      "url": "https://indiamorningtimes.com/article/930759299-public-cloud-market-report-highlights-16-2-cagr-and-usd-3-51-trillion-opportunity-by-2035",
-      "source": "Indiamorningtimes",
+      "id": "fab00698c2b11b7b",
+      "slug": "mcminn-phil-professor-0db4f8",
+      "title": "McMinn, Phil, Professor",
+      "dek": "Research interests: AIxSE, LLMs for Software Engineering, Software testing, Search-based software engineering, Test oracles, Test flakiness and Mutation analysis.",
+      "url": "https://sheffield.ac.uk/cs/people/academic/phil-mcminn",
+      "source": "University Of Sheffield",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-08-05T06:15:00.000Z",
+      "publishedAt": "2026-08-06T10:34:10.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [],
-      "priority": 40
+      "priority": 41
     },
     {
-      "id": "cff6c5e572d1eece",
-      "slug": "medical-device-connectivity-market-becomes-hospital-infrastructure-priority-as-interoper-4b9c20",
-      "title": "Medical Device Connectivity Market Becomes Hospital Infrastructure Priority as Interoperability, Cybersecurity and Real-Time Monitoring Converge",
-      "dek": "The global medical device connectivity market reached US$ 2.3 billion in 2025 and is projected to surge to US$ 13.6 billion by 2033, expanding at a CAGR of 22% during 2026-2033, according to DataM Intelligence. This rapid expansion reflects more",
-      "url": "https://www.openpr.com/news/4595602/medical-device-connectivity-market-becomes-hospital",
+      "id": "074c250235a1d953",
+      "slug": "what-are-hyperscalers-the-companies-driving-the-ai-infrastructure-boom-ca2b7d",
+      "title": "What Are Hyperscalers? The Companies Driving The AI Infrastructure Boom",
+      "dek": "Discover what a hyperscaler is, which companies dominate the market, and why these cloud giants are investing billions in AI and data centers.",
+      "url": "https://www.forbes.com/sites/technology/article/what-is-a-hyperscaler/",
+      "source": "Forbes",
+      "sourceType": "external",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a71010c7b6bb14ea2605e24/0x0.jpg?width=960&precrop=1249%2C936%2Cx207%2Cy0",
+      "publishedAt": "2026-08-06T10:30:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "business",
+        "true evergreen seo contributor",
+        "innovation",
+        "/innovation",
+        "/energy",
+        "/ai"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "0a105a5d182ca734",
+      "slug": "cloud-gaming-game-streaming-market-to-reach-usd-52-64-billion-by-2032-driven-by-5g-ai-po-335bc9",
+      "title": "Cloud Gaming & Game-Streaming Market to Reach USD 52.64 Billion by 2032, Driven by 5G, AI-Powered Streaming, and Subscription Gaming Ecosystems",
+      "dek": "The global Cloud Gaming & Game-Streaming market was valued at USD 17.68 billion in 2025 and is projected to reach USD 52.64 billion by 2032, expanding at a CAGR of 16.87% during the forecast period from 2025 to 2032. The",
+      "url": "https://www.openpr.com/news/4597045/cloud-gaming-game-streaming-market-to-reach-usd-52-64-billion",
       "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/8/L805442776_k.jpg",
-      "publishedAt": "2026-08-05T06:04:42.000Z",
-      "topic": "Security",
+      "image": "https://cdn.open-pr.com/L/8/L806226804_k.jpg",
+      "publishedAt": "2026-08-06T10:20:21.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "health & medicine"
+        "it",
+        "new media & software"
       ],
-      "priority": 40
+      "priority": 41
     },
     {
-      "id": "5dff4960510af326",
-      "slug": "stock-traders-buy-large-volume-of-call-options-on-oracle-nyse-orcl-7bef58",
-      "title": "Stock Traders Buy Large Volume of Call Options on Oracle (NYSE:ORCL)",
-      "dek": "Oracle Corporation (NYSE:ORCL – Get Free Report) was the target of unusually large options trading activity on Monday. Traders acquired 547,551 call options on the company. This is an increase of 61% compared to the average daily volume of 340,108 call options. Oracle Price Performance Shares of NYS",
-      "url": "https://www.americanbankingnews.com/2026/08/05/stock-traders-buy-large-volume-of-call-options-on-oracle-nyseorcl.html",
+      "id": "eb3451444a4179cb",
+      "slug": "corecap-advisors-llc-raises-stake-in-oracle-corporation-orcl-694102",
+      "title": "CoreCap Advisors LLC Raises Stake in Oracle Corporation $ORCL",
+      "dek": "CoreCap Advisors LLC lifted its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 12.9% during the second quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission. The fund owned 39,682 shares of the enterprise software provider’s stock ",
+      "url": "https://www.americanbankingnews.com/2026/08/06/corecap-advisors-llc-raises-stake-in-oracle-corporation-orcl.html",
       "source": "Americanbankingnews",
       "sourceType": "external",
       "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-08-05T05:20:53.000Z",
+      "publishedAt": "2026-08-06T07:55:27.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "options articles",
-        "market news"
+        "market news",
+        "sec filing articles"
       ],
-      "priority": 40
-    },
-    {
-      "id": "2519c06baffe1fe2",
-      "slug": "latest-global-eclinical-solutions-market-size-share-worth-usd-42-55-billion-by-2035-at-a-e522e5",
-      "title": "[Latest] Global eClinical Solutions Market Size/Share Worth USD 42.55 Billion by 2035 at a 13.98% CAGR: Healthcare Foresights (Analysis, Outlook, Leaders, Report, Trends, Forecast, Segmentation, Growth Rate, Value, SWOT Analysis)",
-      "dek": "India Morning Times is an online news publication focusing on the India: Your daily news update on India",
-      "url": "https://indiamorningtimes.com/article/931824929-latest-global-eclinical-solutions-market-size-share-worth-usd-42-55-billion-by-2035-at-a-13-98-cagr-healthcare-foresights-analysis-outlook",
-      "source": "Indiamorningtimes",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-08-05T04:30:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [],
       "priority": 39
     },
     {
-      "id": "492a8b79fd2132e2",
-      "slug": "alinma-bank-penn-national-insurance-cut-database-downtime-9baa72",
-      "title": "Alinma Bank, Penn National Insurance cut database downtime",
-      "dek": "Alinma Bank and Penn National Insurance explain how they reduced database downtime, latency, and lengthy backup and restore processes. The post Alinma Bank, Penn National Insurance cut database downtime appeared first on Frontier Enterprise .",
-      "url": "https://www.frontier-enterprise.com/alinma-bank-penn-national-insurance-cut-database-downtime/",
-      "source": "Frontier Enterprise",
+      "id": "68103ef2f0489e5c",
+      "slug": "veeam-data-platform-v13-1-now-available-helping-organizations-recover-clean-and-fast-fro-777f9d",
+      "title": "Veeam Data Platform v13.1 Now Available, Helping Organizations Recover Clean and Fast from Cyber Disruption",
+      "dek": "Veeam Software today announced the general availability of Veeam Data Platform v13.1, advancing the industry’s standard for data resilience by converging platform innovation with enterprise scale. The release expands customer choice with six new hypervisor platforms, extends malware scanning to NAS ",
+      "url": "https://cxotoday.com/media-coverage/veeam-data-platform-v13-1-now-available-helping-organizations-recover-clean-and-fast-from-cyber-disruption/",
+      "source": "Cxotoday",
       "sourceType": "external",
-      "image": "https://www.frontier-enterprise.com/wp-content/uploads/2026/08/Nutanix-dot-NEXT-2026-panel.jpeg",
-      "publishedAt": "2026-08-05T03:37:32.000Z",
+      "image": "https://cxotoday.com/wp-content/uploads/2023/10/veeam-300x90.png",
+      "publishedAt": "2026-08-06T06:51:44.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "veeam",
+        "media coverage"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "4958dd811e2238ea",
+      "slug": "big-tech-turns-to-fuel-cells-to-power-the-ai-boom-5128b6",
+      "title": "Big Tech Turns to Fuel Cells to Power the AI Boom",
+      "dek": "Market Analysis by covering: Oracle Corporation, Equinix Inc, FuelCell Energy Inc, Bloom Energy Corp. Read 's Market Analysis on Investing.com UK.",
+      "url": "https://uk.investing.com/analysis/big-tech-turns-to-fuel-cells-to-power-the-ai-boom-200626994",
+      "source": "Investing Uk",
+      "sourceType": "external",
+      "image": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+      "publishedAt": "2026-08-06T06:50:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "equinix inc",
+        "oracle corporation",
+        "fuelcell energy inc",
+        "bloom energy corp"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "d3249d39ee66f4be",
+      "slug": "15-advanced-mysql-database-interview-questions-and-answers-e0cbc3",
+      "title": "15 Advanced MySQL Database Interview Questions and Answers",
+      "dek": "The post 15 Advanced MySQL Database Interview Questions and Answers first appeared on Tecmint: Linux Howtos, Tutorials & Guides . Much of the MySQL interview prep you’ll find online is based on outdated versions that reached end-of-life years ago. If The post 15 Advanced MySQL Database Interview Que",
+      "url": "https://www.tecmint.com/mysql-advance-interview-questions/",
+      "source": "Tecmint",
+      "sourceType": "external",
+      "image": "https://www.tecmint.com/wp-content/uploads/2014/06/MySQL-Interview-Questions-and-Answers-for-Linux-Users.webp",
+      "publishedAt": "2026-08-06T05:58:22.000Z",
       "topic": "AI & Database",
       "tags": [
-        "digital transformation",
-        "features"
+        "mysql questions",
+        "interview questions"
       ],
-      "priority": 39
-    },
-    {
-      "id": "ebb638e8e96cb46a",
-      "slug": "portland-or-tech-roundup-multiple-roles-from-help-desk-to-220k-565b43",
-      "title": "💻 Portland, OR Tech Roundup: Multiple Roles From Help Desk to $220K+",
-      "dek": "Portland’s tech scene is busy right now, with openings from entry-level help desk to senior AI and security leadership. If you’re in IT or software, this i",
-      "url": "https://www.newsbreak.com/portland-or-daily-brief-375435341/4809907406899-portland-or-tech-roundup-multiple-roles-from-help-desk-to-220k",
-      "source": "Newsbreak",
-      "sourceType": "external",
-      "image": "https://img.particlenews.com/img/id/0uqf9w_1DwZYGCS00",
-      "publishedAt": "2026-08-05T00:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "breaking news",
-        "💻 portland",
-        "portland or daily brief",
-        "local news",
-        "newsbreak"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "b9b87f2069b70e8b",
-      "slug": "richmond-it-jobs-with-multiple-100k-openings-ede808",
-      "title": "💻 Richmond IT Jobs With Multiple $100K+ Openings",
-      "dek": "Richmond’s tech scene is busy right now—lots of analytics, cloud, and security roles, from junior BI to high‐level AI and AWS leaders. Here are several str",
-      "url": "https://www.newsbreak.com/richmond-va-daily-brief-375436591/4809900275695-richmond-it-jobs-with-multiple-100k-openings",
-      "source": "Newsbreak",
-      "sourceType": "external",
-      "image": "https://img.particlenews.com/img/id/0uqf9w_1DwZ5kTk00",
-      "publishedAt": "2026-08-05T00:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "breaking news",
-        "richmond va daily brief",
-        "newsbreak",
-        "💻 richmond it jobs with multiple $100k+ openings",
-        "local news"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "a618770e739029ba",
-      "slug": "google-cloud-highlights-vast-edge-s-ai-powered-live-recovery-platform-for-backup-complia-8a952e",
-      "title": "Google Cloud Highlights Vast Edge's AI-Powered Live Recovery Platform for Backup Compliance and Recovery Readiness",
-      "dek": "Featured by Google Cloud, the platform enables real time backup visibility, meets GDPR, ISO 27001 and SOC 2 Type II compliance and validates recovery readiness.",
-      "url": "https://www.einpresswire.com/article/931889728/google-cloud-highlights-vast-edge-s-ai-powered-live-recovery-platform-for-backup-compliance-and-recovery-readiness",
-      "source": "Ein Presswire",
-      "sourceType": "external",
-      "image": "https://img.einnews.com/ampsize/1165221/ai-powered-live-recovery-platfo.jpeg",
-      "publishedAt": "2026-08-05T00:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "finance and investment industry",
-        "worldnews",
-        "technology",
-        "united kingdom",
-        "california",
-        "manufacturing"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "6eeafe4dc5767743",
-      "slug": "behavioral-ai-lab-launches-un-recognized-international-ai-safety-initiative-to-combat-ai-91ccf4",
-      "title": "Behavioral AI Lab Launches UN-Recognized International AI Safety Initiative to Combat AI-Enabled Manipulation and Scams",
-      "dek": "New international initiative advances behavioral AI evaluation to detect AI-enabled manipulation, online scams, and emerging AI safety risks.",
-      "url": "https://www.einpresswire.com/article/931735587/behavioral-ai-lab-launches-un-recognized-international-ai-safety-initiative-to-combat-ai-enabled-manipulation-and-scams",
-      "source": "Ein Presswire",
-      "sourceType": "external",
-      "image": "https://img.einnews.com/ampsize/1164747/behavioral-ai-lab-un-partners.png",
-      "publishedAt": "2026-08-05T00:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "california",
-        "united states",
-        "it industry",
-        "worldnews"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "0dcb79f303270ecc",
-      "slug": "ulta-beauty-ulta-increases-yet-falls-behind-market-what-investors-need-to-know-53b1ba",
-      "title": "Ulta Beauty (ULTA) Increases Yet Falls Behind Market: What Investors Need to Know",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/finance/ulta-beauty-ulta-increases-yet-falls-behind-market-what-investors-need-to-know-63BE2E05-EEB2-41D5-B35C-88B724FB7FB8",
-      "source": "Bundle",
-      "sourceType": "external",
-      "image": "https://static.bundle.app/news/580235fb-5321-5dea-8a0c-ddf6b373acf3.jpg",
-      "publishedAt": "2026-08-04T22:46:35.000Z",
-      "topic": "Business & Earnings",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "5a301b2ca7708486",
-      "slug": "lowe-s-low-laps-the-stock-market-here-s-why-31b463",
-      "title": "Lowe's (LOW) Laps the Stock Market: Here's Why",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/finance/lowes-low-laps-the-stock-market-heres-why-68FD1615-CF82-407F-89B0-0EC1B585B08F",
-      "source": "Bundle",
-      "sourceType": "external",
-      "image": "https://static.bundle.app/news/8d8ab552-0620-5f6f-bfb7-7c02b8587aed.jpg",
-      "publishedAt": "2026-08-04T22:46:33.000Z",
-      "topic": "Business & Earnings",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "31bd1a06916cd01e",
-      "slug": "toll-brothers-tol-exceeds-market-returns-some-facts-to-consider-da3b87",
-      "title": "Toll Brothers (TOL) Exceeds Market Returns: Some Facts to Consider",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/finance/toll-brothers-tol-exceeds-market-returns-some-facts-to-consider-CAE1293E-6EE3-4E39-8F25-2F7A2E249A3F",
-      "source": "Bundle",
-      "sourceType": "external",
-      "image": "https://static.bundle.app/news/1da7e82b-efda-50be-8b1a-0cb5727fb333.jpg",
-      "publishedAt": "2026-08-04T22:46:30.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "c59076a9483764f3",
-      "slug": "oracle-orcl-outpaces-stock-market-gains-what-you-should-know-750338",
-      "title": "Oracle (ORCL) Outpaces Stock Market Gains: What You Should Know",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/finance/oracle-orcl-outpaces-stock-market-gains-what-you-should-know-D42BECD9-6415-4678-A4E4-690108DA82E4",
-      "source": "Bundle",
-      "sourceType": "external",
-      "image": "https://static.bundle.app/news/23f2f32e-ab78-5083-82d2-a9031ffd90ea.jpg",
-      "publishedAt": "2026-08-04T22:46:30.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "ORCL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "8eeb382c3b5b3535",
-      "slug": "macy-s-m-gains-but-lags-market-what-you-should-know-3364d2",
-      "title": "Macy's (M) Gains But Lags Market: What You Should Know",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/finance/macys-m-gains-but-lags-market-what-you-should-know-7F12C680-BD46-474F-8525-BF111378817B",
-      "source": "Bundle",
-      "sourceType": "external",
-      "image": "https://static.bundle.app/news/adcb1532-1b60-5552-b569-131ecd498918.jpg",
-      "publishedAt": "2026-08-04T22:46:15.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "4f25c7644b4227de",
-      "slug": "why-gold-com-gold-outpaced-the-stock-market-today-7eac67",
-      "title": "Why Gold.com (GOLD) Outpaced the Stock Market Today",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/finance/why-goldcom-gold-outpaced-the-stock-market-today-F16A22B8-4753-4577-86C3-0F1259ADB5C7",
-      "source": "Bundle",
-      "sourceType": "external",
-      "image": "https://static.bundle.app/news/29bd589e-39a5-5474-a663-cfe1850f7390.jpg",
-      "publishedAt": "2026-08-04T22:46:15.000Z",
-      "topic": "Business & Earnings",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "06959becd85b5313",
-      "slug": "home-depot-hd-surpasses-market-returns-some-facts-worth-knowing-1225c0",
-      "title": "Home Depot (HD) Surpasses Market Returns: Some Facts Worth Knowing",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/finance/home-depot-hd-surpasses-market-returns-some-facts-worth-knowing-3542B362-B605-45C7-AE58-BB00E130CE08",
-      "source": "Bundle",
-      "sourceType": "external",
-      "image": "https://static.bundle.app/news/193bb52d-ac5a-5334-bf0c-157dc2d6febd.jpg",
-      "publishedAt": "2026-08-04T22:46:15.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "3c8dd00613ec9023",
-      "slug": "select-water-solutions-inc-wttr-tops-q2-earnings-and-revenue-estimates-31a4fb",
-      "title": "Select Water Solutions, Inc. (WTTR) Tops Q2 Earnings and Revenue Estimates",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/finance/select-water-solutions-inc-wttr-tops-q2-earnings-and-revenue-estimates-3A7D948F-0F57-4E72-9741-964D8F2A9B23",
-      "source": "Bundle",
-      "sourceType": "external",
-      "image": "https://static.bundle.app/news/8133f3e1-32e5-5eed-9262-68a225e9e84f.jpg",
-      "publishedAt": "2026-08-04T22:42:45.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "Earnings"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "54eaafb116b8ee75",
-      "slug": "oracle-nyse-orcl-stock-price-up-2-7-still-a-buy-8eb15a",
-      "title": "Oracle (NYSE:ORCL) Stock Price Up 2.7% – Still a Buy?",
-      "dek": "Oracle Corporation (NYSE:ORCL – Get Free Report)’s share price rose 2.7% during mid-day trading on Tuesday . The stock traded as high as $148.70 and last traded at $145.72. 43,065,091 shares changed hands during trading, an increase of 45% from the average daily volume of 29,631,799 shares. The stoc",
-      "url": "https://www.watchlistnews.com/oracle-nyseorcl-stock-price-up-2-7-still-a-buy/11170833.html",
-      "source": "Watch List News",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-08-04T22:40:58.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "price articles",
-        "investing"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "1845ea1c295e2d94",
-      "slug": "earnings-call-transcript-paramount-global-lifts-2026-outlook-in-strong-q2-b247ec",
-      "title": "Earnings call transcript: Paramount Global lifts 2026 outlook in strong Q2",
-      "dek": "Earnings call transcript: Paramount Global lifts 2026 outlook in strong Q2",
-      "url": "https://au.investing.com/news/transcripts/earnings-call-transcript-paramount-global-lifts-2026-outlook-in-strong-q2-93CH-4575109",
-      "source": "Investing Australia",
-      "sourceType": "external",
-      "image": "https://i-invdn-com.investing.com/news/moved_LYNXMPEM431A2_1200_L.jpg",
-      "publishedAt": "2026-08-04T22:26:09.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "Earnings"
-      ],
-      "priority": 36
+      "priority": 38
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1973,6 +1889,105 @@
       "publishedAt": "2024-08-27T11:00:00.000Z",
       "topic": "Security",
       "tags": [
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "43aa5988985c66d9",
+      "slug": "database-sharding-part-1-e6309a",
+      "title": "Database Sharding: Part 1",
+      "dek": "In this two-part episode, hosts Lois Houston and Nikita Abraham are joined by Ron Soltani, a Senior Principal Database & Security Instructor, to discuss the ins and outs of database sharding. In Part 1, they delve into the fundamentals of database sharding, including what it is and how it works, spe",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-sharding-part-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-08-20T11:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "119c79ecef58b62d",
+      "slug": "database-security-part-2-ef77d6",
+      "title": "Database Security: Part 2",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham continue their exploration of Oracle Database 23ai's database security capabilities. They are joined once again by Ron Soltani, a Senior Principal Database & Security Instructor, who delves into the intricacies of the new hybrid read-only mode f",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-2",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-08-13T11:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Oracle Database",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ffc09f7346e6f6b5",
+      "slug": "database-security-part-1-b4c13f",
+      "title": "Database Security: Part 1",
+      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they dive into the critical topic of database security. In the first of a two-part series on database security in Oracle Database 23ai, they discuss the importance of protecting dat",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-08-06T11:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Oracle Database",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "7c3ad34d1ff092f6",
+      "slug": "blockchain-tables-a4f246",
+      "title": "Blockchain Tables",
+      "dek": "In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham kick off a new season with a deep dive into the latest features of Oracle Database 23ai. Joined by Bill Millar, a Senior Principal Database & MySQL Instructor, they explore the new enhancements to blockchain tabl",
+      "url": "https://oracleuniversitypodcast.libsyn.com/blockchain-tables",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-30T11:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Oracle Database",
+        "MySQL",
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ff92a6749fa996f7",
+      "slug": "database-essentials-027d69",
+      "title": "Database Essentials",
+      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Hope Fisher, Oracle's Product Manager for Database Technologies, as they break down the basics of databases, explore different database management systems, and delve into database development. Whether you're a newcomer or just need a refresher, ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-essentials",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-23T14:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "f046bd97147c0cf8",
+      "slug": "container-engine-for-kubernetes-security-practices-26ab8f",
+      "title": "Container Engine for Kubernetes: Security Practices",
+      "dek": "In the season's final episode, hosts Lois Houston and Nikita Abraham interview senior OCI instructor Mahendra Mehra about the security practices that are vital for OKE clusters on OCI. Mahendra shares his expert insights on the importance of Kubernetes security, especially in today's digital landsca",
+      "url": "https://oracleuniversitypodcast.libsyn.com/container-engine-for-kubernetes-security-practices",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP7.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-16T14:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "OCI",
         "Security"
       ],
       "priority": 36
