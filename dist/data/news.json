@@ -1,28 +1,11 @@
 {
-  "generatedAt": "2026-08-07T00:56:19.153Z",
+  "generatedAt": "2026-08-07T21:05:54.955Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
     "siteUrl": "https://oracle-university.com"
   },
   "items": [
-    {
-      "id": "9964cc5d74726912",
-      "slug": "embracing-virtual-threads-with-helidon-i-o-6239de",
-      "title": "\"Embracing Virtual Threads with Helidon\" [I/O]",
-      "dek": "Helidon 4.4 was released in April 2026 and stands out from other web frameworks by embracing new Java features as early as possible, particularly virtual threads and ahead-of-time computation. It is also aiming to become an OpenJDK project in the coming months. In this \"Input/Output\" episode of the ",
-      "url": "https://inside.java/2026/08/06/podcast-065/",
-      "source": "Inside Java",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/insidejava/2026-08-inside-java-podcast-65--joe.mp3?dest-id=2318780",
-      "publishedAt": "2026-08-06T09:03:00.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "Java",
-        "OpenJDK"
-      ],
-      "priority": 52
-    },
     {
       "id": "f58466d207e1f5cc",
       "slug": "oracle-sets-the-date-for-its-fourth-quarter-fiscal-year-2026-earnings-announcement-3a2dd3",
@@ -72,316 +55,248 @@
       "priority": 46
     },
     {
-      "id": "96ec537fff4764ab",
-      "slug": "google-s-ai-shake-up-tariff-refunds-the-interest-rate-outlook-and-more-in-morning-squawk-4a3d9f",
-      "title": "Google's AI shake-up, tariff refunds, the interest rate outlook and more in Morning Squawk",
-      "dek": "Here are five key things investors need to know to start the trading day.",
-      "url": "https://www.cnbc.com/2026/08/06/5-things-to-know-before-the-stock-market-opens.html",
-      "source": "Cnbc",
+      "id": "ca27b0f21ffb6054",
+      "slug": "amazon-ceo-andy-jassy-just-gave-investors-220-billion-reasons-to-buy-micron-stock-0f5ce0",
+      "title": "Amazon CEO Andy Jassy Just Gave Investors 220 Billion Reasons to Buy Micron Stock",
+      "dek": "Amazon just raised its artificial intelligence (AI) budget to $220 billion, up from a prior estimate of $200 billion.",
+      "url": "https://www.fool.com/investing/2026/08/07/amazon-ceo-andy-jassy-just-gave-investors-220-bill/",
+      "source": "Fool",
       "sourceType": "external",
-      "image": "https://image.cnbcfm.com/api/v1/image/107165046-1785947673833-107165046-1670885047420-gettyimages-1197130647-GOOGLE_AI.jpeg?v=1785947872&w=1200&h=675",
-      "publishedAt": "2026-08-06T12:44:54.000Z",
+      "image": "https://g.foolcdn.com/editorial/images/882022/andy-jassy_amazon_amzn_ceo_imagesource_amazoncom-inc.jpg",
+      "publishedAt": "2026-08-07T09:00:00.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "donald trump",
-        "economy",
-        "ishares semiconductor etf",
-        "oracle corp",
-        "consumer discretionary select sector spdr fund",
-        "kevin breuninger"
+        "investing",
+        "orcl",
+        "goog",
+        "1d0a730b-06c5-4b92-b17f-bc3aea7369a8",
+        "technology and telecom",
+        "googl"
       ],
       "priority": 43
     },
     {
-      "id": "99a4eeb2e0511181",
-      "slug": "mercury-systems-mrcy-turnaround-gains-traction-with-accelerated-growth-6ac23f",
-      "title": "Mercury Systems’ (MRCY) Turnaround Gains Traction With Accelerated Growth",
-      "dek": "Conestoga Capital Advisors, an asset management company, released its second-quarter 2026 investor letter. A copy of the letter can be downloaded here. The letter reports a positive market shift towards Small Caps, with the Russell 2000 Index achieving its best first half since 1991 and the Russell ",
-      "url": "https://www.insidermonkey.com/blog/mercury-systems-mrcy-turnaround-gains-traction-with-accelerated-growth-1807665/",
-      "source": "Insider Trading",
+      "id": "8ec76426dd642db4",
+      "slug": "bluffdale-acm-chapter-hosts-summer-tech-talk-2026-human-machine-ai-in-everyday-engineeri-eb0fc5",
+      "title": "Bluffdale ACM Chapter Hosts Summer Tech Talk 2026: “Human + Machine: AI in Everyday Engineering”",
+      "dek": "BLUFFDALE, UT — The Bluffdale ACM Chapter held its Summer Tech Talk 2026 on Saturday, August 1, running the evening in a hybrid format from its venue at 14895 S. Noell Nelson Drive in Bluffdale. Six speakers from Amazon Web Services, US Bank, UnitedHealth, and Blue Ribbon Global Technologies present",
+      "url": "https://techbullion.com/bluffdale-acm-chapter-hosts-summer-tech-talk-2026-human-machine-ai-in-everyday-engineering/",
+      "source": "Techbullion",
       "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/JI-BIOCqtNIN4qcOs8gxkf5qUsInrR9sYE_JzYk0zAM/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/10/12215609/MRCY-insidermonkey-1697162166615.jpg",
-      "publishedAt": "2026-08-06T12:41:44.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "daily newsletter",
-        "nasdaq:mrcy",
-        "hedge fund investor letters",
-        "news",
-        "yahoo finance"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "3ff5d27d2fca5f02",
-      "slug": "ais-q2-2026-slides-strong-growth-tempered-by-2h-caution-685a38",
-      "title": "AIS Q2 2026 slides: strong growth tempered by 2H caution",
-      "dek": "AIS Q2 2026 slides: strong growth tempered by 2H caution",
-      "url": "https://ng.investing.com/news/company-news/ais-q2-2026-slides-strong-growth-tempered-by-2h-caution-93CH-2643686",
-      "source": "Investing Nigeria",
-      "sourceType": "external",
-      "image": "https://i-invdn-com.investing.com/news/LYNXMPEM1H1CM_1200_L.jpg",
-      "publishedAt": "2026-08-06T12:38:16.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 43
-    },
-    {
-      "id": "582a58cf3624e499",
-      "slug": "physical-identity-and-access-management-market-to-reach-usd-15-billion-by-2033-growing-f-e6e808",
-      "title": "Physical Identity and Access Management Market to Reach USD 15 Billion by 2033, Growing from USD 15 Billion Base Range - SRI",
-      "dek": "London, UK - August 2026 | Strategic Revenue Insights Inc. - Fueled by an urgent industry-wide pivot toward automated security infrastructure and stringent compliance mandates, the enterprise software ecosystem is experiencing a major operational overhaul. The global Physical Identity and",
-      "url": "https://www.openpr.com/news/4597277/physical-identity-and-access-management-market-to-reach-usd-15",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/8/L806591059_k.jpg",
-      "publishedAt": "2026-08-06T12:21:19.000Z",
-      "topic": "Security",
-      "tags": [
-        "media consulting",
-        "advertising",
-        "marketing research"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "60490ae23c985132",
-      "slug": "top-blockchain-stocks-to-consider-august-3rd-96fdc8",
-      "title": "Top Blockchain Stocks To Consider – August 3rd",
-      "dek": "Nukkleus, Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Globant, Digi Power X, and CoinShares are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, use, or ben",
-      "url": "https://www.tickerreport.com/banking-finance/13532335/top-blockchain-stocks-to-consider-august-3rd.html",
-      "source": "Ticker Report",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/nukkleus-inc-logo-1200x675.jpg?v=20240123111702",
-      "publishedAt": "2026-08-06T12:04:59.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "banking",
-        "partner feed articles"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "38ef8ba3593a4c45",
-      "slug": "khunt-toolkit-turns-oracle-sql-injection-into-system-level-rce-and-credential-theft-c1481b",
-      "title": "KHunt Toolkit Turns Oracle SQL Injection Into SYSTEM-Level RCE and Credential Theft",
-      "dek": "KHunt shows how a “routine” SQL injection against an Oracle‐backed web app can be weaponized into SYSTEM‐level remote code execution and credential theft... Read more → The post KHunt Toolkit Turns Oracle SQL Injection Into SYSTEM-Level RCE and Credential Theft appeared first on IT Security News .",
-      "url": "https://www.itsecuritynews.info/khunt-toolkit-turns-oracle-sql-injection-into-system-level-rce-and-credential-theft/",
-      "source": "It Security News",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-08-06T12:02:05.000Z",
-      "topic": "Security",
-      "tags": [
-        "en"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "ea65c98ccd4c5a7d",
-      "slug": "indian-enterprises-must-move-beyond-ai-pilots-to-measurable-business-outcomes-say-techno-85eaaa",
-      "title": "Indian Enterprises Must Move Beyond AI Pilots to Measurable Business Outcomes, Say Technology Leaders at ET Edge CIO&Leader Annual Conference",
-      "dek": "Over 250 CIOs and global AI experts highlight trusted data, governance, resilient infrastructure and responsible AI as the foundations of the Agentic Enterprise Jaipur, August 4, 2026: More than 250... The post Indian Enterprises Must Move Beyond AI Pilots to Measurable Business Outcomes, Say Techno",
-      "url": "https://www.cioandleader.com/indian-enterprises-must-move-beyond-ai-pilots-to-measurable-business-outcomes-say-technology-leaders-at-et-edge-cioleader-annual-conference/",
-      "source": "Cio&leader",
-      "sourceType": "external",
-      "image": "https://www.cioandleader.com/wp-content/uploads/2026/08/Annual-photo.jpg",
-      "publishedAt": "2026-08-06T12:01:23.000Z",
+      "image": "https://techbullion.com/wp-content/uploads/2026/08/CEAD3CEF-1E32-4294-822E-9A6706CD8EEA_60F34894-282E-498C-B422-5BB42C5DFD88.jpeg",
+      "publishedAt": "2026-08-07T08:56:17.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "ai pilots",
-        "press release",
-        "latest",
-        "news",
-        "agentic ai",
-        "cio"
+        "summer tech talk",
+        "artificial intelligence",
+        "bluffdale acm chapter"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "f62a53b6f21c0a09",
+      "slug": "legacy-dam-abandoned-your-older-databases-secupi-keeps-them-secure-monitored-and-audit-r-47b124",
+      "title": "Legacy DAM Abandoned your Older Databases. SecuPi Keeps them Secure, Monitored, and Audit-Ready",
+      "dek": "SecuPi supports Microsoft SQL Server 2008, 2008 R2, and 2012, Oracle 9i, 10g, 11g and other types -helping organizations close audit gaps and meet compliance mandates across legacy and modern environments. SecuPi today announced support for legacy Oracle, SQL Server and other database types that are",
+      "url": "https://cioinfluence.com/security/legacy-dam-abandoned-your-older-databases-secupi-keeps-them-secure-monitored-and-audit-ready/",
+      "source": "Cio Influence",
+      "sourceType": "external",
+      "image": "https://cioinfluence.com/wp-content/uploads/2026/08/african-analytics-using-data-dashboard-analytic-600nw-2389749905-1.jpg",
+      "publishedAt": "2026-08-07T08:21:21.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "sql server",
+        "secupi",
+        "databases",
+        "oracle database",
+        "microsoft sql",
+        "cio influence news"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "9964cc5d74726912",
+      "slug": "embracing-virtual-threads-with-helidon-i-o-6239de",
+      "title": "\"Embracing Virtual Threads with Helidon\" [I/O]",
+      "dek": "Helidon 4.4 was released in April 2026 and stands out from other web frameworks by embracing new Java features as early as possible, particularly virtual threads and ahead-of-time computation. It is also aiming to become an OpenJDK project in the coming months. In this \"Input/Output\" episode of the ",
+      "url": "https://inside.java/2026/08/06/podcast-065/",
+      "source": "Inside Java",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/insidejava/2026-08-inside-java-podcast-65--joe.mp3?dest-id=2318780",
+      "publishedAt": "2026-08-06T09:03:00.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "Java",
+        "OpenJDK"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "d773e3222475fa6f",
+      "slug": "assenagon-asset-management-s-a-boosts-stock-position-in-oracle-corporation-orcl-a1cc1d",
+      "title": "Assenagon Asset Management S.A. Boosts Stock Position in Oracle Corporation $ORCL",
+      "dek": "Assenagon Asset Management S.A. raised its holdings in Oracle Corporation (NYSE:ORCL – Free Report) by 56.6% during the second quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 1,718,790 shares of ",
+      "url": "https://www.americanbankingnews.com/2026/08/07/assenagon-asset-management-s-a-boosts-stock-position-in-oracle-corporation-orcl.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-08-07T08:05:30.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "sec filing articles",
+        "market news"
       ],
       "priority": 42
     },
     {
-      "id": "ac54852f0db98938",
-      "slug": "ubs-cuts-oracle-stock-price-target-on-ai-infrastructure-concerns-697b8c",
-      "title": "UBS cuts Oracle stock price target on AI infrastructure concerns",
-      "dek": "UBS cuts Oracle stock price target on AI infrastructure concerns",
-      "url": "https://ph.investing.com/news/stock-market-news/ubs-cuts-oracle-stock-price-target-on-ai-infrastructure-concerns-93CH-2535060",
-      "source": "Investing Philippines",
+      "id": "905a690b4f3c7427",
+      "slug": "assenagon-asset-management-s-a-has-190-02-million-stock-holdings-in-salesforce-inc-crm-077bf1",
+      "title": "Assenagon Asset Management S.A. Has $190.02 Million Stock Holdings in Salesforce Inc. $CRM",
+      "dek": "Assenagon Asset Management S.A. raised its holdings in Salesforce Inc. (NYSE:CRM – Free Report) by 18.5% during the second quarter, according to its most recent disclosure with the Securities and Exchange Commission. The institutional investor owned 1,212,968 shares of the CRM provider’s stock after",
+      "url": "https://www.americanbankingnews.com/2026/08/07/assenagon-asset-management-s-a-has-190-02-million-stock-holdings-in-salesforce-inc-crm.html",
+      "source": "Americanbankingnews",
       "sourceType": "external",
-      "image": "https://i-invdn-com.investing.com/news/oracle_2_M_1440048709.jpg",
-      "publishedAt": "2026-08-06T11:06:18.000Z",
+      "image": "https://www.marketbeat.com/logos/salesforcecom-inc-logo-1200x675.png",
+      "publishedAt": "2026-08-07T08:05:25.000Z",
       "topic": "Business & Earnings",
+      "tags": [
+        "sec filing articles",
+        "market news"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "5e7a313c3335b905",
+      "slug": "assenagon-asset-management-s-a-increases-stake-in-oracle-corporation-orcl-0149bf",
+      "title": "Assenagon Asset Management S.A. Increases Stake in Oracle Corporation $ORCL",
+      "dek": "Assenagon Asset Management S.A. raised its position in Oracle Corporation (NYSE:ORCL – Free Report) by 56.6% in the 2nd quarter, Holdings Channel reports. The fund owned 1,718,790 shares of the enterprise software provider’s stock after acquiring an additional 621,231 shares during the period. Assen",
+      "url": "https://zolmax.com/investing/assenagon-asset-management-s-a-increases-stake-in-oracle-corporation-orcl/11942958.html",
+      "source": "Zolmax",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-08-07T08:05:17.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "investing",
+        "sec filing articles"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "7eccb07a07c36b5b",
+      "slug": "the-ai-bubble-doesn-t-burst-in-the-algorithm-a821ad",
+      "title": "The AI Bubble Doesn't Burst in the Algorithm",
+      "dek": "Even the fear of declining investments by hyperscalers in artificial intelligence infrastructure can destroy billions in market value and thus put pressure on the supply chain. We explain why the AI bubble looks different than often assumed.",
+      "url": "https://www.all-about-industries.com/the-ai-bubble-doesnt-burst-in-the-algorithm-a-12153fe5f28ed29e2d6736f179ac4c1a/",
+      "source": "All About Industries",
+      "sourceType": "external",
+      "image": "http://www.all-about-industries.com/imagerss/OWkV-UVbYBbcilli9kTHgKxmNA0=/500x500/smart/filters:format(jpg):quality(80)/p7i.vogel.de/wcms/1c/ba/1cba2c23c75d7e5d18f726598dc00708/0132680361v1.jpeg",
+      "publishedAt": "2026-08-07T08:00:00.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
         "AI"
       ],
       "priority": 42
     },
     {
-      "id": "de1384f5280166e6",
-      "slug": "information-systems-075e98",
-      "title": "Information Systems",
-      "dek": "Aimed at graduates from any discipline, this course will teach you to design and implement information systems and effective project management techniques alongside practical computing skills, including computer programming. The MSc award is CILIP accredited.",
-      "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2026/information-systems-msc",
-      "source": "University Of Sheffield",
+      "id": "dbf534cf6b6f65eb",
+      "slug": "michael-burry-exits-microsoft-oracle-stocks-why-is-he-still-shorting-palantir-4f7b63",
+      "title": "Michael Burry exits Microsoft, Oracle stocks: why is he still shorting Palantir?",
+      "dek": "Michael Burry has exited his bullish Microsoft trade and closed his remaining bearish Oracle position, but one prominent artificial-intelligence wager is still alive: Palantir stock. That decision looks provocative after Palantir shares surged nearly 30% on Tuesday following another blowout quarter.",
+      "url": "https://invezz.com/news/2026/08/07/michael-burry-exits-microsoft-oracle-stocks-why-is-he-still-shorting-palantir/",
+      "source": "Invezz",
       "sourceType": "external",
-      "image": "https://sheffield.ac.uk/sites/default/files/styles/two_thirds_2x/public/2021-03/AO200187.jpg?h=a93980ca&itok=xOVj_83F",
-      "publishedAt": "2026-08-06T10:49:47.000Z",
-      "topic": "Training & Certification",
-      "tags": [],
-      "priority": 41
-    },
-    {
-      "id": "13421ac26e25a794",
-      "slug": "enterprise-ai-agent-adoption-market-analysis-2026-2035-north-america-leads-with-39-6-sha-c6673d",
-      "title": "Enterprise AI Agent Adoption Market Analysis 2026-2035: North America Leads with 39.6% Share, Microsoft and Salesforce Drive AI Transformation",
-      "dek": "The Enterprise AI Agent Adoption Market size was at US$ 6.65 billion in 2025 and is expected to reach US$ 142.35 billion by 2035, growing at a CAGR of 36.9% during the forecast period 2026 to 2035. The market is experiencing",
-      "url": "https://www.openpr.com/news/4597109/enterprise-ai-agent-adoption-market-analysis-2026-2035-north",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/8/L806700262_k.jpg",
-      "publishedAt": "2026-08-06T10:40:48.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/08/2.png",
+      "publishedAt": "2026-08-07T07:03:33.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "it",
-        "new media & software"
+        "stock market"
       ],
-      "priority": 41
+      "priority": 42
     },
     {
-      "id": "dd2bb336b51eabc4",
-      "slug": "attackers-compile-khunt-inside-oracle-to-turn-sql-injection-into-windows-system-access-890ba1",
-      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
-      "dek": "Swati KhandelwalAug 06, 2026Database Security / Endpoint Security Attackers broke into an organization’s Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit...",
-      "url": "https://www.swapupdate.in/attackers-compile-khunt-inside-oracle-to-turn-sql-injection-into-windows-system-access/",
-      "source": "Swapupdate",
+      "id": "2cb79d6e4303ad2a",
+      "slug": "michael-burry-shares-three-great-charts-that-show-big-ai-capex-could-unwind-as-badly-as--987f64",
+      "title": "Michael Burry Shares 'Three Great Charts' That Show Big AI Capex Could Unwind As Badly As Housing Did In 2008",
+      "dek": "Cloud companies’ capex would run at roughly 3% of the U.S. GDP every year from 2027 to 2029, up from 0.3% of GDP in 2019 and 1.4% in 2025, according to a top economist.",
+      "url": "https://newsable.asianetnews.com/markets/michael-burry-shares-three-great-charts-that-show-big-ai-capex-could-unwind-as-badly-as-housing-did-in-2008-articleshow-82ikmwe",
+      "source": "Asianet Newsable",
       "sourceType": "external",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGMHYrRkDGf3XV_lOoUbE1UCSjvcN9x-XNpNGpX_f45JqZzd2FrxJ-metvu-U5VyDqH2PGNaY9MiSeShhH-YVN3O4ryN5lh4ICsuXtz0-DuCSAgnywXUifDOf_qZS81AtjRGNQWgs1QnL4Eu54icswla_ZK7qGoZqWDaVzPX46pmcTrvj_ec0yQwrt9k/s1700-e365/oracle-root.jpg",
-      "publishedAt": "2026-08-06T10:35:02.000Z",
-      "topic": "Security",
-      "tags": [
-        "technology"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "fab00698c2b11b7b",
-      "slug": "mcminn-phil-professor-0db4f8",
-      "title": "McMinn, Phil, Professor",
-      "dek": "Research interests: AIxSE, LLMs for Software Engineering, Software testing, Search-based software engineering, Test oracles, Test flakiness and Mutation analysis.",
-      "url": "https://sheffield.ac.uk/cs/people/academic/phil-mcminn",
-      "source": "University Of Sheffield",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-08-06T10:34:10.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 41
-    },
-    {
-      "id": "074c250235a1d953",
-      "slug": "what-are-hyperscalers-the-companies-driving-the-ai-infrastructure-boom-ca2b7d",
-      "title": "What Are Hyperscalers? The Companies Driving The AI Infrastructure Boom",
-      "dek": "Discover what a hyperscaler is, which companies dominate the market, and why these cloud giants are investing billions in AI and data centers.",
-      "url": "https://www.forbes.com/sites/technology/article/what-is-a-hyperscaler/",
-      "source": "Forbes",
-      "sourceType": "external",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a71010c7b6bb14ea2605e24/0x0.jpg?width=960&precrop=1249%2C936%2Cx207%2Cy0",
-      "publishedAt": "2026-08-06T10:30:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "business",
-        "true evergreen seo contributor",
-        "innovation",
-        "/innovation",
-        "/energy",
-        "/ai"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "0a105a5d182ca734",
-      "slug": "cloud-gaming-game-streaming-market-to-reach-usd-52-64-billion-by-2032-driven-by-5g-ai-po-335bc9",
-      "title": "Cloud Gaming & Game-Streaming Market to Reach USD 52.64 Billion by 2032, Driven by 5G, AI-Powered Streaming, and Subscription Gaming Ecosystems",
-      "dek": "The global Cloud Gaming & Game-Streaming market was valued at USD 17.68 billion in 2025 and is projected to reach USD 52.64 billion by 2032, expanding at a CAGR of 16.87% during the forecast period from 2025 to 2032. The",
-      "url": "https://www.openpr.com/news/4597045/cloud-gaming-game-streaming-market-to-reach-usd-52-64-billion",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/8/L806226804_k.jpg",
-      "publishedAt": "2026-08-06T10:20:21.000Z",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-b59ea19c-5732-4209-81fd-54d198ac8a12.jpg",
+      "publishedAt": "2026-08-07T06:40:01.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "it",
-        "new media & software"
+        "markets"
       ],
       "priority": 41
     },
     {
-      "id": "eb3451444a4179cb",
-      "slug": "corecap-advisors-llc-raises-stake-in-oracle-corporation-orcl-694102",
-      "title": "CoreCap Advisors LLC Raises Stake in Oracle Corporation $ORCL",
-      "dek": "CoreCap Advisors LLC lifted its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 12.9% during the second quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission. The fund owned 39,682 shares of the enterprise software provider’s stock ",
-      "url": "https://www.americanbankingnews.com/2026/08/06/corecap-advisors-llc-raises-stake-in-oracle-corporation-orcl.html",
+      "id": "17060f088318371a",
+      "slug": "erste-group-bank-upgrades-salesforce-nyse-crm-to-buy-72a5db",
+      "title": "Erste Group Bank Upgrades Salesforce (NYSE:CRM) to Buy",
+      "dek": "Salesforce (NYSE:CRM – Get Free Report) was upgraded by equities research analysts at Erste Group Bank from a “hold” rating to a “buy” rating in a research report issued on Wednesday, MarketBeat reports. A number of other brokerages have also recently weighed in on CRM. Barclays raised shares of Sal",
+      "url": "https://www.americanbankingnews.com/2026/08/07/erste-group-bank-upgrades-salesforce-nysecrm-to-buy.html",
       "source": "Americanbankingnews",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-08-06T07:55:27.000Z",
+      "image": "https://www.marketbeat.com/logos/salesforcecom-inc-logo-1200x675.png",
+      "publishedAt": "2026-08-07T06:18:49.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "market news",
-        "sec filing articles"
+        "analyst articles - us"
       ],
-      "priority": 39
+      "priority": 41
     },
     {
-      "id": "68103ef2f0489e5c",
-      "slug": "veeam-data-platform-v13-1-now-available-helping-organizations-recover-clean-and-fast-fro-777f9d",
-      "title": "Veeam Data Platform v13.1 Now Available, Helping Organizations Recover Clean and Fast from Cyber Disruption",
-      "dek": "Veeam Software today announced the general availability of Veeam Data Platform v13.1, advancing the industry’s standard for data resilience by converging platform innovation with enterprise scale. The release expands customer choice with six new hypervisor platforms, extends malware scanning to NAS ",
-      "url": "https://cxotoday.com/media-coverage/veeam-data-platform-v13-1-now-available-helping-organizations-recover-clean-and-fast-from-cyber-disruption/",
-      "source": "Cxotoday",
+      "id": "31dc24a587ca39a2",
+      "slug": "computer-science-incl-professional-experience-84c08e",
+      "title": "Computer Science Incl Professional Experience",
+      "dek": "From driving cancer research forward to accurately predicting the weather, Computer Scientists are powering progress. In fact everything from social care to cybersecurity or even space travel, relies on the talents of Computer Science graduates. We would say the sky is the limit, but we’re already w",
+      "url": "https://www.qub.ac.uk/courses/undergraduate/computer-science-incl-professional-experience-meng-g405/",
+      "source": "Queen's University Belfast",
       "sourceType": "external",
-      "image": "https://cxotoday.com/wp-content/uploads/2023/10/veeam-300x90.png",
-      "publishedAt": "2026-08-06T06:51:44.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "veeam",
-        "media coverage"
-      ],
-      "priority": 39
+      "image": "",
+      "publishedAt": "2026-08-07T00:00:00.000Z",
+      "topic": "Security",
+      "tags": [],
+      "priority": 37
     },
     {
-      "id": "4958dd811e2238ea",
-      "slug": "big-tech-turns-to-fuel-cells-to-power-the-ai-boom-5128b6",
-      "title": "Big Tech Turns to Fuel Cells to Power the AI Boom",
-      "dek": "Market Analysis by covering: Oracle Corporation, Equinix Inc, FuelCell Energy Inc, Bloom Energy Corp. Read 's Market Analysis on Investing.com UK.",
-      "url": "https://uk.investing.com/analysis/big-tech-turns-to-fuel-cells-to-power-the-ai-boom-200626994",
-      "source": "Investing Uk",
+      "id": "d4e6300b365aa59b",
+      "slug": "beyond-backup-vast-edge-turns-netsuite-backup-data-into-ai-powered-compliance-and-recove-54e9ba",
+      "title": "Beyond Backup: Vast Edge Turns NetSuite Backup Data into AI-Powered Compliance and Recovery Intelligence",
+      "dek": "New AI capabilities deliver compliance monitoring, risk alerts, recovery insights, and a conversational AI assistant for real-time NetSuite backup analysis.",
+      "url": "https://www.einpresswire.com/article/932469749/beyond-backup-vast-edge-turns-netsuite-backup-data-into-ai-powered-compliance-and-recovery-intelligence",
+      "source": "Ein Presswire",
       "sourceType": "external",
-      "image": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
-      "publishedAt": "2026-08-06T06:50:00.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://img.einnews.com/ampsize/1166786/ai-powered-netsuite-backup-anal.jpeg",
+      "publishedAt": "2026-08-07T00:00:00.000Z",
+      "topic": "Security",
       "tags": [
-        "equinix inc",
-        "oracle corporation",
-        "fuelcell energy inc",
-        "bloom energy corp"
+        "it industry",
+        "retail",
+        "california",
+        "healthcare and pharmaceuticals industry",
+        "banking",
+        "finance and investment industry"
       ],
-      "priority": 39
+      "priority": 37
     },
     {
-      "id": "d3249d39ee66f4be",
-      "slug": "15-advanced-mysql-database-interview-questions-and-answers-e0cbc3",
-      "title": "15 Advanced MySQL Database Interview Questions and Answers",
-      "dek": "The post 15 Advanced MySQL Database Interview Questions and Answers first appeared on Tecmint: Linux Howtos, Tutorials & Guides . Much of the MySQL interview prep you’ll find online is based on outdated versions that reached end-of-life years ago. If The post 15 Advanced MySQL Database Interview Que",
-      "url": "https://www.tecmint.com/mysql-advance-interview-questions/",
-      "source": "Tecmint",
+      "id": "47bab862267eb2c2",
+      "slug": "earnings-call-transcript-cloudflare-tops-estimates-in-q2-2026-shares-jump-17-c7f6b3",
+      "title": "Earnings call transcript: Cloudflare tops estimates in Q2 2026, shares jump 17%",
+      "dek": "Earnings call transcript: Cloudflare tops estimates in Q2 2026, shares jump 17%",
+      "url": "https://ng.investing.com/news/transcripts/earnings-call-transcript-cloudflare-tops-estimates-in-q2-2026-shares-jump-17-93CH-2646143",
+      "source": "Investing Nigeria",
       "sourceType": "external",
-      "image": "https://www.tecmint.com/wp-content/uploads/2014/06/MySQL-Interview-Questions-and-Answers-for-Linux-Users.webp",
-      "publishedAt": "2026-08-06T05:58:22.000Z",
-      "topic": "AI & Database",
+      "image": "https://i-invdn-com.investing.com/news/389da45fab1145bdde37c1802bd5980b_M.jpg",
+      "publishedAt": "2026-08-06T22:32:14.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "mysql questions",
-        "interview questions"
+        "Earnings"
       ],
-      "priority": 38
+      "priority": 36
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1989,6 +1904,88 @@
       "tags": [
         "OCI",
         "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "be8b92279cd0831f",
+      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
+      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-09T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "d38db88cd3fd3cc0",
+      "slug": "working-with-oke-virtual-nodes-f5a370",
+      "title": "Working with OKE Virtual Nodes",
+      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-02T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "bd401ec004db1755",
+      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
+      "title": "Introduction to OCI Container Engine for Kubernetes",
+      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-25T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "1d3aa287378f7e71",
+      "slug": "basics-of-kubernetes-23e26c",
+      "title": "Basics of Kubernetes",
+      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
+      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-18T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ec54bf5b81f570ed",
+      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
+      "title": "Oracle Cloud Infrastructure Registry",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-11T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "OCI",
+        "Oracle Cloud Infrastructure"
       ],
       "priority": 36
     }
