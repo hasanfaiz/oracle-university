@@ -6,7 +6,7 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 21:05:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 20:54:45 GMT</lastBuildDate>
     
     <item>
       <title>Oracle Sets the Date for its Fourth Quarter Fiscal Year 2026 Earnings Announcement</title>
@@ -36,31 +36,76 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-Second-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>Amazon CEO Andy Jassy Just Gave Investors 220 Billion Reasons to Buy Micron Stock</title>
-      <link>https://oracle-university.com/stories/amazon-ceo-andy-jassy-just-gave-investors-220-billion-reasons-to-buy-micron-stock-0f5ce0/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/amazon-ceo-andy-jassy-just-gave-investors-220-billion-reasons-to-buy-micron-stock-0f5ce0/</guid>
-      <pubDate>Fri, 07 Aug 2026 09:00:00 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Amazon just raised its artificial intelligence (AI) budget to $220 billion, up from a prior estimate of $200 billion.</description>
-      <source url="https://www.fool.com/investing/2026/08/07/amazon-ceo-andy-jassy-just-gave-investors-220-bill/">Fool</source>
+      <title>Global tech sector records over 1.63 lakh layoffs this year to date</title>
+      <link>https://oracle-university.com/stories/global-tech-sector-records-over-1-63-lakh-layoffs-this-year-to-date-0871a6/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/global-tech-sector-records-over-1-63-lakh-layoffs-this-year-to-date-0871a6/</guid>
+      <pubDate>Sat, 08 Aug 2026 06:09:43 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>The report from TradingPlatforms said enterprise software accounted for roughly 8.14 per cent of the total job cuts, making it the fifth most affected tech subsector after Cloud and SaaS (37,492 layoffs), e‐commerce and marketplaces (22,633), IT services (16,756) and social media (13,592).</description>
+      <source url="https://www.thehansindia.com/business/global-tech-sector-records-over-163-lakh-layoffs-this-year-to-date-1106794">The Hans India</source>
     </item>
     <item>
-      <title>Bluffdale ACM Chapter Hosts Summer Tech Talk 2026: “Human + Machine: AI in Everyday Engineering”</title>
-      <link>https://oracle-university.com/stories/bluffdale-acm-chapter-hosts-summer-tech-talk-2026-human-machine-ai-in-everyday-engineeri-eb0fc5/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/bluffdale-acm-chapter-hosts-summer-tech-talk-2026-human-machine-ai-in-everyday-engineeri-eb0fc5/</guid>
-      <pubDate>Fri, 07 Aug 2026 08:56:17 GMT</pubDate>
+      <title>Global Tech Layoffs Hit 1.63 Lakh in 2026; AI Drives 91,000 Job Cuts</title>
+      <link>https://oracle-university.com/stories/global-tech-layoffs-hit-1-63-lakh-in-2026-ai-drives-91-000-job-cuts-8da391/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/global-tech-layoffs-hit-1-63-lakh-in-2026-ai-drives-91-000-job-cuts-8da391/</guid>
+      <pubDate>Sat, 08 Aug 2026 05:55:08 GMT</pubDate>
       <category>Applications &amp; NetSuite</category>
-      <description>BLUFFDALE, UT — The Bluffdale ACM Chapter held its Summer Tech Talk 2026 on Saturday, August 1, running the evening in a hybrid format from its venue at 14895 S. Noell Nelson Drive in Bluffdale. Six speakers from Amazon Web Services, US Bank, UnitedHealth, and Blue Ribbon Global Technologies present</description>
-      <source url="https://techbullion.com/bluffdale-acm-chapter-hosts-summer-tech-talk-2026-human-machine-ai-in-everyday-engineering/">Techbullion</source>
+      <description>Global tech firms cut 1,63,427 jobs in 2026, with AI cited in 91,215 layoffs. Enterprise software, Oracle, Cisco hit hardest. Report details.</description>
+      <source url="https://www.newkerala.com/news/a/global-tech-sector-records-over-163-lakh-layoffs-344.htm">Newkerala.com</source>
     </item>
     <item>
-      <title>Legacy DAM Abandoned your Older Databases. SecuPi Keeps them Secure, Monitored, and Audit-Ready</title>
-      <link>https://oracle-university.com/stories/legacy-dam-abandoned-your-older-databases-secupi-keeps-them-secure-monitored-and-audit-r-47b124/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/legacy-dam-abandoned-your-older-databases-secupi-keeps-them-secure-monitored-and-audit-r-47b124/</guid>
-      <pubDate>Fri, 07 Aug 2026 08:21:21 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>SecuPi supports Microsoft SQL Server 2008, 2008 R2, and 2012, Oracle 9i, 10g, 11g and other types -helping organizations close audit gaps and meet compliance mandates across legacy and modern environments. SecuPi today announced support for legacy Oracle, SQL Server and other database types that are</description>
-      <source url="https://cioinfluence.com/security/legacy-dam-abandoned-your-older-databases-secupi-keeps-them-secure-monitored-and-audit-ready/">Cio Influence</source>
+      <title>Amazon&#39;s AI Spending Keeps Rising. Andy Jassy Says Memory Costs Drove $20 Billion Capex Increase.</title>
+      <link>https://oracle-university.com/stories/amazon-s-ai-spending-keeps-rising-andy-jassy-says-memory-costs-drove-20-billion-capex-in-726f4d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/amazon-s-ai-spending-keeps-rising-andy-jassy-says-memory-costs-drove-20-billion-capex-in-726f4d/</guid>
+      <pubDate>Sat, 08 Aug 2026 00:38:01 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Amazon has increased its planned capital spending for 2026 to about $220 billion, with CEO Andy Jassy citing higher AI memory costs and robust cloud demand that is expected to outstrip available capacity through at least 2028.</description>
+      <source url="https://www.ibtimes.com/amazons-ai-spending-keeps-rising-andy-jassy-says-memory-costs-drove-20-billion-capex-increase-3806189">International Business Times</source>
+    </item>
+    <item>
+      <title>We Are Renting Our Brains, And Nobody Reads The Lease</title>
+      <link>https://oracle-university.com/stories/we-are-renting-our-brains-and-nobody-reads-the-lease-853e27/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/we-are-renting-our-brains-and-nobody-reads-the-lease-853e27/</guid>
+      <pubDate>Sat, 08 Aug 2026 00:11:44 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>I spent a year teaching a machine to speak for me. One line in a help center article ended it. What AI vendor lock-in actually costs, and who decides.</description>
+      <source url="https://www.forbes.com/sites/jasonsnyder/2026/08/07/we-are-renting-our-brains-and-nobody-reads-the-lease/">Forbes</source>
+    </item>
+    <item>
+      <title>Best Cybersecurity Stocks To Add to Your Watchlist – August 6th</title>
+      <link>https://oracle-university.com/stories/best-cybersecurity-stocks-to-add-to-your-watchlist-august-6th-eac90e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-cybersecurity-stocks-to-add-to-your-watchlist-august-6th-eac90e/</guid>
+      <pubDate>Sat, 08 Aug 2026 00:04:53 GMT</pubDate>
+      <category>Security</category>
+      <description>Palo Alto Networks, CrowdStrike, Fortinet, SentinelOne, BlackBerry, Globant, and NetScout Systems are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop products and services to prote</description>
+      <source url="https://baseballnewssource.com/2026/08/07/best-cybersecurity-stocks-to-add-to-your-watchlist-august-6th/11215653.html">Bbns</source>
+    </item>
+    <item>
+      <title>💻 Boston IT Roundup: Multiple High-Paying Tech Roles</title>
+      <link>https://oracle-university.com/stories/boston-it-roundup-multiple-high-paying-tech-roles-81d3d9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/boston-it-roundup-multiple-high-paying-tech-roles-81d3d9/</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Boston’s tech scene is in full swing right now, from cloud and AI to SAP and DevOps. If you’re in IT and open to your next move, there are several strong o</description>
+      <source url="https://www.newsbreak.com/boston-ma-daily-brief-373341363/4817462248853-boston-it-roundup-multiple-high-paying-tech-roles">Newsbreak</source>
+    </item>
+    <item>
+      <title>Computer Science</title>
+      <link>https://oracle-university.com/stories/computer-science-5db941/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/computer-science-5db941/</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>From driving cancer research forward to accurately predicting the weather, Computer Scientists are powering progress. In fact everything from social care to cybersecurity or even space travel, relies on the talents of Computer Science graduates. We would say the sky is the limit, but we’re already w</description>
+      <source url="https://www.qub.ac.uk/courses/undergraduate/computer-science-meng-g402/">Queen&#39;s University Belfast</source>
+    </item>
+    <item>
+      <title>💻 McLean, VA Tech Jobs: Multiple High-Paying Roles Open Now</title>
+      <link>https://oracle-university.com/stories/mclean-va-tech-jobs-multiple-high-paying-roles-open-now-b56161/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/mclean-va-tech-jobs-multiple-high-paying-roles-open-now-b56161/</guid>
+      <pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>McLean’s tech scene is buzzing with cleared roles, cloud work, and data jobs—especially around federal clients and cybersecurity. If you’re in IT and anywh</description>
+      <source url="https://www.newsbreak.com/mc-lean-va-daily-brief-375427864/4817230576719-mclean-va-tech-jobs-multiple-high-paying-roles-open-now">Newsbreak</source>
     </item>
     <item>
       <title>&quot;Embracing Virtual Threads with Helidon&quot; [I/O]</title>
@@ -72,94 +117,22 @@
       <source url="https://inside.java/2026/08/06/podcast-065/">Inside Java</source>
     </item>
     <item>
-      <title>Assenagon Asset Management S.A. Boosts Stock Position in Oracle Corporation $ORCL</title>
-      <link>https://oracle-university.com/stories/assenagon-asset-management-s-a-boosts-stock-position-in-oracle-corporation-orcl-a1cc1d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/assenagon-asset-management-s-a-boosts-stock-position-in-oracle-corporation-orcl-a1cc1d/</guid>
-      <pubDate>Fri, 07 Aug 2026 08:05:30 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Assenagon Asset Management S.A. raised its holdings in Oracle Corporation (NYSE:ORCL – Free Report) by 56.6% during the second quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 1,718,790 shares of </description>
-      <source url="https://www.americanbankingnews.com/2026/08/07/assenagon-asset-management-s-a-boosts-stock-position-in-oracle-corporation-orcl.html">Americanbankingnews</source>
-    </item>
-    <item>
-      <title>Assenagon Asset Management S.A. Has $190.02 Million Stock Holdings in Salesforce Inc. $CRM</title>
-      <link>https://oracle-university.com/stories/assenagon-asset-management-s-a-has-190-02-million-stock-holdings-in-salesforce-inc-crm-077bf1/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/assenagon-asset-management-s-a-has-190-02-million-stock-holdings-in-salesforce-inc-crm-077bf1/</guid>
-      <pubDate>Fri, 07 Aug 2026 08:05:25 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Assenagon Asset Management S.A. raised its holdings in Salesforce Inc. (NYSE:CRM – Free Report) by 18.5% during the second quarter, according to its most recent disclosure with the Securities and Exchange Commission. The institutional investor owned 1,212,968 shares of the CRM provider’s stock after</description>
-      <source url="https://www.americanbankingnews.com/2026/08/07/assenagon-asset-management-s-a-has-190-02-million-stock-holdings-in-salesforce-inc-crm.html">Americanbankingnews</source>
-    </item>
-    <item>
-      <title>Assenagon Asset Management S.A. Increases Stake in Oracle Corporation $ORCL</title>
-      <link>https://oracle-university.com/stories/assenagon-asset-management-s-a-increases-stake-in-oracle-corporation-orcl-0149bf/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/assenagon-asset-management-s-a-increases-stake-in-oracle-corporation-orcl-0149bf/</guid>
-      <pubDate>Fri, 07 Aug 2026 08:05:17 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Assenagon Asset Management S.A. raised its position in Oracle Corporation (NYSE:ORCL – Free Report) by 56.6% in the 2nd quarter, Holdings Channel reports. The fund owned 1,718,790 shares of the enterprise software provider’s stock after acquiring an additional 621,231 shares during the period. Assen</description>
-      <source url="https://zolmax.com/investing/assenagon-asset-management-s-a-increases-stake-in-oracle-corporation-orcl/11942958.html">Zolmax</source>
-    </item>
-    <item>
-      <title>The AI Bubble Doesn&#39;t Burst in the Algorithm</title>
-      <link>https://oracle-university.com/stories/the-ai-bubble-doesn-t-burst-in-the-algorithm-a821ad/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-ai-bubble-doesn-t-burst-in-the-algorithm-a821ad/</guid>
-      <pubDate>Fri, 07 Aug 2026 08:00:00 GMT</pubDate>
+      <title>Oracle Surges: What&#39;s Driving the Sudden Rally</title>
+      <link>https://oracle-university.com/stories/oracle-surges-what-s-driving-the-sudden-rally-9bdee5/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-surges-what-s-driving-the-sudden-rally-9bdee5/</guid>
+      <pubDate>Fri, 07 Aug 2026 22:17:12 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Even the fear of declining investments by hyperscalers in artificial intelligence infrastructure can destroy billions in market value and thus put pressure on the supply chain. We explain why the AI bubble looks different than often assumed.</description>
-      <source url="https://www.all-about-industries.com/the-ai-bubble-doesnt-burst-in-the-algorithm-a-12153fe5f28ed29e2d6736f179ac4c1a/">All About Industries</source>
+      <description>ONLY AVAILABLE IN PAID PLANS</description>
+      <source url="https://www.bundle.app/en/finance/oracle-surges-whats-driving-the-sudden-rally-F47A128C-1672-4465-B216-4F9519F10483">Bundle</source>
     </item>
     <item>
-      <title>Michael Burry exits Microsoft, Oracle stocks: why is he still shorting Palantir?</title>
-      <link>https://oracle-university.com/stories/michael-burry-exits-microsoft-oracle-stocks-why-is-he-still-shorting-palantir-4f7b63/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/michael-burry-exits-microsoft-oracle-stocks-why-is-he-still-shorting-palantir-4f7b63/</guid>
-      <pubDate>Fri, 07 Aug 2026 07:03:33 GMT</pubDate>
+      <title>Oracle (NYSE:ORCL) Stock Price Up 2.4% – Time to Buy?</title>
+      <link>https://oracle-university.com/stories/oracle-nyse-orcl-stock-price-up-2-4-time-to-buy-f46322/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-nyse-orcl-stock-price-up-2-4-time-to-buy-f46322/</guid>
+      <pubDate>Fri, 07 Aug 2026 21:21:07 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Michael Burry has exited his bullish Microsoft trade and closed his remaining bearish Oracle position, but one prominent artificial-intelligence wager is still alive: Palantir stock. That decision looks provocative after Palantir shares surged nearly 30% on Tuesday following another blowout quarter.</description>
-      <source url="https://invezz.com/news/2026/08/07/michael-burry-exits-microsoft-oracle-stocks-why-is-he-still-shorting-palantir/">Invezz</source>
-    </item>
-    <item>
-      <title>Michael Burry Shares &#39;Three Great Charts&#39; That Show Big AI Capex Could Unwind As Badly As Housing Did In 2008</title>
-      <link>https://oracle-university.com/stories/michael-burry-shares-three-great-charts-that-show-big-ai-capex-could-unwind-as-badly-as--987f64/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/michael-burry-shares-three-great-charts-that-show-big-ai-capex-could-unwind-as-badly-as--987f64/</guid>
-      <pubDate>Fri, 07 Aug 2026 06:40:01 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Cloud companies’ capex would run at roughly 3% of the U.S. GDP every year from 2027 to 2029, up from 0.3% of GDP in 2019 and 1.4% in 2025, according to a top economist.</description>
-      <source url="https://newsable.asianetnews.com/markets/michael-burry-shares-three-great-charts-that-show-big-ai-capex-could-unwind-as-badly-as-housing-did-in-2008-articleshow-82ikmwe">Asianet Newsable</source>
-    </item>
-    <item>
-      <title>Erste Group Bank Upgrades Salesforce (NYSE:CRM) to Buy</title>
-      <link>https://oracle-university.com/stories/erste-group-bank-upgrades-salesforce-nyse-crm-to-buy-72a5db/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/erste-group-bank-upgrades-salesforce-nyse-crm-to-buy-72a5db/</guid>
-      <pubDate>Fri, 07 Aug 2026 06:18:49 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Salesforce (NYSE:CRM – Get Free Report) was upgraded by equities research analysts at Erste Group Bank from a “hold” rating to a “buy” rating in a research report issued on Wednesday, MarketBeat reports. A number of other brokerages have also recently weighed in on CRM. Barclays raised shares of Sal</description>
-      <source url="https://www.americanbankingnews.com/2026/08/07/erste-group-bank-upgrades-salesforce-nysecrm-to-buy.html">Americanbankingnews</source>
-    </item>
-    <item>
-      <title>Computer Science Incl Professional Experience</title>
-      <link>https://oracle-university.com/stories/computer-science-incl-professional-experience-84c08e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/computer-science-incl-professional-experience-84c08e/</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>From driving cancer research forward to accurately predicting the weather, Computer Scientists are powering progress. In fact everything from social care to cybersecurity or even space travel, relies on the talents of Computer Science graduates. We would say the sky is the limit, but we’re already w</description>
-      <source url="https://www.qub.ac.uk/courses/undergraduate/computer-science-incl-professional-experience-meng-g405/">Queen&#39;s University Belfast</source>
-    </item>
-    <item>
-      <title>Beyond Backup: Vast Edge Turns NetSuite Backup Data into AI-Powered Compliance and Recovery Intelligence</title>
-      <link>https://oracle-university.com/stories/beyond-backup-vast-edge-turns-netsuite-backup-data-into-ai-powered-compliance-and-recove-54e9ba/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/beyond-backup-vast-edge-turns-netsuite-backup-data-into-ai-powered-compliance-and-recove-54e9ba/</guid>
-      <pubDate>Fri, 07 Aug 2026 00:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>New AI capabilities deliver compliance monitoring, risk alerts, recovery insights, and a conversational AI assistant for real-time NetSuite backup analysis.</description>
-      <source url="https://www.einpresswire.com/article/932469749/beyond-backup-vast-edge-turns-netsuite-backup-data-into-ai-powered-compliance-and-recovery-intelligence">Ein Presswire</source>
-    </item>
-    <item>
-      <title>Earnings call transcript: Cloudflare tops estimates in Q2 2026, shares jump 17%</title>
-      <link>https://oracle-university.com/stories/earnings-call-transcript-cloudflare-tops-estimates-in-q2-2026-shares-jump-17-c7f6b3/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/earnings-call-transcript-cloudflare-tops-estimates-in-q2-2026-shares-jump-17-c7f6b3/</guid>
-      <pubDate>Thu, 06 Aug 2026 22:32:14 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Earnings call transcript: Cloudflare tops estimates in Q2 2026, shares jump 17%</description>
-      <source url="https://ng.investing.com/news/transcripts/earnings-call-transcript-cloudflare-tops-estimates-in-q2-2026-shares-jump-17-93CH-2646143">Investing Nigeria</source>
+      <description>Oracle Corporation (NYSE:ORCL – Get Free Report)’s share price rose 2.4% during trading on Friday . The stock traded as high as $147.16 and last traded at $146.93. 21,981,880 shares traded hands during trading, a decline of 25% from the average daily volume of 29,481,105 shares. The stock had previo</description>
+      <source url="https://www.watchlistnews.com/oracle-nyseorcl-stock-price-up-2-4-time-to-buy/11175388.html">Watch List News</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -457,6 +430,33 @@
       <category>Oracle Cloud</category>
       <description>Have you ever wondered where all your digital memories, work projects, or favorite photos actually live in the cloud? In this episode, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to discuss cloud storage. They explore how data is carefully organized, the dif</description>
       <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-2">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>AI for Data: When Data meets Intelligence</title>
+      <link>https://oracle-university.com/stories/ai-for-data-when-data-meets-intelligence-f7601f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-for-data-when-data-meets-intelligence-f7601f/</guid>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In this two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle AI Vector an</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-for-data-when-data-meet-intelligence">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Part II of AI for Data: When Data meets Intelligence</title>
+      <link>https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</guid>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In the second of a two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle A</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-of-data-for-ai-when-data-meets-intelligence">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Cloud Data Centers: Core Concepts - Part 1</title>
+      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</guid>
+      <pubDate>Tue, 07 Oct 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Curious about what really goes on inside a cloud data center? In this episode, Lois Houston and Nikita Abraham chat with Principal OCI Instructor Orlando Gentil about how cloud data centers are transforming the way organizations manage technology. They explore the differences between traditional and</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-1">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>

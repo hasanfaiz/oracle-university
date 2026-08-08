@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T21:05:54.955Z",
+  "generatedAt": "2026-08-08T20:54:45.494Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -55,64 +55,150 @@
       "priority": 46
     },
     {
-      "id": "ca27b0f21ffb6054",
-      "slug": "amazon-ceo-andy-jassy-just-gave-investors-220-billion-reasons-to-buy-micron-stock-0f5ce0",
-      "title": "Amazon CEO Andy Jassy Just Gave Investors 220 Billion Reasons to Buy Micron Stock",
-      "dek": "Amazon just raised its artificial intelligence (AI) budget to $220 billion, up from a prior estimate of $200 billion.",
-      "url": "https://www.fool.com/investing/2026/08/07/amazon-ceo-andy-jassy-just-gave-investors-220-bill/",
-      "source": "Fool",
+      "id": "9b36808c9b9b704b",
+      "slug": "global-tech-sector-records-over-1-63-lakh-layoffs-this-year-to-date-0871a6",
+      "title": "Global tech sector records over 1.63 lakh layoffs this year to date",
+      "dek": "The report from TradingPlatforms said enterprise software accounted for roughly 8.14 per cent of the total job cuts, making it the fifth most affected tech subsector after Cloud and SaaS (37,492 layoffs), e‐commerce and marketplaces (22,633), IT services (16,756) and social media (13,592).",
+      "url": "https://www.thehansindia.com/business/global-tech-sector-records-over-163-lakh-layoffs-this-year-to-date-1106794",
+      "source": "The Hans India",
       "sourceType": "external",
-      "image": "https://g.foolcdn.com/editorial/images/882022/andy-jassy_amazon_amzn_ceo_imagesource_amazoncom-inc.jpg",
-      "publishedAt": "2026-08-07T09:00:00.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://assets.thehansindia.com/h-upload/2026/08/08/1686865-layoffs.webp",
+      "publishedAt": "2026-08-08T06:09:43.000Z",
+      "topic": "Oracle Cloud",
       "tags": [
-        "investing",
-        "orcl",
-        "goog",
-        "1d0a730b-06c5-4b92-b17f-bc3aea7369a8",
-        "technology and telecom",
-        "googl"
+        "top stories",
+        "business"
       ],
-      "priority": 43
+      "priority": 41
     },
     {
-      "id": "8ec76426dd642db4",
-      "slug": "bluffdale-acm-chapter-hosts-summer-tech-talk-2026-human-machine-ai-in-everyday-engineeri-eb0fc5",
-      "title": "Bluffdale ACM Chapter Hosts Summer Tech Talk 2026: “Human + Machine: AI in Everyday Engineering”",
-      "dek": "BLUFFDALE, UT — The Bluffdale ACM Chapter held its Summer Tech Talk 2026 on Saturday, August 1, running the evening in a hybrid format from its venue at 14895 S. Noell Nelson Drive in Bluffdale. Six speakers from Amazon Web Services, US Bank, UnitedHealth, and Blue Ribbon Global Technologies present",
-      "url": "https://techbullion.com/bluffdale-acm-chapter-hosts-summer-tech-talk-2026-human-machine-ai-in-everyday-engineering/",
-      "source": "Techbullion",
+      "id": "e37f3ae11a4a2ab4",
+      "slug": "global-tech-layoffs-hit-1-63-lakh-in-2026-ai-drives-91-000-job-cuts-8da391",
+      "title": "Global Tech Layoffs Hit 1.63 Lakh in 2026; AI Drives 91,000 Job Cuts",
+      "dek": "Global tech firms cut 1,63,427 jobs in 2026, with AI cited in 91,215 layoffs. Enterprise software, Oracle, Cisco hit hardest. Report details.",
+      "url": "https://www.newkerala.com/news/a/global-tech-sector-records-over-163-lakh-layoffs-344.htm",
+      "source": "Newkerala.com",
       "sourceType": "external",
-      "image": "https://techbullion.com/wp-content/uploads/2026/08/CEAD3CEF-1E32-4294-822E-9A6706CD8EEA_60F34894-282E-498C-B422-5BB42C5DFD88.jpeg",
-      "publishedAt": "2026-08-07T08:56:17.000Z",
+      "image": "https://one.newkerala.com/images/r/newkerala-com-news250.webp",
+      "publishedAt": "2026-08-08T05:55:08.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "summer tech talk",
-        "artificial intelligence",
-        "bluffdale acm chapter"
+        "AI"
       ],
-      "priority": 43
+      "priority": 41
     },
     {
-      "id": "f62a53b6f21c0a09",
-      "slug": "legacy-dam-abandoned-your-older-databases-secupi-keeps-them-secure-monitored-and-audit-r-47b124",
-      "title": "Legacy DAM Abandoned your Older Databases. SecuPi Keeps them Secure, Monitored, and Audit-Ready",
-      "dek": "SecuPi supports Microsoft SQL Server 2008, 2008 R2, and 2012, Oracle 9i, 10g, 11g and other types -helping organizations close audit gaps and meet compliance mandates across legacy and modern environments. SecuPi today announced support for legacy Oracle, SQL Server and other database types that are",
-      "url": "https://cioinfluence.com/security/legacy-dam-abandoned-your-older-databases-secupi-keeps-them-secure-monitored-and-audit-ready/",
-      "source": "Cio Influence",
+      "id": "7d7f589a8badd6bf",
+      "slug": "amazon-s-ai-spending-keeps-rising-andy-jassy-says-memory-costs-drove-20-billion-capex-in-726f4d",
+      "title": "Amazon's AI Spending Keeps Rising. Andy Jassy Says Memory Costs Drove $20 Billion Capex Increase.",
+      "dek": "Amazon has increased its planned capital spending for 2026 to about $220 billion, with CEO Andy Jassy citing higher AI memory costs and robust cloud demand that is expected to outstrip available capacity through at least 2028.",
+      "url": "https://www.ibtimes.com/amazons-ai-spending-keeps-rising-andy-jassy-says-memory-costs-drove-20-billion-capex-increase-3806189",
+      "source": "International Business Times",
       "sourceType": "external",
-      "image": "https://cioinfluence.com/wp-content/uploads/2026/08/african-analytics-using-data-dashboard-analytic-600nw-2389749905-1.jpg",
-      "publishedAt": "2026-08-07T08:21:21.000Z",
-      "topic": "AI & Database",
+      "image": "https://d.ibtimes.com/en/full/4631315/amazon.jpg?w=1600&h=900&q=88&f=3451d6a03997ffcb3f8ebc9efa381073",
+      "publishedAt": "2026-08-08T00:38:01.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "sql server",
-        "secupi",
-        "databases",
-        "oracle database",
-        "microsoft sql",
-        "cio influence news"
+        "amazon capital expenditure",
+        "amazon ai spending",
+        "amazon web services ai",
+        "micron stock",
+        "andy jassy ai",
+        "high bandwidth memory"
       ],
-      "priority": 43
+      "priority": 37
+    },
+    {
+      "id": "848fa19f3f674b30",
+      "slug": "we-are-renting-our-brains-and-nobody-reads-the-lease-853e27",
+      "title": "We Are Renting Our Brains, And Nobody Reads The Lease",
+      "dek": "I spent a year teaching a machine to speak for me. One line in a help center article ended it. What AI vendor lock-in actually costs, and who decides.",
+      "url": "https://www.forbes.com/sites/jasonsnyder/2026/08/07/we-are-renting-our-brains-and-nobody-reads-the-lease/",
+      "source": "Forbes",
+      "sourceType": "external",
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a766ff7915688290460b9b5/0x0.jpg",
+      "publishedAt": "2026-08-08T00:11:44.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "innovation",
+        "/leadership",
+        "/ai",
+        "ai",
+        "standard",
+        "cmo network"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "091428f5bbbbd6ae",
+      "slug": "best-cybersecurity-stocks-to-add-to-your-watchlist-august-6th-eac90e",
+      "title": "Best Cybersecurity Stocks To Add to Your Watchlist – August 6th",
+      "dek": "Palo Alto Networks, CrowdStrike, Fortinet, SentinelOne, BlackBerry, Globant, and NetScout Systems are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop products and services to prote",
+      "url": "https://baseballnewssource.com/2026/08/07/best-cybersecurity-stocks-to-add-to-your-watchlist-august-6th/11215653.html",
+      "source": "Bbns",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/palo-alto-networks-inc-logo-1200x675.png?v=20231213132526",
+      "publishedAt": "2026-08-08T00:04:53.000Z",
+      "topic": "Security",
+      "tags": [
+        "partner feed articles",
+        "markets"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "9a8de7ec19bd00f8",
+      "slug": "boston-it-roundup-multiple-high-paying-tech-roles-81d3d9",
+      "title": "💻 Boston IT Roundup: Multiple High-Paying Tech Roles",
+      "dek": "Boston’s tech scene is in full swing right now, from cloud and AI to SAP and DevOps. If you’re in IT and open to your next move, there are several strong o",
+      "url": "https://www.newsbreak.com/boston-ma-daily-brief-373341363/4817462248853-boston-it-roundup-multiple-high-paying-tech-roles",
+      "source": "Newsbreak",
+      "sourceType": "external",
+      "image": "https://img.particlenews.com/img/id/0uqf9w_1E3B7xWi00",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "boston ma daily brief",
+        "newsbreak",
+        "local news",
+        "breaking news"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "35bf640438f6076f",
+      "slug": "computer-science-5db941",
+      "title": "Computer Science",
+      "dek": "From driving cancer research forward to accurately predicting the weather, Computer Scientists are powering progress. In fact everything from social care to cybersecurity or even space travel, relies on the talents of Computer Science graduates. We would say the sky is the limit, but we’re already w",
+      "url": "https://www.qub.ac.uk/courses/undergraduate/computer-science-meng-g402/",
+      "source": "Queen's University Belfast",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
+      "topic": "Security",
+      "tags": [],
+      "priority": 37
+    },
+    {
+      "id": "d5786b1b465ca8b5",
+      "slug": "mclean-va-tech-jobs-multiple-high-paying-roles-open-now-b56161",
+      "title": "💻 McLean, VA Tech Jobs: Multiple High-Paying Roles Open Now",
+      "dek": "McLean’s tech scene is buzzing with cleared roles, cloud work, and data jobs—especially around federal clients and cybersecurity. If you’re in IT and anywh",
+      "url": "https://www.newsbreak.com/mc-lean-va-daily-brief-375427864/4817230576719-mclean-va-tech-jobs-multiple-high-paying-roles-open-now",
+      "source": "Newsbreak",
+      "sourceType": "external",
+      "image": "https://img.particlenews.com/img/id/0uqf9w_1E2xQR7F00",
+      "publishedAt": "2026-08-08T00:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "newsbreak",
+        "local news",
+        "💻 mclean",
+        "mc lean va daily brief",
+        "va tech jobs: multiple high-paying roles open now",
+        "breaking news"
+      ],
+      "priority": 37
     },
     {
       "id": "9964cc5d74726912",
@@ -129,172 +215,36 @@
         "Java",
         "OpenJDK"
       ],
-      "priority": 43
+      "priority": 37
     },
     {
-      "id": "d773e3222475fa6f",
-      "slug": "assenagon-asset-management-s-a-boosts-stock-position-in-oracle-corporation-orcl-a1cc1d",
-      "title": "Assenagon Asset Management S.A. Boosts Stock Position in Oracle Corporation $ORCL",
-      "dek": "Assenagon Asset Management S.A. raised its holdings in Oracle Corporation (NYSE:ORCL – Free Report) by 56.6% during the second quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 1,718,790 shares of ",
-      "url": "https://www.americanbankingnews.com/2026/08/07/assenagon-asset-management-s-a-boosts-stock-position-in-oracle-corporation-orcl.html",
-      "source": "Americanbankingnews",
+      "id": "fd080dfab2d6e9df",
+      "slug": "oracle-surges-what-s-driving-the-sudden-rally-9bdee5",
+      "title": "Oracle Surges: What's Driving the Sudden Rally",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/finance/oracle-surges-whats-driving-the-sudden-rally-F47A128C-1672-4465-B216-4F9519F10483",
+      "source": "Bundle",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-08-07T08:05:30.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "sec filing articles",
-        "market news"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "905a690b4f3c7427",
-      "slug": "assenagon-asset-management-s-a-has-190-02-million-stock-holdings-in-salesforce-inc-crm-077bf1",
-      "title": "Assenagon Asset Management S.A. Has $190.02 Million Stock Holdings in Salesforce Inc. $CRM",
-      "dek": "Assenagon Asset Management S.A. raised its holdings in Salesforce Inc. (NYSE:CRM – Free Report) by 18.5% during the second quarter, according to its most recent disclosure with the Securities and Exchange Commission. The institutional investor owned 1,212,968 shares of the CRM provider’s stock after",
-      "url": "https://www.americanbankingnews.com/2026/08/07/assenagon-asset-management-s-a-has-190-02-million-stock-holdings-in-salesforce-inc-crm.html",
-      "source": "Americanbankingnews",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/salesforcecom-inc-logo-1200x675.png",
-      "publishedAt": "2026-08-07T08:05:25.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "sec filing articles",
-        "market news"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "5e7a313c3335b905",
-      "slug": "assenagon-asset-management-s-a-increases-stake-in-oracle-corporation-orcl-0149bf",
-      "title": "Assenagon Asset Management S.A. Increases Stake in Oracle Corporation $ORCL",
-      "dek": "Assenagon Asset Management S.A. raised its position in Oracle Corporation (NYSE:ORCL – Free Report) by 56.6% in the 2nd quarter, Holdings Channel reports. The fund owned 1,718,790 shares of the enterprise software provider’s stock after acquiring an additional 621,231 shares during the period. Assen",
-      "url": "https://zolmax.com/investing/assenagon-asset-management-s-a-increases-stake-in-oracle-corporation-orcl/11942958.html",
-      "source": "Zolmax",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-08-07T08:05:17.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "investing",
-        "sec filing articles"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "7eccb07a07c36b5b",
-      "slug": "the-ai-bubble-doesn-t-burst-in-the-algorithm-a821ad",
-      "title": "The AI Bubble Doesn't Burst in the Algorithm",
-      "dek": "Even the fear of declining investments by hyperscalers in artificial intelligence infrastructure can destroy billions in market value and thus put pressure on the supply chain. We explain why the AI bubble looks different than often assumed.",
-      "url": "https://www.all-about-industries.com/the-ai-bubble-doesnt-burst-in-the-algorithm-a-12153fe5f28ed29e2d6736f179ac4c1a/",
-      "source": "All About Industries",
-      "sourceType": "external",
-      "image": "http://www.all-about-industries.com/imagerss/OWkV-UVbYBbcilli9kTHgKxmNA0=/500x500/smart/filters:format(jpg):quality(80)/p7i.vogel.de/wcms/1c/ba/1cba2c23c75d7e5d18f726598dc00708/0132680361v1.jpeg",
-      "publishedAt": "2026-08-07T08:00:00.000Z",
+      "image": "https://static.bundle.app/news/63b4f4c1-fe2a-5f65-bbfd-c3de0bfdf254.jpg",
+      "publishedAt": "2026-08-07T22:17:12.000Z",
       "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "dbf534cf6b6f65eb",
-      "slug": "michael-burry-exits-microsoft-oracle-stocks-why-is-he-still-shorting-palantir-4f7b63",
-      "title": "Michael Burry exits Microsoft, Oracle stocks: why is he still shorting Palantir?",
-      "dek": "Michael Burry has exited his bullish Microsoft trade and closed his remaining bearish Oracle position, but one prominent artificial-intelligence wager is still alive: Palantir stock. That decision looks provocative after Palantir shares surged nearly 30% on Tuesday following another blowout quarter.",
-      "url": "https://invezz.com/news/2026/08/07/michael-burry-exits-microsoft-oracle-stocks-why-is-he-still-shorting-palantir/",
-      "source": "Invezz",
-      "sourceType": "external",
-      "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/08/2.png",
-      "publishedAt": "2026-08-07T07:03:33.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "stock market"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "2cb79d6e4303ad2a",
-      "slug": "michael-burry-shares-three-great-charts-that-show-big-ai-capex-could-unwind-as-badly-as--987f64",
-      "title": "Michael Burry Shares 'Three Great Charts' That Show Big AI Capex Could Unwind As Badly As Housing Did In 2008",
-      "dek": "Cloud companies’ capex would run at roughly 3% of the U.S. GDP every year from 2027 to 2029, up from 0.3% of GDP in 2019 and 1.4% in 2025, according to a top economist.",
-      "url": "https://newsable.asianetnews.com/markets/michael-burry-shares-three-great-charts-that-show-big-ai-capex-could-unwind-as-badly-as-housing-did-in-2008-articleshow-82ikmwe",
-      "source": "Asianet Newsable",
-      "sourceType": "external",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-b59ea19c-5732-4209-81fd-54d198ac8a12.jpg",
-      "publishedAt": "2026-08-07T06:40:01.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "markets"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "17060f088318371a",
-      "slug": "erste-group-bank-upgrades-salesforce-nyse-crm-to-buy-72a5db",
-      "title": "Erste Group Bank Upgrades Salesforce (NYSE:CRM) to Buy",
-      "dek": "Salesforce (NYSE:CRM – Get Free Report) was upgraded by equities research analysts at Erste Group Bank from a “hold” rating to a “buy” rating in a research report issued on Wednesday, MarketBeat reports. A number of other brokerages have also recently weighed in on CRM. Barclays raised shares of Sal",
-      "url": "https://www.americanbankingnews.com/2026/08/07/erste-group-bank-upgrades-salesforce-nysecrm-to-buy.html",
-      "source": "Americanbankingnews",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/salesforcecom-inc-logo-1200x675.png",
-      "publishedAt": "2026-08-07T06:18:49.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "market news",
-        "analyst articles - us"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "31dc24a587ca39a2",
-      "slug": "computer-science-incl-professional-experience-84c08e",
-      "title": "Computer Science Incl Professional Experience",
-      "dek": "From driving cancer research forward to accurately predicting the weather, Computer Scientists are powering progress. In fact everything from social care to cybersecurity or even space travel, relies on the talents of Computer Science graduates. We would say the sky is the limit, but we’re already w",
-      "url": "https://www.qub.ac.uk/courses/undergraduate/computer-science-incl-professional-experience-meng-g405/",
-      "source": "Queen's University Belfast",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "topic": "Security",
       "tags": [],
-      "priority": 37
+      "priority": 36
     },
     {
-      "id": "d4e6300b365aa59b",
-      "slug": "beyond-backup-vast-edge-turns-netsuite-backup-data-into-ai-powered-compliance-and-recove-54e9ba",
-      "title": "Beyond Backup: Vast Edge Turns NetSuite Backup Data into AI-Powered Compliance and Recovery Intelligence",
-      "dek": "New AI capabilities deliver compliance monitoring, risk alerts, recovery insights, and a conversational AI assistant for real-time NetSuite backup analysis.",
-      "url": "https://www.einpresswire.com/article/932469749/beyond-backup-vast-edge-turns-netsuite-backup-data-into-ai-powered-compliance-and-recovery-intelligence",
-      "source": "Ein Presswire",
+      "id": "5bdff478778f9d4e",
+      "slug": "oracle-nyse-orcl-stock-price-up-2-4-time-to-buy-f46322",
+      "title": "Oracle (NYSE:ORCL) Stock Price Up 2.4% – Time to Buy?",
+      "dek": "Oracle Corporation (NYSE:ORCL – Get Free Report)’s share price rose 2.4% during trading on Friday . The stock traded as high as $147.16 and last traded at $146.93. 21,981,880 shares traded hands during trading, a decline of 25% from the average daily volume of 29,481,105 shares. The stock had previo",
+      "url": "https://www.watchlistnews.com/oracle-nyseorcl-stock-price-up-2-4-time-to-buy/11175388.html",
+      "source": "Watch List News",
       "sourceType": "external",
-      "image": "https://img.einnews.com/ampsize/1166786/ai-powered-netsuite-backup-anal.jpeg",
-      "publishedAt": "2026-08-07T00:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "it industry",
-        "retail",
-        "california",
-        "healthcare and pharmaceuticals industry",
-        "banking",
-        "finance and investment industry"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "47bab862267eb2c2",
-      "slug": "earnings-call-transcript-cloudflare-tops-estimates-in-q2-2026-shares-jump-17-c7f6b3",
-      "title": "Earnings call transcript: Cloudflare tops estimates in Q2 2026, shares jump 17%",
-      "dek": "Earnings call transcript: Cloudflare tops estimates in Q2 2026, shares jump 17%",
-      "url": "https://ng.investing.com/news/transcripts/earnings-call-transcript-cloudflare-tops-estimates-in-q2-2026-shares-jump-17-93CH-2646143",
-      "source": "Investing Nigeria",
-      "sourceType": "external",
-      "image": "https://i-invdn-com.investing.com/news/389da45fab1145bdde37c1802bd5980b_M.jpg",
-      "publishedAt": "2026-08-06T22:32:14.000Z",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-08-07T21:21:07.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "Earnings"
+        "price articles",
+        "investing"
       ],
       "priority": 36
     },
@@ -1986,6 +1936,56 @@
         "Oracle Cloud",
         "OCI",
         "Oracle Cloud Infrastructure"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "6ba1bee89c8a91cc",
+      "slug": "what-is-containerization-0326f4",
+      "title": "What is Containerization?",
+      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-04T14:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "OCI",
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "b45e3d006fc93558",
+      "slug": "encore-episode-oci-ai-services-5e7f50",
+      "title": "Encore Episode: OCI AI Services",
+      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-28T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "57fe9154d1531745",
+      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
+      "title": "Encore Episode: Generative AI and Large Language Models",
+      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-14T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
       ],
       "priority": 36
     }
