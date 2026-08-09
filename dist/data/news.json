@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T20:54:45.494Z",
+  "generatedAt": "2026-08-09T20:59:08.584Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -55,196 +55,109 @@
       "priority": 46
     },
     {
-      "id": "9b36808c9b9b704b",
-      "slug": "global-tech-sector-records-over-1-63-lakh-layoffs-this-year-to-date-0871a6",
-      "title": "Global tech sector records over 1.63 lakh layoffs this year to date",
-      "dek": "The report from TradingPlatforms said enterprise software accounted for roughly 8.14 per cent of the total job cuts, making it the fifth most affected tech subsector after Cloud and SaaS (37,492 layoffs), e‐commerce and marketplaces (22,633), IT services (16,756) and social media (13,592).",
-      "url": "https://www.thehansindia.com/business/global-tech-sector-records-over-163-lakh-layoffs-this-year-to-date-1106794",
-      "source": "The Hans India",
+      "id": "a06a52d56f2e720a",
+      "slug": "avity-investment-management-inc-buys-127-037-shares-of-oracle-corporation-orcl-3b21c0",
+      "title": "Avity Investment Management Inc. Buys 127,037 Shares of Oracle Corporation $ORCL",
+      "dek": "Avity Investment Management Inc. raised its position in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 231.8% in the second quarter, according to its most recent filing with the SEC. The firm owned 181,835 shares of the enterprise software provider’s stock after purchasing an additional 1",
+      "url": "https://baseballnewssource.com/2026/08/09/avity-investment-management-inc-buys-127037-shares-of-oracle-corporation-orcl/11217294.html",
+      "source": "Bbns",
       "sourceType": "external",
-      "image": "https://assets.thehansindia.com/h-upload/2026/08/08/1686865-layoffs.webp",
-      "publishedAt": "2026-08-08T06:09:43.000Z",
-      "topic": "Oracle Cloud",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-08-09T08:17:28.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "top stories",
-        "business"
+        "markets",
+        "sec filing articles"
       ],
-      "priority": 41
+      "priority": 43
     },
     {
-      "id": "e37f3ae11a4a2ab4",
-      "slug": "global-tech-layoffs-hit-1-63-lakh-in-2026-ai-drives-91-000-job-cuts-8da391",
-      "title": "Global Tech Layoffs Hit 1.63 Lakh in 2026; AI Drives 91,000 Job Cuts",
-      "dek": "Global tech firms cut 1,63,427 jobs in 2026, with AI cited in 91,215 layoffs. Enterprise software, Oracle, Cisco hit hardest. Report details.",
-      "url": "https://www.newkerala.com/news/a/global-tech-sector-records-over-163-lakh-layoffs-344.htm",
-      "source": "Newkerala.com",
+      "id": "abccb87058361b44",
+      "slug": "bank-of-america-spots-new-curveball-for-magnificent-seven-stocks-04de30",
+      "title": "Bank of America spots new curveball for Magnificent Seven stocks",
+      "dek": "Bank of America says Magnificent Seven stocks face a new test as cheaper Chinese compute challenges AI spending assumptions and puts MAGS in focus",
+      "url": "https://www.thestreet.com/investing/stocks/bofa-magnificent-seven-ai-risk",
+      "source": "Thestreet",
       "sourceType": "external",
-      "image": "https://one.newkerala.com/images/r/newkerala-com-news250.webp",
-      "publishedAt": "2026-08-08T05:55:08.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTQwMDA4/photo-3140008.jpg?profile=rss&x=35&y=42",
+      "publishedAt": "2026-08-09T00:07:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "investing",
+        "stocks",
+        "stock market",
+        "artificial intelligence",
+        "stock ideas",
+        "technology hardware & equipment"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "04ee6115debce50e",
+      "slug": "paramount-skydance-q2-earnings-call-highlights-7b60da",
+      "title": "Paramount Skydance Q2 Earnings Call Highlights",
+      "dek": "Paramount Skydance (NASDAQ:PSKY) said its second-quarter performance reflected progress in its efforts to expand streaming, rebuild its studios business and reduce costs, while management reaffirmed confidence in the company’s proposed combination with Warner Bros. Discovery. Chairman and Chief Exec",
+      "url": "https://zolmax.com/investing/paramount-skydance-q2-earnings-call-highlights/11945780.html",
+      "source": "Zolmax",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/paramount-global-logo-1200x675.png?v=20250812074025",
+      "publishedAt": "2026-08-09T00:04:51.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "partner feed articles",
+        "investing"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "40f54cfcbae5c698",
+      "slug": "whose-memory-is-it-building-multi-tenant-multi-tier-memory-for-ai-agents-part-1-7966fa",
+      "title": "Whose Memory Is It? Building Multi-Tenant, Multi-Tier Memory for AI Agents (Part 1)",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/technology/whose-memory-is-it-building-multi-tenant-multi-tier-memory-for-ai-agents-part-1-44F174AC-92BE-4D19-8F6A-A2941E4FBD5F",
+      "source": "Bundle",
+      "sourceType": "external",
+      "image": "https://static.bundle.app/news/43aad8e9-a34a-570b-918c-1d440a5d477d.jpg",
+      "publishedAt": "2026-08-08T23:05:28.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
         "AI"
       ],
-      "priority": 41
-    },
-    {
-      "id": "7d7f589a8badd6bf",
-      "slug": "amazon-s-ai-spending-keeps-rising-andy-jassy-says-memory-costs-drove-20-billion-capex-in-726f4d",
-      "title": "Amazon's AI Spending Keeps Rising. Andy Jassy Says Memory Costs Drove $20 Billion Capex Increase.",
-      "dek": "Amazon has increased its planned capital spending for 2026 to about $220 billion, with CEO Andy Jassy citing higher AI memory costs and robust cloud demand that is expected to outstrip available capacity through at least 2028.",
-      "url": "https://www.ibtimes.com/amazons-ai-spending-keeps-rising-andy-jassy-says-memory-costs-drove-20-billion-capex-increase-3806189",
-      "source": "International Business Times",
-      "sourceType": "external",
-      "image": "https://d.ibtimes.com/en/full/4631315/amazon.jpg?w=1600&h=900&q=88&f=3451d6a03997ffcb3f8ebc9efa381073",
-      "publishedAt": "2026-08-08T00:38:01.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "amazon capital expenditure",
-        "amazon ai spending",
-        "amazon web services ai",
-        "micron stock",
-        "andy jassy ai",
-        "high bandwidth memory"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "848fa19f3f674b30",
-      "slug": "we-are-renting-our-brains-and-nobody-reads-the-lease-853e27",
-      "title": "We Are Renting Our Brains, And Nobody Reads The Lease",
-      "dek": "I spent a year teaching a machine to speak for me. One line in a help center article ended it. What AI vendor lock-in actually costs, and who decides.",
-      "url": "https://www.forbes.com/sites/jasonsnyder/2026/08/07/we-are-renting-our-brains-and-nobody-reads-the-lease/",
-      "source": "Forbes",
-      "sourceType": "external",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6a766ff7915688290460b9b5/0x0.jpg",
-      "publishedAt": "2026-08-08T00:11:44.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "innovation",
-        "/leadership",
-        "/ai",
-        "ai",
-        "standard",
-        "cmo network"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "091428f5bbbbd6ae",
-      "slug": "best-cybersecurity-stocks-to-add-to-your-watchlist-august-6th-eac90e",
-      "title": "Best Cybersecurity Stocks To Add to Your Watchlist – August 6th",
-      "dek": "Palo Alto Networks, CrowdStrike, Fortinet, SentinelOne, BlackBerry, Globant, and NetScout Systems are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that develop products and services to prote",
-      "url": "https://baseballnewssource.com/2026/08/07/best-cybersecurity-stocks-to-add-to-your-watchlist-august-6th/11215653.html",
-      "source": "Bbns",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/palo-alto-networks-inc-logo-1200x675.png?v=20231213132526",
-      "publishedAt": "2026-08-08T00:04:53.000Z",
-      "topic": "Security",
-      "tags": [
-        "partner feed articles",
-        "markets"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "9a8de7ec19bd00f8",
-      "slug": "boston-it-roundup-multiple-high-paying-tech-roles-81d3d9",
-      "title": "💻 Boston IT Roundup: Multiple High-Paying Tech Roles",
-      "dek": "Boston’s tech scene is in full swing right now, from cloud and AI to SAP and DevOps. If you’re in IT and open to your next move, there are several strong o",
-      "url": "https://www.newsbreak.com/boston-ma-daily-brief-373341363/4817462248853-boston-it-roundup-multiple-high-paying-tech-roles",
-      "source": "Newsbreak",
-      "sourceType": "external",
-      "image": "https://img.particlenews.com/img/id/0uqf9w_1E3B7xWi00",
-      "publishedAt": "2026-08-08T00:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "boston ma daily brief",
-        "newsbreak",
-        "local news",
-        "breaking news"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "35bf640438f6076f",
-      "slug": "computer-science-5db941",
-      "title": "Computer Science",
-      "dek": "From driving cancer research forward to accurately predicting the weather, Computer Scientists are powering progress. In fact everything from social care to cybersecurity or even space travel, relies on the talents of Computer Science graduates. We would say the sky is the limit, but we’re already w",
-      "url": "https://www.qub.ac.uk/courses/undergraduate/computer-science-meng-g402/",
-      "source": "Queen's University Belfast",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-08-08T00:00:00.000Z",
-      "topic": "Security",
-      "tags": [],
-      "priority": 37
-    },
-    {
-      "id": "d5786b1b465ca8b5",
-      "slug": "mclean-va-tech-jobs-multiple-high-paying-roles-open-now-b56161",
-      "title": "💻 McLean, VA Tech Jobs: Multiple High-Paying Roles Open Now",
-      "dek": "McLean’s tech scene is buzzing with cleared roles, cloud work, and data jobs—especially around federal clients and cybersecurity. If you’re in IT and anywh",
-      "url": "https://www.newsbreak.com/mc-lean-va-daily-brief-375427864/4817230576719-mclean-va-tech-jobs-multiple-high-paying-roles-open-now",
-      "source": "Newsbreak",
-      "sourceType": "external",
-      "image": "https://img.particlenews.com/img/id/0uqf9w_1E2xQR7F00",
-      "publishedAt": "2026-08-08T00:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "newsbreak",
-        "local news",
-        "💻 mclean",
-        "mc lean va daily brief",
-        "va tech jobs: multiple high-paying roles open now",
-        "breaking news"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "9964cc5d74726912",
-      "slug": "embracing-virtual-threads-with-helidon-i-o-6239de",
-      "title": "\"Embracing Virtual Threads with Helidon\" [I/O]",
-      "dek": "Helidon 4.4 was released in April 2026 and stands out from other web frameworks by embracing new Java features as early as possible, particularly virtual threads and ahead-of-time computation. It is also aiming to become an OpenJDK project in the coming months. In this \"Input/Output\" episode of the ",
-      "url": "https://inside.java/2026/08/06/podcast-065/",
-      "source": "Inside Java",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/insidejava/2026-08-inside-java-podcast-65--joe.mp3?dest-id=2318780",
-      "publishedAt": "2026-08-06T09:03:00.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "Java",
-        "OpenJDK"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "fd080dfab2d6e9df",
-      "slug": "oracle-surges-what-s-driving-the-sudden-rally-9bdee5",
-      "title": "Oracle Surges: What's Driving the Sudden Rally",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/finance/oracle-surges-whats-driving-the-sudden-rally-F47A128C-1672-4465-B216-4F9519F10483",
-      "source": "Bundle",
-      "sourceType": "external",
-      "image": "https://static.bundle.app/news/63b4f4c1-fe2a-5f65-bbfd-c3de0bfdf254.jpg",
-      "publishedAt": "2026-08-07T22:17:12.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
       "priority": 36
     },
     {
-      "id": "5bdff478778f9d4e",
-      "slug": "oracle-nyse-orcl-stock-price-up-2-4-time-to-buy-f46322",
-      "title": "Oracle (NYSE:ORCL) Stock Price Up 2.4% – Time to Buy?",
-      "dek": "Oracle Corporation (NYSE:ORCL – Get Free Report)’s share price rose 2.4% during trading on Friday . The stock traded as high as $147.16 and last traded at $146.93. 21,981,880 shares traded hands during trading, a decline of 25% from the average daily volume of 29,481,105 shares. The stock had previo",
-      "url": "https://www.watchlistnews.com/oracle-nyseorcl-stock-price-up-2-4-time-to-buy/11175388.html",
-      "source": "Watch List News",
+      "id": "e9b321d2d991465a",
+      "slug": "the-rise-of-the-ellison-empire-b48080",
+      "title": "The Rise of the Ellison Empire",
+      "dek": "There was a time when America’s industrial titans built railroads, steel mills, and oil companies. Today, influence is measured in data, artificial intelligence, cloud computing, media, and information. Few families illustrate that transformation better than the Ellisons. Larry Ellison built Oracle ",
+      "url": "https://www.activistpost.com/the-rise-of-the-ellison-empire/",
+      "source": "Activist Post",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-08-07T21:21:07.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://www.activistpost.com/wp-content/uploads/2026/08/istockphoto-182859940-612x612-1.jpg",
+      "publishedAt": "2026-08-08T22:00:00.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "price articles",
-        "investing"
+        "martin armstrong",
+        "empire",
+        "armstrong economics"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "c5db18626d57bff2",
+      "slug": "totvs-q2-profit-up-17-4-to-us-47m-on-ai-launch-ead106",
+      "title": "Totvs Q2 Profit Up 17.4% to US$47m on AI Launch",
+      "dek": "Totvs (B3: TOTS3) reported adjusted net profit up 17.4% to R$240.6 million in Q2 2026 and confirmed an integrated AI services launch for October. The post Totvs Q2 Profit Up 17.4% to US$47m on AI Launch appeared first on The Rio Times .",
+      "url": "https://www.riotimesonline.com/totvs-q2-2026-profit-ai-services/",
+      "source": "The Rio Times",
+      "sourceType": "external",
+      "image": "https://www.riotimesonline.com/wp-content/uploads/2025/07/TOTVS-0493-1-scaled-1-1392x928-1.webp",
+      "publishedAt": "2026-08-08T21:30:54.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "business - brazil",
+        "brazil",
+        "markets"
       ],
       "priority": 36
     },
@@ -1987,6 +1900,80 @@
       "tags": [
         "AI"
       ],
+      "priority": 36
+    },
+    {
+      "id": "60d141d1ef069450",
+      "slug": "encore-episode-deep-learning-fe981b",
+      "title": "Encore Episode: Deep Learning",
+      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-07T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "311a8fe7e2892283",
+      "slug": "encore-episode-machine-learning-ee26a4",
+      "title": "Encore Episode: Machine Learning",
+      "dek": "Does machine learning feel like too convoluted a topic? Not anymore! Listen to hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Hemant Gahankari, talk about foundational machine learning concepts and dive into how supervised learning, unsupervised learning, and reinf",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-machine-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-30T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "4589098868999fde",
+      "slug": "encore-episode-introduction-to-artificial-intelligence-ai-9e755a",
+      "title": "Encore Episode: Introduction to Artificial Intelligence (AI)",
+      "dek": "You probably interact with artificial intelligence (AI) more than you realize. So, there's never been a better time to start figuring out how it all works. Join Lois Houston and Nikita Abraham as they decode the fundamentals of AI so that anyone, irrespective of their technical background, can lever",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-introduction-to-artificial-intelligence-ai",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-23T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ba70f7a05b875a4b",
+      "slug": "using-ords-to-make-your-adb-data-available-in-vbs-061acb",
+      "title": "Using ORDS to Make Your ADB Data Available in VBS",
+      "dek": "Visual Builder Studio requires its data sources to connect to the webpage it produces using REST calls. Therefore, the data source has to provide a REST interface. A simple, easy, secure, and free way to do that is with Oracle REST Data Services (ORDS). In this episode, hosts Lois Houston and Nikita",
+      "url": "https://oracleuniversitypodcast.libsyn.com/using-ords-to-make-your-adb-data-available-in-vbs",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-16T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "967d33e1489de57e",
+      "slug": "forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today-f03edc",
+      "title": "Forgotten, But Not Gone: How Model-Based Development Is Still Alive and Well Today",
+      "dek": "Computer Aided Software Engineering (CASE) tools, which helped make the analysis, design, and implementation phases of software development better, faster, and cheaper, fell out of favor in the mid-'90s. Yet much of what they have to offer remains and is in active use within different Oracle tools. ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/-forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-09T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
       "priority": 36
     }
   ]
