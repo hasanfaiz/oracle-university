@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T20:59:08.584Z",
+  "generatedAt": "2026-08-10T21:08:35.056Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -55,109 +55,240 @@
       "priority": 46
     },
     {
-      "id": "a06a52d56f2e720a",
-      "slug": "avity-investment-management-inc-buys-127-037-shares-of-oracle-corporation-orcl-3b21c0",
-      "title": "Avity Investment Management Inc. Buys 127,037 Shares of Oracle Corporation $ORCL",
-      "dek": "Avity Investment Management Inc. raised its position in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 231.8% in the second quarter, according to its most recent filing with the SEC. The firm owned 181,835 shares of the enterprise software provider’s stock after purchasing an additional 1",
-      "url": "https://baseballnewssource.com/2026/08/09/avity-investment-management-inc-buys-127037-shares-of-oracle-corporation-orcl/11217294.html",
-      "source": "Bbns",
+      "id": "cd4f0535a50c1ac4",
+      "slug": "paramount-skydance-q2-earnings-call-highlights-c6458c",
+      "title": "Paramount Skydance Q2 Earnings Call Highlights",
+      "dek": "Paramount Skydance (NASDAQ:PSKY) said its second-quarter performance reflected progress in its efforts to expand streaming, rebuild its studios business and reduce costs, while management reaffirmed confidence in the company’s proposed combination with Warner Bros. Discovery. Chairman and Chief Exec",
+      "url": "https://www.themarketsdaily.com/2026/08/10/paramount-skydance-q2-earnings-call-highlights.html",
+      "source": "Markets Daily",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-08-09T08:17:28.000Z",
+      "image": "https://www.marketbeat.com/logos/paramount-global-logo-1200x675.png?v=20250812074025",
+      "publishedAt": "2026-08-10T09:02:56.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "markets",
-        "sec filing articles"
+        "stocks",
+        "partner feed articles"
       ],
       "priority": 43
     },
     {
-      "id": "abccb87058361b44",
-      "slug": "bank-of-america-spots-new-curveball-for-magnificent-seven-stocks-04de30",
-      "title": "Bank of America spots new curveball for Magnificent Seven stocks",
-      "dek": "Bank of America says Magnificent Seven stocks face a new test as cheaper Chinese compute challenges AI spending assumptions and puts MAGS in focus",
-      "url": "https://www.thestreet.com/investing/stocks/bofa-magnificent-seven-ai-risk",
-      "source": "Thestreet",
+      "id": "70254774f3dec239",
+      "slug": "zan-node-is-the-world-s-fastest-web3-node-provider-covering-ethereum-solana-base-polygon-129259",
+      "title": "ZAN Node Is the World’s Fastest Web3 Node Provider, Covering Ethereum, Solana, Base, Polygon, and 47+ Networks",
+      "dek": "Redefining Multi-Chain Speed: Overcoming Web3 Latency Barriers How many seconds do decentralized applications lose when users trigger smart contracts during peak network traffic? Why do standard remote procedure call (RPC) requests frequently encounter synchronization lag when simultaneously queryin",
+      "url": "https://globalfintechseries.com/blockchain/zan-node-is-the-worlds-fastest-web3-node-provider-covering-ethereum-solana-base-polygon-and-47-networks/",
+      "source": "Globalfintechseries",
       "sourceType": "external",
-      "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTQwMDA4/photo-3140008.jpg?profile=rss&x=35&y=42",
-      "publishedAt": "2026-08-09T00:07:00.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://globalfintechseries.com/wp-content/uploads/ZAN-Node-Is-the-Worlds-Fastest-Web3-Node-Provider-Covering-Ethereum-Solana-Base-Polygon-and-47-Networks.jpg",
+      "publishedAt": "2026-08-10T08:14:25.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "investing",
-        "stocks",
-        "stock market",
-        "artificial intelligence",
-        "stock ideas",
-        "technology hardware & equipment"
+        "blockchain",
+        "zan",
+        "networks",
+        "finance",
+        "news",
+        "web3"
       ],
-      "priority": 37
+      "priority": 42
     },
     {
-      "id": "04ee6115debce50e",
-      "slug": "paramount-skydance-q2-earnings-call-highlights-7b60da",
-      "title": "Paramount Skydance Q2 Earnings Call Highlights",
-      "dek": "Paramount Skydance (NASDAQ:PSKY) said its second-quarter performance reflected progress in its efforts to expand streaming, rebuild its studios business and reduce costs, while management reaffirmed confidence in the company’s proposed combination with Warner Bros. Discovery. Chairman and Chief Exec",
-      "url": "https://zolmax.com/investing/paramount-skydance-q2-earnings-call-highlights/11945780.html",
-      "source": "Zolmax",
+      "id": "458e898cc9b8089f",
+      "slug": "percona-live-amsterdam-brings-community-together-around-future-for-open-source-databases-8c97e2",
+      "title": "Percona Live Amsterdam Brings Community Together Around Future For Open Source Databases",
+      "dek": "Engineers, database leaders and developers cover range of open source projects that underpin critical applications at scaleRALEIGH, N.C., Aug. 10, 2026 (GLOBE NEWSWIRE) -- Percona, a global leader ...",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69261143-percona-live-amsterdam-brings-community-together-around-future-for-open-source-databases-399.htm",
+      "source": "Finanznachrichten.de",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/paramount-global-logo-1200x675.png?v=20250812074025",
-      "publishedAt": "2026-08-09T00:04:51.000Z",
+      "image": "https://ml.globenewswire.com/media/N2NiYzUzYjgtM2IzMi00OWJjLWFlMDMtNWM3MDI1YzI4NjExLTUwMDEzMjIxNi0yMDI2LTA4LTEwLWVu/tiny/Percona.png",
+      "publishedAt": "2026-08-10T07:10:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "community",
+        "live",
+        "open",
+        "future",
+        "amsterdam",
+        "together"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "69966f42c45e83f1",
+      "slug": "top-economist-warns-that-the-ai-math-doesn-t-make-sense-profits-are-currently-being-fund-3ae226",
+      "title": "Top economist warns that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
+      "dek": "The AI boom has turned the standard profit margin model on its head, according to Apollo Chief Economist Torsten Slok—and it’s making the industry’s growth unsustainable.",
+      "url": "https://fortune.com/2026/08/10/torsten-slok-ai-profit-margins-capex-oracle/",
+      "source": "Fortune",
+      "sourceType": "external",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2194585229-e1786135906472.jpg?w=2048",
+      "publishedAt": "2026-08-10T07:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "4d2a0224d96f4d4b",
+      "slug": "the-impending-inescapable-deluge-of-artificial-intelligence-0f6933",
+      "title": "The impending, inescapable deluge of artificial intelligence",
+      "dek": "Scientists and technologists see the coming deluge of computing power leading to drug discoveries and robotics advances, and industry analysts said it would drive more everyday use of AI in people’s personal and professional lives.",
+      "url": "https://www.dtnext.in/news/national/the-impending-inescapable-deluge-of-artificial-intelligence",
+      "source": "Dt Next",
+      "sourceType": "external",
+      "image": "https://media.assettype.com/dt-next/2026-08-09/8xk42ree/Amazon.jpg?w=280",
+      "publishedAt": "2026-08-10T05:13:59.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "artificial intelligence",
+        "technology",
+        "national",
+        "database",
+        "alzheimer"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "c9a44eff2e0554b0",
+      "slug": "astera-makes-extracting-legacy-report-data-an-ai-specialty-fa85fe",
+      "title": "Astera Makes Extracting Legacy Report Data an AI Specialty",
+      "dek": "For all that large language models (LLMs) are really good at – and they are great at a few things – understanding large reports generated by IBM i servers and System Z mainframes is not one of them. A Southern California company called Astera has identified this gap and developed its own AI-based to",
+      "url": "https://www.itjungle.com/2026/08/10/astera-makes-extracting-legacy-report-data-an-ai-specialty/",
+      "source": "It Jungle",
+      "sourceType": "external",
+      "image": "https://www.itjungle.com/wp-content/uploads/2026/08/green-bar-700x365.png",
+      "publishedAt": "2026-08-10T04:02:19.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "astera",
+        "ibm i",
+        "it jungle",
+        "llm",
+        "reportminer",
+        "sql"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "874c452ac8fbf97e",
+      "slug": "blockchain-stocks-to-keep-an-eye-on-august-8th-1c0b26",
+      "title": "Blockchain Stocks To Keep An Eye On – August 8th",
+      "dek": "Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Globant, Nukkleus, Digi Power X, and BTCS are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, use, or provide s",
+      "url": "https://baseballnewssource.com/2026/08/09/blockchain-stocks-to-keep-an-eye-on-august-8th/11218083.html",
+      "source": "Bbns",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
+      "publishedAt": "2026-08-10T03:04:53.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "partner feed articles",
-        "investing"
+        "markets"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "2b601109ddf093ff",
+      "slug": "application-operations-enginner-hibrido-porto-3a778b",
+      "title": "Application Operations Enginner (Hibrido, Porto)",
+      "dek": "Empresa: Shore Categoria: Informática ( Programação ) Zona: Porto Data: 10-8-2026 Descrição: We are looking for an Application Operations Engineer to join our IT Operations team. In this role, you will be responsible for ensuring the availability, stability, and performance of business-critical",
+      "url": "https://www.net-empregos.com/15836803/application-operations-enginner-hibrido-porto/",
+      "source": "Net Empregos",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "trabalho",
+        "porto) - shore",
+        "ofertas emprego",
+        "centro emprego",
+        "emprego application operations enginner (hibrido",
+        "estagio"
       ],
       "priority": 37
     },
     {
-      "id": "40f54cfcbae5c698",
-      "slug": "whose-memory-is-it-building-multi-tenant-multi-tier-memory-for-ai-agents-part-1-7966fa",
-      "title": "Whose Memory Is It? Building Multi-Tenant, Multi-Tier Memory for AI Agents (Part 1)",
+      "id": "80296ed4c06b15d8",
+      "slug": "washington-dc-tech-jobs-multiple-high-paying-it-ai-roles-74c9e1",
+      "title": "💻 Washington, DC Tech Jobs – Multiple High-Paying IT & AI Roles",
+      "dek": "DC’s tech scene is packed with federal, fintech, and consulting work right now. If you’re in IT, data, or AI and can pass a clearance, this is a very good",
+      "url": "https://www.newsbreak.com/washington-dc-daily-brief-373178858/4820038760395-washington-dc-tech-jobs-multiple-high-paying-it-ai-roles",
+      "source": "Newsbreak",
+      "sourceType": "external",
+      "image": "https://img.particlenews.com/img/id/0uqf9w_1E5mh3OJ00",
+      "publishedAt": "2026-08-10T00:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "dc tech jobs – multiple high-paying it & ai roles",
+        "💻 washington",
+        "washington dc daily brief",
+        "breaking news",
+        "local news",
+        "newsbreak"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "310033cd12ca8f8c",
+      "slug": "where-is-the-life-sciences-supply-chain-heading-datadriveninvestor-07c78b",
+      "title": "Where is the Life Sciences Supply Chain Heading? — DataDrivenInvestor",
+      "dek": "Practitioner-written analysis on DataDrivenInvestor.",
+      "url": "https://www.datadriveninvestor.com/articles/where-is-the-life-sciences-supply-chain-heading",
+      "source": "Datadriveninvestor",
+      "sourceType": "external",
+      "image": "https://media.datadriveninvestor.com/uploads/2024/01/DALL%C2%B7E-2024-01-03-09.59.25-Create-a-minimalist-watercolor-image-inspired-by-the-concept-of-a-network-of-nodes-and-connections.-The-artwork-should-feature-a-central-simplified.png",
+      "publishedAt": "2026-08-09T23:57:34.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 37
+    },
+    {
+      "id": "6c28ab4ef379f644",
+      "slug": "arista-networks-and-arm-are-not-comparable-ai-plays-and-confusing-them-costs-you-5fa912",
+      "title": "Arista Networks and Arm Are Not Comparable AI Plays — and Confusing Them Costs You",
       "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/technology/whose-memory-is-it-building-multi-tenant-multi-tier-memory-for-ai-agents-part-1-44F174AC-92BE-4D19-8F6A-A2941E4FBD5F",
+      "url": "https://www.bundle.app/en/finance/arista-networks-and-arm-are-not-comparable-ai-plays-and-confusing-them-costs-you-81E968B4-C4F8-4CC9-BB74-723E53D0995A",
       "source": "Bundle",
       "sourceType": "external",
-      "image": "https://static.bundle.app/news/43aad8e9-a34a-570b-918c-1d440a5d477d.jpg",
-      "publishedAt": "2026-08-08T23:05:28.000Z",
+      "image": "https://static.bundle.app/news/0f383540-0c8d-5539-92f4-a8b3b9cd3201.jpg",
+      "publishedAt": "2026-08-09T23:48:35.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
         "AI"
       ],
-      "priority": 36
+      "priority": 37
     },
     {
-      "id": "e9b321d2d991465a",
-      "slug": "the-rise-of-the-ellison-empire-b48080",
-      "title": "The Rise of the Ellison Empire",
-      "dek": "There was a time when America’s industrial titans built railroads, steel mills, and oil companies. Today, influence is measured in data, artificial intelligence, cloud computing, media, and information. Few families illustrate that transformation better than the Ellisons. Larry Ellison built Oracle ",
-      "url": "https://www.activistpost.com/the-rise-of-the-ellison-empire/",
-      "source": "Activist Post",
+      "id": "b84b30e60b7e93b0",
+      "slug": "google-expands-bigquery-transfer-service-with-new-connectors-4a5d75",
+      "title": "Google expands BigQuery transfer service with new connectors",
+      "dek": "Enterprises will be able to move more sales, marketing and database data into BigQuery as Google adds connectors for SQL Server and Shopify.",
+      "url": "https://itbrief.com.au/story/google-expands-bigquery-transfer-service-with-new-connectors",
+      "source": "It Brief Australia",
       "sourceType": "external",
-      "image": "https://www.activistpost.com/wp-content/uploads/2026/08/istockphoto-182859940-612x612-1.jpg",
-      "publishedAt": "2026-08-08T22:00:00.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://itbrief.com.au/uploads/story/2026/08/10/compatible_innovative-cloud-data-warehouse-digital-connection-enterprise-illustration-story-315412.jpg",
+      "publishedAt": "2026-08-09T23:45:00.000Z",
+      "topic": "AI & Database",
       "tags": [
-        "martin armstrong",
-        "empire",
-        "armstrong economics"
+        "technology"
       ],
-      "priority": 36
+      "priority": 37
     },
     {
-      "id": "c5db18626d57bff2",
-      "slug": "totvs-q2-profit-up-17-4-to-us-47m-on-ai-launch-ead106",
-      "title": "Totvs Q2 Profit Up 17.4% to US$47m on AI Launch",
-      "dek": "Totvs (B3: TOTS3) reported adjusted net profit up 17.4% to R$240.6 million in Q2 2026 and confirmed an integrated AI services launch for October. The post Totvs Q2 Profit Up 17.4% to US$47m on AI Launch appeared first on The Rio Times .",
-      "url": "https://www.riotimesonline.com/totvs-q2-2026-profit-ai-services/",
-      "source": "The Rio Times",
+      "id": "4cb151091d0f93dd",
+      "slug": "it-security-news-weekly-summary-32-2e5ce8",
+      "title": "IT Security News Weekly Summary 32",
+      "dek": "210 posts were published in the last hour 21:55 : IT Security News Daily Summary 2026-08-09 21:0 : IT Security News Hourly Summary 2026-08-09 23h : 1 posts 20:0 : IT Security News Hourly Summary 2026-08-09 22h : 1 posts... Read more → The post IT Security News Weekly Summary 32 appeared first on IT ",
+      "url": "https://www.itsecuritynews.info/it-security-news-weekly-summary-32-2/",
+      "source": "It Security News",
       "sourceType": "external",
-      "image": "https://www.riotimesonline.com/wp-content/uploads/2025/07/TOTVS-0493-1-scaled-1-1392x928-1.webp",
-      "publishedAt": "2026-08-08T21:30:54.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "",
+      "publishedAt": "2026-08-09T21:58:26.000Z",
+      "topic": "Security",
       "tags": [
-        "business - brazil",
-        "brazil",
-        "markets"
+        "weekly summary"
       ],
       "priority": 36
     },
@@ -1867,113 +1998,6 @@
         "OCI",
         "Oracle University"
       ],
-      "priority": 36
-    },
-    {
-      "id": "b45e3d006fc93558",
-      "slug": "encore-episode-oci-ai-services-5e7f50",
-      "title": "Encore Episode: OCI AI Services",
-      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-28T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI",
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "57fe9154d1531745",
-      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
-      "title": "Encore Episode: Generative AI and Large Language Models",
-      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-14T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "60d141d1ef069450",
-      "slug": "encore-episode-deep-learning-fe981b",
-      "title": "Encore Episode: Deep Learning",
-      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-07T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "311a8fe7e2892283",
-      "slug": "encore-episode-machine-learning-ee26a4",
-      "title": "Encore Episode: Machine Learning",
-      "dek": "Does machine learning feel like too convoluted a topic? Not anymore! Listen to hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Hemant Gahankari, talk about foundational machine learning concepts and dive into how supervised learning, unsupervised learning, and reinf",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-machine-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-30T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "4589098868999fde",
-      "slug": "encore-episode-introduction-to-artificial-intelligence-ai-9e755a",
-      "title": "Encore Episode: Introduction to Artificial Intelligence (AI)",
-      "dek": "You probably interact with artificial intelligence (AI) more than you realize. So, there's never been a better time to start figuring out how it all works. Join Lois Houston and Nikita Abraham as they decode the fundamentals of AI so that anyone, irrespective of their technical background, can lever",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-introduction-to-artificial-intelligence-ai",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-23T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ba70f7a05b875a4b",
-      "slug": "using-ords-to-make-your-adb-data-available-in-vbs-061acb",
-      "title": "Using ORDS to Make Your ADB Data Available in VBS",
-      "dek": "Visual Builder Studio requires its data sources to connect to the webpage it produces using REST calls. Therefore, the data source has to provide a REST interface. A simple, easy, secure, and free way to do that is with Oracle REST Data Services (ORDS). In this episode, hosts Lois Houston and Nikita",
-      "url": "https://oracleuniversitypodcast.libsyn.com/using-ords-to-make-your-adb-data-available-in-vbs",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-16T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "967d33e1489de57e",
-      "slug": "forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today-f03edc",
-      "title": "Forgotten, But Not Gone: How Model-Based Development Is Still Alive and Well Today",
-      "dek": "Computer Aided Software Engineering (CASE) tools, which helped make the analysis, design, and implementation phases of software development better, faster, and cheaper, fell out of favor in the mid-'90s. Yet much of what they have to offer remains and is in active use within different Oracle tools. ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/-forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-09T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
       "priority": 36
     }
   ]
