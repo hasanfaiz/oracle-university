@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T21:08:35.056Z",
+  "generatedAt": "2026-08-11T21:10:53.265Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -55,240 +55,480 @@
       "priority": 46
     },
     {
-      "id": "cd4f0535a50c1ac4",
-      "slug": "paramount-skydance-q2-earnings-call-highlights-c6458c",
-      "title": "Paramount Skydance Q2 Earnings Call Highlights",
-      "dek": "Paramount Skydance (NASDAQ:PSKY) said its second-quarter performance reflected progress in its efforts to expand streaming, rebuild its studios business and reduce costs, while management reaffirmed confidence in the company’s proposed combination with Warner Bros. Discovery. Chairman and Chief Exec",
-      "url": "https://www.themarketsdaily.com/2026/08/10/paramount-skydance-q2-earnings-call-highlights.html",
-      "source": "Markets Daily",
+      "id": "c734ece8902310b1",
+      "slug": "ai-wave-show-2026-concludes-successfully-drawing-industry-professionals-worldwide-e95098",
+      "title": "AI WAVE SHOW 2026 Concludes Successfully, Drawing Industry Professionals Worldwide",
+      "dek": "Taiwan Affirms Its Role as a Key Global Hub for AI Application and Commercialization TAIPEI, Aug. 11, 2026 /PRNewswire/ -- AI WAVE SHOW 2026, Taiwan's largest AI application exhibition, concluded on August 1 after a successful three-day run. Supervised by the Ministry of Digital Affairs...",
+      "url": "https://www.prnewswire.com/news-releases/ai-wave-show-2026-concludes-successfully-drawing-industry-professionals-worldwide-302848078.html",
+      "source": "Pr Newswire",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/paramount-global-logo-1200x675.png?v=20250812074025",
-      "publishedAt": "2026-08-10T09:02:56.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://mmx.prnewswire.com/media/MS1966781/20260810055614EDT_image_1.jpg?id=OA2851287&p=original",
+      "publishedAt": "2026-08-11T09:00:00.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "stocks",
-        "partner feed articles"
+        "tds"
       ],
       "priority": 43
     },
     {
-      "id": "70254774f3dec239",
-      "slug": "zan-node-is-the-world-s-fastest-web3-node-provider-covering-ethereum-solana-base-polygon-129259",
-      "title": "ZAN Node Is the World’s Fastest Web3 Node Provider, Covering Ethereum, Solana, Base, Polygon, and 47+ Networks",
-      "dek": "Redefining Multi-Chain Speed: Overcoming Web3 Latency Barriers How many seconds do decentralized applications lose when users trigger smart contracts during peak network traffic? Why do standard remote procedure call (RPC) requests frequently encounter synchronization lag when simultaneously queryin",
-      "url": "https://globalfintechseries.com/blockchain/zan-node-is-the-worlds-fastest-web3-node-provider-covering-ethereum-solana-base-polygon-and-47-networks/",
-      "source": "Globalfintechseries",
+      "id": "53446ab29d546e08",
+      "slug": "blockchain-in-automotive-market-a-buyer-s-and-investor-s-guide-to-a-usd-16-8-billion-opp-a04087",
+      "title": "Blockchain in Automotive Market: A Buyer's and Investor's Guide to a USD 16.8 Billion Opportunity",
+      "dek": "Introduction If you're evaluating supply chain traceability solutions or scouting investment targets in automotive technology, the blockchain in automotive market deserves urgent attention. Valued at USD 1.4 billion in 2024, it's projected to explode to USD 16.8 billion by 2033. That's",
+      "url": "https://www.openpr.com/news/4600647/blockchain-in-automotive-market-a-buyer-s-and-investor-s-guide",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://globalfintechseries.com/wp-content/uploads/ZAN-Node-Is-the-Worlds-Fastest-Web3-Node-Provider-Covering-Ethereum-Solana-Base-Polygon-and-47-Networks.jpg",
-      "publishedAt": "2026-08-10T08:14:25.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://cdn.open-pr.com/L/8/L811980606_k.jpg",
+      "publishedAt": "2026-08-11T08:56:25.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "blockchain",
-        "zan",
-        "networks",
-        "finance",
-        "news",
-        "web3"
+        "it",
+        "new media & software"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "025bd41d31513bb0",
+      "slug": "life-science-analytics-market-to-reach-usd-118-60-billion-by-2035-at-10-7-cagr-a90460",
+      "title": "Life Science Analytics Market to reach USD 118.60 Billion by 2035 at 10.7% CAGR",
+      "dek": "India Morning Times is an online news publication focusing on the India: Your daily news update on India",
+      "url": "https://indiamorningtimes.com/article/933305611-life-science-analytics-market-to-reach-usd-118-60-billion-by-2035-at-10-7-cagr",
+      "source": "Indiamorningtimes",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-08-11T08:50:35.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 43
+    },
+    {
+      "id": "0858a3e142f466c0",
+      "slug": "why-is-the-hyperscale-data-center-market-becoming-a-top-investment-priority-amid-explosi-7caf6f",
+      "title": "Why Is the Hyperscale Data Center Market Becoming a Top Investment Priority Amid Explosive AI Workloads and Rising Demand for High-Density Computing Infrastructure",
+      "dek": "The Global Hyperscale Data Center Market reached US$ 202.8 billion in 2025 and is expected to reach US$ 1,829.4 billion by 2035, growing at a CAGR of 24.6% during the forecast period 2026-2035. Growth is driven by the rapid expansion of",
+      "url": "https://www.openpr.com/news/4600629/why-is-the-hyperscale-data-center-market-becoming-a-top",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/8/L811294367_k.jpg",
+      "publishedAt": "2026-08-11T08:49:50.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "it",
+        "new media & software"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "2362c7afc5d76223",
+      "slug": "tech-stock-sell-off-tests-ai-hype-but-infrastructure-investment-cycle-will-go-on-2cbc59",
+      "title": "Tech stock sell-off tests AI hype, but infrastructure investment cycle will go on",
+      "dek": "Investors are increasingly demanding clearer evidence that companies can turn heavy spending into profits.",
+      "url": "https://www.straitstimes.com/business/tech-stock-sell-off-tests-ai-hype-but-infrastructure-investment-cycle-will-go-on",
+      "source": "Straitstimes",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-08-11T08:21:13.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "c1e7b9feea6d29f7",
+      "slug": "top-edi-providers-for-small-businesses-in-2026-new-industry-report-highlights-the-best-e-7e358b",
+      "title": "Top EDI Providers for Small Businesses in 2026: New Industry Report Highlights the Best EDI Solutions for Growing Companies",
+      "dek": "As more small businesses expand into retail, eCommerce, wholesale distribution, and manufacturing, Electronic Data Interchange (EDI) has become an essential requirement for trading with major retailers, marketplaces, and supply chain partners. A newly released 2026 industry report identifies the Top",
+      "url": "http://prsync.com/infocon-systems/top-edi-providers-for-small-businesses-in--new-industry-report-highlights-the-best-edi-solutions-for-growing-companies-5194339/",
+      "source": "Pr Sync",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-08-11T08:19:56.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 43
+    },
+    {
+      "id": "f5e9edf97c38ec12",
+      "slug": "nvidia-wall-street-firms-plan-usd-500-billion-ai-deal-f0cbbf",
+      "title": "Nvidia, Wall Street firms plan USD 500 billion AI deal",
+      "dek": "Nvidia has partnered with Apollo, Blackstone, BlackRock, Brookfield, Goldman Sachs and KKR on a USD 500 billion AI infrastructure financing deal.",
+      "url": "https://thepaypers.com/fintech/news/nvidia-wall-street-firms-plan-usd-500-billion-ai-deal",
+      "source": "The Paypers",
+      "sourceType": "external",
+      "image": "https://assets.thepaypers.com/news%20team/nvidiawallstreed.jpg",
+      "publishedAt": "2026-08-11T07:38:34.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "fintech"
       ],
       "priority": 42
     },
     {
-      "id": "458e898cc9b8089f",
-      "slug": "percona-live-amsterdam-brings-community-together-around-future-for-open-source-databases-8c97e2",
-      "title": "Percona Live Amsterdam Brings Community Together Around Future For Open Source Databases",
-      "dek": "Engineers, database leaders and developers cover range of open source projects that underpin critical applications at scaleRALEIGH, N.C., Aug. 10, 2026 (GLOBE NEWSWIRE) -- Percona, a global leader ...",
-      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69261143-percona-live-amsterdam-brings-community-together-around-future-for-open-source-databases-399.htm",
-      "source": "Finanznachrichten.de",
+      "id": "57a9ea7059ad55f9",
+      "slug": "electronic-medical-records-market-2033-cloud-based-emrs-ai-enabled-documentation-interop-df6355",
+      "title": "Electronic Medical Records Market (2033): Cloud-Based EMRs, AI-Enabled Documentation & Interoperability Growth in United States Expansion",
+      "dek": "DataM Intelligence has released a new research report titled \"Electronic Medical Records Market Size 2026\". The report delivers in-depth insights into key market dynamics, including regional growth trends, market segmentation, CAGR projections, and the revenue performance of leading industry players",
+      "url": "https://www.openpr.com/news/4600531/electronic-medical-records-market-2033-cloud-based-emrs",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://ml.globenewswire.com/media/N2NiYzUzYjgtM2IzMi00OWJjLWFlMDMtNWM3MDI1YzI4NjExLTUwMDEzMjIxNi0yMDI2LTA4LTEwLWVu/tiny/Percona.png",
-      "publishedAt": "2026-08-10T07:10:00.000Z",
-      "topic": "AI & Database",
+      "image": "https://cdn.open-pr.com/L/8/L811770854_k.jpg",
+      "publishedAt": "2026-08-11T07:08:56.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "community",
-        "live",
-        "open",
-        "future",
-        "amsterdam",
-        "together"
+        "health & medicine"
       ],
       "priority": 42
     },
     {
-      "id": "69966f42c45e83f1",
-      "slug": "top-economist-warns-that-the-ai-math-doesn-t-make-sense-profits-are-currently-being-fund-3ae226",
-      "title": "Top economist warns that the AI math doesn’t make sense: ‘Profits are currently being funded by investors rather than earned from customers’",
-      "dek": "The AI boom has turned the standard profit margin model on its head, according to Apollo Chief Economist Torsten Slok—and it’s making the industry’s growth unsustainable.",
-      "url": "https://fortune.com/2026/08/10/torsten-slok-ai-profit-margins-capex-oracle/",
-      "source": "Fortune",
+      "id": "1e6ffe485b15592b",
+      "slug": "japan-data-center-market-to-reach-usd-7-94-billion-by-2033-as-ai-infrastructure-investme-4ca9d9",
+      "title": "Japan Data Center Market to Reach USD 7.94 Billion by 2033 as AI Infrastructure Investments Accelerate, Reports Epignosis Insights",
+      "dek": "The Epignosis Insights study, titled \"AI Infrastructure Investments Driving the Japan Data Center Market: GPU Clusters, High-Density Racks, and Future Capacity,\" offers a comprehensive analysis of the Japan data center industry by data center type colocation, hyperscale, enterprise, and edge",
+      "url": "https://www.openpr.com/news/4600424/japan-data-center-market-to-reach-usd-7-94-billion-by-2033-as-ai",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/08/GettyImages-2194585229-e1786135906472.jpg?w=2048",
-      "publishedAt": "2026-08-10T07:00:00.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://cdn.open-pr.com/L/8/L811861935_k.jpg",
+      "publishedAt": "2026-08-11T05:47:31.000Z",
+      "topic": "Oracle Cloud",
       "tags": [
-        "ai",
-        "tech"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "4d2a0224d96f4d4b",
-      "slug": "the-impending-inescapable-deluge-of-artificial-intelligence-0f6933",
-      "title": "The impending, inescapable deluge of artificial intelligence",
-      "dek": "Scientists and technologists see the coming deluge of computing power leading to drug discoveries and robotics advances, and industry analysts said it would drive more everyday use of AI in people’s personal and professional lives.",
-      "url": "https://www.dtnext.in/news/national/the-impending-inescapable-deluge-of-artificial-intelligence",
-      "source": "Dt Next",
-      "sourceType": "external",
-      "image": "https://media.assettype.com/dt-next/2026-08-09/8xk42ree/Amazon.jpg?w=280",
-      "publishedAt": "2026-08-10T05:13:59.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "artificial intelligence",
-        "technology",
-        "national",
-        "database",
-        "alzheimer"
+        "it",
+        "new media & software"
       ],
       "priority": 40
     },
     {
-      "id": "c9a44eff2e0554b0",
-      "slug": "astera-makes-extracting-legacy-report-data-an-ai-specialty-fa85fe",
-      "title": "Astera Makes Extracting Legacy Report Data an AI Specialty",
-      "dek": "For all that large language models (LLMs) are really good at – and they are great at a few things – understanding large reports generated by IBM i servers and System Z mainframes is not one of them. A Southern California company called Astera has identified this gap and developed its own AI-based to",
-      "url": "https://www.itjungle.com/2026/08/10/astera-makes-extracting-legacy-report-data-an-ai-specialty/",
-      "source": "It Jungle",
+      "id": "b4fec56181915b5a",
+      "slug": "earnings-call-transcript-tvs-supply-chain-posts-strong-q1-2026-growth-736ea5",
+      "title": "Earnings call transcript: TVS Supply Chain posts strong Q1 2026 growth",
+      "dek": "Earnings call transcript: TVS Supply Chain posts strong Q1 2026 growth",
+      "url": "https://uk.investing.com/news/transcripts/earnings-call-transcript-tvs-supply-chain-posts-strong-q1-2026-growth-93CH-4823609",
+      "source": "Investing Uk",
       "sourceType": "external",
-      "image": "https://www.itjungle.com/wp-content/uploads/2026/08/green-bar-700x365.png",
-      "publishedAt": "2026-08-10T04:02:19.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "astera",
-        "ibm i",
-        "it jungle",
-        "llm",
-        "reportminer",
-        "sql"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "874c452ac8fbf97e",
-      "slug": "blockchain-stocks-to-keep-an-eye-on-august-8th-1c0b26",
-      "title": "Blockchain Stocks To Keep An Eye On – August 8th",
-      "dek": "Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Globant, Nukkleus, Digi Power X, and BTCS are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, use, or provide s",
-      "url": "https://baseballnewssource.com/2026/08/09/blockchain-stocks-to-keep-an-eye-on-august-8th/11218083.html",
-      "source": "Bbns",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
-      "publishedAt": "2026-08-10T03:04:53.000Z",
+      "image": "https://content-media.investing.com/news/LYNXNPEB5S0BT_M.jpg",
+      "publishedAt": "2026-08-11T05:30:09.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "partner feed articles",
-        "markets"
+        "Earnings"
       ],
-      "priority": 39
+      "priority": 40
     },
     {
-      "id": "2b601109ddf093ff",
-      "slug": "application-operations-enginner-hibrido-porto-3a778b",
-      "title": "Application Operations Enginner (Hibrido, Porto)",
-      "dek": "Empresa: Shore Categoria: Informática ( Programação ) Zona: Porto Data: 10-8-2026 Descrição: We are looking for an Application Operations Engineer to join our IT Operations team. In this role, you will be responsible for ensuring the availability, stability, and performance of business-critical",
-      "url": "https://www.net-empregos.com/15836803/application-operations-enginner-hibrido-porto/",
-      "source": "Net Empregos",
+      "id": "267b2bdeba117a03",
+      "slug": "analyzing-rimini-street-nasdaq-rmni-and-akamai-technologies-nasdaq-akam-9c109e",
+      "title": "Analyzing Rimini Street (NASDAQ:RMNI) and Akamai Technologies (NASDAQ:AKAM)",
+      "dek": "Akamai Technologies (NASDAQ:AKAM – Get Free Report) and Rimini Street (NASDAQ:RMNI – Get Free Report) are both technology companies, but which is the superior business? We will compare the two businesses based on the strength of their institutional ownership, earnings, dividends, analyst recommendat",
+      "url": "https://www.dailypolitical.com/2026/08/10/analyzing-rimini-street-nasdaqrmni-and-akamai-technologies-nasdaqakam.html",
+      "source": "Daily Political",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-08-10T00:00:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "trabalho",
-        "porto) - shore",
-        "ofertas emprego",
-        "centro emprego",
-        "emprego application operations enginner (hibrido",
-        "estagio"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "80296ed4c06b15d8",
-      "slug": "washington-dc-tech-jobs-multiple-high-paying-it-ai-roles-74c9e1",
-      "title": "💻 Washington, DC Tech Jobs – Multiple High-Paying IT & AI Roles",
-      "dek": "DC’s tech scene is packed with federal, fintech, and consulting work right now. If you’re in IT, data, or AI and can pass a clearance, this is a very good",
-      "url": "https://www.newsbreak.com/washington-dc-daily-brief-373178858/4820038760395-washington-dc-tech-jobs-multiple-high-paying-it-ai-roles",
-      "source": "Newsbreak",
-      "sourceType": "external",
-      "image": "https://img.particlenews.com/img/id/0uqf9w_1E5mh3OJ00",
-      "publishedAt": "2026-08-10T00:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "dc tech jobs – multiple high-paying it & ai roles",
-        "💻 washington",
-        "washington dc daily brief",
-        "breaking news",
-        "local news",
-        "newsbreak"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "310033cd12ca8f8c",
-      "slug": "where-is-the-life-sciences-supply-chain-heading-datadriveninvestor-07c78b",
-      "title": "Where is the Life Sciences Supply Chain Heading? — DataDrivenInvestor",
-      "dek": "Practitioner-written analysis on DataDrivenInvestor.",
-      "url": "https://www.datadriveninvestor.com/articles/where-is-the-life-sciences-supply-chain-heading",
-      "source": "Datadriveninvestor",
-      "sourceType": "external",
-      "image": "https://media.datadriveninvestor.com/uploads/2024/01/DALL%C2%B7E-2024-01-03-09.59.25-Create-a-minimalist-watercolor-image-inspired-by-the-concept-of-a-network-of-nodes-and-connections.-The-artwork-should-feature-a-central-simplified.png",
-      "publishedAt": "2026-08-09T23:57:34.000Z",
+      "image": "https://www.marketbeat.com/logos/rimini-street-inc-logo-1200x675.jpg?v=20240522112008",
+      "publishedAt": "2026-08-11T02:14:54.000Z",
       "topic": "Business & Earnings",
-      "tags": [],
-      "priority": 37
+      "tags": [
+        "comparison articles",
+        "finance"
+      ],
+      "priority": 38
     },
     {
-      "id": "6c28ab4ef379f644",
-      "slug": "arista-networks-and-arm-are-not-comparable-ai-plays-and-confusing-them-costs-you-5fa912",
-      "title": "Arista Networks and Arm Are Not Comparable AI Plays — and Confusing Them Costs You",
+      "id": "0f4576566d36f471",
+      "slug": "critical-analysis-rimini-street-nasdaq-rmni-and-akamai-technologies-nasdaq-akam-cb1dff",
+      "title": "Critical Analysis: Rimini Street (NASDAQ:RMNI) and Akamai Technologies (NASDAQ:AKAM)",
+      "dek": "Akamai Technologies (NASDAQ:AKAM – Get Free Report) and Rimini Street (NASDAQ:RMNI – Get Free Report) are both technology companies, but which is the better investment? We will contrast the two businesses based on the strength of their valuation, dividends, earnings, risk, institutional ownership, p",
+      "url": "https://zolmax.com/investing/critical-analysis-rimini-street-nasdaqrmni-and-akamai-technologies-nasdaqakam/11947676.html",
+      "source": "Zolmax",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/rimini-street-inc-logo-1200x675.jpg?v=20240522112008",
+      "publishedAt": "2026-08-11T02:14:50.000Z",
+      "topic": "Security",
+      "tags": [
+        "comparison articles",
+        "investing"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "f2f2c906cb6c270e",
+      "slug": "etip-joins-oracle-cloud-to-enhance-tipping-and-financial-ops-1a4566",
+      "title": "eTip Joins Oracle Cloud to Enhance Tipping and Financial Ops",
       "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/finance/arista-networks-and-arm-are-not-comparable-ai-plays-and-confusing-them-costs-you-81E968B4-C4F8-4CC9-BB74-723E53D0995A",
+      "url": "https://hospitalitynews.in/news/etip-integrates-with-oracle-cloud-to-streamline-tipping-and-financial-processes-in-hospitality",
+      "source": "Hospitalitynews",
+      "sourceType": "external",
+      "image": "https://hospitalitynews.in/uploads/images/202404/image_870x580_660ffcfdca4fd.jpg",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "5a929cef92bb8aa4",
+      "slug": "quantinuum-partners-oracle-for-hybrid-quantum-compute-on-oci-2ea049",
+      "title": "Quantinuum Partners Oracle for Hybrid Quantum Compute on OCI",
+      "dek": "Quantinuum announced a multi-year strategic partnership with Oracle to deploy its Helios quantum computer on Oracle Cloud Infrastructure (OCI), aiming to accelerate hybrid quantum compute adoption for enterprise, academic, and research applications. Concurrently, the company reported strong Q2 2026 ",
+      "url": "https://www.stockwatch.live/us/news/quantinuum-partners-oracle-for-hybrid-quantum-compute-on-oci-c1689c41-0755-4232-985b-37d63f7fd267",
+      "source": "Stockwatch",
+      "sourceType": "external",
+      "image": "https://stock-industry-images-us.s3.ap-south-1.amazonaws.com/webp/ServicesComputer_Integrated_Systems_Design/6.webp",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "partnership"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "96f2009b67b7c448",
+      "slug": "vrize-recognized-on-the-inc-5000-list-for-the-second-consecutive-year-a211b9",
+      "title": "VRIZE Recognized on the Inc. 5000 List for the Second Consecutive Year",
+      "dek": "VRIZE, a digital engineering and AI firm, today announced its second consecutive appearance on the prestigious Inc. 5000 list, ranking No. 3,978 among the",
+      "url": "https://www.einpresswire.com/article/933279349/vrize-recognized-on-the-inc-5000-list-for-the-second-consecutive-year",
+      "source": "Ein Presswire",
+      "sourceType": "external",
+      "image": "https://img.einnews.com/ampsize/933153/inc-5000-logo.png",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "it industry",
+        "shipping",
+        "fitness and recreation",
+        "australia",
+        "serbia",
+        "storage and logistics"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "e115554c0e1230ee",
+      "slug": "jones-law-firm-named-3372-on-the-inc-5000-the-most-prestigious-ranking-of-america-s-fast-0f3865",
+      "title": "Jones Law Firm Named 3372 on the Inc. 5000, the Most Prestigious Ranking of America’s Fastest-Growing Private Companies",
+      "dek": "Colorado Family Law Firm Earns Back-to-Back National Recognition for Sustained Revenue Growth for the Second Consecutive Year",
+      "url": "https://www.einpresswire.com/article/933295605/jones-law-firm-named-3372-on-the-inc-5000-the-most-prestigious-ranking-of-america-s-fastest-growing-private-companies",
+      "source": "Ein Presswire",
+      "sourceType": "external",
+      "image": "https://img.einnews.com/ampsize/1089235/april-d-jones-founder-ceo-j.jpeg",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "colorado",
+        "business and economy",
+        "united states",
+        "canada",
+        "law",
+        "worldnews"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "a60b18c1e819daa3",
+      "slug": "daily-ai-for-work-pulse-11th-of-august-a668c6",
+      "title": "Daily 'AI for Work' Pulse: 11th of August",
+      "dek": "Big update! 6 new AI tools and 72 news articles are waiting. Get the standouts without the noise, plus a quick read to keep your week sharp.",
+      "url": "https://completeaitraining.com/newsletter/daily-ai-for-work-pulse-11th-of-august-2/",
+      "source": "Complete Ai Training",
+      "sourceType": "external",
+      "image": "https://cdn.completeaitraining.com/newsletters/newsletter_2026-08-11_ghostwebsite.png",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "newsletter"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "9f77464a759d0924",
+      "slug": "partner-perspectives-announces-renee-bradford-joins-as-senior-consultant-and-vp-channel--ad8c13",
+      "title": "Partner Perspectives Announces Renee Bradford Joins as Senior Consultant and VP, Channel Sales & Strategic Alliances",
+      "dek": "Renowned Channel and Alliance Leader Expands Firm's Hybrid Cloud, AI, and Public Sector Practice Capabilities",
+      "url": "https://www.einpresswire.com/article/933351514/partner-perspectives-announces-renee-bradford-joins-as-senior-consultant-and-vp-channel-sales-strategic-alliances",
+      "source": "Ein Presswire",
+      "sourceType": "external",
+      "image": "https://img.einnews.com/ampsize/1168874/renee-bradford.jpeg",
+      "publishedAt": "2026-08-11T00:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "electronics industry",
+        "united states",
+        "companies",
+        "florida",
+        "worldnews",
+        "business and economy"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "80a33b065b20a50b",
+      "slug": "ulta-beauty-ulta-falls-more-steeply-than-broader-market-what-investors-need-to-know-ef4503",
+      "title": "Ulta Beauty (ULTA) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/finance/ulta-beauty-ulta-falls-more-steeply-than-broader-market-what-investors-need-to-know-FFD8077A-1083-4519-B578-965A98B8A529",
       "source": "Bundle",
       "sourceType": "external",
-      "image": "https://static.bundle.app/news/0f383540-0c8d-5539-92f4-a8b3b9cd3201.jpg",
-      "publishedAt": "2026-08-09T23:48:35.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 37
+      "image": "https://static.bundle.app/news/292b4eeb-811c-56fe-bffa-d336fd22ed99.jpg",
+      "publishedAt": "2026-08-10T22:46:39.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 36
     },
     {
-      "id": "b84b30e60b7e93b0",
-      "slug": "google-expands-bigquery-transfer-service-with-new-connectors-4a5d75",
-      "title": "Google expands BigQuery transfer service with new connectors",
-      "dek": "Enterprises will be able to move more sales, marketing and database data into BigQuery as Google adds connectors for SQL Server and Shopify.",
-      "url": "https://itbrief.com.au/story/google-expands-bigquery-transfer-service-with-new-connectors",
-      "source": "It Brief Australia",
+      "id": "89b1513a1f5e0488",
+      "slug": "chewy-chwy-dips-more-than-broader-market-what-you-should-know-09e25d",
+      "title": "Chewy (CHWY) Dips More Than Broader Market: What You Should Know",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/finance/chewy-chwy-dips-more-than-broader-market-what-you-should-know-150D38E2-98F3-4E1E-B60B-B465579AC094",
+      "source": "Bundle",
       "sourceType": "external",
-      "image": "https://itbrief.com.au/uploads/story/2026/08/10/compatible_innovative-cloud-data-warehouse-digital-connection-enterprise-illustration-story-315412.jpg",
-      "publishedAt": "2026-08-09T23:45:00.000Z",
-      "topic": "AI & Database",
+      "image": "https://static.bundle.app/news/bedde369-852b-543a-ab51-85c57b7b54c4.jpg",
+      "publishedAt": "2026-08-10T22:46:33.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "2425080593b4eacd",
+      "slug": "pdd-holdings-inc-sponsored-adr-pdd-rises-as-market-takes-a-dip-key-facts-19533c",
+      "title": "PDD Holdings Inc. Sponsored ADR (PDD) Rises As Market Takes a Dip: Key Facts",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/finance/pdd-holdings-inc-sponsored-adr-pdd-rises-as-market-takes-a-dip-key-facts-EC390F73-5E28-48AB-9308-20BDF155A424",
+      "source": "Bundle",
+      "sourceType": "external",
+      "image": "https://static.bundle.app/news/5370b64f-6818-55e8-b7fd-dce9f3274924.jpg",
+      "publishedAt": "2026-08-10T22:46:33.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "e7dabfc47c309a74",
+      "slug": "medtronic-mdt-increases-despite-market-slip-here-s-what-you-need-to-know-13a730",
+      "title": "Medtronic (MDT) Increases Despite Market Slip: Here's What You Need to Know",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/finance/medtronic-mdt-increases-despite-market-slip-heres-what-you-need-to-know-76C57E00-FAAC-4E7A-B09F-38937A49EC92",
+      "source": "Bundle",
+      "sourceType": "external",
+      "image": "https://static.bundle.app/news/58c8bda9-b7ea-5cae-8ef3-a3188415f4d5.jpg",
+      "publishedAt": "2026-08-10T22:46:33.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "c1c9214fb94deac4",
+      "slug": "why-the-market-dipped-but-oracle-orcl-gained-today-100acd",
+      "title": "Why the Market Dipped But Oracle (ORCL) Gained Today",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/finance/why-the-market-dipped-but-oracle-orcl-gained-today-AE33D213-EA27-477B-B6B9-F27600BA35D8",
+      "source": "Bundle",
+      "sourceType": "external",
+      "image": "https://static.bundle.app/news/16c44556-7af5-5be1-b50c-8418a240e7f0.jpg",
+      "publishedAt": "2026-08-10T22:46:32.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "ORCL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "114ce6de47b5d6ac",
+      "slug": "intuit-intu-increases-despite-market-slip-here-s-what-you-need-to-know-8dafa5",
+      "title": "Intuit (INTU) Increases Despite Market Slip: Here's What You Need to Know",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/finance/intuit-intu-increases-despite-market-slip-heres-what-you-need-to-know-36D91692-52F5-44CB-B41A-B242EE1A22DF",
+      "source": "Bundle",
+      "sourceType": "external",
+      "image": "https://static.bundle.app/news/c9b5b847-4831-52a4-8264-5317b8c50cf9.jpg",
+      "publishedAt": "2026-08-10T22:46:32.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "34ed1f996c709f2b",
+      "slug": "lowe-s-low-declines-more-than-market-some-information-for-investors-3d2cec",
+      "title": "Lowe's (LOW) Declines More Than Market: Some Information for Investors",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/finance/lowes-low-declines-more-than-market-some-information-for-investors-2C02BB28-0B67-4001-A043-95229F3EC010",
+      "source": "Bundle",
+      "sourceType": "external",
+      "image": "https://static.bundle.app/news/fdfbb812-d3de-586c-b32b-2b97dedfc0f7.jpg",
+      "publishedAt": "2026-08-10T22:46:32.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "6d7692b5733d517a",
+      "slug": "here-s-why-macy-s-m-fell-more-than-broader-market-fcac30",
+      "title": "Here's Why Macy's (M) Fell More Than Broader Market",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/finance/heres-why-macys-m-fell-more-than-broader-market-468A3511-6E45-426A-8588-CCEC3FAD3D9E",
+      "source": "Bundle",
+      "sourceType": "external",
+      "image": "https://static.bundle.app/news/c16025b7-5175-56cf-9065-4dfc3d009aec.jpg",
+      "publishedAt": "2026-08-10T22:46:30.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "ab536f1f5e060c3d",
+      "slug": "workday-wday-increases-despite-market-slip-here-s-what-you-need-to-know-d11216",
+      "title": "Workday (WDAY) Increases Despite Market Slip: Here's What You Need to Know",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/finance/workday-wday-increases-despite-market-slip-heres-what-you-need-to-know-F78BE18B-F255-410A-8941-6126F44431B0",
+      "source": "Bundle",
+      "sourceType": "external",
+      "image": "https://static.bundle.app/news/97d2f6f7-373f-5969-8441-8f5f2df55b3d.jpg",
+      "publishedAt": "2026-08-10T22:46:27.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "7f2e21212ffcbcb7",
+      "slug": "nvidia-nvda-suffers-a-larger-drop-than-the-general-market-key-insights-79243e",
+      "title": "Nvidia (NVDA) Suffers a Larger Drop Than the General Market: Key Insights",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/finance/nvidia-nvda-suffers-a-larger-drop-than-the-general-market-key-insights-A7718549-59AF-44EC-ACEF-564420750B98",
+      "source": "Bundle",
+      "sourceType": "external",
+      "image": "https://static.bundle.app/news/0c4e2e1c-b79d-5e95-ac5e-35a4cc5be1a7.jpg",
+      "publishedAt": "2026-08-10T22:46:25.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "73d4a35cd44f4f9f",
+      "slug": "rinnai-australia-cuts-service-times-with-oracle-ai-8a76c8",
+      "title": "Rinnai Australia cuts service times with Oracle AI",
+      "dek": "Customer enquiries are now being answered up to 35% faster as Rinnai Australia uses Oracle AI to ease pressure on its call centre.",
+      "url": "https://itbrief.co.nz/story/rinnai-australia-cuts-service-times-with-oracle-ai",
+      "source": "It Brief New Zealand",
+      "sourceType": "external",
+      "image": "https://itbrief.co.nz/uploads/story/2026/08/11/compatible_Samir_Shah-story-315480.jpg",
+      "publishedAt": "2026-08-10T22:19:00.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
         "technology"
       ],
-      "priority": 37
+      "priority": 36
     },
     {
-      "id": "4cb151091d0f93dd",
-      "slug": "it-security-news-weekly-summary-32-2e5ce8",
-      "title": "IT Security News Weekly Summary 32",
-      "dek": "210 posts were published in the last hour 21:55 : IT Security News Daily Summary 2026-08-09 21:0 : IT Security News Hourly Summary 2026-08-09 23h : 1 posts 20:0 : IT Security News Hourly Summary 2026-08-09 22h : 1 posts... Read more → The post IT Security News Weekly Summary 32 appeared first on IT ",
-      "url": "https://www.itsecuritynews.info/it-security-news-weekly-summary-32-2/",
-      "source": "It Security News",
+      "id": "5c23818c1b723f76",
+      "slug": "nuscale-s-6-gw-ai-bet-certified-nuclear-power-or-another-headline-without-cash-flow-49f408",
+      "title": "NuScale's 6-GW AI Bet: Certified Nuclear Power or Another Headline Without Cash Flow?",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/finance/nuscales-6-gw-ai-bet-certified-nuclear-power-or-another-headline-without-cash-flow-8BE899D3-F768-4C11-B77F-E3E60F9168FA",
+      "source": "Bundle",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-08-09T21:58:26.000Z",
-      "topic": "Security",
+      "image": "https://static.bundle.app/news/b2a8164a-5035-5077-b536-a0c9e8a7891c.jpg",
+      "publishedAt": "2026-08-10T21:46:08.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "weekly summary"
+        "AI"
       ],
       "priority": 36
     },
@@ -1717,286 +1957,6 @@
       "tags": [
         "Oracle Database",
         "MySQL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "6764e4ce38b290ce",
-      "slug": "enhancements-in-sql-plan-management-securefiles-lob-write-performance-and-column-width-a309fc",
-      "title": "Enhancements in SQL Plan Management, SecureFiles LOB Write Performance, and Column Width",
-      "dek": "Join Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they discuss how the new Automatic SQL Plan Management feature in Oracle Database 23ai improves performance consistency and simplifies management. Then, Senior Principal Database & MySQL ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/enhancements-in-sql-plan-management-securefiles-lob-write-performance-and-column-width",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP8.mp3?dest-id=3870039",
-      "publishedAt": "2024-09-17T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Oracle Database",
-        "MySQL",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "7fc0f877b6c48593",
-      "slug": "hybrid-columnar-compression-fast-ingest-a4b392",
-      "title": "Hybrid Columnar Compression & Fast Ingest",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with Senior Principal Database & MySQL Instructor Bill Millar about the enhanced performance of Hybrid Columnar Compression, the different compression levels, and how to achieve the best compression for your tables. Then, they delve into F",
-      "url": "https://oracleuniversitypodcast.libsyn.com/hybrid-columnar-compression-fast-ingest",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP7.mp3?dest-id=3870039",
-      "publishedAt": "2024-09-10T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "MySQL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "028f55b53f871be3",
-      "slug": "the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfall-f2dc7e",
-      "title": "The ethics of AI in Academia. Benefits and promise of AI. What should you consider? Pitfalls to avoid?",
-      "dek": "In this episode host Oracle Academy manager Tyra Peirce speaks with Mary Olson Industry Executive Director, Education at Oracle. Tyra and Mary speak about the ethics of AI in education and give practical advice on how to best use the technology while avoiding common pitfalls. -----------------------",
-      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfalls-to-avoid",
-      "source": "Oracle Academy Tech Chat",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP01.mp3?dest-id=3949203",
-      "publishedAt": "2024-09-03T12:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "954fb77f408fd5ab",
-      "slug": "time-data-handling-data-storage-91f274",
-      "title": "Time & Data Handling & Data Storage",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham discuss improvements in time and data handling and data storage in Oracle Database 23ai. They are joined by Senior Principal Instructor Serge Moiseev, who explains the benefit of allowing databases to have their own time zones, separate from the",
-      "url": "https://oracleuniversitypodcast.libsyn.com/time-data-handling-data-storage",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-09-03T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "Oracle Database"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "a1c4f2cadb715947",
-      "slug": "database-sharding-part-2-5face7",
-      "title": "Database Sharding: Part 2",
-      "dek": "Join hosts Lois Houston and Nikita Abraham in Part 2 of the discussion on database sharding with Ron Soltani, a Senior Principal Database & Security Instructor. They talk about sharding native replication, directory-based sharding, and coordinated backup and restore for sharded databases, explaining",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-sharding-part-2",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-27T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "43aa5988985c66d9",
-      "slug": "database-sharding-part-1-e6309a",
-      "title": "Database Sharding: Part 1",
-      "dek": "In this two-part episode, hosts Lois Houston and Nikita Abraham are joined by Ron Soltani, a Senior Principal Database & Security Instructor, to discuss the ins and outs of database sharding. In Part 1, they delve into the fundamentals of database sharding, including what it is and how it works, spe",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-sharding-part-1",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-20T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "119c79ecef58b62d",
-      "slug": "database-security-part-2-ef77d6",
-      "title": "Database Security: Part 2",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham continue their exploration of Oracle Database 23ai's database security capabilities. They are joined once again by Ron Soltani, a Senior Principal Database & Security Instructor, who delves into the intricacies of the new hybrid read-only mode f",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-2",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-13T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Oracle Database",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ffc09f7346e6f6b5",
-      "slug": "database-security-part-1-b4c13f",
-      "title": "Database Security: Part 1",
-      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they dive into the critical topic of database security. In the first of a two-part series on database security in Oracle Database 23ai, they discuss the importance of protecting dat",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-1",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-06T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Oracle Database",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "7c3ad34d1ff092f6",
-      "slug": "blockchain-tables-a4f246",
-      "title": "Blockchain Tables",
-      "dek": "In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham kick off a new season with a deep dive into the latest features of Oracle Database 23ai. Joined by Bill Millar, a Senior Principal Database & MySQL Instructor, they explore the new enhancements to blockchain tabl",
-      "url": "https://oracleuniversitypodcast.libsyn.com/blockchain-tables",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-30T11:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "Oracle Database",
-        "MySQL",
-        "Oracle University"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ff92a6749fa996f7",
-      "slug": "database-essentials-027d69",
-      "title": "Database Essentials",
-      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Hope Fisher, Oracle's Product Manager for Database Technologies, as they break down the basics of databases, explore different database management systems, and delve into database development. Whether you're a newcomer or just need a refresher, ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-essentials",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-23T14:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "f046bd97147c0cf8",
-      "slug": "container-engine-for-kubernetes-security-practices-26ab8f",
-      "title": "Container Engine for Kubernetes: Security Practices",
-      "dek": "In the season's final episode, hosts Lois Houston and Nikita Abraham interview senior OCI instructor Mahendra Mehra about the security practices that are vital for OKE clusters on OCI. Mahendra shares his expert insights on the importance of Kubernetes security, especially in today's digital landsca",
-      "url": "https://oracleuniversitypodcast.libsyn.com/container-engine-for-kubernetes-security-practices",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP7.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-16T14:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "OCI",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "be8b92279cd0831f",
-      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
-      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-09T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "d38db88cd3fd3cc0",
-      "slug": "working-with-oke-virtual-nodes-f5a370",
-      "title": "Working with OKE Virtual Nodes",
-      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-02T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "bd401ec004db1755",
-      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
-      "title": "Introduction to OCI Container Engine for Kubernetes",
-      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-25T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "1d3aa287378f7e71",
-      "slug": "basics-of-kubernetes-23e26c",
-      "title": "Basics of Kubernetes",
-      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
-      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-18T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ec54bf5b81f570ed",
-      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
-      "title": "Oracle Cloud Infrastructure Registry",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-11T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "OCI",
-        "Oracle Cloud Infrastructure"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "6ba1bee89c8a91cc",
-      "slug": "what-is-containerization-0326f4",
-      "title": "What is Containerization?",
-      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-04T14:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "OCI",
-        "Oracle University"
       ],
       "priority": 36
     }
