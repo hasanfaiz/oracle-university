@@ -6,331 +6,205 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Aug 2026 21:10:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:10:21 GMT</lastBuildDate>
     
     <item>
-      <title>Oracle Sets the Date for its Fourth Quarter Fiscal Year 2026 Earnings Announcement</title>
-      <link>https://oracle-university.com/stories/oracle-sets-the-date-for-its-fourth-quarter-fiscal-year-2026-earnings-announcement-3a2dd3/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-sets-the-date-for-its-fourth-quarter-fiscal-year-2026-earnings-announcement-3a2dd3/</guid>
-      <pubDate>Mon, 01 Jun 2026 20:01:00 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description></description>
-      <source url="https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-Fourth-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
-    </item>
-    <item>
-      <title>Oracle Sets the Date for its Third Quarter Fiscal Year 2026 Earnings Announcement</title>
-      <link>https://oracle-university.com/stories/oracle-sets-the-date-for-its-third-quarter-fiscal-year-2026-earnings-announcement-e65993/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-sets-the-date-for-its-third-quarter-fiscal-year-2026-earnings-announcement-e65993/</guid>
-      <pubDate>Tue, 03 Mar 2026 21:00:00 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description></description>
-      <source url="https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-Third-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
-    </item>
-    <item>
-      <title>Oracle Sets the Date for its Second Quarter Fiscal Year 2026 Earnings Announcement</title>
-      <link>https://oracle-university.com/stories/oracle-sets-the-date-for-its-second-quarter-fiscal-year-2026-earnings-announcement-16342c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-sets-the-date-for-its-second-quarter-fiscal-year-2026-earnings-announcement-16342c/</guid>
-      <pubDate>Tue, 02 Dec 2025 13:00:00 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description></description>
-      <source url="https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-Second-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
-    </item>
-    <item>
-      <title>Quantinuum and Oracle partner on quantum compute adoption</title>
-      <link>https://oracle-university.com/stories/quantinuum-and-oracle-partner-on-quantum-compute-adoption-3f3071/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/quantinuum-and-oracle-partner-on-quantum-compute-adoption-3f3071/</guid>
-      <pubDate>Wed, 12 Aug 2026 09:00:21 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Quantinuum and Oracle have entered a multi-year strategic partnership to bring quantum computing to Oracle Cloud Infrastructure (OCI). Under the partnership, OCI customers will be able to directly access Quantinuum’s Helios, its commercial quantum computer, through OCI’s quantum service, alongside O</description>
-      <source url="https://www.uktech.news/quantum/quantinuum-and-oracle-partner-on-quantum-compute-adoption-20260812">Uktn</source>
-    </item>
-    <item>
-      <title>Oracle plans fresh layoffs amid massive AI infrastructure spending: Report</title>
-      <link>https://oracle-university.com/stories/oracle-plans-fresh-layoffs-amid-massive-ai-infrastructure-spending-report-9e6bcd/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-plans-fresh-layoffs-amid-massive-ai-infrastructure-spending-report-9e6bcd/</guid>
-      <pubDate>Wed, 12 Aug 2026 08:27:44 GMT</pubDate>
+      <title>Global markets welcome moderate US inflation but Mideast uncertainties limit optimism</title>
+      <link>https://oracle-university.com/stories/global-markets-welcome-moderate-us-inflation-but-mideast-uncertainties-limit-optimism-ad6ecf/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/global-markets-welcome-moderate-us-inflation-but-mideast-uncertainties-limit-optimism-ad6ecf/</guid>
+      <pubDate>Thu, 13 Aug 2026 09:03:18 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Oracle is reportedly preparing another round of job cuts as the company ramps up spending on AI infrastructure and faces growing pressure to manage costs and debt.</description>
-      <source url="https://indianexpress.com/article/technology/artificial-intelligence/oracle-plans-more-layoffs-ai-infra-spending-10829641/">The Indian Express</source>
-    </item>
-    <item>
-      <title>Quantinuum and Oracle to blend quantum and cloud in new partnership</title>
-      <link>https://oracle-university.com/stories/quantinuum-and-oracle-to-blend-quantum-and-cloud-in-new-partnership-4d5d2f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/quantinuum-and-oracle-to-blend-quantum-and-cloud-in-new-partnership-4d5d2f/</guid>
-      <pubDate>Wed, 12 Aug 2026 08:19:49 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The multi-year partnership will explore how hybrid quantum-AI infrastructure could address some of the globe’s most pressing challenges. Read more: Quantinuum and Oracle to blend quantum and cloud in new partnership</description>
-      <source url="https://www.siliconrepublic.com/machines/quantinuum-oracle-blend-quantum-cloud-new-partnership-machines">Siliconrepublic</source>
-    </item>
-    <item>
-      <title>Oracle unveils HR AI agents in Fusion Cloud</title>
-      <link>https://oracle-university.com/stories/oracle-unveils-hr-ai-agents-in-fusion-cloud-1ead4f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-unveils-hr-ai-agents-in-fusion-cloud-1ead4f/</guid>
-      <pubDate>Wed, 12 Aug 2026 08:12:44 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Oracle said the launch includes eight HR applications now available within Fusion Cloud HCM.</description>
-      <source url="https://www.techinasia.com/oracle-adobe-lead-software-rally-peace-deal-hopes">Tech In Asia</source>
-    </item>
-    <item>
-      <title>Oracle layoffs again? Fresh job cuts planned before September as AI costs keep rising</title>
-      <link>https://oracle-university.com/stories/oracle-layoffs-again-fresh-job-cuts-planned-before-september-as-ai-costs-keep-rising-07d8d4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-layoffs-again-fresh-job-cuts-planned-before-september-as-ai-costs-keep-rising-07d8d4/</guid>
-      <pubDate>Wed, 12 Aug 2026 07:59:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Oracle is reportedly preparing another round of job cuts as it looks to lower payroll costs amid heavy spending on AI infrastructure. The move follows a sharp workforce reduction in fiscal 2026, when employee numbers fell by around 21,000.</description>
-      <source url="https://www.news9live.com/technology/tech-news/oracle-layoffs-again-fresh-job-cuts-ai-spending-2026-2998709">News9live</source>
-    </item>
-    <item>
-      <title>Quantinuum and Oracle Partner to Accelerate Hybrid Quantum Compute Adoption on Oracle Cloud Infrastructure</title>
-      <link>https://oracle-university.com/stories/quantinuum-and-oracle-partner-to-accelerate-hybrid-quantum-compute-adoption-on-oracle-cl-2fd35c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/quantinuum-and-oracle-partner-to-accelerate-hybrid-quantum-compute-adoption-on-oracle-cl-2fd35c/</guid>
-      <pubDate>Wed, 12 Aug 2026 07:46:08 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Quantinuum’s most advanced quantum computer, Helios, will be deployed in a US-based OCI AI data center to enable hybrid quantum-AI workloads as an OCI service. Quantinuum and Oracle aim to support enterprise, AI lab, academic, and research applications spanning drug discovery, materials science, fin</description>
-      <source url="https://aithority.com/machine-learning/neural-networks/quantum-computing/quantinuum-and-oracle-partner-to-accelerate-hybrid-quantum-compute-adoption-on-oracle-cloud-infrastructure/">Aithority</source>
-    </item>
-    <item>
-      <title>99exch Expands Its Mobile-First Cricket ID and WhatsApp Support Experience</title>
-      <link>https://oracle-university.com/stories/99exch-expands-its-mobile-first-cricket-id-and-whatsapp-support-experience-563d5b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/99exch-expands-its-mobile-first-cricket-id-and-whatsapp-support-experience-563d5b/</guid>
-      <pubDate>Wed, 12 Aug 2026 07:18:26 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>INDIA - August 12, 2026 - 99exch is strengthening its digital presence with an expanded mobile-first information experience designed for users searching for Cricket ID, account-access guidance and the 99exch Whatsapp Number. Available at https://get99exchid.com.in/, the website currently provides de</description>
-      <source url="https://www.openpr.com/news/4601767/99exch-expands-its-mobile-first-cricket-id-and-whatsapp-support">Openpr.com</source>
-    </item>
-    <item>
-      <title>Top EDI Providers for Small Businesses in 2026: New Industry Report Highlights the Best EDI Solutions for Growing Companies</title>
-      <link>https://oracle-university.com/stories/top-edi-providers-for-small-businesses-in-2026-new-industry-report-highlights-the-best-e-622d49/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-edi-providers-for-small-businesses-in-2026-new-industry-report-highlights-the-best-e-622d49/</guid>
-      <pubDate>Wed, 12 Aug 2026 06:57:34 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>As more small businesses expand into retail, eCommerce, wholesale distribution, and manufacturing, Electronic Data Interchange (EDI) has become an essential requirement for trading with major retailers, marketplaces, and supply chain partners. A newly released 2026 industry report identifies the Top</description>
-      <source url="https://www.openpr.com/news/4601054/top-edi-providers-for-small-businesses-in-2026-new-industry">Openpr.com</source>
-    </item>
-    <item>
-      <title>Global Warehouse Management Systems Market Size, Growth, Trends &amp; Forecast to 2033 Honeywell, Tecsys, Generix Group, Fishbowl</title>
-      <link>https://oracle-university.com/stories/global-warehouse-management-systems-market-size-growth-trends-forecast-to-2033-honeywell-bede75/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/global-warehouse-management-systems-market-size-growth-trends-forecast-to-2033-honeywell-bede75/</guid>
-      <pubDate>Wed, 12 Aug 2026 06:57:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The Warehouse Management Systems (WMS) market is driven by the growing need for real-time inventory visibility, warehouse automation, order accuracy, and efficient supply-chain operations. Adoption is increasing across e-commerce, retail, manufacturing, logistics, and distribution industries as comp</description>
-      <source url="https://www.openpr.com/news/4601789/global-warehouse-management-systems-market-size-growth">Openpr.com</source>
-    </item>
-    <item>
-      <title>Healthcare Supply Chain Management Market (2033): Improving Healthcare Logistics &amp; Supply Chain Visibility in United States Expansion</title>
-      <link>https://oracle-university.com/stories/healthcare-supply-chain-management-market-2033-improving-healthcare-logistics-supply-cha-552102/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/healthcare-supply-chain-management-market-2033-improving-healthcare-logistics-supply-cha-552102/</guid>
-      <pubDate>Wed, 12 Aug 2026 06:45:30 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Healthcare Supply Chain Management Market reached US$ 3.92 billion in 2025 and is expected to reach US$ 11.58 billion by 2033, growing at a CAGR of 14.9% during the forecast period 2026-2033 DataM Intelligence has released its latest &quot;Healthcare Supply Chain</description>
-      <source url="https://www.openpr.com/news/4601775/healthcare-supply-chain-management-market-2033-improving">Openpr.com</source>
-    </item>
-    <item>
-      <title>Quantinuum to bring quantum computing to Oracle cloud</title>
-      <link>https://oracle-university.com/stories/quantinuum-to-bring-quantum-computing-to-oracle-cloud-18ae81/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/quantinuum-to-bring-quantum-computing-to-oracle-cloud-18ae81/</guid>
-      <pubDate>Wed, 12 Aug 2026 06:28:10 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Quantinuum signs multi-year partnership to converge three powerful paradigms - AI, classical supercomputing, and quantum computing The post Quantinuum to bring quantum computing to Oracle cloud appeared first on TechChannel News .</description>
-      <source url="https://techchannel.news/quantinuum-to-bring-quantum-computing-to-oracle-cloud/">Techchannel News</source>
-    </item>
-    <item>
-      <title>Paramount Skydance (PSKY) Q2 2026 Earnings Call Transcript</title>
-      <link>https://oracle-university.com/stories/paramount-skydance-psky-q2-2026-earnings-call-transcript-940864/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/paramount-skydance-psky-q2-2026-earnings-call-transcript-940864/</guid>
-      <pubDate>Wed, 12 Aug 2026 06:11:42 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>DTC revenue surged 9% while streaming subscribers hit 81.6 million.</description>
-      <source url="https://www.fool.com/earnings/call-transcripts/2026/08/12/paramount-skydance-psky-q2-2026-earnings-call-transcript/">Fool</source>
-    </item>
-    <item>
-      <title>Oracle Layoffs: Managers Asked To Prepare Job-Cut Lists; What We Know So Far</title>
-      <link>https://oracle-university.com/stories/oracle-layoffs-managers-asked-to-prepare-job-cut-lists-what-we-know-so-far-f57758/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-layoffs-managers-asked-to-prepare-job-cut-lists-what-we-know-so-far-f57758/</guid>
-      <pubDate>Wed, 12 Aug 2026 06:09:44 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Oracle may announce fresh layoffs this month as it cuts costs amid massive AI and cloud investments. The move follows a 21,000-employee reduction during fiscal 2026., Companies, Times Now</description>
-      <source url="https://www.timesnownews.com/business-economy/companies/oracle-layoffs-managers-asked-to-prepare-job-cut-lists-what-we-know-so-far-article-155597219">Times Now</source>
-    </item>
-    <item>
-      <title>CaratLane Polishes its Edge with Oracle Fusion Cloud Applications</title>
-      <link>https://oracle-university.com/stories/caratlane-polishes-its-edge-with-oracle-fusion-cloud-applications-b75f5f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/caratlane-polishes-its-edge-with-oracle-fusion-cloud-applications-b75f5f/</guid>
-      <pubDate>Wed, 12 Aug 2026 05:49:37 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>CaratLane - A TATA Product and India’s leading omnichannel fine jewellery retailer, is using Oracle Fusion Cloud Applications to support its mission of making fine jewellery more accessible, modern, and wearable. With Oracle Fusion Applications for finance and supply chain, CaratLane has established</description>
-      <source url="https://smestreet.in/technology/caratlane-polishes-its-edge-with-oracle-fusion-cloud-applications-12252547">Smestreet In</source>
-    </item>
-    <item>
-      <title>Agentic Artificial Intelligence Applications in Vector Database Market is Valued USD 2.8 billion in 2026 | Pinecone Systems, Weaviate B.V., Zilliz Corporation</title>
-      <link>https://oracle-university.com/stories/agentic-artificial-intelligence-applications-in-vector-database-market-is-valued-usd-2-8-f5c154/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/agentic-artificial-intelligence-applications-in-vector-database-market-is-valued-usd-2-8-f5c154/</guid>
-      <pubDate>Wed, 12 Aug 2026 05:42:50 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>The global Agentic Artificial Intelligence Applications in Vector Database Market reached USD 2.3 billion in 2025 and is projected to increase from USD 2.8 billion in 2026 to USD 18.7 billion by 2036, registering a compound annual growth rate (CAGR)</description>
-      <source url="https://www.openpr.com/news/4601697/agentic-artificial-intelligence-applications-in-vector">Openpr.com</source>
-    </item>
-    <item>
-      <title>Novata Named in the Top 5% of the 2026 Inc. 5000 List, the Most Prestigious Ranking of America’s Fastest-Growing Private Companies</title>
-      <link>https://oracle-university.com/stories/novata-named-in-the-top-5-of-the-2026-inc-5000-list-the-most-prestigious-ranking-of-amer-69e2bf/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/novata-named-in-the-top-5-of-the-2026-inc-5000-list-the-most-prestigious-ranking-of-amer-69e2bf/</guid>
-      <pubDate>Wed, 12 Aug 2026 04:51:07 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>NEW YORK, August 11, 2026 /3BL/ - Novata , a sustainability data and technology provider and B-corp certified public benefit corporation, announced today that it has been ranked in the top 5% of the 2026 Inc. 5000 , the annual list of the fastest-growing private companies in America. Novata is ranke</description>
-      <source url="https://www.csr-company.com/blog/novata-named-top-5-2026-inc-5000-list-most-prestigious-ranking-america%E2%80%99s-fastest-growing">Csr-company</source>
-    </item>
-    <item>
-      <title>Oracle Adds New Fusion Agentic Applications and AI Agents</title>
-      <link>https://oracle-university.com/stories/oracle-adds-new-fusion-agentic-applications-and-ai-agents-5e1e0e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-adds-new-fusion-agentic-applications-and-ai-agents-5e1e0e/</guid>
-      <pubDate>Wed, 12 Aug 2026 03:31:16 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Oracle announced new Oracle Fusion Agentic Applications and AI agents for HR to help organizations accelerate workforce development, strengthen internal mobility, and respond to emerging skills needs. The new Fusion Agentic Applications for HR are powered by coordinated teams of specialized AI agent</description>
-      <source url="https://www.itbiznews.com/news/articleView.html?idxno=221602">It비즈뉴스</source>
-    </item>
-    <item>
-      <title>As six of Wall Street&#39;s biggest financial institutions say &#39;yes&#39; to Nvidia, company for the first time answers &#39;circular financing&#39; accusations</title>
-      <link>https://oracle-university.com/stories/as-six-of-wall-street-s-biggest-financial-institutions-say-yes-to-nvidia-company-for-the-c489e4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/as-six-of-wall-street-s-biggest-financial-institutions-say-yes-to-nvidia-company-for-the-c489e4/</guid>
-      <pubDate>Wed, 12 Aug 2026 02:25:16 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Nvidia collaborates with leading investment firms to secure funding for artificial intelligence infrastructure. This partnership aims to amass hundreds of billions of dollars for AI advancements and improve accessibility to Nvidia&#39;s high-performance computing resources. By engaging independent finan</description>
-      <source url="https://timesofindia.indiatimes.com/technology/tech-news/as-six-of-wall-streets-biggest-financial-institutions-say-yes-to-nvidia-company-for-the-first-time-answers-circular-financing-accusations/articleshow/133168117.cms">The Times Of India</source>
-    </item>
-    <item>
-      <title>Oracle, Quantinuum partner to bring quantum computing to cloud</title>
-      <link>https://oracle-university.com/stories/oracle-quantinuum-partner-to-bring-quantum-computing-to-cloud-adb147/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-quantinuum-partner-to-bring-quantum-computing-to-cloud-adb147/</guid>
-      <pubDate>Wed, 12 Aug 2026 02:25:15 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Under the deal, Oracle Cloud Infrastructure customers will gain ​access to Quantinuum&#39;s Helios quantum computer through OCI&#39;s quantum service, ​allowing them to combine quantum computing with Oracle&#39;s graphics-processing and high-performance computing services.</description>
-      <source url="https://economictimes.indiatimes.com/tech/artificial-intelligence/oracle-quantinuum-partner-to-bring-quantum-computing-to-cloud/articleshow/133168128.cms">The Economic Times</source>
-    </item>
-    <item>
-      <title>Therabody strengthens core operations with NetSuite</title>
-      <link>https://oracle-university.com/stories/therabody-strengthens-core-operations-with-netsuite-e7e004/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/therabody-strengthens-core-operations-with-netsuite-e7e004/</guid>
-      <pubDate>Wed, 12 Aug 2026 02:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Therabody, a wellness technology company, is using NetSuite’s AI-powered cloud enterprise resource planning (ERP) system to unify its global operations, automate order management, and increase productivity across its team. Founded by Jason Wersland in 2016, Therabody grew rapidly, driven by the earl</description>
-      <source url="https://www.frontier-enterprise.com/therabody-strengthens-core-operations-with-netsuite/">Frontier Enterprise</source>
-    </item>
-    <item>
-      <title>Oracle Layoffs: IT Company Planning Another Round Of Job Cuts? What We Know</title>
-      <link>https://oracle-university.com/stories/oracle-layoffs-it-company-planning-another-round-of-job-cuts-what-we-know-7a94a4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-layoffs-it-company-planning-another-round-of-job-cuts-what-we-know-7a94a4/</guid>
-      <pubDate>Wed, 12 Aug 2026 01:33:47 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Oracle is currently racking up tens of billions of dollars in debt to build data centers, acquire high-demand chips, and support major AI clients like OpenAI.</description>
-      <source url="https://www.ndtvprofit.com/business/oracle-layoffs-it-company-planning-another-round-of-job-cuts-what-we-know-11897537">Ndtv</source>
-    </item>
-    <item>
-      <title>Google adds Gemini code conversion for PostgreSQL migrations</title>
-      <link>https://oracle-university.com/stories/google-adds-gemini-code-conversion-for-postgresql-migrations-51771b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/google-adds-gemini-code-conversion-for-postgresql-migrations-51771b/</guid>
-      <pubDate>Wed, 12 Aug 2026 01:00:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Enterprises could cut months from database migrations as Gemini now rewrites proprietary procedures into PostgreSQL inside Google&#39;s migration service.</description>
-      <source url="https://itbrief.asia/story/google-adds-gemini-code-conversion-for-postgresql-migrations">It Brief Asia</source>
-    </item>
-    <item>
-      <title>American Well (AMWL) Q2 2026 Earnings Call Transcript</title>
-      <link>https://oracle-university.com/stories/american-well-amwl-q2-2026-earnings-call-transcript-014af6/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/american-well-amwl-q2-2026-earnings-call-transcript-014af6/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:10:01 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Losses narrowed 53% as subscriptions grew and costs fell 38% year over year.</description>
-      <source url="https://www.fool.com/earnings/call-transcripts/2026/08/11/american-well-amwl-q2-2026-earnings-call-transcript/">Fool</source>
+      <description>Unclear Strait of Hormuz talks overshadow easing US inflation, while dialing back Fed rate hike expectations in September</description>
+      <source url="https://www.aa.com.tr/en/economy/global-markets-welcome-moderate-us-inflation-but-mideast-uncertainties-limit-optimism/4026103">Anadolu Agency</source>
     </item>
     <item>
       <title>Quantinuum Q2 Earnings Call Highlights</title>
-      <link>https://oracle-university.com/stories/quantinuum-q2-earnings-call-highlights-15fbb6/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/quantinuum-q2-earnings-call-highlights-15fbb6/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:04:54 GMT</pubDate>
+      <link>https://oracle-university.com/stories/quantinuum-q2-earnings-call-highlights-84238f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/quantinuum-q2-earnings-call-highlights-84238f/</guid>
+      <pubDate>Thu, 13 Aug 2026 09:02:56 GMT</pubDate>
       <category>Business &amp; Earnings</category>
       <description>Quantinuum (NASDAQ:QNT) reported second-quarter 2026 revenue of $8 million, up 279% from the prior-year period, in its first earnings call as a public company following its June initial public offering. Chief Executive Officer Raj Hazra said the company is pursuing leadership across quantum hardware</description>
-      <source url="https://www.themarketsdaily.com/2026/08/12/quantinuum-q2-earnings-call-highlights.html">Markets Daily</source>
+      <source url="https://baseballnewssource.com/2026/08/13/quantinuum-q2-earnings-call-highlights/11222187.html">Bbns</source>
     </item>
     <item>
-      <title>SynchDB 1.4 Released - Oracle Container Database Support and TLS-Secured FDW Snapshots</title>
-      <link>https://oracle-university.com/stories/synchdb-1-4-released-oracle-container-database-support-and-tls-secured-fdw-snapshots-b3be00/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/synchdb-1-4-released-oracle-container-database-support-and-tls-secured-fdw-snapshots-b3be00/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Dear Community Members, We are excited to announce the release of SynchDB 1.4, a PostgreSQL extension for real-time replication from heterogeneous source databases into PostgreSQL/IvorySQL. This release extends Oracle Container Database support to every Oracle replication path, allows snapshot conne</description>
-      <source url="https://www.postgresql.org/about/news/synchdb-14-released-oracle-container-database-support-and-tls-secured-fdw-snapshots-3362/">Postgresql</source>
+      <title>Quantinuum, Oracle to advance hybrid quantum compute adoption</title>
+      <link>https://oracle-university.com/stories/quantinuum-oracle-to-advance-hybrid-quantum-compute-adoption-471ce3/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/quantinuum-oracle-to-advance-hybrid-quantum-compute-adoption-471ce3/</guid>
+      <pubDate>Thu, 13 Aug 2026 08:49:54 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>With Quantinuum’s Helios on OCI, customers can expect to gain managed, secure access to cloud-hosted quantum computing without having to procure, install, or operate dedicated hardware or specialized facilities.</description>
+      <source url="https://evertiq.com/design/2026-08-13-quantinuum-oracle-to-advance-hybrid-quantum-compute-adoption">Evertiq</source>
     </item>
     <item>
-      <title>Devart Earns Five 2026 DBTA Readers’ Choice Awards</title>
-      <link>https://oracle-university.com/stories/devart-earns-five-2026-dbta-readers-choice-awards-fd4b6a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/devart-earns-five-2026-dbta-readers-choice-awards-fd4b6a/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>Devart has earned recognition across five DBTA categories, highlighting strengths in administration, performance, modeling, development, and security.</description>
-      <source url="https://www.einpresswire.com/article/933634739/devart-earns-five-2026-dbta-readers-choice-awards">Ein Presswire</source>
+      <title>Rimini Street Expands C-Suite Leadership for Growth with Appointment of Two Proven Industry Veterans as Chief Operating Officer and Chief Delivery Officer</title>
+      <link>https://oracle-university.com/stories/rimini-street-expands-c-suite-leadership-for-growth-with-appointment-of-two-proven-indus-0e5f6d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/rimini-street-expands-c-suite-leadership-for-growth-with-appointment-of-two-proven-indus-0e5f6d/</guid>
+      <pubDate>Thu, 13 Aug 2026 08:45:24 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Business Wire India Rimini Street, Inc. (Nasdaq: RMNI), the Software Support and Agentic AI ERP CompanyTM and the leading third-party support provider for Oracle, SAP and VMware software, today announced the appointment of Keith Costello as chief operating officer (COO) and Alexander Guasch as chief</description>
+      <source url="https://nynewsly.com/rimini-street-expands-c-suite-leadership-for-growth-with-appointment-of-two-proven-industry-veterans-as-chief-operating-officer-and-chief-delivery-officer/42332/">Ny Newsly</source>
     </item>
     <item>
-      <title>Grab Bench: Evaluating AI on Grab-shaped production work</title>
-      <link>https://oracle-university.com/stories/grab-bench-evaluating-ai-on-grab-shaped-production-work-4aeabc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/grab-bench-evaluating-ai-on-grab-shaped-production-work-4aeabc/</guid>
-      <pubDate>Wed, 12 Aug 2026 00:00:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Introduction What worried us wasn’t the hallucination, it was the subtle plausibility. Answers an engineer could easily read past and accept: a right-looking Structured Query Language (SQL) query, a plausible tool call, an innocent profile update, or a patch that satisfied the surface tests. When we</description>
-      <source url="https://engineering.grab.com/grab-bench-evaluating-ai">Grab Holdings Inc.</source>
+      <title>Whose Memory Is It? Building Multi-Tenant, Multi-Tier Memory for AI Agents (Part 1)</title>
+      <link>https://oracle-university.com/stories/whose-memory-is-it-building-multi-tenant-multi-tier-memory-for-ai-agents-part-1-28cfc9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/whose-memory-is-it-building-multi-tenant-multi-tier-memory-for-ai-agents-part-1-28cfc9/</guid>
+      <pubDate>Thu, 13 Aug 2026 08:38:56 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Whose Memory Is It? Building Multi-Tenant, Multi-Tier Memory for AI Agents (Part 1). This is a 4-part series on how agents remember.</description>
+      <source url="https://us.headtopics.com/news/whose-memory-is-it-building-multi-tenant-multi-tier-86576122">Headtopics</source>
     </item>
     <item>
-      <title>1 Year, 5 Tech Stacks, and a 128MB RAM Device: My Rookie Year as a Software Engineer</title>
-      <link>https://oracle-university.com/stories/1-year-5-tech-stacks-and-a-128mb-ram-device-my-rookie-year-as-a-software-engineer-73bd1f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/1-year-5-tech-stacks-and-a-128mb-ram-device-my-rookie-year-as-a-software-engineer-73bd1f/</guid>
-      <pubDate>Tue, 11 Aug 2026 23:44:01 GMT</pubDate>
+      <title>PPC Moulding Services Drives Global Manufacturing Excellence Through Visionary Leadership | AAP</title>
+      <link>https://oracle-university.com/stories/ppc-moulding-services-drives-global-manufacturing-excellence-through-visionary-leadershi-dda55f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ppc-moulding-services-drives-global-manufacturing-excellence-through-visionary-leadershi-dda55f/</guid>
+      <pubDate>Thu, 13 Aug 2026 08:30:24 GMT</pubDate>
       <category>Oracle Ecosystem</category>
       <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.bundle.app/en/technology/1-year-5-tech-stacks-and-a-128mb-ram-device-my-rookie-year-as-a-software-engineer-0EEB4E15-155D-43C4-B209-2AEE010FA738">Bundle</source>
+      <source url="https://aap.com.au/aapreleases/cision20260813ae25755/">Australian Associated Press</source>
     </item>
     <item>
-      <title>Crexendo (CXDO) Q2 2026 Earnings Call Transcript</title>
-      <link>https://oracle-university.com/stories/crexendo-cxdo-q2-2026-earnings-call-transcript-e3f12e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/crexendo-cxdo-q2-2026-earnings-call-transcript-e3f12e/</guid>
-      <pubDate>Tue, 11 Aug 2026 23:25:33 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>ESI acquisition drives 49% revenue growth to $24.6 million amid margin expansion.</description>
-      <source url="https://www.fool.com/earnings/call-transcripts/2026/08/11/crexendo-cxdo-q2-2026-earnings-call-transcript/">Fool</source>
+      <title>Amid NEC&#39;s Rollout of AI-Driven Open RAN and Private 5G Solutions in Industrial DX, New Report Outlines Japan Local 5G Market Expansion</title>
+      <link>https://oracle-university.com/stories/amid-nec-s-rollout-of-ai-driven-open-ran-and-private-5g-solutions-in-industrial-dx-new-r-26888f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/amid-nec-s-rollout-of-ai-driven-open-ran-and-private-5g-solutions-in-industrial-dx-new-r-26888f/</guid>
+      <pubDate>Thu, 13 Aug 2026 08:05:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Rapid commercial maturity across the country&#39;s industrial and enterprise sectors highlighted by NTT DATA’s recognition as a 2026 Leader in private mobile networks, Fujitsu’s expanding subscription-based Local 5G models, and NEC’s Open RAN smart factory deployments is accelerating dedicated private s</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/08/13/3344262/28124/en/amid-nec-s-rollout-of-ai-driven-open-ran-and-private-5g-solutions-in-industrial-dx-new-report-outlines-japan-local-5g-market-expansion.html">Globenewswire_fr</source>
     </item>
     <item>
-      <title>AMD (AMD) Q2 2026 Earnings Call Transcript</title>
-      <link>https://oracle-university.com/stories/amd-amd-q2-2026-earnings-call-transcript-5bd132/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/amd-amd-q2-2026-earnings-call-transcript-5bd132/</guid>
-      <pubDate>Tue, 11 Aug 2026 23:08:59 GMT</pubDate>
+      <title>VA Seeks To Extend Its Oracle Health Record Contract Through 2031</title>
+      <link>https://oracle-university.com/stories/va-seeks-to-extend-its-oracle-health-record-contract-through-2031-41869d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/va-seeks-to-extend-its-oracle-health-record-contract-through-2031-41869d/</guid>
+      <pubDate>Thu, 13 Aug 2026 07:54:17 GMT</pubDate>
       <category>Oracle Cloud</category>
-      <description>Data center revenue doubled, driving record profitability and raised guidance.</description>
-      <source url="https://www.fool.com/earnings/call-transcripts/2026/08/11/amd-amd-q2-2026-earnings-call-transcript/">Fool</source>
+      <description>By Edward Graham, Managing Editor, Nextgov/FCW “This action is necessary to continue [electronic health record modernization] deployment activities and associated support services until all VA Medical Centers (VAMCs) and related facilities have fully transitioned to the EHR system,” the department s</description>
+      <source url="https://www.cyberera.com.ng/va-seeks-to-extend-its-oracle-health-record-contract-through-2031/">Cyber Era: Catalyzing The Digital Economy</source>
     </item>
     <item>
-      <title>Oracle Stock Just Hit a 52-Week Low After a 57% Drop in 10 Months. Is This a Buying Opportunity or Falling Knife?</title>
-      <link>https://oracle-university.com/stories/oracle-stock-just-hit-a-52-week-low-after-a-57-drop-in-10-months-is-this-a-buying-opport-020a01/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-stock-just-hit-a-52-week-low-after-a-57-drop-in-10-months-is-this-a-buying-opport-020a01/</guid>
-      <pubDate>Tue, 11 Aug 2026 22:57:35 GMT</pubDate>
+      <title>U.S. HEALTH SYSTEMS EMBRACE AGENTIC AI AS STEER HEALTH DEPLOYS END TO END CLINICAL ENGINE ACROSS NATIONWIDE HEALTHCARE ENTERPRISES</title>
+      <link>https://oracle-university.com/stories/u-s-health-systems-embrace-agentic-ai-as-steer-health-deploys-end-to-end-clinical-engine-d794aa/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/u-s-health-systems-embrace-agentic-ai-as-steer-health-deploys-end-to-end-clinical-engine-d794aa/</guid>
+      <pubDate>Thu, 13 Aug 2026 06:55:58 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>DALLAS, TX (August 12, 2026): Steer Health, the pioneer in enterprise-grade agentic artificial intelligence for healthcare, today announced the widespread, multi-facility adoption of its AI-Native Growth Platform for Health Systems. Spanning more than 472 locations and 109 healthcare organizations n</description>
+      <source url="https://www.openpr.com/news/4602610/u-s-health-systems-embrace-agentic-ai-as-steer-health-deploys">Openpr.com</source>
+    </item>
+    <item>
+      <title>After Brutal 6AM Layoffs, Oracle Plans Fresh Job Cuts as Billions in AI Spending Drive More Payroll Reductions</title>
+      <link>https://oracle-university.com/stories/after-brutal-6am-layoffs-oracle-plans-fresh-job-cuts-as-billions-in-ai-spending-drive-mo-505e14/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/after-brutal-6am-layoffs-oracle-plans-fresh-job-cuts-as-billions-in-ai-spending-drive-mo-505e14/</guid>
+      <pubDate>Thu, 13 Aug 2026 06:44:43 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Oracle&#39;s shift to AI infrastructure is impacting its workforce, with more potential job cuts. Learn about the company&#39;s financial strategies and implications for employees and investors.</description>
+      <source url="https://www.ibtimes.co.uk/oracle-job-cuts-ai-investment-1813968">International Business Times</source>
+    </item>
+    <item>
+      <title>Sanas Named No. 1 AI &amp; Data Company in America on the 2026 Inc. 5000 List of Fastest-Growing Private Companies</title>
+      <link>https://oracle-university.com/stories/sanas-named-no-1-ai-data-company-in-america-on-the-2026-inc-5000-list-of-fastest-growing-39c234/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/sanas-named-no-1-ai-data-company-in-america-on-the-2026-inc-5000-list-of-fastest-growing-39c234/</guid>
+      <pubDate>Thu, 13 Aug 2026 06:40:17 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Speech AI Leader Earns Top Ranking in California and Places No. 8 Overall on Prestigious List</description>
+      <source url="https://customerthink.com/sanas-named-no-1-ai-data-company-in-america-on-the-2026-inc-5000-list-of-fastest-growing-private-companies/">Customer Think</source>
+    </item>
+    <item>
+      <title>I Found the 9 Best Data Modeling Tools for 2026</title>
+      <link>https://oracle-university.com/stories/i-found-the-9-best-data-modeling-tools-for-2026-52fcfb/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/i-found-the-9-best-data-modeling-tools-for-2026-52fcfb/</guid>
+      <pubDate>Thu, 13 Aug 2026 06:32:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>We reviewed the 9 best data modeling tools for 2026, from enterprise-grade platforms like erwin Data Modeler to modern cloud-native solutions like SqlDBM. Find the right fit for your data architecture needs. The post I Found the 9 Best Data Modeling Tools for 2026 first appeared on AITechTrend .</description>
+      <source url="https://aitechtrend.com/best-data-modeling-tools/">Aitechtrend</source>
+    </item>
+    <item>
+      <title>Why Is the Enterprise AI Agent Adoption Market Becoming a Top Investment Priority Amid Rapid Growth in Autonomous Business Automation</title>
+      <link>https://oracle-university.com/stories/why-is-the-enterprise-ai-agent-adoption-market-becoming-a-top-investment-priority-amid-r-9b45eb/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/why-is-the-enterprise-ai-agent-adoption-market-becoming-a-top-investment-priority-amid-r-9b45eb/</guid>
+      <pubDate>Thu, 13 Aug 2026 05:58:47 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The Global Enterprise AI Agent Adoption Market reached US$ 6.65 billion in 2025 and is expected to reach US$ 142.35 billion by 2035, growing at a CAGR of 36.9% during the forecast period 2026-2035. Growth is driven by the rapid adoption</description>
+      <source url="https://www.openpr.com/news/4602675/why-is-the-enterprise-ai-agent-adoption-market-becoming-a-top">Openpr.com</source>
+    </item>
+    <item>
+      <title>Rimini Street bids to broaden CIO appeal with agentic AI move</title>
+      <link>https://oracle-university.com/stories/rimini-street-bids-to-broaden-cio-appeal-with-agentic-ai-move-825ea2/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/rimini-street-bids-to-broaden-cio-appeal-with-agentic-ai-move-825ea2/</guid>
+      <pubDate>Thu, 13 Aug 2026 04:50:00 GMT</pubDate>
+      <category>Security</category>
+      <description>Rimini Street, a pioneer in enterprise software third-party maintenance, is steering a new course, having recently released Rimini Govern for AI, a managed service said to help IT leaders hasten and moderate artificial intelligence (AI) agent deployment . The service is intended to reduce risks and </description>
+      <source url="https://www.computerweekly.com/news/366648894/Rimini-Street-bids-to-broaden-CIO-appeal-with-agentic-AI-move">Computerweekly News</source>
+    </item>
+    <item>
+      <title>Why Database Modernization Is Becoming the Backbone of Enterprise AI: Lessons from Technology Leader Sumit Gupta</title>
+      <link>https://oracle-university.com/stories/why-database-modernization-is-becoming-the-backbone-of-enterprise-ai-lessons-from-techno-3cdfb4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/why-database-modernization-is-becoming-the-backbone-of-enterprise-ai-lessons-from-techno-3cdfb4/</guid>
+      <pubDate>Thu, 13 Aug 2026 04:24:27 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>As organizations accelerate their adoption of artificial intelligence, cloud computing, and data-driven decision-making, one reality has become increasingly clear: AI is only as powerful as the infrastructure that supports it. Behind every successful AI initiative lies a modern, secure, scalable, an</description>
+      <source url="https://techbullion.com/why-database-modernization-is-becoming-the-backbone-of-enterprise-ai-lessons-from-technology-leader-sumit-gupta/">Techbullion</source>
+    </item>
+    <item>
+      <title>Oracle Cloud Infrastructure gets hybrid quantum capabilities</title>
+      <link>https://oracle-university.com/stories/oracle-cloud-infrastructure-gets-hybrid-quantum-capabilities-63a9ba/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-cloud-infrastructure-gets-hybrid-quantum-capabilities-63a9ba/</guid>
+      <pubDate>Thu, 13 Aug 2026 04:03:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Quantum computing company Quantinuum has signed a multi-year strategic partnership with Oracle to bring quantum computing to Oracle Cloud Infrastructure (OCI). Under the partnership, OCI customers will have direct access to Quantinuum’s Helios commercial quantum computer . Helios, which is a hybrid </description>
+      <source url="https://www.computerweekly.com/news/366649217/Oracle-Cloud-Infrastructure-gets-hybrid-quantum-capabilities">Computerweekly News</source>
+    </item>
+    <item>
+      <title>PostgreSQL in the Cloud: Security, Migration, and Performance Evolution</title>
+      <link>https://oracle-university.com/stories/postgresql-in-the-cloud-security-migration-and-performance-evolution-c5d331/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/postgresql-in-the-cloud-security-migration-and-performance-evolution-c5d331/</guid>
+      <pubDate>Thu, 13 Aug 2026 00:35:37 GMT</pubDate>
+      <category>Security</category>
+      <description>Explore the latest PostgreSQL developments: TLS enforcement on AWS, AI-assisted migrations, and TimescaleDB 2.28 performance boosts. Learn how to secure, migrate, and optimize your PostgreSQL deployments. The post PostgreSQL in the Cloud: Security, Migration, and Performance Evolution appeared first</description>
+      <source url="https://www.sourcetrail.com/sql/postgresql/postgresql-in-the-cloud-security-migration-and-performance-evolution/">Sourcetrail</source>
+    </item>
+    <item>
+      <title>Daily &#39;AI for Work&#39; Pulse: 13th of August</title>
+      <link>https://oracle-university.com/stories/daily-ai-for-work-pulse-13th-of-august-ac1588/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/daily-ai-for-work-pulse-13th-of-august-ac1588/</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Start your Monday strong with 9 new AI tools and 56 fresh articles. From practical releases to smart insights, there&#39;s plenty to sharpen your week. Stay current and keep your workflow moving.</description>
+      <source url="https://completeaitraining.com/newsletter/daily-ai-for-work-pulse-13th-of-august-2/">Complete Ai Training</source>
+    </item>
+    <item>
+      <title>Cloud Access Security Broker Market Size, Share, Growth, 2034</title>
+      <link>https://oracle-university.com/stories/cloud-access-security-broker-market-size-share-growth-2034-0cc072/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-access-security-broker-market-size-share-growth-2034-0cc072/</guid>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>The cloud access security broker market size is projected to grow from $11.73 billion in 2026 to $38.77 billion by 2034, at a CAGR of 16.12% during the forecast period 2026-2034.</description>
+      <source url="https://straitsresearch.com/report/cloud-access-security-broker-market">Straitsresearch</source>
+    </item>
+    <item>
+      <title>500 Blog Posts To Learn About Java</title>
+      <link>https://oracle-university.com/stories/500-blog-posts-to-learn-about-java-4567ee/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/500-blog-posts-to-learn-about-java-4567ee/</guid>
+      <pubDate>Wed, 12 Aug 2026 22:15:01 GMT</pubDate>
+      <category>Java &amp; MySQL</category>
+      <description>ONLY AVAILABLE IN PAID PLANS</description>
+      <source url="https://www.bundle.app/en/technology/500-blog-posts-to-learn-about-java-8644E387-BF0C-476F-81D0-CC8DD5CB033E">Bundle</source>
+    </item>
+    <item>
+      <title>Stock Market Today, Aug. 12: Nebius Group Surges on Massive Revenue Growth</title>
+      <link>https://oracle-university.com/stories/stock-market-today-aug-12-nebius-group-surges-on-massive-revenue-growth-bc7aa5/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/stock-market-today-aug-12-nebius-group-surges-on-massive-revenue-growth-bc7aa5/</guid>
+      <pubDate>Wed, 12 Aug 2026 21:57:33 GMT</pubDate>
       <category>Business &amp; Earnings</category>
       <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.bundle.app/en/finance/oracle-stock-just-hit-a-52-week-low-after-a-57-drop-in-10-months-is-this-a-buying-opportunity-or-falling-knife-A47DE707-D219-4648-9493-813963B8E3B6">Bundle</source>
+      <source url="https://www.bundle.app/en/finance/stock-market-today-aug-12-nebius-group-surges-on-massive-revenue-growth-BDFADDE5-D498-4072-8EEB-AA5A1897F5B5">Bundle</source>
     </item>
     <item>
-      <title>Earnings call transcript: Quantinuum lifts 2026 outlook as loss weighs on shares</title>
-      <link>https://oracle-university.com/stories/earnings-call-transcript-quantinuum-lifts-2026-outlook-as-loss-weighs-on-shares-05477f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/earnings-call-transcript-quantinuum-lifts-2026-outlook-as-loss-weighs-on-shares-05477f/</guid>
-      <pubDate>Tue, 11 Aug 2026 22:24:09 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Earnings call transcript: Quantinuum lifts 2026 outlook as loss weighs on shares</description>
-      <source url="https://za.investing.com/news/transcripts/earnings-call-transcript-quantinuum-lifts-2026-outlook-as-loss-weighs-on-shares-93CH-4422545">Investing South Africa</source>
-    </item>
-    <item>
-      <title>IT Security News Daily Summary 2026-08-11</title>
-      <link>https://oracle-university.com/stories/it-security-news-daily-summary-2026-08-11-854264/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/it-security-news-daily-summary-2026-08-11-854264/</guid>
-      <pubDate>Tue, 11 Aug 2026 21:55:26 GMT</pubDate>
-      <category>Security</category>
-      <description>210 posts were published in the last hour 21:2 : Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack 21:1 : Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing 21:1 : Fake CCleaner... Read more → The post IT Security News Daily Summary 20</description>
-      <source url="https://www.itsecuritynews.info/it-security-news-daily-summary-2026-08-11/">It Security News</source>
+      <title>&#39;Near-autonomous&#39; AI agents attack Taiwan&#39;s nuclear safety agency</title>
+      <link>https://oracle-university.com/stories/near-autonomous-ai-agents-attack-taiwan-s-nuclear-safety-agency-59afbf/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/near-autonomous-ai-agents-attack-taiwan-s-nuclear-safety-agency-59afbf/</guid>
+      <pubDate>Wed, 12 Aug 2026 21:45:16 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Some say the world will end in fire, some say an agentic swarm</description>
+      <source url="https://www.theregister.com/security/2026/08/12/near-autonomous-ai-agents-attack-taiwans-nuclear-safety-agency/5287055">The Register</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -457,6 +331,132 @@
       <category>AI &amp; Database</category>
       <description>In this episode, hosts Lois Houston and Nikita Abraham take you inside how Oracle brings its industry-leading database technology directly to AWS customers. Senior Principal OCI Instructor Susan Jang unpacks what the OCI child site is, how Exadata hardware is deployed inside AWS data centers, and ho</description>
       <source url="https://oracleuniversitypodcast.libsyn.com/what-is-oracle-databaseaws">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Oracle Multicloud Made Easy</title>
+      <link>https://oracle-university.com/stories/oracle-multicloud-made-easy-be0bfd/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-multicloud-made-easy-be0bfd/</guid>
+      <pubDate>Tue, 03 Feb 2026 12:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Multicloud is changing the way modern teams run their workloads: with real choice and real control. In this episode, hosts Lois Houston and Nikita Abraham welcome Senior Principal OCI Instructor Sergio Castro, who explains how Oracle has partnered with Microsoft Azure, Google Cloud, and AWS to bring</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-multicloud-made-easy">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Part II Transforming Database Operations: MCP Server + OCI Generative AI in Action</title>
+      <link>https://oracle-university.com/stories/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action-639847/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action-639847/</guid>
+      <pubDate>Tue, 27 Jan 2026 13:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>In Part II of this episode we explore how Oracle&#39;s latest AI-driven database tools are revolutionizing teaching and learning in higher education. Tailored for global faculty and students, the episode demonstrates how artificial intelligence makes database operations more accessible, intuitive, and r</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>From Curiosity to Career Growth: An Oracle AI Certification Journey</title>
+      <link>https://oracle-university.com/stories/from-curiosity-to-career-growth-an-oracle-ai-certification-journey-bd5794/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/from-curiosity-to-career-growth-an-oracle-ai-certification-journey-bd5794/</guid>
+      <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Join us for an inspiring conversation with private equity advisor Jeffrey Malcolm as he shares how Oracle AI certification has transformed his career, family, and approach to business. Discover the real-world impact and opportunities that come from upskilling with Oracle&#39;s leading AI training progra</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/from-curiosity-to-career-growth-an-oracle-ai-certification-journey">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Transforming Database Operations: MCP Server + OCI Generative AI in Action</title>
+      <link>https://oracle-university.com/stories/transforming-database-operations-mcp-server-oci-generative-ai-in-action-6ad8a3/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/transforming-database-operations-mcp-server-oci-generative-ai-in-action-6ad8a3/</guid>
+      <pubDate>Tue, 20 Jan 2026 13:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Part I In this episode of the Oracle Academy Tech Chat Podcast we explore how Oracle&#39;s latest AI-driven database tools are revolutionizing teaching and learning in higher education. Tailored for global faculty and students, the episode demonstrates how artificial intelligence makes database operatio</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/transforming-database-operations-mcp-server-oci-generative-ai-in-action">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Driving Business Value with OCI – Part 2</title>
+      <link>https://oracle-university.com/stories/driving-business-value-with-oci-part-2-11d505/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/driving-business-value-with-oci-part-2-11d505/</guid>
+      <pubDate>Tue, 20 Jan 2026 12:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>Security, compliance, and resilience are the cornerstones of trust. In this episode, Lois Houston and Nikita Abraham continue their conversation with David Mills and Tijo Thomas, exploring how Oracle Cloud Infrastructure empowers organizations to protect data, stay compliant, and scale with confiden</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/driving-business-value-with-oci-part-2">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Driving Business Value with OCI–Part 1</title>
+      <link>https://oracle-university.com/stories/driving-business-value-with-oci-part-1-8444fa/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/driving-business-value-with-oci-part-1-8444fa/</guid>
+      <pubDate>Wed, 14 Jan 2026 23:18:23 GMT</pubDate>
+      <category>Security</category>
+      <description>Understanding cloud costs can be challenging, but it&#39;s essential for maximizing value. In this episode, hosts Lois Houston and Nikita Abraham speak with Oracle Cloud experts David Mills and Tijo Thomas about how Oracle Cloud Infrastructure offers predictable pricing, robust security, and high perfor</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/driving-business-value-with-ocipart-1">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Getting to Know Oracle Cloud Infrastructure</title>
+      <link>https://oracle-university.com/stories/getting-to-know-oracle-cloud-infrastructure-b4f7ca/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/getting-to-know-oracle-cloud-infrastructure-b4f7ca/</guid>
+      <pubDate>Tue, 06 Jan 2026 17:15:25 GMT</pubDate>
+      <category>Security</category>
+      <description>Every system depends on reliable infrastructure behind the scenes. Oracle Cloud Infrastructure (OCI) delivers that reliability with speed, flexibility, and built-in security. Join Lois Houston and Nikita Abraham as they speak with Oracle Cloud experts David Mills and Tijo Thomas about what makes OCI</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/getting-to-know-oracle-cloud-infrastructure">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Best of 2025: Unlocking the Power of Oracle APEX and AI</title>
+      <link>https://oracle-university.com/stories/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai-6aff1f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai-6aff1f/</guid>
+      <pubDate>Tue, 23 Dec 2025 12:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Lois Houston and Nikita Abraham explore how Oracle APEX integrates with AI to build smarter low-code applications. They are joined by Chaitanya Koratamaddi, Director of Product Management at Oracle, who explains the basics of Oracle APEX, its global adoption, and the challenges it addresses for busi</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Bringing the Cloud to You: Security and Control with Exadata</title>
+      <link>https://oracle-university.com/stories/bringing-the-cloud-to-you-security-and-control-with-exadata-e7accc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/bringing-the-cloud-to-you-security-and-control-with-exadata-e7accc/</guid>
+      <pubDate>Tue, 16 Dec 2025 13:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>In this episode, we&#39;ll talk about Security and Control with Exadata We&#39;ll explore how organizations can benefit from cloud innovation while keeping full control over their data — a critical challenge in today&#39;s digital world. ---------------------------------------------------- Episode Transcript: 0</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/bringing-the-cloud-to-you-security-and-control-with-exadata">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Best of 2025: Oracle Fusion Cloud Applications Foundations Training &amp; Certifications</title>
+      <link>https://oracle-university.com/stories/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications-6881a0/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications-6881a0/</guid>
+      <pubDate>Tue, 16 Dec 2025 12:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham dive into Oracle Fusion Cloud Applications and the new courses and certifications on offer. They are joined by Oracle Fusion Apps experts Patrick McBride and Bill Lawson who introduce the concept of Oracle Modern</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Best of 2025: Introduction to MySQL</title>
+      <link>https://oracle-university.com/stories/best-of-2025-introduction-to-mysql-2273ef/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-introduction-to-mysql-2273ef/</guid>
+      <pubDate>Tue, 02 Dec 2025 05:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Join hosts Lois Houston and Nikita Abraham as they explore the world of MySQL 8.4. Together with Perside Foster, a MySQL Principal Solution Engineer, they break down the fundamentals of MySQL, its wide range of applications, and why it&#39;s so popular among developers and database administrators. This </description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-introduction-to-mysql">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>The Transformative Power of Low Code Development</title>
+      <link>https://oracle-university.com/stories/the-transformative-power-of-low-code-development-d12adc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-transformative-power-of-low-code-development-d12adc/</guid>
+      <pubDate>Tue, 25 Nov 2025 13:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>In this Episode Orlaith Lawton speaks with Oracle ACE Roberto Capancioni about the importance of APEX and why it is the world&#39;s most popular low-code application platform. ------------------------------------------------------ Episode Transcript: 00:00:00:00 - 00:00:35:14 Unknown Welcome to the Orac</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-transformative-power-of-low-code-development">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Understanding Security Risks and Threats in the Cloud - Part 1</title>
+      <link>https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</guid>
+      <pubDate>Tue, 18 Nov 2025 12:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>This week, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to explore what truly keeps data safe, and what puts it at risk. They discuss the CIA triad, dive into hashing and encryption, and shed light on how cyber threats like malware, phishing, and ransomware t</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/understanding-security-risks-and-threats-in-the-cloud-part-1">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Networking &amp; Security Essentials</title>
+      <link>https://oracle-university.com/stories/networking-security-essentials-113af4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/networking-security-essentials-113af4/</guid>
+      <pubDate>Tue, 11 Nov 2025 12:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>How do all your devices connect and stay safe in the cloud? In this episode, Lois Houston and Nikita Abraham talk with OCI instructors Sergio Castro and Orlando Gentil about the basics of how networks work and the simple steps that help protect them. You&#39;ll learn how information gets from one place </description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/networking-security-essentials">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
