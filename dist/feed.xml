@@ -6,214 +6,79 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2026 20:52:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 20:44:24 GMT</lastBuildDate>
     
     <item>
-      <title>Databricks Closes $5 Billion Strategic Funding Led By Coatue</title>
-      <link>https://oracle-university.com/stories/databricks-closes-5-billion-strategic-funding-led-by-coatue-756ff3/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/databricks-closes-5-billion-strategic-funding-led-by-coatue-756ff3/</guid>
-      <pubDate>Fri, 14 Aug 2026 08:00:49 GMT</pubDate>
+      <title>&quot;JSON API, Valhalla Progress, LTS ❤️ PQC&quot; [IJN]</title>
+      <link>https://oracle-university.com/stories/json-api-valhalla-progress-lts-pqc-ijn-073ff0/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/json-api-valhalla-progress-lts-pqc-ijn-073ff0/</guid>
+      <pubDate>Sat, 15 Aug 2026 12:31:00 GMT</pubDate>
+      <category>Java &amp; MySQL</category>
+      <description>JEP 540 proposes to incubate a simple JSON API and is currently proposed to target JDK 28. The pull request for Project Valhalla&#39;s JEPs 401 and 539 were merged and value types are available as a preview feature in the latest JDK 28 early-access builds. Oracle plans to backport post-quantum cryptogra</description>
+      <source url="https://inside.java/2026/08/15/podcast-066/">Inside Java</source>
+    </item>
+    <item>
+      <title>Kern County supervisors explore splitting California into two states</title>
+      <link>https://oracle-university.com/stories/kern-county-supervisors-explore-splitting-california-into-two-states-e56299/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/kern-county-supervisors-explore-splitting-california-into-two-states-e56299/</guid>
+      <pubDate>Sat, 15 Aug 2026 04:25:06 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Data and AI software company Databricks has officially closed a $5 billion strategic funding round led by Coatue, boosting its private valuation to $190 billion. The post Databricks Closes $5 Billion Strategic Funding Led By Coatue appeared first on Tech Company News .</description>
-      <source url="https://www.techcompanynews.com/databricks-closes-5-billion-strategic-funding-led-by-coatue/">Tech Company News</source>
-    </item>
-    <item>
-      <title>Oracle and AWS Deepen Strategic Collaboration as Enterprise Adoption of Oracle AI Database@AWS Accelerates</title>
-      <link>https://oracle-university.com/stories/oracle-and-aws-deepen-strategic-collaboration-as-enterprise-adoption-of-oracle-ai-databa-998a84/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-and-aws-deepen-strategic-collaboration-as-enterprise-adoption-of-oracle-ai-databa-998a84/</guid>
-      <pubDate>Fri, 14 Aug 2026 07:34:47 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Oracle and AWS expand long-term strategic collaboration agreement to accelerate customer migration, with Oracle AI Database@AWS now available in 22 AWS Regions and offering new expanded capabilities New Oracle Exadata Database Service on Exascale Infrastructure, now generally available, extends Exad</description>
-      <source url="https://martechseries.com/predictive-ai/ai-platforms-machine-learning/oracle-and-aws-deepen-strategic-collaboration-as-enterprise-adoption-of-oracle-ai-databaseaws-accelerates/">Marketing Technology Series</source>
-    </item>
-    <item>
-      <title>Why Is Oracle Stock Surging? Shares Jump 5% as Quantum Deal Overshadows Fresh Layoff Reports</title>
-      <link>https://oracle-university.com/stories/why-is-oracle-stock-surging-shares-jump-5-as-quantum-deal-overshadows-fresh-layoff-repor-a9327c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/why-is-oracle-stock-surging-shares-jump-5-as-quantum-deal-overshadows-fresh-layoff-repor-a9327c/</guid>
-      <pubDate>Fri, 14 Aug 2026 07:27:01 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Oracle&#39;s shares rose over 5% following a partnership with Quantinuum for quantum computing integration, amid reports of potential layoffs and significant AI infrastructure investments.</description>
-      <source url="https://www.ibtimes.co.uk/oracle-quantum-computing-partnership-1814174">International Business Times</source>
-    </item>
-    <item>
-      <title>Hackers Exploiting Unpatched GeoServer Zero-Day</title>
-      <link>https://oracle-university.com/stories/hackers-exploiting-unpatched-geoserver-zero-day-b1ba1f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/hackers-exploiting-unpatched-geoserver-zero-day-b1ba1f/</guid>
-      <pubDate>Fri, 14 Aug 2026 07:01:56 GMT</pubDate>
-      <category>Security</category>
-      <description>The security defect is described as an SQL injection that could allow attackers to achieve remote code execution. The post Hackers Exploiting Unpatched GeoServer Zero-Day appeared first on SecurityWeek .</description>
-      <source url="https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/">Securityweek</source>
-    </item>
-    <item>
-      <title>Leah, Oracle and PwC partner to scale agentic AI globally</title>
-      <link>https://oracle-university.com/stories/leah-oracle-and-pwc-partner-to-scale-agentic-ai-globally-dc3316/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/leah-oracle-and-pwc-partner-to-scale-agentic-ai-globally-dc3316/</guid>
-      <pubDate>Fri, 14 Aug 2026 06:27:52 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Leah has selected Oracle Cloud Infrastructure (OCI) to support the global expansion of Leah Agentic OS, its enterprise platform for legal, contracting, procurement and finance workflows. The platform also includes [...] The post Leah, Oracle and PwC partner to scale agentic AI globally appeared firs</description>
-      <source url="https://www.expresscomputer.in/news/leah-oracle-and-pwc-partner-to-scale-agentic-ai-globally/137723/">Express Computer</source>
-    </item>
-    <item>
-      <title>Three key learnings from SuiteWorld 2025: Why context, not automation, is the real AI prize</title>
-      <link>https://oracle-university.com/stories/three-key-learnings-from-suiteworld-2025-why-context-not-automation-is-the-real-ai-prize-abf6c8/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/three-key-learnings-from-suiteworld-2025-why-context-not-automation-is-the-real-ai-prize-abf6c8/</guid>
-      <pubDate>Fri, 14 Aug 2026 06:25:54 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Oracle NetSuite’s SuiteWorld 2025 in Las Vegas opened with a slogan built for a keynote stage: “No Limits.” But strip away the staging and the roughly 8,000 attendees packed into the venue, and what emerged from three days of product reveals and executive interviews was a more measured story — one a</description>
-      <source url="https://e27.co/three-key-learnings-from-suiteworld-2025-why-context-not-automation-is-the-real-ai-prize-20260814/">E27</source>
-    </item>
-    <item>
-      <title>Retail Intelligence Market to Reach US$11.6 Billion by 2033, Growing at a 12.5% CAGR from 2026-2033</title>
-      <link>https://oracle-university.com/stories/retail-intelligence-market-to-reach-us-11-6-billion-by-2033-growing-at-a-12-5-cagr-from--a40d1f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/retail-intelligence-market-to-reach-us-11-6-billion-by-2033-growing-at-a-12-5-cagr-from--a40d1f/</guid>
-      <pubDate>Fri, 14 Aug 2026 06:15:38 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The global retail intelligence market size is likely to be valued at US$ 5.1 billion in 2026 and is projected to reach US$ 11.6 billion by 2033, growing at a CAGR of 12.5% from 2026 to 2033. Market expansion is</description>
-      <source url="https://www.openpr.com/news/4603583/retail-intelligence-market-to-reach-us-11-6-billion-by-2033">Openpr.com</source>
-    </item>
-    <item>
-      <title>eScan rewards top channel partners with Thailand experience</title>
-      <link>https://oracle-university.com/stories/escan-rewards-top-channel-partners-with-thailand-experience-5b1e2a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/escan-rewards-top-channel-partners-with-thailand-experience-5b1e2a/</guid>
-      <pubDate>Fri, 14 Aug 2026 06:06:09 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Channel partner recognition takes eScan’s partners to Thailand, combining business interaction and relationship building to strengthen its channel ecosystem.</description>
-      <source url="https://www.dqchannels.com/news/escan-takes-top-channel-partners-to-thailand-12257171">Dqc</source>
-    </item>
-    <item>
-      <title>Kenya’s AI skills gap: How universities are preparing the next generation</title>
-      <link>https://oracle-university.com/stories/kenya-s-ai-skills-gap-how-universities-are-preparing-the-next-generation-082c94/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/kenya-s-ai-skills-gap-how-universities-are-preparing-the-next-generation-082c94/</guid>
-      <pubDate>Fri, 14 Aug 2026 05:30:00 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>From university classrooms to TVET labs, Kenya is building an AI talent pipeline, but the transition from training to employment remains uneven.</description>
-      <source url="https://capitalfm.africa/kenyas-ai-skills-gap-how-universities-are-preparing-the-next-generation/">Capital News</source>
+      <description>BAKERSFIELD, Calif. (KERO) — Kern County supervisors are exploring a proposal that would place Kern and dozens of other counties in a new state, separate from coastal California. Kern County District 3 Supervisor Jeff Flores said the effort is about making sure the region’s industries and way of lif</description>
+      <source url="https://newspub.live/west/california/kern-county-supervisors-explore-splitting-california-into-two-states/">News Pub</source>
     </item>
     <item>
       <title>Veritone Q2 Earnings Call Highlights</title>
-      <link>https://oracle-university.com/stories/veritone-q2-earnings-call-highlights-494cb5/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/veritone-q2-earnings-call-highlights-494cb5/</guid>
-      <pubDate>Fri, 14 Aug 2026 04:04:47 GMT</pubDate>
+      <link>https://oracle-university.com/stories/veritone-q2-earnings-call-highlights-237b7b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/veritone-q2-earnings-call-highlights-237b7b/</guid>
+      <pubDate>Sat, 15 Aug 2026 01:02:45 GMT</pubDate>
       <category>Business &amp; Earnings</category>
       <description>Veritone (NASDAQ:VERI) reported second-quarter 2026 revenue of $24.3 million, up 20% sequentially and 5% from a year earlier, as growth in its Veritone Data Refinery, or VDR, and licensing services offset pressure in hiring and public-sector revenue. Chief Executive Officer Ryan Steelberg said the c</description>
-      <source url="https://www.themarketsdaily.com/2026/08/14/veritone-q2-earnings-call-highlights.html">Markets Daily</source>
+      <source url="https://www.tickerreport.com/banking-finance/13543757/veritone-q2-earnings-call-highlights.html">Ticker Report</source>
     </item>
     <item>
-      <title>Oracle, AWS expand database partnership</title>
-      <link>https://oracle-university.com/stories/oracle-aws-expand-database-partnership-ecfa16/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-aws-expand-database-partnership-ecfa16/</guid>
-      <pubDate>Fri, 14 Aug 2026 03:37:18 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>The move comes alongside an expanded long-term collaboration with AWS to help enterprises move Oracle database workloads to the platform.</description>
-      <source url="https://www.techinasia.com/oracle-beats-estimates-q4-cloud-revenue-jumps-47">Tech In Asia</source>
-    </item>
-    <item>
-      <title>TravelingWiki Launches BodWiki.com, Bringing Fitness to the Special Needs &amp; Disability Community, After Launching at all NFL, NBA, MLB, NHL, MLS &amp; FBS Venues</title>
-      <link>https://oracle-university.com/stories/travelingwiki-launches-bodwiki-com-bringing-fitness-to-the-special-needs-disability-comm-d27d45/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/travelingwiki-launches-bodwiki-com-bringing-fitness-to-the-special-needs-disability-comm-d27d45/</guid>
-      <pubDate>Fri, 14 Aug 2026 01:35:00 GMT</pubDate>
+      <title>Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple &amp; Alibaba To Create AI Model For China &amp; More</title>
+      <link>https://oracle-university.com/stories/consumer-tech-aug-10-14-trump-faces-federal-lawsuits-apple-alibaba-to-create-ai-model-fo-b17836/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/consumer-tech-aug-10-14-trump-faces-federal-lawsuits-apple-alibaba-to-create-ai-model-fo-b17836/</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>TravelingWiki Foundation announces the continuation of its global expansion of TravelingWiki Foundation, launching BODWiki.com, leveraging AI to deliver...</description>
-      <source url="https://www.prweb.com/releases/travelingwiki-launches-bodwikicom-bringing-fitness-to-the-special-needs--disability-community-after-launching-at-all-nfl-nba-mlb-nhl-mls--fbs-venues-302851451.html">Prweb</source>
+      <description>Ukraine’s military intelligence service is warning that Russia is accelerating deployment of its planned Rassvet low-Earth-orbit satellite constellation, which could eventually provide Moscow with Starlink-like battlefield connectivity.</description>
+      <source url="https://www.inkl.com/news/consumer-tech-aug-10-14-trump-faces-federal-lawsuits-apple-alibaba-to-create-ai-model-for-china-more">Inkl</source>
     </item>
     <item>
-      <title>Oracle puts 13 AI agents to work across the talent lifecycle</title>
-      <link>https://oracle-university.com/stories/oracle-puts-13-ai-agents-to-work-across-the-talent-lifecycle-cd3d96/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-puts-13-ai-agents-to-work-across-the-talent-lifecycle-cd3d96/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:32:19 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Thirteen agents built into Oracle Fusion Cloud HCM span role design, learning content, manager coaching, and workforce planning.</description>
-      <source url="https://hrmasia.com/oracle-puts-13-ai-agents-to-work-across-the-talent-lifecycle/">HRM Asia</source>
-    </item>
-    <item>
-      <title>💻 San Francisco IT Jobs with Multiple Six-Figure Openings</title>
-      <link>https://oracle-university.com/stories/san-francisco-it-jobs-with-multiple-six-figure-openings-ae628c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/san-francisco-it-jobs-with-multiple-six-figure-openings-ae628c/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>San Francisco tech hiring is still rolling, especially for folks who can ship AI-heavy products and complex cloud systems. Here are some of the best Inform</description>
-      <source url="https://www.newsbreak.com/san-francisco-ca-daily-brief-373156504/4828359700629-san-francisco-it-jobs-with-multiple-six-figure-openings">Newsbreak</source>
-    </item>
-    <item>
-      <title>iMocha Partners with Lightcast to Power Skills &amp; Work Intelligence with the Global Standard for Skills Taxonomy</title>
-      <link>https://oracle-university.com/stories/imocha-partners-with-lightcast-to-power-skills-work-intelligence-with-the-global-standar-34a9b9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/imocha-partners-with-lightcast-to-power-skills-work-intelligence-with-the-global-standar-34a9b9/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>The partnership gives enterprises a common, independently maintained language for skills, built on Lightcast&#39;s industry-leading taxonomy.</description>
-      <source url="https://www.einpresswire.com/article/934182404/imocha-partners-with-lightcast-to-power-skills-work-intelligence-with-the-global-standard-for-skills-taxonomy">Ein Presswire</source>
-    </item>
-    <item>
-      <title>💻 Austin tech hiring: multiple high-paying IT roles open now</title>
-      <link>https://oracle-university.com/stories/austin-tech-hiring-multiple-high-paying-it-roles-open-now-03b50c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/austin-tech-hiring-multiple-high-paying-it-roles-open-now-03b50c/</guid>
-      <pubDate>Fri, 14 Aug 2026 00:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Austin’s tech scene is still buzzing—startups, big brands, and state agencies are all hiring. Here are several solid IT roles across data, cloud, AI, secur</description>
-      <source url="https://www.newsbreak.com/austin-tx-daily-brief-375410700/4828158872673-austin-tech-hiring-multiple-high-paying-it-roles-open-now">Newsbreak</source>
-    </item>
-    <item>
-      <title>&#39;Big Short&#39; Michael Burry takes aim at surging AI stock</title>
-      <link>https://oracle-university.com/stories/big-short-michael-burry-takes-aim-at-surging-ai-stock-4c0419/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/big-short-michael-burry-takes-aim-at-surging-ai-stock-4c0419/</guid>
-      <pubDate>Thu, 13 Aug 2026 23:03:00 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Michael Burry added to his bearish bet on Nebius stock after earnings, questioning AI compute pricing and the economics behind its rapid growth</description>
-      <source url="https://www.thestreet.com/investing/stocks/michael-burry-nebius-bearish-bet">Thestreet</source>
-    </item>
-    <item>
-      <title>Earnings call transcript: Alithya misses Q1 2026 estimates as shares fall</title>
-      <link>https://oracle-university.com/stories/earnings-call-transcript-alithya-misses-q1-2026-estimates-as-shares-fall-5fe440/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/earnings-call-transcript-alithya-misses-q1-2026-estimates-as-shares-fall-5fe440/</guid>
-      <pubDate>Thu, 13 Aug 2026 22:42:08 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Earnings call transcript: Alithya misses Q1 2026 estimates as shares fall</description>
-      <source url="https://za.investing.com/news/transcripts/earnings-call-transcript-alithya-misses-q1-2026-estimates-as-shares-fall-93CH-4428630">Investing South Africa</source>
-    </item>
-    <item>
-      <title>Earnings call transcript: Veritone Q2 2026 misses estimates, shares drop 23%</title>
-      <link>https://oracle-university.com/stories/earnings-call-transcript-veritone-q2-2026-misses-estimates-shares-drop-23-682b74/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/earnings-call-transcript-veritone-q2-2026-misses-estimates-shares-drop-23-682b74/</guid>
-      <pubDate>Thu, 13 Aug 2026 22:18:11 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Earnings call transcript: Veritone Q2 2026 misses estimates, shares drop 23%</description>
-      <source url="https://au.investing.com/news/transcripts/earnings-call-transcript-veritone-q2-2026-misses-estimates-shares-drop-23-93CH-4599290">Investing Australia</source>
-    </item>
-    <item>
-      <title>IT Security News Daily Summary 2026-08-13</title>
-      <link>https://oracle-university.com/stories/it-security-news-daily-summary-2026-08-13-966cac/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/it-security-news-daily-summary-2026-08-13-966cac/</guid>
-      <pubDate>Thu, 13 Aug 2026 21:55:28 GMT</pubDate>
+      <title>Top 10 Cyber-Attacks of 2025</title>
+      <link>https://oracle-university.com/stories/top-10-cyber-attacks-of-2025-633ce7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/top-10-cyber-attacks-of-2025-633ce7/</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
       <category>Security</category>
-      <description>210 posts were published in the last hour 21:31 : DefCon airplane Wi-Fi drama. GhostJacking leads to agent hijacks, AI agent hacks gym 21:31 : AWS Certificate Manager will discontinue email validation to prove domain validation for certificates 21:2 :... Read more → The post IT Security News Daily S</description>
-      <source url="https://www.itsecuritynews.info/it-security-news-daily-summary-2026-08-13/">It Security News</source>
+      <description>Discover the most significant cyber-attacks of 2025 in Infosecurity Magazine’s expert roundup</description>
+      <source url="https://www.infosecurity-magazine.com/news-features/top-10-cyberattacks-of-2025/">Infosecurity Magazine</source>
     </item>
     <item>
-      <title>Rackspace Technology, Inc. (NASDAQ: RXT) Investor Alert: Lawsuit seeks to recover Investor losses</title>
-      <link>https://oracle-university.com/stories/rackspace-technology-inc-nasdaq-rxt-investor-alert-lawsuit-seeks-to-recover-investor-los-632c69/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/rackspace-technology-inc-nasdaq-rxt-investor-alert-lawsuit-seeks-to-recover-investor-los-632c69/</guid>
-      <pubDate>Thu, 13 Aug 2026 21:45:21 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>An investor, who purchased shares of Rackspace Technology, Inc. (NASDAQ: RXT), filed a lawsuit over alleged violations of Federal Securities Laws by Rackspace Technology, Inc. in connection with certain allegedly false and misleading statements. Investors who purchased shares of Rackspace Technology</description>
-      <source url="https://www.openpr.com/news/4603473/rackspace-technology-inc-nasdaq-rxt-investor-alert">Openpr.com</source>
+      <title>Oracle NetSuite Now Streamlines Hospitality Operations</title>
+      <link>https://oracle-university.com/stories/oracle-netsuite-now-streamlines-hospitality-operations-12542f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-netsuite-now-streamlines-hospitality-operations-12542f/</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>ONLY AVAILABLE IN PAID PLANS</description>
+      <source url="https://hospitalitynews.in/news/oracle-netsuite-enhances-hospitality-with-micros-simphony-connector">Hospitalitynews</source>
     </item>
     <item>
-      <title>Oracle (NYSE:ORCL) Trading Up 2% – Should You Buy?</title>
-      <link>https://oracle-university.com/stories/oracle-nyse-orcl-trading-up-2-should-you-buy-7f39e6/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-nyse-orcl-trading-up-2-should-you-buy-7f39e6/</guid>
-      <pubDate>Thu, 13 Aug 2026 21:21:13 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Oracle Corporation (NYSE:ORCL – Get Free Report)’s share price shot up 2% during mid-day trading on Thursday . The stock traded as high as $159.26 and last traded at $156.31. Approximately 25,578,829 shares were traded during trading, a decline of 13% from the average daily volume of 29,547,928 shar</description>
-      <source url="https://www.themarketsdaily.com/2026/08/13/oracle-nyseorcl-trading-up-2-should-you-buy.html">Markets Daily</source>
+      <title>Advintek Named OTA Approved ASP in Oman: The Best eInvoicing Platform for Fawtara</title>
+      <link>https://oracle-university.com/stories/advintek-named-ota-approved-asp-in-oman-the-best-einvoicing-platform-for-fawtara-cebdf9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/advintek-named-ota-approved-asp-in-oman-the-best-einvoicing-platform-for-fawtara-cebdf9/</guid>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Advintek subsidiary Al Faisal secures OTA ASP status, empowering Oman businesses to achieve Fawtara Phase 1 compliance with automated e-invoicing.</description>
+      <source url="https://www.einpresswire.com/article/934097711/advintek-named-ota-approved-asp-in-oman-the-best-einvoicing-platform-for-fawtara">Ein Presswire</source>
     </item>
     <item>
-      <title>Big Tech’s AI-Fueled $1.65 Trillion Hidden Debt Crisis</title>
-      <link>https://oracle-university.com/stories/big-tech-s-ai-fueled-1-65-trillion-hidden-debt-crisis-34b8df/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/big-tech-s-ai-fueled-1-65-trillion-hidden-debt-crisis-34b8df/</guid>
-      <pubDate>Thu, 13 Aug 2026 21:17:29 GMT</pubDate>
+      <title>Bank of America Sees Bargains in These 16 Knocked-Down AI Stocks</title>
+      <link>https://oracle-university.com/stories/bank-of-america-sees-bargains-in-these-16-knocked-down-ai-stocks-590a20/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/bank-of-america-sees-bargains-in-these-16-knocked-down-ai-stocks-590a20/</guid>
+      <pubDate>Fri, 14 Aug 2026 21:49:23 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>One of the first things financial experts recommend investors do before they choose to buy individual stocks is look at...</description>
-      <source url="https://wtop.com/news/2026/08/big-techs-ai-fueled-1-65-trillion-hidden-debt-crisis/">Wtop News</source>
+      <description>A pullback in the AI trade has created opportunities for bargain-hunting investors, according to analysts at Bank of America.</description>
+      <source url="https://www.investopedia.com/bank-of-america-sees-bargains-in-these-16-knocked-down-ai-stocks-shares-tech-trade-12060473">Investopedia</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -457,6 +322,141 @@
       <category>Security</category>
       <description>This week, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to explore what truly keeps data safe, and what puts it at risk. They discuss the CIA triad, dive into hashing and encryption, and shed light on how cyber threats like malware, phishing, and ransomware t</description>
       <source url="https://oracleuniversitypodcast.libsyn.com/understanding-security-risks-and-threats-in-the-cloud-part-1">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Networking &amp; Security Essentials</title>
+      <link>https://oracle-university.com/stories/networking-security-essentials-113af4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/networking-security-essentials-113af4/</guid>
+      <pubDate>Tue, 11 Nov 2025 12:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>How do all your devices connect and stay safe in the cloud? In this episode, Lois Houston and Nikita Abraham talk with OCI instructors Sergio Castro and Orlando Gentil about the basics of how networks work and the simple steps that help protect them. You&#39;ll learn how information gets from one place </description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/networking-security-essentials">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Inside Cloud Networking</title>
+      <link>https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</guid>
+      <pubDate>Tue, 04 Nov 2025 12:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>In this episode, hosts Lois Houston and Nikita Abraham team up with Senior Principal OCI Instructor Sergio Castro to unpack the basics of cloud networking and the Domain Name System (DNS). You&#39;ll learn how local and virtual networks connect devices, and how DNS seamlessly translates familiar names l</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/inside-cloud-networking">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Cloud Data Centers: Core Concepts - Part 4</title>
+      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</guid>
+      <pubDate>Tue, 28 Oct 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>In this episode, hosts Lois Houston and Nikita Abraham, along with Principal OCI Instructor Orlando Gentil, break down the differences between Infrastructure-as-a-Service, Platform-as-a-Service, and Software-as-a-Service. The conversation explores how each framework influences control, cost efficien</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-4">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Cloud Data Centers: Core Concepts - Part 3</title>
+      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</guid>
+      <pubDate>Tue, 21 Oct 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Have you ever considered how a single server can support countless applications and workloads at once? In this episode, hosts Lois Houston and Nikita Abraham, together with Principal OCI Instructor Orlando Gentil, explore the sophisticated technologies that make this possible in modern cloud data ce</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-3">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>AI and Security</title>
+      <link>https://oracle-university.com/stories/ai-and-security-7b0e26/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-and-security-7b0e26/</guid>
+      <pubDate>Tue, 14 Oct 2025 15:58:49 GMT</pubDate>
+      <category>Security</category>
+      <description>In this episode host Oracle Academy Program Manager Benelux &amp; DACH Rik Bleeker speaks with Oracle expert Thomas Minne on the crucial intersection of Artificial Intelligence and data security, explaining why the Oracle Database is foundational to both. Drawing on his 15 years as a DBA and current rol</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-and-security">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Cloud Data Centers: Core Concepts - Part 2</title>
+      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-2-9a562f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-2-9a562f/</guid>
+      <pubDate>Tue, 14 Oct 2025 06:44:39 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Have you ever wondered where all your digital memories, work projects, or favorite photos actually live in the cloud? In this episode, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to discuss cloud storage. They explore how data is carefully organized, the dif</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-2">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>AI for Data: When Data meets Intelligence</title>
+      <link>https://oracle-university.com/stories/ai-for-data-when-data-meets-intelligence-f7601f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-for-data-when-data-meets-intelligence-f7601f/</guid>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In this two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle AI Vector an</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-for-data-when-data-meet-intelligence">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Part II of AI for Data: When Data meets Intelligence</title>
+      <link>https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</guid>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In the second of a two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle A</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-of-data-for-ai-when-data-meets-intelligence">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Cloud Data Centers: Core Concepts - Part 1</title>
+      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</guid>
+      <pubDate>Tue, 07 Oct 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Curious about what really goes on inside a cloud data center? In this episode, Lois Houston and Nikita Abraham chat with Principal OCI Instructor Orlando Gentil about how cloud data centers are transforming the way organizations manage technology. They explore the differences between traditional and</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-1">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Oracle AI for Fusion Apps</title>
+      <link>https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</guid>
+      <pubDate>Tue, 23 Sep 2025 11:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Want to make AI work for your business? In today&#39;s episode, Lois Houston and Nikita Abraham continue their discussion of AI in Oracle Fusion Applications by focusing on three key AI capabilities: predictive, generative, and agentic. Joining them is Principal Instructor Yunus Mohammed, who explains h</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-ai-for-fusion-apps">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Oracle&#39;s AI Ecosystem</title>
+      <link>https://oracle-university.com/stories/oracle-s-ai-ecosystem-1d77a2/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-s-ai-ecosystem-1d77a2/</guid>
+      <pubDate>Tue, 16 Sep 2025 11:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to explore Oracle&#39;s approach to enterprise AI. The conversation covers the essential components of the Oracle AI stack and how each part, from the foundational infrastructure to business-specific appli</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/oracles-ai-ecosystem">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Buy or Build AI?</title>
+      <link>https://oracle-university.com/stories/buy-or-build-ai-6e5a7d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/buy-or-build-ai-6e5a7d/</guid>
+      <pubDate>Tue, 09 Sep 2025 11:14:43 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>How do you decide whether to buy a ready-made AI solution or build one from the ground up? The choice is more than just a technical decision; it&#39;s about aligning AI with your business goals. In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to examine</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/buy-or-build-ai">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>The AI Workflow</title>
+      <link>https://oracle-university.com/stories/the-ai-workflow-2273cc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-ai-workflow-2273cc/</guid>
+      <pubDate>Tue, 02 Sep 2025 11:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Join Lois Houston and Nikita Abraham as they chat with Yunus Mohammed, a Principal Instructor at Oracle University, about the key stages of AI model development. From gathering and preparing data to selecting, training, and deploying models, learn how each phase impacts AI&#39;s real-world effectiveness</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/the-ai-workflow">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Core AI Concepts – Part 3</title>
+      <link>https://oracle-university.com/stories/core-ai-concepts-part-3-b8133b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/core-ai-concepts-part-3-b8133b/</guid>
+      <pubDate>Tue, 26 Aug 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Join hosts Lois Houston and Nikita Abraham, along with Principal AI/ML Instructor Himanshu Raj, as they discuss the transformative world of Generative AI. Together, they uncover the ways in which generative AI agents are changing the way we interact with technology, automating tasks and delivering n</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-3">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Core AI Concepts – Part 2</title>
+      <link>https://oracle-university.com/stories/core-ai-concepts-part-2-7bf4a7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/core-ai-concepts-part-2-7bf4a7/</guid>
+      <pubDate>Tue, 19 Aug 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>In this episode, Lois Houston and Nikita Abraham continue their discussion on AI fundamentals, diving into Data Science with Principal AI/ML Instructor Himanshu Raj. They explore key concepts like data collection, cleaning, and analysis, and talk about how quality data drives impactful insights. AI </description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-2">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
