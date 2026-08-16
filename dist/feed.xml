@@ -6,7 +6,7 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Aug 2026 20:44:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 20:44:09 GMT</lastBuildDate>
     
     <item>
       <title>&quot;JSON API, Valhalla Progress, LTS ❤️ PQC&quot; [IJN]</title>
@@ -18,67 +18,85 @@
       <source url="https://inside.java/2026/08/15/podcast-066/">Inside Java</source>
     </item>
     <item>
-      <title>Kern County supervisors explore splitting California into two states</title>
-      <link>https://oracle-university.com/stories/kern-county-supervisors-explore-splitting-california-into-two-states-e56299/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/kern-county-supervisors-explore-splitting-california-into-two-states-e56299/</guid>
-      <pubDate>Sat, 15 Aug 2026 04:25:06 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>BAKERSFIELD, Calif. (KERO) — Kern County supervisors are exploring a proposal that would place Kern and dozens of other counties in a new state, separate from coastal California. Kern County District 3 Supervisor Jeff Flores said the effort is about making sure the region’s industries and way of lif</description>
-      <source url="https://newspub.live/west/california/kern-county-supervisors-explore-splitting-california-into-two-states/">News Pub</source>
-    </item>
-    <item>
-      <title>Veritone Q2 Earnings Call Highlights</title>
-      <link>https://oracle-university.com/stories/veritone-q2-earnings-call-highlights-237b7b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/veritone-q2-earnings-call-highlights-237b7b/</guid>
-      <pubDate>Sat, 15 Aug 2026 01:02:45 GMT</pubDate>
+      <title>Salesforce (NYSE:CRM) Price Target Raised to $222.00</title>
+      <link>https://oracle-university.com/stories/salesforce-nyse-crm-price-target-raised-to-222-00-07adfc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/salesforce-nyse-crm-price-target-raised-to-222-00-07adfc/</guid>
+      <pubDate>Sun, 16 Aug 2026 06:12:49 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Veritone (NASDAQ:VERI) reported second-quarter 2026 revenue of $24.3 million, up 20% sequentially and 5% from a year earlier, as growth in its Veritone Data Refinery, or VDR, and licensing services offset pressure in hiring and public-sector revenue. Chief Executive Officer Ryan Steelberg said the c</description>
-      <source url="https://www.tickerreport.com/banking-finance/13543757/veritone-q2-earnings-call-highlights.html">Ticker Report</source>
+      <description>Salesforce (NYSE:CRM – Free Report) had its target price raised by Monness Crespi &amp; Hardt from $200.00 to $222.00 in a report issued on Thursday morning, MarketBeat Ratings reports. The brokerage currently has a buy rating on the CRM provider’s stock. Several other brokerages have also recently issu</description>
+      <source url="https://baseballnewssource.com/2026/08/16/salesforce-nysecrm-price-target-raised-to-222-00/11226194.html">Bbns</source>
     </item>
     <item>
-      <title>Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple &amp; Alibaba To Create AI Model For China &amp; More</title>
-      <link>https://oracle-university.com/stories/consumer-tech-aug-10-14-trump-faces-federal-lawsuits-apple-alibaba-to-create-ai-model-fo-b17836/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/consumer-tech-aug-10-14-trump-faces-federal-lawsuits-apple-alibaba-to-create-ai-model-fo-b17836/</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <title>From SQL Scripts to AI Pipelines: How a Technology Innovator Transformed Mortgage Servicing From the Inside</title>
+      <link>https://oracle-university.com/stories/from-sql-scripts-to-ai-pipelines-how-a-technology-innovator-transformed-mortgage-servici-6e5020/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/from-sql-scripts-to-ai-pipelines-how-a-technology-innovator-transformed-mortgage-servici-6e5020/</guid>
+      <pubDate>Sun, 16 Aug 2026 00:34:19 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>As artificial intelligence moves from experimental applications into mission-critical enterprise systems, some of its most consequential implementations are taking place far from consumer-facing technology. In highly regulated industries such as mortgage servicing, introducing AI requires more than </description>
+      <source url="https://techbullion.com/from-sql-scripts-to-ai-pipelines-how-a-technology-innovator-transformed-mortgage-servicing-from-the-inside/">Techbullion</source>
+    </item>
+    <item>
+      <title>Pro Oracle Application Express</title>
+      <link>https://oracle-university.com/stories/pro-oracle-application-express-60d3d0/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/pro-oracle-application-express-60d3d0/</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Application Express, or APEX, is one of the most innovative products to come out of Oracle in years. APEX is an application development framework for developing database–backed applications. It&#39;s easy enough to get started in that power users can quit storing data in random spreadsheets and instead </description>
+      <source url="https://link.springer.com/book/10.1007/978-1-4302-0280-6">Springer</source>
+    </item>
+    <item>
+      <title>Troubleshooting Oracle Performance</title>
+      <link>https://oracle-university.com/stories/troubleshooting-oracle-performance-2855ed/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/troubleshooting-oracle-performance-2855ed/</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>What do you do when your database application isn&#39;t running fast enough? You troubleshoot, of course. Finding the slow part of an application is often the easy part of the battle. It&#39;s finding a solution that&#39;s difficult. Troubleshooting Oracle Performance helps by providing a systematic approach to</description>
+      <source url="https://link.springer.com/book/10.1007/978-1-4302-0498-5">Springer</source>
+    </item>
+    <item>
+      <title>Beginning Database-Driven Application Development in Java EE</title>
+      <link>https://oracle-university.com/stories/beginning-database-driven-application-development-in-java-ee-615d01/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/beginning-database-driven-application-development-in-java-ee-615d01/</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Beginning Database-Driven Application Development in JavaTM EE: Using GlassFishTM focuses on the open source GlassFish persistence engine. This book shows Java programmers how to develop applications utilizing relational database technologies with examples using Oracle and MySQL and the GlassFish ap</description>
+      <source url="https://link.springer.com/book/10.1007/978-1-4302-0964-5">Springer</source>
+    </item>
+    <item>
+      <title>💻 Hartford CT Tech Openings with Multiple Six-Figure Roles</title>
+      <link>https://oracle-university.com/stories/hartford-ct-tech-openings-with-multiple-six-figure-roles-51b0b4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/hartford-ct-tech-openings-with-multiple-six-figure-roles-51b0b4/</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Ukraine’s military intelligence service is warning that Russia is accelerating deployment of its planned Rassvet low-Earth-orbit satellite constellation, which could eventually provide Moscow with Starlink-like battlefield connectivity.</description>
-      <source url="https://www.inkl.com/news/consumer-tech-aug-10-14-trump-faces-federal-lawsuits-apple-alibaba-to-create-ai-model-for-china-more">Inkl</source>
+      <description>Hartford’s tech scene is leaning hard into cloud, data, and AI right now. Lots of consulting‐style roles, many remote/hybrid, and several with six‐figure s</description>
+      <source url="https://www.newsbreak.com/hartford-ct-daily-brief-373178549/4831590777664-hartford-ct-tech-openings-with-multiple-six-figure-roles">Newsbreak</source>
     </item>
     <item>
-      <title>Top 10 Cyber-Attacks of 2025</title>
-      <link>https://oracle-university.com/stories/top-10-cyber-attacks-of-2025-633ce7/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-10-cyber-attacks-of-2025-633ce7/</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>Discover the most significant cyber-attacks of 2025 in Infosecurity Magazine’s expert roundup</description>
-      <source url="https://www.infosecurity-magazine.com/news-features/top-10-cyberattacks-of-2025/">Infosecurity Magazine</source>
+      <title>💻 Pittsburgh IT Jobs: Multiple High-Paying Roles $120K+</title>
+      <link>https://oracle-university.com/stories/pittsburgh-it-jobs-multiple-high-paying-roles-120k-b67b44/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/pittsburgh-it-jobs-multiple-high-paying-roles-120k-b67b44/</guid>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Pittsburgh’s tech scene is busy right now — lots of remote-flex roles and cutting-edge work in AI, fintech, and robotics. If you’re in IT and thinking abou</description>
+      <source url="https://www.newsbreak.com/pittsburgh-pa-daily-brief-375434852/4831545609924-pittsburgh-it-jobs-multiple-high-paying-roles-120k">Newsbreak</source>
     </item>
     <item>
-      <title>Oracle NetSuite Now Streamlines Hospitality Operations</title>
-      <link>https://oracle-university.com/stories/oracle-netsuite-now-streamlines-hospitality-operations-12542f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-netsuite-now-streamlines-hospitality-operations-12542f/</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
+      <title>10 Oracle 23ai Features That Make Everyday SQL Easier</title>
+      <link>https://oracle-university.com/stories/10-oracle-23ai-features-that-make-everyday-sql-easier-e2d1f1/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/10-oracle-23ai-features-that-make-everyday-sql-easier-e2d1f1/</guid>
+      <pubDate>Sat, 15 Aug 2026 22:00:28 GMT</pubDate>
+      <category>AI &amp; Database</category>
       <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://hospitalitynews.in/news/oracle-netsuite-enhances-hospitality-with-micros-simphony-connector">Hospitalitynews</source>
+      <source url="https://www.bundle.app/en/technology/10-oracle-23ai-features-that-make-everyday-sql-easier-9195880B-24B2-4D00-97D1-2F3CB67DA04D">Bundle</source>
     </item>
     <item>
-      <title>Advintek Named OTA Approved ASP in Oman: The Best eInvoicing Platform for Fawtara</title>
-      <link>https://oracle-university.com/stories/advintek-named-ota-approved-asp-in-oman-the-best-einvoicing-platform-for-fawtara-cebdf9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/advintek-named-ota-approved-asp-in-oman-the-best-einvoicing-platform-for-fawtara-cebdf9/</guid>
-      <pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
+      <title>121 Blog Posts To Learn About K8s</title>
+      <link>https://oracle-university.com/stories/121-blog-posts-to-learn-about-k8s-0024b6/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/121-blog-posts-to-learn-about-k8s-0024b6/</guid>
+      <pubDate>Sat, 15 Aug 2026 22:00:27 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Advintek subsidiary Al Faisal secures OTA ASP status, empowering Oman businesses to achieve Fawtara Phase 1 compliance with automated e-invoicing.</description>
-      <source url="https://www.einpresswire.com/article/934097711/advintek-named-ota-approved-asp-in-oman-the-best-einvoicing-platform-for-fawtara">Ein Presswire</source>
-    </item>
-    <item>
-      <title>Bank of America Sees Bargains in These 16 Knocked-Down AI Stocks</title>
-      <link>https://oracle-university.com/stories/bank-of-america-sees-bargains-in-these-16-knocked-down-ai-stocks-590a20/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/bank-of-america-sees-bargains-in-these-16-knocked-down-ai-stocks-590a20/</guid>
-      <pubDate>Fri, 14 Aug 2026 21:49:23 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>A pullback in the AI trade has created opportunities for bargain-hunting investors, according to analysts at Bank of America.</description>
-      <source url="https://www.investopedia.com/bank-of-america-sees-bargains-in-these-16-knocked-down-ai-stocks-shares-tech-trade-12060473">Investopedia</source>
+      <description>ONLY AVAILABLE IN PAID PLANS</description>
+      <source url="https://www.bundle.app/en/technology/121-blog-posts-to-learn-about-k8s-60BE95FD-4EE6-4CDE-9A42-AFA6E57FA244">Bundle</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -439,24 +457,6 @@
       <category>Training &amp; Certification</category>
       <description>Join Lois Houston and Nikita Abraham as they chat with Yunus Mohammed, a Principal Instructor at Oracle University, about the key stages of AI model development. From gathering and preparing data to selecting, training, and deploying models, learn how each phase impacts AI&#39;s real-world effectiveness</description>
       <source url="https://oracleuniversitypodcast.libsyn.com/the-ai-workflow">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Core AI Concepts – Part 3</title>
-      <link>https://oracle-university.com/stories/core-ai-concepts-part-3-b8133b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/core-ai-concepts-part-3-b8133b/</guid>
-      <pubDate>Tue, 26 Aug 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Join hosts Lois Houston and Nikita Abraham, along with Principal AI/ML Instructor Himanshu Raj, as they discuss the transformative world of Generative AI. Together, they uncover the ways in which generative AI agents are changing the way we interact with technology, automating tasks and delivering n</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-3">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Core AI Concepts – Part 2</title>
-      <link>https://oracle-university.com/stories/core-ai-concepts-part-2-7bf4a7/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/core-ai-concepts-part-2-7bf4a7/</guid>
-      <pubDate>Tue, 19 Aug 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>In this episode, Lois Houston and Nikita Abraham continue their discussion on AI fundamentals, diving into Data Science with Principal AI/ML Instructor Himanshu Raj. They explore key concepts like data collection, cleaning, and analysis, and talk about how quality data drives impactful insights. AI </description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-2">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>

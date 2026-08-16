@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T20:44:24.420Z",
+  "generatedAt": "2026-08-16T20:44:09.528Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -20,132 +20,154 @@
       "tags": [
         "JDK"
       ],
-      "priority": 60
+      "priority": 44
     },
     {
-      "id": "af6af2fce5c1076d",
-      "slug": "kern-county-supervisors-explore-splitting-california-into-two-states-e56299",
-      "title": "Kern County supervisors explore splitting California into two states",
-      "dek": "BAKERSFIELD, Calif. (KERO) — Kern County supervisors are exploring a proposal that would place Kern and dozens of other counties in a new state, separate from coastal California. Kern County District 3 Supervisor Jeff Flores said the effort is about making sure the region’s industries and way of lif",
-      "url": "https://newspub.live/west/california/kern-county-supervisors-explore-splitting-california-into-two-states/",
-      "source": "News Pub",
+      "id": "c0ae53339fe6064e",
+      "slug": "salesforce-nyse-crm-price-target-raised-to-222-00-07adfc",
+      "title": "Salesforce (NYSE:CRM) Price Target Raised to $222.00",
+      "dek": "Salesforce (NYSE:CRM – Free Report) had its target price raised by Monness Crespi & Hardt from $200.00 to $222.00 in a report issued on Thursday morning, MarketBeat Ratings reports. The brokerage currently has a buy rating on the CRM provider’s stock. Several other brokerages have also recently issu",
+      "url": "https://baseballnewssource.com/2026/08/16/salesforce-nysecrm-price-target-raised-to-222-00/11226194.html",
+      "source": "Bbns",
       "sourceType": "external",
-      "image": "https://ewscripps.brightspotcdn.com/dims4/default/88f8c0a/2147483647/strip/true/crop/940x494+0+11/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fe2%2F94%2F34cd82da4255a7c944d378d8661e%2Fscreenshot-2026-08-14-at-6-04-01-pm.png",
-      "publishedAt": "2026-08-15T04:25:06.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "california gdp",
-        "csub",
-        "bakersfield downtown",
-        "kern county supervisors",
-        "california split",
-        "featured"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "ab2424649fef5f81",
-      "slug": "veritone-q2-earnings-call-highlights-237b7b",
-      "title": "Veritone Q2 Earnings Call Highlights",
-      "dek": "Veritone (NASDAQ:VERI) reported second-quarter 2026 revenue of $24.3 million, up 20% sequentially and 5% from a year earlier, as growth in its Veritone Data Refinery, or VDR, and licensing services offset pressure in hiring and public-sector revenue. Chief Executive Officer Ryan Steelberg said the c",
-      "url": "https://www.tickerreport.com/banking-finance/13543757/veritone-q2-earnings-call-highlights.html",
-      "source": "Ticker Report",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/veritone-inc-logo-1200x675.jpg?v=20221215083813",
-      "publishedAt": "2026-08-15T01:02:45.000Z",
+      "image": "https://www.marketbeat.com/logos/salesforcecom-inc-logo.png",
+      "publishedAt": "2026-08-16T06:12:49.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "partner feed articles",
-        "banking"
+        "analyst articles - us",
+        "markets"
       ],
-      "priority": 38
+      "priority": 41
     },
     {
-      "id": "aaef9673b3cb852a",
-      "slug": "consumer-tech-aug-10-14-trump-faces-federal-lawsuits-apple-alibaba-to-create-ai-model-fo-b17836",
-      "title": "Consumer Tech (Aug 10-14): Trump Faces Federal Lawsuits, Apple & Alibaba To Create AI Model For China & More",
-      "dek": "Ukraine’s military intelligence service is warning that Russia is accelerating deployment of its planned Rassvet low-Earth-orbit satellite constellation, which could eventually provide Moscow with Starlink-like battlefield connectivity.",
-      "url": "https://www.inkl.com/news/consumer-tech-aug-10-14-trump-faces-federal-lawsuits-apple-alibaba-to-create-ai-model-for-china-more",
-      "source": "Inkl",
+      "id": "cd9fb1c6e19d0714",
+      "slug": "from-sql-scripts-to-ai-pipelines-how-a-technology-innovator-transformed-mortgage-servici-6e5020",
+      "title": "From SQL Scripts to AI Pipelines: How a Technology Innovator Transformed Mortgage Servicing From the Inside",
+      "dek": "As artificial intelligence moves from experimental applications into mission-critical enterprise systems, some of its most consequential implementations are taking place far from consumer-facing technology. In highly regulated industries such as mortgage servicing, introducing AI requires more than ",
+      "url": "https://techbullion.com/from-sql-scripts-to-ai-pipelines-how-a-technology-innovator-transformed-mortgage-servicing-from-the-inside/",
+      "source": "Techbullion",
       "sourceType": "external",
-      "image": "https://images.inkl.com/s3/article/lead_image/23710392/Person-Holds-Futuristic-Digital-Icons-Re.jpg",
-      "publishedAt": "2026-08-15T00:00:00.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://techbullion.com/wp-content/uploads/2026/07/Screenshot-2026-08-16-122216.png",
+      "publishedAt": "2026-08-16T00:34:19.000Z",
+      "topic": "AI & Database",
       "tags": [
-        "news",
-        "inkl",
-        "news today",
-        "global news",
-        "world news",
-        "news app"
+        "technology innovator",
+        "mortgage servicing",
+        "business news"
       ],
       "priority": 37
     },
     {
-      "id": "91e01cfe641bab42",
-      "slug": "top-10-cyber-attacks-of-2025-633ce7",
-      "title": "Top 10 Cyber-Attacks of 2025",
-      "dek": "Discover the most significant cyber-attacks of 2025 in Infosecurity Magazine’s expert roundup",
-      "url": "https://www.infosecurity-magazine.com/news-features/top-10-cyberattacks-of-2025/",
-      "source": "Infosecurity Magazine",
+      "id": "1d3a2e6247d8309e",
+      "slug": "pro-oracle-application-express-60d3d0",
+      "title": "Pro Oracle Application Express",
+      "dek": "Application Express, or APEX, is one of the most innovative products to come out of Oracle in years. APEX is an application development framework for developing database–backed applications. It's easy enough to get started in that power users can quit storing data in random spreadsheets and instead ",
+      "url": "https://link.springer.com/book/10.1007/978-1-4302-0280-6",
+      "source": "Springer",
       "sourceType": "external",
-      "image": "https://assets.infosecurity-magazine.com/webpage/og/113b7cba-0869-41b4-839b-2ec75a1ca1e7.jpg",
-      "publishedAt": "2026-08-15T00:00:00.000Z",
-      "topic": "Security",
+      "image": "https://media.springernature.com/w153/springer-static/cover/book/978-1-4302-0280-6.jpg",
+      "publishedAt": "2026-08-16T00:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle Database"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "480c8fec4f7b59dc",
+      "slug": "troubleshooting-oracle-performance-2855ed",
+      "title": "Troubleshooting Oracle Performance",
+      "dek": "What do you do when your database application isn't running fast enough? You troubleshoot, of course. Finding the slow part of an application is often the easy part of the battle. It's finding a solution that's difficult. Troubleshooting Oracle Performance helps by providing a systematic approach to",
+      "url": "https://link.springer.com/book/10.1007/978-1-4302-0498-5",
+      "source": "Springer",
+      "sourceType": "external",
+      "image": "https://media.springernature.com/w153/springer-static/cover/book/978-1-4302-0498-5.jpg",
+      "publishedAt": "2026-08-16T00:00:00.000Z",
+      "topic": "Training & Certification",
       "tags": [],
       "priority": 37
     },
     {
-      "id": "65bc4bc6fb9261b6",
-      "slug": "oracle-netsuite-now-streamlines-hospitality-operations-12542f",
-      "title": "Oracle NetSuite Now Streamlines Hospitality Operations",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://hospitalitynews.in/news/oracle-netsuite-enhances-hospitality-with-micros-simphony-connector",
-      "source": "Hospitalitynews",
+      "id": "8b3be3648310e12d",
+      "slug": "beginning-database-driven-application-development-in-java-ee-615d01",
+      "title": "Beginning Database-Driven Application Development in Java EE",
+      "dek": "Beginning Database-Driven Application Development in JavaTM EE: Using GlassFishTM focuses on the open source GlassFish persistence engine. This book shows Java programmers how to develop applications utilizing relational database technologies with examples using Oracle and MySQL and the GlassFish ap",
+      "url": "https://link.springer.com/book/10.1007/978-1-4302-0964-5",
+      "source": "Springer",
       "sourceType": "external",
-      "image": "https://hospitalitynews.in/uploads/images/202403/image_870x580_66081826aa8a5.jpg",
-      "publishedAt": "2026-08-15T00:00:00.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://media.springernature.com/w153/springer-static/cover/book/978-1-4302-0964-5.jpg",
+      "publishedAt": "2026-08-16T00:00:00.000Z",
+      "topic": "Training & Certification",
       "tags": [
-        "NetSuite"
+        "Java",
+        "MySQL"
       ],
       "priority": 37
     },
     {
-      "id": "b6a9eb7058455af8",
-      "slug": "advintek-named-ota-approved-asp-in-oman-the-best-einvoicing-platform-for-fawtara-cebdf9",
-      "title": "Advintek Named OTA Approved ASP in Oman: The Best eInvoicing Platform for Fawtara",
-      "dek": "Advintek subsidiary Al Faisal secures OTA ASP status, empowering Oman businesses to achieve Fawtara Phase 1 compliance with automated e-invoicing.",
-      "url": "https://www.einpresswire.com/article/934097711/advintek-named-ota-approved-asp-in-oman-the-best-einvoicing-platform-for-fawtara",
-      "source": "Ein Presswire",
+      "id": "e0e0a653d841d173",
+      "slug": "hartford-ct-tech-openings-with-multiple-six-figure-roles-51b0b4",
+      "title": "💻 Hartford CT Tech Openings with Multiple Six-Figure Roles",
+      "dek": "Hartford’s tech scene is leaning hard into cloud, data, and AI right now. Lots of consulting‐style roles, many remote/hybrid, and several with six‐figure s",
+      "url": "https://www.newsbreak.com/hartford-ct-daily-brief-373178549/4831590777664-hartford-ct-tech-openings-with-multiple-six-figure-roles",
+      "source": "Newsbreak",
       "sourceType": "external",
-      "image": "https://img.einnews.com/ampsize/1171692/advintek-oman-ota-approved-asp.png",
-      "publishedAt": "2026-08-15T00:00:00.000Z",
+      "image": "https://img.particlenews.com/img/id/0uqf9w_1EHQ0RYn00",
+      "publishedAt": "2026-08-16T00:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "united arab emirates",
-        "oman",
-        "banking",
-        "it industry",
-        "technology",
-        "worldnews"
+        "hartford ct daily brief",
+        "breaking news",
+        "local news",
+        "newsbreak"
       ],
       "priority": 37
     },
     {
-      "id": "424ea48ed7462ebb",
-      "slug": "bank-of-america-sees-bargains-in-these-16-knocked-down-ai-stocks-590a20",
-      "title": "Bank of America Sees Bargains in These 16 Knocked-Down AI Stocks",
-      "dek": "A pullback in the AI trade has created opportunities for bargain-hunting investors, according to analysts at Bank of America.",
-      "url": "https://www.investopedia.com/bank-of-america-sees-bargains-in-these-16-knocked-down-ai-stocks-shares-tech-trade-12060473",
-      "source": "Investopedia",
+      "id": "f43a1d5d971b19a1",
+      "slug": "pittsburgh-it-jobs-multiple-high-paying-roles-120k-b67b44",
+      "title": "💻 Pittsburgh IT Jobs: Multiple High-Paying Roles $120K+",
+      "dek": "Pittsburgh’s tech scene is busy right now — lots of remote-flex roles and cutting-edge work in AI, fintech, and robotics. If you’re in IT and thinking abou",
+      "url": "https://www.newsbreak.com/pittsburgh-pa-daily-brief-375434852/4831545609924-pittsburgh-it-jobs-multiple-high-paying-roles-120k",
+      "source": "Newsbreak",
       "sourceType": "external",
-      "image": "https://www.investopedia.com/thmb/gO8UjnE5zGYgo8iNR_G59GXDEUA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2275289315-cd3645af38cb4da29d7499744d4489cb.jpg",
-      "publishedAt": "2026-08-14T21:49:23.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://img.particlenews.com/img/id/0uqf9w_1EHN8oQX00",
+      "publishedAt": "2026-08-16T00:00:00.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "AI"
+        "breaking news",
+        "pittsburgh pa daily brief",
+        "newsbreak",
+        "local news"
       ],
+      "priority": 37
+    },
+    {
+      "id": "61d941a4baf86522",
+      "slug": "10-oracle-23ai-features-that-make-everyday-sql-easier-e2d1f1",
+      "title": "10 Oracle 23ai Features That Make Everyday SQL Easier",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/technology/10-oracle-23ai-features-that-make-everyday-sql-easier-9195880B-24B2-4D00-97D1-2F3CB67DA04D",
+      "source": "Bundle",
+      "sourceType": "external",
+      "image": "https://static.bundle.app/news/04cc4bb8-9205-595c-b6b3-dbc0bb47b758.jpg",
+      "publishedAt": "2026-08-15T22:00:28.000Z",
+      "topic": "AI & Database",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "387dbfdb9365349a",
+      "slug": "121-blog-posts-to-learn-about-k8s-0024b6",
+      "title": "121 Blog Posts To Learn About K8s",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/technology/121-blog-posts-to-learn-about-k8s-60BE95FD-4EE6-4CDE-9A42-AFA6E57FA244",
+      "source": "Bundle",
+      "sourceType": "external",
+      "image": "https://static.bundle.app/news/8c1e8bc4-e6fa-5374-8704-12d8071036bc.jpg",
+      "publishedAt": "2026-08-15T22:00:27.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
       "priority": 36
     },
     {
@@ -1947,37 +1969,6 @@
       "publishedAt": "2024-04-16T14:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "967d33e1489de57e",
-      "slug": "forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today-f03edc",
-      "title": "Forgotten, But Not Gone: How Model-Based Development Is Still Alive and Well Today",
-      "dek": "Computer Aided Software Engineering (CASE) tools, which helped make the analysis, design, and implementation phases of software development better, faster, and cheaper, fell out of favor in the mid-'90s. Yet much of what they have to offer remains and is in active use within different Oracle tools. ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/-forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-09T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "513c87bee83d2547",
-      "slug": "developing-redwood-applications-86e984",
-      "title": "Developing Redwood Applications",
-      "dek": "Redwood is a state-of-the-art graphical interface that defines the look and feel of the new Oracle Cloud Redwood Applications. In this episode, hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Joe Greenwald, take a closer look at the intent behind the design and deve",
-      "url": "https://oracleuniversitypodcast.libsyn.com/developing-redwood-applications",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-02T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "OCI"
-      ],
       "priority": 36
     }
   ]
