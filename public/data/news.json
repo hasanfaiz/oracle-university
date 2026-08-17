@@ -1,11 +1,177 @@
 {
-  "generatedAt": "2026-08-16T20:44:09.528Z",
+  "generatedAt": "2026-08-17T20:49:43.759Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
     "siteUrl": "https://oracle-university.com"
   },
   "items": [
+    {
+      "id": "e1f133fb3f049487",
+      "slug": "alithya-group-q1-earnings-call-highlights-f8ad36",
+      "title": "Alithya Group Q1 Earnings Call Highlights",
+      "dek": "Alithya Group (TSE:ALYA) reported lower first-quarter revenue and profitability as longer client decision-making and project conversion cycles reduced utilization, while management said its pipeline of late-stage opportunities continued to build. Revenue for the quarter totaled CAD 105.1 million, do",
+      "url": "https://www.americanbankingnews.com/2026/08/17/alithya-group-q1-earnings-call-highlights.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/alithya-group-inc-logo-1200x675.png?v=20220629090007",
+      "publishedAt": "2026-08-17T08:03:02.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "partner feed articles",
+        "market news"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "fc5fff721ae122ce",
+      "slug": "healthcare-analytics-market-why-ai-is-turning-medical-data-into-actionable-intelligence-2eba90",
+      "title": "Healthcare Analytics Market: Why AI Is Turning Medical Data Into Actionable Intelligence",
+      "dek": "The global healthcare analytics market was valued at $65.6 billion in 2025 and is estimated at $81.9 billion in 2026. It is projected to reach $198.8 billion [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/08/17/1767327",
+      "source": "Express-press-release",
+      "sourceType": "external",
+      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
+      "publishedAt": "2026-08-17T07:57:05.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "healthcare analytics market",
+        "healthcare analytics market forecasts",
+        "healthcare analytics market share",
+        "healthcare analytics market growth",
+        "healthcare analytics market size",
+        "healthcare analytics market analysis"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "c3392cb7a78cef0b",
+      "slug": "larry-ellison-bio-and-career-highlights-c274d4",
+      "title": "Larry Ellison: Bio And Career Highlights",
+      "dek": "Explore Lawrence Joseph Ellison journey, from co-founding Oracle in 1977 to leading its expansion into AI and cloud computing. Learn about his achievements, background, and rise to fame.",
+      "url": "https://tvovermind.com/larry-ellison-bio-and-career-highlights/",
+      "source": "Tv Overmind",
+      "sourceType": "external",
+      "image": "https://tvovermind.com/wp-content/uploads/2026/08/6a8298e78621f-6a8296b06017f__700.jpg",
+      "publishedAt": "2026-08-17T05:15:19.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "television",
+        "bp-import"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "448f00528eb19766",
+      "slug": "weekly-recap-ai-goes-rogue-metabase-0-day-mcp-supply-chain-attacks-and-router-backdoors-6b791d",
+      "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
+      "dek": "Ravie LakshmananAug 10, 2026Cybersecurity / Hacking A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed....",
+      "url": "https://www.swapupdate.in/weekly-recap-ai-goes-rogue-metabase-0-day-mcp-supply-chain-attacks-and-router-backdoors/",
+      "source": "Swapupdate",
+      "sourceType": "external",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtXmkUOPD6prrNPMK9N1Rhu2dm3QFGQ2DUTiu3xrj2WWbauZ_IK2HemME36-4WBIqGh01SFOkNJuutFeXLgS_ZMUBFn5ZDzIP5_IeNrwJWDfKcOPQgZl3spOFVS8R84Hbthy6o3sx9IWJ1yRo4FiW5acGYGBrf2nljmx6yvSd55LWRrkX6JhJ9b5bHJX0g/s1700-e365/recaps.jpg",
+      "publishedAt": "2026-08-17T03:57:06.000Z",
+      "topic": "Security",
+      "tags": [
+        "technology"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "5099be25d992503e",
+      "slug": "ai-money-moves-put-these-five-stocks-in-spotlight-last-week-nvda-intc-orcl-amd-sndk-8dd681",
+      "title": "AI Money Moves Put These Five Stocks In Spotlight Last Week: NVDA, INTC, ORCL, AMD, SNDK",
+      "dek": "Tech companies are raising money, increasing production, and changing their plans as AI spending stays strong, while investors watch costs and how well companies deliver on their promises.",
+      "url": "https://newsable.asianetnews.com/markets/ai-money-moves-put-these-five-stocks-in-spotlight-last-week-nvda-intc-orcl-amd-sndk-articleshow-42nzg2g",
+      "source": "Asianet Newsable",
+      "sourceType": "external",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-efc3b03a-0579-4531-886c-708f741707f9.jpg",
+      "publishedAt": "2026-08-17T02:40:01.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "markets"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "2629baeefbdf22a5",
+      "slug": "java-news-roundup-simple-json-api-glassfish-jakarta-ee-jnosql-open-liberty-langchain4j-fb654e",
+      "title": "Java News Roundup: Simple JSON API, GlassFish, Jakarta EE, JNoSQL, Open Liberty, LangChain4j",
+      "dek": "This week's Java roundup for August 10th, 2026, features news highlighting: Simple JSON API proposed to target for JDK 28; an update on Jakarta EE 12; the August 2026 edition of Open Liberty; a point release of LangChain4j; maintenance releases of Eclipse JNoSQL and GraalVM Native Build tools; the t",
+      "url": "https://www.infoq.com/news/2026/08/java-news-roundup-aug10-2026/",
+      "source": "Information Queue",
+      "sourceType": "external",
+      "image": "https://res.infoq.com/news/2026/08/java-news-roundup-aug10-2026/en/headerimage/java-news-roundup-image-1786901137571.jpg",
+      "publishedAt": "2026-08-17T02:30:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "jdk 27",
+        "jakarta ee",
+        "glassfish",
+        "eclipse jnosql",
+        "news",
+        "development"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "5da7355746116bac",
+      "slug": "oracle-aws-expand-strategic-collaboration-as-ai-database-adoption-accelerates-d868ab",
+      "title": "Oracle, AWS Expand Strategic Collaboration as AI Database Adoption Accelerates",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.newsbreak.com/news/4832913375774-oracle-aws-expand-strategic-collaboration-as-ai-database-adoption-accelerates",
+      "source": "Newsbreak",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "AI"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "b9442fa4abfa4228",
+      "slug": "big-short-investor-steve-eisman-says-ai-has-an-achilles-heel-but-it-s-too-early-to-short-d6af0e",
+      "title": "'Big Short' Investor Steve Eisman Says AI Has an 'Achilles' Heel' — But It's Too Early to Short the Boom",
+      "dek": "“Big Short” investor Steve Eisman says the AI boom has an “Achilles’ heel”: its enormous dependence on OpenAI and Anthropic.",
+      "url": "https://www.inkl.com/news/big-short-investor-steve-eisman-says-ai-has-an-achilles-heel-but-its-too-early-to-short-the-boom",
+      "source": "Inkl",
+      "sourceType": "external",
+      "image": "https://images.inkl.com/s3/article/lead_image/23716437/Claude-By-Anthropic-And-Chatgpt-By-Opena.jpg",
+      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "breaking news",
+        "global news",
+        "inkl",
+        "news headlines",
+        "today news",
+        "news today"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "d1044e0c37246996",
+      "slug": "larry-ellison-s-ai-bet-made-him-richer-than-musk-then-came-oracle-s-129-5b-debt-problem-50cb2c",
+      "title": "Larry Ellison's AI Bet Made Him Richer Than Musk: Then Came Oracle's $129.5B Debt Problem",
+      "dek": "Oracle's aggressive AI infrastructure expansion has led to significant financial commitments, impacting Larry Ellison's wealth. The company's strategy hinges on future AI demand to justify its debt.",
+      "url": "https://www.inkl.com/news/larry-ellisons-ai-bet-made-him-richer-than-musk-then-came-oracles-129-5b-debt-problem",
+      "source": "Inkl",
+      "sourceType": "external",
+      "image": "https://images.inkl.com/s3/article/lead_image/23715889/oracle-larry-ellison.png",
+      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "global news",
+        "breaking news",
+        "today news",
+        "daily news",
+        "news",
+        "inkl"
+      ],
+      "priority": 37
+    },
     {
       "id": "dc2e3f2b37c3a592",
       "slug": "json-api-valhalla-progress-lts-pqc-ijn-073ff0",
@@ -20,155 +186,7 @@
       "tags": [
         "JDK"
       ],
-      "priority": 44
-    },
-    {
-      "id": "c0ae53339fe6064e",
-      "slug": "salesforce-nyse-crm-price-target-raised-to-222-00-07adfc",
-      "title": "Salesforce (NYSE:CRM) Price Target Raised to $222.00",
-      "dek": "Salesforce (NYSE:CRM – Free Report) had its target price raised by Monness Crespi & Hardt from $200.00 to $222.00 in a report issued on Thursday morning, MarketBeat Ratings reports. The brokerage currently has a buy rating on the CRM provider’s stock. Several other brokerages have also recently issu",
-      "url": "https://baseballnewssource.com/2026/08/16/salesforce-nysecrm-price-target-raised-to-222-00/11226194.html",
-      "source": "Bbns",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/salesforcecom-inc-logo.png",
-      "publishedAt": "2026-08-16T06:12:49.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "analyst articles - us",
-        "markets"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "cd9fb1c6e19d0714",
-      "slug": "from-sql-scripts-to-ai-pipelines-how-a-technology-innovator-transformed-mortgage-servici-6e5020",
-      "title": "From SQL Scripts to AI Pipelines: How a Technology Innovator Transformed Mortgage Servicing From the Inside",
-      "dek": "As artificial intelligence moves from experimental applications into mission-critical enterprise systems, some of its most consequential implementations are taking place far from consumer-facing technology. In highly regulated industries such as mortgage servicing, introducing AI requires more than ",
-      "url": "https://techbullion.com/from-sql-scripts-to-ai-pipelines-how-a-technology-innovator-transformed-mortgage-servicing-from-the-inside/",
-      "source": "Techbullion",
-      "sourceType": "external",
-      "image": "https://techbullion.com/wp-content/uploads/2026/07/Screenshot-2026-08-16-122216.png",
-      "publishedAt": "2026-08-16T00:34:19.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "technology innovator",
-        "mortgage servicing",
-        "business news"
-      ],
       "priority": 37
-    },
-    {
-      "id": "1d3a2e6247d8309e",
-      "slug": "pro-oracle-application-express-60d3d0",
-      "title": "Pro Oracle Application Express",
-      "dek": "Application Express, or APEX, is one of the most innovative products to come out of Oracle in years. APEX is an application development framework for developing database–backed applications. It's easy enough to get started in that power users can quit storing data in random spreadsheets and instead ",
-      "url": "https://link.springer.com/book/10.1007/978-1-4302-0280-6",
-      "source": "Springer",
-      "sourceType": "external",
-      "image": "https://media.springernature.com/w153/springer-static/cover/book/978-1-4302-0280-6.jpg",
-      "publishedAt": "2026-08-16T00:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "Oracle Database"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "480c8fec4f7b59dc",
-      "slug": "troubleshooting-oracle-performance-2855ed",
-      "title": "Troubleshooting Oracle Performance",
-      "dek": "What do you do when your database application isn't running fast enough? You troubleshoot, of course. Finding the slow part of an application is often the easy part of the battle. It's finding a solution that's difficult. Troubleshooting Oracle Performance helps by providing a systematic approach to",
-      "url": "https://link.springer.com/book/10.1007/978-1-4302-0498-5",
-      "source": "Springer",
-      "sourceType": "external",
-      "image": "https://media.springernature.com/w153/springer-static/cover/book/978-1-4302-0498-5.jpg",
-      "publishedAt": "2026-08-16T00:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [],
-      "priority": 37
-    },
-    {
-      "id": "8b3be3648310e12d",
-      "slug": "beginning-database-driven-application-development-in-java-ee-615d01",
-      "title": "Beginning Database-Driven Application Development in Java EE",
-      "dek": "Beginning Database-Driven Application Development in JavaTM EE: Using GlassFishTM focuses on the open source GlassFish persistence engine. This book shows Java programmers how to develop applications utilizing relational database technologies with examples using Oracle and MySQL and the GlassFish ap",
-      "url": "https://link.springer.com/book/10.1007/978-1-4302-0964-5",
-      "source": "Springer",
-      "sourceType": "external",
-      "image": "https://media.springernature.com/w153/springer-static/cover/book/978-1-4302-0964-5.jpg",
-      "publishedAt": "2026-08-16T00:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "Java",
-        "MySQL"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "e0e0a653d841d173",
-      "slug": "hartford-ct-tech-openings-with-multiple-six-figure-roles-51b0b4",
-      "title": "💻 Hartford CT Tech Openings with Multiple Six-Figure Roles",
-      "dek": "Hartford’s tech scene is leaning hard into cloud, data, and AI right now. Lots of consulting‐style roles, many remote/hybrid, and several with six‐figure s",
-      "url": "https://www.newsbreak.com/hartford-ct-daily-brief-373178549/4831590777664-hartford-ct-tech-openings-with-multiple-six-figure-roles",
-      "source": "Newsbreak",
-      "sourceType": "external",
-      "image": "https://img.particlenews.com/img/id/0uqf9w_1EHQ0RYn00",
-      "publishedAt": "2026-08-16T00:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "hartford ct daily brief",
-        "breaking news",
-        "local news",
-        "newsbreak"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "f43a1d5d971b19a1",
-      "slug": "pittsburgh-it-jobs-multiple-high-paying-roles-120k-b67b44",
-      "title": "💻 Pittsburgh IT Jobs: Multiple High-Paying Roles $120K+",
-      "dek": "Pittsburgh’s tech scene is busy right now — lots of remote-flex roles and cutting-edge work in AI, fintech, and robotics. If you’re in IT and thinking abou",
-      "url": "https://www.newsbreak.com/pittsburgh-pa-daily-brief-375434852/4831545609924-pittsburgh-it-jobs-multiple-high-paying-roles-120k",
-      "source": "Newsbreak",
-      "sourceType": "external",
-      "image": "https://img.particlenews.com/img/id/0uqf9w_1EHN8oQX00",
-      "publishedAt": "2026-08-16T00:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "breaking news",
-        "pittsburgh pa daily brief",
-        "newsbreak",
-        "local news"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "61d941a4baf86522",
-      "slug": "10-oracle-23ai-features-that-make-everyday-sql-easier-e2d1f1",
-      "title": "10 Oracle 23ai Features That Make Everyday SQL Easier",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/technology/10-oracle-23ai-features-that-make-everyday-sql-easier-9195880B-24B2-4D00-97D1-2F3CB67DA04D",
-      "source": "Bundle",
-      "sourceType": "external",
-      "image": "https://static.bundle.app/news/04cc4bb8-9205-595c-b6b3-dbc0bb47b758.jpg",
-      "publishedAt": "2026-08-15T22:00:28.000Z",
-      "topic": "AI & Database",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "387dbfdb9365349a",
-      "slug": "121-blog-posts-to-learn-about-k8s-0024b6",
-      "title": "121 Blog Posts To Learn About K8s",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/technology/121-blog-posts-to-learn-about-k8s-60BE95FD-4EE6-4CDE-9A42-AFA6E57FA244",
-      "source": "Bundle",
-      "sourceType": "external",
-      "image": "https://static.bundle.app/news/8c1e8bc4-e6fa-5374-8704-12d8071036bc.jpg",
-      "publishedAt": "2026-08-15T22:00:27.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
     },
     {
       "id": "d6a53992d5b9b644",
