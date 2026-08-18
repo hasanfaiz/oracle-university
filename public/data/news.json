@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T20:49:43.759Z",
+  "generatedAt": "2026-08-18T20:45:18.036Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,186 +7,219 @@
   },
   "items": [
     {
-      "id": "e1f133fb3f049487",
-      "slug": "alithya-group-q1-earnings-call-highlights-f8ad36",
-      "title": "Alithya Group Q1 Earnings Call Highlights",
-      "dek": "Alithya Group (TSE:ALYA) reported lower first-quarter revenue and profitability as longer client decision-making and project conversion cycles reduced utilization, while management said its pipeline of late-stage opportunities continued to build. Revenue for the quarter totaled CAD 105.1 million, do",
-      "url": "https://www.americanbankingnews.com/2026/08/17/alithya-group-q1-earnings-call-highlights.html",
-      "source": "Americanbankingnews",
+      "id": "1a0af635826ecfc9",
+      "slug": "the-great-forgetting-how-ai-is-quietly-erasing-the-human-archive-and-what-comes-after-0d0f6a",
+      "title": "The Great Forgetting: How AI Is Quietly Erasing the Human Archive—and What Comes After",
+      "dek": "The scariest AI story of 2026 isn't job loss. It's the \"cognitive precariat\": employed, productive, and hollowed out.",
+      "url": "https://hackernoon.com/the-great-forgetting-how-ai-is-quietly-erasing-the-human-archiveand-what-comes-after",
+      "source": "Hackernoon",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/alithya-group-inc-logo-1200x675.png?v=20220629090007",
-      "publishedAt": "2026-08-17T08:03:02.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "partner feed articles",
-        "market news"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "fc5fff721ae122ce",
-      "slug": "healthcare-analytics-market-why-ai-is-turning-medical-data-into-actionable-intelligence-2eba90",
-      "title": "Healthcare Analytics Market: Why AI Is Turning Medical Data Into Actionable Intelligence",
-      "dek": "The global healthcare analytics market was valued at $65.6 billion in 2025 and is estimated at $81.9 billion in 2026. It is projected to reach $198.8 billion [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/08/17/1767327",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
-      "publishedAt": "2026-08-17T07:57:05.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "healthcare analytics market",
-        "healthcare analytics market forecasts",
-        "healthcare analytics market share",
-        "healthcare analytics market growth",
-        "healthcare analytics market size",
-        "healthcare analytics market analysis"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "c3392cb7a78cef0b",
-      "slug": "larry-ellison-bio-and-career-highlights-c274d4",
-      "title": "Larry Ellison: Bio And Career Highlights",
-      "dek": "Explore Lawrence Joseph Ellison journey, from co-founding Oracle in 1977 to leading its expansion into AI and cloud computing. Learn about his achievements, background, and rise to fame.",
-      "url": "https://tvovermind.com/larry-ellison-bio-and-career-highlights/",
-      "source": "Tv Overmind",
-      "sourceType": "external",
-      "image": "https://tvovermind.com/wp-content/uploads/2026/08/6a8298e78621f-6a8296b06017f__700.jpg",
-      "publishedAt": "2026-08-17T05:15:19.000Z",
+      "image": "https://cdn.hackernoon.com/images/i2ucL9JOyqNIH2sJvpyCnp4rqDk1-1l83bml.jpeg",
+      "publishedAt": "2026-08-18T07:54:06.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "television",
-        "bp-import"
+        "artificial-intelligence",
+        "ai-ethics",
+        "human-judgment",
+        "hackernoon-top-story",
+        "ai-dependency",
+        "cognitive-atrophy"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "12c0c59ed3d20ea0",
+      "slug": "knowledge-graph-market-2035-graphrag-enterprise-ai-semantic-search-growth-in-united-stat-543018",
+      "title": "Knowledge Graph Market (2035): GraphRAG, Enterprise AI & Semantic Search Growth in United States Expansion",
+      "dek": "DataM Intelligence has released a new research report titled \"Knowledge Graph Market Size 2026\". The report delivers in-depth insights into key market dynamics, including regional growth trends, market segmentation, CAGR projections, competitive positioning, and the strategic developments of leading",
+      "url": "https://www.openpr.com/news/4606313/knowledge-graph-market-2035-graphrag-enterprise-ai",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/8/L818403672_k.jpg",
+      "publishedAt": "2026-08-18T07:32:32.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "it",
+        "new media & software"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "966798f87e56521d",
+      "slug": "global-cloud-services-market-size-is-expected-to-reach-usd-606-84-billion-by-2026-dc4d32",
+      "title": "Global Cloud Services Market Size is Expected to Reach USD 606.84 Billion by 2026",
+      "dek": "Cloud services are resources, applications, and services provided over the internet, allowing users to access and use computing power, storage, databases, software applications, and more on demand without the need to invest in or maintain traditional hardware infrastructure. Cloud services",
+      "url": "https://www.openpr.com/news/4606235/global-cloud-services-market-size-is-expected-to-reach-usd-606-84",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/8/L818218810_k.jpg",
+      "publishedAt": "2026-08-18T06:34:29.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "marketing research",
+        "media consulting",
+        "advertising"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "6cb9746f69c336f6",
+      "slug": "clinical-trial-data-visualization-market-insights-highlight-segment-expansion-and-market-90d46e",
+      "title": "Clinical Trial Data Visualization Market Insights Highlight Segment Expansion And Market Leadership",
+      "dek": "The clinical trial data visualization market is gaining significant traction as the demand for advanced analytics and real-time insights grows in the pharmaceutical and biotechnology sectors. This market is evolving rapidly, driven by technological advancements and increasing investments in digital",
+      "url": "https://www.openpr.com/news/4606145/clinical-trial-data-visualization-market-insights-highlight",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-08-18T05:29:49.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "health & medicine"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "01cf8c5f4f6a5b1f",
+      "slug": "why-is-citi-optimistic-on-coreweave-crwv-despite-higher-ai-spending-6f3950",
+      "title": "Why Is Citi Optimistic on CoreWeave (CRWV) Despite Higher AI Spending",
+      "dek": "Over the past year, the broader market continued to ask only one question: Amidst the AI boom, who is actually making money? First of all, the chipmakers benefited, and then the cloud providers. As of now, investors are increasingly focusing on the infrastructure layer supporting the AI buildout. Th",
+      "url": "https://www.insidermonkey.com/blog/why-is-citi-optimistic-on-coreweave-crwv-despite-higher-ai-spending-1810663/",
+      "source": "Insider Trading",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/HVyjc9Qb0RHyzogx6FqTq4HZx_MafvCASIgRP2_D-Tw/resize:fit:1024:1024:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2025/04/30091317/Artificial-Intelligence-AI.jpg",
+      "publishedAt": "2026-08-18T04:36:43.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "nasdaq:crwv",
+        "coreweave inc. (nasdaq:crwv)",
+        "nyse:orcl",
+        "news",
+        "yahoo finance",
+        "oracle corporation (nyse:orcl)"
       ],
       "priority": 40
     },
     {
-      "id": "448f00528eb19766",
-      "slug": "weekly-recap-ai-goes-rogue-metabase-0-day-mcp-supply-chain-attacks-and-router-backdoors-6b791d",
-      "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
-      "dek": "Ravie LakshmananAug 10, 2026Cybersecurity / Hacking A lot of security problems still begin with someone doing a completely normal thing. Cloning a repo. Answering a call. Leaving a box exposed....",
-      "url": "https://www.swapupdate.in/weekly-recap-ai-goes-rogue-metabase-0-day-mcp-supply-chain-attacks-and-router-backdoors/",
-      "source": "Swapupdate",
+      "id": "4f4ec8b5db562f72",
+      "slug": "wsj-catches-up-discovers-ai-s-off-balance-sheet-liabilities-are-3-trillion-and-growing-1-4c9aab",
+      "title": "WSJ Catches Up, Discovers AI's Off-Balance Sheet Liabilities Are $3 Trillion And Growing $1.2 Trillion Per Quarter",
+      "dek": "WSJ Catches Up, Discovers AI's Off-Balance Sheet Liabilities Are $3 Trillion And Growing $1.2 Trillion Per Quarter More than two months ago, long before most Wall Street analysts had any clue that the bulk of the AI buildout commitments were diligently hidden in various off-balance sheet SPVs and ot",
+      "url": "https://www.zerohedge.com/markets/wsj-catches-discovers-ais-balance-sheet-liabilities-are-3-trillion-and-growing-12-trillion",
+      "source": "Zerohedge",
       "sourceType": "external",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtXmkUOPD6prrNPMK9N1Rhu2dm3QFGQ2DUTiu3xrj2WWbauZ_IK2HemME36-4WBIqGh01SFOkNJuutFeXLgS_ZMUBFn5ZDzIP5_IeNrwJWDfKcOPQgZl3spOFVS8R84Hbthy6o3sx9IWJ1yRo4FiW5acGYGBrf2nljmx6yvSd55LWRrkX6JhJ9b5bHJX0g/s1700-e365/recaps.jpg",
-      "publishedAt": "2026-08-17T03:57:06.000Z",
-      "topic": "Security",
-      "tags": [
-        "technology"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "5099be25d992503e",
-      "slug": "ai-money-moves-put-these-five-stocks-in-spotlight-last-week-nvda-intc-orcl-amd-sndk-8dd681",
-      "title": "AI Money Moves Put These Five Stocks In Spotlight Last Week: NVDA, INTC, ORCL, AMD, SNDK",
-      "dek": "Tech companies are raising money, increasing production, and changing their plans as AI spending stays strong, while investors watch costs and how well companies deliver on their promises.",
-      "url": "https://newsable.asianetnews.com/markets/ai-money-moves-put-these-five-stocks-in-spotlight-last-week-nvda-intc-orcl-amd-sndk-articleshow-42nzg2g",
-      "source": "Asianet Newsable",
-      "sourceType": "external",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-efc3b03a-0579-4531-886c-708f741707f9.jpg",
-      "publishedAt": "2026-08-17T02:40:01.000Z",
+      "image": "https://assets.zerohedge.com/s3fs-public/styles/16_9_max_700/public/2026-08/wsj%20teaser%20off%20BS%203.jpg?itok=BuX_Ybv3",
+      "publishedAt": "2026-08-18T03:29:21.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "markets"
+        "ORCL",
+        "Earnings",
+        "AI"
       ],
       "priority": 39
     },
     {
-      "id": "2629baeefbdf22a5",
-      "slug": "java-news-roundup-simple-json-api-glassfish-jakarta-ee-jnosql-open-liberty-langchain4j-fb654e",
-      "title": "Java News Roundup: Simple JSON API, GlassFish, Jakarta EE, JNoSQL, Open Liberty, LangChain4j",
-      "dek": "This week's Java roundup for August 10th, 2026, features news highlighting: Simple JSON API proposed to target for JDK 28; an update on Jakarta EE 12; the August 2026 edition of Open Liberty; a point release of LangChain4j; maintenance releases of Eclipse JNoSQL and GraalVM Native Build tools; the t",
-      "url": "https://www.infoq.com/news/2026/08/java-news-roundup-aug10-2026/",
-      "source": "Information Queue",
+      "id": "44b3d7352d717e24",
+      "slug": "emeth-value-capital-h1-2026-letter-ec4977",
+      "title": "Emeth Value Capital H1 2026 Letter",
+      "dek": "Emeth Value Capital reports a -9.78% YTD return and details its transition to an AI-native investment process. Read the full H1 2026 report for more details.",
+      "url": "https://seekingalpha.com/article/4937517-emeth-value-capital-h1-2026-letter",
+      "source": "Seeking Alpha",
       "sourceType": "external",
-      "image": "https://res.infoq.com/news/2026/08/java-news-roundup-aug10-2026/en/headerimage/java-news-roundup-image-1786901137571.jpg",
-      "publishedAt": "2026-08-17T02:30:00.000Z",
-      "topic": "AI & Database",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2206650080/image_2206650080.jpg?io=getty-c-w1280",
+      "publishedAt": "2026-08-18T01:15:00.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "jdk 27",
-        "jakarta ee",
-        "glassfish",
-        "eclipse jnosql",
-        "news",
-        "development"
+        "fund letters",
+        "emeth value capital"
       ],
       "priority": 38
     },
     {
-      "id": "5da7355746116bac",
-      "slug": "oracle-aws-expand-strategic-collaboration-as-ai-database-adoption-accelerates-d868ab",
-      "title": "Oracle, AWS Expand Strategic Collaboration as AI Database Adoption Accelerates",
+      "id": "ffc35862cc405687",
+      "slug": "vast-edge-highlights-growing-demand-for-affordable-backup-and-disaster-recovery-services-0fbe4f",
+      "title": "Vast Edge Highlights Growing Demand for Affordable Backup and Disaster Recovery Services Among SMBs",
+      "dek": "New trends show SMBs increasingly prioritizing affordable SaaS backup, AI-powered recovery intelligence, and cloud-based business continuity solutions.",
+      "url": "https://www.einpresswire.com/article/935058036/vast-edge-highlights-growing-demand-for-affordable-backup-and-disaster-recovery-services-among-smbs",
+      "source": "Ein Presswire",
+      "sourceType": "external",
+      "image": "https://img.einnews.com/ampsize/1173150/growing-demand-for-affordable-b.jpeg",
+      "publishedAt": "2026-08-18T00:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "united states",
+        "companies",
+        "banking",
+        "it industry",
+        "united kingdom",
+        "retail"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "0e2a8c42c1d610fc",
+      "slug": "why-oracle-orcl-dipped-more-than-broader-market-today-d42135",
+      "title": "Why Oracle (ORCL) Dipped More Than Broader Market Today",
       "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.newsbreak.com/news/4832913375774-oracle-aws-expand-strategic-collaboration-as-ai-database-adoption-accelerates",
-      "source": "Newsbreak",
+      "url": "https://www.bundle.app/en/finance/why-oracle-orcl-dipped-more-than-broader-market-today-179AF4B2-CE4B-4476-8CE8-46754B2BD805",
+      "source": "Bundle",
+      "sourceType": "external",
+      "image": "https://static.bundle.app/news/6c3cd071-1ad4-523a-8e52-ddc8527669a6.jpg",
+      "publishedAt": "2026-08-17T22:47:15.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "ORCL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "939842451050d9ae",
+      "slug": "it-security-news-daily-summary-2026-08-17-cd694a",
+      "title": "IT Security News Daily Summary 2026-08-17",
+      "dek": "163 posts published today 21:31Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects 21:02SafePal Warns of Phishing Risk After Data Exposure Hits Nearly 40,000 Customers 21:01‘MessiahGPT’ AI Service Promises Ransomware, Phishing Kits, and Malware 21:01Philips and GE",
+      "url": "https://www.itsecuritynews.info/it-security-news-daily-summary-2026-08-17/",
+      "source": "It Security News",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
-      "topic": "AI & Database",
+      "publishedAt": "2026-08-17T21:55:19.000Z",
+      "topic": "Security",
       "tags": [
-        "AI"
+        "daily summary",
+        "2026-08-17"
       ],
-      "priority": 37
+      "priority": 36
     },
     {
-      "id": "b9442fa4abfa4228",
-      "slug": "big-short-investor-steve-eisman-says-ai-has-an-achilles-heel-but-it-s-too-early-to-short-d6af0e",
-      "title": "'Big Short' Investor Steve Eisman Says AI Has an 'Achilles' Heel' — But It's Too Early to Short the Boom",
-      "dek": "“Big Short” investor Steve Eisman says the AI boom has an “Achilles’ heel”: its enormous dependence on OpenAI and Anthropic.",
-      "url": "https://www.inkl.com/news/big-short-investor-steve-eisman-says-ai-has-an-achilles-heel-but-its-too-early-to-short-the-boom",
-      "source": "Inkl",
+      "id": "3637a99f33079c3a",
+      "slug": "earnings-call-transcript-streamex-q2-2026-revenue-debut-misses-estimates-as-shares-slide-e11bf0",
+      "title": "Earnings call transcript: Streamex Q2 2026 revenue debut misses estimates as shares slide",
+      "dek": "Earnings call transcript: Streamex Q2 2026 revenue debut misses estimates as shares slide",
+      "url": "https://uk.investing.com/news/transcripts/earnings-call-transcript-streamex-q2-2026-revenue-debut-misses-estimates-as-shares-slide-93CH-4835923",
+      "source": "Investing Uk",
       "sourceType": "external",
-      "image": "https://images.inkl.com/s3/article/lead_image/23716437/Claude-By-Anthropic-And-Chatgpt-By-Opena.jpg",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "image": "https://content-media.investing.com/news/gold_2_M_1440047838.jpg",
+      "publishedAt": "2026-08-17T21:42:09.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "breaking news",
-        "global news",
-        "inkl",
-        "news headlines",
-        "today news",
-        "news today"
+        "Earnings"
       ],
-      "priority": 37
+      "priority": 36
     },
     {
-      "id": "d1044e0c37246996",
-      "slug": "larry-ellison-s-ai-bet-made-him-richer-than-musk-then-came-oracle-s-129-5b-debt-problem-50cb2c",
-      "title": "Larry Ellison's AI Bet Made Him Richer Than Musk: Then Came Oracle's $129.5B Debt Problem",
-      "dek": "Oracle's aggressive AI infrastructure expansion has led to significant financial commitments, impacting Larry Ellison's wealth. The company's strategy hinges on future AI demand to justify its debt.",
-      "url": "https://www.inkl.com/news/larry-ellisons-ai-bet-made-him-richer-than-musk-then-came-oracles-129-5b-debt-problem",
-      "source": "Inkl",
+      "id": "5eb7fbc41edd0923",
+      "slug": "oracle-nyse-orcl-shares-down-2-5-here-s-why-52677e",
+      "title": "Oracle (NYSE:ORCL) Shares Down 2.5% – Here’s Why",
+      "dek": "Oracle Corporation (NYSE:ORCL – Get Free Report) shares fell 2.5% on Monday . The stock traded as low as $145.50 and last traded at $146.71. 20,549,814 shares were traded during trading, a decline of 30% from the average daily volume of 29,431,219 shares. The stock had previously closed at $150.52. ",
+      "url": "https://www.watchlistnews.com/oracle-nyseorcl-shares-down-2-5-heres-why/11188356.html",
+      "source": "Watch List News",
       "sourceType": "external",
-      "image": "https://images.inkl.com/s3/article/lead_image/23715889/oracle-larry-ellison.png",
-      "publishedAt": "2026-08-17T00:00:00.000Z",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-08-17T21:21:37.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "global news",
-        "breaking news",
-        "today news",
-        "daily news",
-        "news",
-        "inkl"
+        "price articles",
+        "investing"
       ],
-      "priority": 37
-    },
-    {
-      "id": "dc2e3f2b37c3a592",
-      "slug": "json-api-valhalla-progress-lts-pqc-ijn-073ff0",
-      "title": "\"JSON API, Valhalla Progress, LTS ❤️ PQC\" [IJN]",
-      "dek": "JEP 540 proposes to incubate a simple JSON API and is currently proposed to target JDK 28. The pull request for Project Valhalla's JEPs 401 and 539 were merged and value types are available as a preview feature in the latest JDK 28 early-access builds. Oracle plans to backport post-quantum cryptogra",
-      "url": "https://inside.java/2026/08/15/podcast-066/",
-      "source": "Inside Java",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/insidejava/ijn-114.mp3?dest-id=2318780",
-      "publishedAt": "2026-08-15T12:31:00.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "JDK"
-      ],
-      "priority": 37
+      "priority": 36
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1957,36 +1990,6 @@
       "tags": [
         "OCI"
       ],
-      "priority": 36
-    },
-    {
-      "id": "4589098868999fde",
-      "slug": "encore-episode-introduction-to-artificial-intelligence-ai-9e755a",
-      "title": "Encore Episode: Introduction to Artificial Intelligence (AI)",
-      "dek": "You probably interact with artificial intelligence (AI) more than you realize. So, there's never been a better time to start figuring out how it all works. Join Lois Houston and Nikita Abraham as they decode the fundamentals of AI so that anyone, irrespective of their technical background, can lever",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-introduction-to-artificial-intelligence-ai",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-23T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ba70f7a05b875a4b",
-      "slug": "using-ords-to-make-your-adb-data-available-in-vbs-061acb",
-      "title": "Using ORDS to Make Your ADB Data Available in VBS",
-      "dek": "Visual Builder Studio requires its data sources to connect to the webpage it produces using REST calls. Therefore, the data source has to provide a REST interface. A simple, easy, secure, and free way to do that is with Oracle REST Data Services (ORDS). In this episode, hosts Lois Houston and Nikita",
-      "url": "https://oracleuniversitypodcast.libsyn.com/using-ords-to-make-your-adb-data-available-in-vbs",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-16T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
       "priority": 36
     }
   ]
