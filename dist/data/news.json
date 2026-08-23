@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T20:44:59.553Z",
+  "generatedAt": "2026-08-23T20:44:40.014Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,205 +7,55 @@
   },
   "items": [
     {
-      "id": "9941a5ecedd304c5",
-      "slug": "rimini-street-unveils-agentic-ai-erp-strategy-to-modernize-legacy-systems-821235",
-      "title": "Rimini Street Unveils Agentic AI ERP Strategy to Modernize Legacy Systems",
-      "dek": "Rimini Street (NASDAQ:RMNI) outlined its strategy to expand beyond third-party enterprise software support into what it calls “Agentic AI ERP,” positioning the company as a provider of AI-enabled modernization for organizations that retain existing ERP systems. During a presentation at Lytham Partne",
-      "url": "https://baseballnewssource.com/2026/08/22/rimini-street-unveils-agentic-ai-erp-strategy-to-modernize-legacy-systems/11234750.html",
-      "source": "Bbns",
+      "id": "e33f1637fc164ee5",
+      "slug": "htx-research-examines-u-s-ai-equities-technology-remains-early-while-capital-expenditure-65a05e",
+      "title": "HTX Research Examines U.S. AI Equities: Technology Remains Early, While Capital Expenditure and Valuations Have Entered the Late Cycle",
+      "dek": "APIA, Samoa, Aug. 23, 2026 /PRNewswire/ -- HTX Research, the dedicated research arm of HTX, has released a new report titled The Industrialization of Intelligence and the Bubble Cycle: Token Economics, Capital Expenditure, and the Repricing of Risk-Reward Across U.S. AI Equities. Its central argumen",
+      "url": "https://www.manilatimes.net/2026/08/23/tmt-newswire/pr-newswire/htx-research-examines-us-ai-equities-technology-remains-early-while-capital-expenditure-and-valuations-have-entered-the-late-cycle/2410481",
+      "source": "The Manila Times",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/rimini-street-inc-logo-1200x675.jpg?v=20240522112008",
-      "publishedAt": "2026-08-22T08:07:11.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "markets",
-        "partner feed articles"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "e67e6a7a6623058c",
-      "slug": "healthcare-data-technology-market-challenges-in-privacy-and-compliance-0efc8e",
-      "title": "Healthcare Data Technology Market: Challenges in Privacy and Compliance",
-      "dek": "Healthcare organizations are sitting on more data than ever before — electronic health records, connected devices, claims, imaging, and real-world evidence — and the race [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/08/22/1768859",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
-      "publishedAt": "2026-08-22T07:54:37.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "internet & online"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "f05838111943907c",
-      "slug": "data-encryption-market-key-players-trends-and-growth-opportunities-565d11",
-      "title": "Data Encryption Market: Key Players, Trends, and Growth Opportunities",
-      "dek": "Data is now the most valuable — and most attacked — asset most organizations own. As cloud adoption accelerates, AI workloads multiply, and regulators tighten [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/08/22/1768856",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
-      "publishedAt": "2026-08-22T07:51:14.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "internet & online"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "78e218ba99d9ed88",
-      "slug": "birlasoft-off-campus-drive-2026-management-trainee-latest-job-update-bdc25d",
-      "title": "Birlasoft Off-Campus Drive 2026 | Management Trainee | Latest Job Update",
-      "dek": "The post Birlasoft Off-Campus Drive 2026 | Management Trainee | Latest Job Update first appeared on Job4freshers .",
-      "url": "https://job4freshers.co.in/birlasoft-management-trainee/",
-      "source": "Job4freshers",
-      "sourceType": "external",
-      "image": "https://job4freshers.co.in/wp-content/uploads/2021/10/birlasoft-job4freshers.png",
-      "publishedAt": "2026-08-22T06:36:19.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "trainee",
-        "2027 batch jobs",
-        "management trainee",
-        "2025 batch jobs",
-        "2026 batch jobs",
-        "freshersjobs"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "7b3a3a0b1f7926a7",
-      "slug": "why-financial-rag-needs-more-than-better-embeddings-fbfaad",
-      "title": "Why Financial RAG Needs More Than Better Embeddings",
-      "dek": "Why RAG fails on financial documents even with perfect retrieval, and three architectural fixes: layout-aware parsing, multi-vector retrieval, and routing math.",
-      "url": "https://hackernoon.com/why-financial-rag-needs-more-than-better-embeddings",
-      "source": "Hackernoon",
-      "sourceType": "external",
-      "image": "https://cdn.hackernoon.com/images/2jqChkrv03exBUgkLrDzIbfM99q2-oa822rd.png",
-      "publishedAt": "2026-08-22T05:00:02.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "rag-architecture",
-        "rag-implementation",
-        "rag",
-        "rag-pipeline",
-        "rag-optimization",
-        "hybrid-rag"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "31be2e53278b785a",
-      "slug": "salt-lake-city-it-hiring-multiple-roles-from-45-hr-to-297k-75cf4d",
-      "title": "💻 Salt Lake City IT Hiring: Multiple Roles From $45/hr to $297K+",
-      "dek": "Salt Lake City’s tech scene is on fire right now—everything from student IT jobs to senior cloud, security, and AI roles. If you work in IT, there’s likely",
-      "url": "https://www.newsbreak.com/salt-lake-city-ut-daily-brief-375437820/4843151261323-salt-lake-city-it-hiring-multiple-roles-from-45-hr-to-297k",
-      "source": "Newsbreak",
-      "sourceType": "external",
-      "image": "https://img.particlenews.com/img/id/0uqf9w_1ET3sgrP00",
-      "publishedAt": "2026-08-22T00:00:00.000Z",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/23/1186924.jpg",
+      "publishedAt": "2026-08-23T08:38:46.000Z",
       "topic": "Security",
       "tags": [
-        "local news",
-        "salt lake city ut daily brief",
-        "newsbreak",
-        "breaking news"
+        "tmt newswire"
       ],
-      "priority": 37
+      "priority": 43
     },
     {
-      "id": "ea6da1a78866f15a",
-      "slug": "keeping-up-with-the-java-release-train-i-o-a85e97",
-      "title": "\"Keeping Up with the Java Release Train\" [I/O]",
-      "dek": "",
-      "url": "https://inside.java/podcast",
-      "source": "Inside Java",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/insidejava/Episode67.mp3?dest-id=2318780",
-      "publishedAt": "2026-08-20T07:51:00.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "Java"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "40b3a3b0793d5e3a",
-      "slug": "null-in-sql-why-null-finds-nothing-and-what-to-write-instead-9d744f",
-      "title": "NULL in SQL: Why = NULL Finds Nothing and What to Write Instead",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/technology/null-in-sql-why-null-finds-nothing-and-what-to-write-instead-07774CFD-15C9-4A22-AF0C-48710FD76582",
-      "source": "Bundle",
+      "id": "6aa1b12dae18a493",
+      "slug": "6x-ai-load-rs-12-000-cr-in-orders-2-firms-wiring-india-and-us-data-centres-0f40ef",
+      "title": "6X AI load, Rs 12,000 cr in orders: 2 firms wiring India and US data centres",
+      "dek": "AI is reshaping the data centre race. One company targets India’s buildout, while another rides the US hyperscaler boom. But with a valuation gap, which offers the better opportunity?",
+      "url": "https://www.financialexpress.com/market/stock-insights/6x-ai-load-rs-12000-cr-in-orders-2-firms-wiring-india-and-us-data-centres/4323326/",
+      "source": "Financial Express , Read To Lead",
       "sourceType": "external",
-      "image": "https://static.bundle.app/news/62f3d095-a06d-5e6c-bc30-4f7253eeda95.jpg",
-      "publishedAt": "2026-08-21T22:56:06.000Z",
-      "topic": "AI & Database",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "9912af8700ab6903",
-      "slug": "sql-comment-syntax-by-database-mysql-postgresql-sql-server-sqlite-oracle-ea7a40",
-      "title": "SQL Comment Syntax by Database: MySQL, PostgreSQL, SQL Server, SQLite, Oracle",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/technology/sql-comment-syntax-by-database-mysql-postgresql-sql-server-sqlite-oracle-714794EA-21F0-4177-B252-160744F8E4AA",
-      "source": "Bundle",
-      "sourceType": "external",
-      "image": "https://static.bundle.app/news/07e79b21-dc38-5a10-a8ef-eb1768f1a3e9.jpg",
-      "publishedAt": "2026-08-21T22:54:40.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "MySQL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "2d10bb93944d3cdd",
-      "slug": "comment-on-table-how-to-store-a-table-description-in-the-database-itself-02fd2c",
-      "title": "COMMENT ON TABLE: How to Store a Table Description in the Database Itself",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/technology/comment-on-table-how-to-store-a-table-description-in-the-database-itself-71CD2FB3-95F4-4E8E-B2F7-6CC6B285A529",
-      "source": "Bundle",
-      "sourceType": "external",
-      "image": "https://static.bundle.app/news/d816c2ce-e4b8-5c88-927d-3e97ef6968a9.jpg",
-      "publishedAt": "2026-08-21T22:54:32.000Z",
-      "topic": "AI & Database",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "0c2675b14de0db2c",
-      "slug": "how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours-2c1a2f",
-      "title": "How AI accounting startup Rillet raised $100M and became a unicorn in 48 hours",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/technology/how-ai-accounting-startup-rillet-raised-100m-and-became-a-unicorn-in-48-hours-7C680B36-F566-4090-825C-15F9B7057EC0",
-      "source": "Bundle",
-      "sourceType": "external",
-      "image": "https://static.bundle.app/news/e52844da-959e-58b1-a477-b5103c2cc6c3.jpg",
-      "publishedAt": "2026-08-21T22:11:43.000Z",
+      "image": "https://images.financialexpressdigital.com/2026/08/datqas.jpg",
+      "publishedAt": "2026-08-23T00:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "AI"
+        "data centre integrators",
+        "dynacons systems share price",
+        "it system integration",
+        "india data center growth",
+        "ai infrastructure spending",
+        "black box stock analysis"
       ],
-      "priority": 36
+      "priority": 37
     },
     {
-      "id": "486f2e24091a2c04",
-      "slug": "oracle-nyse-orcl-trading-up-3-3-should-you-buy-41c084",
-      "title": "Oracle (NYSE:ORCL) Trading Up 3.3% – Should You Buy?",
-      "dek": "Oracle Corporation (NYSE:ORCL – Get Free Report)’s share price shot up 3.3% during mid-day trading on Friday . The stock traded as high as $148.35 and last traded at $146.70. Approximately 19,473,090 shares were traded during trading, a decline of 33% from the average daily volume of 29,188,064 shar",
-      "url": "https://www.thelincolnianonline.com/2026/08/21/oracle-nyseorcl-trading-up-3-3-should-you-buy.html",
-      "source": "The Lincolnian Online",
+      "id": "cac209e809d81417",
+      "slug": "ai-generated-exploit-scripts-target-siemens-s7-plcs-in-u-s-critical-infrastructure-2e4b4a",
+      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+      "dek": "The U.S. government on Wednesday warned of an “active threat” targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens S7 SeriesProgrammable...",
+      "url": "https://www.swapupdate.in/ai-generated-exploit-scripts-target-siemens-s7-plcs-in-u-s-critical-infrastructure/",
+      "source": "Swapupdate",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-08-21T21:41:02.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSn562AFIpj2ldmT5inFv5tGgfNbaM4F1OBNvCW-80nP-YmFewnJd9VMlbgYnhgWrUpHS81bS6uEXRgEmg37c14OqmkO29XqY3FcBCl637vmAxfqB3UDtL3Rvgio6cPAQQv3bYtLUIyRdog4bpgD8MqJJYhTLish4L2Ljt6aJ_WpjFmTXYhmrA-TguqH98/s1700-e365/plc.jpg",
+      "publishedAt": "2026-08-22T21:36:30.000Z",
+      "topic": "Security",
       "tags": [
-        "stocks",
-        "price articles"
+        "technology"
       ],
       "priority": 36
     },
@@ -1978,6 +1828,144 @@
       "tags": [
         "OCI"
       ],
+      "priority": 36
+    },
+    {
+      "id": "4589098868999fde",
+      "slug": "encore-episode-introduction-to-artificial-intelligence-ai-9e755a",
+      "title": "Encore Episode: Introduction to Artificial Intelligence (AI)",
+      "dek": "You probably interact with artificial intelligence (AI) more than you realize. So, there's never been a better time to start figuring out how it all works. Join Lois Houston and Nikita Abraham as they decode the fundamentals of AI so that anyone, irrespective of their technical background, can lever",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-introduction-to-artificial-intelligence-ai",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-23T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ba70f7a05b875a4b",
+      "slug": "using-ords-to-make-your-adb-data-available-in-vbs-061acb",
+      "title": "Using ORDS to Make Your ADB Data Available in VBS",
+      "dek": "Visual Builder Studio requires its data sources to connect to the webpage it produces using REST calls. Therefore, the data source has to provide a REST interface. A simple, easy, secure, and free way to do that is with Oracle REST Data Services (ORDS). In this episode, hosts Lois Houston and Nikita",
+      "url": "https://oracleuniversitypodcast.libsyn.com/using-ords-to-make-your-adb-data-available-in-vbs",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-16T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "967d33e1489de57e",
+      "slug": "forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today-f03edc",
+      "title": "Forgotten, But Not Gone: How Model-Based Development Is Still Alive and Well Today",
+      "dek": "Computer Aided Software Engineering (CASE) tools, which helped make the analysis, design, and implementation phases of software development better, faster, and cheaper, fell out of favor in the mid-'90s. Yet much of what they have to offer remains and is in active use within different Oracle tools. ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/-forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-09T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "513c87bee83d2547",
+      "slug": "developing-redwood-applications-86e984",
+      "title": "Developing Redwood Applications",
+      "dek": "Redwood is a state-of-the-art graphical interface that defines the look and feel of the new Oracle Cloud Redwood Applications. In this episode, hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Joe Greenwald, take a closer look at the intent behind the design and deve",
+      "url": "https://oracleuniversitypodcast.libsyn.com/developing-redwood-applications",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-02T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "0bc5f5b9fa209155",
+      "slug": "preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio-23f876",
+      "title": "Preparing to Extend Oracle Fusion Apps Using Visual Builder Studio",
+      "dek": "What do you need to start customizing the next generation of Oracle Fusion Apps? How do you create new pages for business processes? What level of expertise do you require for this? Join Lois Houston and Nikita Abraham as they get answers to all these questions and more from Senior Principal OCI Ins",
+      "url": "https://oracleuniversitypodcast.libsyn.com/preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-03-26T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ced28242d290626e",
+      "slug": "introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-alone-and-jet-05c689",
+      "title": "Introduction to Visual Builder Studio, Visual Builder Cloud Service, Stand-Alone, and JET",
+      "dek": "The next generation of front-end user interfaces for Oracle Fusion Applications is being built using Visual Builder Studio and Oracle JavaScript Extension Toolkit. However, many of the terms associated with these tools can be confusing. In this episode, Lois Houston and Nikita Abraham are joined by ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-alone-and-jet",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-03-19T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "80b0e87aa5534b5f",
+      "slug": "oci-ai-services-fb5b69",
+      "title": "OCI AI Services",
+      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oci-ai-services",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S06_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-03-12T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "01b9d7957b344f1c",
+      "slug": "generative-ai-and-large-language-models-e87b5b",
+      "title": "Generative AI and Large Language Models",
+      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
+      "url": "https://oracleuniversitypodcast.libsyn.com/generative-ai-and-large-language-models",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S06_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-02-27T15:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "1855be8a41d81cd1",
+      "slug": "deep-learning-2a2b74",
+      "title": "Deep Learning",
+      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
+      "url": "https://oracleuniversitypodcast.libsyn.com/deep-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S06_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-02-20T15:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
       "priority": 36
     }
   ]
