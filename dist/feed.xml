@@ -6,97 +6,106 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 20:51:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 23:49:25 GMT</lastBuildDate>
     
     <item>
-      <title>Tokenomics - the SHI worldview takes in what enterprises can learn from ITAM and FinOps</title>
-      <link>https://oracle-university.com/stories/tokenomics-the-shi-worldview-takes-in-what-enterprises-can-learn-from-itam-and-finops-c52560/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/tokenomics-the-shi-worldview-takes-in-what-enterprises-can-learn-from-itam-and-finops-c52560/</guid>
-      <pubDate>Tue, 25 Aug 2026 08:35:01 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>SHI’s Shane Cronin, Head of FinOps &amp; ITAM Services, who has been unpacking the financial implications of complex technology decisions for decades, explores challenges and lessons for emerging AI procurement and cost controls. The new open source Tokenomics Foundation might help.</description>
-      <source url="https://diginomica.com/tokenomics-shi-worldview-takes-what-enterprises-can-learn-itam-and-finops">Diginomica</source>
-    </item>
-    <item>
-      <title>IT Security News Hourly Summary 2026-08-25 10h : 12 posts</title>
-      <link>https://oracle-university.com/stories/it-security-news-hourly-summary-2026-08-25-10h-12-posts-0c3716/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/it-security-news-hourly-summary-2026-08-25-10h-12-posts-0c3716/</guid>
-      <pubDate>Tue, 25 Aug 2026 08:00:05 GMT</pubDate>
+      <title>Advanced Database Security</title>
+      <link>https://oracle-university.com/stories/advanced-database-security-e1f19e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/advanced-database-security-e1f19e/</guid>
+      <pubDate>Wed, 26 Aug 2026 11:24:11 GMT</pubDate>
       <category>Security</category>
-      <description>12 posts published in the last hour 07:31China Approves Limited Imports Of Nvidia’s H200 07:31SynkLoader throws in the kitchen sink, NIST flags multi-cloud sprawl, ReliaQuest blocks a ShinyHunters swing 07:31Top Google Results for Minecraft Client Led Gamers to Malware, McAfee... Read more → The pos</description>
-      <source url="https://www.itsecuritynews.info/it-security-news-hourly-summary-2026-08-25-10h-12-posts/">It Security News</source>
+      <description>eBook Details: Paperback: 524 pages Published: May 22, 2026 Language: English ISBN-10: 9378549470 ISBN-13: 978-9378549472 eBook Description: Advanced Database Security: Bridging theoretical concepts, techniques, and Oracle implementation. Master database protection with Dr. Hassan Afyouni. Learn thr</description>
+      <source url="https://www.wowebook.org/advanced-database-security/">Wow! E-book</source>
     </item>
     <item>
-      <title>Samsung, SK Hynix stand to benefit as as Nvidia AI server costs surge</title>
-      <link>https://oracle-university.com/stories/samsung-sk-hynix-stand-to-benefit-as-as-nvidia-ai-server-costs-surge-8e1211/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/samsung-sk-hynix-stand-to-benefit-as-as-nvidia-ai-server-costs-surge-8e1211/</guid>
-      <pubDate>Tue, 25 Aug 2026 07:44:48 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Server manufacturers informed major data center clients like Microsoft, Google, and Oracle that Nvidia-based AI system prices would increase by over 15% for shipments beginning in early 2027</description>
-      <source url="https://www.thehindubusinessline.com/info-tech/samsung-sk-hynix-stand-to-benefit-as-as-nvidia-ai-server-costs-surge/article71387755.ece">The Hindu - Business Line</source>
+      <title>What to Look for in an ERP-to-Ecommerce Integration Platform</title>
+      <link>https://oracle-university.com/stories/what-to-look-for-in-an-erp-to-ecommerce-integration-platform-79a413/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/what-to-look-for-in-an-erp-to-ecommerce-integration-platform-79a413/</guid>
+      <pubDate>Wed, 26 Aug 2026 11:07:47 GMT</pubDate>
+      <category>Security</category>
+      <description>Choosing an ERP-to-ecommerce integration platform requires more than checking connector availability. Businesses should evaluate data mapping, workflow control, monitoring, security, scalability, and long-term maintainability. ERP and ecommerce platforms sit at different points in the transaction li</description>
+      <source url="https://www.openpr.com/news/4613720/what-to-look-for-in-an-erp-to-ecommerce-integration-platform">Openpr.com</source>
     </item>
     <item>
-      <title>Samsung, SK hynix Gain Power as Nvidia AI System Prices Surge</title>
-      <link>https://oracle-university.com/stories/samsung-sk-hynix-gain-power-as-nvidia-ai-system-prices-surge-430664/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/samsung-sk-hynix-gain-power-as-nvidia-ai-system-prices-surge-430664/</guid>
-      <pubDate>Tue, 25 Aug 2026 07:30:29 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Samsung and SK hynix benefit as surging memory costs increase prices for Nvidia AI systems by over 15% for clients like Microsoft and Google. The hike, effective from 2027, is driven by high demand for HBM and DRAM in AI data centers.</description>
-      <source url="https://newsable.asianetnews.com/business/samsung-sk-hynix-gain-power-as-nvidia-ai-system-prices-surge-articleshow-hr1zpl5">Asianet Newsable</source>
+      <title>IREN’s Earnings Test Arrives With a $1 Billion Pension Fund Bet and a Pivotal AI Cloud Question</title>
+      <link>https://oracle-university.com/stories/iren-s-earnings-test-arrives-with-a-1-billion-pension-fund-bet-and-a-pivotal-ai-cloud-qu-076dc7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/iren-s-earnings-test-arrives-with-a-1-billion-pension-fund-bet-and-a-pivotal-ai-cloud-qu-076dc7/</guid>
+      <pubDate>Wed, 26 Aug 2026 10:51:05 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>The options market is bracing for a 12.5 percent swing in IREN’s share price when the company reports fiscal fourth-quarter results after Thursday’s closing bell. That implied move — far wider than what most technology names are pricing this earnings season — captures the tension between a stock tha</description>
+      <source url="https://www.newscase.com/irens-earnings-test-arrives-with-a-1-billion-pension-fund-bet-and-a-pivotal-ai-cloud-question/">Newscase</source>
     </item>
     <item>
-      <title>Business News | Samsung, SK Hynix Stand to Benefit as as Nvidia AI Server Costs Surge</title>
-      <link>https://oracle-university.com/stories/business-news-samsung-sk-hynix-stand-to-benefit-as-as-nvidia-ai-server-costs-surge-0cc5cb/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/business-news-samsung-sk-hynix-stand-to-benefit-as-as-nvidia-ai-server-costs-surge-0cc5cb/</guid>
-      <pubDate>Tue, 25 Aug 2026 07:28:22 GMT</pubDate>
+      <title>Exploits and vulnerabilities in Q2 2026</title>
+      <link>https://oracle-university.com/stories/exploits-and-vulnerabilities-in-q2-2026-ff47af/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/exploits-and-vulnerabilities-in-q2-2026-ff47af/</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:04 GMT</pubDate>
+      <category>Security</category>
+      <description>This report covers statistics on vulnerabilities, exploits, and C2 frameworks in Q2 2026. For the first time ever, we aggregate data on vulnerabilities in open-source AI agents and AI frameworks.</description>
+      <source url="https://securelist.com/vulnerabilities-and-exploits-in-q2-2026/121091/">Securelist</source>
+    </item>
+    <item>
+      <title>It’s Time to Rein in Lethal AI Drones</title>
+      <link>https://oracle-university.com/stories/it-s-time-to-rein-in-lethal-ai-drones-188bf5/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/it-s-time-to-rein-in-lethal-ai-drones-188bf5/</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Get latest articles and stories on Business at LatestLY. Samsung Electronics and SK hynix gained further &quot;bargaining power&quot; in the artificial intelligence supply chain as rising memory costs fed into prices for Nvidia-based server systems, according to a news report by Korea Herald.</description>
-      <source url="https://www.latestly.com/agency-news/business-news-samsung-sk-hynix-stand-to-benefit-as-as-nvidia-ai-server-costs-surge-7574949.html">Latestly</source>
+      <description>Humans need to act, as AI agents scheme in the digital shadows. The post It’s Time to Rein in Lethal AI Drones appeared first on The Intercept .</description>
+      <source url="https://theintercept.com/2026/08/26/ai-drone-warfare-russia-ukraine-openai-anthropic/">The Intercept</source>
     </item>
     <item>
-      <title>Samsung, SK Hynix Gain Edge as Nvidia AI Server Costs Rise</title>
-      <link>https://oracle-university.com/stories/samsung-sk-hynix-gain-edge-as-nvidia-ai-server-costs-rise-4b559a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/samsung-sk-hynix-gain-edge-as-nvidia-ai-server-costs-rise-4b559a/</guid>
-      <pubDate>Tue, 25 Aug 2026 07:18:08 GMT</pubDate>
+      <title>Patient-Controlled Data Is Reshaping the Personal Health Record Market</title>
+      <link>https://oracle-university.com/stories/patient-controlled-data-is-reshaping-the-personal-health-record-market-5ff0dd/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/patient-controlled-data-is-reshaping-the-personal-health-record-market-5ff0dd/</guid>
+      <pubDate>Wed, 26 Aug 2026 09:29:54 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The global personal health record software market is entering a period of sustained expansion as patients increasingly expect convenient, secure, and real-time access to their medical information. The [read full press release...]</description>
+      <source url="https://express-press-release.net/news/2026/08/26/1769422">Express-press-release</source>
+    </item>
+    <item>
+      <title>Basware Signs Agreement to Acquire Trustpair</title>
+      <link>https://oracle-university.com/stories/basware-signs-agreement-to-acquire-trustpair-d24055/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/basware-signs-agreement-to-acquire-trustpair-d24055/</guid>
+      <pubDate>Wed, 26 Aug 2026 08:10:04 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Rising memory costs push Nvidia-based AI server prices up over 15%, boosting bargaining power for Samsung and SK hynix in the supply chain.</description>
-      <source url="https://www.newkerala.com/news/a/samsung-sk-hynix-stand-benefit-as-as-nvidia-843.htm">Newkerala.com</source>
+      <description>As AI-driven fraud outpaces human defenses, Trustpair and Basware will deliver the industry’s first end-to-end assurance from invoice-to-payment PARIS, Aug. 26, 2026 /PRNewswire/ — Trustpair’s shareholders and Basware today announced that they have signed a binding agreement under which Basware is t</description>
+      <source url="https://bebeez.eu/2026/08/26/basware-signs-agreement-to-acquire-trustpair/">Bebeez</source>
     </item>
     <item>
-      <title>Blockchain Stocks Worth Watching – August 22nd</title>
-      <link>https://oracle-university.com/stories/blockchain-stocks-worth-watching-august-22nd-ad9323/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/blockchain-stocks-worth-watching-august-22nd-ad9323/</guid>
-      <pubDate>Tue, 25 Aug 2026 06:02:53 GMT</pubDate>
+      <title>GPU-as-a-Service Market Till 2040: Distribution by Type of Component, Deployment Model, Business Model, Enterprise Size, Application, End User, Geographical Regions, and Key Players</title>
+      <link>https://oracle-university.com/stories/gpu-as-a-service-market-till-2040-distribution-by-type-of-component-deployment-model-bus-319d45/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/gpu-as-a-service-market-till-2040-distribution-by-type-of-component-deployment-model-bus-319d45/</guid>
+      <pubDate>Wed, 26 Aug 2026 08:07:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Key opportunities include AI-ready data centers, liquid-cooled GPU clusters, hybrid and sovereign clouds, fractional GPU access, orchestration and optimization software, inference infrastructure, decentralized marketplaces, and services for SMEs and re... The post GPU-as-a-Service Market Till 2040: </description>
+      <source url="https://www.crypto-reporter.com/newsfeed/gpu-as-a-service-market-till-2040-distribution-by-type-of-component-deployment-model-business-model-enterprise-size-application-end-user-geographical-regions-and-key-players-130617/">Crypto Reporter</source>
+    </item>
+    <item>
+      <title>Oracle Corporation $ORCL Shares Acquired by Ancora Advisors LLC</title>
+      <link>https://oracle-university.com/stories/oracle-corporation-orcl-shares-acquired-by-ancora-advisors-llc-d41c79/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-shares-acquired-by-ancora-advisors-llc-d41c79/</guid>
+      <pubDate>Wed, 26 Aug 2026 07:47:01 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Bitdeer Technologies Group, Core Scientific, Figure Technology Solutions, Globant, and Digi Power X are the five Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, use, or provide services related t</description>
-      <source url="https://www.americanbankingnews.com/2026/08/25/blockchain-stocks-worth-watching-august-22nd.html">Americanbankingnews</source>
+      <description>Ancora Advisors LLC raised its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 62.0% during the second quarter, Holdings Channel.com reports. The firm owned 50,902 shares of the enterprise software provider’s stock after purchasing an additional 19,474 shares during the quarter. Ancora Advi</description>
+      <source url="https://www.americanbankingnews.com/2026/08/26/oracle-corporation-orcl-shares-acquired-by-ancora-advisors-llc.html">Americanbankingnews</source>
     </item>
     <item>
-      <title>Cybersecurity Stocks To Keep An Eye On – August 23rd</title>
-      <link>https://oracle-university.com/stories/cybersecurity-stocks-to-keep-an-eye-on-august-23rd-004a19/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cybersecurity-stocks-to-keep-an-eye-on-august-23rd-004a19/</guid>
-      <pubDate>Tue, 25 Aug 2026 05:03:11 GMT</pubDate>
-      <category>Security</category>
-      <description>Palo Alto Networks, CrowdStrike, Fortinet, SentinelOne, BlackBerry, Globant, and NetScout Systems are the seven Cybersecurity stocks to watch today, according to MarketBeat’s stock screener tool. Cybersecurity stocks are shares of publicly traded companies that provide products or services designed </description>
-      <source url="https://www.defenseworld.net/2026/08/25/cybersecurity-stocks-to-keep-an-eye-on-august-23rd.html">Defenseworld Net</source>
+      <title>Blockchain Food Traceability Market to Hit US$15.7 Billion by 2033, Growing at 42.7% CAGR</title>
+      <link>https://oracle-university.com/stories/blockchain-food-traceability-market-to-hit-us-15-7-billion-by-2033-growing-at-42-7-cagr-ac301a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/blockchain-food-traceability-market-to-hit-us-15-7-billion-by-2033-growing-at-42-7-cagr-ac301a/</guid>
+      <pubDate>Wed, 26 Aug 2026 07:06:48 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The global blockchain food traceability market size is likely to be valued at US$ 1.3 billion in 2026 and is projected to reach US$ 15.7 billion by 2033, growing at a CAGR of 42.7% during the forecast period 2026-2033. The</description>
+      <source url="https://www.openpr.com/news/4613636/blockchain-food-traceability-market-to-hit-us-15-7-billion">Openpr.com</source>
     </item>
     <item>
-      <title>UL Solutions Launches Retail Total Access Software</title>
-      <link>https://oracle-university.com/stories/ul-solutions-launches-retail-total-access-software-6dfb28/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ul-solutions-launches-retail-total-access-software-6dfb28/</guid>
-      <pubDate>Tue, 25 Aug 2026 03:56:08 GMT</pubDate>
-      <category>Security</category>
-      <description>UL Solutions Inc., a global leader in applied safety science, announced Retail Total Access, a software platform that helps retailers manage product quality and supply chain risk with a clearer, unified view of data.Retailers are managing more complex supply chains with less tolerance for error, whi</description>
-      <source url="https://www.itbiznews.com/news/articleView.html?idxno=222694">It비즈뉴스</source>
-    </item>
-    <item>
-      <title>Oracle (ORCL) Declines More Than Market: Some Information for Investors</title>
-      <link>https://oracle-university.com/stories/oracle-orcl-declines-more-than-market-some-information-for-investors-844239/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-orcl-declines-more-than-market-some-information-for-investors-844239/</guid>
-      <pubDate>Mon, 24 Aug 2026 22:46:21 GMT</pubDate>
+      <title>How to Invest in OpenAI&#39;s ChatGPT</title>
+      <link>https://oracle-university.com/stories/how-to-invest-in-openai-s-chatgpt-584cc1/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/how-to-invest-in-openai-s-chatgpt-584cc1/</guid>
+      <pubDate>Wed, 26 Aug 2026 01:11:05 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.bundle.app/en/finance/oracle-orcl-declines-more-than-market-some-information-for-investors-BDA93947-7BC0-4335-84CC-9BC1D74A7471">Bundle</source>
+      <description>Since the 2022 release of OpenAI’s ChatGPT, generative AI has exploded into one of the most heavily capitalized corners of tech, and the possibility of buying stock of OpenAI is drawing nearer.Unprecedented momentum has put a handful of private companies on a path toward the public markets. Investor</description>
+      <source url="https://investingnews.com/invest-in-openai-chatgpt/">Investing News Network (inn)</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -448,15 +457,6 @@
       <category>Training &amp; Certification</category>
       <description>How do you decide whether to buy a ready-made AI solution or build one from the ground up? The choice is more than just a technical decision; it&#39;s about aligning AI with your business goals. In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to examine</description>
       <source url="https://oracleuniversitypodcast.libsyn.com/buy-or-build-ai">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>The AI Workflow</title>
-      <link>https://oracle-university.com/stories/the-ai-workflow-2273cc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-ai-workflow-2273cc/</guid>
-      <pubDate>Tue, 02 Sep 2025 11:00:00 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>Join Lois Houston and Nikita Abraham as they chat with Yunus Mohammed, a Principal Instructor at Oracle University, about the key stages of AI model development. From gathering and preparing data to selecting, training, and deploying models, learn how each phase impacts AI&#39;s real-world effectiveness</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/the-ai-workflow">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
