@@ -6,106 +6,250 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 23:49:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 04:24:07 GMT</lastBuildDate>
     
     <item>
-      <title>Advanced Database Security</title>
-      <link>https://oracle-university.com/stories/advanced-database-security-e1f19e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/advanced-database-security-e1f19e/</guid>
-      <pubDate>Wed, 26 Aug 2026 11:24:11 GMT</pubDate>
-      <category>Security</category>
-      <description>eBook Details: Paperback: 524 pages Published: May 22, 2026 Language: English ISBN-10: 9378549470 ISBN-13: 978-9378549472 eBook Description: Advanced Database Security: Bridging theoretical concepts, techniques, and Oracle implementation. Master database protection with Dr. Hassan Afyouni. Learn thr</description>
-      <source url="https://www.wowebook.org/advanced-database-security/">Wow! E-book</source>
-    </item>
-    <item>
-      <title>What to Look for in an ERP-to-Ecommerce Integration Platform</title>
-      <link>https://oracle-university.com/stories/what-to-look-for-in-an-erp-to-ecommerce-integration-platform-79a413/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/what-to-look-for-in-an-erp-to-ecommerce-integration-platform-79a413/</guid>
-      <pubDate>Wed, 26 Aug 2026 11:07:47 GMT</pubDate>
-      <category>Security</category>
-      <description>Choosing an ERP-to-ecommerce integration platform requires more than checking connector availability. Businesses should evaluate data mapping, workflow control, monitoring, security, scalability, and long-term maintainability. ERP and ecommerce platforms sit at different points in the transaction li</description>
-      <source url="https://www.openpr.com/news/4613720/what-to-look-for-in-an-erp-to-ecommerce-integration-platform">Openpr.com</source>
-    </item>
-    <item>
-      <title>IREN’s Earnings Test Arrives With a $1 Billion Pension Fund Bet and a Pivotal AI Cloud Question</title>
-      <link>https://oracle-university.com/stories/iren-s-earnings-test-arrives-with-a-1-billion-pension-fund-bet-and-a-pivotal-ai-cloud-qu-076dc7/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/iren-s-earnings-test-arrives-with-a-1-billion-pension-fund-bet-and-a-pivotal-ai-cloud-qu-076dc7/</guid>
-      <pubDate>Wed, 26 Aug 2026 10:51:05 GMT</pubDate>
+      <title>Is PayPal (PYPL) a Turnaround Opportunity After the CEO Transition?</title>
+      <link>https://oracle-university.com/stories/is-paypal-pypl-a-turnaround-opportunity-after-the-ceo-transition-bfad78/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/is-paypal-pypl-a-turnaround-opportunity-after-the-ceo-transition-bfad78/</guid>
+      <pubDate>Thu, 27 Aug 2026 16:20:33 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>The options market is bracing for a 12.5 percent swing in IREN’s share price when the company reports fiscal fourth-quarter results after Thursday’s closing bell. That implied move — far wider than what most technology names are pricing this earnings season — captures the tension between a stock tha</description>
-      <source url="https://www.newscase.com/irens-earnings-test-arrives-with-a-1-billion-pension-fund-bet-and-a-pivotal-ai-cloud-question/">Newscase</source>
+      <description>Greenlight Capital is an investment management firm specializing in value-oriented strategies. The letter can be downloaded here. Greenlight Capital released its second-quarter 2026 investor letter, reporting a 4.3% decline for the Partnerships and a 1.9% year-to-date gain, net of fees and expenses,</description>
+      <source url="https://www.insidermonkey.com/blog/is-paypal-pypl-a-turnaround-opportunity-after-the-ceo-transition-1823459/">Insider Trading</source>
     </item>
     <item>
-      <title>Exploits and vulnerabilities in Q2 2026</title>
-      <link>https://oracle-university.com/stories/exploits-and-vulnerabilities-in-q2-2026-ff47af/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/exploits-and-vulnerabilities-in-q2-2026-ff47af/</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:04 GMT</pubDate>
-      <category>Security</category>
-      <description>This report covers statistics on vulnerabilities, exploits, and C2 frameworks in Q2 2026. For the first time ever, we aggregate data on vulnerabilities in open-source AI agents and AI frameworks.</description>
-      <source url="https://securelist.com/vulnerabilities-and-exploits-in-q2-2026/121091/">Securelist</source>
-    </item>
-    <item>
-      <title>It’s Time to Rein in Lethal AI Drones</title>
-      <link>https://oracle-university.com/stories/it-s-time-to-rein-in-lethal-ai-drones-188bf5/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/it-s-time-to-rein-in-lethal-ai-drones-188bf5/</guid>
-      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <title>S&amp;P, 하이퍼스케일러 AI 지출이 1조 3천억 달러를 넘어 현금 흐름이 마이너스라고 전망</title>
+      <link>https://oracle-university.com/stories/s-p-ai-1-3-fb5d1d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/s-p-ai-1-3-fb5d1d/</guid>
+      <pubDate>Thu, 27 Aug 2026 16:06:17 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Humans need to act, as AI agents scheme in the digital shadows. The post It’s Time to Rein in Lethal AI Drones appeared first on The Intercept .</description>
-      <source url="https://theintercept.com/2026/08/26/ai-drone-warfare-russia-ukraine-openai-anthropic/">The Intercept</source>
+      <description>세계 최대 하이퍼스케일러들의 총 자본 지출이 2027년까지 1조 3천억 달러를 초과할 것으로 예상되며, 여섯 기업 모두 2026년과 2027년에 자유 영업 현금 흐름이 마이너스로 전환되고 2029년 이전에는 회복이 예상되지 않는다고 S&amp;P Global Ratings가 2026년 8월 27일 발표한 AI 구축</description>
+      <source url="https://www.securities.io/ko/sp-sees-hyperscaler-ai-spending-topping-1-3-trillion-cash-flow-negative/">Securities Io</source>
     </item>
     <item>
-      <title>Patient-Controlled Data Is Reshaping the Personal Health Record Market</title>
-      <link>https://oracle-university.com/stories/patient-controlled-data-is-reshaping-the-personal-health-record-market-5ff0dd/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/patient-controlled-data-is-reshaping-the-personal-health-record-market-5ff0dd/</guid>
-      <pubDate>Wed, 26 Aug 2026 09:29:54 GMT</pubDate>
+      <title>Global Cognitive Computing and Artificial Intelligence Systems Market in Healthcare to Reach Significant Scale, Driven by Rising Chronic Disease Burden and Healthcare Digitalization</title>
+      <link>https://oracle-university.com/stories/global-cognitive-computing-and-artificial-intelligence-systems-market-in-healthcare-to-r-3bd8a4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/global-cognitive-computing-and-artificial-intelligence-systems-market-in-healthcare-to-r-3bd8a4/</guid>
+      <pubDate>Thu, 27 Aug 2026 16:05:00 GMT</pubDate>
       <category>Applications &amp; NetSuite</category>
-      <description>The global personal health record software market is entering a period of sustained expansion as patients increasingly expect convenient, secure, and real-time access to their medical information. The [read full press release...]</description>
-      <source url="https://express-press-release.net/news/2026/08/26/1769422">Express-press-release</source>
+      <description>“Cognitive computing is becoming core healthcare infrastructure as providers use AI to expand clinical capacity and improve decision-making.”</description>
+      <source url="https://www.globenewswire.com/news-release/2026/08/27/3352287/0/en/global-cognitive-computing-and-artificial-intelligence-systems-market-in-healthcare-to-reach-significant-scale-driven-by-rising-chronic-disease-burden-and-healthcare-digitalization.html">Globe Newswire</source>
     </item>
     <item>
-      <title>Basware Signs Agreement to Acquire Trustpair</title>
-      <link>https://oracle-university.com/stories/basware-signs-agreement-to-acquire-trustpair-d24055/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/basware-signs-agreement-to-acquire-trustpair-d24055/</guid>
-      <pubDate>Wed, 26 Aug 2026 08:10:04 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>As AI-driven fraud outpaces human defenses, Trustpair and Basware will deliver the industry’s first end-to-end assurance from invoice-to-payment PARIS, Aug. 26, 2026 /PRNewswire/ — Trustpair’s shareholders and Basware today announced that they have signed a binding agreement under which Basware is t</description>
-      <source url="https://bebeez.eu/2026/08/26/basware-signs-agreement-to-acquire-trustpair/">Bebeez</source>
+      <title>Top Blockchain Stocks Worth Watching – August 27th</title>
+      <link>https://oracle-university.com/stories/top-blockchain-stocks-worth-watching-august-27th-234715/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/top-blockchain-stocks-worth-watching-august-27th-234715/</guid>
+      <pubDate>Thu, 27 Aug 2026 16:04:09 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Nukkleus, and Globant are the five Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, use, or support blockchain technology,</description>
+      <source url="https://baseballnewssource.com/2026/08/27/top-blockchain-stocks-worth-watching-august-27th/11242668.html">Bbns</source>
     </item>
     <item>
-      <title>GPU-as-a-Service Market Till 2040: Distribution by Type of Component, Deployment Model, Business Model, Enterprise Size, Application, End User, Geographical Regions, and Key Players</title>
-      <link>https://oracle-university.com/stories/gpu-as-a-service-market-till-2040-distribution-by-type-of-component-deployment-model-bus-319d45/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/gpu-as-a-service-market-till-2040-distribution-by-type-of-component-deployment-model-bus-319d45/</guid>
-      <pubDate>Wed, 26 Aug 2026 08:07:00 GMT</pubDate>
+      <title>Why the departure of OpenAI’s data center chief is not a good look</title>
+      <link>https://oracle-university.com/stories/why-the-departure-of-openai-s-data-center-chief-is-not-a-good-look-a508a7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/why-the-departure-of-openai-s-data-center-chief-is-not-a-good-look-a508a7/</guid>
+      <pubDate>Thu, 27 Aug 2026 16:00:00 GMT</pubDate>
       <category>Oracle Cloud</category>
-      <description>Key opportunities include AI-ready data centers, liquid-cooled GPU clusters, hybrid and sovereign clouds, fractional GPU access, orchestration and optimization software, inference infrastructure, decentralized marketplaces, and services for SMEs and re... The post GPU-as-a-Service Market Till 2040: </description>
-      <source url="https://www.crypto-reporter.com/newsfeed/gpu-as-a-service-market-till-2040-distribution-by-type-of-component-deployment-model-business-model-enterprise-size-application-end-user-geographical-regions-and-key-players-130617/">Crypto Reporter</source>
+      <description>Welcome to AI Decoded , Fast Company ‘s weekly newsletter that breaks down the most important news in the world of AI. I’m Mark Sullivan, a senior writer at Fast Company , covering emerging tech, AI, and tech policy. Sign up to receive this newsletter every week via email here . And if you have comm</description>
+      <source url="https://www.fastcompany.com/91596512/why-the-departure-of-openais-data-center-chief-is-not-a-good-look?partner=rss">Fast Company</source>
     </item>
     <item>
-      <title>Oracle Corporation $ORCL Shares Acquired by Ancora Advisors LLC</title>
-      <link>https://oracle-university.com/stories/oracle-corporation-orcl-shares-acquired-by-ancora-advisors-llc-d41c79/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-shares-acquired-by-ancora-advisors-llc-d41c79/</guid>
-      <pubDate>Wed, 26 Aug 2026 07:47:01 GMT</pubDate>
+      <title>Can Primo Brands (PRMB) Turn Merger Challenges Into a Free Cash Flow Opportunity?</title>
+      <link>https://oracle-university.com/stories/can-primo-brands-prmb-turn-merger-challenges-into-a-free-cash-flow-opportunity-d1bd59/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/can-primo-brands-prmb-turn-merger-challenges-into-a-free-cash-flow-opportunity-d1bd59/</guid>
+      <pubDate>Thu, 27 Aug 2026 15:50:42 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Ancora Advisors LLC raised its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 62.0% during the second quarter, Holdings Channel.com reports. The firm owned 50,902 shares of the enterprise software provider’s stock after purchasing an additional 19,474 shares during the quarter. Ancora Advi</description>
-      <source url="https://www.americanbankingnews.com/2026/08/26/oracle-corporation-orcl-shares-acquired-by-ancora-advisors-llc.html">Americanbankingnews</source>
+      <description>Greenlight Capital is an investment management firm specializing in value-oriented strategies. The letter can be downloaded here. Greenlight Capital released its second-quarter 2026 investor letter, reporting a 4.3% decline for the Partnerships and a 1.9% year-to-date gain, net of fees and expenses,</description>
+      <source url="https://www.insidermonkey.com/blog/can-primo-brands-prmb-turn-merger-challenges-into-a-free-cash-flow-opportunity-1823455/">Insider Trading</source>
     </item>
     <item>
-      <title>Blockchain Food Traceability Market to Hit US$15.7 Billion by 2033, Growing at 42.7% CAGR</title>
-      <link>https://oracle-university.com/stories/blockchain-food-traceability-market-to-hit-us-15-7-billion-by-2033-growing-at-42-7-cagr-ac301a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/blockchain-food-traceability-market-to-hit-us-15-7-billion-by-2033-growing-at-42-7-cagr-ac301a/</guid>
-      <pubDate>Wed, 26 Aug 2026 07:06:48 GMT</pubDate>
+      <title>Wall Street goes wild as world&#39;s biggest company Nvidia smashes ANOTHER record with staggering $96 billion quarter</title>
+      <link>https://oracle-university.com/stories/wall-street-goes-wild-as-world-s-biggest-company-nvidia-smashes-another-record-with-stag-8869f8/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/wall-street-goes-wild-as-world-s-biggest-company-nvidia-smashes-another-record-with-stag-8869f8/</guid>
+      <pubDate>Thu, 27 Aug 2026 15:49:23 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Nvidia is the world&#39;s most valuable company, and the stunning results in its latest quarterly report show that the orgy of spending on AI is only getting bigger.</description>
+      <source url="https://www.dailymail.com/yourmoney/article-16083857/nvidia-earnings-ai-spending-boom.html">Mail Online</source>
+    </item>
+    <item>
+      <title>IREN stock jumps ahead of earnings as neoclouds cheer Nvidia&#39;s results</title>
+      <link>https://oracle-university.com/stories/iren-stock-jumps-ahead-of-earnings-as-neoclouds-cheer-nvidia-s-results-5ddbed/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/iren-stock-jumps-ahead-of-earnings-as-neoclouds-cheer-nvidia-s-results-5ddbed/</guid>
+      <pubDate>Thu, 27 Aug 2026 15:30:00 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>IREN stock jumped over 4%, mirroring gains at other neocloud companies like CoreWeave and Nebius following strong Nvidia earnings and guidance. Shares climbed to $43.25, but this rally will be put to the test when the company publishes its own earnings later today. IREN’s revenue to drop on Bitcoin </description>
+      <source url="https://invezz.com/news/2026/08/27/iren-stock-jumps-ahead-of-earnings-as-neoclouds-cheer-nvidias-results/">Invezz</source>
+    </item>
+    <item>
+      <title>Reports: Anthropic signs $45bn cloud computing deal with Nscale</title>
+      <link>https://oracle-university.com/stories/reports-anthropic-signs-45bn-cloud-computing-deal-with-nscale-6fb8de/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/reports-anthropic-signs-45bn-cloud-computing-deal-with-nscale-6fb8de/</guid>
+      <pubDate>Thu, 27 Aug 2026 15:28:26 GMT</pubDate>
+      <category>Java &amp; MySQL</category>
+      <description>The AI developer has cut a six-year deal for 460MW of capacity at Monarch Compute Campus</description>
+      <source url="https://www.itpro.com/infrastructure/reports-anthropic-signs-usd45bn-cloud-computing-deal-with-nscale">Itpro</source>
+    </item>
+    <item>
+      <title>Nvidia Stock Blowout Earnings Reveal A $279 Billion Bet On AI</title>
+      <link>https://oracle-university.com/stories/nvidia-stock-blowout-earnings-reveal-a-279-billion-bet-on-ai-27723b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/nvidia-stock-blowout-earnings-reveal-a-279-billion-bet-on-ai-27723b/</guid>
+      <pubDate>Thu, 27 Aug 2026 15:27:26 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Nvidia’s $279B supply commitments show how far the company is betting on long‐term AI demand as revenue surges and data center growth accelerates.</description>
+      <source url="https://www.forbes.com/sites/jimosman/2026/08/27/nvidia-stock-blowout-earnings-reveal-a-279-billion-bet-on-ai/">Forbes</source>
+    </item>
+    <item>
+      <title>S&amp;P Sees Hyperscaler AI Spending Topping $1.3 Trillion, Cash Flow Negative</title>
+      <link>https://oracle-university.com/stories/s-p-sees-hyperscaler-ai-spending-topping-1-3-trillion-cash-flow-negative-dcd8d4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/s-p-sees-hyperscaler-ai-spending-topping-1-3-trillion-cash-flow-negative-dcd8d4/</guid>
+      <pubDate>Thu, 27 Aug 2026 15:24:53 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>The global blockchain food traceability market size is likely to be valued at US$ 1.3 billion in 2026 and is projected to reach US$ 15.7 billion by 2033, growing at a CAGR of 42.7% during the forecast period 2026-2033. The</description>
-      <source url="https://www.openpr.com/news/4613636/blockchain-food-traceability-market-to-hit-us-15-7-billion">Openpr.com</source>
+      <description>Combined capital expenditure at the world’s largest hyperscalers is projected to exceed $1.3 trillion by 2027, and all six will run negative free operating cash flow through 2026 and 2027 with no recovery projected before 2029, S&amp;P Global Ratings said August 27, 2026, in new research on how the AI b</description>
+      <source url="https://www.securities.io/sp-sees-hyperscaler-ai-spending-topping-1-3-trillion-cash-flow-negative/">Securities Io</source>
     </item>
     <item>
-      <title>How to Invest in OpenAI&#39;s ChatGPT</title>
-      <link>https://oracle-university.com/stories/how-to-invest-in-openai-s-chatgpt-584cc1/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/how-to-invest-in-openai-s-chatgpt-584cc1/</guid>
-      <pubDate>Wed, 26 Aug 2026 01:11:05 GMT</pubDate>
+      <title>Why is AMD stock falling while Intel stock rises after Nvidia&#39;s earnings?</title>
+      <link>https://oracle-university.com/stories/why-is-amd-stock-falling-while-intel-stock-rises-after-nvidia-s-earnings-25be74/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/why-is-amd-stock-falling-while-intel-stock-rises-after-nvidia-s-earnings-25be74/</guid>
+      <pubDate>Thu, 27 Aug 2026 15:18:15 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Since the 2022 release of OpenAI’s ChatGPT, generative AI has exploded into one of the most heavily capitalized corners of tech, and the possibility of buying stock of OpenAI is drawing nearer.Unprecedented momentum has put a handful of private companies on a path toward the public markets. Investor</description>
-      <source url="https://investingnews.com/invest-in-openai-chatgpt/">Investing News Network (inn)</source>
+      <description>Nvidia&#39;s blowout earnings gave semiconductor stocks a lift on Thursday, after the world&#39;s leading AI chipmaker projected 70% revenue growth for fiscal 2028 and signaled that demand for artificial intelligence infrastructure remains well above current supply. The Philadelphia Semiconductor Index rose</description>
+      <source url="https://invezz.com/news/2026/08/27/why-is-amd-stock-falling-while-intel-stock-rises-after-nvidias-earnings/">Invezz</source>
+    </item>
+    <item>
+      <title>Prediction: Oracle is Ready to Explore. Here’s Our Price Target.</title>
+      <link>https://oracle-university.com/stories/prediction-oracle-is-ready-to-explore-here-s-our-price-target-b7c12f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/prediction-oracle-is-ready-to-explore-here-s-our-price-target-b7c12f/</guid>
+      <pubDate>Thu, 27 Aug 2026 15:00:07 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Oracle cratered nearly 40% over the past year while quietly assembling a backlog that dwarfs its annual revenue, and now a single earnings date separates the stock from a potential breakout or a painful setback.</description>
+      <source url="https://247wallst.com/investing/2026/08/27/prediction-oracle-is-ready-to-explore-heres-our-price-target/">24/7 Wall St</source>
+    </item>
+    <item>
+      <title>Oracle Named a Leader in the 2026 Gartner® Magic QuadrantTM for Supply Chain Management Suites</title>
+      <link>https://oracle-university.com/stories/oracle-named-a-leader-in-the-2026-gartner-magic-quadranttm-for-supply-chain-management-s-774cdf/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-named-a-leader-in-the-2026-gartner-magic-quadranttm-for-supply-chain-management-s-774cdf/</guid>
+      <pubDate>Thu, 27 Aug 2026 15:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Fusion Agentic Applications for Oracle Fusion Cloud SCM help organizations redefine how supply chains work AUSTIN, Texas, Aug. 27, 2026 /PRNewswire/ -- Oracle has been named a Leader in the 2026 Gartner® Magic QuadrantTM for Supply Chain Management Suites for Oracle Fusion Cloud Supply...</description>
+      <source url="https://www.prnewswire.com/news-releases/oracle-named-a-leader-in-the-2026-gartner-magic-quadrant-for-supply-chain-management-suites-302861327.html">Pr Newswire</source>
+    </item>
+    <item>
+      <title>Oracle stock has bottomed? Here&#39;s what the chart says ahead of earnings</title>
+      <link>https://oracle-university.com/stories/oracle-stock-has-bottomed-here-s-what-the-chart-says-ahead-of-earnings-ad270f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-stock-has-bottomed-here-s-what-the-chart-says-ahead-of-earnings-ad270f/</guid>
+      <pubDate>Thu, 27 Aug 2026 14:56:00 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Oracle stock rose by nearly 2% on Thursday as Nvidia boosted the momentum in artificial intelligence (AI) companies. ORCL rose to $149, up modestly from this month’s low of $114. This rally will now be put to the test when the company publishes its earnings earlier next month. Analysts are turning b</description>
+      <source url="https://invezz.com/news/2026/08/27/oracle-stock-has-bottomed-heres-what-the-chart-says-ahead-of-earnings/">Invezz</source>
+    </item>
+    <item>
+      <title>Why Nvidia stock is soaring over 7% today and how high it can go</title>
+      <link>https://oracle-university.com/stories/why-nvidia-stock-is-soaring-over-7-today-and-how-high-it-can-go-2872ea/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/why-nvidia-stock-is-soaring-over-7-today-and-how-high-it-can-go-2872ea/</guid>
+      <pubDate>Thu, 27 Aug 2026 14:53:17 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Nvidia (NVDA) shares soared over 7% on Thursday after the chipmaker&#39;s longer-term revenue outlook reassured investors that demand for artificial intelligence infrastructure remains strong despite concerns over spending, financing and competition. The rally could also help Nvidia break a recent patte</description>
+      <source url="https://invezz.com/news/2026/08/27/why-nvidia-stock-is-soaring-over-7-today-and-how-high-it-can-go/">Invezz</source>
+    </item>
+    <item>
+      <title>Stocks Rally as Nvidia Earnings Boost AI Optimism</title>
+      <link>https://oracle-university.com/stories/stocks-rally-as-nvidia-earnings-boost-ai-optimism-95cc78/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/stocks-rally-as-nvidia-earnings-boost-ai-optimism-95cc78/</guid>
+      <pubDate>Thu, 27 Aug 2026 14:00:31 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>The S&amp;P 500 Index ($SPX ) (SPY ) is up by +0.39% today, the Dow Jones Industrial Average ($DOWI ) (DIA ) is up by +0.08%, and the Nasdaq 100 Index ($IUXX ) (QQQ ) is up by +0.84%. E-mini S&amp;P futures (ESU26 ) are up +0.30%, and September E-mi...</description>
+      <source url="https://www.barchart.com/story/news/4213267/stocks-rally-as-nvidia-earnings-boost-ai-optimism">Barchart.com</source>
+    </item>
+    <item>
+      <title>AWS Adds 2 Million More NVIDIA GPUs: Prior 1 Million Commitment Ran Out Early</title>
+      <link>https://oracle-university.com/stories/aws-adds-2-million-more-nvidia-gpus-prior-1-million-commitment-ran-out-early-1d234c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/aws-adds-2-million-more-nvidia-gpus-prior-1-million-commitment-ran-out-early-1d234c/</guid>
+      <pubDate>Thu, 27 Aug 2026 13:27:25 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>AWS NVIDIA GPU deal reaches 3 million units after demand outpaced the prior 1 million GPU commitment in under five months. AWS Trainium4 will share NVIDIA NVLink Fusion and custom NVHBM memory, merging both silicon types into one rack-scale architecture. NVIDIA Q2 fiscal 2027 revenue hit $96.2 billi</description>
+      <source url="https://www.techtimes.com/articles/325711/20260827/aws-adds-2-million-more-nvidia-gpus-prior-1-million-commitment-ran-out-early.htm">Techtimes</source>
+    </item>
+    <item>
+      <title>Nvidia Stock Soars After Making $96B in Just 3 Months: CFO Says It Could Have Made Twice as Much</title>
+      <link>https://oracle-university.com/stories/nvidia-stock-soars-after-making-96b-in-just-3-months-cfo-says-it-could-have-made-twice-a-98923d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/nvidia-stock-soars-after-making-96b-in-just-3-months-cfo-says-it-could-have-made-twice-a-98923d/</guid>
+      <pubDate>Thu, 27 Aug 2026 13:08:50 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Nvidia&#39;s Q2 revenue surged due to a 117% growth in data centre revenue, but CFO Colette Kress indicated that sales remain pressured by supply constraints.</description>
+      <source url="https://www.ibtimes.co.uk/nvidia-revenue-soars-ai-infrastructure-expansion-1816662">International Business Times</source>
+    </item>
+    <item>
+      <title>Old Code, New Judges: How Enterprises Grade AI Agents With Decades-Old Software</title>
+      <link>https://oracle-university.com/stories/old-code-new-judges-how-enterprises-grade-ai-agents-with-decades-old-software-6dccdb/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/old-code-new-judges-how-enterprises-grade-ai-agents-with-decades-old-software-6dccdb/</guid>
+      <pubDate>Thu, 27 Aug 2026 13:02:17 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Enterprises now grade powerful AI agents using decades-old rule engines, test harnesses and orchestration tools. Scale AI, Morgan Stanley, Salesforce and legacy vendors like Broadcom show why deterministic software provides the reliability probabilistic models lack. Adoption has tripled, yet only ma</description>
+      <source url="https://www.webpronews.com/old-code-new-judges-how-enterprises-grade-ai-agents-with-decades-old-software/">Webpronews</source>
+    </item>
+    <item>
+      <title>Oracle CEO Sicilia Says AI Is Reshaping Cloud Growth, Pricing and Enterprise Demand</title>
+      <link>https://oracle-university.com/stories/oracle-ceo-sicilia-says-ai-is-reshaping-cloud-growth-pricing-and-enterprise-demand-fed715/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-ceo-sicilia-says-ai-is-reshaping-cloud-growth-pricing-and-enterprise-demand-fed715/</guid>
+      <pubDate>Thu, 27 Aug 2026 12:43:08 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Oracle (NYSE:ORCL) Chief Executive Officer Mike Sicilia said artificial intelligence is reshaping customer conversations, software development and the company’s approach to selling cloud applications, database technology and infrastructure. Speaking at the Deutsche Bank Technology Conference, Sicili</description>
+      <source url="https://www.tickerreport.com/banking-finance/13561486/oracle-ceo-sicilia-says-ai-is-reshaping-cloud-growth-pricing-and-enterprise-demand.html">Ticker Report</source>
+    </item>
+    <item>
+      <title>Smart Factory Market to Reach US$438.16 Billion by 2033, Driven by Rising Adoption of Industrial Automation and IoT</title>
+      <link>https://oracle-university.com/stories/smart-factory-market-to-reach-us-438-16-billion-by-2033-driven-by-rising-adoption-of-ind-92c2ea/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/smart-factory-market-to-reach-us-438-16-billion-by-2033-driven-by-rising-adoption-of-ind-92c2ea/</guid>
+      <pubDate>Thu, 27 Aug 2026 11:57:06 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The global smart factory market reached USD 206.18 billion in 2025 and is expected to reach USD 438.16 billion by 2033, growing at a CAGR of 10.6% during the forecast period 2026-2033. The market is gaining momentum as manufacturers increasingly</description>
+      <source url="https://www.openpr.com/news/4615201/smart-factory-market-to-reach-us-438-16-billion-by-2033-driven">Openpr.com</source>
+    </item>
+    <item>
+      <title>Punch &amp; Associates Investment Management Inc. Invests $8.76 Million in Oracle Corporation $ORCL</title>
+      <link>https://oracle-university.com/stories/punch-associates-investment-management-inc-invests-8-76-million-in-oracle-corporation-or-864c09/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/punch-associates-investment-management-inc-invests-8-76-million-in-oracle-corporation-or-864c09/</guid>
+      <pubDate>Thu, 27 Aug 2026 11:23:18 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Punch &amp; Associates Investment Management Inc. purchased a new position in Oracle Corporation (NYSE:ORCL – Free Report) during the 2nd quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The firm purchased 59,742 shares of the enterprise software p</description>
+      <source url="https://baseballnewssource.com/2026/08/27/punch-associates-investment-management-inc-invests-8-76-million-in-oracle-corporation-orcl/11242270.html">Bbns</source>
+    </item>
+    <item>
+      <title>Punch &amp; Associates Investment Management Inc. Makes New $8.76 Million Investment in Oracle Corporation $ORCL</title>
+      <link>https://oracle-university.com/stories/punch-associates-investment-management-inc-makes-new-8-76-million-investment-in-oracle-c-d13935/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/punch-associates-investment-management-inc-makes-new-8-76-million-investment-in-oracle-c-d13935/</guid>
+      <pubDate>Thu, 27 Aug 2026 11:23:10 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Punch &amp; Associates Investment Management Inc. bought a new position in Oracle Corporation (NYSE:ORCL – Free Report) in the 2nd quarter, according to the company in its most recent filing with the Securities and Exchange Commission. The firm bought 59,742 shares of the enterprise software provider’s </description>
+      <source url="https://www.thelincolnianonline.com/2026/08/27/punch-associates-investment-management-inc-makes-new-8-76-million-investment-in-oracle-corporation-orcl.html">The Lincolnian Online</source>
+    </item>
+    <item>
+      <title>&quot;Operator Overloading with Type Classes&quot; [AtA]</title>
+      <link>https://oracle-university.com/stories/operator-overloading-with-type-classes-ata-79dd84/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/operator-overloading-with-type-classes-ata-79dd84/</guid>
+      <pubDate>Thu, 27 Aug 2026 06:40:00 GMT</pubDate>
+      <category>Java &amp; MySQL</category>
+      <description>OpenJDK&#39;s Project Valhalla is improving Java&#39;s support for custom numerical types. That goes beyond value types and also encompasses explorations into operator support. While Java is extremely unlikely to ever allow arbitrary operator definitions, it may well support limited operator overloading, so</description>
+      <source url="https://inside.java/podcast">Inside Java</source>
+    </item>
+    <item>
+      <title>Manufacturing Analytics Market Projected to Surpass USD 68.8 Billion at 22.0% CAGR by 2035</title>
+      <link>https://oracle-university.com/stories/manufacturing-analytics-market-projected-to-surpass-usd-68-8-billion-at-22-0-cagr-by-203-afe240/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/manufacturing-analytics-market-projected-to-surpass-usd-68-8-billion-at-22-0-cagr-by-203-afe240/</guid>
+      <pubDate>Thu, 27 Aug 2026 06:15:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>India Morning Times is an online news publication focusing on the India: Your daily news update on India</description>
+      <source url="https://indiamorningtimes.com/article/936882211-manufacturing-analytics-market-projected-to-surpass-usd-68-8-billion-at-22-0-cagr-by-2035">Indiamorningtimes</source>
+    </item>
+    <item>
+      <title>Rippling expands Singapore office as AI boom pushes companies to hire globally</title>
+      <link>https://oracle-university.com/stories/rippling-expands-singapore-office-as-ai-boom-pushes-companies-to-hire-globally-28766d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/rippling-expands-singapore-office-as-ai-boom-pushes-companies-to-hire-globally-28766d/</guid>
+      <pubDate>Thu, 27 Aug 2026 05:30:24 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Singapore’s artificial intelligence boom is beginning to show up in an unexpected place: the back office. Rippling, the US$16.8-billion workforce management platform, is expanding its Singapore operations and moving into a new office at OCBC Centre East, as it nearly triples its local office-based w</description>
+      <source url="https://e27.co/rippling-expands-singapore-office-as-ai-boom-pushes-companies-to-hire-globally-20260827/">E27</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -313,150 +457,6 @@
       <category>Security</category>
       <description>In this episode, we&#39;ll talk about Security and Control with Exadata We&#39;ll explore how organizations can benefit from cloud innovation while keeping full control over their data — a critical challenge in today&#39;s digital world. ---------------------------------------------------- Episode Transcript: 0</description>
       <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/bringing-the-cloud-to-you-security-and-control-with-exadata">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Best of 2025: Oracle Fusion Cloud Applications Foundations Training &amp; Certifications</title>
-      <link>https://oracle-university.com/stories/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications-6881a0/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications-6881a0/</guid>
-      <pubDate>Tue, 16 Dec 2025 12:00:00 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham dive into Oracle Fusion Cloud Applications and the new courses and certifications on offer. They are joined by Oracle Fusion Apps experts Patrick McBride and Bill Lawson who introduce the concept of Oracle Modern</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Best of 2025: Introduction to MySQL</title>
-      <link>https://oracle-university.com/stories/best-of-2025-introduction-to-mysql-2273ef/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-introduction-to-mysql-2273ef/</guid>
-      <pubDate>Tue, 02 Dec 2025 05:00:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Join hosts Lois Houston and Nikita Abraham as they explore the world of MySQL 8.4. Together with Perside Foster, a MySQL Principal Solution Engineer, they break down the fundamentals of MySQL, its wide range of applications, and why it&#39;s so popular among developers and database administrators. This </description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-introduction-to-mysql">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>The Transformative Power of Low Code Development</title>
-      <link>https://oracle-university.com/stories/the-transformative-power-of-low-code-development-d12adc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-transformative-power-of-low-code-development-d12adc/</guid>
-      <pubDate>Tue, 25 Nov 2025 13:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>In this Episode Orlaith Lawton speaks with Oracle ACE Roberto Capancioni about the importance of APEX and why it is the world&#39;s most popular low-code application platform. ------------------------------------------------------ Episode Transcript: 00:00:00:00 - 00:00:35:14 Unknown Welcome to the Orac</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-transformative-power-of-low-code-development">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Understanding Security Risks and Threats in the Cloud - Part 1</title>
-      <link>https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</guid>
-      <pubDate>Tue, 18 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>This week, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to explore what truly keeps data safe, and what puts it at risk. They discuss the CIA triad, dive into hashing and encryption, and shed light on how cyber threats like malware, phishing, and ransomware t</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/understanding-security-risks-and-threats-in-the-cloud-part-1">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Networking &amp; Security Essentials</title>
-      <link>https://oracle-university.com/stories/networking-security-essentials-113af4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/networking-security-essentials-113af4/</guid>
-      <pubDate>Tue, 11 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>How do all your devices connect and stay safe in the cloud? In this episode, Lois Houston and Nikita Abraham talk with OCI instructors Sergio Castro and Orlando Gentil about the basics of how networks work and the simple steps that help protect them. You&#39;ll learn how information gets from one place </description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/networking-security-essentials">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Inside Cloud Networking</title>
-      <link>https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</guid>
-      <pubDate>Tue, 04 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>In this episode, hosts Lois Houston and Nikita Abraham team up with Senior Principal OCI Instructor Sergio Castro to unpack the basics of cloud networking and the Domain Name System (DNS). You&#39;ll learn how local and virtual networks connect devices, and how DNS seamlessly translates familiar names l</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/inside-cloud-networking">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 4</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</guid>
-      <pubDate>Tue, 28 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>In this episode, hosts Lois Houston and Nikita Abraham, along with Principal OCI Instructor Orlando Gentil, break down the differences between Infrastructure-as-a-Service, Platform-as-a-Service, and Software-as-a-Service. The conversation explores how each framework influences control, cost efficien</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-4">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 3</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</guid>
-      <pubDate>Tue, 21 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Have you ever considered how a single server can support countless applications and workloads at once? In this episode, hosts Lois Houston and Nikita Abraham, together with Principal OCI Instructor Orlando Gentil, explore the sophisticated technologies that make this possible in modern cloud data ce</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-3">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>AI and Security</title>
-      <link>https://oracle-university.com/stories/ai-and-security-7b0e26/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-and-security-7b0e26/</guid>
-      <pubDate>Tue, 14 Oct 2025 15:58:49 GMT</pubDate>
-      <category>Security</category>
-      <description>In this episode host Oracle Academy Program Manager Benelux &amp; DACH Rik Bleeker speaks with Oracle expert Thomas Minne on the crucial intersection of Artificial Intelligence and data security, explaining why the Oracle Database is foundational to both. Drawing on his 15 years as a DBA and current rol</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-and-security">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 2</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-2-9a562f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-2-9a562f/</guid>
-      <pubDate>Tue, 14 Oct 2025 06:44:39 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Have you ever wondered where all your digital memories, work projects, or favorite photos actually live in the cloud? In this episode, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to discuss cloud storage. They explore how data is carefully organized, the dif</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-2">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>AI for Data: When Data meets Intelligence</title>
-      <link>https://oracle-university.com/stories/ai-for-data-when-data-meets-intelligence-f7601f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-for-data-when-data-meets-intelligence-f7601f/</guid>
-      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In this two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle AI Vector an</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-for-data-when-data-meet-intelligence">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Part II of AI for Data: When Data meets Intelligence</title>
-      <link>https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</guid>
-      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In the second of a two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle A</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-of-data-for-ai-when-data-meets-intelligence">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 1</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</guid>
-      <pubDate>Tue, 07 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Curious about what really goes on inside a cloud data center? In this episode, Lois Houston and Nikita Abraham chat with Principal OCI Instructor Orlando Gentil about how cloud data centers are transforming the way organizations manage technology. They explore the differences between traditional and</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-1">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Oracle AI for Fusion Apps</title>
-      <link>https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</guid>
-      <pubDate>Tue, 23 Sep 2025 11:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Want to make AI work for your business? In today&#39;s episode, Lois Houston and Nikita Abraham continue their discussion of AI in Oracle Fusion Applications by focusing on three key AI capabilities: predictive, generative, and agentic. Joining them is Principal Instructor Yunus Mohammed, who explains h</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-ai-for-fusion-apps">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Oracle&#39;s AI Ecosystem</title>
-      <link>https://oracle-university.com/stories/oracle-s-ai-ecosystem-1d77a2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-s-ai-ecosystem-1d77a2/</guid>
-      <pubDate>Tue, 16 Sep 2025 11:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to explore Oracle&#39;s approach to enterprise AI. The conversation covers the essential components of the Oracle AI stack and how each part, from the foundational infrastructure to business-specific appli</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/oracles-ai-ecosystem">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Buy or Build AI?</title>
-      <link>https://oracle-university.com/stories/buy-or-build-ai-6e5a7d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/buy-or-build-ai-6e5a7d/</guid>
-      <pubDate>Tue, 09 Sep 2025 11:14:43 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>How do you decide whether to buy a ready-made AI solution or build one from the ground up? The choice is more than just a technical decision; it&#39;s about aligning AI with your business goals. In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to examine</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/buy-or-build-ai">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
