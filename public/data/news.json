@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T22:50:43.551Z",
+  "generatedAt": "2026-08-31T23:56:59.824Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,126 +7,141 @@
   },
   "items": [
     {
-      "id": "9d4addb613929a9b",
-      "slug": "chipmakers-displace-big-tech-as-ai-era-winners-nvidia-quarter-confirms-shift-e7b1fa",
-      "title": "Chipmakers Displace Big Tech as AI Era Winners: NVIDIA Quarter Confirms Shift",
-      "dek": "NVIDIA earnings 2026 confirm a structural shift: semiconductor stocks are dramatically outperforming Big Tech as AI spending flows to hardware makers. Micron is up 220%, Marvell up 185%, while the Magnificent Seven ETF gains just 4%. NVIDIA's record $96.2 billion quarter and Vera CPU delivery to AWS",
-      "url": "https://www.techtimes.com/articles/325971/20260830/chipmakers-displace-big-tech-ai-era-winners-nvidia-quarter-confirms-shift.htm",
-      "source": "Techtimes",
+      "id": "f605bac71c9b427e",
+      "slug": "oracle-layoffs-company-leadership-may-again-send-the-6-am-email-on-september-1-that-told-67c2ab",
+      "title": "Oracle layoffs: Company leadership may again send the '6 am' email on September 1 that told employees, \"We have made the decision to...",
+      "dek": "Oracle employees expect layoff emails on September 1, the day its fiscal second quarter begins, with managers asked to submit lists of affected employees and some teams facing double-digit cuts. Staff fear a repeat of March 31, when a 6 am email from \"Oracle Leadership\" told 10,000 workers their rol",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-company-leadership-may-again-send-the-6-am-email-on-september-1-that-told-employees-we-have-made-the-decision-to/articleshow/133651829.cms",
+      "source": "The Times Of India",
       "sourceType": "external",
-      "image": "https://d.techtimes.com/en/full/473459/nvidia-earnings-pce-land-same-day-september-rate-decision-starts-wednesday.jpg",
-      "publishedAt": "2026-08-30T10:16:17.000Z",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-133652291/133652291.jpg",
+      "publishedAt": "2026-08-31T11:55:32.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "computers"
+        "oracle rsu vesting",
+        "oracle ai layoffs",
+        "oracle leadership email",
+        "oracle restructuring",
+        "oracle job cuts",
+        "oracle 6am layoff email"
       ],
       "priority": 43
     },
     {
-      "id": "26eb1f851f9f62cd",
-      "slug": "flputnam-investment-management-co-has-8-60-million-stock-position-in-oracle-corporation--c602a2",
-      "title": "Flputnam Investment Management Co. Has $8.60 Million Stock Position in Oracle Corporation $ORCL",
-      "dek": "Flputnam Investment Management Co. raised its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 74.8% during the 2nd quarter, according to the company in its most recent 13F filing with the Securities & Exchange Commission. The firm owned 58,708 shares of the enterprise software provider’s st",
-      "url": "https://www.themarketsdaily.com/2026/08/30/flputnam-investment-management-co-has-8-60-million-stock-position-in-oracle-corporation-orcl.html",
-      "source": "Markets Daily",
+      "id": "95f6a5ce0ad2209b",
+      "slug": "pair-launches-the-first-multipool-rwa-launchpad-on-robinhood-chain-pairing-new-tokens-wi-401606",
+      "title": "PAIR Launches the First Multipool RWA Launchpad on Robinhood Chain, Pairing New Tokens With Baskets of Tokenized Stocks, Partners With AWS to Scale Its Infrastructure",
+      "dek": "PAIR (pair.fund) lets anyone deploy a fixed-supply token that trades against one to five canonical Robinhood Stock Tokens such as NVDA, TSLA, AAPL and SPY in a single transaction, with permanently locked Uniswap v4 liquidity and no bonding curve or migration. The platform has passed $26 million in a",
+      "url": "https://www.manilatimes.net/2026/08/31/tmt-newswire/globenewswire/pair-launches-the-first-multipool-rwa-launchpad-on-robinhood-chain-pairing-new-tokens-with-baskets-of-tokenized-stocks-partners-with-aws-to-scale-its-infrastructure/2415048",
+      "source": "The Manila Times",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-08-30T09:34:54.000Z",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/08/31/1196264.png",
+      "publishedAt": "2026-08-31T11:41:50.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "sec filing articles",
-        "stocks"
+        "tmt newswire"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "eb704230b5d28adf",
+      "slug": "global-markets-and-technologies-for-electronic-health-records-to-reach-52-2-billion-by-2-82ce33",
+      "title": "Global Markets and Technologies for Electronic Health Records to Reach $52.2 Billion by 2030, Driven by Rising Chronic Disease Burden and Digital Health Adoption",
+      "dek": "India Morning Times is an online news publication focusing on the India: Your daily news update on India",
+      "url": "https://indiamorningtimes.com/article/938422689-global-markets-and-technologies-for-electronic-health-records-to-reach-52-2-billion-by-2030-driven-by-rising-chronic-disease-burden-and-digital",
+      "source": "Indiamorningtimes",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-08-31T10:33:04.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [],
+      "priority": 42
+    },
+    {
+      "id": "a50d33e1966db82e",
+      "slug": "oracle-layoffs-september-1-will-employees-wake-up-to-another-6-a-m-email-tomorrow-after--d35b58",
+      "title": "Oracle layoffs September 1: Will employees wake up to another ‘6 a.m. email’ tomorrow after 21,000 jobs were cut as AI spending soars?",
+      "dek": "Oracle layoffs 2026: Employees are reportedly bracing for another round of job cuts after Oracle eliminated around 21,000 positions earlier this year in March. With managers allegedly asked to identify roles for possible cuts, workers fear another wave of the companys infamous “6 a.m. email” could a",
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/oracle-layoffs-september-1-will-employees-wake-up-to-another-6-a-m-email-after-21000-jobs-were-cut-as-ai-spending-soars/articleshow/133649612.cms",
+      "source": "The Economic Times",
+      "sourceType": "external",
+      "image": "https://img.etimg.com/thumb/msid-133649800,resizemode-4,width-1200,height-900,imgsize-92808,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-08-31T10:31:25.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "oracle 6 am layoff email",
+        "oracle layoffs september 1",
+        "oracle restructuring",
+        "oracle layoffs 2026",
+        "oracle layoffs tomorrow",
+        "oracle job cuts"
       ],
       "priority": 42
     },
     {
-      "id": "2f5111d915f96c2c",
-      "slug": "intrusion-shareholders-back-vigilaigent-deal-clearing-path-for-expanded-stock-issuance-205683",
-      "title": "Intrusion Shareholders Back VigilAigent Deal, Clearing Path for Expanded Stock Issuance",
-      "dek": "Intrusion (NASDAQ:INTZ) shareholders approved all four proposals presented at the company’s 2026 annual meeting, including authorization for potential common-stock issuance above Nasdaq’s 19.9% threshold in connection with its acquisition of VigilAigent. The virtual meeting was held Aug. 27, 2026, w",
-      "url": "https://www.defenseworld.net/2026/08/30/intrusion-shareholders-back-vigilaigent-deal-clearing-path-for-expanded-stock-issuance.html",
-      "source": "Defenseworld Net",
+      "id": "9e4522ec0b6867e4",
+      "slug": "the-midterms-unlikely-villain-data-centers-6b45eb",
+      "title": "The midterms’ unlikely villain: Data centers",
+      "dek": "Across the country and the political spectrum, candidates are embracing a growing backlash to artificial intelligence and the infrastructure required to power it.",
+      "url": "https://us.headtopics.com/news/the-midterms-unlikely-villain-data-centers-87221797",
+      "source": "Headtopics",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/intrusion-inc-logo-1200x675.png?v=20230104142725",
-      "publishedAt": "2026-08-30T05:03:43.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://i.headtopics.com/images/2026/8/31/cnn/the-midterms-unlikely-villain-data-centers-the-midterms-unlikely-villain-data-centers-A100C61AD9EC2770F93C40C8AF21B2AE-16x9.webp",
+      "publishedAt": "2026-08-31T09:36:42.000Z",
+      "topic": "Oracle Cloud",
       "tags": [
-        "companies",
-        "partner feed articles"
+        "united states news"
       ],
-      "priority": 39
+      "priority": 41
     },
     {
-      "id": "20808a9686cfe360",
-      "slug": "in-a-divided-us-the-left-and-right-unite-to-oppose-ai-data-centres-7c9963",
-      "title": "In a divided US, the left and right unite to oppose AI data centres",
-      "dek": "The debate around data centre projects is one of the rare modern issues to cut across party lines, demographics and geography.",
-      "url": "https://www.1news.co.nz/2026/08/30/in-a-divided-us-the-left-and-right-unite-to-oppose-ai-data-centres/",
-      "source": "1news",
+      "id": "f7f2927ef6371d34",
+      "slug": "global-working-capital-management-market-to-reach-usd-2-64-billion-by-2032-growing-at-8--a8beab",
+      "title": "Global Working Capital Management Market to Reach USD 2.64 Billion by 2032, Growing at 8.54% CAGR, Reports PW Consulting",
+      "dek": "**The Strategic Imperative of Working Capital Management in a Volatile Global Economy** Introduction: Why Working Capital Has Become a Board-Level Priority In today’s environment of elevated interest rates, persistent supply chain fragility, and rapid technological disruption, effective working capi",
+      "url": "http://prsync.com/pw-consulting/global-working-capital-management-market-to-reach-usd--billion-by--growing-at--cagr-reports-pw-consulting-5197240/",
+      "source": "Pr Sync",
       "sourceType": "external",
-      "image": "https://www.1news.co.nz/resizer/v2/76GNYOZBCVFKTBF4RCUD7Y7QYM.jpg?auth=6529b0c86420f86734e337d3ce56e3c0b1e761bafc1ab33c4a2e21311a7be73a&smart=true&width=4032&height=3024",
-      "publishedAt": "2026-08-30T05:00:54.000Z",
+      "image": "",
+      "publishedAt": "2026-08-31T09:09:16.000Z",
       "topic": "Oracle Ecosystem",
-      "tags": [
-        "north america",
-        "artificial intelligence"
-      ],
-      "priority": 39
+      "tags": [],
+      "priority": 41
     },
     {
-      "id": "57421de70050cc7e",
-      "slug": "ubuntu-26-04-1-lts-refreshes-server-installation-media-7da98b",
-      "title": "Ubuntu 26.04.1 LTS refreshes server installation media",
-      "dek": "Canonical has issued Ubuntu Server 26.04.1 LTS, the first point release of Resolute Raccoon, folding months of security patches, high-severity bug fixes and package updates into refreshed installation images. The August 27 release is designed to cut the volume of updates required after a new deploym",
-      "url": "https://thearabianpost.com/ubuntu-26-04-1-lts-refreshes-server-installation-media/",
-      "source": "Arabian Post",
+      "id": "c6f78262e9df4596",
+      "slug": "fy2028-eps-estimates-for-oracle-boosted-by-erste-group-bank-d64aad",
+      "title": "FY2028 EPS Estimates for Oracle Boosted by Erste Group Bank",
+      "dek": "Oracle Corporation (NYSE:ORCL – Free Report) – Investment analysts at Erste Group Bank raised their FY2028 earnings per share (EPS) estimates for shares of Oracle in a research report issued to clients and investors on Thursday, August 27th. Erste Group Bank analyst H. Engel now anticipates that the",
+      "url": "https://www.americanbankingnews.com/2026/08/31/fy2028-eps-estimates-for-oracle-boosted-by-erste-group-bank.html",
+      "source": "Americanbankingnews",
       "sourceType": "external",
-      "image": "https://thearabianpost.com/wp-content/uploads/2025/09/arabian-post-logo-animated-2025v1-1.gif",
-      "publishedAt": "2026-08-30T05:00:32.000Z",
-      "topic": "Security",
-      "tags": [
-        "foss arabia",
-        "syndication"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "8b7ab50bcbfbcc7a",
-      "slug": "analyzing-globant-nyse-glob-and-vasta-platform-nasdaq-vsta-d67202",
-      "title": "Analyzing Globant (NYSE:GLOB) and Vasta Platform (NASDAQ:VSTA)",
-      "dek": "Vasta Platform (NASDAQ:VSTA – Get Free Report) and Globant (NYSE:GLOB – Get Free Report) are both small-cap technology companies, but which is the superior business? We will compare the two businesses based on the strength of their valuation, earnings, dividends, risk, profitability, analyst recomme",
-      "url": "https://baseballnewssource.com/2026/08/29/analyzing-globant-nyseglob-and-vasta-platform-nasdaqvsta/11246471.html",
-      "source": "Bbns",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/globant-sa-logo-1200x675.png?v=20240202075256",
-      "publishedAt": "2026-08-30T02:14:53.000Z",
-      "topic": "Security",
-      "tags": [
-        "markets",
-        "comparison articles"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "0af610ea6779186e",
-      "slug": "nvidia-s-record-quarter-confirms-chipmakers-are-winning-the-ai-boom-a02060",
-      "title": "NVIDIA's Record Quarter Confirms Chipmakers Are Winning the AI Boom",
-      "dek": "NVIDIA earnings 2026 confirm a structural shift: semiconductor stocks are dramatically outperforming Big Tech as AI spending flows to hardware makers. Micron is up 220%, Marvell up 185%, while the Magnificent Seven ETF gains just 4%. NVIDIA's record $96.2 billion quarter and Vera CPU delivery to AWS",
-      "url": "https://www.inkl.com/news/nvidias-record-quarter-confirms-chipmakers-are-winning-the-ai-boom",
-      "source": "Inkl",
-      "sourceType": "external",
-      "image": "https://images.inkl.com/s3/article/lead_image/23770819/nvidia-earnings-pce-land-same-day-september-rate-decision-starts-wednesday.jpg",
-      "publishedAt": "2026-08-30T00:00:00.000Z",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-08-31T05:58:45.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "breaking news",
-        "daily news",
-        "news today",
-        "news",
-        "news app",
-        "today news"
+        "market news",
+        "analyst articles - estimates"
       ],
-      "priority": 36
+      "priority": 39
+    },
+    {
+      "id": "0f3993eb1dc87d2e",
+      "slug": "cloud-managed-lan-market-acceleration-powering-intelligent-and-secure-enterprise-connect-2a4d6b",
+      "title": "Cloud-Managed LAN Market Acceleration: Powering Intelligent and Secure Enterprise Connectivity",
+      "dek": "The global Cloud-Managed LAN Market is experiencing rapid expansion as enterprises modernize network infrastructure and transition toward centrally managed, cloud-enabled connectivity. Organizations across banking, healthcare, retail, telecommunications, and education are increasingly adopting cloud",
+      "url": "https://www.openpr.com/news/4617022/cloud-managed-lan-market-acceleration-powering-intelligent",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/8/L831880830_k.jpg",
+      "publishedAt": "2026-08-31T05:20:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "advertising",
+        "marketing research",
+        "media consulting"
+      ],
+      "priority": 38
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1956,22 +1971,6 @@
       "topic": "Oracle Cloud",
       "tags": [
         "Oracle Cloud",
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "0bc5f5b9fa209155",
-      "slug": "preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio-23f876",
-      "title": "Preparing to Extend Oracle Fusion Apps Using Visual Builder Studio",
-      "dek": "What do you need to start customizing the next generation of Oracle Fusion Apps? How do you create new pages for business processes? What level of expertise do you require for this? Join Lois Houston and Nikita Abraham as they get answers to all these questions and more from Senior Principal OCI Ins",
-      "url": "https://oracleuniversitypodcast.libsyn.com/preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-03-26T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
         "OCI"
       ],
       "priority": 36
