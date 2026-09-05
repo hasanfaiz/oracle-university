@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T22:25:36.820Z",
+  "generatedAt": "2026-09-05T22:07:25.160Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,317 +7,94 @@
   },
   "items": [
     {
-      "id": "7ef9355660c38042",
-      "slug": "tudor-financial-inc-has-2-79-million-stock-holdings-in-oracle-corporation-orcl-0bb338",
-      "title": "Tudor Financial Inc. Has $2.79 Million Stock Holdings in Oracle Corporation $ORCL",
-      "dek": "Tudor Financial Inc. raised its position in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 200.5% in the 2nd quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 19,008 shares of the enterp",
-      "url": "https://www.dailypolitical.com/2026/09/04/tudor-financial-inc-has-2-79-million-stock-holdings-in-oracle-corporation-orcl.html",
-      "source": "Daily Political",
+      "id": "ac99d7910d1978ea",
+      "slug": "hewlett-packard-enterprise-q3-earnings-call-highlights-a7f00c",
+      "title": "Hewlett Packard Enterprise Q3 Earnings Call Highlights",
+      "dek": "Hewlett Packard Enterprise (NYSE:HPE) reported record fiscal 2026 third-quarter results, citing accelerating demand for AI infrastructure, continued networking momentum and disciplined pricing. The company also raised its fiscal 2026 outlook and updated its fiscal 2027 growth framework as orders out",
+      "url": "https://www.themarketsdaily.com/2026/09/05/hewlett-packard-enterprise-q3-earnings-call-highlights.html",
+      "source": "Markets Daily",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-09-04T10:24:50.000Z",
+      "image": "https://www.marketbeat.com/logos/hewlett-packard-enterprise-co-logo-1200x675.jpg",
+      "publishedAt": "2026-09-05T10:06:46.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "sec filing articles",
-        "finance"
+        "stocks",
+        "partner feed articles"
       ],
       "priority": 43
     },
     {
-      "id": "3aa51a1a28036cfd",
-      "slug": "crusoe-s-30-billion-bet-ai-power-meets-wall-street-demand-e26fca",
-      "title": "Crusoe’s $30 Billion Bet: AI Power Meets Wall Street Demand",
-      "dek": "Crusoe closed a $3B funding at $30B valuation alongside a $13B Jane Street cloud contract. The AI data center builder triples its worth in under a year while navigating execution risks and surging demand for power-hungry compute. This marks a pivotal moment for the sector.",
-      "url": "https://www.webpronews.com/crusoes-30-billion-bet-ai-power-meets-wall-street-demand/",
-      "source": "Webpronews",
+      "id": "9b2b1b9ab5624dfd",
+      "slug": "stonegate-invests-in-technology-to-transform-egg-production-861ef3",
+      "title": "Stonegate invests in technology to transform egg production",
+      "dek": "Stonegate Farmers is investing in digital transformation to improve efficiency, supply chain visibility, decision-making and customer service.",
+      "url": "https://www.thescottishfarmer.co.uk/news/26517457.stonegate-farmers-launches-major-digital-transformation-plan/",
+      "source": "The Scottish Farmer",
       "sourceType": "external",
-      "image": "https://www.webpronews.com/wp-content/uploads/2026/09/article-25093-1788483777.jpeg",
-      "publishedAt": "2026-09-04T10:12:13.000Z",
-      "topic": "Security",
-      "tags": [
-        "top news",
-        "jane street contract",
-        "ai infrastructure",
-        "bigdatapro",
-        "$30 billion valuation",
-        "ai data centers"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "3ba6c0dbef7b930b",
-      "slug": "what-michael-burry-s-been-buying-and-shorting-jon-erlichman-c3e33f",
-      "title": "What Michael Burry’s been buying and shorting: Jon Erlichman",
-      "dek": "Michael Burry made his name betting against Wall Street. Now, he’s betting against Silicon Valley, sparking a hot debate over whether we’re in an AI bubble.",
-      "url": "https://www.bnnbloomberg.ca/ticker-take/2026/09/04/what-michael-burrys-been-buying-and-shorting-jon-erlichman/",
-      "source": "Bnn Bloomberg",
-      "sourceType": "external",
-      "image": "https://www.bnnbloomberg.ca/resizer/v2/Y75JAYN4F5DE3NVHIWPX3NJT2U.jpg?auth=25b50bf6a6991341aca43dcc295b0af2eca8e54c30fa540e22698b423f5822ac&smart=true&width=1920&height=1080",
-      "publishedAt": "2026-09-04T10:00:07.000Z",
+      "image": "https://www.thescottishfarmer.co.uk/resources/images/21404199/",
+      "publishedAt": "2026-09-05T07:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "AI"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "404de641c17ce89a",
-      "slug": "crusoe-raises-3b-at-30b-valuation-after-landing-13b-jane-street-deal-242071",
-      "title": "Crusoe raises $3B at $30B valuation after landing $13B Jane Street deal",
-      "dek": "Six years ago, Crusoe was burning off natural gas that oil companies couldn’t sell, using it to power...",
-      "url": "https://techfundingnews.com/crusoe-raises-3b-at-30b-valuation-after-landing-13b-jane-street-deal/",
-      "source": "Techfundingnews",
-      "sourceType": "external",
-      "image": "https://techfundingnews.com/wp-content/uploads/2025/08/Crusoe-team.jpg",
-      "publishedAt": "2026-09-04T10:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "top stories",
-        "us tech news",
-        "latest news",
-        "news",
-        "ai news",
-        "funding news"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "627405d44a570ee1",
-      "slug": "accountant-accounts-receivables-bangalore-in-ee646d",
-      "title": "Accountant, Accounts Receivables (Bangalore, IN)",
-      "dek": "SKIDATA is a global leader in access solutions for sports, entertainment, and mobility, combining long-term reliability with cutting-edge innovation through the hybrid integration of hardware and software across IoT, cloud, and mobility technologies, ...",
-      "url": "https://www.parking.net/parking-jobs/skidata/accountant-accounts-receivables-bangalore-in-1",
-      "source": "Parking Network",
-      "sourceType": "external",
-      "image": "https://www.parking.net/Upload/ContentManagersPictures/Skidata/Skidata-logo-assaabloy-480px_main.png",
-      "publishedAt": "2026-09-04T09:59:26.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "bangalore",
-        "india",
-        "careers",
-        "skidata",
-        "jobs",
-        "parking industry"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "3f9048e822097bc0",
-      "slug": "report-on-the-artificial-intelligence-ai-enhanced-antenatal-remote-monitoring-market-off-09ad40",
-      "title": "Report on the Artificial Intelligence (AI)-Enhanced Antenatal Remote Monitoring Market Offers Insights into Market Development and Future Growth Opportunities",
-      "dek": "The rapidly evolving landscape of healthcare technology is witnessing significant advances in prenatal care, particularly through the use of artificial intelligence (AI) to enhance remote monitoring during pregnancy. This shift is transforming how maternal and fetal health is tracked and",
-      "url": "https://www.openpr.com/news/4622140/report-on-the-artificial-intelligence-ai-enhanced-antenatal",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L904168498_k.jpg",
-      "publishedAt": "2026-09-04T09:56:02.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "health & medicine"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "03ee44319986dc2c",
-      "slug": "research-on-artificial-intelligence-ai-fleet-optimization-market-highlights-growth-poten-c859f8",
-      "title": "Research on Artificial Intelligence (AI) Fleet Optimization Market Highlights Growth Potential in a $5.1 Billion Sector",
-      "dek": "The adoption of artificial intelligence in fleet management is reshaping how companies optimize vehicle operations, reduce costs, and improve safety. As technology advances and demand expands across industries, the AI fleet optimization market is experiencing significant momentum. Let's explore the",
-      "url": "https://www.openpr.com/news/4622137/research-on-artificial-intelligence-ai-fleet-optimization",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L904513033_k.jpg",
-      "publishedAt": "2026-09-04T09:54:45.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "it",
-        "new media & software"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "302ac36d1182a96b",
-      "slug": "neos-investment-management-llc-raises-stock-position-in-oracle-corporation-orcl-d77a42",
-      "title": "NEOS Investment Management LLC Raises Stock Position in Oracle Corporation $ORCL",
-      "dek": "NEOS Investment Management LLC lifted its holdings in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 11.5% during the 2nd quarter, according to its most recent disclosure with the SEC. The institutional investor owned 275,413 shares of the enterprise software provider’s stock after purcha",
-      "url": "https://baseballnewssource.com/2026/09/04/neos-investment-management-llc-raises-stock-position-in-oracle-corporation-orcl/11253963.html",
-      "source": "Bbns",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-09-04T09:37:32.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "sec filing articles",
-        "markets"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "c6d02ea16bf5b468",
-      "slug": "nasdaq-futures-edge-higher-as-jobs-report-takes-center-stage-tsla-lulu-orcl-pl-nvda-pltr-044468",
-      "title": "Nasdaq Futures Edge Higher As Jobs Report Takes Center Stage: TSLA, LULU, ORCL, PL, NVDA, PLTR, RKLB In Focus",
-      "dek": "Retail sentiment on Stocktwits remained ‘bearish’ on SPY and flipped to ‘bullish’ on QQQ.",
-      "url": "https://newsable.asianetnews.com/markets/nasdaq-futures-edge-higher-as-jobs-report-takes-center-stage-tsla-lulu-orcl-pl-nvda-pltr-rklb-in-focus-articleshow-nku5f6d",
-      "source": "Asianet Newsable",
-      "sourceType": "external",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-4aba87f2-066c-4b78-81fe-ed9e73316a41.webp",
-      "publishedAt": "2026-09-04T09:35:01.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "markets"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "a7fee7724c061166",
-      "slug": "33-000-participants-1-100-prototypes-3-ai-solutions-take-on-bengaluru-s-traffic-fd975f",
-      "title": "33,000 participants, 1,100 prototypes—3 AI solutions take on Bengaluru’s traffic",
-      "dek": "At the Gridlock Hackathon 2.0, organised by Flipkart, three winning prototypes use AI to predict congestion, deploy traffic resources and tackle parking-related bottlenecks.",
-      "url": "https://theprint.in/feature/33000-participants-1100-prototypes-3-ai-solutions-take-on-bengalurus-traffic/3033685/",
-      "source": "Theprint",
-      "sourceType": "external",
-      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/07/Untitled-design-73-3.png",
-      "publishedAt": "2026-09-04T09:34:46.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "features",
-        "bengaluru traffic"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "a640a8a7e1653f66",
-      "slug": "podcast-personality-over-skillset-how-adam-wachtel-builds-engineering-teams-d52bfa",
-      "title": "Podcast: Personality Over Skillset: How Adam Wachtel Builds Engineering Teams",
-      "dek": "In this podcast, Shane Hastie, Lead Editor for Culture & Methods, spoke to Adam Wachtel, CTO at Click Boarding, about hiring for personality and problem-solving over pure skillset, turning around a platform and team in crisis, and how AI is reshaping team size and composition without ending SAAS. By",
-      "url": "https://www.infoq.com/podcasts/personality-over-skillset/",
-      "source": "Information Queue",
-      "sourceType": "external",
-      "image": "https://res.infoq.com/podcasts/personality-over-skillset/en/card_header_image/twitter-card-1787649877840.jpg",
-      "publishedAt": "2026-09-04T09:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "leadership",
-        "podcast",
-        "technical debt",
-        "culture",
-        "engineering culture podcast",
-        "culture & methods"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "4db665455912ebae",
-      "slug": "digital-health-investment-opportunities-where-technology-is-really-changing-care-in-irel-4ef4df",
-      "title": "Digital Health Investment Opportunities: Where Technology Is Really Changing Care in Ireland",
-      "dek": "Digital health in Ireland has moved beyond pilots and proof-of-concepts into core health system infrastructure. National programmes such as HSE One Health Record, ePrescribing, AI for Care, expansion of virtual wards, and preparation for the European Health Data Space (EHDS) are collectively reshapi",
-      "url": "https://med-techinsights.com/2026/09/04/digital-health-investment-opportunities-where-technology-is-really-changing-care-in-ireland/",
-      "source": "Med-tech Innovation",
-      "sourceType": "external",
-      "image": "https://i0.wp.com/med-techinsights.com/wp-content/uploads/2026/09/Stock-MedTech-LowRes_Close-up-of-medical-personel-looking-at-a-tablet.webp?fit=1134%2C676&ssl=1",
-      "publishedAt": "2026-09-04T08:57:53.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "digital health & ai insights",
-        "ida ireland",
-        "digital health"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "090acdee10b35443",
-      "slug": "concurrent-investment-advisors-llc-raises-stock-position-in-oracle-corporation-orcl-2fe4b5",
-      "title": "Concurrent Investment Advisors LLC Raises Stock Position in Oracle Corporation $ORCL",
-      "dek": "Concurrent Investment Advisors LLC raised its position in Oracle Corporation (NYSE:ORCL – Free Report) by 9.0% during the 2nd quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The fund owned 174,482 shares of the enterprise software provider’s stock afte",
-      "url": "https://www.dailypolitical.com/2026/09/04/concurrent-investment-advisors-llc-raises-stock-position-in-oracle-corporation-orcl.html",
-      "source": "Daily Political",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-09-04T08:09:33.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "finance",
-        "sec filing articles"
+        "farming:livestock:poultry",
+        "source:newsquest",
+        "content-level:1",
+        "topics:farming",
+        "topics:technology",
+        "free_tags:organisations:businesses:stonegate"
       ],
       "priority": 41
     },
     {
-      "id": "f5ee57fe532182fc",
-      "slug": "oracle-layoffs-quiet-september-job-cuts-begin-as-vps-and-gvps-exit-fdfa54",
-      "title": "Oracle Layoffs: Quiet September Job Cuts Begin as VPs and GVPs Exit",
-      "dek": "Oracle layoffs are landing quietly after the expected September 1 wave didn’t arrive. Staff tracked Slack counts, a September 4 Reddit thread flagged OAL/OCI leadership exits, and India managers were told to find savings. Internal estimates suggest 7,000–10,000 roles, unverified by Oracle.",
-      "url": "https://newsable.asianetnews.com/business/oracle-september-layoffs-quiet-slack-headcount-application-labs-oci-articleshow-a17khaa",
-      "source": "Asianet Newsable",
+      "id": "1644befd6c042cb7",
+      "slug": "api-management-market-gains-momentum-with-rising-adoption-of-cloud-and-connected-applica-52d772",
+      "title": "API management market gains momentum with rising adoption of cloud and connected applications",
+      "dek": "The global API management market is gaining momentum as enterprises accelerate digital transformation, migrate workloads to the cloud, and build increasingly interconnected application ecosystems. According to Bonafide Research, the Global API Management market was valued at more than USD 8.92",
+      "url": "https://www.openpr.com/news/4622798/api-management-market-gains-momentum-with-rising-adoption",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-01kn3fvf32rvq95v0vrke6851k,imgname-oracle-layoffs-30000-employees-india-impact-morning-email-job-cuts-ai-restructuring-global-1775012527202.png",
-      "publishedAt": "2026-09-04T05:54:28.000Z",
-      "topic": "Oracle Cloud",
+      "image": "https://cdn.open-pr.com/L/9/L905749970_k.jpg",
+      "publishedAt": "2026-09-05T05:37:17.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "business"
+        "it",
+        "new media & software"
       ],
       "priority": 40
     },
     {
-      "id": "481d7a2d3a0a8da4",
-      "slug": "orcl-stock-spikes-on-new-hpe-equipment-deal-retail-turns-bullish-ahead-of-q1-report-a595a9",
-      "title": "ORCL Stock Spikes On New HPE Equipment Deal: Retail Turns Bullish Ahead Of Q1 Report",
-      "dek": "Oracle’s AI infrastructure push and surging cloud backlog are fueling optimism, but investors will look for proof that spending is translating into durable revenue growth and cash flow.",
-      "url": "https://newsable.asianetnews.com/markets/orcl-stock-spikes-on-new-hpe-equipment-deal-retail-turns-bullish-ahead-of-q1-report-articleshow-fbnmedd",
-      "source": "Asianet Newsable",
+      "id": "4765a94c01455e5b",
+      "slug": "practice-analytics-market-analysis-by-application-type-technology-and-geography-global-i-cd2134",
+      "title": "Practice Analytics Market Analysis By Application, Type, Technology, and Geography - Global Industry Outlook and Forecast 2026-2033",
+      "dek": "The Practice Analytics Market reached a valuation of 5.83 billion in 2026 and is anticipated to expand at a CAGR of 12.28% during the forecast period from 2026 to 2035, ultimately attaining an estimated value of 14.73 billion by 2035.",
+      "url": "https://www.openpr.com/news/4622785/practice-analytics-market-analysis-by-application-type",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-ecfd8266-fb00-46fb-9d0d-761d4afa4ab5.webp",
-      "publishedAt": "2026-09-04T05:45:00.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://cdn.open-pr.com/L/9/L905900511_k.jpg",
+      "publishedAt": "2026-09-05T04:23:50.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "markets"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "60f7b46e926ae80f",
-      "slug": "oracle-layoffs-september-job-cut-round-starts-quietly-as-company-skips-6-am-email-vps-gv-dc1b5a",
-      "title": "Oracle Layoffs: September Job Cut Round Starts Quietly As Company Skips '6 AM Email'; VPs, GVPs Are 'Disappearing' From Slack",
-      "dek": "Oracle layoffs have started in the US but this time its happening quietly. Here's what employees are reporting.",
-      "url": "https://www.news18.com/tech/oracle-layoffs-september-job-cut-round-starts-quietly-as-company-skips-6-am-email-vps-gvps-are-disappearing-from-slack-10309615.html",
-      "source": "News 18",
-      "sourceType": "external",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/09/MixCollage-01-Sep-2026-08-32-AM-7865-2026-09-8b7a34e15e4e6cb528e3f9bb640af81a-1200x800.jpg",
-      "publishedAt": "2026-09-04T04:18:48.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "latest"
+        "media consulting",
+        "advertising",
+        "marketing research"
       ],
       "priority": 39
     },
     {
-      "id": "8da93b658e87fa0b",
-      "slug": "oracle-orcl-stock-gets-fair-value-trim-as-analysts-split-on-ai-and-capex-2bb0a4",
-      "title": "Oracle (ORCL) Stock Gets Fair Value Trim As Analysts Split On AI And Capex",
-      "dek": "Oracle’s updated pricing framework now reflects a fair value estimate of US$241.97, compared with the previous US$248.15 level. This adjustment lines up with a more mixed analyst narrative, as stronger interest in Oracle Cloud Infrastructure and large AI contracts is being balanced against concerns ",
-      "url": "https://ca.finance.yahoo.com/news/oracle-orcl-stock-gets-fair-030852432.html",
-      "source": "Yahoo! News",
+      "id": "7f01eaf3cbc59bc3",
+      "slug": "jim-cramer-shares-a-cautious-take-on-oracle-orcl-and-its-massive-ai-buildout-edf851",
+      "title": "Jim Cramer Shares a Cautious Take on Oracle (ORCL) and Its Massive AI Buildout",
+      "dek": "On September 2, a caller pointed to market anxiety over Oracle Corporation’s (NYSE:ORCL) data center loans and asked if rising moratoria and negative sentiment surrounding data center production actually increase the value of Oracle’s current approvals and builds by throttling competing capacity. Ma",
+      "url": "https://www.insidermonkey.com/blog/jim-cramer-shares-a-cautious-take-on-oracle-orcl-and-its-massive-ai-buildout-1827971/",
+      "source": "Insider Trading",
       "sourceType": "external",
-      "image": "https://media.zenfs.com/en/simply_wall_st__316/95e4eb37f18e6565702988b21625319c.png",
-      "publishedAt": "2026-09-04T03:08:52.000Z",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/c9U9WivCpX_Adtl044qTPgPgR3krXp-IZzTo139xAP8/resize:fit:1152:768:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2026/03/09034548/Jim-Cramer_IM.png",
+      "publishedAt": "2026-09-04T22:31:18.000Z",
       "topic": "Oracle Cloud",
       "tags": [
-        "business"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "045ca57c05bcba19",
-      "slug": "oracle-stock-surges-5-as-analysts-see-major-upside-ahead-7f152f",
-      "title": "Oracle stock surges 5% as analysts see major upside ahead",
-      "dek": "Oracle stock ORCL surged 5% on Thursday, extending a 3% gain from the previous session as investors assessed a mixed set of analyst views ahead of the company’s fiscal first-quarter results. Oracle is scheduled to report its results on September 8. The stock has faced concerns over its heavy capital",
-      "url": "https://etf-alerts.com/2026/09/04/oracle-stock-surges-5-as-analysts-see-major-upside-ahead/",
-      "source": "Etf Alerts",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-09-04T00:41:31.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "investing"
+        "nyse:orcl",
+        "yahoo finance",
+        "oracle corporation (nyse:orcl)",
+        "news"
       ],
       "priority": 36
     },
@@ -1991,6 +1768,212 @@
       "topic": "Oracle Cloud",
       "tags": [
         "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ec54bf5b81f570ed",
+      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
+      "title": "Oracle Cloud Infrastructure Registry",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-11T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "OCI",
+        "Oracle Cloud Infrastructure"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "6ba1bee89c8a91cc",
+      "slug": "what-is-containerization-0326f4",
+      "title": "What is Containerization?",
+      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-04T14:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "OCI",
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "b45e3d006fc93558",
+      "slug": "encore-episode-oci-ai-services-5e7f50",
+      "title": "Encore Episode: OCI AI Services",
+      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-28T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "57fe9154d1531745",
+      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
+      "title": "Encore Episode: Generative AI and Large Language Models",
+      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-14T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "60d141d1ef069450",
+      "slug": "encore-episode-deep-learning-fe981b",
+      "title": "Encore Episode: Deep Learning",
+      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-07T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "311a8fe7e2892283",
+      "slug": "encore-episode-machine-learning-ee26a4",
+      "title": "Encore Episode: Machine Learning",
+      "dek": "Does machine learning feel like too convoluted a topic? Not anymore! Listen to hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Hemant Gahankari, talk about foundational machine learning concepts and dive into how supervised learning, unsupervised learning, and reinf",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-machine-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-30T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "4589098868999fde",
+      "slug": "encore-episode-introduction-to-artificial-intelligence-ai-9e755a",
+      "title": "Encore Episode: Introduction to Artificial Intelligence (AI)",
+      "dek": "You probably interact with artificial intelligence (AI) more than you realize. So, there's never been a better time to start figuring out how it all works. Join Lois Houston and Nikita Abraham as they decode the fundamentals of AI so that anyone, irrespective of their technical background, can lever",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-introduction-to-artificial-intelligence-ai",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-23T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ba70f7a05b875a4b",
+      "slug": "using-ords-to-make-your-adb-data-available-in-vbs-061acb",
+      "title": "Using ORDS to Make Your ADB Data Available in VBS",
+      "dek": "Visual Builder Studio requires its data sources to connect to the webpage it produces using REST calls. Therefore, the data source has to provide a REST interface. A simple, easy, secure, and free way to do that is with Oracle REST Data Services (ORDS). In this episode, hosts Lois Houston and Nikita",
+      "url": "https://oracleuniversitypodcast.libsyn.com/using-ords-to-make-your-adb-data-available-in-vbs",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-16T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "967d33e1489de57e",
+      "slug": "forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today-f03edc",
+      "title": "Forgotten, But Not Gone: How Model-Based Development Is Still Alive and Well Today",
+      "dek": "Computer Aided Software Engineering (CASE) tools, which helped make the analysis, design, and implementation phases of software development better, faster, and cheaper, fell out of favor in the mid-'90s. Yet much of what they have to offer remains and is in active use within different Oracle tools. ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/-forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-09T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "513c87bee83d2547",
+      "slug": "developing-redwood-applications-86e984",
+      "title": "Developing Redwood Applications",
+      "dek": "Redwood is a state-of-the-art graphical interface that defines the look and feel of the new Oracle Cloud Redwood Applications. In this episode, hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Joe Greenwald, take a closer look at the intent behind the design and deve",
+      "url": "https://oracleuniversitypodcast.libsyn.com/developing-redwood-applications",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-02T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "0bc5f5b9fa209155",
+      "slug": "preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio-23f876",
+      "title": "Preparing to Extend Oracle Fusion Apps Using Visual Builder Studio",
+      "dek": "What do you need to start customizing the next generation of Oracle Fusion Apps? How do you create new pages for business processes? What level of expertise do you require for this? Join Lois Houston and Nikita Abraham as they get answers to all these questions and more from Senior Principal OCI Ins",
+      "url": "https://oracleuniversitypodcast.libsyn.com/preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-03-26T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ced28242d290626e",
+      "slug": "introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-alone-and-jet-05c689",
+      "title": "Introduction to Visual Builder Studio, Visual Builder Cloud Service, Stand-Alone, and JET",
+      "dek": "The next generation of front-end user interfaces for Oracle Fusion Applications is being built using Visual Builder Studio and Oracle JavaScript Extension Toolkit. However, many of the terms associated with these tools can be confusing. In this episode, Lois Houston and Nikita Abraham are joined by ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-alone-and-jet",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-03-19T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "80b0e87aa5534b5f",
+      "slug": "oci-ai-services-fb5b69",
+      "title": "OCI AI Services",
+      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oci-ai-services",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S06_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-03-12T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI",
+        "AI"
       ],
       "priority": 36
     }
