@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T22:10:58.084Z",
+  "generatedAt": "2026-09-07T22:54:03.335Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,74 +7,266 @@
   },
   "items": [
     {
-      "id": "63481c45d86fe1fc",
-      "slug": "why-americans-are-pushing-back-against-ai-data-centers-fb0df5",
-      "title": "Why Americans are pushing back against AI data centers",
-      "dek": "WASHINGTON | Xinhua | Across the United States, opposition to the construction of new AI data centers is growing, with residents raising concerns about their impact on local communities. The data centers, supported by U.S. President Donald Trump, have emerged as a key topic ahead of the 2026 midterm",
-      "url": "https://www.independent.co.ug/why-americans-are-pushing-back-against-ai-data-centers/",
-      "source": "The Independent",
+      "id": "5f0aa4d40f4988b6",
+      "slug": "hewlett-packard-enterprise-company-hpe-shares-acquired-by-td-waterhouse-canada-inc-28f537",
+      "title": "Hewlett Packard Enterprise Company $HPE Shares Acquired by TD Waterhouse Canada Inc.",
+      "dek": "TD Waterhouse Canada Inc. raised its stake in shares of Hewlett Packard Enterprise Company (NYSE:HPE – Free Report) by 280.3% during the second quarter, HoldingsChannel reports. The fund owned 141,101 shares of the technology company’s stock after acquiring an additional 104,003 shares during the qu",
+      "url": "https://www.tickerreport.com/banking-finance/13576217/hewlett-packard-enterprise-company-hpe-shares-acquired-by-td-waterhouse-canada-inc.html",
+      "source": "Ticker Report",
       "sourceType": "external",
-      "image": "https://www.independent.co.ug/wp-content/uploads/2026/09/Power-plant-2.jpg",
-      "publishedAt": "2026-09-06T09:53:08.000Z",
-      "topic": "Oracle Cloud",
+      "image": "https://www.marketbeat.com/logos/hewlett-packard-enterprise-co-logo-1200x675.jpg",
+      "publishedAt": "2026-09-07T10:52:47.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "usa",
-        "world",
-        "trump",
-        "ai data centers"
+        "sec filing articles",
+        "banking"
       ],
       "priority": 43
     },
     {
-      "id": "aceb430af8943328",
-      "slug": "the-us-went-all-in-on-ai-investment-is-it-driving-up-consumer-prices-a32690",
-      "title": "The US went all in on AI investment. Is it driving up consumer prices?",
-      "dek": "As the United States leads in AI investment, Americans are questioning who will benefit most and how it will affect their wallets.",
-      "url": "https://www.usatoday.com/story/money/economy/2026/09/06/ai-investment-prices-electricity-inflation-impact/91580055007/",
-      "source": "Usa Today",
+      "id": "2b4b61823ec57d1e",
+      "slug": "hightower-advisors-llc-has-182-18-million-stock-position-in-oracle-corporation-orcl-78fa84",
+      "title": "HighTower Advisors LLC Has $182.18 Million Stock Position in Oracle Corporation $ORCL",
+      "dek": "HighTower Advisors LLC raised its stake in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 2.4% during the 2nd quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 1,243,136 shares of the en",
+      "url": "https://www.dailypolitical.com/2026/09/07/hightower-advisors-llc-has-182-18-million-stock-position-in-oracle-corporation-orcl.html",
+      "source": "Daily Political",
       "sourceType": "external",
-      "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/09/03/USAT/91596163007-20260616-t-191910-z-820364230-rc-24-vlah-1-xq-7-rtrmadp-3-techhpe.JPG?crop=5610,3156,x0,y292&width=1600&height=800&format=pjpg&auto=webp",
-      "publishedAt": "2026-09-06T09:04:39.000Z",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-09-07T10:45:05.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "finance",
+        "sec filing articles"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "793d8fb616f36d68",
+      "slug": "equinix-and-nvidia-partnership-pushes-ai-inference-closer-8866c8",
+      "title": "Equinix and NVIDIA partnership pushes AI inference closer",
+      "dek": "Equinix and NVIDIA partnership expands into distributed AI inference, combining NVIDIA infrastructure, Together AI open models and Equinix connectivity for enterprises.",
+      "url": "https://www.dqchannels.com/news/equinix-and-nvidia-partnership-targets-distributed-ai-12502195",
+      "source": "Dqc",
+      "sourceType": "external",
+      "image": "https://img-cdn.publive.online/dqc/media/media_files/2026/09/07/equinix-and-nvidia-partnership-pushes-ai-inference-closer-2026-09-07-15-57-33.png",
+      "publishedAt": "2026-09-07T10:28:18.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "equinix"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "6437ceca54b4feed",
+      "slug": "lead-software-engineer-in-test-sdet-hybrid-santo-domingo-do-2ff41a",
+      "title": "Lead Software Engineer in Test — SDET (Hybrid, Santo Domingo, DO)",
+      "dek": "Help us change the way the world parks Parking isn’t just about spaces – it’s about creating seamless experiences, sustainable solutions, and smarter cities. At Flash, we’re not just thinking about today’s parking ...",
+      "url": "https://www.parking.net/parking-jobs/flash/lead-software-engineer-in-test--sdet-hybrid-santo-domingo-do",
+      "source": "Parking Network",
+      "sourceType": "external",
+      "image": "https://www.parking.net/Upload/Industry/00-New-HD-Logos/flash-parking-company-logo-480px.jpg",
+      "publishedAt": "2026-09-07T09:40:31.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "ssts:money:economy",
-        "tag:pew research center",
-        "tag:overall negative",
-        "sstsn:economy",
-        "tag:artificial intelligence",
-        "tag:technology news"
+        "lead software engineer in test",
+        "career",
+        "hybrid",
+        "jobs",
+        "santo domingo",
+        "parking"
       ],
       "priority": 42
     },
     {
-      "id": "5378b0ed1979e31a",
-      "slug": "hpe-and-oracle-expand-alliance-to-scale-global-ai-data-center-infrastructure-880678",
-      "title": "HPE and Oracle Expand Alliance to Scale Global AI Data Center Infrastructure",
-      "dek": "HPE expands its partnership with Oracle, deploying HPE Juniper Networking (PTX, MX, QFX) across OCI’s global AI data centres and RoCEv2 fabrics. News",
-      "url": "https://www.dqchannels.com/news/hpe-and-oracle-expand-alliance-to-scale-global-ai-data-center-infrastructure-12496891",
-      "source": "Dqc",
-      "sourceType": "external",
-      "image": "https://img-cdn.publive.online/dqc/media/media_files/2026/09/05/hpe-and-oracle-expand-alliance-to-scale-global-ai-data-center-infrastructure-2026-09-05-19-46-17.png",
-      "publishedAt": "2026-09-06T05:17:37.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI",
-        "AI"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "31dc24a587ca39a2",
-      "slug": "computer-science-incl-professional-experience-84c08e",
-      "title": "Computer Science Incl Professional Experience",
-      "dek": "From driving cancer research forward to accurately predicting the weather, Computer Scientists are powering progress. In fact everything from social care to cybersecurity or even space travel, relies on the talents of Computer Science graduates. We would say the sky is the limit, but we’re already w",
-      "url": "https://www.qub.ac.uk/courses/undergraduate/computer-science-incl-professional-experience-meng-g405/",
-      "source": "Queen's University Belfast",
+      "id": "b0b14f4dbe25cb7e",
+      "slug": "pw-consulting-law-enforcement-software-market-to-hit-30-02b-by-2032-on-10-cagr-f6bef2",
+      "title": "PW Consulting: Law Enforcement Software Market to Hit $30.02B by 2032 on 10% CAGR",
+      "dek": "Navigating the New Paradigm: Strategic Insights into the Law Enforcement Software Market 2026 The landscape of public safety technology is undergoing a fundamental transformation. As agencies grapple with evolving security threats, staffing constraints, and stringent compliance requirements, the sof",
+      "url": "http://prsync.com/pw-consulting/pw-consulting-law-enforcement-software-market-to-hit-b-by--on--cagr-5199179/",
+      "source": "Pr Sync",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-09-06T00:00:00.000Z",
+      "publishedAt": "2026-09-07T08:55:56.000Z",
+      "topic": "Security",
+      "tags": [
+        "Security"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "cddfc529e774b5d1",
+      "slug": "5-veeam-alternatives-worth-shortlisting-in-2026-514e85",
+      "title": "5 Veeam Alternatives Worth Shortlisting in 2026",
+      "dek": "5 Veeam Alternatives Worth Shortlisting in 2026 The renewal quote is usually what kicks this off. Someone in finance forwards the Veeam invoice with a one-line email asking if the number is right, and suddenly the backup platform nobody has thought about in three years is getting more attention than",
+      "url": "https://techbullion.com/5-veeam-alternatives-worth-shortlisting-in-2026/",
+      "source": "Techbullion",
+      "sourceType": "external",
+      "image": "https://techbullion.com/wp-content/uploads/2026/01/Veeam-Alternatives-1-1024x535.jpg",
+      "publishedAt": "2026-09-07T08:54:29.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "technology",
+        "to test them before renewal"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "3642fa73c1330075",
+      "slug": "oracle-is-putting-hpe-juniper-gear-into-its-ai-data-centers-is-hpe-finally-getting-paid--5bb300",
+      "title": "Oracle Is Putting HPE Juniper Gear Into Its AI Data Centers. Is HPE Finally Getting Paid for the GPU Networking Bottleneck?",
+      "dek": "Hewlett Packard Enterprise said on September 2 that Oracle may deploy its Juniper networking equipment across Oracle Cloud Infrastructure data centers under a multi-year collaboration. The potential footprint includes PTX and MX routing plus QFX and EX switching, along with support and financing. He",
+      "url": "https://www.insidermonkey.com/blog/oracle-is-putting-hpe-juniper-gear-into-its-ai-data-centers-is-hpe-finally-getting-paid-for-the-gpu-networking-bottleneck-1827855/",
+      "source": "Insider Trading",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/TUdZgzCf_R53RTckXpxhp7IIqgU91KoZ5Dw2EFzVrDo/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/12/16114927/WKEY-insidermonkey-1702745365251.jpg",
+      "publishedAt": "2026-09-07T08:33:09.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "yahoo finance",
+        "news",
+        "hewlett packard enterprise co (nyse:hpe)",
+        "stock analysis",
+        "nyse:orcl",
+        "nyse:hpe"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "8e28bd91ac874f90",
+      "slug": "7-reasons-why-php-is-the-best-choice-for-web-development-and-business-it-solutions-28198e",
+      "title": "7 Reasons Why PHP Is the Best Choice for Web Development and Business IT Solutions",
+      "dek": "Explore the main advantages of PHP and why it’s the top choice for web development, especially for business IT solutions and applications.",
+      "url": "https://stfalcon.com/en/blog/post/php-advantages-for-business",
+      "source": "Stfalcon Studio Llc",
+      "sourceType": "external",
+      "image": "https://storage.stfalcon.com/uploads/images/5b489f3671cab.webp",
+      "publishedAt": "2026-09-07T08:30:05.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "php",
+        "enterprise-software"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "d33ca4ed9740ff55",
+      "slug": "pw-consulting-healthcare-supply-chain-market-hits-215m-in-2025-booms-at-6-98-cagr-to-344-a6d860",
+      "title": "PW Consulting: Healthcare Supply Chain Market Hits $215M in 2025, Booms at 6.98% CAGR to $344.8M by 2032",
+      "dek": "Navigating the Next Wave: Strategic Intelligence for the Healthcare Supply Chain Management Market The healthcare supply chain is no longer a back-office function. It is a strategic asset that directly impacts patient outcomes, operational resilience, and financial performance. As the industry moves",
+      "url": "http://prsync.com/pw-consulting/pw-consulting-healthcare-supply-chain-market-hits-m-in--booms-at--cagr-to-m-by--5199150/",
+      "source": "Pr Sync",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-07T08:29:48.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 41
+    },
+    {
+      "id": "fa674b7bcfbf4048",
+      "slug": "oracle-earnings-ai-growth-openai-deal-and-20-billion-funding-plan-37b4fa",
+      "title": "Oracle earnings: AI growth, OpenAI deal and $20 billion funding plan",
+      "dek": "Oracle heads into its upcoming earnings with investors closely watching the rapid expansion of its AI cloud business. At the same time, the company faces growing funding requirements as it invests heavily in data centres and AI infrastructure. (Sources: TS2 Tech, Investor’s Business Daily, AD HOC Ne",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/oracle-earnings-ai-growth-openai-deal-and-20-billion-funding-plan/slideshow/133871026.cms",
+      "source": "The Economic Times",
+      "sourceType": "external",
+      "image": "https://img.etimg.com/thumb/msid-133871026,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
+      "publishedAt": "2026-09-07T08:04:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "Earnings",
+        "AI"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "be1633b556799761",
+      "slug": "postgresql-migrator-1-0-stable-5a81e4",
+      "title": "PostgreSQL Migrator 1.0 stable",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://blog.dalibo.com/2026/09/07/postgresql-migrator-1.html",
+      "source": "Journal Du Hacker",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-07T07:56:33.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "application",
+        "postgresql",
+        "go"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "835cd358f7e1e3d3",
+      "slug": "cauzzyai-and-unilever-prestige-partner-to-accelerate-ai-innovation-across-prestige-beaut-893c11",
+      "title": "CauzzyAI and Unilever Prestige Partner to Accelerate AI Innovation Across Prestige Beauty",
+      "dek": "CauzzyAI (cauzzy.ai) announced a strategic partnership with Unilever Prestige, bringing its Enterprise AI platform within the Unilever Prestige portfolio. The collaboration marks a significant milestone in Unilever Prestige’s vision to become an AI-native enterprise, embedding intelligent AI into ev",
+      "url": "https://salestechstar.com/partner-management-channel-enablement/cauzzyai-and-unilever-prestige-partner-to-accelerate-ai-innovation-across-prestige-beauty/",
+      "source": "Salestech Star",
+      "sourceType": "external",
+      "image": "https://salestechstar.com/wp-content/uploads/2026/09/steptodown.com296295.jpg",
+      "publishedAt": "2026-09-07T07:14:57.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "narayan parasuraman",
+        "sales technology news",
+        "salestech",
+        "sales engagement",
+        "unilever prestige",
+        "news"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "e81005be4cfcad4d",
+      "slug": "java-news-roundup-tornadovm-6-jreleaser-langchain4j-java-operator-sdk-jhipster-yupiik-fu-d30f4b",
+      "title": "Java News Roundup: TornadoVM 6, JReleaser, LangChain4j, Java Operator SDK, JHipster, Yupiik Fusion",
+      "dek": "This week's Java roundup for August 31st, 2026, features news highlighting: the GA release of TornadoVM 6.0; point releases of JReleaser, LangChain4j, Java Operator SDK, JHipster, Kotlin Toolchain and Yupiik Fusion; and maintenance releases of Micronaut and GraalVM Development Kit. By Michael Redlic",
+      "url": "https://www.infoq.com/news/2026/09/java-news-roundup-aug31-2026/",
+      "source": "Information Queue",
+      "sourceType": "external",
+      "image": "https://res.infoq.com/news/2026/09/java-news-roundup-aug31-2026/en/headerimage/java-news-roundup-image-1788715275955.jpg",
+      "publishedAt": "2026-09-07T02:30:00.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "kotlin",
+        "jhipster",
+        "jreleaser",
+        "graalvm",
+        "news",
+        "langchain4j"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "59edfbb5b3faea56",
+      "slug": "five-key-flaws-exploited-in-2025-s-major-software-supply-chain-incidents-d7cdf2",
+      "title": "Five Key Flaws Exploited in 2025's Major Software Supply Chain Incidents",
+      "dek": "Infosecurity has selected five of the most significant vulnerability exploitation campaigns of 2025 that led to major software supply chain incidents",
+      "url": "https://www.infosecurity-magazine.com/news-features/five-flaws-exploited-2025-software/",
+      "source": "Infosecurity Magazine",
+      "sourceType": "external",
+      "image": "https://assets.infosecurity-magazine.com/webpage/og/04e30a48-b1f9-47bb-9d7a-9b95dc3305b6.jpg",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
       "topic": "Security",
       "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "840f9e7db9364c62",
+      "slug": "hackers-target-unpatched-flaws-in-oracle-e-business-suite-80f3d9",
+      "title": "Hackers Target Unpatched Flaws in Oracle E-Business Suite",
+      "dek": "Patches for the targeted vulnerabilities were released in Oracle’s July 2025 security update",
+      "url": "https://www.infosecurity-magazine.com/news/hackers-flaws-oracle-ebs/",
+      "source": "Infosecurity Magazine",
+      "sourceType": "external",
+      "image": "https://assets.infosecurity-magazine.com/webpage/og/ed00ad41-d847-4de7-bdf6-ca32eddfa07f.jpg",
+      "publishedAt": "2026-09-07T00:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Security"
+      ],
       "priority": 36
     },
     {
@@ -1798,176 +1990,6 @@
       "topic": "Oracle Cloud",
       "tags": [
         "OCI",
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "57fe9154d1531745",
-      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
-      "title": "Encore Episode: Generative AI and Large Language Models",
-      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-14T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "60d141d1ef069450",
-      "slug": "encore-episode-deep-learning-fe981b",
-      "title": "Encore Episode: Deep Learning",
-      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-07T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "311a8fe7e2892283",
-      "slug": "encore-episode-machine-learning-ee26a4",
-      "title": "Encore Episode: Machine Learning",
-      "dek": "Does machine learning feel like too convoluted a topic? Not anymore! Listen to hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Hemant Gahankari, talk about foundational machine learning concepts and dive into how supervised learning, unsupervised learning, and reinf",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-machine-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-30T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "4589098868999fde",
-      "slug": "encore-episode-introduction-to-artificial-intelligence-ai-9e755a",
-      "title": "Encore Episode: Introduction to Artificial Intelligence (AI)",
-      "dek": "You probably interact with artificial intelligence (AI) more than you realize. So, there's never been a better time to start figuring out how it all works. Join Lois Houston and Nikita Abraham as they decode the fundamentals of AI so that anyone, irrespective of their technical background, can lever",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-introduction-to-artificial-intelligence-ai",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-23T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ba70f7a05b875a4b",
-      "slug": "using-ords-to-make-your-adb-data-available-in-vbs-061acb",
-      "title": "Using ORDS to Make Your ADB Data Available in VBS",
-      "dek": "Visual Builder Studio requires its data sources to connect to the webpage it produces using REST calls. Therefore, the data source has to provide a REST interface. A simple, easy, secure, and free way to do that is with Oracle REST Data Services (ORDS). In this episode, hosts Lois Houston and Nikita",
-      "url": "https://oracleuniversitypodcast.libsyn.com/using-ords-to-make-your-adb-data-available-in-vbs",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-16T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "967d33e1489de57e",
-      "slug": "forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today-f03edc",
-      "title": "Forgotten, But Not Gone: How Model-Based Development Is Still Alive and Well Today",
-      "dek": "Computer Aided Software Engineering (CASE) tools, which helped make the analysis, design, and implementation phases of software development better, faster, and cheaper, fell out of favor in the mid-'90s. Yet much of what they have to offer remains and is in active use within different Oracle tools. ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/-forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-09T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "513c87bee83d2547",
-      "slug": "developing-redwood-applications-86e984",
-      "title": "Developing Redwood Applications",
-      "dek": "Redwood is a state-of-the-art graphical interface that defines the look and feel of the new Oracle Cloud Redwood Applications. In this episode, hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Joe Greenwald, take a closer look at the intent behind the design and deve",
-      "url": "https://oracleuniversitypodcast.libsyn.com/developing-redwood-applications",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-02T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "0bc5f5b9fa209155",
-      "slug": "preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio-23f876",
-      "title": "Preparing to Extend Oracle Fusion Apps Using Visual Builder Studio",
-      "dek": "What do you need to start customizing the next generation of Oracle Fusion Apps? How do you create new pages for business processes? What level of expertise do you require for this? Join Lois Houston and Nikita Abraham as they get answers to all these questions and more from Senior Principal OCI Ins",
-      "url": "https://oracleuniversitypodcast.libsyn.com/preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-03-26T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ced28242d290626e",
-      "slug": "introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-alone-and-jet-05c689",
-      "title": "Introduction to Visual Builder Studio, Visual Builder Cloud Service, Stand-Alone, and JET",
-      "dek": "The next generation of front-end user interfaces for Oracle Fusion Applications is being built using Visual Builder Studio and Oracle JavaScript Extension Toolkit. However, many of the terms associated with these tools can be confusing. In this episode, Lois Houston and Nikita Abraham are joined by ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-alone-and-jet",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-03-19T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "80b0e87aa5534b5f",
-      "slug": "oci-ai-services-fb5b69",
-      "title": "OCI AI Services",
-      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oci-ai-services",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S06_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-03-12T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI",
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "01b9d7957b344f1c",
-      "slug": "generative-ai-and-large-language-models-e87b5b",
-      "title": "Generative AI and Large Language Models",
-      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
-      "url": "https://oracleuniversitypodcast.libsyn.com/generative-ai-and-large-language-models",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S06_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-02-27T15:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
         "AI"
       ],
       "priority": 36
