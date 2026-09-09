@@ -6,151 +6,124 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 22:47:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 22:38:43 GMT</lastBuildDate>
     
     <item>
-      <title>Healthcare interoperability solutions market to reach USD 18.9 billion by 2036 at 14.6% CAGR, driven by EHRs, FHIR, APIs, AI, cloud healthcare and secure data exchange | Latest Report TMR</title>
-      <link>https://oracle-university.com/stories/healthcare-interoperability-solutions-market-to-reach-usd-18-9-billion-by-2036-at-14-6-c-b364e2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/healthcare-interoperability-solutions-market-to-reach-usd-18-9-billion-by-2036-at-14-6-c-b364e2/</guid>
-      <pubDate>Tue, 08 Sep 2026 10:04:09 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>The healthcare interoperability solutions market includes software, platforms, technologies, and services that enable secure, standardized, and efficient exchange of healthcare information across different systems and organizations. These solutions connect electronic health records (EHRs), hospital </description>
-      <source url="https://www.openpr.com/news/4624734/healthcare-interoperability-solutions-market-to-reach-usd-18-9">Openpr.com</source>
-    </item>
-    <item>
-      <title>Smart Thermometers Market to Reach USD 1.99 Billion by 2033 | 11.3% CAGR Driven by Connected Healthcare &amp; Remote Monitoring</title>
-      <link>https://oracle-university.com/stories/smart-thermometers-market-to-reach-usd-1-99-billion-by-2033-11-3-cagr-driven-by-connecte-36e1cf/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/smart-thermometers-market-to-reach-usd-1-99-billion-by-2033-11-3-cagr-driven-by-connecte-36e1cf/</guid>
-      <pubDate>Tue, 08 Sep 2026 10:02:28 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>The global Smart Thermometers Market reached US$ 852.9 million in 2025 and is expected to reach US$ 1,990.39 million by 2033, growing at a CAGR of 11.3% during 2026-2033. The market is gaining strong momentum with rising demand for accurate,</description>
-      <source url="https://www.openpr.com/news/4624729/smart-thermometers-market-to-reach-usd-1-99-billion-by-2033">Openpr.com</source>
-    </item>
-    <item>
-      <title>Dow, S&amp;P 500, Nasdaq Futures Slide As Iran Conflict Sends Oil Back Toward $100: TSLA, NVDA, ORCL, INTC, BIDU, BABA, BE In Focus</title>
-      <link>https://oracle-university.com/stories/dow-s-p-500-nasdaq-futures-slide-as-iran-conflict-sends-oil-back-toward-100-tsla-nvda-or-c8ec77/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/dow-s-p-500-nasdaq-futures-slide-as-iran-conflict-sends-oil-back-toward-100-tsla-nvda-or-c8ec77/</guid>
-      <pubDate>Tue, 08 Sep 2026 09:45:01 GMT</pubDate>
+      <title>Oracle Layoffs for September Already Started? Check Details</title>
+      <link>https://oracle-university.com/stories/oracle-layoffs-for-september-already-started-check-details-910ccd/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-layoffs-for-september-already-started-check-details-910ccd/</guid>
+      <pubDate>Wed, 09 Sep 2026 10:30:37 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Despite macro headwinds and trade tariff concerns, retail sentiment on Stocktwits flipped to ‘bullish’ on SPY and QQQ.</description>
-      <source url="https://newsable.asianetnews.com/markets/dow-s-p-500-nasdaq-futures-slide-as-iran-conflict-sends-oil-back-toward-100-tsla-nvda-orcl-intc-bidu-baba-be-in-focus-articleshow-lrtzy2f">Asianet Newsable</source>
+      <description>Oracle faces growing employee anxiety over potential layoffs, with reports suggesting 7,000 to 10,000 jobs could be affected globally. The uncertainty comes as the company cuts costs and invests heavily in AI infrastructure, even while its stock valuation rises sharply on strong investor confidence.</description>
+      <source url="https://www.latestly.com/technology/oracle-layoffs-for-september-already-started-check-details-7596754.html">Latestly</source>
     </item>
     <item>
-      <title>POS terminal market gains momentum with rising adoption of cashless and contactless payments</title>
-      <link>https://oracle-university.com/stories/pos-terminal-market-gains-momentum-with-rising-adoption-of-cashless-and-contactless-paym-8ff8d5/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/pos-terminal-market-gains-momentum-with-rising-adoption-of-cashless-and-contactless-paym-8ff8d5/</guid>
-      <pubDate>Tue, 08 Sep 2026 09:43:40 GMT</pubDate>
+      <title>SQL POWER() Function</title>
+      <link>https://oracle-university.com/stories/sql-power-function-c3c3f6/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/sql-power-function-c3c3f6/</guid>
+      <pubDate>Wed, 09 Sep 2026 10:16:33 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>The POWER() function in SQL is a mathematical function used to raise a number to the power of another number. It returns the result of the specified base number raised to the specified exponent.Useful for mathematical and numerical calculations.Used with integer and decimal values.SyntaxPOWER(number</description>
+      <source url="https://www.geeksforgeeks.org/sql/power-function-in-sql/">Geeksforgeeks</source>
+    </item>
+    <item>
+      <title>Nasdaq, Dow, S&amp;P 500 Futures Mixed As Oil Hits $100 Again: QCOM, ORCL, AAPL, AMD, TSLA, RKLB, HOOD, GME In Focus</title>
+      <link>https://oracle-university.com/stories/nasdaq-dow-s-p-500-futures-mixed-as-oil-hits-100-again-qcom-orcl-aapl-amd-tsla-rklb-hood-3ee303/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/nasdaq-dow-s-p-500-futures-mixed-as-oil-hits-100-again-qcom-orcl-aapl-amd-tsla-rklb-hood-3ee303/</guid>
+      <pubDate>Wed, 09 Sep 2026 09:40:01 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Retail sentiment on Stocktwits remained ‘bullish’ on SPY and QQQ.</description>
+      <source url="https://newsable.asianetnews.com/markets/nasdaq-dow-s-p-500-futures-mixed-as-oil-hits-100-again-qcom-orcl-aapl-amd-tsla-rklb-hood-gme-in-focus-articleshow-hgayql8">Asianet Newsable</source>
+    </item>
+    <item>
+      <title>US hails Ruto’s investment strategy as bold, progressive</title>
+      <link>https://oracle-university.com/stories/us-hails-ruto-s-investment-strategy-as-bold-progressive-3ab04a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/us-hails-ruto-s-investment-strategy-as-bold-progressive-3ab04a/</guid>
+      <pubDate>Wed, 09 Sep 2026 09:26:16 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>The global POS terminal market is advancing rapidly as businesses move toward digital, cashless, and increasingly connected payment environments. According to Bonafide Research, the market was valued at more than USD 104.27 billion in 2024 and is expected to reach</description>
-      <source url="https://www.openpr.com/news/4624695/pos-terminal-market-gains-momentum-with-rising-adoption">Openpr.com</source>
+      <description>Garcia said Washington was shifting its engagement with Africa from traditional aid-based relations towards trade and investment.</description>
+      <source url="https://capitalfm.africa/us-hails-rutos-investment-strategy-as-bold-progressive/">Capital News</source>
     </item>
     <item>
-      <title>AI Telehealth Platforms Market to Reach US$115.72 Billion by 2032, Expanding at 23.7% CAGR as Intelligent Virtual Care Accelerates</title>
-      <link>https://oracle-university.com/stories/ai-telehealth-platforms-market-to-reach-us-115-72-billion-by-2032-expanding-at-23-7-cagr-16ad8e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-telehealth-platforms-market-to-reach-us-115-72-billion-by-2032-expanding-at-23-7-cagr-16ad8e/</guid>
-      <pubDate>Tue, 08 Sep 2026 09:38:15 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>The global AI Telehealth Platforms Market is emerging as one of the most important areas within digital healthcare as artificial intelligence and telemedicine increasingly converge into integrated care-delivery systems. AI telehealth platforms combine remote consultations with intelligent technologi</description>
-      <source url="https://www.openpr.com/news/4624685/ai-telehealth-platforms-market-to-reach-us-115-72-billion">Openpr.com</source>
-    </item>
-    <item>
-      <title>Respiratory Care Devices Market to Reach USD 48.01 Billion by 2035, Driven by Rising Respiratory Diseases, Home Healthcare &amp; Advanced Ventilation Technologies</title>
-      <link>https://oracle-university.com/stories/respiratory-care-devices-market-to-reach-usd-48-01-billion-by-2035-driven-by-rising-resp-a2761d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/respiratory-care-devices-market-to-reach-usd-48-01-billion-by-2035-driven-by-rising-resp-a2761d/</guid>
-      <pubDate>Tue, 08 Sep 2026 09:36:53 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>The global Respiratory Care Devices Market reached US$ 25.92 billion in 2025 and is expected to reach US$ 48.01 billion by 2035, growing at a CAGR of 6.4% during 2026-2035. The market is gaining momentum with rising demand for respiratory</description>
-      <source url="https://www.openpr.com/news/4624684/respiratory-care-devices-market-to-reach-usd-48-01-billion">Openpr.com</source>
-    </item>
-    <item>
-      <title>Meet DC’s 2026 Tech Titans</title>
-      <link>https://oracle-university.com/stories/meet-dc-s-2026-tech-titans-3e11f5/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/meet-dc-s-2026-tech-titans-3e11f5/</guid>
-      <pubDate>Tue, 08 Sep 2026 09:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Washington is now an epicenter of the AI boom, with billions of dollars being poured into rapidly developing the technology and a federal government that can’t come to a consensus on whether to embrace or contain it. More companies are moving past novelty chatbots and instead building “agentic” AI s</description>
-      <source url="https://washingtonian.com/2026/09/08/meet-dcs-2026-tech-titans/">Washingtonian - The Website That Washington Lives</source>
-    </item>
-    <item>
-      <title>Healthcare Supply Chain Management Market Set to Reach US$11.58 Billion by 2033 | AI, Autonomous Inventory, Digital Traceability and Supply Chain Resilience</title>
-      <link>https://oracle-university.com/stories/healthcare-supply-chain-management-market-set-to-reach-us-11-58-billion-by-2033-ai-auton-fc02ed/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/healthcare-supply-chain-management-market-set-to-reach-us-11-58-billion-by-2033-ai-auton-fc02ed/</guid>
-      <pubDate>Tue, 08 Sep 2026 06:21:05 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>According to DataM Intelligence, the global Healthcare Supply Chain Management Market reached US$3.92 billion in 2025 and is projected to reach US$11.58 billion by 2033, advancing at a CAGR of 14.9% during 2026-2033, The market is rapidly evolving as</description>
-      <source url="https://www.openpr.com/news/4624457/healthcare-supply-chain-management-market-set-to-reach-us-11-58">Openpr.com</source>
-    </item>
-    <item>
-      <title>Oracle (ORCL) to Announce Earnings on Thursday</title>
-      <link>https://oracle-university.com/stories/oracle-orcl-to-announce-earnings-on-thursday-3e01fb/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-orcl-to-announce-earnings-on-thursday-3e01fb/</guid>
-      <pubDate>Tue, 08 Sep 2026 05:10:47 GMT</pubDate>
+      <title>Electronic Data Capture Systems Market to Reach USD 7.4 Billion by 2036 as Clinical Research Moves Toward Integrated Digital Data Management</title>
+      <link>https://oracle-university.com/stories/electronic-data-capture-systems-market-to-reach-usd-7-4-billion-by-2036-as-clinical-rese-ff518a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/electronic-data-capture-systems-market-to-reach-usd-7-4-billion-by-2036-as-clinical-rese-ff518a/</guid>
+      <pubDate>Wed, 09 Sep 2026 09:23:25 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Oracle (NYSE:ORCL – Get Free Report) is anticipated to announce its Q1 2027 results after the market closes on Thursday, September 10th. Analysts expect the company to announce earnings of $1.74 per share and revenue of $19.1314 billion for the quarter. Oracle has set its Q1 2027 guidance at 1.720-1</description>
-      <source url="https://www.thelincolnianonline.com/2026/09/08/oracle-orcl-to-announce-earnings-on-thursday.html">The Lincolnian Online</source>
+      <description>Rockville, Maryland, United States – September 9, 2026 – The U.S. Food and Drug Administration’s guidance on electronic systems and records in clinical investigations emphasizes that computerized systems used to create, maintain, retrieve, and transmit clinical data must support trustworthy and reli</description>
+      <source url="http://prsync.com/httpswwwfactmrcom/electronic-data-capture-systems-market-to-reach-usd--billion-by--as-clinical-research-moves-toward-integrated-digital-data-manag-5200729/">Pr Sync</source>
     </item>
     <item>
-      <title>ORCL Stock Rallies Into Earnings Week: OpenAI GPT-6 Astra Buzz, Morgan Stanley’s Big Target Give Bulls A Boost</title>
-      <link>https://oracle-university.com/stories/orcl-stock-rallies-into-earnings-week-openai-gpt-6-astra-buzz-morgan-stanley-s-big-targe-0cae1f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/orcl-stock-rallies-into-earnings-week-openai-gpt-6-astra-buzz-morgan-stanley-s-big-targe-0cae1f/</guid>
-      <pubDate>Tue, 08 Sep 2026 03:35:01 GMT</pubDate>
+      <title>JMP Securities maintains Oracle stock rating ahead of earnings</title>
+      <link>https://oracle-university.com/stories/jmp-securities-maintains-oracle-stock-rating-ahead-of-earnings-bfb988/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/jmp-securities-maintains-oracle-stock-rating-ahead-of-earnings-bfb988/</guid>
+      <pubDate>Wed, 09 Sep 2026 09:18:09 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Oracle shares extend a three-day rally as OpenAI’s GPT-6 Astra boosts optimism around its AI cloud opportunity.</description>
-      <source url="https://newsable.asianetnews.com/markets/orcl-stock-rallies-into-earnings-week-openai-gpt-6-astra-buzz-morgan-stanley-s-big-target-give-bulls-a-boost-articleshow-3s24v1k">Asianet Newsable</source>
+      <description>JMP Securities maintains Oracle stock rating ahead of earnings</description>
+      <source url="https://in.investing.com/news/stock-market-news/jmp-securities-maintains-oracle-stock-rating-ahead-of-earnings-93CH-5585774">Investing India</source>
     </item>
     <item>
-      <title>I Built a Mail Server From Scratch and Spent Most of My Time on Four DNS Records</title>
-      <link>https://oracle-university.com/stories/i-built-a-mail-server-from-scratch-and-spent-most-of-my-time-on-four-dns-records-df3ee9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/i-built-a-mail-server-from-scratch-and-spent-most-of-my-time-on-four-dns-records-df3ee9/</guid>
-      <pubDate>Tue, 08 Sep 2026 01:41:49 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Build a mail server from a bare VPS with CyberPanel, then get it to 10/10 on mail-tester: PTR, SPF, DKIM, DMARC, and the OpenDKIM milter trap.</description>
-      <source url="https://hackernoon.com/i-built-a-mail-server-from-scratch-and-spent-most-of-my-time-on-four-dns-records">Hackernoon</source>
-    </item>
-    <item>
-      <title>Is Oracle stock a buy before earnings as analysts turn bullish?</title>
-      <link>https://oracle-university.com/stories/is-oracle-stock-a-buy-before-earnings-as-analysts-turn-bullish-bfe37c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/is-oracle-stock-a-buy-before-earnings-as-analysts-turn-bullish-bfe37c/</guid>
-      <pubDate>Tue, 08 Sep 2026 00:41:07 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Oracle is heading into its latest earnings report with investors focused on one central question: can the software giant’s rapidly expanding artificial intelligence infrastructure business grow fast enough to justify the enormous spending required to build it? The company, led by Larry Ellison, is s</description>
-      <source url="https://etf-alerts.com/2026/09/08/is-oracle-stock-a-buy-before-earnings-as-analysts-turn-bullish/">Etf Alerts</source>
-    </item>
-    <item>
-      <title>EU regulators send early warning to Oracle ahead of earnings</title>
-      <link>https://oracle-university.com/stories/eu-regulators-send-early-warning-to-oracle-ahead-of-earnings-8714f0/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/eu-regulators-send-early-warning-to-oracle-ahead-of-earnings-8714f0/</guid>
-      <pubDate>Tue, 08 Sep 2026 00:03:00 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Brussels is asking questions about Oracle’s cloud licensing just as the company reports first-quarter results.</description>
-      <source url="https://finance.yahoo.com/markets/stocks/articles/eu-regulators-send-early-warning-000300590.html">Yahoo! News</source>
-    </item>
-    <item>
-      <title>Oracle OPERA Cloud Welcomes Rest: A Leap in Smoking Detection Technology</title>
-      <link>https://oracle-university.com/stories/oracle-opera-cloud-welcomes-rest-a-leap-in-smoking-detection-technology-d1bb36/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-opera-cloud-welcomes-rest-a-leap-in-smoking-detection-technology-d1bb36/</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <title>Eftsure acquires Relish</title>
+      <link>https://oracle-university.com/stories/eftsure-acquires-relish-b050f4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/eftsure-acquires-relish-b050f4/</guid>
+      <pubDate>Wed, 09 Sep 2026 08:40:13 GMT</pubDate>
       <category>Oracle Ecosystem</category>
       <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://hospitalitynews.in/featured/oracle-opera-cloud-welcomes-rest-a-leap-in-smoking-detection-technology">Hospitalitynews</source>
+      <source url="https://www.finextra.com/pressarticle/110846/eftsure-acquires-relish">Finextra</source>
     </item>
     <item>
-      <title>Computer Science</title>
-      <link>https://oracle-university.com/stories/computer-science-5db941/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/computer-science-5db941/</guid>
-      <pubDate>Tue, 08 Sep 2026 00:00:00 GMT</pubDate>
+      <title>Healthcare Command Centers Market: Cloud vs. Hybrid Deployment Trends</title>
+      <link>https://oracle-university.com/stories/healthcare-command-centers-market-cloud-vs-hybrid-deployment-trends-c88125/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/healthcare-command-centers-market-cloud-vs-hybrid-deployment-trends-c88125/</guid>
+      <pubDate>Wed, 09 Sep 2026 07:24:13 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Hospitals are under constant pressure to do more with less — fewer beds available, tighter staffing, and rising patient volumes. Increasingly, health systems are turning [read full press release...]</description>
+      <source url="https://express-press-release.net/news/2026/09/09/1771153">Express-press-release</source>
+    </item>
+    <item>
+      <title>Data Quality Management Market Size to Reach US$16 Billion by 2033 at 8.7% CAGR: Growth Trends Analysis Growth</title>
+      <link>https://oracle-university.com/stories/data-quality-management-market-size-to-reach-us-16-billion-by-2033-at-8-7-cagr-growth-tr-764a99/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/data-quality-management-market-size-to-reach-us-16-billion-by-2033-at-8-7-cagr-growth-tr-764a99/</guid>
+      <pubDate>Wed, 09 Sep 2026 05:40:03 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The global data quality management market is expanding as organizations increasingly recognize that accurate, consistent, complete, and reliable data is essential for effective decision-making. Enterprises across banking, healthcare, retail, manufacturing, telecommunications, government, and other s</description>
+      <source url="https://www.openpr.com/news/4625673/data-quality-management-market-size-to-reach-us-16-billion">Openpr.com</source>
+    </item>
+    <item>
+      <title>Oracle (ORCL) Expected to Announce Earnings on Thursday</title>
+      <link>https://oracle-university.com/stories/oracle-orcl-expected-to-announce-earnings-on-thursday-4f8c90/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-orcl-expected-to-announce-earnings-on-thursday-4f8c90/</guid>
+      <pubDate>Wed, 09 Sep 2026 05:10:48 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Oracle (NYSE:ORCL – Get Free Report) is expected to announce its Q1 2027 results after the market closes on Thursday, September 10th. Analysts expect the company to announce earnings of $1.74 per share and revenue of $19.1314 billion for the quarter. Individuals can find conference call details on t</description>
+      <source url="https://www.dailypolitical.com/2026/09/08/oracle-orcl-expected-to-announce-earnings-on-thursday.html">Daily Political</source>
+    </item>
+    <item>
+      <title>Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days</title>
+      <link>https://oracle-university.com/stories/microsoft-patches-record-974-flaws-including-two-exploited-windows-zero-days-8a8a03/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/microsoft-patches-record-974-flaws-including-two-exploited-windows-zero-days-8a8a03/</guid>
+      <pubDate>Wed, 09 Sep 2026 04:41:29 GMT</pubDate>
       <category>Security</category>
-      <description>From driving cancer research forward to accurately predicting the weather, Computer Scientists are powering progress. In fact everything from social care to cybersecurity or even space travel, relies on the talents of Computer Science graduates. We would say the sky is the limit, but we’re already w</description>
-      <source url="https://www.qub.ac.uk/courses/undergraduate/computer-science-meng-g402/">Queen&#39;s University Belfast</source>
+      <description>Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild. These include 723 flaws in Windows, 111 in Office and Office 2016, 62 in SQL, and 22 in D</description>
+      <source url="https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html">The Hacker News</source>
     </item>
     <item>
-      <title>Here are the 3 big things we&#39;re watching in this holiday-shortened trading week</title>
-      <link>https://oracle-university.com/stories/here-are-the-3-big-things-we-re-watching-in-this-holiday-shortened-trading-week-310d81/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/here-are-the-3-big-things-we-re-watching-in-this-holiday-shortened-trading-week-310d81/</guid>
-      <pubDate>Mon, 07 Sep 2026 23:59:29 GMT</pubDate>
+      <title>HPE deepens Oracle tie-up on AI data centre networking</title>
+      <link>https://oracle-university.com/stories/hpe-deepens-oracle-tie-up-on-ai-data-centre-networking-bc0de2/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/hpe-deepens-oracle-tie-up-on-ai-data-centre-networking-bc0de2/</guid>
+      <pubDate>Wed, 09 Sep 2026 02:25:00 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.bundle.app/en/finance/here-are-the-3-big-things-were-watching-in-this-holiday-shortened-trading-week-0396CA06-7342-48E1-B736-D19F3215D650">Bundle</source>
+      <description>The multi-year rollout aims to ease bandwidth and latency bottlenecks as Oracle scales GPU-heavy cloud clusters across its global AI estate.</description>
+      <source url="https://itbrief.co.nz/story/hpe-deepens-oracle-tie-up-on-ai-data-centre-networking">It Brief New Zealand</source>
+    </item>
+    <item>
+      <title>Guggenheim Calls Oracle Stock (ORCL) its ‘Best Idea’ Ahead of Q1 Earnings</title>
+      <link>https://oracle-university.com/stories/guggenheim-calls-oracle-stock-orcl-its-best-idea-ahead-of-q1-earnings-02ba5f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/guggenheim-calls-oracle-stock-orcl-its-best-idea-ahead-of-q1-earnings-02ba5f/</guid>
+      <pubDate>Wed, 09 Sep 2026 00:47:44 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>AI cloud computing and database software company Oracle (ORCL) will announce its fiscal first-quarter earnings on September 10. Heading into Q1 ...</description>
+      <source url="https://markets.businessinsider.com/news/stocks/guggenheim-calls-oracle-stock-orcl-its-best-idea-ahead-of-q1-earnings-1036530785">Markets Insider</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -457,6 +430,33 @@
       <category>AI &amp; Database</category>
       <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In this two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle AI Vector an</description>
       <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-for-data-when-data-meet-intelligence">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Part II of AI for Data: When Data meets Intelligence</title>
+      <link>https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</guid>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In the second of a two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle A</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-of-data-for-ai-when-data-meets-intelligence">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Cloud Data Centers: Core Concepts - Part 1</title>
+      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</guid>
+      <pubDate>Tue, 07 Oct 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Curious about what really goes on inside a cloud data center? In this episode, Lois Houston and Nikita Abraham chat with Principal OCI Instructor Orlando Gentil about how cloud data centers are transforming the way organizations manage technology. They explore the differences between traditional and</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-1">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Oracle AI for Fusion Apps</title>
+      <link>https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</guid>
+      <pubDate>Tue, 23 Sep 2025 11:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Want to make AI work for your business? In today&#39;s episode, Lois Houston and Nikita Abraham continue their discussion of AI in Oracle Fusion Applications by focusing on three key AI capabilities: predictive, generative, and agentic. Joining them is Principal Instructor Yunus Mohammed, who explains h</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-ai-for-fusion-apps">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>

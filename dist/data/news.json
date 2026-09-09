@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T22:47:38.385Z",
+  "generatedAt": "2026-09-09T22:38:43.746Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,47 +7,57 @@
   },
   "items": [
     {
-      "id": "a58aa4ed521f5280",
-      "slug": "healthcare-interoperability-solutions-market-to-reach-usd-18-9-billion-by-2036-at-14-6-c-b364e2",
-      "title": "Healthcare interoperability solutions market to reach USD 18.9 billion by 2036 at 14.6% CAGR, driven by EHRs, FHIR, APIs, AI, cloud healthcare and secure data exchange | Latest Report TMR",
-      "dek": "The healthcare interoperability solutions market includes software, platforms, technologies, and services that enable secure, standardized, and efficient exchange of healthcare information across different systems and organizations. These solutions connect electronic health records (EHRs), hospital ",
-      "url": "https://www.openpr.com/news/4624734/healthcare-interoperability-solutions-market-to-reach-usd-18-9",
-      "source": "Openpr.com",
+      "id": "a9e1df65ccb5cc57",
+      "slug": "oracle-layoffs-for-september-already-started-check-details-910ccd",
+      "title": "Oracle Layoffs for September Already Started? Check Details",
+      "dek": "Oracle faces growing employee anxiety over potential layoffs, with reports suggesting 7,000 to 10,000 jobs could be affected globally. The uncertainty comes as the company cuts costs and invests heavily in AI infrastructure, even while its stock valuation rises sharply on strong investor confidence.",
+      "url": "https://www.latestly.com/technology/oracle-layoffs-for-september-already-started-check-details-7596754.html",
+      "source": "Latestly",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L908472080_k.jpg",
-      "publishedAt": "2026-09-08T10:04:09.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://st1.latestly.com/wp-content/uploads/2026/04/oracle.jpg",
+      "publishedAt": "2026-09-09T10:30:37.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "health & medicine"
+        "oracle layoffs 2026",
+        "oracle restructuring",
+        "oracle stock price",
+        "oracle layoffs india",
+        "oracle cloud business",
+        "oracle layoffs"
       ],
       "priority": 43
     },
     {
-      "id": "806e1a714e814dcc",
-      "slug": "smart-thermometers-market-to-reach-usd-1-99-billion-by-2033-11-3-cagr-driven-by-connecte-36e1cf",
-      "title": "Smart Thermometers Market to Reach USD 1.99 Billion by 2033 | 11.3% CAGR Driven by Connected Healthcare & Remote Monitoring",
-      "dek": "The global Smart Thermometers Market reached US$ 852.9 million in 2025 and is expected to reach US$ 1,990.39 million by 2033, growing at a CAGR of 11.3% during 2026-2033. The market is gaining strong momentum with rising demand for accurate,",
-      "url": "https://www.openpr.com/news/4624729/smart-thermometers-market-to-reach-usd-1-99-billion-by-2033",
-      "source": "Openpr.com",
+      "id": "c2ed23f8fc8a755c",
+      "slug": "sql-power-function-c3c3f6",
+      "title": "SQL POWER() Function",
+      "dek": "The POWER() function in SQL is a mathematical function used to raise a number to the power of another number. It returns the result of the specified base number raised to the specified exponent.Useful for mathematical and numerical calculations.Used with integer and decimal values.SyntaxPOWER(number",
+      "url": "https://www.geeksforgeeks.org/sql/power-function-in-sql/",
+      "source": "Geeksforgeeks",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L908718124_k.jpg",
-      "publishedAt": "2026-09-08T10:02:28.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://media.geeksforgeeks.org/wp-content/uploads/20260904212124429924/22.PNG",
+      "publishedAt": "2026-09-09T10:16:33.000Z",
+      "topic": "AI & Database",
       "tags": [
-        "health & medicine"
+        "competitive programming",
+        "news",
+        "exams",
+        "puzzles",
+        "programming",
+        "c"
       ],
       "priority": 43
     },
     {
-      "id": "d7e1194ee5febe45",
-      "slug": "dow-s-p-500-nasdaq-futures-slide-as-iran-conflict-sends-oil-back-toward-100-tsla-nvda-or-c8ec77",
-      "title": "Dow, S&P 500, Nasdaq Futures Slide As Iran Conflict Sends Oil Back Toward $100: TSLA, NVDA, ORCL, INTC, BIDU, BABA, BE In Focus",
-      "dek": "Despite macro headwinds and trade tariff concerns, retail sentiment on Stocktwits flipped to ‘bullish’ on SPY and QQQ.",
-      "url": "https://newsable.asianetnews.com/markets/dow-s-p-500-nasdaq-futures-slide-as-iran-conflict-sends-oil-back-toward-100-tsla-nvda-orcl-intc-bidu-baba-be-in-focus-articleshow-lrtzy2f",
+      "id": "6f3ce698e8e4a984",
+      "slug": "nasdaq-dow-s-p-500-futures-mixed-as-oil-hits-100-again-qcom-orcl-aapl-amd-tsla-rklb-hood-3ee303",
+      "title": "Nasdaq, Dow, S&P 500 Futures Mixed As Oil Hits $100 Again: QCOM, ORCL, AAPL, AMD, TSLA, RKLB, HOOD, GME In Focus",
+      "dek": "Retail sentiment on Stocktwits remained ‘bullish’ on SPY and QQQ.",
+      "url": "https://newsable.asianetnews.com/markets/nasdaq-dow-s-p-500-futures-mixed-as-oil-hits-100-again-qcom-orcl-aapl-amd-tsla-rklb-hood-gme-in-focus-articleshow-hgayql8",
       "source": "Asianet Newsable",
       "sourceType": "external",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-c05b27e7-1d5f-431c-85b7-e1798b6aced4.webp",
-      "publishedAt": "2026-09-08T09:45:01.000Z",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-9a0df4ad-1a4d-4fd2-98a6-6a3b67a12a24.jpg",
+      "publishedAt": "2026-09-09T09:40:01.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "markets"
@@ -55,219 +65,173 @@
       "priority": 42
     },
     {
-      "id": "574b9b729d1117e8",
-      "slug": "pos-terminal-market-gains-momentum-with-rising-adoption-of-cashless-and-contactless-paym-8ff8d5",
-      "title": "POS terminal market gains momentum with rising adoption of cashless and contactless payments",
-      "dek": "The global POS terminal market is advancing rapidly as businesses move toward digital, cashless, and increasingly connected payment environments. According to Bonafide Research, the market was valued at more than USD 104.27 billion in 2024 and is expected to reach",
-      "url": "https://www.openpr.com/news/4624695/pos-terminal-market-gains-momentum-with-rising-adoption",
-      "source": "Openpr.com",
+      "id": "0823cafaafb7be01",
+      "slug": "us-hails-ruto-s-investment-strategy-as-bold-progressive-3ab04a",
+      "title": "US hails Ruto’s investment strategy as bold, progressive",
+      "dek": "Garcia said Washington was shifting its engagement with Africa from traditional aid-based relations towards trade and investment.",
+      "url": "https://capitalfm.africa/us-hails-rutos-investment-strategy-as-bold-progressive/",
+      "source": "Capital News",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L908799541_k.jpg",
-      "publishedAt": "2026-09-08T09:43:40.000Z",
+      "image": "https://capitalfm.africa/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-12.23.21-PM.jpeg",
+      "publishedAt": "2026-09-09T09:26:16.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "it",
-        "new media & software"
+        "amcham kenya",
+        "windsor business summit",
+        "william ruto",
+        "american chamber of commerce kenya",
+        "news",
+        "us-kenya relations"
       ],
       "priority": 42
     },
     {
-      "id": "b4439d18ba75cf27",
-      "slug": "ai-telehealth-platforms-market-to-reach-us-115-72-billion-by-2032-expanding-at-23-7-cagr-16ad8e",
-      "title": "AI Telehealth Platforms Market to Reach US$115.72 Billion by 2032, Expanding at 23.7% CAGR as Intelligent Virtual Care Accelerates",
-      "dek": "The global AI Telehealth Platforms Market is emerging as one of the most important areas within digital healthcare as artificial intelligence and telemedicine increasingly converge into integrated care-delivery systems. AI telehealth platforms combine remote consultations with intelligent technologi",
-      "url": "https://www.openpr.com/news/4624685/ai-telehealth-platforms-market-to-reach-us-115-72-billion",
-      "source": "Openpr.com",
+      "id": "954ffb6e01c08d3e",
+      "slug": "electronic-data-capture-systems-market-to-reach-usd-7-4-billion-by-2036-as-clinical-rese-ff518a",
+      "title": "Electronic Data Capture Systems Market to Reach USD 7.4 Billion by 2036 as Clinical Research Moves Toward Integrated Digital Data Management",
+      "dek": "Rockville, Maryland, United States – September 9, 2026 – The U.S. Food and Drug Administration’s guidance on electronic systems and records in clinical investigations emphasizes that computerized systems used to create, maintain, retrieve, and transmit clinical data must support trustworthy and reli",
+      "url": "http://prsync.com/httpswwwfactmrcom/electronic-data-capture-systems-market-to-reach-usd--billion-by--as-clinical-research-moves-toward-integrated-digital-data-manag-5200729/",
+      "source": "Pr Sync",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L908753150_k.jpg",
-      "publishedAt": "2026-09-08T09:38:15.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "it",
-        "new media & software"
-      ],
+      "image": "",
+      "publishedAt": "2026-09-09T09:23:25.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
       "priority": 42
     },
     {
-      "id": "16fc168311e19427",
-      "slug": "respiratory-care-devices-market-to-reach-usd-48-01-billion-by-2035-driven-by-rising-resp-a2761d",
-      "title": "Respiratory Care Devices Market to Reach USD 48.01 Billion by 2035, Driven by Rising Respiratory Diseases, Home Healthcare & Advanced Ventilation Technologies",
-      "dek": "The global Respiratory Care Devices Market reached US$ 25.92 billion in 2025 and is expected to reach US$ 48.01 billion by 2035, growing at a CAGR of 6.4% during 2026-2035. The market is gaining momentum with rising demand for respiratory",
-      "url": "https://www.openpr.com/news/4624684/respiratory-care-devices-market-to-reach-usd-48-01-billion",
-      "source": "Openpr.com",
+      "id": "5dfb7936c51b4378",
+      "slug": "jmp-securities-maintains-oracle-stock-rating-ahead-of-earnings-bfb988",
+      "title": "JMP Securities maintains Oracle stock rating ahead of earnings",
+      "dek": "JMP Securities maintains Oracle stock rating ahead of earnings",
+      "url": "https://in.investing.com/news/stock-market-news/jmp-securities-maintains-oracle-stock-rating-ahead-of-earnings-93CH-5585774",
+      "source": "Investing India",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L908303849_k.jpg",
-      "publishedAt": "2026-09-08T09:36:53.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "health & medicine"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "dea6e266221ddbad",
-      "slug": "meet-dc-s-2026-tech-titans-3e11f5",
-      "title": "Meet DC’s 2026 Tech Titans",
-      "dek": "Washington is now an epicenter of the AI boom, with billions of dollars being poured into rapidly developing the technology and a federal government that can’t come to a consensus on whether to embrace or contain it. More companies are moving past novelty chatbots and instead building “agentic” AI s",
-      "url": "https://washingtonian.com/2026/09/08/meet-dcs-2026-tech-titans/",
-      "source": "Washingtonian - The Website That Washington Lives",
-      "sourceType": "external",
-      "image": "https://washingtonian.com/wp-content/uploads/2026/09/Tech-Titans-2026-lead-large.png",
-      "publishedAt": "2026-09-08T09:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "news & politics",
-        "tech titans"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "051ff313ea79cfff",
-      "slug": "healthcare-supply-chain-management-market-set-to-reach-us-11-58-billion-by-2033-ai-auton-fc02ed",
-      "title": "Healthcare Supply Chain Management Market Set to Reach US$11.58 Billion by 2033 | AI, Autonomous Inventory, Digital Traceability and Supply Chain Resilience",
-      "dek": "According to DataM Intelligence, the global Healthcare Supply Chain Management Market reached US$3.92 billion in 2025 and is projected to reach US$11.58 billion by 2033, advancing at a CAGR of 14.9% during 2026-2033, The market is rapidly evolving as",
-      "url": "https://www.openpr.com/news/4624457/healthcare-supply-chain-management-market-set-to-reach-us-11-58",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L908579308_k.jpg",
-      "publishedAt": "2026-09-08T06:21:05.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "health & medicine"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "a4b7e33b7ef5eb52",
-      "slug": "oracle-orcl-to-announce-earnings-on-thursday-3e01fb",
-      "title": "Oracle (ORCL) to Announce Earnings on Thursday",
-      "dek": "Oracle (NYSE:ORCL – Get Free Report) is anticipated to announce its Q1 2027 results after the market closes on Thursday, September 10th. Analysts expect the company to announce earnings of $1.74 per share and revenue of $19.1314 billion for the quarter. Oracle has set its Q1 2027 guidance at 1.720-1",
-      "url": "https://www.thelincolnianonline.com/2026/09/08/oracle-orcl-to-announce-earnings-on-thursday.html",
-      "source": "The Lincolnian Online",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-09-08T05:10:47.000Z",
+      "image": "https://content-media.investing.com/news/oracle_2_M_1440048709.jpg",
+      "publishedAt": "2026-09-09T09:18:09.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "earnings previews",
-        "stocks"
+        "Earnings"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "a9ffb1516ead5373",
+      "slug": "eftsure-acquires-relish-b050f4",
+      "title": "Eftsure acquires Relish",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.finextra.com/pressarticle/110846/eftsure-acquires-relish",
+      "source": "Finextra",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-09T08:40:13.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "technology",
+        "banking",
+        "it",
+        "mobile",
+        "challenger",
+        "digital"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "a8bde07aa69a880a",
+      "slug": "healthcare-command-centers-market-cloud-vs-hybrid-deployment-trends-c88125",
+      "title": "Healthcare Command Centers Market: Cloud vs. Hybrid Deployment Trends",
+      "dek": "Hospitals are under constant pressure to do more with less — fewer beds available, tighter staffing, and rising patient volumes. Increasingly, health systems are turning [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/09/09/1771153",
+      "source": "Express-press-release",
+      "sourceType": "external",
+      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
+      "publishedAt": "2026-09-09T07:24:13.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "internet & online"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "9ce0fdcad3da78fd",
+      "slug": "data-quality-management-market-size-to-reach-us-16-billion-by-2033-at-8-7-cagr-growth-tr-764a99",
+      "title": "Data Quality Management Market Size to Reach US$16 Billion by 2033 at 8.7% CAGR: Growth Trends Analysis Growth",
+      "dek": "The global data quality management market is expanding as organizations increasingly recognize that accurate, consistent, complete, and reliable data is essential for effective decision-making. Enterprises across banking, healthcare, retail, manufacturing, telecommunications, government, and other s",
+      "url": "https://www.openpr.com/news/4625673/data-quality-management-market-size-to-reach-us-16-billion",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/9/L909695276_k.jpg",
+      "publishedAt": "2026-09-09T05:40:03.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "it",
+        "new media & software"
       ],
       "priority": 39
     },
     {
-      "id": "e9bc335a1a8eae6a",
-      "slug": "orcl-stock-rallies-into-earnings-week-openai-gpt-6-astra-buzz-morgan-stanley-s-big-targe-0cae1f",
-      "title": "ORCL Stock Rallies Into Earnings Week: OpenAI GPT-6 Astra Buzz, Morgan Stanley’s Big Target Give Bulls A Boost",
-      "dek": "Oracle shares extend a three-day rally as OpenAI’s GPT-6 Astra boosts optimism around its AI cloud opportunity.",
-      "url": "https://newsable.asianetnews.com/markets/orcl-stock-rallies-into-earnings-week-openai-gpt-6-astra-buzz-morgan-stanley-s-big-target-give-bulls-a-boost-articleshow-3s24v1k",
-      "source": "Asianet Newsable",
+      "id": "43d986b36a144546",
+      "slug": "oracle-orcl-expected-to-announce-earnings-on-thursday-4f8c90",
+      "title": "Oracle (ORCL) Expected to Announce Earnings on Thursday",
+      "dek": "Oracle (NYSE:ORCL – Get Free Report) is expected to announce its Q1 2027 results after the market closes on Thursday, September 10th. Analysts expect the company to announce earnings of $1.74 per share and revenue of $19.1314 billion for the quarter. Individuals can find conference call details on t",
+      "url": "https://www.dailypolitical.com/2026/09/08/oracle-orcl-expected-to-announce-earnings-on-thursday.html",
+      "source": "Daily Political",
       "sourceType": "external",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-e97ecc5d-822b-4cbd-9f1b-4ba2cbd4f5e2.webp",
-      "publishedAt": "2026-09-08T03:35:01.000Z",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-09-09T05:10:48.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "markets"
+        "finance",
+        "earnings previews"
       ],
-      "priority": 38
+      "priority": 39
     },
     {
-      "id": "7f0f6e5056c3d501",
-      "slug": "i-built-a-mail-server-from-scratch-and-spent-most-of-my-time-on-four-dns-records-df3ee9",
-      "title": "I Built a Mail Server From Scratch and Spent Most of My Time on Four DNS Records",
-      "dek": "Build a mail server from a bare VPS with CyberPanel, then get it to 10/10 on mail-tester: PTR, SPF, DKIM, DMARC, and the OpenDKIM milter trap.",
-      "url": "https://hackernoon.com/i-built-a-mail-server-from-scratch-and-spent-most-of-my-time-on-four-dns-records",
-      "source": "Hackernoon",
+      "id": "d8401ad39fd33f96",
+      "slug": "microsoft-patches-record-974-flaws-including-two-exploited-windows-zero-days-8a8a03",
+      "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+      "dek": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild. These include 723 flaws in Windows, 111 in Office and Office 2016, 62 in SQL, and 22 in D",
+      "url": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+      "source": "The Hacker News",
       "sourceType": "external",
-      "image": "https://cdn.hackernoon.com/images/70VgeliRxkXfAA1KP7trNJU4c1m1-3id32b5.png",
-      "publishedAt": "2026-09-08T01:41:49.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDwCsAOIvmVbfeFtRi5yvEPa3_Nm-rryDAF-CdttSghokSjh6oKz-ECapacQiIBNW9zsIh6LQ8B61LgpR2di6819PHU1vrIT6Mj4xKihzGcz29KydoYVw8lFKbrAXYs2MNv-FMRS8GnrmlfVQTAZ0ondViX8N9uy_dCgJywMQMnXlWBmzrXw9BR2zZ0HWo/s1600/ms-windows.jpg",
+      "publishedAt": "2026-09-09T04:41:29.000Z",
+      "topic": "Security",
+      "tags": [],
+      "priority": 39
+    },
+    {
+      "id": "d2f6d00b2f2cd2f0",
+      "slug": "hpe-deepens-oracle-tie-up-on-ai-data-centre-networking-bc0de2",
+      "title": "HPE deepens Oracle tie-up on AI data centre networking",
+      "dek": "The multi-year rollout aims to ease bandwidth and latency bottlenecks as Oracle scales GPU-heavy cloud clusters across its global AI estate.",
+      "url": "https://itbrief.co.nz/story/hpe-deepens-oracle-tie-up-on-ai-data-centre-networking",
+      "source": "It Brief New Zealand",
+      "sourceType": "external",
+      "image": "https://itbrief.co.nz/uploads/story/2026/09/09/compatible_mahesh-thiagarajan-and-rami-rahim-story-318567.jpg",
+      "publishedAt": "2026-09-09T02:25:00.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "dkim",
-        "postfix",
-        "devops",
-        "email-deliverability",
-        "server-management",
-        "spf"
+        "technology"
       ],
       "priority": 37
     },
     {
-      "id": "31b9d2c547d0d4e6",
-      "slug": "is-oracle-stock-a-buy-before-earnings-as-analysts-turn-bullish-bfe37c",
-      "title": "Is Oracle stock a buy before earnings as analysts turn bullish?",
-      "dek": "Oracle is heading into its latest earnings report with investors focused on one central question: can the software giant’s rapidly expanding artificial intelligence infrastructure business grow fast enough to justify the enormous spending required to build it? The company, led by Larry Ellison, is s",
-      "url": "https://etf-alerts.com/2026/09/08/is-oracle-stock-a-buy-before-earnings-as-analysts-turn-bullish/",
-      "source": "Etf Alerts",
+      "id": "d326e768fa03517f",
+      "slug": "guggenheim-calls-oracle-stock-orcl-its-best-idea-ahead-of-q1-earnings-02ba5f",
+      "title": "Guggenheim Calls Oracle Stock (ORCL) its ‘Best Idea’ Ahead of Q1 Earnings",
+      "dek": "AI cloud computing and database software company Oracle (ORCL) will announce its fiscal first-quarter earnings on September 10. Heading into Q1 ...",
+      "url": "https://markets.businessinsider.com/news/stocks/guggenheim-calls-oracle-stock-orcl-its-best-idea-ahead-of-q1-earnings-1036530785",
+      "source": "Markets Insider",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-09-08T00:41:07.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://blog.tipranks.com/wp-content/uploads/2026/09/image-899.png?utm_source=markets.businessinsider.com&utm_medium=referral",
+      "publishedAt": "2026-09-09T00:47:44.000Z",
+      "topic": "AI & Database",
       "tags": [
-        "investing"
+        "ORCL",
+        "Earnings",
+        "AI"
       ],
-      "priority": 36
-    },
-    {
-      "id": "690a5b66d54a011e",
-      "slug": "eu-regulators-send-early-warning-to-oracle-ahead-of-earnings-8714f0",
-      "title": "EU regulators send early warning to Oracle ahead of earnings",
-      "dek": "Brussels is asking questions about Oracle’s cloud licensing just as the company reports first-quarter results.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/eu-regulators-send-early-warning-000300590.html",
-      "source": "Yahoo! News",
-      "sourceType": "external",
-      "image": "https://media.zenfs.com/en/thestreet_881/641a41c74085f31ea6177cc29b8984a1.jpg",
-      "publishedAt": "2026-09-08T00:03:00.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "10 years",
-        "2026",
-        "sap",
-        "oracle cloud infrastructure",
-        "oracle",
-        "week"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "f60847befe80e97b",
-      "slug": "oracle-opera-cloud-welcomes-rest-a-leap-in-smoking-detection-technology-d1bb36",
-      "title": "Oracle OPERA Cloud Welcomes Rest: A Leap in Smoking Detection Technology",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://hospitalitynews.in/featured/oracle-opera-cloud-welcomes-rest-a-leap-in-smoking-detection-technology",
-      "source": "Hospitalitynews",
-      "sourceType": "external",
-      "image": "https://hospitalitynews.in/uploads/images/202402/image_870x580_65c4d0ff1784d.jpg",
-      "publishedAt": "2026-09-08T00:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "35bf640438f6076f",
-      "slug": "computer-science-5db941",
-      "title": "Computer Science",
-      "dek": "From driving cancer research forward to accurately predicting the weather, Computer Scientists are powering progress. In fact everything from social care to cybersecurity or even space travel, relies on the talents of Computer Science graduates. We would say the sky is the limit, but we’re already w",
-      "url": "https://www.qub.ac.uk/courses/undergraduate/computer-science-meng-g402/",
-      "source": "Queen's University Belfast",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-09-08T00:00:00.000Z",
-      "topic": "Security",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "7af54e19705e539b",
-      "slug": "here-are-the-3-big-things-we-re-watching-in-this-holiday-shortened-trading-week-310d81",
-      "title": "Here are the 3 big things we're watching in this holiday-shortened trading week",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.bundle.app/en/finance/here-are-the-3-big-things-were-watching-in-this-holiday-shortened-trading-week-0396CA06-7342-48E1-B736-D19F3215D650",
-      "source": "Bundle",
-      "sourceType": "external",
-      "image": "https://static.bundle.app/news/31de9ec5-991b-5f6e-bd82-f94f3645b4c7.jpg",
-      "publishedAt": "2026-09-07T23:59:29.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
       "priority": 36
     },
     {
@@ -1976,6 +1940,53 @@
         "OCI",
         "Oracle University"
       ],
+      "priority": 36
+    },
+    {
+      "id": "b45e3d006fc93558",
+      "slug": "encore-episode-oci-ai-services-5e7f50",
+      "title": "Encore Episode: OCI AI Services",
+      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-28T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "57fe9154d1531745",
+      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
+      "title": "Encore Episode: Generative AI and Large Language Models",
+      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-14T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "60d141d1ef069450",
+      "slug": "encore-episode-deep-learning-fe981b",
+      "title": "Encore Episode: Deep Learning",
+      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-07T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
       "priority": 36
     }
   ]
