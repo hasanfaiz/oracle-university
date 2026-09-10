@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T22:38:43.746Z",
+  "generatedAt": "2026-09-10T22:40:59.788Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,57 +7,81 @@
   },
   "items": [
     {
-      "id": "a9e1df65ccb5cc57",
-      "slug": "oracle-layoffs-for-september-already-started-check-details-910ccd",
-      "title": "Oracle Layoffs for September Already Started? Check Details",
-      "dek": "Oracle faces growing employee anxiety over potential layoffs, with reports suggesting 7,000 to 10,000 jobs could be affected globally. The uncertainty comes as the company cuts costs and invests heavily in AI infrastructure, even while its stock valuation rises sharply on strong investor confidence.",
-      "url": "https://www.latestly.com/technology/oracle-layoffs-for-september-already-started-check-details-7596754.html",
-      "source": "Latestly",
+      "id": "202186d8a6ebe546",
+      "slug": "77-35-29-these-ai-stock-strategies-keep-beating-the-market-eb8edf",
+      "title": "+77%, +35%, +29%: These AI-stock strategies keep beating the market",
+      "dek": "+77%, +35%, +29%: These AI-stock strategies keep beating the market",
+      "url": "https://ng.investing.com/news/stock-market-news/77-35-29-these-aistock-strategies-keep-beating-the-market-2690962",
+      "source": "Investing Nigeria",
       "sourceType": "external",
-      "image": "https://st1.latestly.com/wp-content/uploads/2026/04/oracle.jpg",
-      "publishedAt": "2026-09-09T10:30:37.000Z",
+      "image": "https://content-media.investing.com/news/moved_LYNXNPEL4R0WG_L.jpg",
+      "publishedAt": "2026-09-10T10:24:09.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "oracle layoffs 2026",
-        "oracle restructuring",
-        "oracle stock price",
-        "oracle layoffs india",
-        "oracle cloud business",
-        "oracle layoffs"
+        "AI"
       ],
       "priority": 43
     },
     {
-      "id": "c2ed23f8fc8a755c",
-      "slug": "sql-power-function-c3c3f6",
-      "title": "SQL POWER() Function",
-      "dek": "The POWER() function in SQL is a mathematical function used to raise a number to the power of another number. It returns the result of the specified base number raised to the specified exponent.Useful for mathematical and numerical calculations.Used with integer and decimal values.SyntaxPOWER(number",
-      "url": "https://www.geeksforgeeks.org/sql/power-function-in-sql/",
-      "source": "Geeksforgeeks",
+      "id": "2d4da4745b05df83",
+      "slug": "financial-survey-dxc-technology-nyse-dxc-rimini-street-nasdaq-rmni-70f89c",
+      "title": "Financial Survey: DXC Technology (NYSE:DXC) & Rimini Street (NASDAQ:RMNI)",
+      "dek": "Rimini Street (NASDAQ:RMNI – Get Free Report) and DXC Technology (NYSE:DXC – Get Free Report) are both small-cap technology companies, but which is the superior investment? We will contrast the two companies based on the strength of their risk, earnings, analyst recommendations, dividends, valuation",
+      "url": "https://www.themarketsdaily.com/2026/09/10/financial-survey-dxc-technology-nysedxc-rimini-street-nasdaqrmni.html",
+      "source": "Markets Daily",
       "sourceType": "external",
-      "image": "https://media.geeksforgeeks.org/wp-content/uploads/20260904212124429924/22.PNG",
-      "publishedAt": "2026-09-09T10:16:33.000Z",
-      "topic": "AI & Database",
+      "image": "https://www.marketbeat.com/logos/dxc-technology-logo-1200x675.jpg?v=20210710112230",
+      "publishedAt": "2026-09-10T10:15:00.000Z",
+      "topic": "Security",
       "tags": [
-        "competitive programming",
-        "news",
-        "exams",
-        "puzzles",
-        "programming",
-        "c"
+        "comparison articles",
+        "stocks"
       ],
       "priority": 43
     },
     {
-      "id": "6f3ce698e8e4a984",
-      "slug": "nasdaq-dow-s-p-500-futures-mixed-as-oil-hits-100-again-qcom-orcl-aapl-amd-tsla-rklb-hood-3ee303",
-      "title": "Nasdaq, Dow, S&P 500 Futures Mixed As Oil Hits $100 Again: QCOM, ORCL, AAPL, AMD, TSLA, RKLB, HOOD, GME In Focus",
-      "dek": "Retail sentiment on Stocktwits remained ‘bullish’ on SPY and QQQ.",
-      "url": "https://newsable.asianetnews.com/markets/nasdaq-dow-s-p-500-futures-mixed-as-oil-hits-100-again-qcom-orcl-aapl-amd-tsla-rklb-hood-gme-in-focus-articleshow-hgayql8",
+      "id": "947385585c59a03d",
+      "slug": "chinese-ai-firm-moonshot-to-explore-dual-hong-kong-and-shanghai-ipos-scmp-reports-8266c4",
+      "title": "Chinese AI firm Moonshot to explore dual Hong Kong and Shanghai IPOs, SCMP reports",
+      "dek": "Chinese AI firm Moonshot to explore dual Hong Kong and Shanghai IPOs, SCMP reports",
+      "url": "https://www.investing.com/news/stock-market-news/chinese-ai-firm-moonshot-to-explore-dual-hong-kong-and-shanghai-ipos-scmp-reports-4895362",
+      "source": "Investing Us",
+      "sourceType": "external",
+      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM890UU_L.jpg",
+      "publishedAt": "2026-09-10T10:13:19.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "1c8bd6e9061262e2",
+      "slug": "rackspace-joins-nvidia-cloud-partner-program-for-ai-infrastructure-2dfa83",
+      "title": "Rackspace joins Nvidia cloud partner program for AI infrastructure",
+      "dek": "Rackspace joins Nvidia cloud partner program for AI infrastructure",
+      "url": "https://au.investing.com/news/assorted/rackspace-joins-nvidia-cloud-partner-program-for-ai-infrastructure-432SI-4636241",
+      "source": "Investing Australia",
+      "sourceType": "external",
+      "image": "https://content-media.investing.com/news/LYNXMPEB1A16P_M.jpg",
+      "publishedAt": "2026-09-10T10:04:10.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI",
+        "Partner"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "79d8196e2a48f513",
+      "slug": "orcl-stock-slips-premarket-analysts-see-openai-fueled-cloud-beat-as-options-traders-chas-24c60b",
+      "title": "ORCL Stock Slips Premarket — Analysts See OpenAI-Fueled Cloud Beat As Options Traders Chase Another Big Upside Rip",
+      "dek": "Options markets imply an 11%, or nearly $18, post-earnings swing in Oracle shares, with calls trading “a lot richer than puts.”",
+      "url": "https://newsable.asianetnews.com/markets/orcl-stock-slips-premarket-analysts-see-openai-fueled-cloud-beat-as-options-traders-chase-another-big-upside-rip-articleshow-hdqnxdx",
       "source": "Asianet Newsable",
       "sourceType": "external",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-9a0df4ad-1a4d-4fd2-98a6-6a3b67a12a24.jpg",
-      "publishedAt": "2026-09-09T09:40:01.000Z",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-493310d5-851b-4398-9d83-02780622a2a0.jpg",
+      "publishedAt": "2026-09-10T09:40:01.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "markets"
@@ -65,172 +89,279 @@
       "priority": 42
     },
     {
-      "id": "0823cafaafb7be01",
-      "slug": "us-hails-ruto-s-investment-strategy-as-bold-progressive-3ab04a",
-      "title": "US hails Ruto’s investment strategy as bold, progressive",
-      "dek": "Garcia said Washington was shifting its engagement with Africa from traditional aid-based relations towards trade and investment.",
-      "url": "https://capitalfm.africa/us-hails-rutos-investment-strategy-as-bold-progressive/",
-      "source": "Capital News",
-      "sourceType": "external",
-      "image": "https://capitalfm.africa/wp-content/uploads/2026/09/WhatsApp-Image-2026-09-09-at-12.23.21-PM.jpeg",
-      "publishedAt": "2026-09-09T09:26:16.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "amcham kenya",
-        "windsor business summit",
-        "william ruto",
-        "american chamber of commerce kenya",
-        "news",
-        "us-kenya relations"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "954ffb6e01c08d3e",
-      "slug": "electronic-data-capture-systems-market-to-reach-usd-7-4-billion-by-2036-as-clinical-rese-ff518a",
-      "title": "Electronic Data Capture Systems Market to Reach USD 7.4 Billion by 2036 as Clinical Research Moves Toward Integrated Digital Data Management",
-      "dek": "Rockville, Maryland, United States – September 9, 2026 – The U.S. Food and Drug Administration’s guidance on electronic systems and records in clinical investigations emphasizes that computerized systems used to create, maintain, retrieve, and transmit clinical data must support trustworthy and reli",
-      "url": "http://prsync.com/httpswwwfactmrcom/electronic-data-capture-systems-market-to-reach-usd--billion-by--as-clinical-research-moves-toward-integrated-digital-data-manag-5200729/",
-      "source": "Pr Sync",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-09-09T09:23:25.000Z",
-      "topic": "Business & Earnings",
-      "tags": [],
-      "priority": 42
-    },
-    {
-      "id": "5dfb7936c51b4378",
-      "slug": "jmp-securities-maintains-oracle-stock-rating-ahead-of-earnings-bfb988",
-      "title": "JMP Securities maintains Oracle stock rating ahead of earnings",
-      "dek": "JMP Securities maintains Oracle stock rating ahead of earnings",
-      "url": "https://in.investing.com/news/stock-market-news/jmp-securities-maintains-oracle-stock-rating-ahead-of-earnings-93CH-5585774",
-      "source": "Investing India",
-      "sourceType": "external",
-      "image": "https://content-media.investing.com/news/oracle_2_M_1440048709.jpg",
-      "publishedAt": "2026-09-09T09:18:09.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "Earnings"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "a9ffb1516ead5373",
-      "slug": "eftsure-acquires-relish-b050f4",
-      "title": "Eftsure acquires Relish",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.finextra.com/pressarticle/110846/eftsure-acquires-relish",
-      "source": "Finextra",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-09-09T08:40:13.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "technology",
-        "banking",
-        "it",
-        "mobile",
-        "challenger",
-        "digital"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "a8bde07aa69a880a",
-      "slug": "healthcare-command-centers-market-cloud-vs-hybrid-deployment-trends-c88125",
-      "title": "Healthcare Command Centers Market: Cloud vs. Hybrid Deployment Trends",
-      "dek": "Hospitals are under constant pressure to do more with less — fewer beds available, tighter staffing, and rising patient volumes. Increasingly, health systems are turning [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/09/09/1771153",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
-      "publishedAt": "2026-09-09T07:24:13.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "internet & online"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "9ce0fdcad3da78fd",
-      "slug": "data-quality-management-market-size-to-reach-us-16-billion-by-2033-at-8-7-cagr-growth-tr-764a99",
-      "title": "Data Quality Management Market Size to Reach US$16 Billion by 2033 at 8.7% CAGR: Growth Trends Analysis Growth",
-      "dek": "The global data quality management market is expanding as organizations increasingly recognize that accurate, consistent, complete, and reliable data is essential for effective decision-making. Enterprises across banking, healthcare, retail, manufacturing, telecommunications, government, and other s",
-      "url": "https://www.openpr.com/news/4625673/data-quality-management-market-size-to-reach-us-16-billion",
+      "id": "fd8ffa7c155f8cec",
+      "slug": "duocron-unveils-next-generation-logistics-erp-to-unify-fleet-freight-and-supply-chain-op-d2ec1f",
+      "title": "Duocron Unveils Next-Generation Logistics ERP to Unify Fleet, Freight, and Supply Chain Operations",
+      "dek": "INDORE, INDIA - DuoCron Solutions, an enterprise software solutions provider with over a decade of ERP implementation expertise, today announced the launch of its specialized Logistics ERP Software. Engineered specifically for third-party logistics providers (3PLs), fleet operators, freight forwarde",
+      "url": "https://www.openpr.com/news/4625973/duocron-unveils-next-generation-logistics-erp-to-unify-fleet",
       "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L909695276_k.jpg",
-      "publishedAt": "2026-09-09T05:40:03.000Z",
+      "image": "https://cdn.open-pr.com/L/9/L909582079_k.jpg",
+      "publishedAt": "2026-09-10T09:39:00.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
         "it",
         "new media & software"
       ],
-      "priority": 39
+      "priority": 42
     },
     {
-      "id": "43d986b36a144546",
-      "slug": "oracle-orcl-expected-to-announce-earnings-on-thursday-4f8c90",
-      "title": "Oracle (ORCL) Expected to Announce Earnings on Thursday",
-      "dek": "Oracle (NYSE:ORCL – Get Free Report) is expected to announce its Q1 2027 results after the market closes on Thursday, September 10th. Analysts expect the company to announce earnings of $1.74 per share and revenue of $19.1314 billion for the quarter. Individuals can find conference call details on t",
-      "url": "https://www.dailypolitical.com/2026/09/08/oracle-orcl-expected-to-announce-earnings-on-thursday.html",
-      "source": "Daily Political",
+      "id": "16038895b6f74970",
+      "slug": "the-financial-vertical-model-market-is-quietly-becoming-one-of-ai-s-biggest-bets-520e61",
+      "title": "The Financial Vertical Model Market Is Quietly Becoming One of AI's Biggest Bets",
+      "dek": "The Financial Vertical Model market is entering a decisive growth phase as banks, asset managers, insurers, and fintech companies move away from generic AI tools and adopt models purpose-built for financial workflows. Unlike general-purpose large language models, financial vertical models are traine",
+      "url": "http://prsync.com/pragma-market-research/the-financial-vertical-model-market-is-quietly-becoming-one-of-ais-biggest-bets-5201047/",
+      "source": "Pr Sync",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-09-09T05:10:48.000Z",
+      "image": "",
+      "publishedAt": "2026-09-10T09:25:39.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "finance",
-        "earnings previews"
+        "AI"
       ],
-      "priority": 39
+      "priority": 42
     },
     {
-      "id": "d8401ad39fd33f96",
-      "slug": "microsoft-patches-record-974-flaws-including-two-exploited-windows-zero-days-8a8a03",
-      "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
-      "dek": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild. These include 723 flaws in Windows, 111 in Office and Office 2016, 62 in SQL, and 22 in D",
-      "url": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
-      "source": "The Hacker News",
+      "id": "91e1fc2ad45bdfbc",
+      "slug": "personal-brand-special-report-207-insights-and-ideas-to-grow-your-brand-and-career-7a4f68",
+      "title": "Personal Brand Special Report: 207 insights and ideas to grow your brand and career",
+      "dek": "In the summer of 2021, Eric Pacifici started living a double life. By day, he was one of thousands of associates at Kirkland & Ellis, one of the largest corporate law firms in the world. Outside work hours, though, he was moonlighting on Twitter as @SMB_Attorney , an anonymous account where he share",
+      "url": "https://www.fastcompany.com/91582246/personal-brand-special-report-207-insights-ideas-grow-brand-career",
+      "source": "Fast Company",
       "sourceType": "external",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDwCsAOIvmVbfeFtRi5yvEPa3_Nm-rryDAF-CdttSghokSjh6oKz-ECapacQiIBNW9zsIh6LQ8B61LgpR2di6819PHU1vrIT6Mj4xKihzGcz29KydoYVw8lFKbrAXYs2MNv-FMRS8GnrmlfVQTAZ0ondViX8N9uy_dCgJywMQMnXlWBmzrXw9BR2zZ0HWo/s1600/ms-windows.jpg",
-      "publishedAt": "2026-09-09T04:41:29.000Z",
-      "topic": "Security",
-      "tags": [],
-      "priority": 39
-    },
-    {
-      "id": "d2f6d00b2f2cd2f0",
-      "slug": "hpe-deepens-oracle-tie-up-on-ai-data-centre-networking-bc0de2",
-      "title": "HPE deepens Oracle tie-up on AI data centre networking",
-      "dek": "The multi-year rollout aims to ease bandwidth and latency bottlenecks as Oracle scales GPU-heavy cloud clusters across its global AI estate.",
-      "url": "https://itbrief.co.nz/story/hpe-deepens-oracle-tie-up-on-ai-data-centre-networking",
-      "source": "It Brief New Zealand",
-      "sourceType": "external",
-      "image": "https://itbrief.co.nz/uploads/story/2026/09/09/compatible_mahesh-thiagarajan-and-rami-rahim-story-318567.jpg",
-      "publishedAt": "2026-09-09T02:25:00.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://images.fastcompany.com/image/upload/w_1280,q_auto,f_auto,fl_lossy/q_auto,c_fit/wp-cms-2/2026/09/BCY-TopArt-Article1-1.gif",
+      "publishedAt": "2026-09-10T09:00:00.000Z",
+      "topic": "Oracle Cloud",
       "tags": [
-        "technology"
+        "design"
       ],
-      "priority": 37
+      "priority": 42
     },
     {
-      "id": "d326e768fa03517f",
-      "slug": "guggenheim-calls-oracle-stock-orcl-its-best-idea-ahead-of-q1-earnings-02ba5f",
-      "title": "Guggenheim Calls Oracle Stock (ORCL) its ‘Best Idea’ Ahead of Q1 Earnings",
-      "dek": "AI cloud computing and database software company Oracle (ORCL) will announce its fiscal first-quarter earnings on September 10. Heading into Q1 ...",
-      "url": "https://markets.businessinsider.com/news/stocks/guggenheim-calls-oracle-stock-orcl-its-best-idea-ahead-of-q1-earnings-1036530785",
-      "source": "Markets Insider",
+      "id": "0828fd194c4c0c8d",
+      "slug": "oracle-earnings-preview-ai-spending-cloud-growth-and-a-638-billion-backlog-in-focus-cc923b",
+      "title": "Oracle earnings preview: AI spending, cloud growth and a $638 billion backlog in focus",
+      "dek": "Oracle reports its fiscal first-quarter 2027 results after the US market close today, putting the software and cloud infrastructure giant back in the spotlight as investors try to determine whether its aggressive AI investment cycle is translating into sustainable growth. Wall Street expects adjuste",
+      "url": "https://investinglive.com/stocks/oracle-earnings-preview-ai-spending-cloud-growth-and-a-638-billion-backlog-in-focus/",
+      "source": "Forexlive",
       "sourceType": "external",
-      "image": "https://blog.tipranks.com/wp-content/uploads/2026/09/image-899.png?utm_source=markets.businessinsider.com&utm_medium=referral",
-      "publishedAt": "2026-09-09T00:47:44.000Z",
-      "topic": "AI & Database",
+      "image": "https://investinglive.com/cms/media/Processed/Categories/featured/oracle-featured-1789029690.jpg",
+      "publishedAt": "2026-09-10T08:58:13.000Z",
+      "topic": "Oracle Cloud",
       "tags": [
-        "ORCL",
+        "stocks"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "ca258deca22f2d78",
+      "slug": "declassifying-the-java-27-release-ijn-045ddd",
+      "title": "\"Declassifying the Java 27 Release!\" [IJN]",
+      "dek": "Java 27 is heading for release on September 15th. As with every release of the JDK there are a host of changes that will impact developers, from new features, to changes in behavior of existing features. In this episode of the Inside Java Newscast we will be \"declassifying\" all the developer impacti",
+      "url": "https://inside.java/podcast",
+      "source": "Inside Java",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/insidejava/ijp-69.mp3?dest-id=2318780",
+      "publishedAt": "2026-09-10T08:55:00.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "Java",
+        "JDK"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "279c92f4764fe79e",
+      "slug": "buying-oracle-ahead-of-today-s-earnings-you-must-see-what-our-ai-models-say-first-93d523",
+      "title": "Buying Oracle ahead of today’s earnings? You must see what our AI models say first",
+      "dek": "Buying Oracle ahead of today’s earnings? You must see what our AI models say first",
+      "url": "https://ca.investing.com/news/stock-market-news/buying-oracle-ahead-of-todays-earnings-you-must-see-what-our-ai-models-say-first-4834014",
+      "source": "Investing Canada",
+      "sourceType": "external",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEM2B0V5_1200_L.jpg",
+      "publishedAt": "2026-09-10T08:28:10.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
         "Earnings",
         "AI"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "271152b47a2b04db",
+      "slug": "baird-financial-group-inc-purchases-76-518-shares-of-oracle-corporation-orcl-504cac",
+      "title": "Baird Financial Group Inc. Purchases 76,518 Shares of Oracle Corporation $ORCL",
+      "dek": "Baird Financial Group Inc. lifted its position in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 17.7% during the second quarter, according to its most recent disclosure with the Securities & Exchange Commission. The firm owned 509,857 shares of the enterprise software provider’s stock af",
+      "url": "https://www.defenseworld.net/2026/09/10/baird-financial-group-inc-purchases-76518-shares-of-oracle-corporation-orcl.html",
+      "source": "Defenseworld Net",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-09-10T07:49:25.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "sec filing articles",
+        "companies"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "dcfbfa5c7c4bbcdd",
+      "slug": "baird-financial-group-inc-boosts-stock-position-in-oracle-corporation-orcl-06375d",
+      "title": "Baird Financial Group Inc. Boosts Stock Position in Oracle Corporation $ORCL",
+      "dek": "Baird Financial Group Inc. lifted its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 17.7% in the second quarter, Holdings Channel.com reports. The fund owned 509,857 shares of the enterprise software provider’s stock after purchasing an additional 76,518 shares during the period. Baird Fi",
+      "url": "https://www.americanbankingnews.com/2026/09/10/baird-financial-group-inc-boosts-stock-position-in-oracle-corporation-orcl.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-09-10T07:48:50.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "market news",
+        "sec filing articles"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "2d3528293c70cbb4",
+      "slug": "snowflake-inc-snow-shares-purchased-by-ameritas-advisory-services-llc-87bd56",
+      "title": "Snowflake Inc. $SNOW Shares Purchased by Ameritas Advisory Services LLC",
+      "dek": "Ameritas Advisory Services LLC raised its stake in Snowflake Inc. (NYSE:SNOW – Free Report) by 439.9% during the 2nd quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The firm owned 7,181 shares of the company’s stock after purchasing an additio",
+      "url": "https://www.americanbankingnews.com/2026/09/10/snowflake-inc-snow-shares-purchased-by-ameritas-advisory-services-llc.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/snowflake-inc-logo-1200x675.png?v=20200921121226",
+      "publishedAt": "2026-09-10T07:13:03.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "sec filing articles",
+        "market news"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "f342618221368afc",
+      "slug": "multi-cloud-strategy-2026-how-enterprises-are-cutting-costs-and-improving-resilience-b73521",
+      "title": "Multi-Cloud Strategy 2026: How Enterprises Are Cutting Costs and Improving Resilience",
+      "dek": "Is multi-cloud strategy assisting enterprises to cut costs and improve resilience by distributing applications, databases, AI workloads",
+      "url": "https://infotechlead.com/cloud/multi-cloud-strategy-2026-how-enterprises-are-cutting-costs-and-improving-resilience-98264",
+      "source": "Infotech Lead",
+      "sourceType": "external",
+      "image": "https://infotechlead.com/wp-content/uploads/2026/09/Multi-Cloud-strategy-for-enterprises.jpg",
+      "publishedAt": "2026-09-10T05:59:24.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "cio",
+        "cloud"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "1c0564ce1acb029d",
+      "slug": "baron-opportunity-fund-q2-2026-shareholder-letter-2d4142",
+      "title": "Baron Opportunity Fund Q2 2026 Shareholder Letter",
+      "dek": "Baron Opportunity Fund gained 27.07% in Q2 2026, outperforming its benchmark driven by AI leaders. Read the full analysis for more details.",
+      "url": "https://seekingalpha.com/article/4944826-baron-opportunity-fund-q2-2026-shareholder-letter",
+      "source": "Seeking Alpha",
+      "sourceType": "external",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2168526093/image_2168526093.jpg?io=getty-c-w1280",
+      "publishedAt": "2026-09-10T05:35:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "biopx",
+        "fund letters",
+        "bioix",
+        "baron capital",
+        "bioux"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "1419aa1170d30ab7",
+      "slug": "algorand-turns-to-ai-veteran-william-herkelrath-as-quantum-security-meets-institutional--420a81",
+      "title": "Algorand Turns to AI Veteran William Herkelrath as Quantum Security Meets Institutional Finance",
+      "dek": "Algorand Foundation U.S. Inc. said on September 9 that it has appointed William Herkelrath as chief executive officer, placing an executive with experience across artificial intelligence, institutional finance and blockchain infrastructure at the center of its next growth phase.Herkelrath officially",
+      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=156998",
+      "source": "Korea It Times",
+      "sourceType": "external",
+      "image": "https://www.koreaittimes.com/news/photo/202609/156998_106540_4842.jpg",
+      "publishedAt": "2026-09-10T04:51:07.000Z",
+      "topic": "Security",
+      "tags": [
+        "Security",
+        "AI"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "89e89c8949b643aa",
+      "slug": "zacks-investment-ideas-feature-highlights-oracle-and-adobe-cf242f",
+      "title": "Zacks Investment Ideas feature highlights: Oracle and Adobe",
+      "dek": "Oracle's AI cloud boom faces off against Adobe's AI push as investors weigh faster growth at Oracle against Adobe's steep valuation discount.",
+      "url": "https://www.newsbreak.com/zacks-investment-research-321723880/4877758676416-zacks-investment-ideas-feature-highlights-oracle-and-adobe",
+      "source": "Newsbreak",
+      "sourceType": "external",
+      "image": "https://img.particlenews.com/img/id/0b4TqO_1F0wlKCV00",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "breaking news",
+        "local news",
+        "zacks investment research",
+        "newsbreak"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "d01f71385d3f95f8",
+      "slug": "prapl-launches-automated-sql-database-backup-software-for-windows-os-562490",
+      "title": "Prapl Launches Automated SQL Database Backup Software for Windows OS",
+      "dek": "Automate database backup with Prapl SQL Backup Software for PostgreSQL, Microsoft SQL Server, MariaDB, MySQL, SQLite, MongoDB, and other popular databases.",
+      "url": "https://www.einpresswire.com/article/941123864/prapl-launches-automated-sql-database-backup-software-for-windows-os",
+      "source": "Ein Presswire",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "united states",
+        "worldnews",
+        "technology"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "032b8a983eac0e97",
+      "slug": "postgresql-migrator-1-0-first-stable-release-153070",
+      "title": "PostgreSQL Migrator 1.0 : first stable release",
+      "dek": "Paris, 7th september 2026. The Dalibo team is pleased to announce the release of PostgreSQL Migrator 1.0 stable, a free and open-source tool designed to help migrate databases from Oracle and MySQL/MariaDB to PostgreSQL. Key features Easy installation : pure Go binary with zero proprietary dependenc",
+      "url": "https://www.postgresql.org/about/news/postgresql-migrator-10-first-stable-release-3377/",
+      "source": "Postgresql",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle Database",
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "0d89c5e6a62a48f6",
+      "slug": "hartford-it-jobs-multiple-high-paying-tech-roles-open-now-25801c",
+      "title": "💻 Hartford IT Jobs: Multiple High-Paying Tech Roles Open Now",
+      "dek": "Hartford’s tech scene is busy right now, especially for cloud, data, and AI talent. If you’re in IT and anywhere near Central CT (or open to remote EST), t",
+      "url": "https://www.newsbreak.com/hartford-ct-daily-brief-373178549/4877462756972-hartford-it-jobs-multiple-high-paying-tech-roles-open-now",
+      "source": "Newsbreak",
+      "sourceType": "external",
+      "image": "https://img.particlenews.com/img/id/0uqf9w_1F0dysWT00",
+      "publishedAt": "2026-09-10T00:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "hartford ct daily brief",
+        "local news",
+        "newsbreak",
+        "breaking news"
       ],
       "priority": 36
     },
@@ -1857,136 +1988,6 @@
       "tags": [
         "OCI"
       ],
-      "priority": 36
-    },
-    {
-      "id": "d38db88cd3fd3cc0",
-      "slug": "working-with-oke-virtual-nodes-f5a370",
-      "title": "Working with OKE Virtual Nodes",
-      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-02T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "bd401ec004db1755",
-      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
-      "title": "Introduction to OCI Container Engine for Kubernetes",
-      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-25T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "1d3aa287378f7e71",
-      "slug": "basics-of-kubernetes-23e26c",
-      "title": "Basics of Kubernetes",
-      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
-      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-18T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ec54bf5b81f570ed",
-      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
-      "title": "Oracle Cloud Infrastructure Registry",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-11T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "OCI",
-        "Oracle Cloud Infrastructure"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "6ba1bee89c8a91cc",
-      "slug": "what-is-containerization-0326f4",
-      "title": "What is Containerization?",
-      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-04T14:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "OCI",
-        "Oracle University"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "b45e3d006fc93558",
-      "slug": "encore-episode-oci-ai-services-5e7f50",
-      "title": "Encore Episode: OCI AI Services",
-      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-28T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI",
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "57fe9154d1531745",
-      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
-      "title": "Encore Episode: Generative AI and Large Language Models",
-      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-14T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "60d141d1ef069450",
-      "slug": "encore-episode-deep-learning-fe981b",
-      "title": "Encore Episode: Deep Learning",
-      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-07T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
       "priority": 36
     }
   ]
