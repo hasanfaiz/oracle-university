@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T22:41:15.893Z",
+  "generatedAt": "2026-09-12T22:25:16.220Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,436 +7,283 @@
   },
   "items": [
     {
-      "id": "fccfcb2916385388",
-      "slug": "china-green-it-software-market-2026-2031-rising-demand-for-energy-efficient-it-solutions-38cc54",
-      "title": "China Green IT Software Market (2026-2031) - Rising Demand for Energy-Efficient IT Solutions Drives Growth",
-      "dek": "China’s dual-carbon rules are driving automated carbon accounting, cloud ESG platforms, AI energy optimization and integration services for unified, auditable data. China’s dual-carbon rules are driving automated carbon accounting, cloud ESG platforms, AI energy optimization and integration services",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/09/11/3360219/28124/en/china-green-it-software-market-2026-2031-rising-demand-for-energy-efficient-it-solutions-drives-growth.html",
-      "source": "Globenewswire_fr",
-      "sourceType": "external",
+      "id": "a77fbbd70cc5ebfd",
+      "slug": "larry-ellison-cancels-his-plan-to-sell-oracle-stock-7b237d",
+      "title": "Larry Ellison Cancels His Plan to Sell Oracle Stock",
+      "dek": "",
+      "url": "https://investor.oracle.com/investor-news/news-details/2026/Larry-Ellison-Cancels-His-Plan-to-Sell-Oracle-Stock/default.aspx",
+      "source": "Oracle Investor Relations News",
+      "sourceType": "official",
       "image": "",
-      "publishedAt": "2026-09-11T10:37:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "research analysis and reports"
-      ],
-      "priority": 43
+      "publishedAt": "2026-09-12T16:16:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 67
     },
     {
-      "id": "724edf0d35bf6291",
-      "slug": "oracle-shares-spike-6-pre-market-as-30-billion-in-ai-contracts-eases-spending-fears-26ee3b",
-      "title": "Oracle Shares Spike 6% Pre-Market As $30 Billion In AI Contracts Eases Spending Fears",
-      "dek": "Oracle's booking of over $30 billion in new AI cloud contracts was a major factor in the pre-market rally.",
-      "url": "https://www.ndtvprofit.com/markets/oracle-shares-spike-6-pre-market-as-30-billion-in-ai-contracts-eases-spending-fears-12032788",
-      "source": "Ndtv",
-      "sourceType": "external",
-      "image": "https://c.ndtvimg.com/2026-09/3oqrniak_oracle_625x300_11_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-09-11T10:34:40.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "markets"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "406e1f9f727ef3cd",
-      "slug": "australia-green-it-software-market-2026-2031-corporate-sustainability-initiatives-drive--5b5b7f",
-      "title": "Australia Green IT Software Market (2026-2031) - Corporate Sustainability Initiatives Drive Growth",
-      "dek": "Mandatory climate disclosures and energy costs are driving demand for cloud/hybrid compliance, carbon accounting, AI optimization, integration, audit and advisory solutions. Mandatory climate disclosures and energy costs are driving demand for cloud/hybrid compliance, carbon accounting, AI optimizat",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/09/11/3360215/28124/en/australia-green-it-software-market-2026-2031-corporate-sustainability-initiatives-drive-growth.html",
-      "source": "Globenewswire_fr",
-      "sourceType": "external",
+      "id": "a6ea65aeb044c987",
+      "slug": "oracle-sets-the-date-for-its-first-quarter-fiscal-year-2027-earnings-announcement-a540e9",
+      "title": "Oracle Sets the Date for its First Quarter Fiscal Year 2027 Earnings Announcement",
+      "dek": "",
+      "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-First-Quarter-Fiscal-Year-2027-Earnings-Announcement/default.aspx",
+      "source": "Oracle Investor Relations News",
+      "sourceType": "official",
       "image": "",
-      "publishedAt": "2026-09-11T10:32:00.000Z",
+      "publishedAt": "2026-09-02T20:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "Earnings"
+      ],
+      "priority": 46
+    },
+    {
+      "id": "f58466d207e1f5cc",
+      "slug": "oracle-sets-the-date-for-its-fourth-quarter-fiscal-year-2026-earnings-announcement-3a2dd3",
+      "title": "Oracle Sets the Date for its Fourth Quarter Fiscal Year 2026 Earnings Announcement",
+      "dek": "",
+      "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-Fourth-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx",
+      "source": "Oracle Investor Relations News",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-06-01T20:01:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "Earnings"
+      ],
+      "priority": 46
+    },
+    {
+      "id": "f76a77e7c98d5292",
+      "slug": "oracle-sets-the-date-for-its-third-quarter-fiscal-year-2026-earnings-announcement-e65993",
+      "title": "Oracle Sets the Date for its Third Quarter Fiscal Year 2026 Earnings Announcement",
+      "dek": "",
+      "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-Third-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx",
+      "source": "Oracle Investor Relations News",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-03-03T21:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "Earnings"
+      ],
+      "priority": 46
+    },
+    {
+      "id": "3783804467aa454e",
+      "slug": "oracle-sets-the-date-for-its-second-quarter-fiscal-year-2026-earnings-announcement-16342c",
+      "title": "Oracle Sets the Date for its Second Quarter Fiscal Year 2026 Earnings Announcement",
+      "dek": "",
+      "url": "https://investor.oracle.com/investor-news/news-details/2025/Oracle-Sets-the-Date-for-its-Second-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx",
+      "source": "Oracle Investor Relations News",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2025-12-02T13:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "Earnings"
+      ],
+      "priority": 46
+    },
+    {
+      "id": "0d695d473dbd6ed0",
+      "slug": "why-ai-efficiency-could-fuel-the-next-wave-of-infrastructure-spending-f02958",
+      "title": "Why AI Efficiency Could Fuel the Next Wave of Infrastructure Spending",
+      "dek": "Market Analysis by covering: Microsoft Corporation, Oracle Corporation, Alphabet Inc Class A, Amazon.com Inc. Read 's Market Analysis on Investing.com PH.",
+      "url": "https://ph.investing.com/analysis/why-ai-efficiency-could-fuel-the-next-wave-of-infrastructure-spending-218983",
+      "source": "Investing Philippines",
+      "sourceType": "external",
+      "image": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+      "publishedAt": "2026-09-12T10:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "research analysis and reports"
+        "alphabet inc class a",
+        "amazon.com inc",
+        "microsoft corporation",
+        "oracle corporation"
       ],
       "priority": 43
     },
     {
-      "id": "7f7e0e903a511fe0",
-      "slug": "oracle-stock-jumps-as-121-cloud-growth-eases-ai-spending-fears-32cdbf",
-      "title": "Oracle Stock Jumps as 121% Cloud Growth Eases AI Spending Fears",
-      "dek": "Oracle stock jumped in premarket trading Friday after stronger-than-expected fiscal first-quarter results showed accelerating AI cloud demand, easing some of Wall Street’s biggest concerns about the company’s massive infrastructure spending. Oracle shares rose about 5.5% to $161.30 before the openin",
-      "url": "https://www.investingcube.com/shares/oracle-stock-jumps-as-121-cloud-growth-eases-ai-spending-fears/",
-      "source": "News Investingcube",
+      "id": "261b1b537038e07c",
+      "slug": "vc-funding-deals-pinegrove-inspiren-positron-ai-5cfa6a",
+      "title": "VC funding deals: Pinegrove, Inspiren, Positron AI",
+      "dek": "VC funding deals include announcements from Pinegrove, Inspiren, Positron AI, NewView Capital, NEA, Atreides Management, Valor Equity Partners",
+      "url": "https://infotechlead.com/tech/vc-funding-deals-pinegrove-inspiren-positron-ai-98293",
+      "source": "Infotech Lead",
       "sourceType": "external",
-      "image": "https://www.investingcube.com/wp-content/uploads/2026/03/oracle-1024x640.webp",
-      "publishedAt": "2026-09-11T10:23:23.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://infotechlead.com/wp-content/uploads/2026/01/VC-funding-news-InfotechLead.com_.jpg",
+      "publishedAt": "2026-09-12T09:59:38.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "shares",
-        "ai news"
+        "vc funding",
+        "venture capital"
       ],
       "priority": 43
     },
     {
-      "id": "74e0662fd0ef2edc",
-      "slug": "uae-revises-ai-data-center-plan-after-iranian-attacks-report-f68feb",
-      "title": "UAE revises AI data center plan after Iranian attacks: Report",
-      "dek": "UAE’s 5-gigawatt AI data center project, originally a 10-square-mile campus in Abu Dhabi, is being reworked into a distributed network after Iran’s missile and drone strikes on Gulf tech infrastructure. The shift aims to bolster security with underground sites, air defenses and mountain-based facili",
-      "url": "https://www.deccanherald.com/world/middle-east/uae-revises-ai-data-center-plan-after-iranian-attacks-report-4142942",
-      "source": "Deccan Herald",
+      "id": "17d8e8eb0ed546ba",
+      "slug": "oracle-layoffs-more-job-cuts-expected-as-company-faces-rising-ai-data-centre-costs-1ad146",
+      "title": "Oracle layoffs: More job cuts expected as company faces rising AI data centre costs",
+      "dek": "Oracle is increasing the estimated cost of its 2026 restructuring plan to $2.8 billion as it cuts jobs while spending heavily on AI data centres. The company has already booked $2.1 billion in restructuring costs, with another $700 million expected as further workforce reductions are planned.",
+      "url": "https://www.firstpost.com/tech/oracle-layoffs-more-job-cuts-expected-as-company-faces-rising-ai-data-centre-costs-14045260.html",
+      "source": "Firstpost",
       "sourceType": "external",
-      "image": "https://media.assettype.com/deccanherald/2026-09-11/9xwgdy42/file87jxf3vjhi11k8wcgn6p.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
-      "publishedAt": "2026-09-11T10:18:29.000Z",
-      "topic": "Security",
+      "image": "https://images.firstpost.com/uploads/2026/04/ai2-2026-04-4d846e58e5ed030dfaa4de911911727a.jpg",
+      "publishedAt": "2026-09-12T09:49:55.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "middle east"
+        "tech"
       ],
       "priority": 43
     },
     {
-      "id": "e192f2e5ee0bd3ed",
-      "slug": "we-told-you-first-this-ai-picked-tech-titan-crushed-earnings-and-is-now-16-mtd-d1c41a",
-      "title": "We told you first: this AI-picked tech titan crushed earnings and is now +16% MTD",
-      "dek": "We told you first: this AI-picked tech titan crushed earnings and is now +16% MTD",
-      "url": "https://uk.investing.com/news/stock-market-news/we-told-you-first-this-aipicked-tech-titan-crushed-earnings-and-is-now-16-mtd-4866024",
-      "source": "Investing Uk",
-      "sourceType": "external",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM5S0TG_1200_L.jpg",
-      "publishedAt": "2026-09-11T10:12:16.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "Earnings",
-        "AI"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "59978a550d7ffdfe",
-      "slug": "jmp-securities-maintains-oracle-stock-rating-on-strong-q1-results-b3def8",
-      "title": "JMP Securities maintains Oracle stock rating on strong Q1 results",
-      "dek": "JMP Securities maintains Oracle stock rating on strong Q1 results",
-      "url": "https://uk.investing.com/news/stock-market-news/jmp-securities-maintains-oracle-stock-rating-on-strong-q1-results-93CH-4866020",
-      "source": "Investing Uk",
-      "sourceType": "external",
-      "image": "https://content-media.investing.com/news/oracle_2_M_1440048709.jpg",
-      "publishedAt": "2026-09-11T10:12:11.000Z",
-      "topic": "Business & Earnings",
+      "id": "c8d231e1605310b3",
+      "slug": "oracle-announces-q1-results-driven-by-triple-digit-growth-in-cloud-infrastructure-revenu-708efc",
+      "title": "Oracle Announces Q1 Results Driven by Triple Digit Growth in Cloud Infrastructure Revenues",
+      "dek": "",
+      "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Q1-Results-Driven-by-Triple-Digit-Growth-in-Cloud-Infrastructure-Revenues/default.aspx",
+      "source": "Oracle Investor Relations News",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-09-10T20:10:00.000Z",
+      "topic": "Oracle Cloud",
       "tags": [],
       "priority": 43
     },
     {
-      "id": "12be52982804f380",
-      "slug": "uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say-0f7fa6",
-      "title": "UAE revises AI data center plan after Iranian attacks, sources say",
-      "dek": "The United Arab Emirates is quietly revising plans for a 5-gigawatt AI data centre project – one of the biggest outside the US – after the Iran ​war prompted a rethink of how and where critical infrastructure should be built, six people familiar with the matter told Reuters . Originally envisaged as",
-      "url": "https://english.aaj.tv/news/330471857/uae-revises-ai-data-center-plan-after-iranian-attacks-sources-say",
-      "source": "Aaj English Tv",
+      "id": "706712f87a5194d1",
+      "slug": "wellington-management-group-llp-increases-stake-in-coreweave-inc-crwv-6b1956",
+      "title": "Wellington Management Group LLP Increases Stake in CoreWeave Inc. $CRWV",
+      "dek": "Wellington Management Group LLP raised its stake in CoreWeave Inc. (NASDAQ:CRWV – Free Report) by 67.1% in the 2nd quarter, according to its most recent disclosure with the SEC. The fund owned 17,183 shares of the company’s stock after purchasing an additional 6,902 shares during the quarter. Wellin",
+      "url": "https://www.watchlistnews.com/wellington-management-group-llp-increases-stake-in-coreweave-inc-crwv/11223508.html",
+      "source": "Watch List News",
       "sourceType": "external",
-      "image": "https://i.aaj.tv/large/2026/09/11150527359b0cd.webp",
-      "publishedAt": "2026-09-11T10:06:26.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "world"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "dabfb14ce1e8670f",
-      "slug": "oracle-shares-rise-as-ai-cloud-backlog-beats-estimates-9b6702",
-      "title": "Oracle shares rise as AI cloud backlog beats estimates",
-      "dek": "Oracle shares rose significantly after reporting strong quarterly results. The company secured over thirty billion dollars in new AI cloud contracts. This boosted its revenue backlog to six hundred sixty-four billion dollars. These results eased investor concerns about debt and spending. The company",
-      "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/oracle-shares-rise-as-ai-cloud-backlog-beats-estimates/articleshow/134058149.cms",
-      "source": "The Economic Times",
-      "sourceType": "external",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-11732,resizemode-75,msid-134058149/tech/artificial-intelligence/oracle-shares-rise-as-ai-cloud-backlog-beats-estimates.jpg",
-      "publishedAt": "2026-09-11T09:42:12.000Z",
+      "image": "https://www.marketbeat.com/logos/coreweave-inc-class-a-common-stock--logo-1200x675.png?v=20250328080441",
+      "publishedAt": "2026-09-12T09:30:48.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "AI"
+        "sec filing articles",
+        "investing"
       ],
       "priority": 42
     },
     {
-      "id": "e34dd91324ff8d81",
-      "slug": "nasdaq-dow-s-p-500-futures-rise-after-4-day-market-slide-as-cpi-looms-large-orcl-adbe-mu-ab8bc7",
-      "title": "Nasdaq, Dow, S&P 500 Futures Rise After 4-Day Market Slide As CPI Looms Large: ORCL, ADBE, MU, TSLA, RKLB, IBRX, HOOD, GME In Focus",
-      "dek": "Retail sentiment on Stocktwits turned bearish on SPY and QQQ ahead of August CPI.",
-      "url": "https://newsable.asianetnews.com/markets/nasdaq-dow-s-p-500-futures-rise-after-4-day-market-slide-as-cpi-looms-large-orcl-adbe-mu-tsla-rklb-ibrx-hood-gme-in-focus-articleshow-z60xqu5",
-      "source": "Asianet Newsable",
-      "sourceType": "external",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-cb9b419d-5eaa-4d9b-a644-2c0e4dc66139.jpg",
-      "publishedAt": "2026-09-11T09:40:01.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "markets"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "7864e1431e39a14b",
-      "slug": "oracle-corp-orcl-q1-2027-earnings-call-highlights-record-revenue-121-cloud-b9c30c",
-      "title": "Oracle Corp (ORCL) (Q1 2027) Earnings Call Highlights: Record Revenue, 121% Cloud ...",
-      "dek": "Oracle Corp (ORCL) (Q1 2027) Earnings Call Highlights: Record Revenue, 121% Cloud ...",
-      "url": "https://ca.investing.com/news/company-news/oracle-corp-orcl-q1-2027-earnings-call-highlights-record-revenue-121-cloud--4836066",
-      "source": "Investing Canada",
-      "sourceType": "external",
-      "image": "https://content-media.investing.com/news/oracle_2_M_1440048709.jpg",
-      "publishedAt": "2026-09-11T08:15:25.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "ORCL",
-        "Earnings"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "7d6ba9f1e678d100",
-      "slug": "77-energy-tech-and-small-caps-extend-ai-picked-strategy-leads-this-week-5e7a39",
-      "title": "+77%: Energy, tech, and small caps extend AI-picked strategy leads this week",
-      "dek": "+77%: Energy, tech, and small caps extend AI-picked strategy leads this week",
-      "url": "https://in.investing.com/news/stock-market-news/77-energy-tech-and-small-caps-extend-aipicked-strategy-leads-this-week-5589656",
-      "source": "Investing India",
-      "sourceType": "external",
-      "image": "https://content-media.investing.com/news/LYNXMPEM3G1AZ_1200_L.jpg",
-      "publishedAt": "2026-09-11T07:56:10.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "15e736e71626679b",
-      "slug": "oracle-cloud-revenue-jumps-121-as-ai-demand-pays-off-292584",
-      "title": "Oracle Cloud Revenue Jumps 121% As AI Demand Pays Off",
-      "dek": "Oracle Q1 revenue rose 30% to $19.35B as cloud infrastructure revenue jumped 121% on AI demand. The post Oracle Cloud Revenue Jumps 121% As AI Demand Pays Off appeared first on TechBooky .",
-      "url": "https://www.techbooky.com/oracle-cloud-revenue-jumps-ai-demand-pays-off/",
-      "source": "Techbooky",
-      "sourceType": "external",
-      "image": "https://tbwpfiles.s3.eu-west-2.amazonaws.com/wp-content/uploads/2026/09/11084156/1x-1-19.webp",
-      "publishedAt": "2026-09-11T07:43:03.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "oci",
-        "oracle",
-        "openai",
-        "earnings",
-        "ai cloud"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "e0122d5ce6af9918",
-      "slug": "co-ceos-talk-down-capex-concerns-as-infrastructure-build-out-rolls-on-at-the-end-of-anot-92dc29",
-      "title": "Co-CEOs talk down CapEx concerns as infrastructure build-out rolls on at the end of another strong quarter for Oracle",
-      "dek": "CapEx is growing, but necessary as Oracle races to meet customer demand for AI.",
-      "url": "https://diginomica.com/co-ceos-talk-down-capex-concerns-infrastructure-build-out-rolls-end-another-strong-quarter-oracle",
-      "source": "Diginomica",
-      "sourceType": "external",
-      "image": "https://diginomica.com/sites/default/files/images/2025-12/Screenshot%202025-12-11%20at%2001.17.36.png",
-      "publishedAt": "2026-09-11T07:05:01.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "agentic ai",
-        "cloud platforms - infrastructure and architecture",
-        "ai adoption",
-        "enterprise ai",
-        "cloud erp financials and supply chain",
-        "data management"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "60e64be6e7d4ff5e",
-      "slug": "prapl-launches-automated-sql-database-backup-software-for-windows-os-7931c4",
-      "title": "Prapl Launches Automated SQL Database Backup Software for Windows OS",
-      "dek": "Automate database backup with Prapl SQL Backup Software for PostgreSQL, Microsoft SQL Server, MariaDB, MySQL, SQLite, MongoDB, and other popular databases. Prapl today announced the launch of its automated database backup software for Windows OS, providing businesses, developers, database administra",
-      "url": "https://martechseries.com/analytics/data-management-platforms/prapl-launches-automated-sql-database-backup-software-for-windows-os/",
-      "source": "Marketing Technology Series",
-      "sourceType": "external",
-      "image": "https://martechseries.com/wp-content/uploads/2026/07/MarTech-Series-14-3-1.jpg",
-      "publishedAt": "2026-09-11T06:55:35.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "marketing technology news",
-        "technology",
-        "windows os",
-        "it professionals",
-        "martech",
-        "data management platforms"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "2d16bf42870b0ec0",
-      "slug": "pltr-stock-wins-whether-we-re-in-an-ai-bubble-or-not-wall-street-analyst-explains-why-2b08ed",
-      "title": "PLTR Stock Wins Whether We’re In An AI Bubble Or Not? Wall Street Analyst Explains Why",
-      "dek": "Palantir’s real-world AI exposure could help it weather both continued AI spending and a potential slowdown, according to D. A. Davidson’s Gil Luria.",
-      "url": "https://newsable.asianetnews.com/markets/pltr-stock-wins-whether-we-re-in-an-ai-bubble-or-not-wall-street-analyst-explains-why-articleshow-9haq6v6",
-      "source": "Asianet Newsable",
-      "sourceType": "external",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-bfd3f272-ff00-443b-a451-3df68f5f140f.webp",
-      "publishedAt": "2026-09-11T06:30:07.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "markets"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "b5123e36b0690ad5",
-      "slug": "artificial-intelligence-ai-enabled-testing-market-research-reveals-path-to-2-04-billion--f2947e",
-      "title": "Artificial Intelligence (AI) Enabled Testing Market Research Reveals Path To $2.04 Billion By 2030",
-      "dek": "The artificial intelligence (AI) enabled testing sector is experiencing remarkable growth as organizations seek smarter, faster methods to ensure software quality. As digital transformation accelerates, the demand for AI-driven testing solutions is reshaping how software validation and quality assur",
-      "url": "https://www.openpr.com/news/4628729/artificial-intelligence-ai-enabled-testing-market-research",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L911880979_k.jpg",
-      "publishedAt": "2026-09-11T06:21:03.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "d436ba37429cd74f",
-      "slug": "application-programming-interface-api-security-market-intelligence-report-covers-trends--2602a3",
-      "title": "Application Programming Interface (API) Security Market Intelligence Report Covers Trends, Segments And Regional Growth",
-      "dek": "The rapid evolution of technology and the growing reliance on interconnected applications have brought API security into sharp focus. As APIs become critical gateways for data exchange, protecting these interfaces against increasing cyber threats has become paramount. Let's explore how",
-      "url": "https://www.openpr.com/news/4628711/application-programming-interface-api-security-market",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L911108911_k.jpg",
-      "publishedAt": "2026-09-11T06:12:45.000Z",
-      "topic": "Security",
-      "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "98e89f86247549a4",
-      "slug": "oracle-shares-rally-can-strong-ai-demand-sustain-oracle-s-stock-surge-3b4fe2",
-      "title": "Oracle shares rally: Can strong AI demand sustain Oracle’s stock surge?",
-      "dek": "Oracle shares jumped in after-hours trading after the software giant reported stronger-than-expected fiscal first-quarter results, with booming AI demand driving rapid growth in its cloud infrastructure business. The results helped ease some investor concerns over Oracle’s heavy spending on AI infra",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/oracle-shares-rally-can-strong-ai-demand-sustain-oracles-stock-surge/slideshow/134048334.cms",
-      "source": "The Economic Times",
-      "sourceType": "external",
-      "image": "https://img.etimg.com/thumb/msid-134048334,width-1200,height-900,overlay-etmarkets/slideshow.jpg",
-      "publishedAt": "2026-09-11T05:44:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "AI"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "2e1c94106d5d758f",
-      "slug": "green-data-center-market-is-going-to-boom-amazon-web-services-microsoft-corporation-goog-08280a",
-      "title": "Green Data Center Market Is Going to Boom | Amazon Web Services, Microsoft Corporation, Google LLC",
-      "dek": "The latest study, titled Green Data Center Market 2026, published by Coherent Market Insights, delivers high-impact insights into both regional and global markets projected to grow from 2026 to 2033. This comprehensive research provides a detailed evaluation of evolving market",
-      "url": "https://www.openpr.com/news/4628646/green-data-center-market-is-going-to-boom-amazon-web-services",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L911694212_k.jpg",
-      "publishedAt": "2026-09-11T05:38:45.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "banking & insurance",
-        "economy",
-        "finances",
-        "business"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "a966489dffed9e51",
-      "slug": "cap-raise-crucible-canaccord-leads-big-mining-dash-for-cash-6d2e67",
-      "title": "Cap Raise Crucible: Canaccord leads big mining dash for cash",
-      "dek": "The Cap Raise Crucible saw ASX cheque books well and truly remain open as over 35 raisings chased $687.5M, led by big mining books. Canaccord was at the pointy end with nine mandates worth $380M.",
-      "url": "https://thewest.com.au/business/bulls-n-bears/cap-raise-crucible-canaccord-leads-big-mining-dash-for-cash-c-22855748",
-      "source": "The West",
-      "sourceType": "external",
-      "image": "https://images.thewest.com.au/publication/C-22855748/c7d32cb16da6869d5bd0b3ad8ba2595cae7c72a6-16x9-x0y53w1440h810.jpg",
-      "publishedAt": "2026-09-11T03:11:43.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "public companies",
-        "bulls n' bears",
-        "business"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "e532ce57cdfed46e",
-      "slug": "daily-buzz-11-september-2026-32a1ee",
-      "title": "Daily Buzz: 11 September 2026",
-      "dek": "A quick look at the market, business, and economic news making headlines in China.",
-      "url": "https://www.citynewsservice.cn/articles/china-biz-buzz/daily-buzz/daily-buzz-11-september-2026-amyyaj6m",
-      "source": "City News Service",
-      "sourceType": "external",
-      "image": "https://obj.shine.cn/files/2026/09/11/f24003d8-42da-405f-84d0-0791922e8121_0.jpg",
-      "publishedAt": "2026-09-11T01:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "suzhou",
-        "oracle",
-        "abu dhabi",
-        "alipay",
-        "xuhui",
-        "shanghai ifc mall"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "85869788c7556247",
-      "slug": "oracle-q1-earnings-call-highlights-952296",
+      "id": "121b3797be8d36c2",
+      "slug": "oracle-q1-earnings-call-highlights-d32df9",
       "title": "Oracle Q1 Earnings Call Highlights",
       "dek": "Oracle (NYSE:ORCL) reported record first-quarter fiscal 2027 revenue as cloud infrastructure growth accelerated and the company brought substantial new AI computing capacity online. The company also raised its full-year revenue and non-GAAP earnings outlook, while maintaining plans for heavy capital",
-      "url": "https://www.themarketsdaily.com/2026/09/11/oracle-q1-earnings-call-highlights.html",
-      "source": "Markets Daily",
+      "url": "https://www.defenseworld.net/2026/09/12/oracle-q1-earnings-call-highlights.html",
+      "source": "Defenseworld Net",
       "sourceType": "external",
       "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-09-11T00:06:44.000Z",
+      "publishedAt": "2026-09-12T09:18:54.000Z",
       "topic": "Oracle Cloud",
       "tags": [
-        "stocks",
+        "companies",
         "partner feed articles"
       ],
-      "priority": 36
+      "priority": 42
     },
     {
-      "id": "7637cd4982209857",
-      "slug": "oracle-s-stock-moves-higher-on-surging-cloud-infrastructure-revenue-growth-58fdd5",
-      "title": "Oracle’s stock moves higher on surging cloud infrastructure revenue growth",
-      "dek": "Oracle Corp. comfortably beat expectations in its first-quarter earnings results today, driven by strong growth in its cloud infrastructure business, boosting its stock by about 4% in late trading. The database giant reported earnings before certain costs such as stock compensation of $1.92 per shar",
-      "url": "https://siliconangle.com/2026/09/10/oracles-stock-moves-higher-on-surging-cloud-infrastructure-revenue-growth/",
-      "source": "Siliconangle",
+      "id": "9a748892a14001a7",
+      "slug": "oracle-layoffs-know-how-much-restructuring-cost-company-amid-ai-expansion-ca152a",
+      "title": "Oracle Layoffs: Know How Much Restructuring Cost Company Amid AI Expansion",
+      "dek": "Oracle has increased its fiscal restructuring budget by USD 700 million, taking the total projected cost to around USD 2.8 billion. The company has already incurred about USD 2.1 billion in charges, with the additional funds planned for severance, contract terminations and operational efficiency mea",
+      "url": "https://www.latestly.com/technology/oracle-layoffs-know-how-much-restructuring-cost-company-amid-ai-expansion-7601318.html",
+      "source": "Latestly",
       "sourceType": "external",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Screenshot-from-2026-06-11-06-30-17.png",
-      "publishedAt": "2026-09-10T23:34:02.000Z",
-      "topic": "AI & Database",
+      "image": "https://st1.latestly.com/wp-content/uploads/2022/08/resize-34.jpg",
+      "publishedAt": "2026-09-12T09:15:47.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "capital expenditures",
-        "data center buildout",
-        "earnings",
-        "database software",
-        "first quarter",
-        "news"
+        "oracle ai data centres",
+        "job cuts 2026",
+        "layoffs 2026",
+        "technology layoffs",
+        "oracle cloud backlog",
+        "oracle restructuring"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "52b767ee112b593c",
+      "slug": "oracle-you-didn-t-miss-it-there-s-still-40-upside-24e93d",
+      "title": "Oracle: You Didn't Miss It, There's Still 40% Upside",
+      "dek": "Oracle delivered a strong quarter, with accelerating cloud infrastructure growth and robust AI-driven demand. Find out why ORCL stock is a strong buy.",
+      "url": "https://seekingalpha.com/article/4945731-oracle-you-didnt-miss-it-theres-still-40-percent-upside",
+      "source": "Seeking Alpha",
+      "sourceType": "external",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1211826791/image_1211826791.jpg?io=getty-c-w1536",
+      "publishedAt": "2026-09-12T06:57:54.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "ORCL",
+        "AI"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "1014aa0a30e73cd2",
+      "slug": "cerebree-launches-ai-cognitive-layer-for-enterprise-and-human-intelligence-backed-by-crx-3fdf03",
+      "title": "CereBree Launches AI Cognitive Layer for Enterprise and Human Intelligence, Backed by $CRX Utility Token",
+      "dek": "CereBree, an AI cognitive layer company connecting enterprise, healthcare and personal intelligence into a single decision-making system, today announced [$1M in pre-seed funding / its go-to-market milestones — confirm exact figure and stage before release], along with the tokenomics and utility str",
+      "url": "https://www.financialcontent.com/article/globeprwire-2026-9-12-cerebree-launches-ai-cognitive-layer-for-enterprise-and-human-intelligence-backed-by-crx-utility-token",
+      "source": "Financialcontent",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-12T05:52:13.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "AI"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "489e26de49d85e77",
+      "slug": "oracle-nyse-orcl-sees-large-volume-increase-after-better-than-expected-earnings-954248",
+      "title": "Oracle (NYSE:ORCL) Sees Large Volume Increase After Better-Than-Expected Earnings",
+      "dek": "Shares of Oracle Corporation (NYSE:ORCL – Get Free Report) saw unusually-strong trading volume on Friday following a better than expected earnings announcement. Approximately 22,523,745 shares changed hands during mid-day trading, a decline of 22% from the previous session’s volume of 28,804,613 sha",
+      "url": "https://www.defenseworld.net/2026/09/12/oracle-nyseorcl-sees-large-volume-increase-after-better-than-expected-earnings.html",
+      "source": "Defenseworld Net",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-09-12T05:21:48.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "companies",
+        "price articles"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "e0f52d223d1f94b8",
+      "slug": "oracle-reportedly-expands-restructuring-plan-by-700m-as-ai-data-center-costs-mount-408bfb",
+      "title": "Oracle Reportedly Expands Restructuring Plan by $700M As AI Data Center Costs Mount",
+      "dek": "Oracle Corp. has expanded its workforce-reduction strategy, adding $700 million to its restructuring budget to manage cash-flow pressures.",
+      "url": "https://newsable.asianetnews.com/markets/oracle-reportedly-expands-restructuring-plan-by-700m-as-ai-data-center-costs-mount-articleshow-tnt810y",
+      "source": "Asianet Newsable",
+      "sourceType": "external",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-fa0b092d-a111-4312-9d26-18e30648ba2f.jpg",
+      "publishedAt": "2026-09-12T00:35:01.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "markets"
       ],
       "priority": 36
     },
     {
-      "id": "58fdbcf17b8e76fb",
-      "slug": "oracle-q1-20x-earnings-is-too-cheap-for-120-cloud-growth-857233",
-      "title": "Oracle Q1: 20x Earnings Is Too Cheap For 120% Cloud Growth",
-      "dek": "Oracle delivered solid Q1 results, with revenue of $19.35B and EPS 10% above expectations, supporting a continued buy rating. Click for more on ORCL.",
-      "url": "https://seekingalpha.com/article/4945290-oracle-q1-20x-earnings-is-too-cheap-for-120-percent-cloud-growth",
-      "source": "Seeking Alpha",
+      "id": "9e3a00511ce1284b",
+      "slug": "oracle-just-showed-a-less-painful-way-to-finance-ai-clouds-that-s-awkward-for-coreweave-0c65c4",
+      "title": "Oracle Just Showed a Less Painful Way to Finance AI Clouds. That’s Awkward for CoreWeave",
+      "dek": "Oracle Corporation (NYSE:ORCL) and CoreWeave, Inc. (NASDAQ:CRWV) are both spending enormous sums to turn scarce GPUs and data-center capacity into AI cloud revenue. Their financing models increasingly look very different. Oracle reported September 10 that remaining performance obligations reached $6",
+      "url": "https://ca.finance.yahoo.com/news/oracle-just-showed-less-painful-225038778.html",
+      "source": "Yahoo! News",
       "sourceType": "external",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1867844462/image_1867844462.jpg?io=getty-c-w1536",
-      "publishedAt": "2026-09-10T23:10:59.000Z",
+      "image": "https://media.zenfs.com/en/insidermonkey.com/dca33c530c7b6b668679ddac283a0d95.png",
+      "publishedAt": "2026-09-11T22:50:38.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "ORCL",
-        "Earnings"
+        "business"
       ],
       "priority": 36
     },
@@ -1997,6 +1844,137 @@
       "tags": [
         "Oracle Database",
         "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "7c3ad34d1ff092f6",
+      "slug": "blockchain-tables-a4f246",
+      "title": "Blockchain Tables",
+      "dek": "In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham kick off a new season with a deep dive into the latest features of Oracle Database 23ai. Joined by Bill Millar, a Senior Principal Database & MySQL Instructor, they explore the new enhancements to blockchain tabl",
+      "url": "https://oracleuniversitypodcast.libsyn.com/blockchain-tables",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-30T11:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Oracle Database",
+        "MySQL",
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ff92a6749fa996f7",
+      "slug": "database-essentials-027d69",
+      "title": "Database Essentials",
+      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Hope Fisher, Oracle's Product Manager for Database Technologies, as they break down the basics of databases, explore different database management systems, and delve into database development. Whether you're a newcomer or just need a refresher, ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-essentials",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-23T14:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "f046bd97147c0cf8",
+      "slug": "container-engine-for-kubernetes-security-practices-26ab8f",
+      "title": "Container Engine for Kubernetes: Security Practices",
+      "dek": "In the season's final episode, hosts Lois Houston and Nikita Abraham interview senior OCI instructor Mahendra Mehra about the security practices that are vital for OKE clusters on OCI. Mahendra shares his expert insights on the importance of Kubernetes security, especially in today's digital landsca",
+      "url": "https://oracleuniversitypodcast.libsyn.com/container-engine-for-kubernetes-security-practices",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP7.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-16T14:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "OCI",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "be8b92279cd0831f",
+      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
+      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-09T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "d38db88cd3fd3cc0",
+      "slug": "working-with-oke-virtual-nodes-f5a370",
+      "title": "Working with OKE Virtual Nodes",
+      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-02T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "bd401ec004db1755",
+      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
+      "title": "Introduction to OCI Container Engine for Kubernetes",
+      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-25T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "1d3aa287378f7e71",
+      "slug": "basics-of-kubernetes-23e26c",
+      "title": "Basics of Kubernetes",
+      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
+      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-18T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ec54bf5b81f570ed",
+      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
+      "title": "Oracle Cloud Infrastructure Registry",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-11T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "OCI",
+        "Oracle Cloud Infrastructure"
       ],
       "priority": 36
     }
