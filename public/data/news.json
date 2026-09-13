@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T22:25:16.220Z",
+  "generatedAt": "2026-09-13T22:30:06.262Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -18,7 +18,7 @@
       "publishedAt": "2026-09-12T16:16:00.000Z",
       "topic": "Business & Earnings",
       "tags": [],
-      "priority": 67
+      "priority": 49
     },
     {
       "id": "a6ea65aeb044c987",
@@ -85,56 +85,201 @@
       "priority": 46
     },
     {
-      "id": "0d695d473dbd6ed0",
-      "slug": "why-ai-efficiency-could-fuel-the-next-wave-of-infrastructure-spending-f02958",
-      "title": "Why AI Efficiency Could Fuel the Next Wave of Infrastructure Spending",
-      "dek": "Market Analysis by covering: Microsoft Corporation, Oracle Corporation, Alphabet Inc Class A, Amazon.com Inc. Read 's Market Analysis on Investing.com PH.",
-      "url": "https://ph.investing.com/analysis/why-ai-efficiency-could-fuel-the-next-wave-of-infrastructure-spending-218983",
-      "source": "Investing Philippines",
+      "id": "b07f3a4ba13851d9",
+      "slug": "promising-blockchain-stocks-to-consider-september-12th-ede0d0",
+      "title": "Promising Blockchain Stocks To Consider – September 12th",
+      "dek": "Core Scientific, Figure Technology Solutions, Bitdeer Technologies Group, Globant, Nukkleus, Digi Power X, and BTCS are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, use, or provide s",
+      "url": "https://baseballnewssource.com/2026/09/13/promising-blockchain-stocks-to-consider-september-12th/11264661.html",
+      "source": "Bbns",
       "sourceType": "external",
-      "image": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
-      "publishedAt": "2026-09-12T10:00:00.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
+      "publishedAt": "2026-09-13T10:02:54.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "alphabet inc class a",
-        "amazon.com inc",
-        "microsoft corporation",
-        "oracle corporation"
+        "markets",
+        "partner feed articles"
       ],
       "priority": 43
     },
     {
-      "id": "261b1b537038e07c",
-      "slug": "vc-funding-deals-pinegrove-inspiren-positron-ai-5cfa6a",
-      "title": "VC funding deals: Pinegrove, Inspiren, Positron AI",
-      "dek": "VC funding deals include announcements from Pinegrove, Inspiren, Positron AI, NewView Capital, NEA, Atreides Management, Valor Equity Partners",
-      "url": "https://infotechlead.com/tech/vc-funding-deals-pinegrove-inspiren-positron-ai-98293",
+      "id": "b85863bbcc1ec055",
+      "slug": "london-conference-recognises-global-leaders-in-data-ai-and-enterprise-technology-47544f",
+      "title": "London conference recognises global leaders in data, AI and enterprise technology",
+      "dek": "The 7th International Conference on Data Analytics & Management (ICDAM-2026) was held in hybrid mode from 12–14 June 2026, bringing together researchers, academics and technology professionals working across data analytics,... The post London conference recognises global leaders in data, AI and ente",
+      "url": "https://londonlovesbusiness.com/london-conference-recognises-global-leaders-in-data-ai-and-enterprise-technology/",
+      "source": "London Business News | Londonlovesbusiness.com",
+      "sourceType": "external",
+      "image": "https://mloyoq1wv9pf.i.optimole.com/cb:ogy1.18f6/w:750/h:501/q:mauto/f:best/https://londonlovesbusiness.com/wp-content/uploads/2026/09/ICDAM-image-e1789292922555.jpg",
+      "publishedAt": "2026-09-13T09:43:35.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "insights & advice"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "f35720b1013d325f",
+      "slug": "ai-spending-to-hit-3-49-trillion-in-2027-as-cio-focus-shifts-from-gpus-to-roi-dd40ea",
+      "title": "AI Spending to Hit $3.49 Trillion in 2027 as CIO Focus Shifts From GPUs to ROI",
+      "dek": "CIOs and investors increasingly want to know what companies are getting back from their AI investments of $3.49 trillion in 2027",
+      "url": "https://infotechlead.com/artificial-intelligence/ai-spending-to-hit-3-49-trillion-in-2027-as-cio-focus-shifts-from-gpus-to-roi-98315",
       "source": "Infotech Lead",
       "sourceType": "external",
-      "image": "https://infotechlead.com/wp-content/uploads/2026/01/VC-funding-news-InfotechLead.com_.jpg",
-      "publishedAt": "2026-09-12T09:59:38.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://infotechlead.com/wp-content/uploads/2026/09/AI-infrastructure-spending-2027.jpg",
+      "publishedAt": "2026-09-13T09:31:19.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "vc funding",
-        "venture capital"
+        "artificial intelligence",
+        "ai"
       ],
-      "priority": 43
+      "priority": 42
     },
     {
-      "id": "17d8e8eb0ed546ba",
-      "slug": "oracle-layoffs-more-job-cuts-expected-as-company-faces-rising-ai-data-centre-costs-1ad146",
-      "title": "Oracle layoffs: More job cuts expected as company faces rising AI data centre costs",
-      "dek": "Oracle is increasing the estimated cost of its 2026 restructuring plan to $2.8 billion as it cuts jobs while spending heavily on AI data centres. The company has already booked $2.1 billion in restructuring costs, with another $700 million expected as further workforce reductions are planned.",
-      "url": "https://www.firstpost.com/tech/oracle-layoffs-more-job-cuts-expected-as-company-faces-rising-ai-data-centre-costs-14045260.html",
-      "source": "Firstpost",
+      "id": "841aa1761d7ddd9c",
+      "slug": "engineers-gate-manager-lp-acquires-10-981-shares-of-coreweave-inc-crwv-8625d5",
+      "title": "Engineers Gate Manager LP Acquires 10,981 Shares of CoreWeave Inc. $CRWV",
+      "dek": "Engineers Gate Manager LP raised its holdings in shares of CoreWeave Inc. (NASDAQ:CRWV – Free Report) by 42.9% in the 2nd quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission. The institutional investor owned 36,570 shares of the company’s stock a",
+      "url": "https://www.watchlistnews.com/engineers-gate-manager-lp-acquires-10981-shares-of-coreweave-inc-crwv/11224331.html",
+      "source": "Watch List News",
       "sourceType": "external",
-      "image": "https://images.firstpost.com/uploads/2026/04/ai2-2026-04-4d846e58e5ed030dfaa4de911911727a.jpg",
-      "publishedAt": "2026-09-12T09:49:55.000Z",
+      "image": "https://www.marketbeat.com/logos/coreweave-inc-class-a-common-stock--logo-1200x675.png?v=20250328080441",
+      "publishedAt": "2026-09-13T09:23:16.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "investing",
+        "sec filing articles"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "62d843ded64b1892",
+      "slug": "national-pension-service-purchases-484-314-shares-of-coreweave-inc-crwv-d8786c",
+      "title": "National Pension Service Purchases 484,314 Shares of CoreWeave Inc. $CRWV",
+      "dek": "National Pension Service raised its position in shares of CoreWeave Inc. (NASDAQ:CRWV – Free Report) by 1,194.7% during the 2nd quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 524,854 shares of the company’s stock a",
+      "url": "https://www.americanbankingnews.com/2026/09/13/national-pension-service-purchases-484314-shares-of-coreweave-inc-crwv.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/coreweave-inc-class-a-common-stock--logo-1200x675.png?v=20250328080441",
+      "publishedAt": "2026-09-13T09:22:53.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "sec filing articles",
+        "market news"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "f368c4d970eac300",
+      "slug": "contrasting-globant-nyse-glob-corvex-nasdaq-move-5654ae",
+      "title": "Contrasting Globant (NYSE:GLOB) & Corvex (NASDAQ:MOVE)",
+      "dek": "Globant (NYSE:GLOB – Get Free Report) and Corvex (NASDAQ:MOVE – Get Free Report) are both small-cap technology companies, but which is the superior investment? We will compare the two companies based on the strength of their analyst recommendations, risk, earnings, profitability, institutional owner",
+      "url": "https://www.themarketsdaily.com/2026/09/13/contrasting-globant-nyseglob-corvex-nasdaqmove.html",
+      "source": "Markets Daily",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/corvex-inc-logo-1200x675.jpg?v=20260819090040",
+      "publishedAt": "2026-09-13T09:14:57.000Z",
+      "topic": "Security",
+      "tags": [
+        "stocks",
+        "comparison articles"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "ebcf2ccc96f952ae",
+      "slug": "no-oracle-exit-larry-ellison-scraps-plan-to-sell-50-million-shares-d6976a",
+      "title": "No Oracle exit: Larry Ellison scraps plan to sell 50 million shares",
+      "dek": "Oracle founder Larry Ellison cancels plan to sell up to 50 million shares, halting a $7.5 billion divestment amid investor concerns over AI spending and Oracle’s financial outlook.",
+      "url": "https://www.financialexpress.com/market/global-markets/no-oracle-exit-larry-ellison-scraps-plan-to-sell-50-million-shares/4338350/",
+      "source": "Financial Express , Read To Lead",
+      "sourceType": "external",
+      "image": "https://images.financialexpressdigital.com/2021/11/fe-og.png",
+      "publishedAt": "2026-09-13T09:01:38.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "layoffs",
+        "larry ellison",
+        "investor concerns",
+        "oracle ownership",
+        "share sale cancellation",
+        "oracle stock"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "bc203135b874e4ef",
+      "slug": "oracle-stock-above-average-long-term-stock-gains-are-likely-nyse-orcl-5c3867",
+      "title": "Oracle Stock: Above-Average Long-Term Stock Gains Are Likely (NYSE:ORCL)",
+      "dek": "Oracle looks undervalued as cloud infrastructure and AI demand surge. Click for more on ORCL stock.",
+      "url": "https://seekingalpha.com/article/4945833-oracle-above-average-long-term-stock-gains-are-likely",
+      "source": "Seeking Alpha",
+      "sourceType": "external",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2275247374/image_2275247374.jpg?io=getty-c-w1536",
+      "publishedAt": "2026-09-13T08:54:27.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "ORCL",
+        "AI"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "eb5869e684f23afa",
+      "slug": "oracle-nyse-orcl-sees-large-volume-increase-following-earnings-beat-b6b0b6",
+      "title": "Oracle (NYSE:ORCL) Sees Large Volume Increase Following Earnings Beat",
+      "dek": "Oracle Corporation (NYSE:ORCL – Get Free Report) shares saw unusually-strong trading volume on Friday following a better than expected earnings announcement. Approximately 22,523,745 shares traded hands during trading, a decline of 22% from the previous session’s volume of 28,804,613 shares.The stoc",
+      "url": "https://www.americanbankingnews.com/2026/09/13/oracle-nyseorcl-sees-large-volume-increase-following-earnings-beat.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-09-13T05:20:52.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "market news",
+        "price articles"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "71d55569e4820c35",
+      "slug": "oracle-s-ai-chips-ran-97-9-utilized-last-quarter-for-nvidia-that-is-what-a-shortage-look-eac258",
+      "title": "Oracle's AI Chips Ran 97.9% Utilized Last Quarter. For Nvidia, That Is What a Shortage Looks Like.",
+      "dek": "The cloud giant added more than 300,000 GPUs in one quarter, and its fleet still ran nearly full. Even 4-year-old chips got a price bump.",
+      "url": "https://www.fool.com/investing/2026/09/12/oracle-s-ai-chips-ran-97-9-utilized-last-quarter-for-nvidia-that-is-what-a-shortage-looks-like/",
+      "source": "Fool",
+      "sourceType": "external",
+      "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/cf184378e1fdb65090e99ad4537d019dd5601998-3840x2160.jpg?w=800&q=75&fit=max&auto=format",
+      "publishedAt": "2026-09-13T03:18:01.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "investing",
+        "technology and telecom",
+        "nvda",
+        "79469c6c-9992-4719-a9ea-86b99d0c9f28",
+        "orcl"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "3b9830c43e082e2b",
+      "slug": "oracle-layoffs-will-more-people-be-affected-by-job-cuts-know-how-many-7c31e7",
+      "title": "Oracle Layoffs: Will More People Be Affected by Job Cuts? Know How Many",
+      "dek": "Oracle has raised its projected 2026 restructuring costs to USD 2.8 billion, including an additional USD 700 million for severance and operational streamlining. The company has already incurred around USD 2.1 billion in restructuring charges. Further workforce reductions are expected as Oracle manag",
+      "url": "https://www.latestly.com/technology/oracle-layoffs-will-more-people-be-affected-by-job-cuts-know-how-many-7602220.html",
+      "source": "Latestly",
+      "sourceType": "external",
+      "image": "https://st1.latestly.com/wp-content/uploads/2026/05/1-127.jpg",
+      "publishedAt": "2026-09-13T03:09:36.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "tech"
+        "oracle layoffs 2026",
+        "tech layoffs 2026",
+        "oracle capital expenditure",
+        "oracle ai infrastructure",
+        "oracle employee severance",
+        "oracle headcount reduction"
       ],
-      "priority": 43
+      "priority": 38
     },
     {
       "id": "c8d231e1605310b3",
@@ -148,142 +293,26 @@
       "publishedAt": "2026-09-10T20:10:00.000Z",
       "topic": "Oracle Cloud",
       "tags": [],
-      "priority": 43
+      "priority": 38
     },
     {
-      "id": "706712f87a5194d1",
-      "slug": "wellington-management-group-llp-increases-stake-in-coreweave-inc-crwv-6b1956",
-      "title": "Wellington Management Group LLP Increases Stake in CoreWeave Inc. $CRWV",
-      "dek": "Wellington Management Group LLP raised its stake in CoreWeave Inc. (NASDAQ:CRWV – Free Report) by 67.1% in the 2nd quarter, according to its most recent disclosure with the SEC. The fund owned 17,183 shares of the company’s stock after purchasing an additional 6,902 shares during the quarter. Wellin",
-      "url": "https://www.watchlistnews.com/wellington-management-group-llp-increases-stake-in-coreweave-inc-crwv/11223508.html",
-      "source": "Watch List News",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/coreweave-inc-class-a-common-stock--logo-1200x675.png?v=20250328080441",
-      "publishedAt": "2026-09-12T09:30:48.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "sec filing articles",
-        "investing"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "121b3797be8d36c2",
-      "slug": "oracle-q1-earnings-call-highlights-d32df9",
-      "title": "Oracle Q1 Earnings Call Highlights",
-      "dek": "Oracle (NYSE:ORCL) reported record first-quarter fiscal 2027 revenue as cloud infrastructure growth accelerated and the company brought substantial new AI computing capacity online. The company also raised its full-year revenue and non-GAAP earnings outlook, while maintaining plans for heavy capital",
-      "url": "https://www.defenseworld.net/2026/09/12/oracle-q1-earnings-call-highlights.html",
-      "source": "Defenseworld Net",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-09-12T09:18:54.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "companies",
-        "partner feed articles"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "9a748892a14001a7",
-      "slug": "oracle-layoffs-know-how-much-restructuring-cost-company-amid-ai-expansion-ca152a",
-      "title": "Oracle Layoffs: Know How Much Restructuring Cost Company Amid AI Expansion",
-      "dek": "Oracle has increased its fiscal restructuring budget by USD 700 million, taking the total projected cost to around USD 2.8 billion. The company has already incurred about USD 2.1 billion in charges, with the additional funds planned for severance, contract terminations and operational efficiency mea",
-      "url": "https://www.latestly.com/technology/oracle-layoffs-know-how-much-restructuring-cost-company-amid-ai-expansion-7601318.html",
-      "source": "Latestly",
-      "sourceType": "external",
-      "image": "https://st1.latestly.com/wp-content/uploads/2022/08/resize-34.jpg",
-      "publishedAt": "2026-09-12T09:15:47.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "oracle ai data centres",
-        "job cuts 2026",
-        "layoffs 2026",
-        "technology layoffs",
-        "oracle cloud backlog",
-        "oracle restructuring"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "52b767ee112b593c",
-      "slug": "oracle-you-didn-t-miss-it-there-s-still-40-upside-24e93d",
-      "title": "Oracle: You Didn't Miss It, There's Still 40% Upside",
-      "dek": "Oracle delivered a strong quarter, with accelerating cloud infrastructure growth and robust AI-driven demand. Find out why ORCL stock is a strong buy.",
-      "url": "https://seekingalpha.com/article/4945731-oracle-you-didnt-miss-it-theres-still-40-percent-upside",
-      "source": "Seeking Alpha",
-      "sourceType": "external",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1211826791/image_1211826791.jpg?io=getty-c-w1536",
-      "publishedAt": "2026-09-12T06:57:54.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "ORCL",
-        "AI"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "1014aa0a30e73cd2",
-      "slug": "cerebree-launches-ai-cognitive-layer-for-enterprise-and-human-intelligence-backed-by-crx-3fdf03",
-      "title": "CereBree Launches AI Cognitive Layer for Enterprise and Human Intelligence, Backed by $CRX Utility Token",
-      "dek": "CereBree, an AI cognitive layer company connecting enterprise, healthcare and personal intelligence into a single decision-making system, today announced [$1M in pre-seed funding / its go-to-market milestones — confirm exact figure and stage before release], along with the tokenomics and utility str",
-      "url": "https://www.financialcontent.com/article/globeprwire-2026-9-12-cerebree-launches-ai-cognitive-layer-for-enterprise-and-human-intelligence-backed-by-crx-utility-token",
-      "source": "Financialcontent",
+      "id": "2d1a67eec33e966d",
+      "slug": "ratings-weekly-dell-oracle-apple-sk-hynix-nebius-tesla-palantir-and-more-to-watch-433995",
+      "title": "Ratings Weekly | Dell, Oracle, Apple, SK Hynix, Nebius, Tesla, Palantir and More to Watch",
+      "dek": "Here are the biggest calls on Wall Street This Week:. RBC said it sees “AI infrastructure demand.” “We initiate coverage of DELL with an Outperform rating",
+      "url": "https://www.newsbreak.com/news/4882962603437-ratings-weekly-dell-oracle-apple-sk-hynix-nebius-tesla-palantir-and-more-to-watch",
+      "source": "Newsbreak",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-09-12T05:52:13.000Z",
-      "topic": "Applications & NetSuite",
+      "publishedAt": "2026-09-13T00:00:00.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "AI"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "489e26de49d85e77",
-      "slug": "oracle-nyse-orcl-sees-large-volume-increase-after-better-than-expected-earnings-954248",
-      "title": "Oracle (NYSE:ORCL) Sees Large Volume Increase After Better-Than-Expected Earnings",
-      "dek": "Shares of Oracle Corporation (NYSE:ORCL – Get Free Report) saw unusually-strong trading volume on Friday following a better than expected earnings announcement. Approximately 22,523,745 shares changed hands during mid-day trading, a decline of 22% from the previous session’s volume of 28,804,613 sha",
-      "url": "https://www.defenseworld.net/2026/09/12/oracle-nyseorcl-sees-large-volume-increase-after-better-than-expected-earnings.html",
-      "source": "Defenseworld Net",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-09-12T05:21:48.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "companies",
-        "price articles"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "e0f52d223d1f94b8",
-      "slug": "oracle-reportedly-expands-restructuring-plan-by-700m-as-ai-data-center-costs-mount-408bfb",
-      "title": "Oracle Reportedly Expands Restructuring Plan by $700M As AI Data Center Costs Mount",
-      "dek": "Oracle Corp. has expanded its workforce-reduction strategy, adding $700 million to its restructuring budget to manage cash-flow pressures.",
-      "url": "https://newsable.asianetnews.com/markets/oracle-reportedly-expands-restructuring-plan-by-700m-as-ai-data-center-costs-mount-articleshow-tnt810y",
-      "source": "Asianet Newsable",
-      "sourceType": "external",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-fa0b092d-a111-4312-9d26-18e30648ba2f.jpg",
-      "publishedAt": "2026-09-12T00:35:01.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "markets"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "9e3a00511ce1284b",
-      "slug": "oracle-just-showed-a-less-painful-way-to-finance-ai-clouds-that-s-awkward-for-coreweave-0c65c4",
-      "title": "Oracle Just Showed a Less Painful Way to Finance AI Clouds. That’s Awkward for CoreWeave",
-      "dek": "Oracle Corporation (NYSE:ORCL) and CoreWeave, Inc. (NASDAQ:CRWV) are both spending enormous sums to turn scarce GPUs and data-center capacity into AI cloud revenue. Their financing models increasingly look very different. Oracle reported September 10 that remaining performance obligations reached $6",
-      "url": "https://ca.finance.yahoo.com/news/oracle-just-showed-less-painful-225038778.html",
-      "source": "Yahoo! News",
-      "sourceType": "external",
-      "image": "https://media.zenfs.com/en/insidermonkey.com/dca33c530c7b6b668679ddac283a0d95.png",
-      "publishedAt": "2026-09-11T22:50:38.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "business"
+        "tradingkey.com",
+        "tesla",
+        "ratings weekly | dell",
+        "apple",
+        "local news",
+        "nebius"
       ],
       "priority": 36
     },
@@ -1957,24 +1986,6 @@
       "topic": "Oracle Cloud",
       "tags": [
         "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ec54bf5b81f570ed",
-      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
-      "title": "Oracle Cloud Infrastructure Registry",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-11T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "OCI",
-        "Oracle Cloud Infrastructure"
       ],
       "priority": 36
     }
