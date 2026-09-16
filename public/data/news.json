@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T22:59:33.291Z",
+  "generatedAt": "2026-09-16T23:04:10.819Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,437 +7,457 @@
   },
   "items": [
     {
-      "id": "b704d34765e4982e",
-      "slug": "contrasting-dxc-technology-nyse-dxc-and-rimini-street-nasdaq-rmni-dcfb09",
-      "title": "Contrasting DXC Technology (NYSE:DXC) and Rimini Street (NASDAQ:RMNI)",
-      "dek": "Rimini Street (NASDAQ:RMNI – Get Free Report) and DXC Technology (NYSE:DXC – Get Free Report) are both small-cap technology companies, but which is the superior stock? We will contrast the two businesses based on the strength of their dividends, institutional ownership, earnings, valuation, profitab",
-      "url": "https://www.dailypolitical.com/2026/09/15/contrasting-dxc-technology-nysedxc-and-rimini-street-nasdaqrmni.html",
-      "source": "Daily Political",
+      "id": "3160a8fb1dd1491e",
+      "slug": "opentext-cohere-partner-to-combine-trusted-data-with-agentic-ai-70e27a",
+      "title": "OpenText, Cohere Partner to Combine Trusted Data with Agentic AI",
+      "dek": "/CNW/ -- OpenText Corporation (NASDAQ: OTEX) (TSX: OTEX), a global leader in data management and context for enterprise AI, and Cohere, the world's leading...",
+      "url": "https://www.newswire.ca/news-releases/opentext-cohere-partner-to-combine-trusted-data-with-agentic-ai-897974014.html",
+      "source": "Newswire",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/dxc-technology-logo-1200x675.jpg?v=20210710112230",
-      "publishedAt": "2026-09-15T10:58:48.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://mmx.prnewswire.com/media/MS494410/Open-Text-Logo.jpg?id=OA2951675",
+      "publishedAt": "2026-09-16T11:00:00.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "comparison articles",
-        "finance"
+        "licensing"
       ],
       "priority": 43
     },
     {
-      "id": "0c78ebc04ba76bda",
-      "slug": "bishop-kukah-and-nigeria-s-poverty-alleviation-profiteers-d62739",
-      "title": "Bishop Kukah and Nigeria’s Poverty Alleviation Profiteers",
-      "dek": "The most recent news from Nigeria and across the world is available at The News Chronicle. The News Chronicle provides the most recent headlines, commentary, and political news. As of today, the poverty index rate in Nigeria stands at 63 per cent! This means that of Nigeria’s roughly 235 million peo",
-      "url": "https://thenews-chronicle.com/bishop-kukah-and-nigerias-poverty-alleviation-profiteers/",
-      "source": "The News Chronicle",
+      "id": "403e48c7caf2a00c",
+      "slug": "article-your-next-dsl-author-is-a-language-model-cd79c0",
+      "title": "Article: Your Next DSL Author Is a Language Model",
+      "dek": "In this article, the author introduces Typed Domain Grounding, an approach to reducing LLM hallucinations in domain-specific languages by embedding them in mainstream typed languages. Using kUML benchmarks and an infrastructure-as-code example, he explores how compiler validation and generate-compil",
+      "url": "https://www.infoq.com/articles/next-dsl-author-language-model/",
+      "source": "Information Queue",
       "sourceType": "external",
-      "image": "https://thenews-chronicle.com/wp-content/uploads/2024/07/SUYI.png",
-      "publishedAt": "2026-09-15T10:54:09.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://res.infoq.com/articles/next-dsl-author-language-model/en/smallimage/Your-Next-DSL-Author-Is-a-Language-Model-thumb-1789048983233.jpg",
+      "publishedAt": "2026-09-16T11:00:00.000Z",
+      "topic": "Training & Certification",
       "tags": [
-        "nigeria",
-        "tuesday",
-        "columns",
-        "bishop kukah"
+        "article",
+        "domain specific languages",
+        "large language models",
+        "ml & data engineering",
+        "dsls",
+        "development"
       ],
       "priority": 43
     },
     {
-      "id": "7f0e073bf9ccfc8e",
-      "slug": "how-the-oracle-layoffs-unfolded-locked-out-of-system-at-4-am-laid-off-by-6-am-b47c80",
-      "title": "How the Oracle layoffs unfolded: Locked out of system at 4 am, laid off by 6 am",
-      "dek": "Oracle has begun another round of layoffs in the US, with some employees losing access to company systems hours before they were formally told their jobs had been eliminated. The cuts come as the technology giant pours billions of dollars into AI and data-centre infrastructure, while further cuts in",
-      "url": "https://www.firstpost.com/explainers/how-the-oracle-layoffs-unfolded-locked-out-of-system-at-4-am-laid-off-by-6-am-14046057.html",
-      "source": "Firstpost",
+      "id": "0df610e20b874171",
+      "slug": "oracle-java-27-release-brings-ai-focused-updates-strengthening-security-ad097f",
+      "title": "Oracle Java 27 release brings AI-focused updates, strengthening security",
+      "dek": "Oracle Java 27 release adds AI, post-quantum security and performance upgrades, giving enterprises new tools for modern applications and workloads.",
+      "url": "https://www.dqchannels.com/news/oracle-java-27-release-strengthens-ai-security-12540684",
+      "source": "Dqc",
       "sourceType": "external",
-      "image": "https://images.firstpost.com/uploads/2026/04/ai2-2026-04-4d846e58e5ed030dfaa4de911911727a.jpg",
-      "publishedAt": "2026-09-15T10:30:45.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "world"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "a991b761f2275fbb",
-      "slug": "oracle-begins-fresh-layoff-round-as-ai-reshapes-its-global-workforce-ebdab5",
-      "title": "Oracle begins fresh layoff round as AI reshapes its global workforce",
-      "dek": "Oracle has begun another round of layoffs, with an estimated 3,000 to 4,000 employees affected, according to reports....",
-      "url": "https://technext24.com/news/oracle-cuts-job-as-ai-reshapes-workforce/",
-      "source": "Technext24",
-      "sourceType": "external",
-      "image": "https://technext24.com/wp-content/uploads/2026/09/Oracle.avif",
-      "publishedAt": "2026-09-15T10:28:35.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "news"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "3881c98e7f186ec1",
-      "slug": "oracle-s-300-billion-openai-gamble-the-massive-bet-reshaping-ai-infrastructure-789321",
-      "title": "Oracle’s $300 Billion OpenAI Gamble: The Massive Bet Reshaping AI Infrastructure",
-      "dek": "Oracle's $300 billion pact with OpenAI powers the Stargate project, demanding 4.5 GW and reshaping cloud infrastructure. Construction advances amid debt concerns, local protests and shifting sites. The gamble could cement Oracle's AI role or expose limits of rapid scaling.",
-      "url": "https://www.webpronews.com/oracles-300-billion-openai-gamble-the-massive-bet-reshaping-ai-infrastructure/",
-      "source": "Webpronews",
-      "sourceType": "external",
-      "image": "https://www.webpronews.com/wp-content/uploads/2026/09/article-25773-1789432726.jpeg",
-      "publishedAt": "2026-09-15T10:22:16.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "$300 billion deal",
-        "top news",
-        "stargate project",
-        "larry ellison",
-        "ai data centers",
-        "oracle openai"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "ebe0c5c9fca46bd8",
-      "slug": "europe-ict-market-2026-2031-digital-transformation-and-cloud-adoption-drive-growth-778e60",
-      "title": "Europe ICT Market (2026-2031) - Digital Transformation and Cloud Adoption Drive Growth",
-      "dek": "Europe’s ICT opportunities center on 5G, sovereign cloud, cybersecurity, industrial edge and green data centers, driven by EU funding, data rules and sustainability mandates. Europe’s ICT opportunities center on 5G, sovereign cloud, cybersecurity, industrial edge and green data centers, driven by EU",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/09/15/3361841/28124/en/europe-ict-market-2026-2031-digital-transformation-and-cloud-adoption-drive-growth.html",
-      "source": "Globenewswire_fr",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-09-15T10:20:00.000Z",
+      "image": "https://img-cdn.publive.online/dqc/media/media_files/2026/09/16/voracle-java-27-release-brings-ai-focused-updates-strengthening-security-2026-09-16-16-19-03.png",
+      "publishedAt": "2026-09-16T10:49:58.000Z",
       "topic": "Security",
       "tags": [
-        "research analysis and reports"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "967eadb1d0e3d27f",
-      "slug": "oracle-layoffs-2026-tech-giant-cuts-jobs-via-early-morning-termination-email-fb8588",
-      "title": "Oracle Layoffs 2026: Tech Giant Cuts Jobs via Early Morning Termination Email",
-      "dek": "Oracle Triggers Fresh Job Reductions via Sudden Dawn Email Notifications Thousands of tech professionals faced a harsh reality this week when tech giant Oracle initiated a broad round of workforce... The post Oracle Layoffs 2026: Tech Giant Cuts Jobs via Early Morning Termination Email first appeare",
-      "url": "https://indiathisweek.in/business/oracle-layoffs-2026-early-morning-termination-email-ai-spending/",
-      "source": "Indiathisweek.in",
-      "sourceType": "external",
-      "image": "https://indiathisweek.in/wp-content/uploads/2026/09/Oracle.jpg",
-      "publishedAt": "2026-09-15T10:13:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "business",
-        "tech layoffs",
-        "cloud infrastructure",
-        "business news",
-        "india this week",
         "oracle"
       ],
       "priority": 43
     },
     {
-      "id": "a5219c763296f2fa",
-      "slug": "the-gulf-s-ai-nightmare-came-courtesy-of-an-iranian-drone-1b6ce7",
-      "title": "The Gulf’s AI Nightmare Came Courtesy of an Iranian Drone",
-      "dek": "Amazon data centers in the U.A.E. and Bahrain are still offline months after being hit in the Iran war, testing the region’s multibillion-dollar ambitions.",
-      "url": "https://www.hindustantimes.com/world-news/the-gulf-s-ai-nightmare-came-courtesy-of-an-iranian-drone-101789466849048.html",
-      "source": "Hindustan Times",
+      "id": "056e0b5c8ca5fa29",
+      "slug": "oracle-unveils-java-27-with-ai-and-performance-enhancements-ec07d1",
+      "title": "Oracle Unveils Java 27 With AI and Performance Enhancements",
+      "dek": "Oracle announced the availability of Java 27, the latest version of the world’s number one programming language and development platform. Featuring thousands of performance, stability, security, and productivity improvements, Java 27 (Oracle JDK 27) provides a strong foundation for continued Java in",
+      "url": "https://smestreet.in/technology/oracle-unveils-java-27-with-ai-and-performance-enhancements-12540573",
+      "source": "Smestreet In",
       "sourceType": "external",
-      "image": "https://www.hindustantimes.com/ht-img/img/2026/09/15/1600x900/logo/im-75324813_1789466855832_9Snv_1789466891321_x5mZ_dbd85080-3ae4-4335-aa4b-f4b04cdea781_VRna.jpg",
-      "publishedAt": "2026-09-15T10:08:16.000Z",
-      "topic": "Oracle Cloud",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/smstreet/media/media_files/2025/02/10/BFHNdlE8FUD3SeHJxx9i.png",
+      "publishedAt": "2026-09-16T10:29:37.000Z",
+      "topic": "Security",
       "tags": [
-        "latest"
+        "cloud for smes",
+        "technology for smes"
       ],
       "priority": 43
     },
     {
-      "id": "fc02ec786f0710f3",
-      "slug": "oracle-stock-sank-after-earnings-is-it-a-buy-a896d7",
-      "title": "Oracle Stock Sank After Earnings -- Is It a Buy?",
-      "dek": "Oracle stock is down more than 50% from its high. Is this a buying opportunity?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-stock-sank-earnings-buy-100500633.html",
-      "source": "Yahoo! News",
+      "id": "91f67950ebe90d40",
+      "slug": "enterprise-risk-management-market-analysis-highlights-growth-to-7-76-billion-by-2030-at--6b12df",
+      "title": "Enterprise Risk Management Market Analysis Highlights Growth To $7.76 Billion By 2030 At 8.6% CAGR",
+      "dek": "The enterprise risk management industry has seen significant growth in recent years, driven by evolving business landscapes and increasing complexities in risk factors. As organizations strive to manage uncertainties and comply with regulations, the market is poised for further expansion,",
+      "url": "https://www.openpr.com/news/4633095/enterprise-risk-management-market-analysis-highlights-growth",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://media.zenfs.com/en/motleyfool.com/86e8fc7560d005581635eab437f1a487.jpg",
-      "publishedAt": "2026-09-15T10:05:00.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://cdn.open-pr.com/L/9/L916969684_k.jpg",
+      "publishedAt": "2026-09-16T10:10:02.000Z",
+      "topic": "Security",
       "tags": [
-        "earnings per share",
-        "larry ellison",
-        "oracle founder",
-        "earnings report",
-        "oracle stock",
-        "quarterly report"
+        "new media & software",
+        "it"
       ],
       "priority": 42
     },
     {
-      "id": "bf7e52bb6861c3d3",
-      "slug": "oracle-s-fundamentals-remain-strong-so-why-is-the-stock-turning-lower-fbcf9a",
-      "title": "Oracle’s Fundamentals Remain Strong — So Why Is the Stock Turning Lower?",
-      "dek": "Market Analysis by covering: Oracle Corporation. Read 's Market Analysis on Investing.com",
-      "url": "https://www.investing.com/analysis/oracles-fundamentals-remain-strong--so-why-is-the-stock-turning-lower-200687688",
-      "source": "Investing Us",
+      "id": "4e0067b5c97466b5",
+      "slug": "amazon-cloud-infrastructure-in-bahrain-uae-damaged-after-iran-attacks-600a94",
+      "title": "Amazon cloud infrastructure in Bahrain, UAE damaged after Iran attacks",
+      "dek": "Amazon Web Services (AWS) has confirmed that it cannot restore access to certain cloud facilities and data centres in the United Arab Emirates (UAE) and Bahrain following attacks carried out by Iran earlier this year.",
+      "url": "https://www.thehansindia.com/tech/amazon-cloud-infrastructure-in-bahrain-uae-damaged-after-iran-attacks-1122455",
+      "source": "The Hans India",
       "sourceType": "external",
-      "image": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
-      "publishedAt": "2026-09-15T09:47:00.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://assets.thehansindia.com/h-upload/2026/09/16/1702718-amazon.webp",
+      "publishedAt": "2026-09-16T10:09:17.000Z",
+      "topic": "Oracle Cloud",
       "tags": [
-        "oracle corporation"
+        "technology",
+        "business"
       ],
       "priority": 42
     },
     {
-      "id": "0202d9a5b1a11699",
-      "slug": "life-science-analytics-market-poised-for-strong-growth-through-2035-driven-by-ai-big-dat-455755",
-      "title": "Life Science Analytics Market Poised for Strong Growth Through 2035, Driven by AI, Big Data and Precision Medicine Demand",
-      "dek": "AI, cloud analytics and real-world evidence are transforming life sciences, creating opportunities in R&D, clinical trials, data integration and personalized medicine. AI, cloud analytics and real-world evidence are transforming life sciences, creating opportunities in R&D, clinical trials, data int",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/09/15/3361768/28124/en/life-science-analytics-market-poised-for-strong-growth-through-2035-driven-by-ai-big-data-and-precision-medicine-demand.html",
+      "id": "fd8bafee4907671b",
+      "slug": "enterprise-key-management-market-research-reveals-strong-18-7-cagr-outlook-through-2030-685c4b",
+      "title": "Enterprise Key Management Market Research Reveals Strong 18.7% CAGR Outlook Through 2030",
+      "dek": "The enterprise key management sector has seen remarkable progress recently, driven by increasing concerns over data security and the growing adoption of encryption technologies. As organizations continue to prioritize safeguarding sensitive information, this market is positioned for substantial adva",
+      "url": "https://www.openpr.com/news/4633089/enterprise-key-management-market-research-reveals-strong-18-7",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/9/L916787677_k.jpg",
+      "publishedAt": "2026-09-16T10:07:42.000Z",
+      "topic": "Security",
+      "tags": [
+        "new media & software",
+        "it"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "6e8c2bc048796ce2",
+      "slug": "java-27-delivers-post-quantum-cryptography-future-language-innovation-helidon-27-javafx--eb3ebc",
+      "title": "Java 27 Delivers Post-Quantum Cryptography, Future Language Innovation, Helidon 27, JavaFX 27",
+      "dek": "Oracle has released version 27 of the Java programming language and virtual machine. As the second non-LTS release since JDK 25, the final feature set includes nine JEPs, five of which are still progressing through the preview and incubator stages. This release focuses on strengthening security, fut",
+      "url": "https://www.infoq.com/news/2026/09/java27-released/",
+      "source": "Information Queue",
+      "sourceType": "external",
+      "image": "https://res.infoq.com/news/2026/09/java27-released/en/headerimage/java-istock-image-01-1789513423942.jpg",
+      "publishedAt": "2026-09-16T10:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "application security",
+        "javafx",
+        "project valhalla",
+        "java",
+        "quantum computing",
+        "development"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "8beb589001d32afd",
+      "slug": "top-10-best-multi-cloud-security-platforms-in-2026-938897",
+      "title": "Top 10 Best Multi-Cloud Security Platforms in 2026",
+      "dek": "Multi-cloud is the reality AWS and Azure and GCP, often plus Oracle and on-prem and each models identity, networking, and services differently. A dedicated multi-cloud security platform normalizes these discrepancies, delivering one unified policy framework, one cohesive risk graph, and one manageme",
+      "url": "https://cybersecuritynews.com/best-multi-cloud-security-platforms/",
+      "source": "Cybersecuritynews",
+      "sourceType": "external",
+      "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Best-Multi-Cloud-Security-Platforms-1.webp",
+      "publishedAt": "2026-09-16T09:50:56.000Z",
+      "topic": "Security",
+      "tags": [
+        "cyber security news",
+        "top 10"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "ac7673d72124304d",
+      "slug": "is-oracle-stock-a-buy-after-its-14-decline-in-the-last-five-sessions-d884d8",
+      "title": "Is Oracle stock a buy after its 14% decline in the last five sessions?",
+      "dek": "Oracle stock (NYSE: ORCL) extended its decline for a fifth consecutive trading session on Tuesday, as investors have been weighing renewed concerns about the artificial-intelligence spending cycle, higher borrowing costs and the cloud company’s close ties to OpenAI. Shares fell 3.1% on Tuesday, taki",
+      "url": "https://invezz.com/news/2026/09/16/is-oracle-stock-a-buy-after-its-14-decline-in-the-last-five-sessions/",
+      "source": "Invezz",
+      "sourceType": "external",
+      "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/09/image-1789046024.png",
+      "publishedAt": "2026-09-16T09:48:36.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "stock market"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "fcea12a6087af3c2",
+      "slug": "oracle-releases-java-27-and-strengthens-post-quantum-cryptography-support-63405e",
+      "title": "Oracle Releases Java 27 and Strengthens Post-Quantum Cryptography Support",
+      "dek": "Oracle today announced the availability of Java 27, the latest version of the world’s number one programming language and development platform. Featuring thousands of performance, stability, security, and productivity improvements, Java 27 (Oracle JDK 27) provides a strong foundation for continued J",
+      "url": "https://cxotoday.com/media-coverage/oracle-releases-java-27-and-strengthens-post-quantum-cryptography-support/",
+      "source": "Cxotoday",
+      "sourceType": "external",
+      "image": "https://cxotoday.com/wp-content/uploads/2019/11/oracle-logo-e1715324183106-300x130.png",
+      "publishedAt": "2026-09-16T09:43:51.000Z",
+      "topic": "Security",
+      "tags": [
+        "oracle",
+        "media coverage",
+        "java 27"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "dceff313f8ff696e",
+      "slug": "ddl-full-form-data-definition-language-f65ffc",
+      "title": "DDL Full Form Data Definition Language",
+      "dek": "DDL stands for Data Definition Language, which is actually a set of commands used to create a structure and maintain databases. Those would include CREATE, ALTER, DROP, TRUNCATE, and RENAME statements for creating, changing the structure of, and dropping structures in the database, such as tables. D",
+      "url": "https://www.geeksforgeeks.org/dbms/ddl-full-form/",
+      "source": "Geeksforgeeks",
+      "sourceType": "external",
+      "image": "https://media.geeksforgeeks.org/wp-content/uploads/20251229113409368045/ddl_commands.webp",
+      "publishedAt": "2026-09-16T09:30:02.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "drop table",
+        "truncate table",
+        "database constraints management",
+        "create table",
+        "alter table",
+        "ddl commands"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "03692b321a7e215e",
+      "slug": "lte-5g-for-critical-communications-2025-2030-forecasts-growth-from-5-4b-2025-to-9-2b-by--a4b695",
+      "title": "LTE & 5G for Critical Communications 2025-2030 Forecasts Growth from $5.4B (2025) to $9.2B by 2028, Profiling Ericsson, Motorola Solutions, Nokia, AT&T & 1,000+ Other Key Players",
+      "dek": "Critical communications are shifting from LMR to LTE/5G, creating opportunities in public safety, defense, utilities, rail, industrial IoT, private networks and satellite integration. Critical communications are shifting from LMR to LTE/5G, creating opportunities in public safety, defense, utilities",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/09/16/3362951/28124/en/lte-5g-for-critical-communications-2025-2030-forecasts-growth-from-5-4b-2025-to-9-2b-by-2028-profiling-ericsson-motorola-solutions-nokia-at-t-1-000-other-key-players.html",
       "source": "Globenewswire_fr",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-09-15T08:56:00.000Z",
+      "publishedAt": "2026-09-16T09:06:00.000Z",
       "topic": "Oracle Ecosystem",
+      "tags": [
+        "research analysis and reports"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "9c3b67d2b71de20d",
+      "slug": "read-the-6-am-email-oracle-leadership-reused-for-its-second-round-of-layoffs-this-year-853448",
+      "title": "Read the 6 am email Oracle Leadership reused for its second round of layoffs this year",
+      "dek": "Oracle layoffs: Oracle's second round of job cuts this year arrived with the same termination email it sent in March. Signed \"Oracle Leadership\", the 6am note told employees their role was eliminated and \"today is your last working day\". Staff shared both versions on Reddit, Blind and X. In India, 1",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-read-the-6-am-email-oracle-leadership-reused-for-its-second-round-of-job-cuts-this-year-telling-employees-today-is-your-last-working-day/articleshow/134283195.cms",
+      "source": "The Times Of India",
+      "sourceType": "external",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-134283265/134283265.jpg",
+      "publishedAt": "2026-09-16T09:03:14.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "oracle",
+        "oracle layoffs march",
+        "oracle layoffs september",
+        "oracle 6am email",
+        "oracle layoffs",
+        "oracle leadership email"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "3640d18433a95050",
+      "slug": "telemedicine-market-report-now-available-reveals-up-to-120-saved-per-visit-profiling-tel-a3b726",
+      "title": "Telemedicine Market Report Now Available, Reveals Up to $120 Saved Per Visit, Profiling Teladoc, Cisco, Philips, IBM & 38 Other Key Players",
+      "dek": "Telemedicine is becoming core healthcare infrastructure, driven by aging populations, chronic disease and cost pressures, creating opportunities in remote monitoring, biosensors and accessible digital care. Telemedicine is becoming core healthcare infrastructure, driven by aging populations, chronic",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/09/16/3362931/28124/en/telemedicine-market-report-now-available-reveals-up-to-120-saved-per-visit-profiling-teladoc-cisco-philips-ibm-38-other-key-players.html",
+      "source": "Globenewswire_fr",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-16T08:50:00.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
         "research analysis and reports"
       ],
       "priority": 41
     },
     {
-      "id": "b9b8573e8805b3f7",
-      "slug": "payhawk-transforms-how-finance-teams-work-with-new-agentic-playbooks-fed2c0",
-      "title": "Payhawk transforms how finance teams work with new agentic Playbooks",
-      "dek": "The Fall ’26 Edition further enhances Payhawk’s AI Office of the CFO and introduces Playbooks: ready-made procedures that handle recurring finance tasks inside Claude and ChatGPT, reducing manual work for finance teams. Customers can also access all Payhawk data from their preferred AI platform usin",
-      "url": "https://www.manilatimes.net/2026/09/15/tmt-newswire/globenewswire/payhawk-transforms-how-finance-teams-work-with-new-agentic-playbooks/2425213",
-      "source": "The Manila Times",
+      "id": "be2b9b3c5fb88d2d",
+      "slug": "oracle-patches-800-vulnerabilities-in-september-2026-security-update-212d90",
+      "title": "Oracle Patches 800+ Vulnerabilities in September 2026 Security Update",
+      "dek": "The security updates resolve over 800 vulnerabilities across 17 product families, including over 100 critical-severity flaws. The post Oracle Patches 800+ Vulnerabilities in September 2026 Security Update appeared first on SecurityWeek .",
+      "url": "https://www.securityweek.com/oracle-patches-800-vulnerabilities-in-september-2026-security-update/",
+      "source": "Securityweek",
       "sourceType": "external",
-      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/09/15/1217351.png",
-      "publishedAt": "2026-09-15T08:13:25.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "tmt newswire"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "eec2969eb15a577f",
-      "slug": "the-vogue-business-ai-tracker-73a4fd",
-      "title": "The Vogue Business AI Tracker",
-      "dek": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar.Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
-      "url": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
-      "source": "Vogue",
-      "sourceType": "external",
-      "image": "https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/master/pass/AItracker-holder-25-story.jpg",
-      "publishedAt": "2026-09-15T08:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "business",
-        "vogue business tracker",
-        "business / technology",
-        "beauty",
-        "technology",
-        "fashion"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "66dd10c9fe342f48",
-      "slug": "united-states-lot-security-market-2033-nist-tightens-product-security-requirements-as-co-014ce8",
-      "title": "United States LoT Security Market (2033): NIST Tightens Product Security Requirements as Connected Devices Become Part of the Attack Surface",
-      "dek": "DataM Intelligence has released a new research report titled \"IoT Security Market Size 2025-2033.\" The report analyzes the global IoT security market by offering, deployment, security type, organization size, end-user, and region, covering technology developments, competitive activity, and evolving ",
-      "url": "https://www.openpr.com/news/4631429/united-states-lot-security-market-2033-nist-tightens-product",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L915914490_k.jpg",
-      "publishedAt": "2026-09-15T07:54:41.000Z",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/10/Oracle.jpeg",
+      "publishedAt": "2026-09-16T08:06:33.000Z",
       "topic": "Security",
-      "tags": [
-        "it",
-        "new media & software"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "df85b27bb54d98a4",
-      "slug": "a-developer-s-guide-to-database-architecture-and-performance-fundamentals-2365e9",
-      "title": "A Developer's Guide to Database Architecture and Performance Fundamentals",
-      "dek": "A practical guide to how databases work, covering schema design, SQL, indexing, transactions, concurrency, caching, pagination, and database selection.",
-      "url": "https://hackernoon.com/a-developers-guide-to-database-architecture-and-performance-fundamentals",
-      "source": "Hackernoon",
-      "sourceType": "external",
-      "image": "https://cdn.hackernoon.com/images/blsDyGkmW8RxGYaSiwSrzkvACRz1-tf03cjn.png",
-      "publishedAt": "2026-09-15T07:48:12.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "databases",
-        "mysql",
-        "acid-transactions",
-        "sql",
-        "mongodb",
-        "database-indexing"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "f1e1c0fde6886f32",
-      "slug": "home-automation-market-to-reach-usd-184-1-billion-by-2036-as-connected-ecosystems-energy-8c7c77",
-      "title": "Home Automation Market to Reach USD 184.1 Billion by 2036 as Connected Ecosystems, Energy Management, and Matter Standardization Accelerate Adoption",
-      "dek": "NEWARK, Del., United States - September 10, 2026 - The global home automation market is entering a sustained growth phase as consumers, residential builders, technology providers, and installers shift from standalone smart devices toward integrated home ecosystems. Future Market Insights",
-      "url": "https://www.openpr.com/news/4631379/home-automation-market-to-reach-usd-184-1-billion-by-2036-as",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L915140979_k.jpg",
-      "publishedAt": "2026-09-15T07:15:52.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "media consulting",
-        "advertising",
-        "marketing research"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "36ce507f5d854b4b",
-      "slug": "electronic-medical-records-market-to-reach-us-35-66-billion-by-2035-driven-by-healthcare-f17085",
-      "title": "Electronic Medical Records Market to Reach US$35.66 Billion by 2035, Driven by Healthcare Digitalization, Interoperability & AI",
-      "dek": "The global Electronic Medical Records Market reached US$19.54 billion in 2025 and is expected to reach US$35.66 billion by 2035, growing at a CAGR of 6.2% during the forecast period 2026-2035. The market is gaining momentum due to increasing digitization",
-      "url": "https://www.openpr.com/news/4631313/electronic-medical-records-market-to-reach-us-35-66-billion",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L915278585_k.jpg",
-      "publishedAt": "2026-09-15T06:45:03.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "health & medicine"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "d9791e7c462c190c",
-      "slug": "artificial-intelligence-ai-chip-market-2035-gpus-custom-ai-silicon-data-center-ai-accele-f8f817",
-      "title": "Artificial Intelligence (AI) Chip Market (2035): GPUs, Custom AI Silicon & Data Center AI Accelerators Growth in United States Expansion",
-      "dek": "DataM Intelligence has released a new research report titled \"Artificial Intelligence (AI) Chip Market Size 2026.\" The report provides insights into market trends, segmentation, regional growth, CAGR projections, and key industry players. It also examines major growth drivers, including generative",
-      "url": "https://www.openpr.com/news/4631262/artificial-intelligence-ai-chip-market-2035-gpus-custom",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L915763836_k.jpg",
-      "publishedAt": "2026-09-15T06:00:30.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "d0ffcb49a8c79c82",
-      "slug": "gold-and-silver-rate-today-september-15-in-india-check-latest-gold-and-silver-prices-in--abade9",
-      "title": "Gold And Silver Rate Today (September 15) In India: Check Latest Gold And Silver Prices In Mumbai, Delhi, Chennai, Kolkata And Bengaluru",
-      "dek": "Gold and silver prices saw mild city-wise variations on September 15, with Chennai recording the highest rates. Gold remained up year-on-year, while silver continued to outperform significantly.",
-      "url": "https://www.newsx.com/business/gold-and-silver-rate-today-september-15-in-india-check-latest-gold-and-silver-prices-in-mumbai-delhi-chennai-kolkata-and-bengaluru-271909/",
-      "source": "Newsx",
-      "sourceType": "external",
-      "image": "https://www.newsx.com/wp-content/uploads/2026/08/gold-prices-0108.jpg",
-      "publishedAt": "2026-09-15T04:57:58.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "gold price today",
-        "silver price today",
-        "silver rate today",
-        "gold price india",
-        "24k gold price",
-        "silver price india"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "1b05db8dccfc089e",
-      "slug": "oracle-layoffs-what-severance-will-you-get-if-laid-off-a-look-at-payouts-based-on-your-y-05aae7",
-      "title": "Oracle layoffs: What severance will you get if laid off? A look at payouts based on your years at the company",
-      "dek": "Oracle job cuts: Oracle has begun another round of job cuts affecting numerous employees across its divisions. Affected workers discovered their positions were eliminated on September fourteenth, which mirrored previous layoffs. The company's standard severance plan caps payments at twenty-six weeks",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/oracle-layoffs-what-severance-will-you-get-if-laid-off-a-look-at-payouts-based-on-your-years-at-the-company/articleshow/134251926.cms",
-      "source": "The Economic Times",
-      "sourceType": "external",
-      "image": "https://img.etimg.com/thumb/msid-134252285,resizemode-4,width-1200,height-900,imgsize-44756,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-09-15T04:55:40.000Z",
-      "topic": "Oracle Ecosystem",
       "tags": [
         "oracle",
-        "oracle employee layoffs",
-        "oracle severance plan",
-        "oracle severance package",
-        "oracle layoffs",
-        "oracle job cuts"
+        "vulnerability",
+        "patches",
+        "vulnerabilities",
+        "cspu",
+        "featured"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "fd977534d149df45",
+      "slug": "pw-consulting-edi-software-market-hits-1-619-6m-in-2025-9-8-cagr-to-3-1b-by-2032-282b28",
+      "title": "PW Consulting: EDI Software Market Hits $1,619.6M in 2025, 9.8% CAGR to $3.1B by 2032",
+      "dek": "The Invisible Backbone of Global Commerce: Strategic Insights into the EDI Software Market In an era defined by hyper-connectivity and supply chain volatility, the mechanisms that allow disparate business systems to speak a common language are more critical than ever. Electronic Data Interchange (ED",
+      "url": "http://prsync.com/pw-consulting/pw-consulting-edi-software-market-hits-m-in---cagr-to-b-by--5202712/",
+      "source": "Pr Sync",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-16T08:05:35.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 41
+    },
+    {
+      "id": "a6c278efb38047fb",
+      "slug": "the-capital-driven-rise-of-modern-business-suites-0a8b0b",
+      "title": "The Capital-Driven Rise of Modern Business Suites",
+      "dek": "In the era of hyper-liquidity and ultra-low interest rates, the corporate software market witnessed an extraordinary transformation. The rapid global expansion of certain comprehensive business management applications, most notably Odoo, serves as a textbook example of a highly successful “capital +",
+      "url": "https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/",
+      "source": "E27",
+      "sourceType": "external",
+      "image": "https://e27.co/wp-content/uploads/2026/09/Untitled-design-2.png",
+      "publishedAt": "2026-09-16T06:17:41.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "enterprise solution & crm"
       ],
       "priority": 39
     },
     {
-      "id": "43e473d3ecf4068e",
-      "slug": "oracle-india-layoffs-idc-hit-by-6am-email-on-september-15-employees-claim-severance-has--36c6af",
-      "title": "Oracle India Layoffs: IDC Hit By '6AM Email' On September 15, Employees Claim Severance Has Shrunk On Reddit",
-      "dek": "Oracle India Layoffs: Oracle's India Development Centre saw fresh layoffs on September 15, with employees reporting a reduced severance formula compared to the March 2026 round.",
-      "url": "https://www.news18.com/tech/oracle-india-layoffs-idc-hit-by-6am-email-on-september-15-employees-claim-severance-has-shrunk-on-reddit-10329825.html",
-      "source": "News 18",
+      "id": "4930bfd748aed478",
+      "slug": "oracle-india-cuts-jobs-again-back-office-product-engineering-roles-worst-hit-3b5ee2",
+      "title": "Oracle India Cuts Jobs Again; Back-Office & Product Engineering Roles Worst Hit",
+      "dek": "Oracle’s India workforce has reportedly fallen to around 27,000 employees after multiple layoff rounds since April 2026. Industry reports said the company reduced routine roles while increasing focus on artificial intelligence infrastructure. Cuts have reportedly affected support, database administr",
+      "url": "https://www.freepressjournal.in/tech/oracle-india-cuts-jobs-again-back-office-product-engineering-roles-worst-hit",
+      "source": "Free Press Journal",
       "sourceType": "external",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/04/Oracle-Severance-Package-2026-04-1d70cafb53aae7e8d3127bb2cf48f864-1200x800.jpg",
-      "publishedAt": "2026-09-15T04:40:12.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "latest"
-      ],
+      "image": "https://media.assettype.com/freepressjournal/2026-04-01/l2aqsoiu/c2d3e1aa9cb212cfcebf3d15906678fd.jpg",
+      "publishedAt": "2026-09-16T04:40:47.000Z",
+      "topic": "AI & Database",
+      "tags": [],
       "priority": 38
     },
     {
-      "id": "21d2a7d414f1ccee",
-      "slug": "corporate-india-s-ai-playbook-organisations-are-rebuilding-data-foundations-for-ai-over--64fd8e",
-      "title": "Corporate India’s AI playbook: Organisations are rebuilding data foundations for AI over big models",
-      "dek": "As AI adoption surges, Indian enterprises are transitioning from mere experimentation to scalable implementation. At the Oracle × LiveMint Roundtable, leaders emphasized the importance of clean data, measurable outcomes, and trust in AI systems, laying the groundwork for intelligent infrastructure.",
-      "url": "https://www.livemint.com/focus/corporate-india-s-ai-playbook-organisations-are-rebuilding-data-foundations-for-ai-over-big-models-11789445572725.html",
-      "source": "Mint",
+      "id": "aae854159c38dca6",
+      "slug": "oracle-begins-fresh-layoffs-in-india-up-to-1-500-employees-may-be-affected-cf8c90",
+      "title": "Oracle begins fresh layoffs in India, up to 1,500 employees may be affected",
+      "dek": "Daijiworld Media Network – Bengaluru Bengaluru, Sep 16: Technology major Oracle has reportedly begun a fresh round of layoffs in India, affecting several mid- and senior-level employees working in web development and maintenance, according to people familiar with the matter. <....",
+      "url": "https://daijiworld.com/news/newsDisplay?newsID=1325839",
+      "source": "Daijiworld",
       "sourceType": "external",
-      "image": "https://www.livemint.com/lm-img/img/2026/09/15/1600x900/maxresdefault_1789446257078_wjIi_1789446262229_wCsI_6c92e4db-3d8a-4ecb-96a4-2e223c8e2bc6_ojxv.jpg",
-      "publishedAt": "2026-09-15T04:19:01.000Z",
+      "image": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/oracle_160926_1.jpg",
+      "publishedAt": "2026-09-16T04:10:15.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 38
+    },
+    {
+      "id": "836b18a48b20d6d9",
+      "slug": "neo4j-intros-graph-based-suite-for-fighting-financial-crime-9a14c2",
+      "title": "Neo4j intros graph-based suite for fighting financial crime",
+      "dek": "Graph database specialist Neo4j is upping its fight against financial crime. Just over one month after completing the acquisition of GraphAware, which was first agreed upon in June , Neo4j launched a new suite for detecting and stopping fraud that includes capabilities it inherited through the purch",
+      "url": "https://www.techtarget.com/data-technologies/news/366649996/Neo4j-intros-graph-based-suite-for-fighting-financial-crime",
+      "source": "Techtarget",
+      "sourceType": "external",
+      "image": "https://cdn.ttgtmedia.com/rms/onlineimages/security_a283199860.jpg",
+      "publishedAt": "2026-09-16T03:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "AI"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "f4e5081184105db6",
+      "slug": "oracle-layoffs-1000-1500-employees-in-india-could-be-affected-by-fresh-job-cuts-2f8f1b",
+      "title": "Oracle Layoffs: 1000-1500 Employees in India Could Be Affected by Fresh Job Cuts",
+      "dek": "Enterprise software giant Oracle began a new round of workforce reductions in India this week, targeting mid- and senior-level employees primarily across its web development and maintenance divisions, according to people familiar with the matter.",
+      "url": "https://www.latestly.com/technology/oracle-layoffs-1000-1500-employees-in-india-could-be-affected-by-fresh-job-cuts-7606096.html",
+      "source": "Latestly",
+      "sourceType": "external",
+      "image": "https://st1.latestly.com/wp-content/uploads/2026/04/oracle.jpg",
+      "publishedAt": "2026-09-16T02:09:05.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "outcome-led ai",
-        "artificial intelligence",
-        "indian enterprises",
-        "data-driven ai",
-        "enterprise ai strategies",
-        "clean data management"
+        "layoffs",
+        "oracle employees",
+        "oracle layoffs",
+        "oracle layoffs in india",
+        "job cuts",
+        "layoff"
       ],
-      "priority": 38
+      "priority": 37
     },
     {
-      "id": "4cfebafe7ec95b59",
-      "slug": "intelligent-data-management-cloud-security-trust-413c1a",
-      "title": "Intelligent Data Management Cloud Security & Trust",
-      "dek": "Explore Informatica's Intelligent Data Management Cloud security & trust, ensuring data protection and privacy.",
-      "url": "https://www.informatica.com/trust-center.html",
-      "source": "Informatica Corporation",
+      "id": "7021e87bf63a096b",
+      "slug": "oracle-layoffs-free-up-experienced-tech-talent-will-india-s-gccs-hire-them-e3bbdf",
+      "title": "Oracle layoffs free up experienced tech talent. Will India's GCCs hire them?",
+      "dek": "Oracle's latest layoffs have pushed experienced technology professionals into the market as the company ramps up AI and cloud spending. In India, GCCs could absorb some of that talent, but hiring is likely to favour candidates with strengths in cloud, data, cybersecurity and automation.",
+      "url": "https://www.indiatoday.in/jobs/story/oracle-layoffs-free-up-experienced-tech-talent-will-indias-gccs-hire-them-educ-2994790-2026-09-16",
+      "source": "India Today",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-09-15T00:00:00.000Z",
+      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/oracle-layoffs-free-up-experienced-tech-talent-will-indias-gccs-hire-them-ai-generated-image-152542335-16x9_0.png?VersionId=J69CnOAnIXbJLJaEJHQE1hlr5BljyRo9",
+      "publishedAt": "2026-09-16T02:00:00.000Z",
       "topic": "Security",
       "tags": [
-        "intelligent data management cloud security"
+        "AI"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "4a5b0c0cc85e7586",
+      "slug": "1-500-india-staff-likely-hit-in-another-round-of-oracle-layoff-07f724",
+      "title": "1,500 India staff likely hit in another round of Oracle layoff",
+      "dek": "India Business News: Bengaluru: Oracle began a fresh round of layoffs in India on Monday, affecting several mid- to senior-level employees in web development and maintenan.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/1500-india-staff-likely-hit-in-another-round-of-oracle-layoff/articleshow/134276037.cms",
+      "source": "The Times Of India",
+      "sourceType": "external",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-134276041/134276041.jpg",
+      "publishedAt": "2026-09-16T01:37:11.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "layoffs",
+        "oracle india layoffs",
+        "oracle",
+        "oracle india"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "8ace47258ff63248",
+      "slug": "oracle-layoffs-in-india-product-engineering-teams-feared-to-bear-biggest-impact-as-ai-cl-9d6fc4",
+      "title": "Oracle layoffs in India: Product engineering teams feared to bear biggest impact as AI, cloud spending reshapes jobs and hiring",
+      "dek": "Oracle is undergoing significant layoffs in India, with product engineering teams facing the largest impact as the company transitions to prioritize AI and cloud technologies. Thousands of employees fear job insecurity as Oracle restructures its workforce.",
+      "url": "https://www.indiatimes.com/trending/oracle-layoffs-in-india-product-engineering-teams-feared-to-bear-biggest-impact-as-ai-cloud-spending-reshapes-jobs-and-hiring/articleshow/134269518.html",
+      "source": "Indiatimes",
+      "sourceType": "external",
+      "image": "https://staticimg.publishstory.co/thumb/134269538.cms?imgsize=104500&width=1280&height=720&resizemode=8",
+      "publishedAt": "2026-09-16T01:01:18.000Z",
+      "topic": "Security",
+      "tags": [
+        "AI"
       ],
       "priority": 36
     },
     {
-      "id": "4d7106a27a2559ef",
-      "slug": "falls-church-va-it-jobs-multiple-high-paying-tech-roles-96b96c",
-      "title": "💻 Falls Church VA IT Jobs: Multiple High-Paying Tech Roles",
-      "dek": "Falls Church is hot right now for tech work, especially around cloud, security, and data. If you like big systems, AI, and complex problems, these roles ar",
-      "url": "https://www.newsbreak.com/falls-church-va-daily-brief-375417173/4886527639016-falls-church-va-it-jobs-multiple-high-paying-tech-roles",
-      "source": "Newsbreak",
+      "id": "6f37764f00fe18a7",
+      "slug": "java-27-arrives-as-leyden-project-gains-ground-on-startup-and-footprint-challenges-ae7f68",
+      "title": "Java 27 Arrives as Leyden Project Gains Ground on Startup and Footprint Challenges",
+      "dek": "JDK 27 reached general availability on Sept. 15 with nine JEPs focused on security, concurrency and performance defaults. At the same time Project Leyden continues to ship incremental AOT caching features that slash startup and warmup times while preserving Java's dynamic strengths. Early adopters i",
+      "url": "https://www.webpronews.com/java-27-arrives-as-leyden-project-gains-ground-on-startup-and-footprint-challenges/",
+      "source": "Webpronews",
       "sourceType": "external",
-      "image": "https://img.particlenews.com/img/id/0uqf9w_1F9mPaQ200",
-      "publishedAt": "2026-09-15T00:00:00.000Z",
+      "image": "https://www.webpronews.com/wp-content/uploads/2026/09/article-25842-1789500579.jpeg",
+      "publishedAt": "2026-09-16T00:02:15.000Z",
       "topic": "Security",
       "tags": [
-        "newsbreak",
-        "falls church va daily brief",
-        "local news",
-        "breaking news"
+        "project leyden",
+        "jdk 27 ga",
+        "java 27",
+        "top news",
+        "devnews",
+        "openjdk performance"
       ],
       "priority": 36
     },
@@ -1981,41 +2001,6 @@
       "tags": [
         "Oracle Database",
         "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ffc09f7346e6f6b5",
-      "slug": "database-security-part-1-b4c13f",
-      "title": "Database Security: Part 1",
-      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they dive into the critical topic of database security. In the first of a two-part series on database security in Oracle Database 23ai, they discuss the importance of protecting dat",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-1",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-06T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Oracle Database",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "7c3ad34d1ff092f6",
-      "slug": "blockchain-tables-a4f246",
-      "title": "Blockchain Tables",
-      "dek": "In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham kick off a new season with a deep dive into the latest features of Oracle Database 23ai. Joined by Bill Millar, a Senior Principal Database & MySQL Instructor, they explore the new enhancements to blockchain tabl",
-      "url": "https://oracleuniversitypodcast.libsyn.com/blockchain-tables",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-30T11:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "Oracle Database",
-        "MySQL",
-        "Oracle University"
       ],
       "priority": 36
     }
