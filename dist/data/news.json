@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T23:04:10.819Z",
+  "generatedAt": "2026-09-17T22:56:19.075Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,457 +7,322 @@
   },
   "items": [
     {
-      "id": "3160a8fb1dd1491e",
-      "slug": "opentext-cohere-partner-to-combine-trusted-data-with-agentic-ai-70e27a",
-      "title": "OpenText, Cohere Partner to Combine Trusted Data with Agentic AI",
-      "dek": "/CNW/ -- OpenText Corporation (NASDAQ: OTEX) (TSX: OTEX), a global leader in data management and context for enterprise AI, and Cohere, the world's leading...",
-      "url": "https://www.newswire.ca/news-releases/opentext-cohere-partner-to-combine-trusted-data-with-agentic-ai-897974014.html",
-      "source": "Newswire",
-      "sourceType": "external",
-      "image": "https://mmx.prnewswire.com/media/MS494410/Open-Text-Logo.jpg?id=OA2951675",
-      "publishedAt": "2026-09-16T11:00:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "licensing"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "403e48c7caf2a00c",
-      "slug": "article-your-next-dsl-author-is-a-language-model-cd79c0",
-      "title": "Article: Your Next DSL Author Is a Language Model",
-      "dek": "In this article, the author introduces Typed Domain Grounding, an approach to reducing LLM hallucinations in domain-specific languages by embedding them in mainstream typed languages. Using kUML benchmarks and an infrastructure-as-code example, he explores how compiler validation and generate-compil",
-      "url": "https://www.infoq.com/articles/next-dsl-author-language-model/",
-      "source": "Information Queue",
-      "sourceType": "external",
-      "image": "https://res.infoq.com/articles/next-dsl-author-language-model/en/smallimage/Your-Next-DSL-Author-Is-a-Language-Model-thumb-1789048983233.jpg",
-      "publishedAt": "2026-09-16T11:00:00.000Z",
+      "id": "36cec005c12d21c7",
+      "slug": "aot-caching-netflix-practice-vs-openjdk-s-theory-i-o-138806",
+      "title": "\"AOT Caching - Netflix' Practice vs OpenJDK's Theory\" [I/O]",
+      "dek": "Java projects that want to reduce their launch times need to look into Java's new ahead-of-time capabilities. A training run is used to populate a cache that, in production, allows the JVM to short-circuit many operations, like class loading and linking, profile gathering, and - probably soon - JIT ",
+      "url": "https://inside.java/2026/09/17/podcast-070/",
+      "source": "Inside Java",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/insidejava/2026-09-inside-java-podcast-70--martin-chalupa.mp3?dest-id=2318780",
+      "publishedAt": "2026-09-17T07:50:00.000Z",
       "topic": "Training & Certification",
       "tags": [
-        "article",
-        "domain specific languages",
-        "large language models",
-        "ml & data engineering",
-        "dsls",
-        "development"
+        "Java",
+        "OpenJDK"
+      ],
+      "priority": 53
+    },
+    {
+      "id": "c97bf3fc02307b66",
+      "slug": "evolve-your-personal-ai-into-a-team-brain-with-oracle-ai-628353",
+      "title": "Evolve Your Personal AI Into a Team Brain with Oracle AI",
+      "dek": "Building a personal AI “second brain” has changed how you manage information, but expanding it for team use introduces new challenges. Cole Medin examines how to evolve your system into a collaborative “team brain” by focusing on shared functionality and structured access. For instance, implementing",
+      "url": "https://www.geeky-gadgets.com/scale-ai-second-brain-teams/",
+      "source": "Geeky-gadgets",
+      "sourceType": "external",
+      "image": "https://www.geeky-gadgets.com/wp-content/uploads/2026/09/ai-team-brain.jpg",
+      "publishedAt": "2026-09-17T10:42:59.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "top news",
+        "ai"
       ],
       "priority": 43
     },
     {
-      "id": "0df610e20b874171",
-      "slug": "oracle-java-27-release-brings-ai-focused-updates-strengthening-security-ad097f",
-      "title": "Oracle Java 27 release brings AI-focused updates, strengthening security",
-      "dek": "Oracle Java 27 release adds AI, post-quantum security and performance upgrades, giving enterprises new tools for modern applications and workloads.",
-      "url": "https://www.dqchannels.com/news/oracle-java-27-release-strengthens-ai-security-12540684",
-      "source": "Dqc",
+      "id": "d22e5b0f924c2b82",
+      "slug": "baron-technology-etf-q2-2026-shareholder-letter-397dd6",
+      "title": "Baron Technology ETF Q2 2026 Shareholder Letter",
+      "dek": "During the second quarter, Baron Technology ETF rose 38.95% (NAV), roughly in line with the MSCI ACWI Information Technology Index, which gained 39.09%.",
+      "url": "https://seekingalpha.com/article/4947406-baron-technology-etf-q2-2026-shareholder-letter",
+      "source": "Seeking Alpha",
       "sourceType": "external",
-      "image": "https://img-cdn.publive.online/dqc/media/media_files/2026/09/16/voracle-java-27-release-brings-ai-focused-updates-strengthening-security-2026-09-16-16-19-03.png",
-      "publishedAt": "2026-09-16T10:49:58.000Z",
-      "topic": "Security",
-      "tags": [
-        "oracle"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "056e0b5c8ca5fa29",
-      "slug": "oracle-unveils-java-27-with-ai-and-performance-enhancements-ec07d1",
-      "title": "Oracle Unveils Java 27 With AI and Performance Enhancements",
-      "dek": "Oracle announced the availability of Java 27, the latest version of the world’s number one programming language and development platform. Featuring thousands of performance, stability, security, and productivity improvements, Java 27 (Oracle JDK 27) provides a strong foundation for continued Java in",
-      "url": "https://smestreet.in/technology/oracle-unveils-java-27-with-ai-and-performance-enhancements-12540573",
-      "source": "Smestreet In",
-      "sourceType": "external",
-      "image": "https://img-cdn.publive.online/fit-in/1280x960/smstreet/media/media_files/2025/02/10/BFHNdlE8FUD3SeHJxx9i.png",
-      "publishedAt": "2026-09-16T10:29:37.000Z",
-      "topic": "Security",
-      "tags": [
-        "cloud for smes",
-        "technology for smes"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "91f67950ebe90d40",
-      "slug": "enterprise-risk-management-market-analysis-highlights-growth-to-7-76-billion-by-2030-at--6b12df",
-      "title": "Enterprise Risk Management Market Analysis Highlights Growth To $7.76 Billion By 2030 At 8.6% CAGR",
-      "dek": "The enterprise risk management industry has seen significant growth in recent years, driven by evolving business landscapes and increasing complexities in risk factors. As organizations strive to manage uncertainties and comply with regulations, the market is poised for further expansion,",
-      "url": "https://www.openpr.com/news/4633095/enterprise-risk-management-market-analysis-highlights-growth",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L916969684_k.jpg",
-      "publishedAt": "2026-09-16T10:10:02.000Z",
-      "topic": "Security",
-      "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "4e0067b5c97466b5",
-      "slug": "amazon-cloud-infrastructure-in-bahrain-uae-damaged-after-iran-attacks-600a94",
-      "title": "Amazon cloud infrastructure in Bahrain, UAE damaged after Iran attacks",
-      "dek": "Amazon Web Services (AWS) has confirmed that it cannot restore access to certain cloud facilities and data centres in the United Arab Emirates (UAE) and Bahrain following attacks carried out by Iran earlier this year.",
-      "url": "https://www.thehansindia.com/tech/amazon-cloud-infrastructure-in-bahrain-uae-damaged-after-iran-attacks-1122455",
-      "source": "The Hans India",
-      "sourceType": "external",
-      "image": "https://assets.thehansindia.com/h-upload/2026/09/16/1702718-amazon.webp",
-      "publishedAt": "2026-09-16T10:09:17.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "technology",
-        "business"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "fd8bafee4907671b",
-      "slug": "enterprise-key-management-market-research-reveals-strong-18-7-cagr-outlook-through-2030-685c4b",
-      "title": "Enterprise Key Management Market Research Reveals Strong 18.7% CAGR Outlook Through 2030",
-      "dek": "The enterprise key management sector has seen remarkable progress recently, driven by increasing concerns over data security and the growing adoption of encryption technologies. As organizations continue to prioritize safeguarding sensitive information, this market is positioned for substantial adva",
-      "url": "https://www.openpr.com/news/4633089/enterprise-key-management-market-research-reveals-strong-18-7",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L916787677_k.jpg",
-      "publishedAt": "2026-09-16T10:07:42.000Z",
-      "topic": "Security",
-      "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "6e8c2bc048796ce2",
-      "slug": "java-27-delivers-post-quantum-cryptography-future-language-innovation-helidon-27-javafx--eb3ebc",
-      "title": "Java 27 Delivers Post-Quantum Cryptography, Future Language Innovation, Helidon 27, JavaFX 27",
-      "dek": "Oracle has released version 27 of the Java programming language and virtual machine. As the second non-LTS release since JDK 25, the final feature set includes nine JEPs, five of which are still progressing through the preview and incubator stages. This release focuses on strengthening security, fut",
-      "url": "https://www.infoq.com/news/2026/09/java27-released/",
-      "source": "Information Queue",
-      "sourceType": "external",
-      "image": "https://res.infoq.com/news/2026/09/java27-released/en/headerimage/java-istock-image-01-1789513423942.jpg",
-      "publishedAt": "2026-09-16T10:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "application security",
-        "javafx",
-        "project valhalla",
-        "java",
-        "quantum computing",
-        "development"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "8beb589001d32afd",
-      "slug": "top-10-best-multi-cloud-security-platforms-in-2026-938897",
-      "title": "Top 10 Best Multi-Cloud Security Platforms in 2026",
-      "dek": "Multi-cloud is the reality AWS and Azure and GCP, often plus Oracle and on-prem and each models identity, networking, and services differently. A dedicated multi-cloud security platform normalizes these discrepancies, delivering one unified policy framework, one cohesive risk graph, and one manageme",
-      "url": "https://cybersecuritynews.com/best-multi-cloud-security-platforms/",
-      "source": "Cybersecuritynews",
-      "sourceType": "external",
-      "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Best-Multi-Cloud-Security-Platforms-1.webp",
-      "publishedAt": "2026-09-16T09:50:56.000Z",
-      "topic": "Security",
-      "tags": [
-        "cyber security news",
-        "top 10"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "ac7673d72124304d",
-      "slug": "is-oracle-stock-a-buy-after-its-14-decline-in-the-last-five-sessions-d884d8",
-      "title": "Is Oracle stock a buy after its 14% decline in the last five sessions?",
-      "dek": "Oracle stock (NYSE: ORCL) extended its decline for a fifth consecutive trading session on Tuesday, as investors have been weighing renewed concerns about the artificial-intelligence spending cycle, higher borrowing costs and the cloud company’s close ties to OpenAI. Shares fell 3.1% on Tuesday, taki",
-      "url": "https://invezz.com/news/2026/09/16/is-oracle-stock-a-buy-after-its-14-decline-in-the-last-five-sessions/",
-      "source": "Invezz",
-      "sourceType": "external",
-      "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/09/image-1789046024.png",
-      "publishedAt": "2026-09-16T09:48:36.000Z",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2212166486/image_2212166486.jpg?io=getty-c-w1280",
+      "publishedAt": "2026-09-17T10:11:00.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "stock market"
+        "baron capital",
+        "fund letters",
+        "bctk"
       ],
-      "priority": 42
+      "priority": 43
     },
     {
-      "id": "fcea12a6087af3c2",
-      "slug": "oracle-releases-java-27-and-strengthens-post-quantum-cryptography-support-63405e",
-      "title": "Oracle Releases Java 27 and Strengthens Post-Quantum Cryptography Support",
-      "dek": "Oracle today announced the availability of Java 27, the latest version of the world’s number one programming language and development platform. Featuring thousands of performance, stability, security, and productivity improvements, Java 27 (Oracle JDK 27) provides a strong foundation for continued J",
-      "url": "https://cxotoday.com/media-coverage/oracle-releases-java-27-and-strengthens-post-quantum-cryptography-support/",
-      "source": "Cxotoday",
-      "sourceType": "external",
-      "image": "https://cxotoday.com/wp-content/uploads/2019/11/oracle-logo-e1715324183106-300x130.png",
-      "publishedAt": "2026-09-16T09:43:51.000Z",
-      "topic": "Security",
-      "tags": [
-        "oracle",
-        "media coverage",
-        "java 27"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "dceff313f8ff696e",
-      "slug": "ddl-full-form-data-definition-language-f65ffc",
-      "title": "DDL Full Form Data Definition Language",
-      "dek": "DDL stands for Data Definition Language, which is actually a set of commands used to create a structure and maintain databases. Those would include CREATE, ALTER, DROP, TRUNCATE, and RENAME statements for creating, changing the structure of, and dropping structures in the database, such as tables. D",
-      "url": "https://www.geeksforgeeks.org/dbms/ddl-full-form/",
-      "source": "Geeksforgeeks",
-      "sourceType": "external",
-      "image": "https://media.geeksforgeeks.org/wp-content/uploads/20251229113409368045/ddl_commands.webp",
-      "publishedAt": "2026-09-16T09:30:02.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "drop table",
-        "truncate table",
-        "database constraints management",
-        "create table",
-        "alter table",
-        "ddl commands"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "03692b321a7e215e",
-      "slug": "lte-5g-for-critical-communications-2025-2030-forecasts-growth-from-5-4b-2025-to-9-2b-by--a4b695",
-      "title": "LTE & 5G for Critical Communications 2025-2030 Forecasts Growth from $5.4B (2025) to $9.2B by 2028, Profiling Ericsson, Motorola Solutions, Nokia, AT&T & 1,000+ Other Key Players",
-      "dek": "Critical communications are shifting from LMR to LTE/5G, creating opportunities in public safety, defense, utilities, rail, industrial IoT, private networks and satellite integration. Critical communications are shifting from LMR to LTE/5G, creating opportunities in public safety, defense, utilities",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/09/16/3362951/28124/en/lte-5g-for-critical-communications-2025-2030-forecasts-growth-from-5-4b-2025-to-9-2b-by-2028-profiling-ericsson-motorola-solutions-nokia-at-t-1-000-other-key-players.html",
+      "id": "28278cd2dad9d621",
+      "slug": "public-safety-lte-5g-market-poised-for-growth-through-2030-as-mission-critical-connectiv-4b5c4f",
+      "title": "Public Safety LTE & 5G Market Poised for Growth Through 2030 as Mission-Critical Connectivity, Network Modernization and Emergency Response Innovation Accelerate",
+      "dek": "Public safety is shifting from LMR to mission-critical LTE/5G, creating opportunities in MCX, private networks, AI video, indoor coverage, deployables and satellite connectivity. Public safety is shifting from LMR to mission-critical LTE/5G, creating opportunities in MCX, private networks, AI video,",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/09/17/3363799/28124/en/public-safety-lte-5g-market-poised-for-growth-through-2030-as-mission-critical-connectivity-network-modernization-and-emergency-response-innovation-accelerate.html",
       "source": "Globenewswire_fr",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-09-16T09:06:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "research analysis and reports"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "9c3b67d2b71de20d",
-      "slug": "read-the-6-am-email-oracle-leadership-reused-for-its-second-round-of-layoffs-this-year-853448",
-      "title": "Read the 6 am email Oracle Leadership reused for its second round of layoffs this year",
-      "dek": "Oracle layoffs: Oracle's second round of job cuts this year arrived with the same termination email it sent in March. Signed \"Oracle Leadership\", the 6am note told employees their role was eliminated and \"today is your last working day\". Staff shared both versions on Reddit, Blind and X. In India, 1",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-layoffs-read-the-6-am-email-oracle-leadership-reused-for-its-second-round-of-job-cuts-this-year-telling-employees-today-is-your-last-working-day/articleshow/134283195.cms",
-      "source": "The Times Of India",
-      "sourceType": "external",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-134283265/134283265.jpg",
-      "publishedAt": "2026-09-16T09:03:14.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "oracle",
-        "oracle layoffs march",
-        "oracle layoffs september",
-        "oracle 6am email",
-        "oracle layoffs",
-        "oracle leadership email"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "3640d18433a95050",
-      "slug": "telemedicine-market-report-now-available-reveals-up-to-120-saved-per-visit-profiling-tel-a3b726",
-      "title": "Telemedicine Market Report Now Available, Reveals Up to $120 Saved Per Visit, Profiling Teladoc, Cisco, Philips, IBM & 38 Other Key Players",
-      "dek": "Telemedicine is becoming core healthcare infrastructure, driven by aging populations, chronic disease and cost pressures, creating opportunities in remote monitoring, biosensors and accessible digital care. Telemedicine is becoming core healthcare infrastructure, driven by aging populations, chronic",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/09/16/3362931/28124/en/telemedicine-market-report-now-available-reveals-up-to-120-saved-per-visit-profiling-teladoc-cisco-philips-ibm-38-other-key-players.html",
-      "source": "Globenewswire_fr",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-09-16T08:50:00.000Z",
+      "publishedAt": "2026-09-17T10:07:00.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
         "research analysis and reports"
       ],
-      "priority": 41
+      "priority": 43
     },
     {
-      "id": "be2b9b3c5fb88d2d",
-      "slug": "oracle-patches-800-vulnerabilities-in-september-2026-security-update-212d90",
-      "title": "Oracle Patches 800+ Vulnerabilities in September 2026 Security Update",
-      "dek": "The security updates resolve over 800 vulnerabilities across 17 product families, including over 100 critical-severity flaws. The post Oracle Patches 800+ Vulnerabilities in September 2026 Security Update appeared first on SecurityWeek .",
-      "url": "https://www.securityweek.com/oracle-patches-800-vulnerabilities-in-september-2026-security-update/",
-      "source": "Securityweek",
+      "id": "df4a1017b369d61f",
+      "slug": "nasdaq-s-p-500-futures-rebound-after-fed-rate-hike-nvda-nbis-snap-spcx-be-gnrc-stocks-in-3de92a",
+      "title": "Nasdaq, S&P 500 Futures Rebound After Fed Rate Hike: NVDA, NBIS, SNAP, SPCX, BE, GNRC Stocks In Focus",
+      "dek": "Retail sentiment on SPY and QQQ remained ‘bearish’, even as futures recovered.",
+      "url": "https://newsable.asianetnews.com/markets/nasdaq-s-p-500-futures-rebound-after-fed-rate-hike-nvda-nbis-snap-spcx-be-gnrc-stocks-in-focus-articleshow-aeq002z",
+      "source": "Asianet Newsable",
       "sourceType": "external",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/10/Oracle.jpeg",
-      "publishedAt": "2026-09-16T08:06:33.000Z",
-      "topic": "Security",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-476d8d03-c6c5-48b2-9012-f14ad6324a23.jpg",
+      "publishedAt": "2026-09-17T09:40:01.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "oracle",
-        "vulnerability",
-        "patches",
-        "vulnerabilities",
-        "cspu",
-        "featured"
+        "markets"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "a0f4e58f3ebd4a5f",
+      "slug": "hospital-asset-tracking-and-inventory-management-systems-market-to-reach-usd-58-8-billio-36df12",
+      "title": "Hospital Asset Tracking and Inventory Management Systems Market to Reach USD 58.8 Billion by 2036 as RFID, RTLS and AI Reshape Healthcare Operations | Latest Report TMR",
+      "dek": "The global hospital asset tracking and inventory management systems market is entering a period of steady technology-led expansion as healthcare providers seek greater visibility, efficiency, and control over medical equipment and supplies. The market was valued at USD 32.8 billion",
+      "url": "https://www.openpr.com/news/4634257/hospital-asset-tracking-and-inventory-management-systems",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/9/L917658764_k.jpg",
+      "publishedAt": "2026-09-17T09:16:50.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "health & medicine"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "e1dc53322ae98b38",
+      "slug": "choosing-database-for-web-applications-needs-d8332a",
+      "title": "Choosing Database For Web Applications Needs",
+      "dek": "Selecting the right database for web applications is crucial. Explore SQL vs NoSQL options, scalability, and performance factors for modern sites.",
+      "url": "https://www.sphinx-solution.com/blog/database-for-web-applications/",
+      "source": "Sphinx Solution",
+      "sourceType": "external",
+      "image": "https://www.sphinx-solution.com/blog/blog/wp-content/uploads/2023/06/best-databases-for-web-applications.jpg",
+      "publishedAt": "2026-09-17T09:01:41.000Z",
+      "topic": "AI & Database",
+      "tags": [],
+      "priority": 42
+    },
+    {
+      "id": "7397d2f534740f4e",
+      "slug": "jpm-how-is-the-us-china-ai-race-evolving-95a081",
+      "title": "JPM: How Is the US-China AI Race Evolving?",
+      "dek": "Market Analysis by covering: Microsoft Corporation, Oracle Corporation, Alphabet Inc Class A, Amazon.com Inc. Read 's Market Analysis on Investing.com",
+      "url": "https://www.investing.com/analysis/jpm-how-is-the-uschina-ai-race-evolving-200687859",
+      "source": "Investing Us",
+      "sourceType": "external",
+      "image": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+      "publishedAt": "2026-09-17T08:55:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "alphabet inc class a",
+        "microsoft corporation",
+        "amazon.com inc",
+        "oracle corporation"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "6b6f183c451624b9",
+      "slug": "rlh-equity-partners-invests-in-climb-a-databricks-native-data-and-ai-consultancy-b89cc3",
+      "title": "RLH Equity Partners Invests in Climb, a Databricks-Native Data and AI Consultancy",
+      "dek": "Transaction Marks RLH’s Second Investment in its Fifth Institutional Fund and Continues a Longstanding Strategy of Partnering with Specialized Services Firms Built Around Leading Technology Platforms RLH Equity Partners announced its investment in Climb, a Databricks-native data and AI consultancy h",
+      "url": "https://globalfintechseries.com/investment-services/rlh-equity-partners-invests-in-climb-a-databricks-native-data-and-ai-consultancy/",
+      "source": "Globalfintechseries",
+      "sourceType": "external",
+      "image": "https://globalfintechseries.com/wp-content/uploads/RLH-Equity-Partners-Invests-in-Climb_-a-Databricks-Native-Data-and-AI-Consultancy.jpg",
+      "publishedAt": "2026-09-17T08:48:59.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "rlh equity partners",
+        "news",
+        "databricks data intelligence platform",
+        "climb",
+        "investment services",
+        "artificial intelligence solutions"
       ],
       "priority": 41
     },
     {
-      "id": "fd977534d149df45",
-      "slug": "pw-consulting-edi-software-market-hits-1-619-6m-in-2025-9-8-cagr-to-3-1b-by-2032-282b28",
-      "title": "PW Consulting: EDI Software Market Hits $1,619.6M in 2025, 9.8% CAGR to $3.1B by 2032",
-      "dek": "The Invisible Backbone of Global Commerce: Strategic Insights into the EDI Software Market In an era defined by hyper-connectivity and supply chain volatility, the mechanisms that allow disparate business systems to speak a common language are more critical than ever. Electronic Data Interchange (ED",
-      "url": "http://prsync.com/pw-consulting/pw-consulting-edi-software-market-hits-m-in---cagr-to-b-by--5202712/",
-      "source": "Pr Sync",
+      "id": "8fcbbd7a5cd35d9c",
+      "slug": "learning-management-system-lms-market-research-explores-growth-within-a-72-47-billion-op-8c47cb",
+      "title": "Learning Management System (LMS) Market Research Explores Growth Within A $72.47 Billion Opportunity",
+      "dek": "The learning management system (LMS) sector has witnessed remarkable expansion recently, driven by a surge in digital education and corporate training. As organizations and educational institutions continue to embrace technology for learning purposes, the LMS market stands poised for significant",
+      "url": "https://www.openpr.com/news/4634226/learning-management-system-lms-market-research-explores",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-09-16T08:05:35.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
+      "image": "https://cdn.open-pr.com/L/9/L917932886_k.jpg",
+      "publishedAt": "2026-09-17T08:25:34.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "new media & software",
+        "it"
+      ],
       "priority": 41
     },
     {
-      "id": "a6c278efb38047fb",
-      "slug": "the-capital-driven-rise-of-modern-business-suites-0a8b0b",
-      "title": "The Capital-Driven Rise of Modern Business Suites",
-      "dek": "In the era of hyper-liquidity and ultra-low interest rates, the corporate software market witnessed an extraordinary transformation. The rapid global expansion of certain comprehensive business management applications, most notably Odoo, serves as a textbook example of a highly successful “capital +",
-      "url": "https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/",
-      "source": "E27",
+      "id": "720bd1a481d589ae",
+      "slug": "private-5g-4g-networks-to-transform-defense-communications-through-2030-fueling-secure-c-2c9f95",
+      "title": "Private 5G/4G Networks to Transform Defense Communications Through 2030, Fueling Secure Connectivity and Mission-Critical Innovation",
+      "dek": "Defense agencies are adopting secure private 5G/LTE, creating opportunities in deployable tactical networks, edge AI, integrated sensing, unmanned systems and satellite connectivity. Defense agencies are adopting secure private 5G/LTE, creating opportunities in deployable tactical networks, edge AI,",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/09/17/3363753/28124/en/private-5g-4g-networks-to-transform-defense-communications-through-2030-fueling-secure-connectivity-and-mission-critical-innovation.html",
+      "source": "Globenewswire_fr",
       "sourceType": "external",
-      "image": "https://e27.co/wp-content/uploads/2026/09/Untitled-design-2.png",
-      "publishedAt": "2026-09-16T06:17:41.000Z",
-      "topic": "Training & Certification",
+      "image": "",
+      "publishedAt": "2026-09-17T08:21:00.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "enterprise solution & crm"
+        "research analysis and reports"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "f478d0fa841eaa23",
+      "slug": "key-management-software-market-intelligence-report-covers-trends-segments-and-regional-g-4f7f8f",
+      "title": "Key Management Software Market Intelligence Report Covers Trends, Segments And Regional Growth",
+      "dek": "The key management software industry has witnessed rapid expansion, driven by increasing demand for data security and technological advancements in recent years. This sector is expected to maintain its strong growth trajectory as businesses continue to adapt to evolving security",
+      "url": "https://www.openpr.com/news/4634208/key-management-software-market-intelligence-report-covers",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/9/L917329442_k.jpg",
+      "publishedAt": "2026-09-17T08:16:11.000Z",
+      "topic": "Security",
+      "tags": [
+        "new media & software",
+        "it"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "9ed6d7adac893d59",
+      "slug": "sap-vs-oracle-cloud-erp-2026-who-is-winning-on-growth-ai-customers-and-cloud-strategy-ca9c59",
+      "title": "SAP vs Oracle Cloud ERP 2026: Who Is Winning on Growth, AI, Customers and Cloud Strategy?",
+      "dek": "SAP vs Oracle Cloud ERP 2026: SAP is reporting faster growth in its dedicated Cloud ERP business, while Oracle is building a competitive position",
+      "url": "https://infotechlead.com/cloud/sap-vs-oracle-cloud-erp-2026-who-is-winning-on-growth-ai-customers-and-cloud-strategy-98366",
+      "source": "Infotech Lead",
+      "sourceType": "external",
+      "image": "https://infotechlead.com/wp-content/uploads/2026/09/SAP-vs-Oracle-ERP.jpg",
+      "publishedAt": "2026-09-17T06:07:44.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "erp",
+        "oracle",
+        "sap"
       ],
       "priority": 39
     },
     {
-      "id": "4930bfd748aed478",
-      "slug": "oracle-india-cuts-jobs-again-back-office-product-engineering-roles-worst-hit-3b5ee2",
-      "title": "Oracle India Cuts Jobs Again; Back-Office & Product Engineering Roles Worst Hit",
-      "dek": "Oracle’s India workforce has reportedly fallen to around 27,000 employees after multiple layoff rounds since April 2026. Industry reports said the company reduced routine roles while increasing focus on artificial intelligence infrastructure. Cuts have reportedly affected support, database administr",
-      "url": "https://www.freepressjournal.in/tech/oracle-india-cuts-jobs-again-back-office-product-engineering-roles-worst-hit",
-      "source": "Free Press Journal",
+      "id": "f5496acc4dc4ce10",
+      "slug": "11-recommended-ai-courses-for-finance-and-accounting-specialists-in-2026-2e3a40",
+      "title": "11 Recommended AI Courses for Finance and Accounting specialists in 2026",
+      "dek": "Discover the top 11 AI courses tailored for finance and accounting pros in 2026. Boost efficiency, master predictive analytics, and future-proof your career with practical, industry-focused training.",
+      "url": "https://completeaitraining.com/blog/11-recommended-ai-courses-for-finance-and-accounting-specialists-in-2026/",
+      "source": "Complete Ai Training",
       "sourceType": "external",
-      "image": "https://media.assettype.com/freepressjournal/2026-04-01/l2aqsoiu/c2d3e1aa9cb212cfcebf3d15906678fd.jpg",
-      "publishedAt": "2026-09-16T04:40:47.000Z",
-      "topic": "AI & Database",
+      "image": "https://cdn.completeaitraining.com/ai_course_images/all_ai_courses_for_finance_and_accounting_speciali_1751407626.jpg",
+      "publishedAt": "2026-09-17T05:22:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "ai blog",
+        "blog"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "2387078ec32fa973",
+      "slug": "tsc-auto-id-concludes-4-city-solution-day-2026-to-accelerate-integrated-aidc-and-rfid-gr-55cc69",
+      "title": "TSC Auto ID Concludes 4-City Solution Day 2026 to Accelerate Integrated AIDC and RFID Growth in India",
+      "dek": "TSC Auto ID concludes 4-city 'TSC Solution Day 2026' across India to scale RFID, mobility, & automation with System Integrators, VARs, & ISVs. News",
+      "url": "https://www.dqchannels.com/news/tsc-auto-id-concludes-4-city-solution-day-2026-aidc-and-rfid-in-india-12540640",
+      "source": "Dqc",
+      "sourceType": "external",
+      "image": "https://img-cdn.publive.online/dqc/media/media_files/2026/09/17/tsc-auto-id-concludes-4-city-solution-day-2026-aidc-and-rfid-in-india-2026-09-17-10-45-10.png",
+      "publishedAt": "2026-09-17T05:15:27.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [],
+      "priority": 39
+    },
+    {
+      "id": "4723d2305736d1ad",
+      "slug": "oracle-co-japan-oclcf-expected-to-announce-quarterly-earnings-on-thursday-b779a2",
+      "title": "Oracle Co. Japan (OCLCF) Expected to Announce Quarterly Earnings on Thursday",
+      "dek": "Oracle Co. Japan (OTCMKTS:OCLCF – Get Free Report) is expected to release its results after the market closes on Thursday, September 24th. Analysts expect Oracle Co. Japan to post earnings of $0.7720 per share and revenue of $444.3180 million for the quarter. Oracle Co. Japan Stock Performance Share",
+      "url": "https://www.defenseworld.net/2026/09/17/oracle-co-japan-oclcf-expected-to-announce-quarterly-earnings-on-thursday.html",
+      "source": "Defenseworld Net",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-japan-logo-1200x675.png?v=20231212110321",
+      "publishedAt": "2026-09-17T05:11:12.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "companies",
+        "earnings previews"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "f5816c5ce2b95b20",
+      "slug": "oracle-co-japan-oclcf-to-announce-quarterly-earnings-on-thursday-849c2d",
+      "title": "Oracle Co. Japan (OCLCF) to Announce Quarterly Earnings on Thursday",
+      "dek": "Oracle Co. Japan (OTCMKTS:OCLCF – Get Free Report) is expected to be releasing its results after the market closes on Thursday, September 24th. Analysts expect Oracle Co. Japan to announce earnings of $0.7720 per share and revenue of $444.3180 million for the quarter. Oracle Co. Japan Price Performa",
+      "url": "https://www.americanbankingnews.com/2026/09/17/oracle-co-japan-oclcf-to-announce-quarterly-earnings-on-thursday.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-japan-logo-1200x675.png?v=20231212110321",
+      "publishedAt": "2026-09-17T05:10:49.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "market news",
+        "earnings previews"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "63fd0071730a2b99",
+      "slug": "ai-can-turn-pharma-distribution-from-reactive-to-predictive-04915b",
+      "title": "AI can turn pharma distribution from reactive to predictive",
+      "dek": "India’s pharmaceutical manufacturing capabilities are globally recognised, but the distribution layer that connects medicines to pharmacies and patients remains highly fragmented. The challenge, however, is not necessarily that the sector [...] The post AI can turn pharma distribution from reactive ",
+      "url": "https://www.expresscomputer.in/interviews/ai-can-turn-pharma-distribution-from-reactive-to-predictive/138749/",
+      "source": "Express Computer",
+      "sourceType": "external",
+      "image": "https://cdn1.expresscomputer.in/wp-content/uploads/2026/09/17120931/EC_Sagar_Chauhan_CoFounder_CPTO_DocPharma_750.jpg",
+      "publishedAt": "2026-09-17T03:36:52.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "interviews",
+        "news"
+      ],
       "priority": 38
     },
     {
-      "id": "aae854159c38dca6",
-      "slug": "oracle-begins-fresh-layoffs-in-india-up-to-1-500-employees-may-be-affected-cf8c90",
-      "title": "Oracle begins fresh layoffs in India, up to 1,500 employees may be affected",
-      "dek": "Daijiworld Media Network – Bengaluru Bengaluru, Sep 16: Technology major Oracle has reportedly begun a fresh round of layoffs in India, affecting several mid- and senior-level employees working in web development and maintenance, according to people familiar with the matter. <....",
-      "url": "https://daijiworld.com/news/newsDisplay?newsID=1325839",
-      "source": "Daijiworld",
+      "id": "280675d94c7810a8",
+      "slug": "java-27-arrives-with-post-quantum-security-g1-default-and-compact-headers-8a370f",
+      "title": "Java 27 Arrives with Post-Quantum Security, G1 Default, and Compact Headers",
+      "dek": "Java 27 is out with nine JEPs, including post-quantum TLS, G1 as default GC, and compact object headers. Learn how this release improves security and performance. The post Java 27 Arrives with Post-Quantum Security, G1 Default, and Compact Headers appeared first on SourceTrail .",
+      "url": "https://www.sourcetrail.com/java/java-27-arrives-with-post-quantum-security-g1-default-and-compact-headers/",
+      "source": "Sourcetrail",
       "sourceType": "external",
-      "image": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/oracle_160926_1.jpg",
-      "publishedAt": "2026-09-16T04:10:15.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 38
-    },
-    {
-      "id": "836b18a48b20d6d9",
-      "slug": "neo4j-intros-graph-based-suite-for-fighting-financial-crime-9a14c2",
-      "title": "Neo4j intros graph-based suite for fighting financial crime",
-      "dek": "Graph database specialist Neo4j is upping its fight against financial crime. Just over one month after completing the acquisition of GraphAware, which was first agreed upon in June , Neo4j launched a new suite for detecting and stopping fraud that includes capabilities it inherited through the purch",
-      "url": "https://www.techtarget.com/data-technologies/news/366649996/Neo4j-intros-graph-based-suite-for-fighting-financial-crime",
-      "source": "Techtarget",
-      "sourceType": "external",
-      "image": "https://cdn.ttgtmedia.com/rms/onlineimages/security_a283199860.jpg",
-      "publishedAt": "2026-09-16T03:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "AI"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "f4e5081184105db6",
-      "slug": "oracle-layoffs-1000-1500-employees-in-india-could-be-affected-by-fresh-job-cuts-2f8f1b",
-      "title": "Oracle Layoffs: 1000-1500 Employees in India Could Be Affected by Fresh Job Cuts",
-      "dek": "Enterprise software giant Oracle began a new round of workforce reductions in India this week, targeting mid- and senior-level employees primarily across its web development and maintenance divisions, according to people familiar with the matter.",
-      "url": "https://www.latestly.com/technology/oracle-layoffs-1000-1500-employees-in-india-could-be-affected-by-fresh-job-cuts-7606096.html",
-      "source": "Latestly",
-      "sourceType": "external",
-      "image": "https://st1.latestly.com/wp-content/uploads/2026/04/oracle.jpg",
-      "publishedAt": "2026-09-16T02:09:05.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "layoffs",
-        "oracle employees",
-        "oracle layoffs",
-        "oracle layoffs in india",
-        "job cuts",
-        "layoff"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "7021e87bf63a096b",
-      "slug": "oracle-layoffs-free-up-experienced-tech-talent-will-india-s-gccs-hire-them-e3bbdf",
-      "title": "Oracle layoffs free up experienced tech talent. Will India's GCCs hire them?",
-      "dek": "Oracle's latest layoffs have pushed experienced technology professionals into the market as the company ramps up AI and cloud spending. In India, GCCs could absorb some of that talent, but hiring is likely to favour candidates with strengths in cloud, data, cybersecurity and automation.",
-      "url": "https://www.indiatoday.in/jobs/story/oracle-layoffs-free-up-experienced-tech-talent-will-indias-gccs-hire-them-educ-2994790-2026-09-16",
-      "source": "India Today",
-      "sourceType": "external",
-      "image": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202609/oracle-layoffs-free-up-experienced-tech-talent-will-indias-gccs-hire-them-ai-generated-image-152542335-16x9_0.png?VersionId=J69CnOAnIXbJLJaEJHQE1hlr5BljyRo9",
-      "publishedAt": "2026-09-16T02:00:00.000Z",
+      "image": "https://www.sourcetrail.com/wp-content/uploads/2026/09/Java-27.jpg",
+      "publishedAt": "2026-09-17T00:51:24.000Z",
       "topic": "Security",
       "tags": [
-        "AI"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "4a5b0c0cc85e7586",
-      "slug": "1-500-india-staff-likely-hit-in-another-round-of-oracle-layoff-07f724",
-      "title": "1,500 India staff likely hit in another round of Oracle layoff",
-      "dek": "India Business News: Bengaluru: Oracle began a fresh round of layoffs in India on Monday, affecting several mid- to senior-level employees in web development and maintenan.",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/1500-india-staff-likely-hit-in-another-round-of-oracle-layoff/articleshow/134276037.cms",
-      "source": "The Times Of India",
-      "sourceType": "external",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-134276041/134276041.jpg",
-      "publishedAt": "2026-09-16T01:37:11.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "layoffs",
-        "oracle india layoffs",
-        "oracle",
-        "oracle india"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "8ace47258ff63248",
-      "slug": "oracle-layoffs-in-india-product-engineering-teams-feared-to-bear-biggest-impact-as-ai-cl-9d6fc4",
-      "title": "Oracle layoffs in India: Product engineering teams feared to bear biggest impact as AI, cloud spending reshapes jobs and hiring",
-      "dek": "Oracle is undergoing significant layoffs in India, with product engineering teams facing the largest impact as the company transitions to prioritize AI and cloud technologies. Thousands of employees fear job insecurity as Oracle restructures its workforce.",
-      "url": "https://www.indiatimes.com/trending/oracle-layoffs-in-india-product-engineering-teams-feared-to-bear-biggest-impact-as-ai-cloud-spending-reshapes-jobs-and-hiring/articleshow/134269518.html",
-      "source": "Indiatimes",
-      "sourceType": "external",
-      "image": "https://staticimg.publishstory.co/thumb/134269538.cms?imgsize=104500&width=1280&height=720&resizemode=8",
-      "publishedAt": "2026-09-16T01:01:18.000Z",
-      "topic": "Security",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "6f37764f00fe18a7",
-      "slug": "java-27-arrives-as-leyden-project-gains-ground-on-startup-and-footprint-challenges-ae7f68",
-      "title": "Java 27 Arrives as Leyden Project Gains Ground on Startup and Footprint Challenges",
-      "dek": "JDK 27 reached general availability on Sept. 15 with nine JEPs focused on security, concurrency and performance defaults. At the same time Project Leyden continues to ship incremental AOT caching features that slash startup and warmup times while preserving Java's dynamic strengths. Early adopters i",
-      "url": "https://www.webpronews.com/java-27-arrives-as-leyden-project-gains-ground-on-startup-and-footprint-challenges/",
-      "source": "Webpronews",
-      "sourceType": "external",
-      "image": "https://www.webpronews.com/wp-content/uploads/2026/09/article-25842-1789500579.jpeg",
-      "publishedAt": "2026-09-16T00:02:15.000Z",
-      "topic": "Security",
-      "tags": [
-        "project leyden",
-        "jdk 27 ga",
-        "java 27",
-        "top news",
-        "devnews",
-        "openjdk performance"
+        "java"
       ],
       "priority": 36
     },
@@ -2001,6 +1866,120 @@
       "tags": [
         "Oracle Database",
         "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ffc09f7346e6f6b5",
+      "slug": "database-security-part-1-b4c13f",
+      "title": "Database Security: Part 1",
+      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they dive into the critical topic of database security. In the first of a two-part series on database security in Oracle Database 23ai, they discuss the importance of protecting dat",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-08-06T11:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Oracle Database",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "7c3ad34d1ff092f6",
+      "slug": "blockchain-tables-a4f246",
+      "title": "Blockchain Tables",
+      "dek": "In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham kick off a new season with a deep dive into the latest features of Oracle Database 23ai. Joined by Bill Millar, a Senior Principal Database & MySQL Instructor, they explore the new enhancements to blockchain tabl",
+      "url": "https://oracleuniversitypodcast.libsyn.com/blockchain-tables",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-30T11:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Oracle Database",
+        "MySQL",
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ff92a6749fa996f7",
+      "slug": "database-essentials-027d69",
+      "title": "Database Essentials",
+      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Hope Fisher, Oracle's Product Manager for Database Technologies, as they break down the basics of databases, explore different database management systems, and delve into database development. Whether you're a newcomer or just need a refresher, ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-essentials",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-23T14:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "f046bd97147c0cf8",
+      "slug": "container-engine-for-kubernetes-security-practices-26ab8f",
+      "title": "Container Engine for Kubernetes: Security Practices",
+      "dek": "In the season's final episode, hosts Lois Houston and Nikita Abraham interview senior OCI instructor Mahendra Mehra about the security practices that are vital for OKE clusters on OCI. Mahendra shares his expert insights on the importance of Kubernetes security, especially in today's digital landsca",
+      "url": "https://oracleuniversitypodcast.libsyn.com/container-engine-for-kubernetes-security-practices",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP7.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-16T14:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "OCI",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "be8b92279cd0831f",
+      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
+      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-09T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "d38db88cd3fd3cc0",
+      "slug": "working-with-oke-virtual-nodes-f5a370",
+      "title": "Working with OKE Virtual Nodes",
+      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-02T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "bd401ec004db1755",
+      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
+      "title": "Introduction to OCI Container Engine for Kubernetes",
+      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-25T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
       ],
       "priority": 36
     }
