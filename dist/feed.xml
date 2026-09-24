@@ -6,232 +6,187 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Sep 2026 23:00:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 23:16:09 GMT</lastBuildDate>
     
     <item>
-      <title>Chuck Schumer Says Senate Heard ‘Nothing But Crickets’ on AI Risk Briefing Request: ‘Maybe Trump’s Not Worried Because...’</title>
-      <link>https://oracle-university.com/stories/chuck-schumer-says-senate-heard-nothing-but-crickets-on-ai-risk-briefing-request-maybe-t-3dc64f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/chuck-schumer-says-senate-heard-nothing-but-crickets-on-ai-risk-briefing-request-maybe-t-3dc64f/</guid>
-      <pubDate>Wed, 23 Sep 2026 10:47:13 GMT</pubDate>
+      <title>&quot;Security in Java&quot; [AtA]</title>
+      <link>https://oracle-university.com/stories/security-in-java-ata-1f71dc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/security-in-java-ata-1f71dc/</guid>
+      <pubDate>Thu, 24 Sep 2026 09:50:00 GMT</pubDate>
       <category>Security</category>
-      <description>Chuck Schumer expressed concerns over the administration&#39;s silence on AI risk briefing, raising questions over Trump&#39;s AI investments.</description>
-      <source url="https://www.benzinga.com/news/politics/26/09/61940730/chuck-schumer-says-senate-heard-nothing-but-crickets-on-ai-risk-briefing-request-maybe-trumps-not-worried-because">Benzinga</source>
+      <description>Given how prevalent Java is on web servers throughout the internet, security in Java is of critical importance. There&#39;s the security of the JDK itself, of course, which is overseen by the OpenJDK Security Group, which you should report JDK vulnerabilities to. But there are also the algorithms and fe</description>
+      <source url="https://inside.java/2026/09/24/podcast-071/">Inside Java</source>
     </item>
     <item>
-      <title>World’s largest AI-first expo and summit in Abu Dhabi solidifies the capital’s rise as a global intelligence powerhouse</title>
-      <link>https://oracle-university.com/stories/world-s-largest-ai-first-expo-and-summit-in-abu-dhabi-solidifies-the-capital-s-rise-as-a-0e2b21/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/world-s-largest-ai-first-expo-and-summit-in-abu-dhabi-solidifies-the-capital-s-rise-as-a-0e2b21/</guid>
-      <pubDate>Wed, 23 Sep 2026 10:40:19 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Abu Dhabi, UAE – 23 Sep 2026: Abu Dhabi is accelerating its role as a global force in applied AI, mega-scale compute infrastructure, and real-world deployment. The post World’s largest AI-first expo and summit in Abu Dhabi solidifies the capital’s rise as a global intelligence powerhouse appeared fi</description>
-      <source url="https://insidetelecom.com/worlds-largest-ai-first-expo-and-summit-in-abu-dhabi-solidifies-the-capitals-rise/">Inside Telecom</source>
-    </item>
-    <item>
-      <title>Enterprise Asset Management (EAM) Market Study Explores Industry Growth Toward $15.43 Billion</title>
-      <link>https://oracle-university.com/stories/enterprise-asset-management-eam-market-study-explores-industry-growth-toward-15-43-billi-965d75/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/enterprise-asset-management-eam-market-study-explores-industry-growth-toward-15-43-billi-965d75/</guid>
-      <pubDate>Wed, 23 Sep 2026 10:25:24 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>The enterprise asset management (EAM) market has been experiencing significant growth as organizations across industries seek more efficient ways to manage and maintain their assets. Advances in technology and increasing operational demands are driving this market forward, making EAM solutions</description>
-      <source url="https://www.openpr.com/news/4640867/enterprise-asset-management-eam-market-study-explores">Openpr.com</source>
-    </item>
-    <item>
-      <title>Demand Response Management System Market to Reach USD 53.18 Billion by 2035 as AI-Driven Energy Management Reshapes Grid Operations</title>
-      <link>https://oracle-university.com/stories/demand-response-management-system-market-to-reach-usd-53-18-billion-by-2035-as-ai-driven-8bbf44/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/demand-response-management-system-market-to-reach-usd-53-18-billion-by-2035-as-ai-driven-8bbf44/</guid>
-      <pubDate>Wed, 23 Sep 2026 10:23:08 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The Demand Response Management System Market is valued at USD 15.72 Billion in 2026 and is expected to reach USD 53.18 Billion by 2035, growing at a CAGR of 14.50% during the forecast period (2026-2035). The market is shifting rapidly from</description>
-      <source url="https://www.openpr.com/news/4640860/demand-response-management-system-market-to-reach-usd-53-18">Openpr.com</source>
-    </item>
-    <item>
-      <title>Email Marketing Software Market Report 2026 Market Outlook Supported By A Forecast 12.2% CAGR</title>
-      <link>https://oracle-university.com/stories/email-marketing-software-market-report-2026-market-outlook-supported-by-a-forecast-12-2--d129ac/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/email-marketing-software-market-report-2026-market-outlook-supported-by-a-forecast-12-2--d129ac/</guid>
-      <pubDate>Wed, 23 Sep 2026 10:22:49 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The email marketing software sector has witnessed impressive growth in recent years, reflecting the broader digital transformation in marketing strategies. As businesses increasingly rely on targeted and efficient communication channels, this market continues to expand rapidly. Let&#39;s explore the cur</description>
-      <source url="https://www.openpr.com/news/4640858/email-marketing-software-market-report-2026-market-outlook">Openpr.com</source>
-    </item>
-    <item>
-      <title>United States Digital Twin Technology in Manufacturing Market (2035): AI Factories, Virtual Commissioning &amp; Closed-Loop Manufacturing Reshape U.S. Production</title>
-      <link>https://oracle-university.com/stories/united-states-digital-twin-technology-in-manufacturing-market-2035-ai-factories-virtual--b4f4e2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/united-states-digital-twin-technology-in-manufacturing-market-2035-ai-factories-virtual--b4f4e2/</guid>
-      <pubDate>Wed, 23 Sep 2026 10:20:32 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>DataM Intelligence has released a new research report titled &quot;Digital Twin Technology in Manufacturing Market Size 2026.&quot; The report provides detailed analysis of the global digital twin technology in manufacturing landscape, including market size, technology trends, applications, enterprise adoptio</description>
-      <source url="https://www.openpr.com/news/4640849/united-states-digital-twin-technology-in-manufacturing-market">Openpr.com</source>
-    </item>
-    <item>
-      <title>Datacenters Market Report 2026 Market Outlook Supported By A Forecast 14% CAGR</title>
-      <link>https://oracle-university.com/stories/datacenters-market-report-2026-market-outlook-supported-by-a-forecast-14-cagr-08dd13/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/datacenters-market-report-2026-market-outlook-supported-by-a-forecast-14-cagr-08dd13/</guid>
-      <pubDate>Wed, 23 Sep 2026 10:18:46 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>The datacenters market is experiencing a remarkable phase of expansion, fueled by the increasing demand for data storage and processing capabilities across various industries. With rapid advancements in cloud computing and AI, this sector is poised for substantial growth in</description>
-      <source url="https://www.openpr.com/news/4640842/datacenters-market-report-2026-market-outlook-supported-by">Openpr.com</source>
-    </item>
-    <item>
-      <title>Data Residency Services Market Report Provides Insights Into Market Evolution And Growth Prospects</title>
-      <link>https://oracle-university.com/stories/data-residency-services-market-report-provides-insights-into-market-evolution-and-growth-864229/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/data-residency-services-market-report-provides-insights-into-market-evolution-and-growth-864229/</guid>
-      <pubDate>Wed, 23 Sep 2026 10:16:29 GMT</pubDate>
-      <category>Security</category>
-      <description>The data residency services sector is becoming increasingly vital as organizations worldwide place greater emphasis on where and how their data is stored and processed. This growing concern is driven by stricter privacy laws, rising cybersecurity threats, and the need</description>
-      <source url="https://www.openpr.com/news/4640834/data-residency-services-market-report-provides-insights-into">Openpr.com</source>
-    </item>
-    <item>
-      <title>Healthcare Cloud Computing Market Size to Reach USD 69.40 Billion by 2035 as AI, SaaS and Cloud-Based Healthcare Analytics Expand</title>
-      <link>https://oracle-university.com/stories/healthcare-cloud-computing-market-size-to-reach-usd-69-40-billion-by-2035-as-ai-saas-and-3ed634/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/healthcare-cloud-computing-market-size-to-reach-usd-69-40-billion-by-2035-as-ai-saas-and-3ed634/</guid>
-      <pubDate>Wed, 23 Sep 2026 10:11:17 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>The healthcare cloud computing market size reached USD 20.29 billion in 2025 and is projected to reach approximately USD 69.40 billion by 2035, expanding at a CAGR of 13.2% during 2026 to 2035. Healthcare cloud computing includes cloud-based software, platforms</description>
-      <source url="https://www.openpr.com/news/4640811/healthcare-cloud-computing-market-size-to-reach-usd-69-40">Openpr.com</source>
-    </item>
-    <item>
-      <title>Pharmacovigilance Software Market Size, Share &amp; Trends Analysis - Global Opportunity Analysis and Industry Forecast (2026-2036)</title>
-      <link>https://oracle-university.com/stories/pharmacovigilance-software-market-size-share-trends-analysis-global-opportunity-analysis-150baa/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/pharmacovigilance-software-market-size-share-trends-analysis-global-opportunity-analysis-150baa/</guid>
-      <pubDate>Wed, 23 Sep 2026 09:57:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The global pharmacovigilance software market is projected to grow from USD 4.5 billion in 2026 to USD 12.7 billion by 2036, at a 10.9% CAGR. Growth is driven by stricter drug safety regulations, expanding clinical trials, rising adverse event data, and adoption of AI, automation, NLP and cloud platf</description>
-      <source url="https://www.globenewswire.com/fr/news-release/2026/09/23/3367232/28124/en/pharmacovigilance-software-market-size-share-trends-analysis-global-opportunity-analysis-and-industry-forecast-2026-2036.html">Globenewswire_fr</source>
-    </item>
-    <item>
-      <title>Generative AI in Healthcare Market to Reach US$ 643.47 Billion by 2035 as AI-Powered Drug Discovery and Clinical Decision Support Expand</title>
-      <link>https://oracle-university.com/stories/generative-ai-in-healthcare-market-to-reach-us-643-47-billion-by-2035-as-ai-powered-drug-e88c4b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/generative-ai-in-healthcare-market-to-reach-us-643-47-billion-by-2035-as-ai-powered-drug-e88c4b/</guid>
-      <pubDate>Wed, 23 Sep 2026 09:51:27 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>The Generative AI in Healthcare Market is valued at US$ 5.37 Billion in 2026 and is expected to reach US$ 643.47 Billion by 2035, growing at a CAGR of 35.1% during the forecast period (2026-2035). The market is rapidly evolving from</description>
-      <source url="https://www.openpr.com/news/4640748/generative-ai-in-healthcare-market-to-reach-us-643-47-billion">Openpr.com</source>
-    </item>
-    <item>
-      <title>Moving beyond OCR – Why TYASuite ZeroTouch AP represents the next enterprise standard in automation</title>
-      <link>https://oracle-university.com/stories/moving-beyond-ocr-why-tyasuite-zerotouch-ap-represents-the-next-enterprise-standard-in-a-f002c9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/moving-beyond-ocr-why-tyasuite-zerotouch-ap-represents-the-next-enterprise-standard-in-a-f002c9/</guid>
-      <pubDate>Wed, 23 Sep 2026 09:39:53 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>There have been three main eras in the development of invoice processing solutions. In the era of manual entry, finance departments had to enter all line items contained in a paper invoice manually... Read the full article on TechBullion.</description>
-      <source url="https://techbullion.com/moving-beyond-ocr-why-tyasuite-zerotouch-ap-represents-the-next-enterprise-standard-in-automation/">Techbullion</source>
-    </item>
-    <item>
-      <title>Stock Market Today: Dow Jones, S&amp;P 500 Futures Gain After Trump Threatens to &#39;Annihilate&#39; Iran at UNGA—KB Home, Worthington, IONQ in Focus</title>
-      <link>https://oracle-university.com/stories/stock-market-today-dow-jones-s-p-500-futures-gain-after-trump-threatens-to-annihilate-ir-b17297/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/stock-market-today-dow-jones-s-p-500-futures-gain-after-trump-threatens-to-annihilate-ir-b17297/</guid>
-      <pubDate>Wed, 23 Sep 2026 09:31:52 GMT</pubDate>
-      <category>Security</category>
-      <description>U.S. stock futures were mixed on Wednesday, as the S&amp;P 500 and Dow Jones indices rose, while Nasdaq 100 and Russell 2000 declined.</description>
-      <source url="https://www.benzinga.com/markets/equities/26/09/61939487/stock-market-today-dow-jones-sp-500-futures-gain-as-trump-threatens-to-annihilate-iran-at-unga-kb-home-worthington-ionq-in-focus">Benzinga</source>
-    </item>
-    <item>
-      <title>FBI hacked? ShinyHunters claims brazen theft of sensitive agent data - what the cybercriminal group wants</title>
-      <link>https://oracle-university.com/stories/fbi-hacked-shinyhunters-claims-brazen-theft-of-sensitive-agent-data-what-the-cybercrimin-5270a0/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/fbi-hacked-shinyhunters-claims-brazen-theft-of-sensitive-agent-data-what-the-cybercrimin-5270a0/</guid>
-      <pubDate>Wed, 23 Sep 2026 09:28:42 GMT</pubDate>
-      <category>Security</category>
-      <description>ShinyHunters claims it breached the FBI and stole sensitive data belonging to agents and job applicants. The hacker group says it accessed terabytes of information through an Oracle PeopleSoft server and an Amazon-hosted government cloud.</description>
-      <source url="https://www.livemint.com/technology/fbi-hacked-shinyhunters-claims-brazen-theft-of-sensitive-agent-data-what-the-cybercriminal-group-wants-11790153850859.html">Livemint</source>
-    </item>
-    <item>
-      <title>ERP access control debt can turn old roles into current risk</title>
-      <link>https://oracle-university.com/stories/erp-access-control-debt-can-turn-old-roles-into-current-risk-bf6a85/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/erp-access-control-debt-can-turn-old-roles-into-current-risk-bf6a85/</guid>
-      <pubDate>Wed, 23 Sep 2026 08:50:00 GMT</pubDate>
-      <category>Security</category>
-      <description>ERP access control refers to the system&#39;s gatekeeping mechanisms that determine what information people or AI agents can see and which actions they can perform. Think of this access control as a three-legged stool. The first leg is authentication, which verifies user identity. The second leg is iden</description>
-      <source url="https://www.techtarget.com/it-strategy/news/366650992/ERP-access-control-debt-can-turn-old-roles-into-current-risk">Techtarget</source>
-    </item>
-    <item>
-      <title>Co-op Live Sets the Stage for Connected Operations with Oracle Cloud Applications</title>
-      <link>https://oracle-university.com/stories/co-op-live-sets-the-stage-for-connected-operations-with-oracle-cloud-applications-c2de95/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/co-op-live-sets-the-stage-for-connected-operations-with-oracle-cloud-applications-c2de95/</guid>
-      <pubDate>Wed, 23 Sep 2026 08:35:17 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Oracle Simphony Cloud POS and NetSuite helping the UK&#39;s largest arena streamline food and beverage service and financial operationsCo-op Live, one of the world&#39;s most advanced live entertainment venues, is using Oracle Cloud applications to support its mission to change the way business is done wi..</description>
-      <source url="https://investingnews.com/co-op-live-sets-the-stage-for-connected-operations-with-oracle-cloud-applications/">Investing News Network (inn)</source>
-    </item>
-    <item>
-      <title>Oracle Stock: The Most Mispriced AI Opportunity On The Market Today (NYSE:ORCL)</title>
-      <link>https://oracle-university.com/stories/oracle-stock-the-most-mispriced-ai-opportunity-on-the-market-today-nyse-orcl-170ec1/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-stock-the-most-mispriced-ai-opportunity-on-the-market-today-nyse-orcl-170ec1/</guid>
-      <pubDate>Wed, 23 Sep 2026 07:25:23 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Oracle is significantly underappreciated as an AI cloud infrastructure leader, with accelerating revenue and margin growth. Read why ORCL stock is a strong buy.</description>
-      <source url="https://seekingalpha.com/article/4948874-oracle-the-most-mispriced-ai-opportunity-on-the-market-today">Seeking Alpha</source>
-    </item>
-    <item>
-      <title>Oracle layoff: Workers over 40 bear the brunt of job cuts in cloud division</title>
-      <link>https://oracle-university.com/stories/oracle-layoff-workers-over-40-bear-the-brunt-of-job-cuts-in-cloud-division-c53d44/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-layoff-workers-over-40-bear-the-brunt-of-job-cuts-in-cloud-division-c53d44/</guid>
-      <pubDate>Wed, 23 Sep 2026 07:23:14 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Oracle’s cloud business is facing job cuts across several roles, with the latest figures offering a closer look at the employees affected as the company ramps up AI infrastructure spending.</description>
-      <source url="https://www.businesstoday.in/technology/news/story/oracle-layoff-workers-over-40-bear-the-brunt-of-job-cuts-in-cloud-division-557238-2026-09-23">Business Today</source>
-    </item>
-    <item>
-      <title>Data Processing Hosting Services Market to Reach USD 474.5 Billion by 2036 as AI Workloads and Enterprise Cloud Adoption Expand</title>
-      <link>https://oracle-university.com/stories/data-processing-hosting-services-market-to-reach-usd-474-5-billion-by-2036-as-ai-workloa-50cdd5/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/data-processing-hosting-services-market-to-reach-usd-474-5-billion-by-2036-as-ai-workloa-50cdd5/</guid>
-      <pubDate>Wed, 23 Sep 2026 06:25:50 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>The Data Processing Hosting Services Market is projected to reach USD 474.5 billion by 2036, rising from USD 198.6 billion in 2026 at a 9.1% CAGR from 2026 to 2036, according to Future Market Insights (FMI). Demand is being supported by</description>
-      <source url="https://www.openpr.com/news/4640466/data-processing-hosting-services-market-to-reach-usd-474-5">Openpr.com</source>
-    </item>
-    <item>
-      <title>Scotiabank Has Strong Estimate for Oracle FY2027 Earnings</title>
-      <link>https://oracle-university.com/stories/scotiabank-has-strong-estimate-for-oracle-fy2027-earnings-9af63c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/scotiabank-has-strong-estimate-for-oracle-fy2027-earnings-9af63c/</guid>
-      <pubDate>Wed, 23 Sep 2026 05:28:57 GMT</pubDate>
+      <title>Oracle Health launches 5 AI revenue cycle tools to prevent denials</title>
+      <link>https://oracle-university.com/stories/oracle-health-launches-5-ai-revenue-cycle-tools-to-prevent-denials-b5f489/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-health-launches-5-ai-revenue-cycle-tools-to-prevent-denials-b5f489/</guid>
+      <pubDate>Thu, 24 Sep 2026 11:03:00 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Oracle Corporation (NYSE:ORCL – Free Report) – Equities researchers at Scotiabank increased their FY2027 earnings per share (EPS) estimates for shares of Oracle in a report released on Thursday, September 17th. Scotiabank analyst P. Colville now expects that the enterprise software provider will pos</description>
-      <source url="https://www.watchlistnews.com/scotiabank-has-strong-estimate-for-oracle-fy2027-earnings/11233216.html">Watch List News</source>
+      <description>Oracle Health has announced new revenue cycle management capabilities that use AI toward the front-end of the revenue cycle to prevent denials in the first place. Revealed at the Oracle Health and Life Sciences Summit yesterday, the health IT giant said five AI capabilities for RCM will be embedded </description>
+      <source url="https://www.techtarget.com/revcyclemanagement/news/366651156/Oracle-Health-launches-5-AI-revenue-cycle-tools-to-prevent-denials">Techtarget</source>
     </item>
     <item>
-      <title>Oracle Co. Japan (OCLCF) Projected to Announce Quarterly Earnings on Thursday</title>
-      <link>https://oracle-university.com/stories/oracle-co-japan-oclcf-projected-to-announce-quarterly-earnings-on-thursday-f2d6cd/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-co-japan-oclcf-projected-to-announce-quarterly-earnings-on-thursday-f2d6cd/</guid>
-      <pubDate>Wed, 23 Sep 2026 05:10:57 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Oracle Co. Japan (OTCMKTS:OCLCF – Get Free Report) is anticipated to release its results after the market closes on Thursday, September 24th. Analysts expect Oracle Co. Japan to announce earnings of $0.7720 per share and revenue of $444.3180 million for the quarter. Oracle Co. Japan Price Performanc</description>
-      <source url="https://www.tickerreport.com/banking-finance/13592167/oracle-co-japan-oclcf-projected-to-announce-quarterly-earnings-on-thursday.html">Ticker Report</source>
+      <title>Oracle and Wild Bio partner to advance AI-powered agriculture</title>
+      <link>https://oracle-university.com/stories/oracle-and-wild-bio-partner-to-advance-ai-powered-agriculture-acf58f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-and-wild-bio-partner-to-advance-ai-powered-agriculture-acf58f/</guid>
+      <pubDate>Thu, 24 Sep 2026 10:29:33 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The collaboration aims to advance agricultural resilience and crop-based carbon removal using AI technologies. Read more: Oracle and Wild Bio partner to advance AI-powered agriculture</description>
+      <source url="https://www.siliconrepublic.com/start-ups/oracle-wild-bio-form-partnership-advance-ai-powered-agriculture-research">Siliconrepublic</source>
     </item>
     <item>
-      <title>India’s senior techies with 12 years of experience are going back to class, and AI is the reason</title>
-      <link>https://oracle-university.com/stories/india-s-senior-techies-with-12-years-of-experience-are-going-back-to-class-and-ai-is-the-b51e17/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/india-s-senior-techies-with-12-years-of-experience-are-going-back-to-class-and-ai-is-the-b51e17/</guid>
-      <pubDate>Wed, 23 Sep 2026 03:24:51 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>A recent collaboration between IIT Kharagpur and upGrad reveals a dramatic increase in demand for AI executive programmes aimed at experienced tech professionals. In just a few months, the initiative has broadened its curriculum from four to seven targeted courses. With participants enrolling from d</description>
-      <source url="https://economictimes.indiatimes.com/news/company/corporate-trends/indias-senior-techies-with-12-years-of-experience-are-going-back-to-class-and-ai-is-the-reason/articleshow/134430021.cms">The Economic Times</source>
+      <title>Oracle and Wild Bio collab to advance AI-powered agriculture</title>
+      <link>https://oracle-university.com/stories/oracle-and-wild-bio-collab-to-advance-ai-powered-agriculture-607e57/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-and-wild-bio-collab-to-advance-ai-powered-agriculture-607e57/</guid>
+      <pubDate>Thu, 24 Sep 2026 10:29:33 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The collaboration aims to advance agricultural resilience and crop-based carbon removal using AI technologies. Read more: Oracle and Wild Bio collab to advance AI-powered agriculture</description>
+      <source url="https://www.siliconrepublic.com/innovation/oracle-wild-bio-form-partnership-advance-ai-powered-agriculture-research">Siliconrepublic</source>
     </item>
     <item>
-      <title>ShinyHunters Claims FBI Data Breach: Hacker Group Says It Stole Records of All Employees and Applicants</title>
-      <link>https://oracle-university.com/stories/shinyhunters-claims-fbi-data-breach-hacker-group-says-it-stole-records-of-all-employees--3d7d33/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/shinyhunters-claims-fbi-data-breach-hacker-group-says-it-stole-records-of-all-employees--3d7d33/</guid>
-      <pubDate>Wed, 23 Sep 2026 01:46:36 GMT</pubDate>
-      <category>Security</category>
-      <description>ShinyHunters claimed an FBI data breach exposing personnel and applicant records via an alleged PeopleSoft zero-day on AWS GovCloud. While sample matches raise counterintelligence concerns, federal reviews continue as investigators assess the claims&#39; scope. Scroll below to know more about the allege</description>
-      <source url="https://www.latestly.com/us/shinyhunters-claims-fbi-data-breach-hacker-group-says-it-stole-records-of-all-employees-and-applicants-7616178.html">Latestly</source>
-    </item>
-    <item>
-      <title>AlmaLinux OS Foundation Chair To Speak at Atlas Digital Summit</title>
-      <link>https://oracle-university.com/stories/almalinux-os-foundation-chair-to-speak-at-atlas-digital-summit-0df449/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/almalinux-os-foundation-chair-to-speak-at-atlas-digital-summit-0df449/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <title>Quality Management System Software Market Forecasts Growth from $11.73B (2026) to $20.43B by 2031, Profiling Veeva Systems, Siemens, PTC, SAP, Oracle &amp; 15 Others</title>
+      <link>https://oracle-university.com/stories/quality-management-system-software-market-forecasts-growth-from-11-73b-2026-to-20-43b-by-f12775/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/quality-management-system-software-market-forecasts-growth-from-11-73b-2026-to-20-43b-by-f12775/</guid>
+      <pubDate>Thu, 24 Sep 2026 10:29:00 GMT</pubDate>
       <category>Applications &amp; NetSuite</category>
-      <description>The AlmaLinux OS Foundation, the nonprofit that stewards the free and community-governed open source enterprise Linux distribution AlmaLinux OS, today announced</description>
-      <source url="https://www.einpresswire.com/article/944618886/almalinux-os-foundation-chair-to-speak-at-atlas-digital-summit">Ein Presswire</source>
+      <description>The global Quality Management System (QMS) software market is projected to grow from USD 11.73 billion in 2026 to USD 20.43 billion by 2031, at an 11.7% CAGR. Growth is driven by cloud-based QMS platforms, AI-powered quality analytics, automated compliance workflows and integration with ERP, MES and</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/09/24/3368158/28124/en/quality-management-system-software-market-forecasts-growth-from-11-73b-2026-to-20-43b-by-2031-profiling-veeva-systems-siemens-ptc-sap-oracle-15-others.html">Globenewswire_fr</source>
+    </item>
+    <item>
+      <title>Product Lifecycle Management Market Forecasts Growth from $36.6B (2026) to $58.52B by 2031, Profiling Siemens, PTC, Autodesk, Oracle, Aras &amp; 20 Other Key Players</title>
+      <link>https://oracle-university.com/stories/product-lifecycle-management-market-forecasts-growth-from-36-6b-2026-to-58-52b-by-2031-p-357331/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/product-lifecycle-management-market-forecasts-growth-from-36-6b-2026-to-58-52b-by-2031-p-357331/</guid>
+      <pubDate>Thu, 24 Sep 2026 10:14:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The product lifecycle management (PLM) market is projected to grow from USD 36.60 billion in 2026 to USD 58.52 billion by 2031, at a 9.8% CAGR. Growth is driven by cloud and SaaS PLM adoption, generative AI, digital twins, digital thread technologies, and regulatory compliance needs. SMEs will recor</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/09/24/3368134/28124/en/product-lifecycle-management-market-forecasts-growth-from-36-6b-2026-to-58-52b-by-2031-profiling-siemens-ptc-autodesk-oracle-aras-20-other-key-players.html">Globenewswire_fr</source>
+    </item>
+    <item>
+      <title>Cloud Access Security Brokers Market Size to Reach USD 57.30 Billion by 2035 as AI and Zero Trust Security Accelerate Adoption</title>
+      <link>https://oracle-university.com/stories/cloud-access-security-brokers-market-size-to-reach-usd-57-30-billion-by-2035-as-ai-and-z-859a8a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-access-security-brokers-market-size-to-reach-usd-57-30-billion-by-2035-as-ai-and-z-859a8a/</guid>
+      <pubDate>Thu, 24 Sep 2026 10:12:16 GMT</pubDate>
+      <category>Security</category>
+      <description>According to DataM Intelligence, the global Cloud Access Security Brokers (CASB) market was valued at USD 9.14 billion in 2025 and is projected to reach USD 57.30 billion by 2035, expanding at a CAGR of 18% during 2026-2035. Rising cloud</description>
+      <source url="https://www.openpr.com/news/4642452/cloud-access-security-brokers-market-size-to-reach-usd-57-30">Openpr.com</source>
+    </item>
+    <item>
+      <title>ShinyHunters Claims FBI Hack, Threatens To Leak Agent Data Over Warning</title>
+      <link>https://oracle-university.com/stories/shinyhunters-claims-fbi-hack-threatens-to-leak-agent-data-over-warning-a1fee4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/shinyhunters-claims-fbi-hack-threatens-to-leak-agent-data-over-warning-a1fee4/</guid>
+      <pubDate>Thu, 24 Sep 2026 10:10:38 GMT</pubDate>
+      <category>Security</category>
+      <description>ShinyHunters says it stole FBI employee records and defaced a jobs site, demanding the bureau retract a May advisory. FBI has not confirmed the claim.</description>
+      <source url="https://hoodline.com/2026/09/shinyhunters-claims-fbi-hack-threatens-to-leak-agent-data-over-warning/">Hoodline</source>
+    </item>
+    <item>
+      <title>Oracle Corporation Japan (OCLCF) Q1 2027 Earnings Call Transcript</title>
+      <link>https://oracle-university.com/stories/oracle-corporation-japan-oclcf-q1-2027-earnings-call-transcript-746371/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-japan-oclcf-q1-2027-earnings-call-transcript-746371/</guid>
+      <pubDate>Thu, 24 Sep 2026 10:09:32 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Oracle Corporation Japan (OCLCF) Q1 2027 Earnings Call September 24, 2026 3:30 AM EDTCompany ParticipantsYuki Nishio - Senior Manager of Investor...</description>
+      <source url="https://seekingalpha.com/article/4949332-oracle-corporation-japan-oclcf-q1-2027-earnings-call-transcript">Seeking Alpha</source>
     </item>
     <item>
       <title>CloudOffix and ImageWare AG Join Forces to Accelerate AI-Driven Digital Transformation Across the DACH Region</title>
-      <link>https://oracle-university.com/stories/cloudoffix-and-imageware-ag-join-forces-to-accelerate-ai-driven-digital-transformation-a-10b0d9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloudoffix-and-imageware-ag-join-forces-to-accelerate-ai-driven-digital-transformation-a-10b0d9/</guid>
-      <pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
+      <link>https://oracle-university.com/stories/cloudoffix-and-imageware-ag-join-forces-to-accelerate-ai-driven-digital-transformation-a-17c964/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloudoffix-and-imageware-ag-join-forces-to-accelerate-ai-driven-digital-transformation-a-17c964/</guid>
+      <pubDate>Thu, 24 Sep 2026 09:48:40 GMT</pubDate>
       <category>Applications &amp; NetSuite</category>
-      <description>CloudOffix, the AI-native business operations platform that unifies data, business applications, workflows and AI, has entered into a strategic partnership with</description>
-      <source url="https://www.einpresswire.com/article/944537357/cloudoffix-and-imageware-ag-join-forces-to-accelerate-ai-driven-digital-transformation-across-the-dach-region">Ein Presswire</source>
+      <description>CloudOffix, the AI-native business operations platform that unifies data, business applications, workflows and AI, has entered into a strategic partnership with ImageWare AG, a Swiss digital transformation specialist serving organizations across the DACH region. Through this partnership, ImageWare A</description>
+      <source url="https://cioinfluence.com/digital-transformation/cloudoffix-and-imageware-ag-join-forces-to-accelerate-ai-driven-digital-transformation-across-the-dach-region/">Cio Influence</source>
+    </item>
+    <item>
+      <title>NoSQL Database Market Study Highlights How Industry Demand Is Evolving</title>
+      <link>https://oracle-university.com/stories/nosql-database-market-study-highlights-how-industry-demand-is-evolving-c69228/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/nosql-database-market-study-highlights-how-industry-demand-is-evolving-c69228/</guid>
+      <pubDate>Thu, 24 Sep 2026 09:29:17 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>The NoSQL database industry has rapidly evolved as organizations seek more flexible and scalable data management solutions. With the surge in data-driven applications and the growing complexity of digital ecosystems, this market is positioned for substantial growth. Let&#39;s explore the</description>
+      <source url="https://www.openpr.com/news/4642363/nosql-database-market-study-highlights-how-industry-demand">Openpr.com</source>
+    </item>
+    <item>
+      <title>New Product Forecasting Artificial Intelligence (AI) Market Report Provides Insights Into Market Evolution And Growth Prospects</title>
+      <link>https://oracle-university.com/stories/new-product-forecasting-artificial-intelligence-ai-market-report-provides-insights-into--4dd250/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/new-product-forecasting-artificial-intelligence-ai-market-report-provides-insights-into--4dd250/</guid>
+      <pubDate>Thu, 24 Sep 2026 09:27:20 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The new product forecasting artificial intelligence (AI) market has shown remarkable growth recently, driven by technological advancements and evolving business needs. As companies strive to optimize product launches and inventory management, AI-based forecasting tools are becoming indispensable in </description>
+      <source url="https://www.openpr.com/news/4642356/new-product-forecasting-artificial-intelligence-ai-market">Openpr.com</source>
+    </item>
+    <item>
+      <title>Earnings call transcript: Oracle Japan posts strong Q1 2026 cloud growth</title>
+      <link>https://oracle-university.com/stories/earnings-call-transcript-oracle-japan-posts-strong-q1-2026-cloud-growth-dcfb6c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/earnings-call-transcript-oracle-japan-posts-strong-q1-2026-cloud-growth-dcfb6c/</guid>
+      <pubDate>Thu, 24 Sep 2026 09:24:09 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Earnings call transcript: Oracle Japan posts strong Q1 2026 cloud growth</description>
+      <source url="https://ng.investing.com/news/stock-market-news/earnings-call-transcript-oracle-japan-posts-strong-q1-2026-cloud-growth-93CH-2707453">Investing Nigeria</source>
+    </item>
+    <item>
+      <title>UiPath maps the missing layer for enterprise AI with Cartographer</title>
+      <link>https://oracle-university.com/stories/uipath-maps-the-missing-layer-for-enterprise-ai-with-cartographer-229d26/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/uipath-maps-the-missing-layer-for-enterprise-ai-with-cartographer-229d26/</guid>
+      <pubDate>Thu, 24 Sep 2026 09:08:14 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>UiPath launched Cartographer at FUSION 2026 to capture the process knowledge that enterprises can&#39;t currently give their AI agents — the rules, exceptions and judgment calls that only experienced employees know.</description>
+      <source url="https://diginomica.com/uipath-maps-missing-layer-enterprise-ai-cartographer">Diginomica</source>
+    </item>
+    <item>
+      <title>Legal AI Software Market to Reach USD 13.08 Billion by 2035: 28.7% CAGR, Growth &amp; Industry Outlook</title>
+      <link>https://oracle-university.com/stories/legal-ai-software-market-to-reach-usd-13-08-billion-by-2035-28-7-cagr-growth-industry-ou-7d7c7f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/legal-ai-software-market-to-reach-usd-13-08-billion-by-2035-28-7-cagr-growth-industry-ou-7d7c7f/</guid>
+      <pubDate>Thu, 24 Sep 2026 09:03:22 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Market Size and Growth 2026 The Legal AI Software Market is estimated to reach USD 1.07 billion in 2025 and is projected to grow to USD 13.08 billion by 2035, expanding at a CAGR of 28.7% during the forecast period. DataM Intelligence</description>
+      <source url="https://www.openpr.com/news/4642297/legal-ai-software-market-to-reach-usd-13-08-billion-by-2035-28-7">Openpr.com</source>
+    </item>
+    <item>
+      <title>Autonomous Data Platform Market Size to Reach US$ 16.16 Billion by 2033 as AI-Driven Data Automation Accelerates</title>
+      <link>https://oracle-university.com/stories/autonomous-data-platform-market-size-to-reach-us-16-16-billion-by-2033-as-ai-driven-data-939447/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/autonomous-data-platform-market-size-to-reach-us-16-16-billion-by-2033-as-ai-driven-data-939447/</guid>
+      <pubDate>Thu, 24 Sep 2026 08:58:42 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>According to DataM Intelligence, the global autonomous data platform market size was valued at US$ 2.86 billion in 2025 and is projected to reach US$ 16.16 billion by 2033, registering a CAGR of 27.89% during 2026-2033. The market is being</description>
+      <source url="https://www.openpr.com/news/4642293/autonomous-data-platform-market-size-to-reach-us-16-16-billion">Openpr.com</source>
+    </item>
+    <item>
+      <title>Manufacturing Predictive Analytics Market to Reach US$ 8.06 Billion by 2033 as AI-Powered Predictive Maintenance Reduces Unplanned Downtime</title>
+      <link>https://oracle-university.com/stories/manufacturing-predictive-analytics-market-to-reach-us-8-06-billion-by-2033-as-ai-powered-0bf693/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/manufacturing-predictive-analytics-market-to-reach-us-8-06-billion-by-2033-as-ai-powered-0bf693/</guid>
+      <pubDate>Thu, 24 Sep 2026 06:58:56 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The Manufacturing Predictive Analytics Market is valued at US$ 1.76 Billion in 2025 and is expected to reach US$ 8.06 Billion by 2033, growing at a CAGR of 18.46% during the forecast period (2026-2033). The market is rapidly shifting from traditional</description>
+      <source url="https://www.openpr.com/news/4642094/manufacturing-predictive-analytics-market-to-reach-us-8-06">Openpr.com</source>
+    </item>
+    <item>
+      <title>Check Point appoints Krishnan V V as India MD and South Asia head</title>
+      <link>https://oracle-university.com/stories/check-point-appoints-krishnan-v-v-as-india-md-and-south-asia-head-4fe199/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/check-point-appoints-krishnan-v-v-as-india-md-and-south-asia-head-4fe199/</guid>
+      <pubDate>Thu, 24 Sep 2026 06:03:25 GMT</pubDate>
+      <category>Security</category>
+      <description>Check Point appoints Krishnan V V as India and South Asia Head, strengthening its focus on AI security, cloud adoption, customer growth and partners.</description>
+      <source url="https://www.dqchannels.com/news/check-point-appoints-krishnan-v-v-to-drive-india-cyber-security-growth-12570106">Dqc</source>
+    </item>
+    <item>
+      <title>Abu Dhabi backs AI-native government push with $3.54bln investment programme</title>
+      <link>https://oracle-university.com/stories/abu-dhabi-backs-ai-native-government-push-with-3-54bln-investment-programme-3f1155/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/abu-dhabi-backs-ai-native-government-push-with-3-54bln-investment-programme-3f1155/</guid>
+      <pubDate>Thu, 24 Sep 2026 03:55:50 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Abu Dhabi AI summit draws 200 investors with $91bln in assets</description>
+      <source url="https://www.zawya.com/en/special-coverage/abu-dhabi-backs-ai-native-government-push-with-3.54bln-investment-programme-1179022">Zawya</source>
+    </item>
+    <item>
+      <title>Accenture leverages Oracle’s Deep Data Security for database-driven trust boundaries</title>
+      <link>https://oracle-university.com/stories/accenture-leverages-oracle-s-deep-data-security-for-database-driven-trust-boundaries-23d0e9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/accenture-leverages-oracle-s-deep-data-security-for-database-driven-trust-boundaries-23d0e9/</guid>
+      <pubDate>Thu, 24 Sep 2026 00:12:23 GMT</pubDate>
+      <category>Security</category>
+      <description>Oracle Corp.’s Deep Data Security offers a basic premise on enterprise security: When the application layer is an AI agent, the trust boundary must move somewhere else. The trust boundary can be relocated to the database, and Roger Cornejo (pictured), technology innovation principal director of gen </description>
+      <source url="https://siliconangle.com/2026/09/23/accenture-oracle-enterprise-security-ai-oracleaicybersecurity/">Siliconangle</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -457,6 +412,51 @@
       <category>AI &amp; Database</category>
       <description>Join hosts Lois Houston and Nikita Abraham as they explore the world of MySQL 8.4. Together with Perside Foster, a MySQL Principal Solution Engineer, they break down the fundamentals of MySQL, its wide range of applications, and why it&#39;s so popular among developers and database administrators. This </description>
       <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-introduction-to-mysql">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>The Transformative Power of Low Code Development</title>
+      <link>https://oracle-university.com/stories/the-transformative-power-of-low-code-development-d12adc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-transformative-power-of-low-code-development-d12adc/</guid>
+      <pubDate>Tue, 25 Nov 2025 13:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>In this Episode Orlaith Lawton speaks with Oracle ACE Roberto Capancioni about the importance of APEX and why it is the world&#39;s most popular low-code application platform. ------------------------------------------------------ Episode Transcript: 00:00:00:00 - 00:00:35:14 Unknown Welcome to the Orac</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-transformative-power-of-low-code-development">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Understanding Security Risks and Threats in the Cloud - Part 1</title>
+      <link>https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</guid>
+      <pubDate>Tue, 18 Nov 2025 12:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>This week, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to explore what truly keeps data safe, and what puts it at risk. They discuss the CIA triad, dive into hashing and encryption, and shed light on how cyber threats like malware, phishing, and ransomware t</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/understanding-security-risks-and-threats-in-the-cloud-part-1">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Networking &amp; Security Essentials</title>
+      <link>https://oracle-university.com/stories/networking-security-essentials-113af4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/networking-security-essentials-113af4/</guid>
+      <pubDate>Tue, 11 Nov 2025 12:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>How do all your devices connect and stay safe in the cloud? In this episode, Lois Houston and Nikita Abraham talk with OCI instructors Sergio Castro and Orlando Gentil about the basics of how networks work and the simple steps that help protect them. You&#39;ll learn how information gets from one place </description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/networking-security-essentials">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Inside Cloud Networking</title>
+      <link>https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</guid>
+      <pubDate>Tue, 04 Nov 2025 12:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>In this episode, hosts Lois Houston and Nikita Abraham team up with Senior Principal OCI Instructor Sergio Castro to unpack the basics of cloud networking and the Domain Name System (DNS). You&#39;ll learn how local and virtual networks connect devices, and how DNS seamlessly translates familiar names l</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/inside-cloud-networking">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Cloud Data Centers: Core Concepts - Part 4</title>
+      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</guid>
+      <pubDate>Tue, 28 Oct 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>In this episode, hosts Lois Houston and Nikita Abraham, along with Principal OCI Instructor Orlando Gentil, break down the differences between Infrastructure-as-a-Service, Platform-as-a-Service, and Software-as-a-Service. The conversation explores how each framework influences control, cost efficien</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-4">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
