@@ -1,11 +1,172 @@
 {
-  "generatedAt": "2026-09-24T23:16:09.255Z",
+  "generatedAt": "2026-09-25T23:21:52.739Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
     "siteUrl": "https://oracle-university.com"
   },
   "items": [
+    {
+      "id": "223d7110000d4f25",
+      "slug": "nasdaq-futures-gain-145-points-5-things-to-know-before-wall-street-opens-b0813d",
+      "title": "Nasdaq futures gain 145 points: 5 things to know before Wall Street opens",
+      "dek": "US stock futures rose on Friday as another burst of AI optimism outweighed concerns over $100-plus oil and a 10-year Treasury yield near 5.1%. Nasdaq 100 futures gained about 0.4% or 145 points, while S&P 500 and Dow futures added roughly 0.3% each. Semiconductor names led the premarket advance, and",
+      "url": "https://invezz.com/news/2026/09/25/nasdaq-futures-gain-145-points-5-things-to-know-before-wall-street-opens/",
+      "source": "Invezz",
+      "sourceType": "external",
+      "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/09/image-3.png",
+      "publishedAt": "2026-09-25T11:12:33.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "stock market"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "c44fafcfb865eccc",
+      "slug": "tech-layoffs-outpace-2025-as-big-companies-shift-spending-to-ai-ca517d",
+      "title": "Tech Layoffs Outpace 2025 As Big Companies Shift Spending To AI",
+      "dek": "From January through August, U.S. tech layoffs reached at least 94,046, up 16.8% from 80,486 in the same period of 2025. Interestingly, and unsurprisingly, many of the cuts came as tech companies redirected spending toward AI and restructured operations to reduce costs.",
+      "url": "https://news.crunchbase.com/layoffs/2026-layoff-numbers-rise-ai-shift-orcl-meta-amzn/",
+      "source": "Crunchbase",
+      "sourceType": "external",
+      "image": "https://news.crunchbase.com/wp-content/uploads/Layoff_Erase.jpg",
+      "publishedAt": "2026-09-25T11:00:42.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "artificial intelligence",
+        "workplace",
+        "e-commerce",
+        "enterprise",
+        "public markets",
+        "media & entertainment tech"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "af118ea13e3fa9d9",
+      "slug": "global-vision-language-models-market-to-reach-us-41-75-billion-by-2035-as-multimodal-ai--19dfbe",
+      "title": "Global Vision-Language Models Market to Reach US$41.75 Billion by 2035 as Multimodal AI Adoption Accelerates",
+      "dek": "VLM growth is shifting to cloud-based vertical applications, actionable AI and autonomous visual agents, fueled by advanced hardware and proprietary data; hallucinations remain a key hurdle VLM growth is shifting to cloud-based vertical applications, actionable AI and autonomous visual agents, fuele",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/09/25/3369006/28124/en/global-vision-language-models-market-to-reach-us-41-75-billion-by-2035-as-multimodal-ai-adoption-accelerates.html",
+      "source": "Globenewswire_fr",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-25T10:27:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "research analysis and reports"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "a682979fb1ad067b",
+      "slug": "digitalocean-holdings-q2-2026-earnings-call-complete-transcript-e66575",
+      "title": "DigitalOcean Holdings Q2 2026 Earnings Call: Complete Transcript",
+      "dek": "DigitalOcean Holdings (NYSE:DOCN) held its second-quarter earnings conference call on Tuesday. Below is the complete transcript from the call. This transcript is brought to you by Benzinga APIs. For real-time access to",
+      "url": "https://www.benzinga.com/news/26/09/61990720/digitalocean-holdings-q2-2026-earnings-call-complete-transcript",
+      "source": "Benzinga",
+      "sourceType": "external",
+      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_4.jpg?crop=600:400,smart&optimize=medium",
+      "publishedAt": "2026-09-25T10:24:27.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "news",
+        "trading ideas",
+        "markets",
+        "earnings conference call transcripts"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "480429533b6a44c8",
+      "slug": "retail-analytics-market-size-to-hit-usd-46-3-billion-by-2034-with-a-15-59-cagr-1142b9",
+      "title": "Retail Analytics Market Size to Hit USD 46.3 Billion by 2034 | With a 15.59% CAGR",
+      "dek": "IMARC Group, a leading global market research and management consulting firm, has published its latest market intelligence report on the retail analytics market. The global retail analytics market size reached USD 12.1 Billion in 2025 and is expected to reach",
+      "url": "https://www.openpr.com/news/4643658/retail-analytics-market-size-to-hit-usd-46-3-billion-by-2034-with",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/9/L925714266_k.jpg",
+      "publishedAt": "2026-09-25T10:10:46.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "banking & insurance",
+        "business",
+        "finances",
+        "economy"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "f15ef49efb24aa88",
+      "slug": "the-data-center-debate-taking-over-native-american-tribes-e1e789",
+      "title": "The Data Center Debate Taking Over Native American Tribes",
+      "dek": "Native candidates are far from unified on AI infrastructure, writes Petala Ironcloud.",
+      "url": "https://time.com/article/2026/09/25/the-data-center-debate-taking-over-native-american-tribes/",
+      "source": "Time",
+      "sourceType": "external",
+      "image": "https://static.time.com/v3/assets/bltea6093859af6183b/blt535edd1438654f70/6ab587f9370ef475c8346d8d/Project-Jupiter-1.jpg?branch=production",
+      "publishedAt": "2026-09-25T10:00:04.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "ideas"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "0595fcfc7e3416ab",
+      "slug": "point-of-sale-system-requirement-market-insights-highlight-segment-expansion-and-market--826819",
+      "title": "Point Of Sale System Requirement Market Insights Highlight Segment Expansion And Market Leadership",
+      "dek": "The point of sale (POS) system requirement market has experienced swift growth over recent years, driven by several technological and industry trends. With the increasing adoption of digital payment methods and expansion of retail and hospitality sectors, this market is",
+      "url": "https://www.openpr.com/news/4643640/point-of-sale-system-requirement-market-insights-highlight",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/9/L925837430_k.jpg",
+      "publishedAt": "2026-09-25T09:58:50.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "it",
+        "new media & software"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "eac5515100beab38",
+      "slug": "how-openai-made-the-network-dumb-for-ai-cf55d8",
+      "title": "How OpenAI made the network ‘dumb’ for AI",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.sdxcentral.com/analysis/how-openai-made-the-network-dumb-for-ai/",
+      "source": "Sdxcentral",
+      "sourceType": "external",
+      "image": "https://media.datacenterdynamics.com/media/images/Flows_of_packets_collide_causing_c.2e16d0ba.fill-750x500.png",
+      "publishedAt": "2026-09-25T09:45:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "supercomputer",
+        "ai clusters",
+        "switches",
+        "amd",
+        "cluster",
+        "uec"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "396a55b41f0486dc",
+      "slug": "digital-utility-market-set-for-growth-through-2035-as-smart-grids-cloud-deployment-ai-an-66b0fa",
+      "title": "Digital Utility Market Set for Growth Through 2035 as Smart Grids, Cloud Deployment, AI and Network Modernization Drive Global Opportunities",
+      "dek": "Digital utilities are adopting AI, IoT and cloud tools to modernize grids, enable predictive maintenance and integrate renewables, creating opportunities in smart metering, services and retail. Digital utilities are adopting AI, IoT and cloud tools to modernize grids, enable predictive maintenance a",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/09/25/3368969/28124/en/digital-utility-market-set-for-growth-through-2035-as-smart-grids-cloud-deployment-ai-and-network-modernization-drive-global-opportunities.html",
+      "source": "Globenewswire_fr",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-25T09:23:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "research analysis and reports"
+      ],
+      "priority": 42
+    },
     {
       "id": "5413d2c892c35ff2",
       "slug": "security-in-java-ata-1f71dc",
@@ -23,345 +184,216 @@
         "OpenJDK",
         "Security"
       ],
-      "priority": 54
-    },
-    {
-      "id": "2b3474afa4ccb38b",
-      "slug": "oracle-health-launches-5-ai-revenue-cycle-tools-to-prevent-denials-b5f489",
-      "title": "Oracle Health launches 5 AI revenue cycle tools to prevent denials",
-      "dek": "Oracle Health has announced new revenue cycle management capabilities that use AI toward the front-end of the revenue cycle to prevent denials in the first place. Revealed at the Oracle Health and Life Sciences Summit yesterday, the health IT giant said five AI capabilities for RCM will be embedded ",
-      "url": "https://www.techtarget.com/revcyclemanagement/news/366651156/Oracle-Health-launches-5-AI-revenue-cycle-tools-to-prevent-denials",
-      "source": "Techtarget",
-      "sourceType": "external",
-      "image": "https://cdn.ttgtmedia.com/rms/onlineimages/health%20analytics_g1271502504.jpg",
-      "publishedAt": "2026-09-24T11:03:00.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "Oracle Cloud",
-        "Oracle Cloud Infrastructure",
-        "Oracle Database",
-        "Oracle Health",
-        "Cerner",
-        "AI"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "99850a0fd943c872",
-      "slug": "oracle-and-wild-bio-partner-to-advance-ai-powered-agriculture-acf58f",
-      "title": "Oracle and Wild Bio partner to advance AI-powered agriculture",
-      "dek": "The collaboration aims to advance agricultural resilience and crop-based carbon removal using AI technologies. Read more: Oracle and Wild Bio partner to advance AI-powered agriculture",
-      "url": "https://www.siliconrepublic.com/start-ups/oracle-wild-bio-form-partnership-advance-ai-powered-agriculture-research",
-      "source": "Siliconrepublic",
-      "sourceType": "external",
-      "image": "https://www.siliconrepublic.com/wp-content/uploads/2026/09/Wild-Bio-Lab.jpg",
-      "publishedAt": "2026-09-24T10:29:33.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "start-ups",
-        "environment",
-        "ai",
-        "agriculture",
-        "climate",
-        "oracle"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "44af70fdec88bc76",
-      "slug": "oracle-and-wild-bio-collab-to-advance-ai-powered-agriculture-607e57",
-      "title": "Oracle and Wild Bio collab to advance AI-powered agriculture",
-      "dek": "The collaboration aims to advance agricultural resilience and crop-based carbon removal using AI technologies. Read more: Oracle and Wild Bio collab to advance AI-powered agriculture",
-      "url": "https://www.siliconrepublic.com/innovation/oracle-wild-bio-form-partnership-advance-ai-powered-agriculture-research",
-      "source": "Siliconrepublic",
-      "sourceType": "external",
-      "image": "https://www.siliconrepublic.com/wp-content/uploads/2026/09/Wild-Bio-Lab.jpg",
-      "publishedAt": "2026-09-24T10:29:33.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "climate",
-        "agriculture",
-        "oracle",
-        "ai",
-        "research",
-        "environment"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "a878f36aa1186fe7",
-      "slug": "quality-management-system-software-market-forecasts-growth-from-11-73b-2026-to-20-43b-by-f12775",
-      "title": "Quality Management System Software Market Forecasts Growth from $11.73B (2026) to $20.43B by 2031, Profiling Veeva Systems, Siemens, PTC, SAP, Oracle & 15 Others",
-      "dek": "The global Quality Management System (QMS) software market is projected to grow from USD 11.73 billion in 2026 to USD 20.43 billion by 2031, at an 11.7% CAGR. Growth is driven by cloud-based QMS platforms, AI-powered quality analytics, automated compliance workflows and integration with ERP, MES and",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/09/24/3368158/28124/en/quality-management-system-software-market-forecasts-growth-from-11-73b-2026-to-20-43b-by-2031-profiling-veeva-systems-siemens-ptc-sap-oracle-15-others.html",
-      "source": "Globenewswire_fr",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-09-24T10:29:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "research analysis and reports"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "b6607aa41b9f6462",
-      "slug": "product-lifecycle-management-market-forecasts-growth-from-36-6b-2026-to-58-52b-by-2031-p-357331",
-      "title": "Product Lifecycle Management Market Forecasts Growth from $36.6B (2026) to $58.52B by 2031, Profiling Siemens, PTC, Autodesk, Oracle, Aras & 20 Other Key Players",
-      "dek": "The product lifecycle management (PLM) market is projected to grow from USD 36.60 billion in 2026 to USD 58.52 billion by 2031, at a 9.8% CAGR. Growth is driven by cloud and SaaS PLM adoption, generative AI, digital twins, digital thread technologies, and regulatory compliance needs. SMEs will recor",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/09/24/3368134/28124/en/product-lifecycle-management-market-forecasts-growth-from-36-6b-2026-to-58-52b-by-2031-profiling-siemens-ptc-autodesk-oracle-aras-20-other-key-players.html",
-      "source": "Globenewswire_fr",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-09-24T10:14:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "research analysis and reports"
-      ],
       "priority": 42
     },
     {
-      "id": "14b3cbd0bc5536ed",
-      "slug": "cloud-access-security-brokers-market-size-to-reach-usd-57-30-billion-by-2035-as-ai-and-z-859a8a",
-      "title": "Cloud Access Security Brokers Market Size to Reach USD 57.30 Billion by 2035 as AI and Zero Trust Security Accelerate Adoption",
-      "dek": "According to DataM Intelligence, the global Cloud Access Security Brokers (CASB) market was valued at USD 9.14 billion in 2025 and is projected to reach USD 57.30 billion by 2035, expanding at a CAGR of 18% during 2026-2035. Rising cloud",
-      "url": "https://www.openpr.com/news/4642452/cloud-access-security-brokers-market-size-to-reach-usd-57-30",
-      "source": "Openpr.com",
+      "id": "f425e2a2d577ced2",
+      "slug": "meta-stock-surges-36-in-september-on-muse-ai-boom-can-it-breach-the-2t-mark-67bfc6",
+      "title": "Meta stock surges 36% in September on Muse AI boom: can it breach the $2T mark?",
+      "dek": "Meta Platforms is finally delivering the kind of stock breakout that its long-standing bulls had been waiting for. Shares of the Facebook parent have surged 36% in September following the launch of its Muse personal AI assistant, putting the stock on track for its strongest monthly performance since",
+      "url": "https://invezz.com/news/2026/09/25/meta-stock-surges-36-in-september-on-muse-ai-boom-can-it-breach-the-2t-mark/",
+      "source": "Invezz",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L924777739_k.jpg",
-      "publishedAt": "2026-09-24T10:12:16.000Z",
+      "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/09/image-1790326767.png",
+      "publishedAt": "2026-09-25T09:17:08.000Z",
       "topic": "Security",
       "tags": [
-        "health & medicine"
+        "stock market"
       ],
-      "priority": 42
+      "priority": 41
     },
     {
-      "id": "901e8f8b09e4eed9",
-      "slug": "shinyhunters-claims-fbi-hack-threatens-to-leak-agent-data-over-warning-a1fee4",
-      "title": "ShinyHunters Claims FBI Hack, Threatens To Leak Agent Data Over Warning",
-      "dek": "ShinyHunters says it stole FBI employee records and defaced a jobs site, demanding the bureau retract a May advisory. FBI has not confirmed the claim.",
-      "url": "https://hoodline.com/2026/09/shinyhunters-claims-fbi-hack-threatens-to-leak-agent-data-over-warning/",
-      "source": "Hoodline",
-      "sourceType": "external",
-      "image": "https://img.hoodline.com/2026/9/shinyhunters-claims-fbi-hack-threatens-to-leak-agent-data-over-warning.webp",
-      "publishedAt": "2026-09-24T10:10:38.000Z",
-      "topic": "Security",
-      "tags": [
-        "d.c.",
-        "washington"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "0147b49084f71a85",
-      "slug": "oracle-corporation-japan-oclcf-q1-2027-earnings-call-transcript-746371",
-      "title": "Oracle Corporation Japan (OCLCF) Q1 2027 Earnings Call Transcript",
-      "dek": "Oracle Corporation Japan (OCLCF) Q1 2027 Earnings Call September 24, 2026 3:30 AM EDTCompany ParticipantsYuki Nishio - Senior Manager of Investor...",
-      "url": "https://seekingalpha.com/article/4949332-oracle-corporation-japan-oclcf-q1-2027-earnings-call-transcript",
-      "source": "Seeking Alpha",
-      "sourceType": "external",
-      "image": "https://seekingalpha.com/samw/static/images/DefaultArticleImage.0a47d531d.png",
-      "publishedAt": "2026-09-24T10:09:32.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "oclcf",
-        "sa transcripts"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "aa4ff40ce50b92ec",
-      "slug": "cloudoffix-and-imageware-ag-join-forces-to-accelerate-ai-driven-digital-transformation-a-17c964",
-      "title": "CloudOffix and ImageWare AG Join Forces to Accelerate AI-Driven Digital Transformation Across the DACH Region",
-      "dek": "CloudOffix, the AI-native business operations platform that unifies data, business applications, workflows and AI, has entered into a strategic partnership with ImageWare AG, a Swiss digital transformation specialist serving organizations across the DACH region. Through this partnership, ImageWare A",
-      "url": "https://cioinfluence.com/digital-transformation/cloudoffix-and-imageware-ag-join-forces-to-accelerate-ai-driven-digital-transformation-across-the-dach-region/",
-      "source": "Cio Influence",
-      "sourceType": "external",
-      "image": "https://cioinfluence.com/wp-content/uploads/2026/09/concept-credit-card-theft-hacker.jpg",
-      "publishedAt": "2026-09-24T09:48:40.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "cloudoffix",
-        "data",
-        "ai-native",
-        "ai-driven",
-        "digital transformation",
-        "cio influence news"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "a78b6518db998fb0",
-      "slug": "nosql-database-market-study-highlights-how-industry-demand-is-evolving-c69228",
-      "title": "NoSQL Database Market Study Highlights How Industry Demand Is Evolving",
-      "dek": "The NoSQL database industry has rapidly evolved as organizations seek more flexible and scalable data management solutions. With the surge in data-driven applications and the growing complexity of digital ecosystems, this market is positioned for substantial growth. Let's explore the",
-      "url": "https://www.openpr.com/news/4642363/nosql-database-market-study-highlights-how-industry-demand",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L924478352_k.jpg",
-      "publishedAt": "2026-09-24T09:29:17.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "it",
-        "new media & software"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "19cb0867b70ccf15",
-      "slug": "new-product-forecasting-artificial-intelligence-ai-market-report-provides-insights-into--4dd250",
-      "title": "New Product Forecasting Artificial Intelligence (AI) Market Report Provides Insights Into Market Evolution And Growth Prospects",
-      "dek": "The new product forecasting artificial intelligence (AI) market has shown remarkable growth recently, driven by technological advancements and evolving business needs. As companies strive to optimize product launches and inventory management, AI-based forecasting tools are becoming indispensable in ",
-      "url": "https://www.openpr.com/news/4642356/new-product-forecasting-artificial-intelligence-ai-market",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L924650878_k.jpg",
-      "publishedAt": "2026-09-24T09:27:20.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "it",
-        "new media & software"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "acb6f32a7b6cc580",
-      "slug": "earnings-call-transcript-oracle-japan-posts-strong-q1-2026-cloud-growth-dcfb6c",
-      "title": "Earnings call transcript: Oracle Japan posts strong Q1 2026 cloud growth",
-      "dek": "Earnings call transcript: Oracle Japan posts strong Q1 2026 cloud growth",
-      "url": "https://ng.investing.com/news/stock-market-news/earnings-call-transcript-oracle-japan-posts-strong-q1-2026-cloud-growth-93CH-2707453",
-      "source": "Investing Nigeria",
-      "sourceType": "external",
-      "image": "https://content-media.investing.com/news/LYNXMPEB2N01V_M.jpg",
-      "publishedAt": "2026-09-24T09:24:09.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "Earnings"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "c4e2993827e752ab",
-      "slug": "uipath-maps-the-missing-layer-for-enterprise-ai-with-cartographer-229d26",
-      "title": "UiPath maps the missing layer for enterprise AI with Cartographer",
-      "dek": "UiPath launched Cartographer at FUSION 2026 to capture the process knowledge that enterprises can't currently give their AI agents — the rules, exceptions and judgment calls that only experienced employees know.",
-      "url": "https://diginomica.com/uipath-maps-missing-layer-enterprise-ai-cartographer",
+      "id": "7b3dad2a3d591d3d",
+      "slug": "accountable-intelligence-how-a-uipath-customer-is-using-agentic-automation-to-process-10-732e74",
+      "title": "Accountable intelligence - how a UiPath customer is using agentic automation to process 100,000 medical billing cases a week",
+      "dek": "Payers are deploying AI to reject claims. Providers are coaching doctors to write records the bots will accept. Meanwhile, Coronis Health is caught in the middle - and building its way out, with the help of UiPath.",
+      "url": "https://diginomica.com/accountable-intelligence-how-uipath-customer-using-agentic-automation-process-100000-medical",
       "source": "Diginomica",
       "sourceType": "external",
-      "image": "https://diginomica.com/sites/default/files/images/2026-09/Untitled%20design%20%2817%29_0.png",
-      "publishedAt": "2026-09-24T09:08:14.000Z",
+      "image": "https://diginomica.com/sites/default/files/images/2025-02/Untitled%20design-47.png",
+      "publishedAt": "2026-09-25T08:57:38.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
+        "use cases",
         "agentic ai",
-        "audio",
-        "cloud platforms - infrastructure and architecture",
+        "healthcare transformation",
         "automation"
       ],
       "priority": 41
     },
     {
-      "id": "a3fa28841626c2e2",
-      "slug": "legal-ai-software-market-to-reach-usd-13-08-billion-by-2035-28-7-cagr-growth-industry-ou-7d7c7f",
-      "title": "Legal AI Software Market to Reach USD 13.08 Billion by 2035: 28.7% CAGR, Growth & Industry Outlook",
-      "dek": "Market Size and Growth 2026 The Legal AI Software Market is estimated to reach USD 1.07 billion in 2025 and is projected to grow to USD 13.08 billion by 2035, expanding at a CAGR of 28.7% during the forecast period. DataM Intelligence",
-      "url": "https://www.openpr.com/news/4642297/legal-ai-software-market-to-reach-usd-13-08-billion-by-2035-28-7",
-      "source": "Openpr.com",
+      "id": "545be136b917db56",
+      "slug": "devialet-debuts-devialet-phantom-ultimate-98-db-pulse-blue-fronted-by-isack-hadjar-949ab0",
+      "title": "Devialet Debuts Devialet Phantom Ultimate 98 dB – Pulse Blue, Fronted by Isack Hadjar",
+      "dek": "Devialet debuts Devialet Phantom Ultimate 98 dB – Pulse Blue. An exclusive edition marked by a new finish. Designed to communicate a state of intensity while reaffirming the engineering excellence of the original range. Fronting the campaign is Devialet Global Brand Ambassador Isack Hadjar, Formula ",
+      "url": "https://www.mobilityindia.com/devialet-debuts-devialet-phantom-ultimate-98-db-pulse-blue-fronted-by-isack-hadjar/",
+      "source": "Mobility India",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L924839860_k.jpg",
-      "publishedAt": "2026-09-24T09:03:22.000Z",
+      "image": "https://www.mobilityindia.com/wp-content/uploads/2026/09/Devialet-Debuts-Devialet-Phantom-Ultimate-98-dB-%E2%80%93-Pulse-Blue-Fronted-by-Isack-Hadjar.jpg",
+      "publishedAt": "2026-09-25T07:47:44.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "it",
-        "new media & software"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "705ace7ab78d036b",
-      "slug": "autonomous-data-platform-market-size-to-reach-us-16-16-billion-by-2033-as-ai-driven-data-939447",
-      "title": "Autonomous Data Platform Market Size to Reach US$ 16.16 Billion by 2033 as AI-Driven Data Automation Accelerates",
-      "dek": "According to DataM Intelligence, the global autonomous data platform market size was valued at US$ 2.86 billion in 2025 and is projected to reach US$ 16.16 billion by 2033, registering a CAGR of 27.89% during 2026-2033. The market is being",
-      "url": "https://www.openpr.com/news/4642293/autonomous-data-platform-market-size-to-reach-us-16-16-billion",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L924414527_k.jpg",
-      "publishedAt": "2026-09-24T08:58:42.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "it",
-        "new media & software"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "e55c195d3180b9d8",
-      "slug": "manufacturing-predictive-analytics-market-to-reach-us-8-06-billion-by-2033-as-ai-powered-0bf693",
-      "title": "Manufacturing Predictive Analytics Market to Reach US$ 8.06 Billion by 2033 as AI-Powered Predictive Maintenance Reduces Unplanned Downtime",
-      "dek": "The Manufacturing Predictive Analytics Market is valued at US$ 1.76 Billion in 2025 and is expected to reach US$ 8.06 Billion by 2033, growing at a CAGR of 18.46% during the forecast period (2026-2033). The market is rapidly shifting from traditional",
-      "url": "https://www.openpr.com/news/4642094/manufacturing-predictive-analytics-market-to-reach-us-8-06",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L924574956_k.jpg",
-      "publishedAt": "2026-09-24T06:58:56.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "new media & software",
-        "it"
+        "devialet",
+        "mobility india",
+        "devialet phantom ultimate",
+        "accessories",
+        "top 3 news",
+        "pulse blue"
       ],
       "priority": 40
     },
     {
-      "id": "d9b93e4b31d0051a",
-      "slug": "check-point-appoints-krishnan-v-v-as-india-md-and-south-asia-head-4fe199",
-      "title": "Check Point appoints Krishnan V V as India MD and South Asia head",
-      "dek": "Check Point appoints Krishnan V V as India and South Asia Head, strengthening its focus on AI security, cloud adoption, customer growth and partners.",
-      "url": "https://www.dqchannels.com/news/check-point-appoints-krishnan-v-v-to-drive-india-cyber-security-growth-12570106",
-      "source": "Dqc",
+      "id": "b7b5984c08ca97f8",
+      "slug": "oracle-ai-vector-search-native-ai-the-converged-database-era-47a615",
+      "title": "Oracle AI Vector Search & Native AI: The Converged Database Era",
+      "dek": "Oracle 23ai brings native VECTOR types, HNSW/IVF indexes, and SELECT AI for natural language queries.",
+      "url": "https://hackernoon.com/oracle-ai-vector-search-and-native-ai-the-converged-database-era",
+      "source": "Hackernoon",
       "sourceType": "external",
-      "image": "https://img-cdn.publive.online/dqc/media/media_files/2026/09/24/krishnan-v-v-2026-09-24-11-08-07.jpeg",
-      "publishedAt": "2026-09-24T06:03:25.000Z",
-      "topic": "Security",
+      "image": "https://cdn.hackernoon.com/images/lh3GIz5KYbVlETykJ0q4yOt71CA3-ud83c2c.jpeg",
+      "publishedAt": "2026-09-25T06:37:25.000Z",
+      "topic": "AI & Database",
       "tags": [
-        "check-point"
+        "oracle-ai-database",
+        "ai-vector-search",
+        "oracle-23ai",
+        "rdbms",
+        "oracle-26ai",
+        "oracle-database"
       ],
       "priority": 39
     },
     {
-      "id": "3f10593bc3fb3e2f",
-      "slug": "abu-dhabi-backs-ai-native-government-push-with-3-54bln-investment-programme-3f1155",
-      "title": "Abu Dhabi backs AI-native government push with $3.54bln investment programme",
-      "dek": "Abu Dhabi AI summit draws 200 investors with $91bln in assets",
-      "url": "https://www.zawya.com/en/special-coverage/abu-dhabi-backs-ai-native-government-push-with-3.54bln-investment-programme-1179022",
-      "source": "Zawya",
+      "id": "40cb0a1c95c7f2fd",
+      "slug": "cognitive-automation-market-2033-robotic-process-automation-intelligent-automation-ai-ag-03dc1f",
+      "title": "Cognitive Automation Market (2033): Robotic Process Automation, Intelligent Automation & AI Agent Growth in United States Expansion",
+      "dek": "DataM Intelligence has released a new research report titled \"Cognitive Automation Market Size 2026\" The report delivers in-depth insights into key market dynamics, including regional growth trends, market segmentation, CAGR projections, and the revenue performance of leading industry players. It",
+      "url": "https://www.openpr.com/news/4643433/cognitive-automation-market-2033-robotic-process",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-09-24T03:55:50.000Z",
+      "image": "https://cdn.open-pr.com/L/9/L925858825_k.jpg",
+      "publishedAt": "2026-09-25T06:37:01.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "united arab emirates",
-        "artificial intelligence"
+        "it",
+        "new media & software"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "bd425b6cd475ff25",
+      "slug": "digital-circular-economy-market-2035-ai-ml-digital-product-passports-supply-chain-tracki-d788c9",
+      "title": "Digital Circular Economy Market (2035): AI & ML, Digital Product Passports & Supply Chain Tracking Growth in United States Expansion",
+      "dek": "DataM Intelligence has released a new research report titled \"Digital Circular Economy Market Size 2026\". The report delivers in-depth insights into key market dynamics, including regional growth trends, market segmentation, CAGR projections, and the revenue performance of leading industry players.",
+      "url": "https://www.openpr.com/news/4643416/digital-circular-economy-market-2035-ai-ml-digital-product",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/9/L925635988_k.jpg",
+      "publishedAt": "2026-09-25T06:19:30.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "it",
+        "new media & software"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "62484251ddd57f87",
+      "slug": "tempo-software-chief-product-officer-kevin-nanney-to-deliver-keynote-speech-at-reuters-m-2e89e3",
+      "title": "Tempo Software Chief Product Officer Kevin Nanney to Deliver Keynote Speech at Reuters Momentum AI Conference",
+      "dek": "Business Wire India AI spending is showing up in enterprise budgets, but its impact on business priorities is harder to see. At this year's Reuters Momentum AI Conference, Tempo Software's Chief Product Officer Kevin Nanney will deliver a keynote speech that explores how leaders can close that dista",
+      "url": "https://nynewsly.com/tempo-software-chief-product-officer-kevin-nanney-to-deliver-keynote-speech-at-reuters-momentum-ai-conference/47585/",
+      "source": "Ny Newsly",
+      "sourceType": "external",
+      "image": "https://nynewsly.com/wp-content/themes/publisher/images/default-thumb/large.png",
+      "publishedAt": "2026-09-25T05:15:27.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "brand post"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "4b609af018d87c2f",
+      "slug": "same-failure-better-clothes-matchmade-io-on-selling-indonesian-finance-tech-in-singapore-a69822",
+      "title": "Same failure, better clothes: Matchmade.io on selling Indonesian finance tech in Singapore",
+      "dek": "There is a particular misery that visits finance departments in the last week of every month. The sales figure on the point-of-sale screen says one thing, the bank statement says another, and somebody has to explain the gap before the books close. Gilang Gibranthama, co-founder of Jakarta-based Matc",
+      "url": "https://e27.co/same-failure-better-clothes-matchmade-io-on-selling-indonesian-finance-tech-in-singapore-20260925/",
+      "source": "E27",
+      "sourceType": "external",
+      "image": "https://e27.co/wp-content/uploads/2026/09/Matchmade_interview.jpeg",
+      "publishedAt": "2026-09-25T05:03:30.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "matchmade.io",
+        "fintech",
+        "interview",
+        "paynow gen 2",
+        "xendit",
+        "paymongo"
       ],
       "priority": 38
     },
     {
-      "id": "8281204a0791249d",
-      "slug": "accenture-leverages-oracle-s-deep-data-security-for-database-driven-trust-boundaries-23d0e9",
-      "title": "Accenture leverages Oracle’s Deep Data Security for database-driven trust boundaries",
-      "dek": "Oracle Corp.’s Deep Data Security offers a basic premise on enterprise security: When the application layer is an AI agent, the trust boundary must move somewhere else. The trust boundary can be relocated to the database, and Roger Cornejo (pictured), technology innovation principal director of gen ",
-      "url": "https://siliconangle.com/2026/09/23/accenture-oracle-enterprise-security-ai-oracleaicybersecurity/",
-      "source": "Siliconangle",
+      "id": "70e06420c0b638d2",
+      "slug": "pbs-launches-ai-unit-as-it-chases-higher-revenues-further-expansion-0e5fcb",
+      "title": "PBS launches AI unit as it chases higher revenues, further expansion",
+      "dek": "PBS launches AI unit as it chases higher revenues, further expansion",
+      "url": "https://www.jamaicaobserver.com/2026/09/25/pbs-launches-ai-unit-chases-higher-revenues-expansion/",
+      "source": "Jamaica Observer",
       "sourceType": "external",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/09/Roger-Cornejo.jpg",
-      "publishedAt": "2026-09-24T00:12:23.000Z",
-      "topic": "Security",
+      "image": "https://www.jamaicaobserver.com/jamaicaobserver/news/wp-content/uploads/sites/4/2026/09/8e31b10739187f5a94d4c51c1274e1ac.jpg",
+      "publishedAt": "2026-09-25T05:01:00.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "data protection",
-        "ai agents",
-        "cloud security",
-        "data recovery",
-        "nyse:acn",
-        "news"
+        "caribbean business report (cbr)",
+        "business"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "06f1a815bb52a066",
+      "slug": "oracle-job-cuts-shock-cloud-unit-why-are-middle-managers-and-workers-over-40-taking-a-bi-9aeb19",
+      "title": "Oracle job cuts shock cloud unit: Why are middle managers and workers over 40 taking a bigger hit in the latest layoffs?",
+      "dek": "Oracle's recent layoffs target primarily middle managers and employees over 40, revealing shifts in organizational structure and prioritization in the cloud and AI sectors. Discover the insights behind these job cuts and the implications for older tech workers.",
+      "url": "https://www.indiatimes.com/trending/oracle-job-cuts-shock-cloud-unit-why-are-middle-managers-and-workers-over-40-taking-a-bigger-hit-in-the-latest-layoffs/articleshow/134462096.html",
+      "source": "Indiatimes",
+      "sourceType": "external",
+      "image": "https://staticimg.publishstory.co/thumb/134462133.cms?imgsize=104500&width=1280&height=720&resizemode=8",
+      "publishedAt": "2026-09-25T00:33:05.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "14f10de7a0913b33",
+      "slug": "hyatt-adopts-oracle-opera-cloud-for-property-management-d77e14",
+      "title": "Hyatt Adopts Oracle OPERA Cloud for Property Management",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://hospitalitynews.in/news/hyatt-selects-oracle-opera-cloud-as-global-property-management-system",
+      "source": "Hospitalitynews",
+      "sourceType": "external",
+      "image": "https://hospitalitynews.in/uploads/images/202409/image_870x580_66e9776eb1a25.jpg",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "f2f2c906cb6c270e",
+      "slug": "etip-joins-oracle-cloud-to-enhance-tipping-and-financial-ops-1a4566",
+      "title": "eTip Joins Oracle Cloud to Enhance Tipping and Financial Ops",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://hospitalitynews.in/news/etip-integrates-with-oracle-cloud-to-streamline-tipping-and-financial-processes-in-hospitality",
+      "source": "Hospitalitynews",
+      "sourceType": "external",
+      "image": "https://hospitalitynews.in/uploads/images/202404/image_870x580_660ffcfdca4fd.jpg",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud"
       ],
       "priority": 36
     },
@@ -1971,38 +2003,6 @@
       "tags": [
         "OCI",
         "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "be8b92279cd0831f",
-      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
-      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-09T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "d38db88cd3fd3cc0",
-      "slug": "working-with-oke-virtual-nodes-f5a370",
-      "title": "Working with OKE Virtual Nodes",
-      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-02T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
       ],
       "priority": 36
     }
