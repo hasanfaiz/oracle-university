@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T23:00:19.275Z",
+  "generatedAt": "2026-09-27T23:10:37.474Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,177 +7,182 @@
   },
   "items": [
     {
-      "id": "46b3747bbfefc962",
-      "slug": "financial-comparison-international-business-machines-nyse-ibm-and-gds-nasdaq-gds-1c9a1a",
-      "title": "Financial Comparison: International Business Machines (NYSE:IBM) and GDS (NASDAQ:GDS)",
-      "dek": "International Business Machines (NYSE:IBM – Get Free Report) and GDS (NASDAQ:GDS – Get Free Report) are both technology companies, but which is the superior investment? We will contrast the two businesses based on the strength of their earnings, institutional ownership, risk, analyst recommendations",
-      "url": "https://zolmax.com/investing/financial-comparison-international-business-machines-nyseibm-and-gds-nasdaqgds/12008480.html",
-      "source": "Zolmax",
+      "id": "04bf3a23906eec01",
+      "slug": "the-sequence-radar-issue-940-last-week-in-ai-opus-5-5-gets-leaner-meta-goes-wearable-was-09d455",
+      "title": "The Sequence Radar - Issue 940: Last Week in AI: Opus 5.5 Gets Leaner, Meta Goes Wearable, Washington Talks to Beijing, and Claude Explores DNA",
+      "dek": "Smarter models, wearable agents, scientific discoveries, and superpower diplomacy reveal how quickly AI is moving into the world.",
+      "url": "https://thesequence.substack.com/p/the-sequence-radar-issue-940-last",
+      "source": "Thesequence",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/gds-holdings-ltd---logo-1200x675.png",
-      "publishedAt": "2026-09-26T10:31:13.000Z",
-      "topic": "Security",
+      "image": "https://substackcdn.com/image/fetch/$s_!6GY-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F888ac42e-0c0b-461c-b367-6be01605ab56_1774x887.png",
+      "publishedAt": "2026-09-27T11:02:17.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "comparison articles",
-        "investing"
+        "AI"
       ],
       "priority": 43
     },
     {
-      "id": "fe02aba3000f6648",
-      "slug": "java-27-delivers-steady-gains-from-ancient-jdk-8-to-today-s-faster-tighter-runtime-b54744",
-      "title": "Java 27 Delivers Steady Gains: From Ancient JDK 8 to Today’s Faster, Tighter Runtime",
-      "dek": "Java 27 makes G1 and compact object headers the default, delivering measurable memory and CPU savings. Long-term benchmarks from JDK 8 to 27 show steady performance gains, while new cryptography accelerations prepare for post-quantum threats. Production adopters already see the benefits.",
-      "url": "https://www.webpronews.com/java-27-delivers-steady-gains-from-ancient-jdk-8-to-todays-faster-tighter-runtime/",
-      "source": "Webpronews",
+      "id": "7507eb6668dd7176",
+      "slug": "why-saudi-arabia-joined-top-four-fastest-growing-ai-data-centre-markets-791bce",
+      "title": "Why Saudi Arabia joined top four fastest-growing AI data centre markets",
+      "dek": "Saudi Arabia has emerged as one of the fastest-expanding digital infrastructure hubs globally, securing joint fourth position worldwide alongside Finland for live IT power growth with a 57 percent increase since 2024, driven by aggressive national digital transformation programs and soaring demand f",
+      "url": "https://me.mashable.com/tech/76526/why-saudi-arabia-joined-top-four-fastest-growing-ai-data-centre-markets",
+      "source": "Mashable Me",
       "sourceType": "external",
-      "image": "https://www.webpronews.com/wp-content/uploads/2026/09/article-26631-1790324613.jpeg",
-      "publishedAt": "2026-09-26T10:12:14.000Z",
-      "topic": "Security",
+      "image": "https://sm.mashable.com/mashable_me/article/o/oregons-da/oregons-data-centers-use-almost-25-of-the-states-power-repor_985f.jpg",
+      "publishedAt": "2026-09-27T09:58:21.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "g1 garbage collector",
-        "devnews",
-        "java 27",
-        "openjdk performance",
-        "jdk 27",
-        "post-quantum cryptography"
+        "tech",
+        "digital",
+        "servers",
+        "post",
+        "growth",
+        "saudi arabia"
       ],
-      "priority": 43
+      "priority": 42
     },
     {
-      "id": "0ce9ab45205e96d4",
-      "slug": "oracle-layoffs-offer-a-warning-5-money-moves-to-make-before-the-pink-slip-arrives-f4533d",
-      "title": "Oracle layoffs offer a warning: 5 money moves to make before the pink slip arrives",
-      "dek": "Oracle has laid off several employees in its cloud infrastructure division recently, reflecting its ongoing restructuring amid increased focus on AI. Here's how to secure your finances if something unfortunate like this happens.",
-      "url": "https://www.livemint.com/money/oracle-layoffs-offer-a-warning-5-money-moves-to-make-before-the-pink-slip-arrives-11790327317667.html",
-      "source": "Mint",
+      "id": "13fb68d744c4b38c",
+      "slug": "devialet-debuts-devialet-phantom-ultimate-98-db-pulse-blue-fronted-by-isack-hadjar-e3a1a5",
+      "title": "Devialet Debuts Devialet Phantom Ultimate 98 dB – Pulse Blue, Fronted by Isack Hadjar.",
+      "dek": "[[{\"type\":\"media\",\"view_mode\":\"media_large\",\"fid\":\"38948\",\"attributes\":{\"alt\":\"\",\"class\":\"media-image\",\"typeof\":\"foaf:Image\"}}]]Fronting the campaign is Devialet Global Brand Ambassador Isack Hadjar, Formula 1® driver for Oracle Red Bull Racing. Together, they relentlessly pursue excellence where pe",
+      "url": "http://www.techtree.com/content/news/16097/devialet-debuts-devialet-phantom-ultimate-98-db-pulse-blue-fronted-isack-hadjar",
+      "source": "Techtree",
       "sourceType": "external",
-      "image": "https://www.livemint.com/lm-img/img/2024/05/07/1600x900/logo/3333_1715080623582_1715080625995.png",
-      "publishedAt": "2026-09-26T08:39:00.000Z",
-      "topic": "Oracle Cloud",
+      "image": "https://www.techtree.com/sites/default/files/styles/large/public/deviat.png?itok=LUtpHd_U",
+      "publishedAt": "2026-09-27T09:45:58.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "technology giant",
-        "financial planning",
-        "emergency fund",
-        "job cuts",
-        "oracle layoffs"
+        "devialet"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "aef58e5804ab6aa7",
+      "slug": "oracle-nyse-orcl-stock-falls-1-7-should-you-sell-c8a145",
+      "title": "Oracle (NYSE:ORCL) Stock Falls 1.7% – Should You Sell?",
+      "dek": "Oracle Corporation (NYSE:ORCL – Get Free Report)’s stock price was down 1.7% during mid-day trading on Friday. The stock traded as low as $136.92 and last traded at $137.1750. 22,732,095 shares were traded during trading, a decline of 23% from the average daily volume of 29,419,383 shares. The stock",
+      "url": "https://www.defenseworld.net/2026/09/27/oracle-nyseorcl-stock-falls-1-7-should-you-sell.html",
+      "source": "Defenseworld Net",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-09-27T09:01:30.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "price articles",
+        "companies"
       ],
       "priority": 41
     },
     {
-      "id": "283efda4b9654552",
-      "slug": "shinyhunters-hackers-expanded-attacks-on-oracle-s-peoplesoft-google-says-c4f3dc",
-      "title": "ShinyHunters hackers expanded attacks on Oracle’s PeopleSoft, Google says",
-      "dek": "Reuters – Google’s cybersecurity unit said on Friday that hacking group ShinyHunters has renewed “mass exploitation” of a security flaw in Oracle’s PeopleSoft software, after skirting defenses put up following attacks in the summer. Mandiant made the announcement in a threat intelligence report rele",
-      "url": "http://bizenglish.adaderana.lk/shinyhunters-hackers-expanded-attacks-on-oracles-peoplesoft-google-says/",
-      "source": "Adaderana News",
+      "id": "f7acf13f4488c05c",
+      "slug": "what-will-micron-s-gross-margin-guide-be-e05b48",
+      "title": "What Will Micron's Gross Margin Guide Be?",
+      "dek": "Sara Awad from Tech Contrarians gives a preview of Micron's earnings and updates on other tech names.",
+      "url": "https://seekingalpha.com/article/4949887-what-will-microns-gross-margin-guide-be",
+      "source": "Seeking Alpha",
       "sourceType": "external",
-      "image": "http://s3.amazonaws.com/bizenglish/wp-content/uploads/2026/09/26130933/Google1-300x256.jpg",
-      "publishedAt": "2026-09-26T07:40:03.000Z",
-      "topic": "Security",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1689227296/image_1689227296.jpg?io=getty-c-w1280",
+      "publishedAt": "2026-09-27T09:00:00.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "top news"
+        "f:ca",
+        "nvda:ca",
+        "tsm",
+        "amd:ca",
+        "sa team",
+        "msft"
       ],
-      "priority": 40
+      "priority": 41
     },
     {
-      "id": "47e51f8765ed2571",
-      "slug": "tech-layoffs-affect-over-1-29-000-employees-so-far-this-year-check-details-9df178",
-      "title": "Tech Layoffs Affect Over 1,29,000 Employees So Far This Year; Check Details",
-      "dek": "Global tech layoffs have reached 1,29,994 employees across 309 companies tracked by Layoffs.fyi, as major firms including Microsoft, Apple, and Intel implement extensive workforce reductions. The ongoing restructuring highlights a broader industry shift toward operational efficiency and AI investmen",
-      "url": "https://www.latestly.com/technology/tech-layoffs-affect-over-129000-employees-so-far-this-year-check-details-7621324.html",
+      "id": "7bbc533c13c1ea90",
+      "slug": "are-you-software-engineer-paying-long-term-emis-techie-warns-this-amid-ai-layoffs-e46fd5",
+      "title": "Are You Software Engineer Paying Long-Term EMIs? Techie Warns This Amid AI Layoffs",
+      "dek": "A software engineer has cautioned tech professionals against taking heavy, long-term EMIs amid growing concerns over AI-driven job disruption. Princi Vershwal said current salaries may not remain stable over a 15-year loan tenure as AI reshapes coding and development roles. She urged workers to cons",
+      "url": "https://www.latestly.com/technology/are-you-software-engineer-paying-long-term-emis-techie-warns-this-amid-ai-layoffs-7622491.html",
       "source": "Latestly",
       "sourceType": "external",
-      "image": "https://st1.latestly.com/wp-content/uploads/2026/06/1-101.jpg",
-      "publishedAt": "2026-09-26T06:57:35.000Z",
+      "image": "https://st1.latestly.com/wp-content/uploads/2026/01/1-794766706.jpg",
+      "publishedAt": "2026-09-27T07:56:37.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "intel layoffs",
-        "tech layoffs 2026",
-        "microsoft layoffs",
-        "oracle layoffs",
-        "technology job cuts",
-        "corporate layoffs"
+        "software engineering jobs",
+        "future of software engineering",
+        "ai and employment",
+        "software developer jobs",
+        "ai impact on software engineers",
+        "tech professionals loans"
       ],
-      "priority": 40
+      "priority": 41
     },
     {
-      "id": "f6baea885021a7d9",
-      "slug": "shinyhunters-resume-mass-exploitation-of-oracle-peoplesoft-vulnerability-google-says-c60bc9",
-      "title": "ShinyHunters Resume Mass Exploitation Of Oracle PeopleSoft Vulnerability, Google Says",
-      "dek": "Google's cybersecurity division reported that the hacking group ShinyHunters has resumed exploiting a vulnerability in Oracle's PeopleSoft software, targeting organizations that failed to implement the necessary security updates.",
-      "url": "https://www.timesnownews.com/technology-science/shinyhunters-resume-mass-exploitation-of-oracle-peoplesoft-vulnerability-google-says-article-156228259",
-      "source": "Times Now News",
+      "id": "17202fd1b99acb3a",
+      "slug": "tempo-software-chief-product-officer-kevin-nanney-to-deliver-keynote-speech-at-reuters-m-728fe7",
+      "title": "Tempo Software Chief Product Officer Kevin Nanney to Deliver Keynote Speech at Reuters Momentum AI Conference",
+      "dek": "AUSTIN, Texas--(Business Wire/Korea Newswire)--AI spending is showing up in enterprise budgets, but its impact on business priorities is harder to see. At this year‘s Reuters Momentum AI Conference, Tempo Software ’s Chief Product Officer Kevin Na...",
+      "url": "https://www.newswire.co.kr/newsRead.php?no=1043432&sourceType=rss",
+      "source": "Newswire",
       "sourceType": "external",
-      "image": "https://images.timesnownews.com/thumb/msid-156228257,thumbsize-123079,width-1280,height-720,resizemode-75/156228257.jpg",
-      "publishedAt": "2026-09-26T06:53:57.000Z",
+      "image": "https://file.newswire.co.kr/data/upfile/company_img/thumb_480/2026/08/1028147215_20260826150818_4120240753.jpg",
+      "publishedAt": "2026-09-27T05:30:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "AI"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "3b57684eb4c48f3b",
+      "slug": "shinyhunters-hackers-expanded-attacks-on-oracle-s-peoplesoft-google-says-db088f",
+      "title": "ShinyHunters hackers expanded attacks on Oracle’s PeopleSoft, Google says",
+      "dek": "ShinyHunters has said it accessed FBI data using a vulnerability in PeopleSoft.",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/shinyhunters-hackers-expanded-attacks-on-oracles-peoplesoft-google-says-10895753/",
+      "source": "The Indian Express",
+      "sourceType": "external",
+      "image": "https://images.indianexpress.com/2025/08/Data.jpg",
+      "publishedAt": "2026-09-27T04:01:59.000Z",
       "topic": "Security",
       "tags": [
-        "cybersecurity attack",
-        "oracle peoplesoft vulnerability",
-        "shinyhunters",
-        "peoplesoft security flaw",
-        "google mandiant",
-        "oracle peoplesoft"
+        "technology",
+        "tech"
       ],
-      "priority": 40
+      "priority": 38
     },
     {
-      "id": "1edd5c33ccddd980",
-      "slug": "comparing-rimini-street-nasdaq-rmni-nebius-group-nasdaq-nbis-724604",
-      "title": "Comparing Rimini Street (NASDAQ:RMNI) & Nebius Group (NASDAQ:NBIS)",
-      "dek": "Rimini Street (NASDAQ:RMNI – Get Free Report) and Nebius Group (NASDAQ:NBIS – Get Free Report) are both technology companies, but which is the superior investment? We will contrast the two businesses based on the strength of their earnings, risk, analyst recommendations, valuation, institutional own",
-      "url": "https://baseballnewssource.com/2026/09/26/comparing-rimini-street-nasdaqrmni-nebius-group-nasdaqnbis/11278730.html",
+      "id": "c338c4a26a4a7c43",
+      "slug": "oracle-stock-price-prediction-137-now-205-bull-98-bear-079712",
+      "title": "Oracle Stock Price Prediction: $137 Now, $205 Bull, $98 Bear",
+      "dek": "The Oracle stock price prediction problem right now is not that the AI story broke. It is that the single number holding the bull case together, a $664 billion remaining performance obligation, is also the number holding the bear case together. Oracle closed at $137.10 on 25 September 2026, down 56.",
+      "url": "https://etf-alerts.com/2026/09/27/oracle-stock-price-prediction-137-now-205-bull-98-bear/",
+      "source": "Etf Alerts",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-27T00:41:24.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "stock"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "dd54c8f64c5f2927",
+      "slug": "comparing-globant-nyse-glob-and-fujitsu-otcmkts-fjtsy-784bad",
+      "title": "Comparing Globant (NYSE:GLOB) and Fujitsu (OTCMKTS:FJTSY)",
+      "dek": "Fujitsu (OTCMKTS:FJTSY – Get Free Report) and Globant (NYSE:GLOB – Get Free Report) are both technology companies, but which is the superior business? We will compare the two businesses based on the strength of their valuation, profitability, earnings, dividends, institutional ownership, analyst rec",
+      "url": "https://baseballnewssource.com/2026/09/26/comparing-globant-nyseglob-and-fujitsu-otcmktsfjtsy/11279419.html",
       "source": "Bbns",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/nebius-group-nv-logo-1200x675.png?v=20250520081305",
-      "publishedAt": "2026-09-26T04:14:51.000Z",
-      "topic": "Security",
+      "image": "https://www.marketbeat.com/logos/globant-sa-logo-1200x675.png?v=20240202075256",
+      "publishedAt": "2026-09-27T00:14:55.000Z",
+      "topic": "Business & Earnings",
       "tags": [
         "comparison articles",
         "markets"
       ],
-      "priority": 38
-    },
-    {
-      "id": "c16caa181d37f293",
-      "slug": "oracle-orcl-says-ellison-canceled-a-plan-to-sell-up-to-7-5-billion-in-shares-does-it-cha-b89c73",
-      "title": "Oracle (ORCL) Says Ellison Canceled a Plan to Sell Up to $7.5 Billion in Shares. Does it Change the Investment Case?",
-      "dek": "On September 12, 2026, Reuters reported that Oracle Corporation (NYSE:ORCL) co-founder and executive chairman Larry Ellison canceled a plan to sell up to 50 million Oracle shares, worth roughly $7.5 billion at the stock’s closing price, just one day after Oracle had disclosed the trading plan in a r",
-      "url": "https://www.insidermonkey.com/news/oracle-orcl-says-ellison-canceled-a-plan-to-sell-up-to-7-5-billion-in-shares-does-it-change-the-investment-case-1840405/",
-      "source": "Insider Trading",
-      "sourceType": "external",
-      "image": "https://d2w7kw43nye0pi.cloudfront.net/C5ktS4EaZOQ2ylCEKX-VzodNHGqqXvMw7EfL76qJUMs/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/09/20060404/ORCL-insidermonkey-1695204241327.jpg",
-      "publishedAt": "2026-09-26T03:21:22.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "news",
-        "hedge funds",
-        "nyse:orcl",
-        "oracle corporation (nyse:orcl)",
-        "yahoo finance",
-        "daily newsletter"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "5413d2c892c35ff2",
-      "slug": "security-in-java-ata-1f71dc",
-      "title": "\"Security in Java\" [AtA]",
-      "dek": "Given how prevalent Java is on web servers throughout the internet, security in Java is of critical importance. There's the security of the JDK itself, of course, which is overseen by the OpenJDK Security Group, which you should report JDK vulnerabilities to. But there are also the algorithms and fe",
-      "url": "https://inside.java/2026/09/24/podcast-071/",
-      "source": "Inside Java",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/insidejava/2026-09-inside-java-podcast-72--sean.mp3?dest-id=2318780",
-      "publishedAt": "2026-09-24T09:50:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Java",
-        "JDK",
-        "OpenJDK",
-        "Security"
-      ],
-      "priority": 37
+      "priority": 36
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1976,20 +1981,6 @@
       "sourceType": "podcast",
       "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP5.mp3?dest-id=3870039",
       "publishedAt": "2024-04-16T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "967d33e1489de57e",
-      "slug": "forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today-f03edc",
-      "title": "Forgotten, But Not Gone: How Model-Based Development Is Still Alive and Well Today",
-      "dek": "Computer Aided Software Engineering (CASE) tools, which helped make the analysis, design, and implementation phases of software development better, faster, and cheaper, fell out of favor in the mid-'90s. Yet much of what they have to offer remains and is in active use within different Oracle tools. ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/-forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-09T14:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [],
       "priority": 36
