@@ -1,30 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://oracle-university.com/</loc><lastmod>2026-09-27T23:10:37.474Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/</loc><lastmod>2026-09-27T23:10:37.474Z</lastmod></url>
-  <url><loc>https://oracle-university.com/about/</loc><lastmod>2026-09-27T23:10:37.474Z</lastmod></url>
-  <url><loc>https://oracle-university.com/editorial-policy/</loc><lastmod>2026-09-27T23:10:37.474Z</lastmod></url>
-  <url><loc>https://oracle-university.com/sources/</loc><lastmod>2026-09-27T23:10:37.474Z</lastmod></url>
-  <url><loc>https://oracle-university.com/privacy/</loc><lastmod>2026-09-27T23:10:37.474Z</lastmod></url>
-  <url><loc>https://oracle-university.com/trademark-disclaimer/</loc><lastmod>2026-09-27T23:10:37.474Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/oracle-cloud/</loc><lastmod>2026-09-27T23:10:37.474Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/ai-database/</loc><lastmod>2026-09-27T23:10:37.474Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/security/</loc><lastmod>2026-09-27T23:10:37.474Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/training-certification/</loc><lastmod>2026-09-27T23:10:37.474Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/java-mysql/</loc><lastmod>2026-09-27T23:10:37.474Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/applications-netsuite/</loc><lastmod>2026-09-27T23:10:37.474Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/business-earnings/</loc><lastmod>2026-09-27T23:10:37.474Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/oracle-ecosystem/</loc><lastmod>2026-09-27T23:10:37.474Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/the-sequence-radar-issue-940-last-week-in-ai-opus-5-5-gets-leaner-meta-goes-wearable-was-09d455/</loc><lastmod>2026-09-27T11:02:17.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/why-saudi-arabia-joined-top-four-fastest-growing-ai-data-centre-markets-791bce/</loc><lastmod>2026-09-27T09:58:21.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/devialet-debuts-devialet-phantom-ultimate-98-db-pulse-blue-fronted-by-isack-hadjar-e3a1a5/</loc><lastmod>2026-09-27T09:45:58.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-nyse-orcl-stock-falls-1-7-should-you-sell-c8a145/</loc><lastmod>2026-09-27T09:01:30.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/what-will-micron-s-gross-margin-guide-be-e05b48/</loc><lastmod>2026-09-27T09:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/are-you-software-engineer-paying-long-term-emis-techie-warns-this-amid-ai-layoffs-e46fd5/</loc><lastmod>2026-09-27T07:56:37.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/tempo-software-chief-product-officer-kevin-nanney-to-deliver-keynote-speech-at-reuters-m-728fe7/</loc><lastmod>2026-09-27T05:30:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/shinyhunters-hackers-expanded-attacks-on-oracle-s-peoplesoft-google-says-db088f/</loc><lastmod>2026-09-27T04:01:59.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-stock-price-prediction-137-now-205-bull-98-bear-079712/</loc><lastmod>2026-09-27T00:41:24.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/comparing-globant-nyse-glob-and-fujitsu-otcmkts-fjtsy-784bad/</loc><lastmod>2026-09-27T00:14:55.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/</loc><lastmod>2026-09-29T00:27:13.993Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/</loc><lastmod>2026-09-29T00:27:13.993Z</lastmod></url>
+  <url><loc>https://oracle-university.com/about/</loc><lastmod>2026-09-29T00:27:13.993Z</lastmod></url>
+  <url><loc>https://oracle-university.com/editorial-policy/</loc><lastmod>2026-09-29T00:27:13.993Z</lastmod></url>
+  <url><loc>https://oracle-university.com/sources/</loc><lastmod>2026-09-29T00:27:13.993Z</lastmod></url>
+  <url><loc>https://oracle-university.com/privacy/</loc><lastmod>2026-09-29T00:27:13.993Z</lastmod></url>
+  <url><loc>https://oracle-university.com/trademark-disclaimer/</loc><lastmod>2026-09-29T00:27:13.993Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/oracle-cloud/</loc><lastmod>2026-09-29T00:27:13.993Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/ai-database/</loc><lastmod>2026-09-29T00:27:13.993Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/security/</loc><lastmod>2026-09-29T00:27:13.993Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/training-certification/</loc><lastmod>2026-09-29T00:27:13.993Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/java-mysql/</loc><lastmod>2026-09-29T00:27:13.993Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/applications-netsuite/</loc><lastmod>2026-09-29T00:27:13.993Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/business-earnings/</loc><lastmod>2026-09-29T00:27:13.993Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/oracle-ecosystem/</loc><lastmod>2026-09-29T00:27:13.993Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/oracle-integrates-with-swift-s-blockchain-ledger-for-banks-fb6d3a/</loc><lastmod>2026-09-28T12:14:11.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/oracle-integrates-with-swift-s-blockchain-ledger-for-tokenized-deposits-654c28/</loc><lastmod>2026-09-28T12:06:11.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/accenture-helps-combe-unify-finance-and-supply-chain-on-oracle-8b0168/</loc><lastmod>2026-09-28T12:02:11.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/new-report-trust-in-network-providers-is-holding-back-ai-and-digital-transformation-init-3d24cf/</loc><lastmod>2026-09-28T12:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/fincadia-advisors-investment-funds-invest-50-million-in-positron-ai-s-875-million-series-4aa852/</loc><lastmod>2026-09-28T12:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/accenture-edge-helps-combe-unify-its-global-operations-setting-the-stage-for-ai-powered--39fe75/</loc><lastmod>2026-09-28T11:59:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/jaggaer-named-a-leader-in-the-idc-marketscape-worldwide-ai-enabled-direct-spend-2026-ven-adf6f9/</loc><lastmod>2026-09-28T11:38:48.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/small-language-model-market-research-explores-growth-within-a-22-45-billion-opportunity-df270b/</loc><lastmod>2026-09-28T11:13:33.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/system-of-insight-market-report-examines-leading-companies-and-growth-opportunities-4e8900/</loc><lastmod>2026-09-28T11:09:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/supply-chain-security-market-demonstrates-long-term-growth-potential-at-9-3-cagr-313bf7/</loc><lastmod>2026-09-28T11:06:22.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign-f82ec9/</loc><lastmod>2026-09-28T10:56:46.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/dbhawk-extends-zero-trust-database-access-to-ai-agents-with-hawk-ai-mcp-server-eea336/</loc><lastmod>2026-09-28T10:31:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/master-data-management-market-size-to-reach-us-50-76-billion-by-2035-as-ai-driven-data-g-97d1da/</loc><lastmod>2026-09-28T09:41:25.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/nasdaq-s-p-500-futures-fall-as-oil-spikes-on-trump-s-snub-to-iran-mu-nvda-skhy-spcx-nio--e328f2/</loc><lastmod>2026-09-28T09:40:01.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/react-native-database-choosing-the-right-database-for-your-react-native-app-d96866/</loc><lastmod>2026-09-28T09:18:14.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/database-migration-what-it-is-understanding-needs-and-challenges-24897a/</loc><lastmod>2026-09-28T09:16:37.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/how-does-database-migration-work-ultimate-checklist-e6cbcb/</loc><lastmod>2026-09-28T09:16:18.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/automatic-call-distribution-system-how-to-leverage-it-for-a-contact-center-130d82/</loc><lastmod>2026-09-28T09:15:25.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/flask-vs-django-10-must-know-criteria-for-comparison-of-python-frameworks-e70419/</loc><lastmod>2026-09-28T09:14:21.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/django-vs-laravel-the-most-analytical-breakdown-to-determine-the-better-framework-e1df86/</loc><lastmod>2026-09-28T09:14:19.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/laravel-vs-php-dissecting-the-backend-frameworks-in-detail-26b38c/</loc><lastmod>2026-09-28T09:14:16.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/nodejs-vs-ruby-on-rails-a-deep-dive-into-backend-frameworks-5b0f2a/</loc><lastmod>2026-09-28T09:14:15.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/comparing-nodejs-vs-java-your-backend-tech-stacks-explained-ecdd52/</loc><lastmod>2026-09-28T09:14:02.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/how-to-have-security-nightmare-free-application-modernization-3be168/</loc><lastmod>2026-09-28T09:07:08.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/how-to-develop-hipaa-compliant-mobile-application-step-by-step-guide-4e3296/</loc><lastmod>2026-09-28T09:04:19.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/top-16-ai-ml-engineering-companies-8a4cb8/</loc><lastmod>2026-09-28T09:02:09.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/your-semantic-layer-costs-more-to-replace-than-your-data-warehouse-82ec21/</loc><lastmod>2026-09-28T09:00:28.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/uipath-enhances-and-strengthens-uipath-platformtm-22a280/</loc><lastmod>2026-09-28T08:31:39.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/uipath-enhances-and-strengthens-uipath-platform-9d7360/</loc><lastmod>2026-09-28T07:41:44.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/ai4bt-global-summit-concludes-with-focus-on-enterprise-ai-transformation-1fd15b/</loc><lastmod>2026-09-28T07:15:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/what-will-the-q3-earnings-season-show-afd798/</loc><lastmod>2026-09-28T06:20:32.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/reviewing-nebius-group-nasdaq-nbis-and-rimini-street-nasdaq-rmni-e24cf2/</loc><lastmod>2026-09-28T05:15:01.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/java-news-roundup-tornadovm-7-0-groovy-6-0-graalvm-hibernate-quarkus-gradle-maven-d08c33/</loc><lastmod>2026-09-28T02:30:00.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/encore-networking-security-essentials-143705/</loc><lastmod>2026-06-05T17:38:46.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/encore-inside-cloud-networking-bdb221/</loc><lastmod>2026-05-26T11:00:00.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/vector-ai-supporting-features-what-s-new-in-oracle-exadata-and-goldengate-c72e11/</loc><lastmod>2026-04-22T16:29:45.000Z</lastmod></url>
@@ -112,27 +135,4 @@
   <url><loc>https://oracle-university.com/stories/the-importance-of-data-and-continuous-learning-111f6c/</loc><lastmod>2024-10-01T16:23:48.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/unrestricted-parallel-dmls-and-direct-loads-ac305f/</loc><lastmod>2024-10-01T11:00:00.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/true-cache-6a960d/</loc><lastmod>2024-09-24T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/enhancements-in-sql-plan-management-securefiles-lob-write-performance-and-column-width-a309fc/</loc><lastmod>2024-09-17T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/hybrid-columnar-compression-fast-ingest-a4b392/</loc><lastmod>2024-09-10T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfall-f2dc7e/</loc><lastmod>2024-09-03T12:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/time-data-handling-data-storage-91f274/</loc><lastmod>2024-09-03T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/database-sharding-part-2-5face7/</loc><lastmod>2024-08-27T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/database-sharding-part-1-e6309a/</loc><lastmod>2024-08-20T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/database-security-part-2-ef77d6/</loc><lastmod>2024-08-13T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/database-security-part-1-b4c13f/</loc><lastmod>2024-08-06T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/blockchain-tables-a4f246/</loc><lastmod>2024-07-30T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/database-essentials-027d69/</loc><lastmod>2024-07-23T14:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/container-engine-for-kubernetes-security-practices-26ab8f/</loc><lastmod>2024-07-16T14:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3/</loc><lastmod>2024-07-09T14:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/working-with-oke-virtual-nodes-f5a370/</loc><lastmod>2024-07-02T14:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/introduction-to-oci-container-engine-for-kubernetes-ba41d7/</loc><lastmod>2024-06-25T14:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/basics-of-kubernetes-23e26c/</loc><lastmod>2024-06-18T14:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-cloud-infrastructure-registry-f9ffa9/</loc><lastmod>2024-06-11T14:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/what-is-containerization-0326f4/</loc><lastmod>2024-06-04T14:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/encore-episode-oci-ai-services-5e7f50/</loc><lastmod>2024-05-28T14:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/encore-episode-generative-ai-and-large-language-models-3144c9/</loc><lastmod>2024-05-14T14:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/encore-episode-deep-learning-fe981b/</loc><lastmod>2024-05-07T14:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/encore-episode-machine-learning-ee26a4/</loc><lastmod>2024-04-30T14:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/encore-episode-introduction-to-artificial-intelligence-ai-9e755a/</loc><lastmod>2024-04-23T14:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/using-ords-to-make-your-adb-data-available-in-vbs-061acb/</loc><lastmod>2024-04-16T14:00:00.000Z</lastmod></url>
 </urlset>

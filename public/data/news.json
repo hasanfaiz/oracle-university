@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T23:10:37.474Z",
+  "generatedAt": "2026-09-29T00:27:13.993Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,15 +7,90 @@
   },
   "items": [
     {
-      "id": "04bf3a23906eec01",
-      "slug": "the-sequence-radar-issue-940-last-week-in-ai-opus-5-5-gets-leaner-meta-goes-wearable-was-09d455",
-      "title": "The Sequence Radar - Issue 940: Last Week in AI: Opus 5.5 Gets Leaner, Meta Goes Wearable, Washington Talks to Beijing, and Claude Explores DNA",
-      "dek": "Smarter models, wearable agents, scientific discoveries, and superpower diplomacy reveal how quickly AI is moving into the world.",
-      "url": "https://thesequence.substack.com/p/the-sequence-radar-issue-940-last",
-      "source": "Thesequence",
+      "id": "c8253b0100e857e3",
+      "slug": "oracle-integrates-with-swift-s-blockchain-ledger-for-banks-fb6d3a",
+      "title": "Oracle integrates with Swift’s blockchain ledger for banks",
+      "dek": "Oracle integrates with Swift’s blockchain ledger for banks",
+      "url": "https://ph.investing.com/news/stock-market-news/oracle-integrates-with-swifts-blockchain-ledger-for-banks-93CH-2604156",
+      "source": "Investing Philippines",
       "sourceType": "external",
-      "image": "https://substackcdn.com/image/fetch/$s_!6GY-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F888ac42e-0c0b-461c-b367-6be01605ab56_1774x887.png",
-      "publishedAt": "2026-09-27T11:02:17.000Z",
+      "image": "https://content-media.investing.com/news/oracle_2_M_1440048709.jpg",
+      "publishedAt": "2026-09-28T12:14:11.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 43
+    },
+    {
+      "id": "0f206acbf0387205",
+      "slug": "oracle-integrates-with-swift-s-blockchain-ledger-for-tokenized-deposits-654c28",
+      "title": "Oracle integrates with Swift’s blockchain ledger for tokenized deposits",
+      "dek": "Oracle integrates with Swift’s blockchain ledger for tokenized deposits",
+      "url": "https://za.investing.com/news/assorted/oracle-integrates-with-swifts-blockchain-ledger-for-tokenized-deposits-432SI-4480410",
+      "source": "Investing South Africa",
+      "sourceType": "external",
+      "image": "https://content-media.investing.com/news/oracle_2_M_1440048709.jpg",
+      "publishedAt": "2026-09-28T12:06:11.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 43
+    },
+    {
+      "id": "d779e7be4f2d4a4b",
+      "slug": "accenture-helps-combe-unify-finance-and-supply-chain-on-oracle-8b0168",
+      "title": "Accenture helps Combe unify finance and supply chain on Oracle",
+      "dek": "Accenture helps Combe unify finance and supply chain on Oracle",
+      "url": "https://ca.investing.com/news/assorted/accenture-helps-combe-unify-finance-and-supply-chain-on-oracle-432SI-4855768",
+      "source": "Investing Canada",
+      "sourceType": "external",
+      "image": "https://content-media.investing.com/news/oracle_2_M_1440048709.jpg",
+      "publishedAt": "2026-09-28T12:02:11.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 43
+    },
+    {
+      "id": "4be8345f6726bfea",
+      "slug": "new-report-trust-in-network-providers-is-holding-back-ai-and-digital-transformation-init-3d24cf",
+      "title": "New report: Trust in network providers is holding back AI and digital transformation initiatives",
+      "dek": "58% of enterprise leaders have delayed, scaled back, or introduced additional safeguards around strategic initiatives due to concerns about their network provider, according to new research from Arelion. STOCKHOLM, Sept. 28, 2026 /PRNewswire/ -- A new report from Arelion reveals that...",
+      "url": "https://www.prnewswire.com/news-releases/new-report-trust-in-network-providers-is-holding-back-ai-and-digital-transformation-initiatives-302889641.html",
+      "source": "Pr Newswire",
+      "sourceType": "external",
+      "image": "https://mmx.prnewswire.com/media/MS600843/Arelion-Logo.jpg?id=OA2970148&p=original",
+      "publishedAt": "2026-09-28T12:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "mrr",
+        "svy"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "48e6b8837e1fa6c5",
+      "slug": "fincadia-advisors-investment-funds-invest-50-million-in-positron-ai-s-875-million-series-4aa852",
+      "title": "Fincadia Advisors’ Investment Funds Invest $50 Million in Positron AI’s $875 Million Series C and C-1 Financing",
+      "dek": "FCP Venture X LLC Series XV and FCP Venture X QP LLC Series XXI (together, the “Series”), each a separate series of a Delaware series limited liability company advised by Fincadia Advisors LLC (“Fincadia Advisors”), an investment adviser registered with the Securities and Exchange Commission, today ",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-9-28-fincadia-advisors-investment-funds-invest-50-million-in-positron-ais-875-million-series-c-and-c-1-financing",
+      "source": "Financialcontent",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-28T12:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "f984a2578f90f782",
+      "slug": "accenture-edge-helps-combe-unify-its-global-operations-setting-the-stage-for-ai-powered--39fe75",
+      "title": "Accenture Edge Helps Combe Unify its Global Operations, Setting the Stage for AI-Powered Growth with Oracle Fusion Applications",
+      "dek": "Accenture (NYSE: ACN), through its Accenture Edge business, has collaborated with Combe, Inc., a global, family-owned, consumer products company behind trusted personal care brands such as Just For Men, Vagisil, Astroglide and Virtue, to complete a global transformation of its core finance and suppl",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-9-28-accenture-edge-helps-combe-unify-its-global-operations-setting-the-stage-for-ai-powered-growth-with-oracle-fusion-applications",
+      "source": "Financialcontent",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-28T11:59:00.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
         "AI"
@@ -23,164 +98,443 @@
       "priority": 43
     },
     {
-      "id": "7507eb6668dd7176",
-      "slug": "why-saudi-arabia-joined-top-four-fastest-growing-ai-data-centre-markets-791bce",
-      "title": "Why Saudi Arabia joined top four fastest-growing AI data centre markets",
-      "dek": "Saudi Arabia has emerged as one of the fastest-expanding digital infrastructure hubs globally, securing joint fourth position worldwide alongside Finland for live IT power growth with a 57 percent increase since 2024, driven by aggressive national digital transformation programs and soaring demand f",
-      "url": "https://me.mashable.com/tech/76526/why-saudi-arabia-joined-top-four-fastest-growing-ai-data-centre-markets",
-      "source": "Mashable Me",
+      "id": "3179ae1baf02ff1e",
+      "slug": "jaggaer-named-a-leader-in-the-idc-marketscape-worldwide-ai-enabled-direct-spend-2026-ven-adf6f9",
+      "title": "Jaggaer Named a Leader in the IDC MarketScape: Worldwide AI-Enabled Direct Spend 2026 Vendor Assessment",
+      "dek": "Jaggaer, a leading AI-powered enterprise Source-To-Pay and Procurement software platform has been positioned in the Leaders Category of the IDC MarketScape: Worldwide AI-Enabled Direct Spend 2026 Vendor Assessment (#US54900426, September 2026). The report notes that: “Beyond integration, Jaggaer lea",
+      "url": "https://salestechstar.com/predictive-ai-artificial-intelligence/jaggaer-named-a-leader-in-the-idc-marketscape-worldwide-ai-enabled-direct-spend-2026-vendor-assessment/",
+      "source": "Salestech Star",
       "sourceType": "external",
-      "image": "https://sm.mashable.com/mashable_me/article/o/oregons-da/oregons-data-centers-use-almost-25-of-the-states-power-repor_985f.jpg",
-      "publishedAt": "2026-09-27T09:58:21.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "tech",
-        "digital",
-        "servers",
-        "post",
-        "growth",
-        "saudi arabia"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "13fb68d744c4b38c",
-      "slug": "devialet-debuts-devialet-phantom-ultimate-98-db-pulse-blue-fronted-by-isack-hadjar-e3a1a5",
-      "title": "Devialet Debuts Devialet Phantom Ultimate 98 dB – Pulse Blue, Fronted by Isack Hadjar.",
-      "dek": "[[{\"type\":\"media\",\"view_mode\":\"media_large\",\"fid\":\"38948\",\"attributes\":{\"alt\":\"\",\"class\":\"media-image\",\"typeof\":\"foaf:Image\"}}]]Fronting the campaign is Devialet Global Brand Ambassador Isack Hadjar, Formula 1® driver for Oracle Red Bull Racing. Together, they relentlessly pursue excellence where pe",
-      "url": "http://www.techtree.com/content/news/16097/devialet-debuts-devialet-phantom-ultimate-98-db-pulse-blue-fronted-isack-hadjar",
-      "source": "Techtree",
-      "sourceType": "external",
-      "image": "https://www.techtree.com/sites/default/files/styles/large/public/deviat.png?itok=LUtpHd_U",
-      "publishedAt": "2026-09-27T09:45:58.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "devialet"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "aef58e5804ab6aa7",
-      "slug": "oracle-nyse-orcl-stock-falls-1-7-should-you-sell-c8a145",
-      "title": "Oracle (NYSE:ORCL) Stock Falls 1.7% – Should You Sell?",
-      "dek": "Oracle Corporation (NYSE:ORCL – Get Free Report)’s stock price was down 1.7% during mid-day trading on Friday. The stock traded as low as $136.92 and last traded at $137.1750. 22,732,095 shares were traded during trading, a decline of 23% from the average daily volume of 29,419,383 shares. The stock",
-      "url": "https://www.defenseworld.net/2026/09/27/oracle-nyseorcl-stock-falls-1-7-should-you-sell.html",
-      "source": "Defenseworld Net",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-09-27T09:01:30.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "price articles",
-        "companies"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "f7acf13f4488c05c",
-      "slug": "what-will-micron-s-gross-margin-guide-be-e05b48",
-      "title": "What Will Micron's Gross Margin Guide Be?",
-      "dek": "Sara Awad from Tech Contrarians gives a preview of Micron's earnings and updates on other tech names.",
-      "url": "https://seekingalpha.com/article/4949887-what-will-microns-gross-margin-guide-be",
-      "source": "Seeking Alpha",
-      "sourceType": "external",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1689227296/image_1689227296.jpg?io=getty-c-w1280",
-      "publishedAt": "2026-09-27T09:00:00.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "f:ca",
-        "nvda:ca",
-        "tsm",
-        "amd:ca",
-        "sa team",
-        "msft"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "7bbc533c13c1ea90",
-      "slug": "are-you-software-engineer-paying-long-term-emis-techie-warns-this-amid-ai-layoffs-e46fd5",
-      "title": "Are You Software Engineer Paying Long-Term EMIs? Techie Warns This Amid AI Layoffs",
-      "dek": "A software engineer has cautioned tech professionals against taking heavy, long-term EMIs amid growing concerns over AI-driven job disruption. Princi Vershwal said current salaries may not remain stable over a 15-year loan tenure as AI reshapes coding and development roles. She urged workers to cons",
-      "url": "https://www.latestly.com/technology/are-you-software-engineer-paying-long-term-emis-techie-warns-this-amid-ai-layoffs-7622491.html",
-      "source": "Latestly",
-      "sourceType": "external",
-      "image": "https://st1.latestly.com/wp-content/uploads/2026/01/1-794766706.jpg",
-      "publishedAt": "2026-09-27T07:56:37.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "software engineering jobs",
-        "future of software engineering",
-        "ai and employment",
-        "software developer jobs",
-        "ai impact on software engineers",
-        "tech professionals loans"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "17202fd1b99acb3a",
-      "slug": "tempo-software-chief-product-officer-kevin-nanney-to-deliver-keynote-speech-at-reuters-m-728fe7",
-      "title": "Tempo Software Chief Product Officer Kevin Nanney to Deliver Keynote Speech at Reuters Momentum AI Conference",
-      "dek": "AUSTIN, Texas--(Business Wire/Korea Newswire)--AI spending is showing up in enterprise budgets, but its impact on business priorities is harder to see. At this year‘s Reuters Momentum AI Conference, Tempo Software ’s Chief Product Officer Kevin Na...",
-      "url": "https://www.newswire.co.kr/newsRead.php?no=1043432&sourceType=rss",
-      "source": "Newswire",
-      "sourceType": "external",
-      "image": "https://file.newswire.co.kr/data/upfile/company_img/thumb_480/2026/08/1028147215_20260826150818_4120240753.jpg",
-      "publishedAt": "2026-09-27T05:30:00.000Z",
+      "image": "https://salestechstar.com/wp-content/uploads/2026/09/SalesTech-Series-10-2.jpg",
+      "publishedAt": "2026-09-28T11:38:48.000Z",
       "topic": "Applications & NetSuite",
+      "tags": [
+        "ai-powered enterprise",
+        "andrew roszko",
+        "salestech",
+        "news",
+        "sales technology",
+        "salestech technology"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "b582388ec49a7e91",
+      "slug": "small-language-model-market-research-explores-growth-within-a-22-45-billion-opportunity-df270b",
+      "title": "Small Language Model Market Research Explores Growth Within A $22.45 Billion Opportunity",
+      "dek": "The small language model market is witnessing impressive expansion, driven by advancements in AI technology and increasing industry adoption. This sector is rapidly evolving, with numerous innovations shaping its future trajectory. Below is a detailed analysis of the market size,",
+      "url": "https://www.openpr.com/news/4645906/small-language-model-market-research-explores-growth-within",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/9/L928356134_k.jpg",
+      "publishedAt": "2026-09-28T11:13:33.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "new media & software",
+        "it"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "26a3334d009806be",
+      "slug": "system-of-insight-market-report-examines-leading-companies-and-growth-opportunities-4e8900",
+      "title": "System of Insight Market Report Examines Leading Companies And Growth Opportunities",
+      "dek": "The system of insight market has rapidly evolved in recent years, gaining significant attention due to technological advancements and growing enterprise needs. With the increasing focus on data-driven decision-making, this sector is poised for remarkable expansion. Let's explore the current",
+      "url": "https://www.openpr.com/news/4645884/system-of-insight-market-report-examines-leading-companies",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/9/L928879474_k.jpg",
+      "publishedAt": "2026-09-28T11:09:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "new media & software",
+        "it"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "7db863f5ed156c48",
+      "slug": "supply-chain-security-market-demonstrates-long-term-growth-potential-at-9-3-cagr-313bf7",
+      "title": "Supply Chain Security Market Demonstrates Long-Term Growth Potential At 9.3% CAGR",
+      "dek": "The supply chain security sector has become increasingly vital as global trade expands and supply networks grow more complex. Safeguarding these extensive supply chains from theft, fraud, and cyber threats is now a top priority for many industries. Let's explore",
+      "url": "https://www.openpr.com/news/4645873/supply-chain-security-market-demonstrates-long-term-growth",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/9/L928162718_k.jpg",
+      "publishedAt": "2026-09-28T11:06:22.000Z",
+      "topic": "Security",
+      "tags": [
+        "new media & software",
+        "it"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "35db9907f81af21a",
+      "slug": "google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign-f82ec9",
+      "title": "Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign",
+      "dek": "The extortion group has modified its exploit in new attacks targeting the PeopleSoft vulnerability CVE-2026-35273. The post Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign appeared first on SecurityWeek .",
+      "url": "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/",
+      "source": "Securityweek",
+      "sourceType": "external",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Oracle-PeopleSoft.jpeg",
+      "publishedAt": "2026-09-28T10:56:46.000Z",
+      "topic": "Security",
+      "tags": [
+        "vulnerabilities",
+        "oracle peoplesoft",
+        "vulnerability",
+        "shinyhunters",
+        "cybercrime"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "a42328571af79431",
+      "slug": "dbhawk-extends-zero-trust-database-access-to-ai-agents-with-hawk-ai-mcp-server-eea336",
+      "title": "DBHawk Extends Zero Trust Database Access to AI Agents with Hawk AI MCP Server",
+      "dek": "/PRNewswire-PRWeb/ -- San Diego–based Datasparc has added two artificial-intelligence capabilities to DBHawk, its Zero Trust database security and access...",
+      "url": "https://www.prweb.com/releases/dbhawk-extends-zero-trust-database-access-to-ai-agents-with-hawk-ai-mcp-server-302889148.html",
+      "source": "Prweb",
+      "sourceType": "external",
+      "image": "https://mmx.prnewswire.com/media/MS1995391/DBHawk-MCP-Sever.jpg?id=OA2968303",
+      "publishedAt": "2026-09-28T10:31:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "data analytics",
+        "artificial intelligence",
+        "cloud computing internet of things",
+        "high tech security",
+        "new products & services",
+        "computer & electronics"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "45aa095c215a7425",
+      "slug": "master-data-management-market-size-to-reach-us-50-76-billion-by-2035-as-ai-driven-data-g-97d1da",
+      "title": "Master Data Management Market Size to Reach US$ 50.76 Billion by 2035 as AI-Driven Data Governance Accelerates",
+      "dek": "According to DataM Intelligence, the global master data management market size was valued at US$ 17.4 billion in 2025 and is projected to reach US$ 50.76 billion by 2035, registering a CAGR of 11.3% during the forecast period 2026-2035. Demand",
+      "url": "https://www.openpr.com/news/4645628/master-data-management-market-size-to-reach-us-50-76-billion",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/9/L928560883_k.jpg",
+      "publishedAt": "2026-09-28T09:41:25.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "new media & software",
+        "it"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "686188ae5b768725",
+      "slug": "nasdaq-s-p-500-futures-fall-as-oil-spikes-on-trump-s-snub-to-iran-mu-nvda-skhy-spcx-nio--e328f2",
+      "title": "Nasdaq, S&P 500 Futures Fall As Oil Spikes On Trump’s Snub To Iran: MU, NVDA, SKHY, SPCX, NIO Stocks In Focus",
+      "dek": "Retail traders are heading into a data-heavy week with bullish sentiment on SPY and QQQ.",
+      "url": "https://newsable.asianetnews.com/markets/nasdaq-s-p-500-futures-fall-as-oil-spikes-on-trump-s-snub-to-iran-mu-nvda-skhy-spcx-nio-stocks-in-focus-articleshow-firr8q3",
+      "source": "Asianet Newsable",
+      "sourceType": "external",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-e7d7919b-ddbe-4077-b6df-c89810cf0830.webp",
+      "publishedAt": "2026-09-28T09:40:01.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "markets"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "366980044f357f0a",
+      "slug": "react-native-database-choosing-the-right-database-for-your-react-native-app-d96866",
+      "title": "React Native Database – Choosing the right database for your React Native app",
+      "dek": "Learn how to select the right local Database for your React Native Application. A comparison study of Realm, Core Data, SQLite, Async Storage, and PouchDB.",
+      "url": "https://www.simform.com/blog/react-native-database-selection-guide/",
+      "source": "Simform",
+      "sourceType": "external",
+      "image": "https://www.simform.com/wp-content/uploads/2017/11/reactnative_databases.png",
+      "publishedAt": "2026-09-28T09:18:14.000Z",
+      "topic": "AI & Database",
+      "tags": [],
+      "priority": 41
+    },
+    {
+      "id": "72d51c36321646e4",
+      "slug": "database-migration-what-it-is-understanding-needs-and-challenges-24897a",
+      "title": "Database Migration – What It Is, Understanding Needs, and Challenges",
+      "dek": "Database migration is essential for companies in order to move company data to a single place. Read about what it is and how it works.",
+      "url": "https://www.simform.com/blog/database-migration/",
+      "source": "Simform",
+      "sourceType": "external",
+      "image": "https://www.simform.com/wp-content/uploads/2020/02/Database-Migration.jpg",
+      "publishedAt": "2026-09-28T09:16:37.000Z",
+      "topic": "AI & Database",
+      "tags": [],
+      "priority": 41
+    },
+    {
+      "id": "5585800a3114e9dc",
+      "slug": "how-does-database-migration-work-ultimate-checklist-e6cbcb",
+      "title": "How does Database Migration Work? [Ultimate Checklist]",
+      "dek": "Checklist for database migration process, best practices, migration strategy, to perform seamless migration for any application.",
+      "url": "https://www.simform.com/blog/checklist-database-migration-steps/",
+      "source": "Simform",
+      "sourceType": "external",
+      "image": "https://www.simform.com/wp-content/uploads/2020/04/Database-Migration-Preview.png",
+      "publishedAt": "2026-09-28T09:16:18.000Z",
+      "topic": "AI & Database",
+      "tags": [],
+      "priority": 41
+    },
+    {
+      "id": "93d57012a85a558d",
+      "slug": "automatic-call-distribution-system-how-to-leverage-it-for-a-contact-center-130d82",
+      "title": "Automatic Call Distribution System: How to Leverage it for a Contact Center?",
+      "dek": "This blog explains Automatic Call Distribution System, how ACD system in call centers can improve customer experience, and list of top ACD software providers.",
+      "url": "https://www.simform.com/blog/automatic-call-distribution-system/",
+      "source": "Simform",
+      "sourceType": "external",
+      "image": "https://www.simform.com/wp-content/uploads/2020/11/ACD-System.png",
+      "publishedAt": "2026-09-28T09:15:25.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [],
+      "priority": 41
+    },
+    {
+      "id": "0e529b53baa0a958",
+      "slug": "flask-vs-django-10-must-know-criteria-for-comparison-of-python-frameworks-e70419",
+      "title": "Flask vs Django – 10 Must-Know Criteria for Comparison of Python Frameworks",
+      "dek": "Read this blog to explore a detailed comparison of popular Python frameworks, Flask vs Django. Know when to use them, their performance, scalability & more.",
+      "url": "https://www.simform.com/blog/flask-vs-django/",
+      "source": "Simform",
+      "sourceType": "external",
+      "image": "https://www.simform.com/wp-content/uploads/2021/02/Flask-vs-Django-Preview.jpg",
+      "publishedAt": "2026-09-28T09:14:21.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 41
+    },
+    {
+      "id": "c6c1d358969391b8",
+      "slug": "django-vs-laravel-the-most-analytical-breakdown-to-determine-the-better-framework-e1df86",
+      "title": "Django vs Laravel: The Most Analytical Breakdown To Determine The Better Framework",
+      "dek": "Get to the end of the Django vs Laravel debate by judging the two backend frameworks against parameters such as scalability, testability, etc.",
+      "url": "https://www.simform.com/blog/django-vs-laravel/",
+      "source": "Simform",
+      "sourceType": "external",
+      "image": "https://www.simform.com/wp-content/uploads/2021/02/Django-vs-Laravel-Preview-1-1.jpg",
+      "publishedAt": "2026-09-28T09:14:19.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 41
+    },
+    {
+      "id": "8b8534745c858f29",
+      "slug": "laravel-vs-php-dissecting-the-backend-frameworks-in-detail-26b38c",
+      "title": "Laravel vs PHP: Dissecting The Backend Frameworks in Detail!",
+      "dek": "Choose Laravel, the automated web templating framework, or PHP, the pre-written script framework, after comparing all key metrics’ and differences.",
+      "url": "https://www.simform.com/blog/laravel-vs-php/",
+      "source": "Simform",
+      "sourceType": "external",
+      "image": "https://www.simform.com/wp-content/uploads/2021/02/Preview-Laravel-vs-PHP.jpg",
+      "publishedAt": "2026-09-28T09:14:16.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 41
+    },
+    {
+      "id": "20541afdd0543ec5",
+      "slug": "nodejs-vs-ruby-on-rails-a-deep-dive-into-backend-frameworks-5b0f2a",
+      "title": "Nodejs vs Ruby on Rails: A Deep Dive Into Backend Frameworks",
+      "dek": "We tackle the Nodejs vs Ruby on Rails by comparing the two backend frameworks against parameters such as scalability, performance, and many more.",
+      "url": "https://www.simform.com/blog/nodejs-vs-ruby-on-rails/",
+      "source": "Simform",
+      "sourceType": "external",
+      "image": "https://www.simform.com/wp-content/uploads/2021/02/Nodejs-vs-ruby-preview.png",
+      "publishedAt": "2026-09-28T09:14:15.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 41
+    },
+    {
+      "id": "4924de45b2dfafef",
+      "slug": "comparing-nodejs-vs-java-your-backend-tech-stacks-explained-ecdd52",
+      "title": "Comparing Nodejs vs Java: Your Backend Tech Stacks Explained",
+      "dek": "Nodejs vs Java comparison based on crucial parameters such as app architecture, app size, modularity, performance, UX, community and more.",
+      "url": "https://www.simform.com/blog/nodejs-vs-java/",
+      "source": "Simform",
+      "sourceType": "external",
+      "image": "https://www.simform.com/wp-content/uploads/2021/02/Nodejs-vs-Java-preview.jpg",
+      "publishedAt": "2026-09-28T09:14:02.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "technology comparison"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "e4cdde910d6acee1",
+      "slug": "how-to-have-security-nightmare-free-application-modernization-3be168",
+      "title": "How to Have “Security Nightmare-Free” Application Modernization?",
+      "dek": "Find out what security constraints may stand between you and a successfully modernized application, along with their solutions.",
+      "url": "https://www.simform.com/blog/security-in-application-modernization/",
+      "source": "Simform",
+      "sourceType": "external",
+      "image": "https://www.simform.com/wp-content/uploads/2023/02/security-in-application-modernization.png",
+      "publishedAt": "2026-09-28T09:07:08.000Z",
+      "topic": "Security",
+      "tags": [
+        "Security"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "86630f62b1e4b451",
+      "slug": "how-to-develop-hipaa-compliant-mobile-application-step-by-step-guide-4e3296",
+      "title": "How to Develop HIPAA-Compliant Mobile Application: Step-by-Step Guide",
+      "dek": "Discover the critical steps for developing a HIPAA-compliant mobile app that ensures robust data security and adherence to healthcare privacy rules.",
+      "url": "https://www.simform.com/blog/hipaa-compliant-app-development/",
+      "source": "Simform",
+      "sourceType": "external",
+      "image": "https://www.simform.com/wp-content/uploads/2024/05/HIPAA-Compliant-App-Development.png",
+      "publishedAt": "2026-09-28T09:04:19.000Z",
+      "topic": "Security",
+      "tags": [
+        "Security"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "31f46d51597d8ee2",
+      "slug": "top-16-ai-ml-engineering-companies-8a4cb8",
+      "title": "Top 16 AI/ML Engineering Companies",
+      "dek": "Verified client ratings and technical analysis of 16 AI/ML engineering companies, with practical guidance on how to evaluate production expertise, compliance maturity, and cost transparency.",
+      "url": "https://www.simform.com/blog/top-ai-ml-engineering-companies/",
+      "source": "Simform",
+      "sourceType": "external",
+      "image": "https://www.simform.com/wp-content/uploads/2026/06/Simform-og-logo.png",
+      "publishedAt": "2026-09-28T09:02:09.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "AI"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "1a36f946b3ceef69",
+      "slug": "your-semantic-layer-costs-more-to-replace-than-your-data-warehouse-82ec21",
+      "title": "Your Semantic Layer Costs More to Replace Than Your Data Warehouse",
+      "dek": "See how semantic layer strategy shapes AI readiness metric governance and portability across modern data platforms",
+      "url": "https://www.simform.com/blog/your-semantic-layer-costs-more-to-replace-than-your-data-warehouse/",
+      "source": "Simform",
+      "sourceType": "external",
+      "image": "https://www.simform.com/wp-content/uploads/2026/06/Simform-og-logo.png",
+      "publishedAt": "2026-09-28T09:00:28.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "baa388b24c814739",
+      "slug": "uipath-enhances-and-strengthens-uipath-platformtm-22a280",
+      "title": "Uipath Enhances And Strengthens Uipath Platformtm",
+      "dek": "(MENAFN - Mid-East Info) Updates to governance, data, integration, and agent deployment keep enterprise automation inside customer-defined boundaries. Borderless Finance. AI-Native. Your digital ...",
+      "url": "https://menafn.com/1111726147/Uipath-Enhances-And-Strengthens-Uipath-Platformtm",
+      "source": "Menafn",
+      "sourceType": "external",
+      "image": "https://menafn.com/updates/pr/2026-09/28/MI_29912image_story.png",
+      "publishedAt": "2026-09-28T08:31:39.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "AI"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "8743db59b632c583",
+      "slug": "uipath-enhances-and-strengthens-uipath-platform-9d7360",
+      "title": "UiPath Enhances and Strengthens UiPath Platform",
+      "dek": "UiPath, Inc. today announced updated and enhanced capabilities across the UiPath Platform™. Enterprise automation programs typically stall for three reasons: building new automations runs through a queue of developer capacity, legacy applications and on-prem databases sit outside what the platform c",
+      "url": "https://cxotoday.com/media-coverage/uipath-enhances-and-strengthens-uipath-platform/",
+      "source": "Cxotoday",
+      "sourceType": "external",
+      "image": "https://cxotoday.com/wp-content/uploads/2025/04/UiPath-300x152.png",
+      "publishedAt": "2026-09-28T07:41:44.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "media coverage",
+        "uipath"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "0fbe4d6cdb1f6c0b",
+      "slug": "ai4bt-global-summit-concludes-with-focus-on-enterprise-ai-transformation-1fd15b",
+      "title": "AI4BT Global Summit concludes with focus on enterprise AI transformation",
+      "dek": "The three-day virtual AI4BT Global Summit 2026 concluded on Sunday (27 September), bringing together global and Bangladeshi experts to discuss AI-driven enterprise transformation, organisational readiness, executive training, the future of Enterprise Resource Planning (ERP), and cybersecurity. Held ",
+      "url": "https://www.tbsnews.net/economy/corporates/ai4bt-global-summit-concludes-focus-enterprise-ai-transformation-1555976",
+      "source": "The Business Standard",
+      "sourceType": "external",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2026/09/28/a1f76dd6-6257-456a-bb79-d187cb57d6e6_16x9_1.png",
+      "publishedAt": "2026-09-28T07:15:00.000Z",
+      "topic": "Security",
       "tags": [
         "AI"
       ],
       "priority": 39
     },
     {
-      "id": "3b57684eb4c48f3b",
-      "slug": "shinyhunters-hackers-expanded-attacks-on-oracle-s-peoplesoft-google-says-db088f",
-      "title": "ShinyHunters hackers expanded attacks on Oracle’s PeopleSoft, Google says",
-      "dek": "ShinyHunters has said it accessed FBI data using a vulnerability in PeopleSoft.",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/shinyhunters-hackers-expanded-attacks-on-oracles-peoplesoft-google-says-10895753/",
-      "source": "The Indian Express",
+      "id": "21d90da19598b8f2",
+      "slug": "what-will-the-q3-earnings-season-show-afd798",
+      "title": "What will the Q3 earnings season show?",
+      "dek": "The overall setup remains very favorable as we look ahead to the Q3 earnings season. The expectation is that S&P 500 earnings will increase by +23.9% from the same period last year, the 8th straight quarter of double-digit earnings growth for the index.",
+      "url": "https://www.fxstreet.com/news/what-will-the-q3-earnings-season-show-202609280620",
+      "source": "Fxstreet",
       "sourceType": "external",
-      "image": "https://images.indianexpress.com/2025/08/Data.jpg",
-      "publishedAt": "2026-09-27T04:01:59.000Z",
-      "topic": "Security",
+      "image": "https://editorial.fxsstatic.com/images/i/nvidia-02.jpg",
+      "publishedAt": "2026-09-28T06:20:32.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "technology",
-        "tech"
+        "Earnings"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "7c1be19f75e1f0c4",
+      "slug": "reviewing-nebius-group-nasdaq-nbis-and-rimini-street-nasdaq-rmni-e24cf2",
+      "title": "Reviewing Nebius Group (NASDAQ:NBIS) and Rimini Street (NASDAQ:RMNI)",
+      "dek": "Rimini Street (NASDAQ:RMNI – Get Free Report) and Nebius Group (NASDAQ:NBIS – Get Free Report) are both technology companies, but which is the superior stock? We will compare the two businesses based on the strength of their institutional ownership, earnings, valuation, analyst recommendations, divi",
+      "url": "https://www.defenseworld.net/2026/09/28/reviewing-nebius-group-nasdaqnbis-and-rimini-street-nasdaqrmni.html",
+      "source": "Defenseworld Net",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/nebius-group-nv-logo-1200x675.png?v=20250520081305",
+      "publishedAt": "2026-09-28T05:15:01.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "companies",
+        "comparison articles"
       ],
       "priority": 38
     },
     {
-      "id": "c338c4a26a4a7c43",
-      "slug": "oracle-stock-price-prediction-137-now-205-bull-98-bear-079712",
-      "title": "Oracle Stock Price Prediction: $137 Now, $205 Bull, $98 Bear",
-      "dek": "The Oracle stock price prediction problem right now is not that the AI story broke. It is that the single number holding the bull case together, a $664 billion remaining performance obligation, is also the number holding the bear case together. Oracle closed at $137.10 on 25 September 2026, down 56.",
-      "url": "https://etf-alerts.com/2026/09/27/oracle-stock-price-prediction-137-now-205-bull-98-bear/",
-      "source": "Etf Alerts",
+      "id": "7e569f5ca829430f",
+      "slug": "java-news-roundup-tornadovm-7-0-groovy-6-0-graalvm-hibernate-quarkus-gradle-maven-d08c33",
+      "title": "Java News Roundup: TornadoVM 7.0, Groovy 6.0, GraalVM, Hibernate, Quarkus, Gradle, Maven",
+      "dek": "This week's Java roundup for September 21st, 2026, features news highlighting: GA releases of TornadoVM 7.0 and Groovy 6.0; point releases of GraalVM and Gradle; maintenance releases of Quarkus and GDK for Micronaut; the seventh release candidate of Maven 4.0; milestone releases of Micrometer Metric",
+      "url": "https://www.infoq.com/news/2026/09/java-news-roundup-sep21-2026/",
+      "source": "Information Queue",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-09-27T00:41:24.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://res.infoq.com/news/2026/09/java-news-roundup-sep21-2026/en/headerimage/java-news-roundup-image-1790515735386.jpg",
+      "publishedAt": "2026-09-28T02:30:00.000Z",
+      "topic": "Java & MySQL",
       "tags": [
-        "stock"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "dd54c8f64c5f2927",
-      "slug": "comparing-globant-nyse-glob-and-fujitsu-otcmkts-fjtsy-784bad",
-      "title": "Comparing Globant (NYSE:GLOB) and Fujitsu (OTCMKTS:FJTSY)",
-      "dek": "Fujitsu (OTCMKTS:FJTSY – Get Free Report) and Globant (NYSE:GLOB – Get Free Report) are both technology companies, but which is the superior business? We will compare the two businesses based on the strength of their valuation, profitability, earnings, dividends, institutional ownership, analyst rec",
-      "url": "https://baseballnewssource.com/2026/09/26/comparing-globant-nyseglob-and-fujitsu-otcmktsfjtsy/11279419.html",
-      "source": "Bbns",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/globant-sa-logo-1200x675.png?v=20240202075256",
-      "publishedAt": "2026-09-27T00:14:55.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "comparison articles",
-        "markets"
+        "development",
+        "news",
+        "tornadovm",
+        "groovy",
+        "open liberty",
+        "jakarta ee"
       ],
       "priority": 36
     },
@@ -1610,379 +1964,6 @@
         "Oracle Database",
         "MySQL"
       ],
-      "priority": 36
-    },
-    {
-      "id": "6764e4ce38b290ce",
-      "slug": "enhancements-in-sql-plan-management-securefiles-lob-write-performance-and-column-width-a309fc",
-      "title": "Enhancements in SQL Plan Management, SecureFiles LOB Write Performance, and Column Width",
-      "dek": "Join Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they discuss how the new Automatic SQL Plan Management feature in Oracle Database 23ai improves performance consistency and simplifies management. Then, Senior Principal Database & MySQL ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/enhancements-in-sql-plan-management-securefiles-lob-write-performance-and-column-width",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP8.mp3?dest-id=3870039",
-      "publishedAt": "2024-09-17T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Oracle Database",
-        "MySQL",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "7fc0f877b6c48593",
-      "slug": "hybrid-columnar-compression-fast-ingest-a4b392",
-      "title": "Hybrid Columnar Compression & Fast Ingest",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with Senior Principal Database & MySQL Instructor Bill Millar about the enhanced performance of Hybrid Columnar Compression, the different compression levels, and how to achieve the best compression for your tables. Then, they delve into F",
-      "url": "https://oracleuniversitypodcast.libsyn.com/hybrid-columnar-compression-fast-ingest",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP7.mp3?dest-id=3870039",
-      "publishedAt": "2024-09-10T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "MySQL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "028f55b53f871be3",
-      "slug": "the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfall-f2dc7e",
-      "title": "The ethics of AI in Academia. Benefits and promise of AI. What should you consider? Pitfalls to avoid?",
-      "dek": "In this episode host Oracle Academy manager Tyra Peirce speaks with Mary Olson Industry Executive Director, Education at Oracle. Tyra and Mary speak about the ethics of AI in education and give practical advice on how to best use the technology while avoiding common pitfalls. -----------------------",
-      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfalls-to-avoid",
-      "source": "Oracle Academy Tech Chat",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP01.mp3?dest-id=3949203",
-      "publishedAt": "2024-09-03T12:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "954fb77f408fd5ab",
-      "slug": "time-data-handling-data-storage-91f274",
-      "title": "Time & Data Handling & Data Storage",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham discuss improvements in time and data handling and data storage in Oracle Database 23ai. They are joined by Senior Principal Instructor Serge Moiseev, who explains the benefit of allowing databases to have their own time zones, separate from the",
-      "url": "https://oracleuniversitypodcast.libsyn.com/time-data-handling-data-storage",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-09-03T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "Oracle Database"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "a1c4f2cadb715947",
-      "slug": "database-sharding-part-2-5face7",
-      "title": "Database Sharding: Part 2",
-      "dek": "Join hosts Lois Houston and Nikita Abraham in Part 2 of the discussion on database sharding with Ron Soltani, a Senior Principal Database & Security Instructor. They talk about sharding native replication, directory-based sharding, and coordinated backup and restore for sharded databases, explaining",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-sharding-part-2",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-27T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "43aa5988985c66d9",
-      "slug": "database-sharding-part-1-e6309a",
-      "title": "Database Sharding: Part 1",
-      "dek": "In this two-part episode, hosts Lois Houston and Nikita Abraham are joined by Ron Soltani, a Senior Principal Database & Security Instructor, to discuss the ins and outs of database sharding. In Part 1, they delve into the fundamentals of database sharding, including what it is and how it works, spe",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-sharding-part-1",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-20T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "119c79ecef58b62d",
-      "slug": "database-security-part-2-ef77d6",
-      "title": "Database Security: Part 2",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham continue their exploration of Oracle Database 23ai's database security capabilities. They are joined once again by Ron Soltani, a Senior Principal Database & Security Instructor, who delves into the intricacies of the new hybrid read-only mode f",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-2",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-13T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Oracle Database",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ffc09f7346e6f6b5",
-      "slug": "database-security-part-1-b4c13f",
-      "title": "Database Security: Part 1",
-      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they dive into the critical topic of database security. In the first of a two-part series on database security in Oracle Database 23ai, they discuss the importance of protecting dat",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-1",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-06T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Oracle Database",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "7c3ad34d1ff092f6",
-      "slug": "blockchain-tables-a4f246",
-      "title": "Blockchain Tables",
-      "dek": "In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham kick off a new season with a deep dive into the latest features of Oracle Database 23ai. Joined by Bill Millar, a Senior Principal Database & MySQL Instructor, they explore the new enhancements to blockchain tabl",
-      "url": "https://oracleuniversitypodcast.libsyn.com/blockchain-tables",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-30T11:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "Oracle Database",
-        "MySQL",
-        "Oracle University"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ff92a6749fa996f7",
-      "slug": "database-essentials-027d69",
-      "title": "Database Essentials",
-      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Hope Fisher, Oracle's Product Manager for Database Technologies, as they break down the basics of databases, explore different database management systems, and delve into database development. Whether you're a newcomer or just need a refresher, ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-essentials",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-23T14:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "f046bd97147c0cf8",
-      "slug": "container-engine-for-kubernetes-security-practices-26ab8f",
-      "title": "Container Engine for Kubernetes: Security Practices",
-      "dek": "In the season's final episode, hosts Lois Houston and Nikita Abraham interview senior OCI instructor Mahendra Mehra about the security practices that are vital for OKE clusters on OCI. Mahendra shares his expert insights on the importance of Kubernetes security, especially in today's digital landsca",
-      "url": "https://oracleuniversitypodcast.libsyn.com/container-engine-for-kubernetes-security-practices",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP7.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-16T14:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "OCI",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "be8b92279cd0831f",
-      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
-      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-09T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "d38db88cd3fd3cc0",
-      "slug": "working-with-oke-virtual-nodes-f5a370",
-      "title": "Working with OKE Virtual Nodes",
-      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-02T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "bd401ec004db1755",
-      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
-      "title": "Introduction to OCI Container Engine for Kubernetes",
-      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-25T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "1d3aa287378f7e71",
-      "slug": "basics-of-kubernetes-23e26c",
-      "title": "Basics of Kubernetes",
-      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
-      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-18T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ec54bf5b81f570ed",
-      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
-      "title": "Oracle Cloud Infrastructure Registry",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-11T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "OCI",
-        "Oracle Cloud Infrastructure"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "6ba1bee89c8a91cc",
-      "slug": "what-is-containerization-0326f4",
-      "title": "What is Containerization?",
-      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-04T14:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "OCI",
-        "Oracle University"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "b45e3d006fc93558",
-      "slug": "encore-episode-oci-ai-services-5e7f50",
-      "title": "Encore Episode: OCI AI Services",
-      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-28T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI",
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "57fe9154d1531745",
-      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
-      "title": "Encore Episode: Generative AI and Large Language Models",
-      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-14T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "60d141d1ef069450",
-      "slug": "encore-episode-deep-learning-fe981b",
-      "title": "Encore Episode: Deep Learning",
-      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-07T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "311a8fe7e2892283",
-      "slug": "encore-episode-machine-learning-ee26a4",
-      "title": "Encore Episode: Machine Learning",
-      "dek": "Does machine learning feel like too convoluted a topic? Not anymore! Listen to hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Hemant Gahankari, talk about foundational machine learning concepts and dive into how supervised learning, unsupervised learning, and reinf",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-machine-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-30T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "4589098868999fde",
-      "slug": "encore-episode-introduction-to-artificial-intelligence-ai-9e755a",
-      "title": "Encore Episode: Introduction to Artificial Intelligence (AI)",
-      "dek": "You probably interact with artificial intelligence (AI) more than you realize. So, there's never been a better time to start figuring out how it all works. Join Lois Houston and Nikita Abraham as they decode the fundamentals of AI so that anyone, irrespective of their technical background, can lever",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-introduction-to-artificial-intelligence-ai",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-23T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ba70f7a05b875a4b",
-      "slug": "using-ords-to-make-your-adb-data-available-in-vbs-061acb",
-      "title": "Using ORDS to Make Your ADB Data Available in VBS",
-      "dek": "Visual Builder Studio requires its data sources to connect to the webpage it produces using REST calls. Therefore, the data source has to provide a REST interface. A simple, easy, secure, and free way to do that is with Oracle REST Data Services (ORDS). In this episode, hosts Lois Houston and Nikita",
-      "url": "https://oracleuniversitypodcast.libsyn.com/using-ords-to-make-your-adb-data-available-in-vbs",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-16T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
       "priority": 36
     }
   ]
