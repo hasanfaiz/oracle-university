@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T23:48:19.794Z",
+  "generatedAt": "2026-09-30T23:59:45.591Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,385 +7,553 @@
   },
   "items": [
     {
-      "id": "f904baae48c4db1a",
-      "slug": "meta-mongodb-shares-fall-after-meta-launches-enterprise-ai-unit-700849",
-      "title": "Meta, MongoDB shares fall after Meta launches enterprise AI unit",
-      "dek": "A 91% slide in free cash flow keeps Meta's AI spending under scrutiny",
-      "url": "https://www.wealthprofessional.ca/news/industry-news/meta-mongodb-shares-fall-after-meta-launches-enterprise-ai-unit/393649",
-      "source": "Wealth Professional Canada",
-      "sourceType": "external",
-      "image": "https://cdn-res.keymedia.com/cms/images/wp/deni_639262778368549991.jpg",
-      "publishedAt": "2026-09-29T11:22:26.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "mongodb",
-        "meta",
-        "ai spending"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "f16202cbcda1cb3b",
-      "slug": "bulk-of-anthropic-s-518-billion-in-ai-build-out-commitments-cannot-be-cancelled-filing-s-8fcd74",
-      "title": "Bulk of Anthropic’s $518-billion in AI build-out commitments cannot be cancelled, filing shows",
-      "dek": "Company flags reliance on Amazon, Google and Microsoft, with which it has major deals, as a key risk",
-      "url": "https://www.theglobeandmail.com/investing/article-anthropic-ai-build-out-commitments-cannot-be-cancelled-ipo-filing/",
-      "source": "Theglobeandmail",
-      "sourceType": "external",
-      "image": "https://www.theglobeandmail.com/resizer/v2/6ZDBIDOL7JEB3FZY6XDJ7NZHDI.JPG?auth=57fb3912ece6aeca5e7f3928881411af2f67d973d471a2400fdaae0b7d4f1c82&smart=true&width=5000&height=3335",
-      "publishedAt": "2026-09-29T11:16:43.000Z",
-      "topic": "Security",
-      "tags": [
-        "globe and mail",
-        "globe and mail breaking news",
-        "canadian news",
-        "foreign news",
-        "federal government",
-        "political opinion"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "56bbcc3bdd738977",
-      "slug": "anthropic-s-518bln-ai-buildout-hinges-largely-on-deals-that-cannot-be-canceled-filing-sh-7d8d60",
-      "title": "Anthropic's $518bln AI buildout hinges largely on deals that cannot be canceled, filing shows",
-      "dek": "About 80% of commitments are payable regardless of use",
-      "url": "https://www.zawya.com/en/business/anthropics-518bln-ai-buildout-hinges-largely-on-deals-that-cannot-be-canceled-filing-shows-1392642",
-      "source": "Zawya",
-      "sourceType": "external",
-      "image": "https://media.lseg-dw.gcpp.io/prod/images/gm_preview/1dcd70e4b118-2026-09-28t231945z192208165rc29lnaogifjrtrmadp3anthropic-ipo.webp",
-      "publishedAt": "2026-09-29T11:04:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "united states",
-        "artificial intelligence",
-        "technology",
-        "infrastructure"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "c9a008401e6893f5",
-      "slug": "ai-market-must-touch-6-trillion-by-2031-annually-to-fund-infra-build-out-report-3e6026",
-      "title": "AI market must touch $6 trillion by 2031 annually to fund infra build-out: Report",
-      "dek": "Much of that value will have to come from new innovation rather than gains in employee productivity, Bain said in its 7th annual Global Technology Report",
-      "url": "https://www.thehindubusinessline.com/info-tech/ai-market-must-touch-6-trillion-by-2031-annually-to-fund-infra-build-out-report/article71523534.ece",
-      "source": "The Hindu - Business Line",
-      "sourceType": "external",
-      "image": "https://bl-i.thgim.com/public/incoming/rcycf3/article71523546.ece/alternates/LANDSCAPE_1200/iStock-1628291798.jpg",
-      "publishedAt": "2026-09-29T10:57:16.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "info-tech"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "25e2b1492dabb262",
-      "slug": "sensex-today-stock-market-highlights-stock-markets-fall-for-2nd-day-as-elevated-oil-pric-ecab9f",
-      "title": "Sensex today | Stock Market Highlights: Stock markets fall for 2nd day as elevated oil prices, foreign fund outflows weigh",
-      "dek": "Sensex, Nifty, Share Prices Highlights: Equity benchmark indices Sensex and Nifty ended lower for the second day on Tuesday as elevated crude oil prices triggered by uncertainty over the West Asia situation and foreign fund outflows weighed on investor sentiment.",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-29-september-2026/article71520150.ece",
-      "source": "The Hindu - Business Line",
-      "sourceType": "external",
-      "image": "https://bl-i.thgim.com/public/incoming/qvpax7/article71522484.ece/alternates/LANDSCAPE_1200/PO07_Market_down.jpg",
-      "publishedAt": "2026-09-29T10:46:21.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "markets"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "e4e2952fbc3d0003",
-      "slug": "warehouse-management-software-wms-market-report-examines-leading-companies-and-growth-op-197e8c",
-      "title": "Warehouse Management Software (WMS) Market Report Examines Leading Companies And Growth Opportunities",
-      "dek": "The warehouse management software (WMS) market has experienced significant growth recently, driven by the increasing complexity of warehouse operations and the need for more efficient inventory management. As businesses strive to optimize their logistics and supply chain processes, the demand",
-      "url": "https://www.openpr.com/news/4647427/warehouse-management-software-wms-market-report-examines",
+      "id": "c9249570c259ed31",
+      "slug": "nunar-reports-growing-adoption-of-ai-workflow-platform-across-logistics-and-supply-chain-e78c77",
+      "title": "Nunar Reports Growing Adoption of AI Workflow Platform Across Logistics and Supply Chain in the UAE and GCC",
+      "dek": "Nunar today reported growing adoption of its AI workflow platform among freight forwarders, customs brokers, and supply chain operators across the UAE and the Gulf Cooperation Council (GCC). The platform now supports more than 15 enterprise customers in logistics and",
+      "url": "https://www.openpr.com/news/4648626/nunar-reports-growing-adoption-of-ai-workflow-platform-across",
       "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L929986078_k.jpg",
-      "publishedAt": "2026-09-29T10:32:52.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "c877b480b2ffd53e",
-      "slug": "data-centric-security-market-to-reach-usd-57-44-billion-by-2035-as-enterprises-prioritiz-48cb41",
-      "title": "Data-Centric Security Market to Reach USD 57.44 Billion by 2035 as Enterprises Prioritize Protection of Data Across Hybrid Environments",
-      "dek": "The Data-Centric Security Market is valued at USD 10.65 Billion in 2025 and is expected to reach USD 57.44 Billion by 2035, growing at a CAGR of 16.8% during the forecast period (2026-2035). The market is shifting fast from a perimeter-focused",
-      "url": "https://www.openpr.com/news/4647330/data-centric-security-market-to-reach-usd-57-44-billion-by-2035",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L929707868_k.jpg",
-      "publishedAt": "2026-09-29T10:08:56.000Z",
-      "topic": "Security",
-      "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "01e692079bb98024",
-      "slug": "two-thirds-of-finance-teams-now-use-ai-tools-cfo-connect-survey-finds-82764a",
-      "title": "Two-thirds of finance teams now use AI tools, CFO Connect survey finds",
-      "dek": "AI is now a standard feature in finance departments, with 67% of finance teams currently using one or more AI tools, up from 56% the previous year and 31% in 2024. That is the main finding of a poll of 215 senior finance staff by CFO Connect, a community for finance leaders run by the expense manage",
-      "url": "https://thenextweb.com/news/finance-teams-ai-tools-cfo-connect-survey",
-      "source": "Tnw",
-      "sourceType": "external",
-      "image": "https://media.thenextweb.com/2026/09/hand-calculator-financial.avif",
-      "publishedAt": "2026-09-29T10:00:11.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "finance",
-        "artificial intelligence"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "9fa3480e416c2ad9",
-      "slug": "web-3-0-market-demonstrates-long-term-growth-potential-at-37-8-cagr-2b5c1a",
-      "title": "Web 3.0 Market Demonstrates Long-Term Growth Potential At 37.8% CAGR",
-      "dek": "The Web 3.0 market has been experiencing rapid expansion, driven by advancements in blockchain technology and a growing interest in decentralized digital ecosystems. As industries and consumers alike explore new ways to engage with digital assets and secure online transactions,",
-      "url": "https://www.openpr.com/news/4647293/web-3-0-market-demonstrates-long-term-growth-potential-at-37-8",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L929471396_k.jpg",
-      "publishedAt": "2026-09-29T09:54:31.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "c00646d4e1c45b20",
-      "slug": "website-personalization-artificial-intelligence-ai-market-study-explores-industry-growth-b389cd",
-      "title": "Website Personalization Artificial Intelligence (AI) Market Study Explores Industry Growth Toward $8.37 Billion",
-      "dek": "The website personalization artificial intelligence (AI) market is rapidly evolving, driven by growing digital engagement and advanced AI capabilities. As businesses increasingly seek to deliver tailored online experiences, this market is set to expand significantly. Below is an in-depth look",
-      "url": "https://www.openpr.com/news/4647291/website-personalization-artificial-intelligence-ai-market",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L929152314_k.jpg",
-      "publishedAt": "2026-09-29T09:53:44.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "95938bae198fb7e5",
-      "slug": "virtual-training-and-simulation-market-report-provides-insights-into-market-evolution-an-c80830",
-      "title": "Virtual Training And Simulation Market Report Provides Insights Into Market Evolution And Growth Prospects",
-      "dek": "The virtual training and simulation industry is experiencing remarkable growth as organizations increasingly adopt digital tools to enhance learning and operational efficiency. With rapid advancements in technology and rising demands for cost-effective, immersive training solutions, this market is s",
-      "url": "https://www.openpr.com/news/4647222/virtual-training-and-simulation-market-report-provides",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L929889350_k.jpg",
-      "publishedAt": "2026-09-29T09:05:20.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "1aff0cdfe35cba93",
-      "slug": "crypto-due-diligence-in-2026-what-to-check-before-backing-a-new-token-c1ddbe",
-      "title": "Crypto due diligence in 2026: what to check before backing a new token",
-      "dek": "Crypto investors evaluating a new project in 2026 have more information at their disposal than ever, but separating useful signals from noise remains the harder part. Price charts, social-media activity, and market narratives can show where attention is moving. They say much less about whether the p",
-      "url": "https://invezz.com/news/2026/09/29/crypto-due-diligence-in-2026-what-to-check-before-backing-a-new-token/",
-      "source": "Invezz",
-      "sourceType": "external",
-      "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/09/5-4.png",
-      "publishedAt": "2026-09-29T09:00:22.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "crypto"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "75dd6b511f9ccfab",
-      "slug": "buchanan-technologies-earns-10th-consecutive-hdi-pinnacle-of-excellence-award-33e9df",
-      "title": "Buchanan Technologies Earns 10Th Consecutive HDI Pinnacle Of Excellence Award",
-      "dek": "(MENAFN - GlobeNewsWire - Nasdaq) The award extends Buchanan's certification streak to 13 years, the longest active run among HDI's recipientsGRAPEVINE, Texas, Sept. 29, 2026 (GLOBE NEWSWIRE) -- ...",
-      "url": "https://menafn.com/1111732612/Buchanan-Technologies-Earns-10Th-Consecutive-HDI-Pinnacle-Of-Excellence-Award",
-      "source": "Menafn",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-09-29T08:35:50.000Z",
-      "topic": "Training & Certification",
+      "publishedAt": "2026-09-30T11:58:55.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "Certification"
+        "it",
+        "new media & software"
       ],
-      "priority": 41
+      "priority": 43
     },
     {
-      "id": "7389b685beee51aa",
-      "slug": "trade-management-software-market-size-share-2034-5a26da",
-      "title": "Trade Management Software Market Size, Share, 2034",
-      "dek": "(MENAFN - Straits Research) Trade Management Software Market Size & Share Analysis The global trade management software market size was valued at USD 1.30 billion in 2025 and is projected to grow ...",
-      "url": "https://menafn.com/1111732503/Trade-Management-Software-Market-Size-Share-2034",
-      "source": "Menafn",
+      "id": "eacf40a926cd0e50",
+      "slug": "top-database-solutions-for-large-datasets-and-big-data-d2acee",
+      "title": "Top Database Solutions for Large Datasets and Big Data",
+      "dek": "Explore Big Data Databases, Large Dataset Database platforms, Database Solutions, Data Warehousing tools, and Scalable Databases for massive workloads.",
+      "url": "https://www.analyticsinsight.net/ampstories/data-analytics/top-database-solutions-for-large-datasets-and-big-data",
+      "source": "Analytics And Insight",
       "sourceType": "external",
-      "image": "https://menafn.com/includes/img/logo.jpg",
-      "publishedAt": "2026-09-29T08:22:53.000Z",
+      "image": "https://media.assettype.com/analyticsinsight/2026-09-30/ubgidtqk/Top-Database-Solutions-for-Large-Datasets-and-Big-Data.jpg",
+      "publishedAt": "2026-09-30T11:50:05.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "data warehousing",
+        "scalable databases",
+        "database solutions",
+        "big data databases",
+        "large dataset database"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "e30057d371288af3",
+      "slug": "ai-in-sports-market-why-asia-pacific-is-expected-to-grow-the-fastest-5db062",
+      "title": "AI In Sports Market: Why Asia Pacific Is Expected to Grow the Fastest",
+      "dek": "The AI in sports market was worth USD 10.6 billion in 2025 and is projected to reach USD 49.9 billion by 2033, growing at a [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/09/30/1774804",
+      "source": "Express-press-release",
+      "sourceType": "external",
+      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
+      "publishedAt": "2026-09-30T11:36:51.000Z",
       "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 40
-    },
-    {
-      "id": "0ad31350e5b6891b",
-      "slug": "erp-software-market-size-share-growth-analysis-2034-39ac40",
-      "title": "ERP Software Market Size, Share, Growth, Analysis, 2034",
-      "dek": "(MENAFN - Straits Research) ERP Software Market Size Analysis The global ERP software market size was valued at USD 78.40 billion in 2025 and is projected to grow from USD 86.08 billion in 2026 to ...",
-      "url": "https://menafn.com/1111732505/ERP-Software-Market-Size-Share-Growth-Analysis-2034",
-      "source": "Menafn",
-      "sourceType": "external",
-      "image": "https://menafn.com/includes/img/logo.jpg",
-      "publishedAt": "2026-09-29T08:22:53.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [],
-      "priority": 40
-    },
-    {
-      "id": "1517afa4ce518695",
-      "slug": "why-meta-hired-india-born-chirantan-cj-desai-as-chief-platform-officer-know-about-his-hi-79f89a",
-      "title": "Why Meta Hired India-Born Chirantan 'CJ' Desai as Chief Platform Officer? Know About His History and Work",
-      "dek": "Meta has appointed former MongoDB CEO Chirantan ‘CJ’ Desai as Chief Enterprise Platform Officer to lead its new enterprise business division. Reporting to Mark Zuckerberg, Desai will oversee efforts to commercialise Meta’s AI models and tools for businesses. MongoDB has named former CEO Dev Ittycher",
-      "url": "https://www.latestly.com/technology/why-meta-hired-india-born-chirantan-cj-desai-as-chief-platform-officer-know-about-his-history-and-work-7625163.html",
-      "source": "Latestly",
-      "sourceType": "external",
-      "image": "https://st1.latestly.com/wp-content/uploads/2026/09/36-945939314.jpg",
-      "publishedAt": "2026-09-29T07:02:14.000Z",
-      "topic": "Applications & NetSuite",
       "tags": [
-        "meta enterprise ai",
-        "meta",
-        "meta enterprise business",
-        "meta artificial intelligence",
-        "enterprise ai market",
-        "mongodb leadership change"
+        "ai in sports market",
+        "ai in sports market forecasts",
+        "ai in sports market analysis",
+        "technology",
+        "ai in sports market growth",
+        "ai in sports market size"
       ],
-      "priority": 39
+      "priority": 43
     },
     {
-      "id": "a0392737f0b2c3e5",
-      "slug": "who-is-chirantan-cj-desai-why-did-mark-zuckerberg-s-meta-choose-him-to-lead-ai-platform-39c8a4",
-      "title": "Who is Chirantan CJ Desai? Why did Mark Zuckerberg's Meta choose him to lead AI platform?",
-      "dek": "Meta has appointed former MongoDB CEO Chirantan \"CJ\" Desai as Chief Enterprise Platform Officer, reporting directly to Mark Zuckerberg and leading the company's efforts to expand its AI and software services for businesses.",
-      "url": "https://www.dnaindia.com/world/report-who-is-chirantan-cj-desai-why-did-mark-zuckerberg-s-meta-choose-him-to-lead-ai-platform-3221391",
-      "source": "Dna",
+      "id": "cbb09e110ba2f67a",
+      "slug": "netapp-expands-ai-infra-push-with-gpu-optimized-storage-metadata-discovery-e95724",
+      "title": "NetApp expands AI infra push with GPU-optimized storage, metadata discovery",
+      "dek": "Sovereign controls and OCI partnership part of drive for ‘AI era’ dominance",
+      "url": "https://www.sdxcentral.com/news/netapp-expands-ai-infra-push-with-gpu-optimized-storage-metadata-discovery/",
+      "source": "Sdxcentral",
       "sourceType": "external",
-      "image": "https://cdn.dnaindia.com/sites/default/files/styles/third/public/2026/09/29/2759273-fotojet-2026-09-29t125303.081.jpg",
-      "publishedAt": "2026-09-29T06:58:00.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://media.datacenterdynamics.com/media/images/GettyImages-2042024462.2e16d0ba.fill-750x500.jpg",
+      "publishedAt": "2026-09-30T11:15:14.000Z",
+      "topic": "Oracle Cloud",
       "tags": [
-        "world"
+        "oci",
+        "ai data engine",
+        "novus",
+        "netapp keystone sovereign",
+        "ai factory",
+        "oracle cloud infrastructure"
       ],
-      "priority": 39
+      "priority": 43
     },
     {
-      "id": "7bc9df58fabf6efa",
-      "slug": "who-is-cj-desai-the-tech-veteran-leaving-mongodb-to-lead-meta-s-enterprise-ai-push-9874e1",
-      "title": "Who is CJ Desai, the tech veteran leaving MongoDB to lead Meta’s enterprise AI push?",
-      "dek": "The Indian-origin tech executive is expected to bring decades of experience at Oracle, Symantec, ServiceNow, and Cloudflare to Meta’s newly created enterprise AI division.",
-      "url": "https://indianexpress.com/article/technology/tech-news-technology/who-is-cj-desai-leaving-mongodb-meta-enterprise-ai-10898661/",
-      "source": "The Indian Express",
+      "id": "666aa9e6dad1a392",
+      "slug": "hsc-conference-seoul-sets-agenda-for-institutional-crypto-from-rwa-tokenization-to-agent-39af8c",
+      "title": "HSC Conference Seoul Sets Agenda For Institutional Crypto: From RWA Tokenization To Agentic AI Payments",
+      "dek": "HSC Conference Seoul, Oct 1: the full agenda covers institutional adoption, RWA tokenization, stablecoins, agentic AI and Web3 infrastructure. The post HSC Conference Seoul Sets Agenda For Institutional Crypto: From RWA Tokenization To Agentic AI Payments appeared first on Metaverse Post .",
+      "url": "https://mpost.io/hsc-conference-seoul-sets-agenda-for-institutional-crypto-from-rwa-tokenization-to-agentic-ai-payments/",
+      "source": "Metaverse Post",
       "sourceType": "external",
-      "image": "https://images.indianexpress.com/2026/09/Tech-featured-image4-1.jpg",
-      "publishedAt": "2026-09-29T06:32:51.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://mpost.io/wp-content/uploads/IMG_0486.jpg",
+      "publishedAt": "2026-09-30T10:52:49.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "tech",
-        "technology"
+        "technology",
+        "cryptocurrency",
+        "news report",
+        "hack seasons",
+        "featured",
+        "lifestyle"
       ],
-      "priority": 39
+      "priority": 42
     },
     {
-      "id": "8118fda3330d432a",
-      "slug": "smart-iot-modules-market-the-push-to-make-connected-equipment-easier-to-deploy-9d6b4d",
-      "title": "Smart IoT Modules Market: The Push to Make Connected Equipment Easier to Deploy",
-      "dek": "Turning connectivity into a production decision For equipment manufacturers, adding connectivity to a machine is no longer mainly a question of whether a sensor can collect data. The harder problem is getting that data securely from the machine into an application",
-      "url": "https://www.openpr.com/news/4646964/smart-iot-modules-market-the-push-to-make-connected-equipment",
+      "id": "8eb946f44d5ab6ae",
+      "slug": "medical-automation-market-to-reach-us-177-3-billion-by-2033-as-robotic-surgery-and-autom-46749b",
+      "title": "Medical Automation Market to Reach US$ 177.3 Billion by 2033 as Robotic Surgery and Automated Diagnostic Systems Gain Adoption",
+      "dek": "The Medical Automation Market is valued at US$ 82.2 Billion in 2025 and is expected to reach US$ 177.3 Billion by 2033, growing at a CAGR of 10.5% during the forecast period (2026-2033). The market is rapidly evolving from isolated automation",
+      "url": "https://www.openpr.com/news/4648657/medical-automation-market-to-reach-us-177-3-billion-by-2033-as",
       "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/9/L929172329_k.jpg",
-      "publishedAt": "2026-09-29T06:21:56.000Z",
+      "image": "https://cdn.open-pr.com/L/9/L930973724_k.jpg",
+      "publishedAt": "2026-09-30T10:42:28.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "health & medicine"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "273cbad75c60a266",
+      "slug": "why-po-approvals-still-take-weeks-appse-ai-maps-six-bottlenecks-slowing-b2b-procurement-35cbfc",
+      "title": "Why PO Approvals Still Take Weeks: appse ai Maps Six Bottlenecks Slowing B2B Procurement",
+      "dek": "appse ai, an ERP-first AI workflow automation platform, has published an analysis on why purchase order (PO) approvals stall and how procurement teams can fix them. Why do PO approvals take so long? Most delays are not caused by complex decisions. They",
+      "url": "https://www.openpr.com/news/4648174/why-po-approvals-still-take-weeks-appse-ai-maps-six-bottlenecks",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/9/L930593070_k.jpg",
+      "publishedAt": "2026-09-30T10:38:18.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
         "new media & software",
         "it"
       ],
+      "priority": 42
+    },
+    {
+      "id": "cf346714e19cfbbc",
+      "slug": "oracle-is-down-59-from-its-high-here-s-why-a-5-000-investment-made-now-could-be-worth-mu-7f7ce4",
+      "title": "Oracle Is Down 59% From Its High. Here's Why a $5,000 Investment Made Now Could Be Worth Much More by Mid-2028.",
+      "dek": "Oracle's stock cratered as its spending soared, but Wall Street still sees a path back to strong gains by 2028.",
+      "url": "https://www.fool.com/investing/2026/09/30/oracle-is-down-59-from-its-high-heres-why-a-5000-i/",
+      "source": "Fool",
+      "sourceType": "external",
+      "image": "https://g.foolcdn.com/editorial/images/889065/gettyimages-2045271026-1.jpg",
+      "publishedAt": "2026-09-30T10:34:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "investing",
+        "technology and telecom",
+        "34badeac-b3ce-4d0d-808c-a8b75f7850e3",
+        "orcl"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "5bd36b8c7a9ac375",
+      "slug": "meta-appoints-indian-origin-tech-veteran-cj-desai-to-lead-new-enterprise-ai-push-9b1827",
+      "title": "Meta Appoints Indian-origin Tech Veteran CJ Desai to Lead New Enterprise AI Push",
+      "dek": "Meta appoints CJ Desai to lead its enterprise AI platform, bringing Muse, Business Agent, API and coding tools to businesses.",
+      "url": "https://www.analyticsinsight.net/news/meta-appoints-indian-origin-tech-veteran-cj-desai-to-lead-new-enterprise-ai-push",
+      "source": "Analytics And Insight",
+      "sourceType": "external",
+      "image": "https://media.assettype.com/analyticsinsight/2026-09-30/cjm3vgp7/CJ-Desai-to-lead-Meta%E2%80%99s-enterprise-AI-business.jpg",
+      "publishedAt": "2026-09-30T10:15:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "meta enterprise platform",
+        "cj desai",
+        "mongodb",
+        "meta ai",
+        "enterprise ai"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "4f3d0557a32f4b6c",
+      "slug": "why-a-40-year-old-database-is-still-winning-in-the-ai-era-bdb9af",
+      "title": "Why a 40-Year-Old Database Is Still Winning in the AI Era",
+      "dek": "Discover why PostgreSQL remains a trusted foundation for AI applications, combining decades of reliability with extensibility and open source development.",
+      "url": "https://us.headtopics.com/news/why-a-40-year-old-database-is-still-winning-in-the-ai-era-88295773",
+      "source": "Headtopics",
+      "sourceType": "external",
+      "image": "https://i.headtopics.com/images/2026/9/30/hackernoon/why-a-40-year-old-database-is-still-winning-in-the-why-a-40-year-old-database-is-still-winning-in-the-D846752818DFC0D70164E892D0D65C17-16x9.webp",
+      "publishedAt": "2026-09-30T10:02:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "united states news"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "244015e3f74ee2d5",
+      "slug": "netapp-and-oracle-to-launch-fully-managed-cloud-storage-service-5553be",
+      "title": "NetApp and Oracle to Launch Fully Managed Cloud Storage Service",
+      "dek": "NetApp and Oracle announced a new fully managed storage service that brings enterprise-grade NetApp storage natively to Oracle Cloud Infrastructure (OCI). The service will bring NetApp ONTAP data management capabilities natively to OCI to help organizations simplify the migration and management of c",
+      "url": "https://techachievemedia.com/press-release/netapp-and-oracle-to-launch-fully-managed-cloud-storage-service/",
+      "source": "Tech Achieve Media",
+      "sourceType": "external",
+      "image": "https://techachievemedia.com/wp-content/uploads/2026/03/thedigitalartist-metaverse-7235730_640.jpg",
+      "publishedAt": "2026-09-30T09:57:38.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "press release"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "0ac7de48704bad9e",
+      "slug": "intellifran-launches-ai-powered-platform-that-matches-entrepreneurs-to-franchises-based--12bdc8",
+      "title": "IntelliFran Launches AI-Powered Platform That Matches Entrepreneurs to Franchises Based on What They Need - Not What They Like",
+      "dek": "IntelliFran today announced the launch of Intellifran.com, a franchise matching platform built by a group of veteran franchise consultants and powered by decades of real-world client interactions. The platform uses AI informed by thousands of franchise consulting conversations to",
+      "url": "https://www.openpr.com/news/4647833/intellifran-launches-ai-powered-platform-that-matches",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-30T09:36:29.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "finances",
+        "business",
+        "economy",
+        "banking & insurance"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "8c2ac7687732144d",
+      "slug": "prophecy-international-holdings-publishes-2025-2026-annual-report-highlighting-board-upd-76c113",
+      "title": "Prophecy International Holdings Publishes 2025–2026 Annual Report Highlighting Board Updates and Core Software Products",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://kalkinemedia.com/au/news/announcements/prophecy-international-holdings-publishes-2025-2026-annual-report-highlighting-board-updates-and-core-software-products",
+      "source": "Kalkine Media",
+      "sourceType": "external",
+      "image": "https://kalkinemedia.com/storage/uploads/large/shutterstock_2769732347_07_03_2026_00_19_23_867228.jpg",
+      "publishedAt": "2026-09-30T09:25:11.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 41
+    },
+    {
+      "id": "75b73a94f870e462",
+      "slug": "new-intelligence-powers-government-scientific-discovery-and-critical-infrastructure-at-a-70d1d6",
+      "title": "New intelligence powers government, scientific discovery and critical infrastructure at Ai Everything Abu Dhabi",
+      "dek": "Microsoft, VDURA and IFS bring practical applications to the world’s largest AI-first Expo and Summit, as government and industry leaders examine how new intelligence accelerates industry transformation",
+      "url": "https://www.zawya.com/en/press-release/companies-news/new-intelligence-powers-government-scientific-discovery-and-critical-infrastructure-at-ai-everything-abu-dhabi-1458434",
+      "source": "Zawya",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-30T09:22:47.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "artificial intelligence"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "47213843c8a9b7b6",
+      "slug": "travelingwiki-foundation-announces-social-media-growth-of-7-586-300-2-686-809-in-likes-v-0e5d59",
+      "title": "TravelingWiki Foundation Announces Social Media Growth of 7,586,300% & 2,686,809% in Likes & Views Expanding 6 Verticals Incl LocateMoreFriends.com & SportsFanWiki.com",
+      "dek": "/PRNewswire-PRWeb/ -- Following the launch of LocateMoreFriends.com, TravelingWiki's sixth vertical, TravelingWiki Foundation announces growth in Views and...",
+      "url": "https://www.prweb.com/releases/travelingwiki-foundation-announces-social-media-growth-of-7-586-300--2-686-809-in-likes--views-expanding-6-verticals-incl-locatemorefriendscom--sportsfanwikicom-302893995.html",
+      "source": "Prweb",
+      "sourceType": "external",
+      "image": "https://mmx.prnewswire.com/media/MS1999406/FFDDF276-2B72-432F-BEE0-30761DCF55A2.jpg?id=OA2978787",
+      "publishedAt": "2026-09-30T09:05:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "general sports",
+        "sporting events"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "23ce535bb42fe183",
+      "slug": "artificial-intelligence-ai-in-life-sciences-market-trends-and-forecast-to-2040-market-to-ec0f9f",
+      "title": "Artificial Intelligence (AI) in Life Sciences Market: Trends and Forecast to 2040 | Market to Reach USD 73.05 Billion at 20% CAGR as Drug Discovery and Precision Medicine Scale",
+      "dek": "AI boosts life sciences ROI by accelerating drug discovery, reducing R&D costs, optimizing clinical trials and enabling precision medicine through strategic tech partnerships. AI boosts life sciences ROI by accelerating drug discovery, reducing R&D costs, optimizing clinical trials and enabling prec",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/09/30/3371631/28124/en/artificial-intelligence-ai-in-life-sciences-market-trends-and-forecast-to-2040-market-to-reach-usd-73-05-billion-at-20-cagr-as-drug-discovery-and-precision-medicine-scale.html",
+      "source": "Globenewswire_fr",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-30T08:53:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "research analysis and reports"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "f83a4b236cf86903",
+      "slug": "global-it-services-market-size-share-and-trends-forecast-2026-2033-cloud-ai-and-cybersec-298402",
+      "title": "Global IT Services Market Size, Share and Trends Forecast, 2026-2033 | Cloud, AI and Cybersecurity Demand to Drive 8.9% CAGR and a USD 3.29 Trillion Market",
+      "dek": "Cloud migration, managed IT, AI automation and analytics boost efficiency, lower infrastructure costs and unlock revenue, while cybersecurity investments reduce risk. Cloud migration, managed IT, AI automation and analytics boost efficiency, lower infrastructure costs and unlock revenue, while cyber",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/09/30/3371586/28124/en/global-it-services-market-size-share-and-trends-forecast-2026-2033-cloud-ai-and-cybersecurity-demand-to-drive-8-9-cagr-and-a-usd-3-29-trillion-market.html",
+      "source": "Globenewswire_fr",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-30T08:21:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "research analysis and reports"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "91f6f8caead8354f",
+      "slug": "automated-goods-receipts-how-ai-verifies-deliveries-without-opening-every-box-5d53dc",
+      "title": "Automated Goods Receipts: How AI Verifies Deliveries Without Opening Every Box",
+      "dek": "Your warehouse receives hundreds of shipments a month. Everyone gets the same treatment. Boxes opened, contents counted, and paperwork matched. This means hours of labor. Endless discrepancies. And even then, some slip through. Receiving doesn't look like a bottleneck until you",
+      "url": "https://www.openpr.com/news/4648449/automated-goods-receipts-how-ai-verifies-deliveries-without",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-30T08:16:28.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "it",
+        "new media & software"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "3343dc42c52dc876",
+      "slug": "oracle-financial-services-wins-11-categories-in-chartis-risktech100-2027-report-afb37d",
+      "title": "Oracle Financial Services Wins 11 Categories In Chartis Risktech100 2027 Report",
+      "dek": "(MENAFN - PR Newswire) Category awards for Core Technology and Innovation and Solution category awards spanning AI, data management, and financial crime compliance LAS VEGAS, Sept. 30, 2026 ...",
+      "url": "https://menafn.com/1111738880/Oracle-Financial-Services-Wins-11-Categories-In-Chartis-Risktech100-2027-Report",
+      "source": "Menafn",
+      "sourceType": "external",
+      "image": "https://menafn.com/includes/img/logo.jpg",
+      "publishedAt": "2026-09-30T08:07:48.000Z",
+      "topic": "Security",
+      "tags": [
+        "AI"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "c818b1382dcbbd73",
+      "slug": "enterprise-content-management-market-services-boom-why-managed-ecm-is-growing-fastest-5539bb",
+      "title": "Enterprise Content Management Market Services Boom: Why Managed ECM Is Growing Fastest",
+      "dek": "Every invoice, contract, email thread, patient record and campaign video an organization creates adds to a pile that traditional file systems were never built to [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/09/30/1774739",
+      "source": "Express-press-release",
+      "sourceType": "external",
+      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
+      "publishedAt": "2026-09-30T08:05:54.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "enterprise content management market forecasts",
+        "enterprise content management market",
+        "enterprise content management market analysis",
+        "enterprise content management market share",
+        "enterprise content management market growth",
+        "enterprise content management market size"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "f38083696c1a8cb4",
+      "slug": "netapp-and-oracle-to-launch-fully-managed-cloud-storage-service-for-demanding-ai-and-ent-9f8cf6",
+      "title": "NetApp and Oracle to Launch Fully Managed Cloud Storage Service for Demanding AI and Enterprise Workloads",
+      "dek": "NetApp and Oracle today announced a new fully managed storage service that brings enterprise-grade NetApp storage natively to Oracle Cloud Infrastructure (OCI). The service will bring NetApp ONTAP® data management capabilities natively to OCI to help organizations simplify the migration and manageme",
+      "url": "https://cxotoday.com/media-coverage/netapp-and-oracle-to-launch-fully-managed-cloud-storage-service-for-demanding-ai-and-enterprise-workloads/",
+      "source": "Cxotoday",
+      "sourceType": "external",
+      "image": "https://cxotoday.com/wp-content/uploads/2026/04/Netapp-1-300x225.jpeg",
+      "publishedAt": "2026-09-30T07:58:05.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "netapp",
+        "oracle",
+        "media coverage"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "13a4507447cb55ae",
+      "slug": "india-s-senior-tech-workforce-turns-to-iit-kharagpur-for-ai-upskilling-4ead1e",
+      "title": "India's Senior Tech Workforce Turns to IIT Kharagpur for AI Upskilling",
+      "dek": "Kharagpur (West Bengal) [India], September 30: India's AI upskilling wave is increasingly being driven by experienced professionals rather than early-career talent. Reflecting this shift, IIT Kharagpur and upGrad have expanded their executive AI portfolio from four to seven programmes after recordin",
+      "url": "https://www.business-standard.com/content/press-releases-ani/india-s-senior-tech-workforce-turns-to-iit-kharagpur-for-ai-upskilling-126093000502_1.html",
+      "source": "Business Standard",
+      "sourceType": "external",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/30/full/20260930103703.jpg",
+      "publishedAt": "2026-09-30T07:35:18.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "press releases ani",
+        "content"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "2b27d11843d2c0ab",
+      "slug": "redgate-extends-database-change-control-to-analytics-platforms-with-visibility-to-prove--83abdc",
+      "title": "Redgate Extends Database Change Control to Analytics Platforms, With Visibility to Prove What Governance Returns",
+      "dek": "New advanced Databricks and Snowflake support, plus dashboard views that turn deployment data into delivery metrics and ROI for your entire estate Redgate Software announced a major expansion of Redgate Flyway Enterprise, extending its advanced database change control capabilities to Databricks and ",
+      "url": "https://cioinfluence.com/data-management/redgate-extends-database-change-control-to-analytics-platforms-with-visibility-to-prove-what-governance-returns/",
+      "source": "Cio Influence",
+      "sourceType": "external",
+      "image": "https://cioinfluence.com/wp-content/uploads/2024/03/steptodown-2-1.jpg",
+      "publishedAt": "2026-09-30T07:31:54.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "data management",
+        "cio influence news",
+        "redgate",
+        "snowflake",
+        "databricks",
+        "ceo"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "eca79924d0b33c31",
+      "slug": "the-real-world-evidence-solutions-market-just-got-its-biggest-green-light-from-the-fda-3deff3",
+      "title": "The Real World Evidence Solutions Market Just Got Its Biggest Green Light from the FDA",
+      "dek": "Clinical trials remain the gold standard for proving a therapy works, but they show only part of the picture. Real-world evidence (RWE) fills the rest [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/09/30/1774702",
+      "source": "Express-press-release",
+      "sourceType": "external",
+      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
+      "publishedAt": "2026-09-30T06:52:44.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "internet & online"
+      ],
       "priority": 39
     },
     {
-      "id": "8bbfcecc14965689",
-      "slug": "amd-bets-8-2-billion-on-physical-ai-with-world-labs-acquisition-fd3b3e",
-      "title": "AMD Bets $8.2 Billion on Physical AI with World Labs Acquisition",
-      "dek": "AMD is acquiring Fei-Fei Li-led World Labs for $8.2 billion in an all-stock transaction, making a major bet that spatial intelligence, world models and physical AI will become important drivers of future AI computing demand. The deal moves Advanced Micro Devices beyond its traditional role as a supp",
-      "url": "https://infotechlead.com/networking/amd-bets-8-2-billion-on-physical-ai-with-world-labs-acquisition-98525",
-      "source": "Infotech Lead",
+      "id": "6c86f6a87950f5ac",
+      "slug": "oracle-expands-agentic-ai-portfolio-with-fusion-claw-635700",
+      "title": "Oracle Expands Agentic AI Portfolio With Fusion Claw",
+      "dek": "Oracle announced Oracle Fusion Claw, a governed agentic execution runtime for Oracle Fusion Agentic Applications that combines AI reasoning with deterministic enterprise computation to enable highly complex work to be economically completed at scale. Oracle Fusion Applications customers can take adv",
+      "url": "https://smestreet.in/technology/oracle-expands-agentic-ai-portfolio-with-fusion-claw-12592877",
+      "source": "Smestreet In",
       "sourceType": "external",
-      "image": "https://infotechlead.com/wp-content/uploads/2024/01/AMD-Ryzen-8040.jpg",
-      "publishedAt": "2026-09-29T05:38:22.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/smstreet/media/media_files/2025/02/10/BFHNdlE8FUD3SeHJxx9i.png",
+      "publishedAt": "2026-09-30T06:48:03.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "cloud for smes",
+        "iot &amp; ai",
+        "technology for smes"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "ab61e0aa620cbace",
+      "slug": "ntt-docomo-business-migrates-critical-database-platform-to-oracle-autonomous-ai-database-d71bbe",
+      "title": "NTT DOCOMO BUSINESS Migrates Critical Database Platform to Oracle Autonomous AI Database",
+      "dek": "Japan's leading ICT provider migrates tens of terabytes of data to the cloud and reduces database license costs by 43 percent TOKYO, Sept. 30, 2026 /PRNewswire/ -- NTT DOCOMO BUSINESS, Inc. (formerly NTT Communications Corporation), Japan's leading global ICT solutions provider, has modernized its .",
+      "url": "https://www.itbiznews.com/news/articleView.html?idxno=226623",
+      "source": "It비즈뉴스",
+      "sourceType": "external",
+      "image": "https://cdn.itbiznews.com/news/photo/202609/226623_230328_4506.jpg",
+      "publishedAt": "2026-09-30T06:44:35.000Z",
+      "topic": "AI & Database",
       "tags": [
         "AI"
       ],
       "priority": 39
     },
     {
-      "id": "5663a64dce7bf3bc",
-      "slug": "artmarket-com-h1-2026-financial-report-one-of-a-kind-ai-systems-intuitive-artmarket-and--02bb65",
-      "title": "Artmarket.com: H1 2026 Financial Report–One-of-a-Kind AI Systems Intuitive Artmarket® and Blind Spot Will Drive the Next Phase of Growth for “AI-First” Artprice in 2026-2030",
-      "dek": "BitcoinWorld Artmarket.com: H1 2026 Financial Report–One-of-a-Kind AI Systems Intuitive Artmarket® and Blind Spot Will Drive the Next Phase of Growth for “AI-First” Artprice in 2026-2030 PARIS, Sept. 28, 2026 /PRNewswire/ — Artmarket.com announces that its 120 pages financial report for the six mont",
-      "url": "https://bitcoinworld.co.in/artmarket-com-h1-2026-financial-report-one-of-a-kind-ai-systems-intuitive-artmarket-and-blind-spot-will-drive-the-next-phase-of-growth-for-ai-first-artprice-in-2026-2030/",
-      "source": "Home - Bitcoinworld.co.in",
+      "id": "2fc24162a1d2629a",
+      "slug": "learning-management-system-for-manufacturing-market-to-reach-usd-8-2-billion-by-2033-as--ca5fe5",
+      "title": "Learning Management System for Manufacturing Market to Reach USD 8.2 Billion by 2033 as Plants Digitize Workforce Training",
+      "dek": "Training is becoming a production-control issue, not just an HR function Manufacturing plants are adding automated equipment, connected machines and more complex production processes while facing the practical problem of keeping operators, technicians and supervisors qualified. A training gap can tr",
+      "url": "https://www.openpr.com/news/4648294/learning-management-system-for-manufacturing-market-to-reach",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://bitcoinworld.co.in/wp-content/uploads/Artmarket-logo-2-1.webp",
-      "publishedAt": "2026-09-29T03:49:08.000Z",
+      "image": "https://cdn.open-pr.com/L/9/L930631819_k.jpg",
+      "publishedAt": "2026-09-30T06:38:44.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "it",
+        "new media & software"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "c8252c76ce844a34",
+      "slug": "business-news-india-s-senior-tech-workforce-turns-to-iit-kharagpur-for-ai-upskilling-a0e03b",
+      "title": "Business News | India's Senior Tech Workforce Turns to IIT Kharagpur for AI Upskilling",
+      "dek": "Get latest articles and stories on Business at LatestLY. Kharagpur (West Bengal) [India], September 30: India's AI upskilling wave is increasingly being driven by experienced professionals rather than early-career talent. Reflecting this shift, IIT Kharagpur and upGrad have expanded their executive ",
+      "url": "https://www.latestly.com/agency-news/business-news-indias-senior-tech-workforce-turns-to-iit-kharagpur-for-ai-upskilling-7626510.html",
+      "source": "Latestly",
+      "sourceType": "external",
+      "image": "https://st1.latestly.com/wp-content/uploads/2026/09/ANI-20260930050645.jpg",
+      "publishedAt": "2026-09-30T05:28:23.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "2c710d3418980d29",
+      "slug": "mongodb-unveils-ai-products-raises-long-term-targets-amid-ceo-transition-86d0a1",
+      "title": "MongoDB Unveils AI Products, Raises Long-Term Targets Amid CEO Transition",
+      "dek": "MongoDB (NASDAQ:MDB) used its 2026 Investor Day to outline a leadership transition, new AI-focused product launches and updated long-term financial targets, with executives emphasizing continued investment in enterprise sales, partnerships and application modernization. Chief Financial Officer Mike ",
+      "url": "https://baseballnewssource.com/2026/09/30/mongodb-unveils-ai-products-raises-long-term-targets-amid-ceo-transition/11282857.html",
+      "source": "Bbns",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/mongodb-inc-logo-1200x675.png?v=20221109141332",
+      "publishedAt": "2026-09-30T04:02:44.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "press release",
-        "artmarket.com",
-        "artprice",
-        "nft",
-        "thierry ehrmann",
-        "art market"
+        "markets",
+        "partner feed articles"
       ],
       "priority": 37
     },
     {
-      "id": "f174a90b2a3ba858",
-      "slug": "abu-dhabi-deepens-ai-drive-with-global-summit-f5f319",
-      "title": "Abu Dhabi deepens AI drive with global summit",
-      "dek": "Abu Dhabi is set to host a global AI summit in October, gathering investors and tech firms to showcase its plan to become the world’s first AI-native gover Read More: https://punchng.com/abu-dhabi-deepens-ai-drive-with-global-summit/",
-      "url": "https://punchng.com/abu-dhabi-deepens-ai-drive-with-global-summit/",
-      "source": "Punch",
+      "id": "9160caf29f137a65",
+      "slug": "zuckerberg-lost-8-9-billion-in-a-day-as-meta-s-ai-rally-cracked-his-net-worth-fell-from--1f4ea9",
+      "title": "Zuckerberg lost $8.9 billion in a day as Meta's AI rally cracked: his net worth fell from $266.4 billion to $257.5 billion as Meta shares dropped about 4% to $749.26 after Goldman Sachs warned AI spenders need about $300 billion a year in AI revenue just to break even.",
+      "dek": "One Goldman Sachs note put a price tag on the AI boom, and Meta's founder paid first.",
+      "url": "https://www.thestreet.com/technology/zuckerberg-meta-ai-spending-loss",
+      "source": "Thestreet",
       "sourceType": "external",
-      "image": "https://cdn.punchng.com/wp-content/uploads/2020/08/18131509/punch-logo-500x179-1.png",
-      "publishedAt": "2026-09-29T01:04:21.000Z",
+      "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMTk0NDc1/key-speakers-at-the-meta-connect-event.jpg?profile=rss&x=54&y=34",
+      "publishedAt": "2026-09-30T02:33:00.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "mistral ai",
-        "ai everything abu dhabi",
-        "artificial intelligence",
-        "g42",
-        "wesam lootah",
-        "technology innovation institute"
+        "markets",
+        "stocks",
+        "mark zuckerberg",
+        "facebook",
+        "technology",
+        "artificial intelligence"
       ],
-      "priority": 36
+      "priority": 37
+    },
+    {
+      "id": "a480cfa2f5186c8a",
+      "slug": "ntt-docomo-business-migrates-critical-database-platform-to-oracle-autonomous-ai-database-cf68b5",
+      "title": "NTT DOCOMO BUSINESS Migrates Critical Database Platform to Oracle Autonomous AI Database | AAP",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://aap.com.au/aapreleases/cision20260929ae60133/",
+      "source": "Australian Associated Press",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-09-30T02:30:39.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "AI"
+      ],
+      "priority": 37
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1846,153 +2014,6 @@
       "topic": "AI & Database",
       "tags": [
         "MySQL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "028f55b53f871be3",
-      "slug": "the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfall-f2dc7e",
-      "title": "The ethics of AI in Academia. Benefits and promise of AI. What should you consider? Pitfalls to avoid?",
-      "dek": "In this episode host Oracle Academy manager Tyra Peirce speaks with Mary Olson Industry Executive Director, Education at Oracle. Tyra and Mary speak about the ethics of AI in education and give practical advice on how to best use the technology while avoiding common pitfalls. -----------------------",
-      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfalls-to-avoid",
-      "source": "Oracle Academy Tech Chat",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP01.mp3?dest-id=3949203",
-      "publishedAt": "2024-09-03T12:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "954fb77f408fd5ab",
-      "slug": "time-data-handling-data-storage-91f274",
-      "title": "Time & Data Handling & Data Storage",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham discuss improvements in time and data handling and data storage in Oracle Database 23ai. They are joined by Senior Principal Instructor Serge Moiseev, who explains the benefit of allowing databases to have their own time zones, separate from the",
-      "url": "https://oracleuniversitypodcast.libsyn.com/time-data-handling-data-storage",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-09-03T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "Oracle Database"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "a1c4f2cadb715947",
-      "slug": "database-sharding-part-2-5face7",
-      "title": "Database Sharding: Part 2",
-      "dek": "Join hosts Lois Houston and Nikita Abraham in Part 2 of the discussion on database sharding with Ron Soltani, a Senior Principal Database & Security Instructor. They talk about sharding native replication, directory-based sharding, and coordinated backup and restore for sharded databases, explaining",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-sharding-part-2",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-27T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "43aa5988985c66d9",
-      "slug": "database-sharding-part-1-e6309a",
-      "title": "Database Sharding: Part 1",
-      "dek": "In this two-part episode, hosts Lois Houston and Nikita Abraham are joined by Ron Soltani, a Senior Principal Database & Security Instructor, to discuss the ins and outs of database sharding. In Part 1, they delve into the fundamentals of database sharding, including what it is and how it works, spe",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-sharding-part-1",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-20T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "119c79ecef58b62d",
-      "slug": "database-security-part-2-ef77d6",
-      "title": "Database Security: Part 2",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham continue their exploration of Oracle Database 23ai's database security capabilities. They are joined once again by Ron Soltani, a Senior Principal Database & Security Instructor, who delves into the intricacies of the new hybrid read-only mode f",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-2",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-13T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Oracle Database",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ffc09f7346e6f6b5",
-      "slug": "database-security-part-1-b4c13f",
-      "title": "Database Security: Part 1",
-      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they dive into the critical topic of database security. In the first of a two-part series on database security in Oracle Database 23ai, they discuss the importance of protecting dat",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-1",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-06T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Oracle Database",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "7c3ad34d1ff092f6",
-      "slug": "blockchain-tables-a4f246",
-      "title": "Blockchain Tables",
-      "dek": "In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham kick off a new season with a deep dive into the latest features of Oracle Database 23ai. Joined by Bill Millar, a Senior Principal Database & MySQL Instructor, they explore the new enhancements to blockchain tabl",
-      "url": "https://oracleuniversitypodcast.libsyn.com/blockchain-tables",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-30T11:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "Oracle Database",
-        "MySQL",
-        "Oracle University"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ff92a6749fa996f7",
-      "slug": "database-essentials-027d69",
-      "title": "Database Essentials",
-      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Hope Fisher, Oracle's Product Manager for Database Technologies, as they break down the basics of databases, explore different database management systems, and delve into database development. Whether you're a newcomer or just need a refresher, ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-essentials",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-23T14:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "f046bd97147c0cf8",
-      "slug": "container-engine-for-kubernetes-security-practices-26ab8f",
-      "title": "Container Engine for Kubernetes: Security Practices",
-      "dek": "In the season's final episode, hosts Lois Houston and Nikita Abraham interview senior OCI instructor Mahendra Mehra about the security practices that are vital for OKE clusters on OCI. Mahendra shares his expert insights on the importance of Kubernetes security, especially in today's digital landsca",
-      "url": "https://oracleuniversitypodcast.libsyn.com/container-engine-for-kubernetes-security-practices",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP7.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-16T14:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "OCI",
-        "Security"
       ],
       "priority": 36
     }
