@@ -6,160 +6,223 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 01:20:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 23:54:58 GMT</lastBuildDate>
     
     <item>
-      <title>North America Existing &amp; Upcoming Colocation Data Center Portfolio Database, 2026-2038 | AI and Hyperscale Demand Drive Capacity Investment Across the U.S. and Canada</title>
-      <link>https://oracle-university.com/stories/north-america-existing-upcoming-colocation-data-center-portfolio-database-2026-2038-ai-a-446867/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/north-america-existing-upcoming-colocation-data-center-portfolio-database-2026-2038-ai-a-446867/</guid>
-      <pubDate>Mon, 05 Oct 2026 13:18:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>AI and HPC demand is fueling hyperscaler expansion, with US growth concentrated in key states and Toronto remaining Canada’s leading data center hub AI and HPC demand is fueling hyperscaler expansion, with US growth concentrated in key states and Toronto remaining Canada’s leading data center hub</description>
-      <source url="https://www.globenewswire.com/fr/news-release/2026/10/05/3374646/28124/en/north-america-existing-upcoming-colocation-data-center-portfolio-database-2026-2038-ai-and-hyperscale-demand-drive-capacity-investment-across-the-u-s-and-canada.html">Globenewswire_fr</source>
-    </item>
-    <item>
-      <title>NetApp puts ONTAP inside Oracle’s cloud, betting native beats bolted-on</title>
-      <link>https://oracle-university.com/stories/netapp-puts-ontap-inside-oracle-s-cloud-betting-native-beats-bolted-on-7c5fab/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/netapp-puts-ontap-inside-oracle-s-cloud-betting-native-beats-bolted-on-7c5fab/</guid>
-      <pubDate>Mon, 05 Oct 2026 12:55:04 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Infrastructure modernization often stalls at the storage layer, where moving mission-critical applications to the cloud can mean redesigning them from scratch. Now, AI is raising the stakes as enterprises push decades-old data estates into production AI. NetApp Inc. and Oracle Corp. are tackling tha</description>
-      <source url="https://siliconangle.com/2026/10/05/infrastructure-modernization-netapp-ontap-native-oci-netappinsight/">Siliconangle</source>
-    </item>
-    <item>
-      <title>Latin America Sustainable Data Center Market Size, Growth, Investment &amp; Power Capacity (2026-2031) - Arizton</title>
-      <link>https://oracle-university.com/stories/latin-america-sustainable-data-center-market-size-growth-investment-power-capacity-2026--9919e0/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/latin-america-sustainable-data-center-market-size-growth-investment-power-capacity-2026--9919e0/</guid>
-      <pubDate>Mon, 05 Oct 2026 12:40:30 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Arizton estimates that the Latin America sustainable data center market is expanding from USD 1.65 billion in 2025 to USD 5.37 billion by 2031, at a CAGR of 21.73%. Brazil, Mexico, Chile, and Colombia are attracting increasing investment from hyperscalers</description>
-      <source url="https://www.openpr.com/news/4652054/latin-america-sustainable-data-center-market-size-growth">Openpr.com</source>
-    </item>
-    <item>
-      <title>Anthropic says its IPO could herald the end of the world as we know it</title>
-      <link>https://oracle-university.com/stories/anthropic-says-its-ipo-could-herald-the-end-of-the-world-as-we-know-it-824f16/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/anthropic-says-its-ipo-could-herald-the-end-of-the-world-as-we-know-it-824f16/</guid>
-      <pubDate>Mon, 05 Oct 2026 12:27:00 GMT</pubDate>
-      <category>Security</category>
-      <description>Pay no attention to those more practical risks behind the curtain, which is exactly what we&#39;re doing on this week&#39;s Kettle</description>
-      <source url="https://www.theregister.com/ai-and-ml/2026/10/05/anthropic-says-its-ipo-could-herald-the-end-of-the-world-as-we-know-it/5300908">The Register</source>
-    </item>
-    <item>
-      <title>3 jailed in Türkiye over FETÖ-linked infiltration of MASAK data systems</title>
-      <link>https://oracle-university.com/stories/3-jailed-in-turkiye-over-feto-linked-infiltration-of-masak-data-systems-8b0a5c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/3-jailed-in-turkiye-over-feto-linked-infiltration-of-masak-data-systems-8b0a5c/</guid>
-      <pubDate>Mon, 05 Oct 2026 12:18:00 GMT</pubDate>
+      <title>&#39;Big Short’ Investor Steve Eisman Pushes Back on Michael Burry’s AI Chip Depreciation Thesis: &#39;I Think He is Wrong…’</title>
+      <link>https://oracle-university.com/stories/big-short-investor-steve-eisman-pushes-back-on-michael-burry-s-ai-chip-depreciation-thes-072d3a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/big-short-investor-steve-eisman-pushes-back-on-michael-burry-s-ai-chip-depreciation-thes-072d3a/</guid>
+      <pubDate>Tue, 06 Oct 2026 11:40:30 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Three suspects, including a former deputy head of Türkiye’s Financial Crimes Investigation Board (MASAK), have been jailed as part of an investigation into alleged political or mil...</description>
-      <source url="https://www.dailysabah.com/politics/war-on-terror/3-jailed-in-turkiye-over-feto-linked-infiltration-of-masak-data-systems">Daily Sabah</source>
+      <description>Steve Eisman challenges Michael Burry’s AI accounting warning, calling depreciation concerns “too academic” amid strong chip demand.</description>
+      <source url="https://www.benzinga.com/markets/tech/26/10/62185741/big-short-investor-steve-eisman-pushes-back-on-michael-burrys-ai-chip-depreciation-thesis-i-think-he-is-wrong">Benzinga</source>
     </item>
     <item>
-      <title>Everybody wants to rule the world</title>
-      <link>https://oracle-university.com/stories/everybody-wants-to-rule-the-world-20812a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/everybody-wants-to-rule-the-world-20812a/</guid>
-      <pubDate>Mon, 05 Oct 2026 12:00:00 GMT</pubDate>
+      <title>Startup news and updates: daily roundup (October 6, 2026)</title>
+      <link>https://oracle-university.com/stories/startup-news-and-updates-daily-roundup-october-6-2026-9972ae/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/startup-news-and-updates-daily-roundup-october-6-2026-9972ae/</guid>
+      <pubDate>Tue, 06 Oct 2026 11:30:52 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here&#39;s the roundup for Tuesday, October 6, 2026. Social media and children remains a top concern on its harmful effect as fresh developments emerge from the world of cricket, YourStory brings you today’s headl</description>
+      <source url="https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-6-2026">Yourstory</source>
+    </item>
+    <item>
+      <title>Critical Review: Vivakor (OTCMKTS:VIVKD) versus Rimini Street (NASDAQ:RMNI)</title>
+      <link>https://oracle-university.com/stories/critical-review-vivakor-otcmkts-vivkd-versus-rimini-street-nasdaq-rmni-52c958/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/critical-review-vivakor-otcmkts-vivkd-versus-rimini-street-nasdaq-rmni-52c958/</guid>
+      <pubDate>Tue, 06 Oct 2026 11:29:03 GMT</pubDate>
+      <category>Security</category>
+      <description>Rimini Street (NASDAQ:RMNI – Get Free Report) and Vivakor (OTCMKTS:VIVKD – Get Free Report) are both small-cap technology companies, but which is the superior stock? We will contrast the two companies based on the strength of their profitability, dividends, earnings, risk, valuation, analyst recomme</description>
+      <source url="https://www.thelincolnianonline.com/2026/10/06/critical-review-vivakor-otcmktsvivkd-versus-rimini-street-nasdaqrmni.html">The Lincolnian Online</source>
+    </item>
+    <item>
+      <title>Accenture contractor removed from FBI after data leak that exposed personal details of thousands of bureau employees, comes weeks after Google&#39;s &#39;warning&#39;</title>
+      <link>https://oracle-university.com/stories/accenture-contractor-removed-from-fbi-after-data-leak-that-exposed-personal-details-of-t-7131c1/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/accenture-contractor-removed-from-fbi-after-data-leak-that-exposed-personal-details-of-t-7131c1/</guid>
+      <pubDate>Tue, 06 Oct 2026 11:10:42 GMT</pubDate>
+      <category>Security</category>
+      <description>A significant data breach at the FBI has exposed sensitive details of several employees, including their medical histories. The incident unfolded when a contractor neglected to apply a vital security patch on a third-party system overseen by Accenture. Officials attribute the breach to a hacking col</description>
+      <source url="https://timesofindia.indiatimes.com/technology/tech-news/accenture-contractor-removed-from-fbi-after-data-leak-that-exposed-personal-details-of-thousands-of-bureau-employees-comes-weeks-after-googles-warning/articleshow/134738458.cms">The Times Of India</source>
+    </item>
+    <item>
+      <title>FBI drops Accenture contractor following data breach</title>
+      <link>https://oracle-university.com/stories/fbi-drops-accenture-contractor-following-data-breach-a691b0/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/fbi-drops-accenture-contractor-following-data-breach-a691b0/</guid>
+      <pubDate>Tue, 06 Oct 2026 10:49:08 GMT</pubDate>
+      <category>Security</category>
+      <description>WASHINGTON: The Federal Bureau of Investigation (FBI) removed an Accenture contractor on Monday over their role in a damaging data breach that exposed sensitive personal details of thousands of bureau employees, two sources familiar with the matter told Reuters. The development comes as the FBI is s</description>
+      <source url="https://thesun.my/business/fbi-drops-accenture-contractor-following-data-breach/">Thesun</source>
+    </item>
+    <item>
+      <title>Google Unleashes AI on Aging Enterprise Tech With New Cloud Modernization Suite</title>
+      <link>https://oracle-university.com/stories/google-unleashes-ai-on-aging-enterprise-tech-with-new-cloud-modernization-suite-42a55b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/google-unleashes-ai-on-aging-enterprise-tech-with-new-cloud-modernization-suite-42a55b/</guid>
+      <pubDate>Tue, 06 Oct 2026 10:38:27 GMT</pubDate>
       <category>Applications &amp; NetSuite</category>
-      <description>At Oktane a couple of weeks ago, Okta and a group of enterprise heavyweights, including AWS, CrowdStrike, Databricks, Google Cloud, Salesforce, ServiceNow, Wiz and Zscaler, launched the Blueprint Alliance . Their goal is a shared plan for securing and governing AI agents across the enterprise. The b</description>
-      <source url="https://www.cio.com/article/4230149/everybody-wants-to-rule-the-world.html">Cio.com India</source>
+      <description>Alphabet expands Google Cloud with AI modernization tools as Meta intensifies competition in consumer AI and agentic search.</description>
+      <source url="https://www.benzinga.com/markets/tech/26/10/62184431/google-unleashes-ai-on-aging-enterprise-tech-with-new-cloud-modernization-suite">Benzinga</source>
     </item>
     <item>
-      <title>Enterprise Cloud Security Market Gains Momentum as Google Completes $32 Billion Wiz Acquisition, Intensifying Cloud Security Competition</title>
-      <link>https://oracle-university.com/stories/enterprise-cloud-security-market-gains-momentum-as-google-completes-32-billion-wiz-acqui-5fc310/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/enterprise-cloud-security-market-gains-momentum-as-google-completes-32-billion-wiz-acqui-5fc310/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:54:07 GMT</pubDate>
+      <title>Atos lands £350M beat keeping Met Police applications running</title>
+      <link>https://oracle-university.com/stories/atos-lands-350m-beat-keeping-met-police-applications-running-8ac8fd/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/atos-lands-350m-beat-keeping-met-police-applications-running-8ac8fd/</guid>
+      <pubDate>Tue, 06 Oct 2026 10:29:00 GMT</pubDate>
       <category>Security</category>
-      <description>Google&#39;s completion of its acquisition of Wiz for approximately US$32 billion on March 11, 2026, marks one of the largest strategic transactions in cloud security and strengthens the competitive push toward integrated protection across cloud and AI environments. Wiz joined</description>
-      <source url="https://www.openpr.com/news/4652015/enterprise-cloud-security-market-gains-momentum-as-google">Openpr.com</source>
+      <description>Six-year deal covers management and security, with options to add cloud and digital workplace services</description>
+      <source url="https://www.theregister.com/public-sector/2026/10/06/atos-lands-350m-beat-keeping-met-police-applications-running/5301310">The Register</source>
     </item>
     <item>
-      <title>Oracle at $140: Buying Negative FCF Never Looked So Good</title>
-      <link>https://oracle-university.com/stories/oracle-at-140-buying-negative-fcf-never-looked-so-good-4e2962/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-at-140-buying-negative-fcf-never-looked-so-good-4e2962/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:29:17 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>The post Oracle at $140: Buying Negative FCF Never Looked So Good appeared first on 24/7 Wall St.. Oracle (NYSE:ORCL) trades at $142.50. Cash burn today funds AI capacity customers have already signed up to use. Oracle built its name on database software and enterprise applications. Cloud now…</description>
-      <source url="https://biztoc.com/x/dc9be02b033cfb58">Biztoc</source>
-    </item>
-    <item>
-      <title>Satya Nadella reinvented Microsoft once. Can he do it again in the AI era?</title>
-      <link>https://oracle-university.com/stories/satya-nadella-reinvented-microsoft-once-can-he-do-it-again-in-the-ai-era-4fbc2f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/satya-nadella-reinvented-microsoft-once-can-he-do-it-again-in-the-ai-era-4fbc2f/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:00:01 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>After replacing Steve Ballmer in 2014, Satya Nadella turned Microsoft into a cloud giant. Now he&#39;s tasked with making the company a force in AI.</description>
-      <source url="https://www.cnbc.com/2026/10/05/satya-nadella-reinvented-microsoft-once-can-he-do-it-in-the-ai-era.html">Cnbc</source>
-    </item>
-    <item>
-      <title>Customer Engagement Solutions Market Gains Momentum as Salesforce Invests US$1.5 Billion in Genesys</title>
-      <link>https://oracle-university.com/stories/customer-engagement-solutions-market-gains-momentum-as-salesforce-invests-us-1-5-billion-5d10ab/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/customer-engagement-solutions-market-gains-momentum-as-salesforce-invests-us-1-5-billion-5d10ab/</guid>
-      <pubDate>Mon, 05 Oct 2026 10:44:59 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Salesforce announced a US$1.5 billion investment in Genesys in July 2025, deepening their customer-experience partnership and building on an ecosystem that already supported more than 250 joint customers. The investment strengthens AI-powered experience orchestration, data-driven personalization and</description>
-      <source url="https://www.openpr.com/news/4651869/customer-engagement-solutions-market-gains-momentum-as">Openpr.com</source>
-    </item>
-    <item>
-      <title>Before You Pay For More &#39;Thinking,&#39; Ask Who&#39;s Checking The Answer</title>
-      <link>https://oracle-university.com/stories/before-you-pay-for-more-thinking-ask-who-s-checking-the-answer-97d681/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/before-you-pay-for-more-thinking-ask-who-s-checking-the-answer-97d681/</guid>
-      <pubDate>Mon, 05 Oct 2026 10:30:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Extra thinking turns into extra reliability only where something outside an AI model can tell a right answer from a wrong one.</description>
-      <source url="https://www.forbes.com/councils/forbestechcouncil/2026/10/05/before-you-pay-for-more-thinking-ask-whos-checking-the-answer/">Forbes</source>
-    </item>
-    <item>
-      <title>Graph Database Market Gains Momentum as Neo4j Invests US$100 Million in GenAI Expansion</title>
-      <link>https://oracle-university.com/stories/graph-database-market-gains-momentum-as-neo4j-invests-us-100-million-in-genai-expansion-7577e2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/graph-database-market-gains-momentum-as-neo4j-invests-us-100-million-in-genai-expansion-7577e2/</guid>
-      <pubDate>Mon, 05 Oct 2026 10:15:08 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Neo4j announced a US$100 million investment in October 2025 to accelerate graph technology as the knowledge layer for generative and agentic AI, alongside new agentic offerings and a program supporting 1,000 AI-native startups worldwide over 12 months. The investment strengthens</description>
-      <source url="https://www.openpr.com/news/4651824/graph-database-market-gains-momentum-as-neo4j-invests-us-100">Openpr.com</source>
-    </item>
-    <item>
-      <title>Hyperscale Data Center Market Set for Major Expansion as Adani Commits US$100 Billion to AI Infrastructure</title>
-      <link>https://oracle-university.com/stories/hyperscale-data-center-market-set-for-major-expansion-as-adani-commits-us-100-billion-to-2894b3/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/hyperscale-data-center-market-set-for-major-expansion-as-adani-commits-us-100-billion-to-2894b3/</guid>
-      <pubDate>Mon, 05 Oct 2026 09:50:45 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Adani Group announced a US$100 billion investment by 2035 to develop renewable-energy-powered, hyperscale AI-ready data centers across India, alongside plans to expand its data center platform toward 5 GW of capacity. The initiative is designed to support high-density AI computing,</description>
-      <source url="https://www.openpr.com/news/4651779/hyperscale-data-center-market-set-for-major-expansion-as-adani">Openpr.com</source>
-    </item>
-    <item>
-      <title>Amplitude (NASDAQ:AMPL) &amp; Oracle (NYSE:ORCL) Critical Comparison</title>
-      <link>https://oracle-university.com/stories/amplitude-nasdaq-ampl-oracle-nyse-orcl-critical-comparison-c80847/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/amplitude-nasdaq-ampl-oracle-nyse-orcl-critical-comparison-c80847/</guid>
-      <pubDate>Mon, 05 Oct 2026 09:44:53 GMT</pubDate>
-      <category>Security</category>
-      <description>Oracle (NYSE:ORCL – Get Free Report) and Amplitude (NASDAQ:AMPL – Get Free Report) are both technology companies, but which is the better investment? We will compare the two companies based on the strength of their earnings, institutional ownership, analyst recommendations, risk, valuation, dividend</description>
-      <source url="https://www.americanbankingnews.com/2026/10/05/amplitude-nasdaqampl-oracle-nyseorcl-critical-comparison.html">Americanbankingnews</source>
-    </item>
-    <item>
-      <title>Out with the new, back in with the old - what MongoDB&#39;s executive upheaval means for its strategic AI infrastructure push</title>
-      <link>https://oracle-university.com/stories/out-with-the-new-back-in-with-the-old-what-mongodb-s-executive-upheaval-means-for-its-st-f35f2b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/out-with-the-new-back-in-with-the-old-what-mongodb-s-executive-upheaval-means-for-its-st-f35f2b/</guid>
-      <pubDate>Mon, 05 Oct 2026 08:35:02 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Change and continuity as MongoDB recalls its former CEO after the current lead quits abruptly. What happens next?</description>
-      <source url="https://diginomica.com/out-new-back-old-what-mongodbs-executive-upheaval-means-its-strategic-ai-infrastructure-push">Diginomica</source>
-    </item>
-    <item>
-      <title>Healthcare Analytics Market Advances as Carta Healthcare Secures $18.25 Million to Scale AI-Powered Clinical Data Analytics</title>
-      <link>https://oracle-university.com/stories/healthcare-analytics-market-advances-as-carta-healthcare-secures-18-25-million-to-scale--a828dc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/healthcare-analytics-market-advances-as-carta-healthcare-secures-18-25-million-to-scale--a828dc/</guid>
-      <pubDate>Mon, 05 Oct 2026 06:10:47 GMT</pubDate>
+      <title>Population Health Management Market (2033): $181.43 Billion Growth, AI-Powered Care Management &amp; Value-Based Care Driving United States Expansion</title>
+      <link>https://oracle-university.com/stories/population-health-management-market-2033-181-43-billion-growth-ai-powered-care-managemen-da43f2/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/population-health-management-market-2033-181-43-billion-growth-ai-powered-care-managemen-da43f2/</guid>
+      <pubDate>Tue, 06 Oct 2026 10:20:02 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Carta Healthcare secured $18.25 million in Series B1 financing in May 2025, led by UPMC Enterprises with participation from healthcare-system investors including MemorialCare Innovation Fund, Rex Health Ventures, Tampa General Hospital Ventures, and Memorial Hermann Health System. The funding is</description>
-      <source url="https://www.openpr.com/news/4651572/healthcare-analytics-market-advances-as-carta-healthcare">Openpr.com</source>
+      <description>Lightbeam Health Solutions, a population health management technology provider, has expanded its AI-enabled value-based care capabilities through the December 2025 acquisition of Syntax Health, adding contract modeling, incentive design, and actuarial capabilities to its platform. Lightbeam currentl</description>
+      <source url="https://www.openpr.com/news/4652750/population-health-management-market-2033-181-43-billion">Openpr.com</source>
     </item>
     <item>
-      <title>How HPE Stock Gained 22.3% in September</title>
-      <link>https://oracle-university.com/stories/how-hpe-stock-gained-22-3-in-september-040928/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/how-hpe-stock-gained-22-3-in-september-040928/</guid>
-      <pubDate>Mon, 05 Oct 2026 02:03:01 GMT</pubDate>
+      <title>Why Are Nasdaq, Dow Futures Rising Premarket? SPCX, NVDA, CEG, AMD, ORCL, NOK In Focus</title>
+      <link>https://oracle-university.com/stories/why-are-nasdaq-dow-futures-rising-premarket-spcx-nvda-ceg-amd-orcl-nok-in-focus-fc067a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/why-are-nasdaq-dow-futures-rising-premarket-spcx-nvda-ceg-amd-orcl-nok-in-focus-fc067a/</guid>
+      <pubDate>Tue, 06 Oct 2026 09:50:01 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>On Stocktwits, retail sentiment toward SPY and QQQ has turned ‘extremely bullish,’ supported by the rally in tech stocks.</description>
+      <source url="https://newsable.asianetnews.com/markets/why-are-nasdaq-dow-futures-rising-premarket-spcx-nvda-ceg-amd-orcl-nok-in-focus-articleshow-0e10cc9">Asianet Newsable</source>
+    </item>
+    <item>
+      <title>Oracle Cloud Reported Data Breach: Legacy Server Leads to 20 Million Victims</title>
+      <link>https://oracle-university.com/stories/oracle-cloud-reported-data-breach-legacy-server-leads-to-20-million-victims-35b4c5/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-cloud-reported-data-breach-legacy-server-leads-to-20-million-victims-35b4c5/</guid>
+      <pubDate>Tue, 06 Oct 2026 09:38:00 GMT</pubDate>
+      <category>Security</category>
+      <description>Oracle denied a cloud breach but later confirmed unauthorized access to legacy Cerner data, exposing 20 million people&#39;s records including medical information, mandating a review of non‑cloud data security protocols.</description>
+      <source url="https://us.headtopics.com/news/oracle-cloud-reported-data-breach-legacy-server-leads-to-88504532">Headtopics</source>
+    </item>
+    <item>
+      <title>Cognizant Selected by SITA to Deliver AI-Led Global Finance Transformation on the Cloud</title>
+      <link>https://oracle-university.com/stories/cognizant-selected-by-sita-to-deliver-ai-led-global-finance-transformation-on-the-cloud-e00b75/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cognizant-selected-by-sita-to-deliver-ai-led-global-finance-transformation-on-the-cloud-e00b75/</guid>
+      <pubDate>Tue, 06 Oct 2026 09:34:34 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Collaboration will help SITA create a Frontier Finance function - data-driven, innovative and focused on growth and measurable business value - using AI and new ways of working AMSTERDAM and GENEVA, Oct. 6, 2026 /PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced that it has been selected by S.</description>
+      <source url="https://www.itbiznews.com/news/articleView.html?idxno=227166">It비즈뉴스</source>
+    </item>
+    <item>
+      <title>Nvidia’s Record High Raises a Bigger Question About How Far the Rally Can Run</title>
+      <link>https://oracle-university.com/stories/nvidia-s-record-high-raises-a-bigger-question-about-how-far-the-rally-can-run-12de66/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/nvidia-s-record-high-raises-a-bigger-question-about-how-far-the-rally-can-run-12de66/</guid>
+      <pubDate>Tue, 06 Oct 2026 09:26:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Market Analysis by covering: NVIDIA Corporation. Read &#39;s Market Analysis on Investing.com</description>
+      <source url="https://www.investing.com/analysis/nvidias-record-high-raises-a-bigger-question-about-how-far-the-rally-can-run-200689011">Investing Us</source>
+    </item>
+    <item>
+      <title>Cognizant wins SITA mandate for AI-led finance transformation</title>
+      <link>https://oracle-university.com/stories/cognizant-wins-sita-mandate-for-ai-led-finance-transformation-3b671a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cognizant-wins-sita-mandate-for-ai-led-finance-transformation-3b671a/</guid>
+      <pubDate>Tue, 06 Oct 2026 09:15:04 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Cognizant (CTSH) will help SITA roll out Oracle Fusion Cloud ERP worldwide, adding AI insights for finance and supply chain.</description>
+      <source url="https://seekingalpha.com/news/4650436-cognizant-wins-sita-mandate-for-ai-led-finance-transformation?feed_item_type=news">Seeking Alpha</source>
+    </item>
+    <item>
+      <title>Cloud Computing Platforms for Machine Learning</title>
+      <link>https://oracle-university.com/stories/cloud-computing-platforms-for-machine-learning-b05dd1/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-computing-platforms-for-machine-learning-b05dd1/</guid>
+      <pubDate>Tue, 06 Oct 2026 09:10:19 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Cloud computing platforms provide scalable infrastructure, tools and managed services for data processing, model development, training, deployment and monitoring Machine Learning models without requiring organizations to build and maintain all the underlying infrastructure themselves. These platform</description>
+      <source url="https://www.geeksforgeeks.org/machine-learning/cloud-computing-platforms-for-machine-learning/">Geeksforgeeks</source>
+    </item>
+    <item>
+      <title>Addressing the Digital Shift – AI Accounting ERP Trend in Singapore</title>
+      <link>https://oracle-university.com/stories/addressing-the-digital-shift-ai-accounting-erp-trend-in-singapore-3773da/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/addressing-the-digital-shift-ai-accounting-erp-trend-in-singapore-3773da/</guid>
+      <pubDate>Tue, 06 Oct 2026 08:55:15 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Selecting a scalable enterprise solution is no longer just an operational choice; it is a core business strategy. For small and medium businesses navigating a highly digitalized economy, legacy architectures fail to meet modern efficiency standards. Integrating advanced automation into financial wor</description>
+      <source url="https://e27.co/top-5-popular-ai-accounting-erp-for-smb-in-singapore-20261006/">E27</source>
+    </item>
+    <item>
+      <title>UiPath Test Cloud Now Available on Oracle Marketplace</title>
+      <link>https://oracle-university.com/stories/uipath-test-cloud-now-available-on-oracle-marketplace-6eebcc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/uipath-test-cloud-now-available-on-oracle-marketplace-6eebcc/</guid>
+      <pubDate>Tue, 06 Oct 2026 08:31:01 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Agentic, intelligent testing capabilities designed to help organizations automate and scale testing across Oracle application environments NEW YORK...</description>
+      <source url="https://greenstocknews.com/news/nyse/path/uipath-test-cloud-now-available-on-oracle-marketplace">Green Stock News</source>
+    </item>
+    <item>
+      <title>Massive Oracle Healthcare Breach Exposed Sensitive Data of Nearly 20 Million People</title>
+      <link>https://oracle-university.com/stories/massive-oracle-healthcare-breach-exposed-sensitive-data-of-nearly-20-million-people-b3765d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/massive-oracle-healthcare-breach-exposed-sensitive-data-of-nearly-20-million-people-b3765d/</guid>
+      <pubDate>Tue, 06 Oct 2026 08:10:37 GMT</pubDate>
+      <category>Security</category>
+      <description>A cybersecurity breach at Oracle Corp.’s healthcare unit last year compromised personal information belonging to nearly 20 million people, according to information released by the Texas attorney general. The disclosure provides a clearer picture of the scale of an attack that Oracle first reported t</description>
+      <source url="https://industrywired.com/cybersecurity/massive-oracle-healthcare-breach-exposed-sensitive-data-of-nearly-20-million-people-12628409">Industry Wired</source>
+    </item>
+    <item>
+      <title>Glimmer Launches Creator+ offering turnkey Managed Services for Global and Regional Creator/Influencer Campaigns on its Enterprise Platform</title>
+      <link>https://oracle-university.com/stories/glimmer-launches-creator-offering-turnkey-managed-services-for-global-and-regional-creat-79542c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/glimmer-launches-creator-offering-turnkey-managed-services-for-global-and-regional-creat-79542c/</guid>
+      <pubDate>Tue, 06 Oct 2026 08:01:53 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>As more traditional advertising dollars move to creators, Fortune 5000 brands can now benefit from the turnkey ability to offload campaign sourcing, managing and back-office payments for their global creator campaigns. Glimmer, the enterprise global content production and creator platform, announced</description>
+      <source url="https://martechseries.com/content/glimmer-launches-creator-offering-turnkey-managed-services-for-global-and-regional-creator-influencer-campaigns-on-its-enterprise-platform/">Marketing Technology Series</source>
+    </item>
+    <item>
+      <title>Oracle data breach exposes medical records of 20 million people</title>
+      <link>https://oracle-university.com/stories/oracle-data-breach-exposes-medical-records-of-20-million-people-6eb2e4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-data-breach-exposes-medical-records-of-20-million-people-6eb2e4/</guid>
+      <pubDate>Tue, 06 Oct 2026 07:37:12 GMT</pubDate>
+      <category>Security</category>
+      <description>A major cybersecurity breach at Oracle Corp.&#39;s healthcare division has exposed the personal information of nearly 20 million people.</description>
+      <source url="https://www.newsbytesapp.com/news/science/oracle-data-breach-exposes-medical-records-of-20-million-people/story">Newsbytes</source>
+    </item>
+    <item>
+      <title>Oracle Health Cyberattack Exposes Data of Nearly 20 Million People; 3 Million From Texas</title>
+      <link>https://oracle-university.com/stories/oracle-health-cyberattack-exposes-data-of-nearly-20-million-people-3-million-from-texas-08698f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-health-cyberattack-exposes-data-of-nearly-20-million-people-3-million-from-texas-08698f/</guid>
+      <pubDate>Tue, 06 Oct 2026 07:19:13 GMT</pubDate>
+      <category>Security</category>
+      <description>Oracle Health’s 2025 breach exposed sensitive data of nearly 20 million people, including Social Security numbers and medical records.</description>
+      <source url="https://www.analyticsinsight.net/news/oracle-health-cyberattack-exposes-data-of-nearly-20-million-people-3-million-from-texas">Analytics And Insight</source>
+    </item>
+    <item>
+      <title>&#39;Oracle Hiring Again?&#39;: Techie Shares Rs 42 Lakh Salary Offer, Internet Warns &#39;Bhai Mat Jao&#39; Amid Layoff Fears</title>
+      <link>https://oracle-university.com/stories/oracle-hiring-again-techie-shares-rs-42-lakh-salary-offer-internet-warns-bhai-mat-jao-am-84ebed/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-hiring-again-techie-shares-rs-42-lakh-salary-offer-internet-warns-bhai-mat-jao-am-84ebed/</guid>
+      <pubDate>Tue, 06 Oct 2026 04:44:03 GMT</pubDate>
       <category>Oracle Cloud</category>
-      <description>HPE stock soared last month on booming AI data center demand. Here&#39;s what drove the rally and why the enterprise computing giant&#39;s valuation still looks reasonable.</description>
-      <source url="https://www.fool.com/investing/2026/10/04/how-hpe-stock-gained-22-3-in-september/">Fool</source>
+      <description>An Oracle OCI offer of Rs 41-42 lakh base salary has sparked an online debate, with users weighing the attractive pay against concerns over layoffs and job stability</description>
+      <source url="https://www.news18.com/viral/oracle-hiring-again-techie-shares-rs-42-lakh-salary-offer-internet-warns-bhai-mat-jao-amid-layoff-fears-ws-l-10368816.html">News 18</source>
+    </item>
+    <item>
+      <title>FBI removes Accenture contractor for alleged involvement in a data breach that exposed details of thousands of employees</title>
+      <link>https://oracle-university.com/stories/fbi-removes-accenture-contractor-for-alleged-involvement-in-a-data-breach-that-exposed-d-2de67d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/fbi-removes-accenture-contractor-for-alleged-involvement-in-a-data-breach-that-exposed-d-2de67d/</guid>
+      <pubDate>Tue, 06 Oct 2026 03:31:20 GMT</pubDate>
+      <category>Security</category>
+      <description>The Federal Bureau of Investigation removed an Accenture contractor on Monday over their role in a damaging data breach that exposed sensitive personal details of thousands of bureau employees, two sources familiar with the matter told Reuters.</description>
+      <source url="https://www.livemint.com/companies/news/fbi-removes-accenture-contractor-for-alleged-involvement-in-a-data-breach-that-exposed-details-of-thousands-of-employees-11791257121089.html">Mint</source>
+    </item>
+    <item>
+      <title>Oracle 2025 health breach compromised data of 20 million people</title>
+      <link>https://oracle-university.com/stories/oracle-2025-health-breach-compromised-data-of-20-million-people-f7a08c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-2025-health-breach-compromised-data-of-20-million-people-f7a08c/</guid>
+      <pubDate>Tue, 06 Oct 2026 02:35:27 GMT</pubDate>
+      <category>Security</category>
+      <description>An Oracle healthcare unit breach compromised personal data of nearly 20 million people, including Social Security and medical information.</description>
+      <source url="https://www.cnbctv18.com/technology/oracle-2025-health-breach-compromised-data-of-20-million-people-cybersecurity-cyberattack-fbi-social-security-number-20005294.htm">Cnbctv18</source>
+    </item>
+    <item>
+      <title>Oracle Healthcare Breach Exposes Personal Data Of Nearly 20 Million People</title>
+      <link>https://oracle-university.com/stories/oracle-healthcare-breach-exposes-personal-data-of-nearly-20-million-people-d6f087/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-healthcare-breach-exposes-personal-data-of-nearly-20-million-people-d6f087/</guid>
+      <pubDate>Tue, 06 Oct 2026 01:25:22 GMT</pubDate>
+      <category>Security</category>
+      <description>In a report issued Friday, the Texas AG said the company disclosed that Social Security numbers, addresses and medical information of almost 20 million people, including about 3 million Texans, were taken in the hack.</description>
+      <source url="https://www.ndtvprofit.com/markets/oracle-healthcare-breach-exposes-personal-data-of-nearly-20-million-people-12143511">Ndtv Profit</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -394,69 +457,6 @@
       <category>Applications &amp; NetSuite</category>
       <description>In this Episode Orlaith Lawton speaks with Oracle ACE Roberto Capancioni about the importance of APEX and why it is the world&#39;s most popular low-code application platform. ------------------------------------------------------ Episode Transcript: 00:00:00:00 - 00:00:35:14 Unknown Welcome to the Orac</description>
       <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-transformative-power-of-low-code-development">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Understanding Security Risks and Threats in the Cloud - Part 1</title>
-      <link>https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</guid>
-      <pubDate>Tue, 18 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>This week, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to explore what truly keeps data safe, and what puts it at risk. They discuss the CIA triad, dive into hashing and encryption, and shed light on how cyber threats like malware, phishing, and ransomware t</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/understanding-security-risks-and-threats-in-the-cloud-part-1">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Networking &amp; Security Essentials</title>
-      <link>https://oracle-university.com/stories/networking-security-essentials-113af4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/networking-security-essentials-113af4/</guid>
-      <pubDate>Tue, 11 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>How do all your devices connect and stay safe in the cloud? In this episode, Lois Houston and Nikita Abraham talk with OCI instructors Sergio Castro and Orlando Gentil about the basics of how networks work and the simple steps that help protect them. You&#39;ll learn how information gets from one place </description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/networking-security-essentials">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Inside Cloud Networking</title>
-      <link>https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</guid>
-      <pubDate>Tue, 04 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>In this episode, hosts Lois Houston and Nikita Abraham team up with Senior Principal OCI Instructor Sergio Castro to unpack the basics of cloud networking and the Domain Name System (DNS). You&#39;ll learn how local and virtual networks connect devices, and how DNS seamlessly translates familiar names l</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/inside-cloud-networking">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 4</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</guid>
-      <pubDate>Tue, 28 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>In this episode, hosts Lois Houston and Nikita Abraham, along with Principal OCI Instructor Orlando Gentil, break down the differences between Infrastructure-as-a-Service, Platform-as-a-Service, and Software-as-a-Service. The conversation explores how each framework influences control, cost efficien</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-4">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 3</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</guid>
-      <pubDate>Tue, 21 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Have you ever considered how a single server can support countless applications and workloads at once? In this episode, hosts Lois Houston and Nikita Abraham, together with Principal OCI Instructor Orlando Gentil, explore the sophisticated technologies that make this possible in modern cloud data ce</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-3">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>AI and Security</title>
-      <link>https://oracle-university.com/stories/ai-and-security-7b0e26/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-and-security-7b0e26/</guid>
-      <pubDate>Tue, 14 Oct 2025 15:58:49 GMT</pubDate>
-      <category>Security</category>
-      <description>In this episode host Oracle Academy Program Manager Benelux &amp; DACH Rik Bleeker speaks with Oracle expert Thomas Minne on the crucial intersection of Artificial Intelligence and data security, explaining why the Oracle Database is foundational to both. Drawing on his 15 years as a DBA and current rol</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-and-security">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 2</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-2-9a562f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-2-9a562f/</guid>
-      <pubDate>Tue, 14 Oct 2025 06:44:39 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Have you ever wondered where all your digital memories, work projects, or favorite photos actually live in the cloud? In this episode, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to discuss cloud storage. They explore how data is carefully organized, the dif</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-2">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
