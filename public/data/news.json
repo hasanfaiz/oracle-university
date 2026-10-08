@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T23:54:58.158Z",
+  "generatedAt": "2026-10-08T00:16:43.159Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,192 +7,251 @@
   },
   "items": [
     {
-      "id": "89becf7b6236652a",
-      "slug": "big-short-investor-steve-eisman-pushes-back-on-michael-burry-s-ai-chip-depreciation-thes-072d3a",
-      "title": "'Big Short’ Investor Steve Eisman Pushes Back on Michael Burry’s AI Chip Depreciation Thesis: 'I Think He is Wrong…’",
-      "dek": "Steve Eisman challenges Michael Burry’s AI accounting warning, calling depreciation concerns “too academic” amid strong chip demand.",
-      "url": "https://www.benzinga.com/markets/tech/26/10/62185741/big-short-investor-steve-eisman-pushes-back-on-michael-burrys-ai-chip-depreciation-thesis-i-think-he-is-wrong",
-      "source": "Benzinga",
+      "id": "b22070609620ea7b",
+      "slug": "tech-companies-tap-debt-equity-to-fund-ai-and-cloud-expansion-a249cd",
+      "title": "Tech companies tap debt, equity to fund AI and cloud expansion",
+      "dek": "The world’s largest technology companies are tapping debt markets and raising equity to bolster AI infrastructure, marking a shift for Silicon Valley firms that typically relied on cash to fund their investments.",
+      "url": "https://www.cp24.com/news/money/2026/10/07/tech-companies-tap-debt-equity-to-fund-ai-and-cloud-expansion/",
+      "source": "Cp24",
       "sourceType": "external",
-      "image": "https://cdn.benzinga.com/files/images/story/2026/10/06/An-Ai-Prediction-Of-Financial-Growth-And.jpg?crop=600:400,smart&optimize=medium",
-      "publishedAt": "2026-10-06T11:40:30.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://www.cp24.com/resizer/v2/APUNCTFLND3VQOBULBG7LEIHBY.jpg?auth=c17dbab8e58c93b7ef17d1e970867e5ed22357b9271ab7a5db2cd3c97ff93c24&smart=true&width=1400&height=933",
+      "publishedAt": "2026-10-07T12:12:39.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "analyst color",
-        "tech",
-        "steve eisman",
-        "markets",
-        "michael burry"
+        "apple-news"
       ],
       "priority": 43
     },
     {
-      "id": "f7fd3fa2ce151a3d",
-      "slug": "startup-news-and-updates-daily-roundup-october-6-2026-9972ae",
-      "title": "Startup news and updates: daily roundup (October 6, 2026)",
-      "dek": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Tuesday, October 6, 2026. Social media and children remains a top concern on its harmful effect as fresh developments emerge from the world of cricket, YourStory brings you today’s headl",
-      "url": "https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-6-2026",
-      "source": "Yourstory",
+      "id": "930c2037b00eda97",
+      "slug": "qiagen-expands-ai-powered-bioinformatics-for-drug-discovery-ac1254",
+      "title": "QIAGEN Expands AI-Powered Bioinformatics for Drug Discovery",
+      "dek": "AI-based bioinformatics solutions by QIAGEN have been recently enhanced with the introduction of IPA Investigator, an AI research assistant for QIAGEN Ingenuity Pathway Analysis (IPA) software, and QIAGEN Discovery Platform, which integrates AI into drug discovery pipelines. The latest additions are",
+      "url": "https://itdigest.com/healthtech/biotech/qiagen-expands-ai-powered-bioinformatics-for-drug-discovery/",
+      "source": "Itdigest",
       "sourceType": "external",
-      "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/DailyRoundupImages1600x900-1774005165949.jpg",
-      "publishedAt": "2026-10-06T11:30:52.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [],
-      "priority": 43
-    },
-    {
-      "id": "bad022c8f207c45b",
-      "slug": "critical-review-vivakor-otcmkts-vivkd-versus-rimini-street-nasdaq-rmni-52c958",
-      "title": "Critical Review: Vivakor (OTCMKTS:VIVKD) versus Rimini Street (NASDAQ:RMNI)",
-      "dek": "Rimini Street (NASDAQ:RMNI – Get Free Report) and Vivakor (OTCMKTS:VIVKD – Get Free Report) are both small-cap technology companies, but which is the superior stock? We will contrast the two companies based on the strength of their profitability, dividends, earnings, risk, valuation, analyst recomme",
-      "url": "https://www.thelincolnianonline.com/2026/10/06/critical-review-vivakor-otcmktsvivkd-versus-rimini-street-nasdaqrmni.html",
-      "source": "The Lincolnian Online",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/vivakor-inc-logo-1200x675.png?v=20220427121158",
-      "publishedAt": "2026-10-06T11:29:03.000Z",
-      "topic": "Security",
+      "image": "https://itdigest.com/wp-content/uploads/2026/10/QIAGEN-Expands-AI-Powered-Bioinformatics-for-Drug-Discovery-scaled.webp",
+      "publishedAt": "2026-10-07T11:40:54.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "comparison articles",
-        "stocks"
+        "ai research",
+        "qiagen",
+        "ipa investigator",
+        "itdigest",
+        "news",
+        "healthtech"
       ],
       "priority": 43
     },
     {
-      "id": "1ee0a03f3262a2c7",
-      "slug": "accenture-contractor-removed-from-fbi-after-data-leak-that-exposed-personal-details-of-t-7131c1",
-      "title": "Accenture contractor removed from FBI after data leak that exposed personal details of thousands of bureau employees, comes weeks after Google's 'warning'",
-      "dek": "A significant data breach at the FBI has exposed sensitive details of several employees, including their medical histories. The incident unfolded when a contractor neglected to apply a vital security patch on a third-party system overseen by Accenture. Officials attribute the breach to a hacking col",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/accenture-contractor-removed-from-fbi-after-data-leak-that-exposed-personal-details-of-thousands-of-bureau-employees-comes-weeks-after-googles-warning/articleshow/134738458.cms",
-      "source": "The Times Of India",
+      "id": "8380d2a36cfb210c",
+      "slug": "saudi-arabia-teleradiology-market-size-to-reach-us-652-06-million-by-2034-at-21-64-cagr--ffa0a9",
+      "title": "Saudi Arabia Teleradiology Market Size to Reach US$ 652.06 Million by 2034 at 21.64% CAGR | AI and Cloud Adoption Unlock Digital Health Investment Opportunities",
+      "dek": "Cloud, AI, PACS/RIS integration and secure digital infrastructure help providers cut reporting delays, optimize imaging workflows and expand specialist access Cloud, AI, PACS/RIS integration and secure digital infrastructure help providers cut reporting delays, optimize imaging workflows and expand ",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/10/07/3376381/28124/en/saudi-arabia-teleradiology-market-size-to-reach-us-652-06-million-by-2034-at-21-64-cagr-ai-and-cloud-adoption-unlock-digital-health-investment-opportunities.html",
+      "source": "Globenewswire_fr",
       "sourceType": "external",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-134738585/134738585.jpg",
-      "publishedAt": "2026-10-06T11:10:42.000Z",
-      "topic": "Security",
-      "tags": [
-        "fbi data breach",
-        "accenture contractor removed",
-        "fbi",
-        "google warning on hacking",
-        "oracle peoplesoft security"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "c38b6ca056008962",
-      "slug": "fbi-drops-accenture-contractor-following-data-breach-a691b0",
-      "title": "FBI drops Accenture contractor following data breach",
-      "dek": "WASHINGTON: The Federal Bureau of Investigation (FBI) removed an Accenture contractor on Monday over their role in a damaging data breach that exposed sensitive personal details of thousands of bureau employees, two sources familiar with the matter told Reuters. The development comes as the FBI is s",
-      "url": "https://thesun.my/business/fbi-drops-accenture-contractor-following-data-breach/",
-      "source": "Thesun",
-      "sourceType": "external",
-      "image": "https://thesun.my/wp-content/uploads/2026/10/images.png",
-      "publishedAt": "2026-10-06T10:49:08.000Z",
-      "topic": "Security",
-      "tags": [
-        "business",
-        "global"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "413953ccb1f1b449",
-      "slug": "google-unleashes-ai-on-aging-enterprise-tech-with-new-cloud-modernization-suite-42a55b",
-      "title": "Google Unleashes AI on Aging Enterprise Tech With New Cloud Modernization Suite",
-      "dek": "Alphabet expands Google Cloud with AI modernization tools as Meta intensifies competition in consumer AI and agentic search.",
-      "url": "https://www.benzinga.com/markets/tech/26/10/62184431/google-unleashes-ai-on-aging-enterprise-tech-with-new-cloud-modernization-suite",
-      "source": "Benzinga",
-      "sourceType": "external",
-      "image": "https://cdn.benzinga.com/files/images/story/2026/10/06/Stuttgart--Germany---July-20--2023-Googl.jpg?crop=600:400,smart&optimize=medium",
-      "publishedAt": "2026-10-06T10:38:27.000Z",
+      "image": "",
+      "publishedAt": "2026-10-07T11:23:00.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "news",
-        "why it's moving",
-        "expert ideas",
-        "tech",
-        "media"
+        "research analysis and reports"
       ],
       "priority": 42
     },
     {
-      "id": "f062647cebc64b8b",
-      "slug": "atos-lands-350m-beat-keeping-met-police-applications-running-8ac8fd",
-      "title": "Atos lands £350M beat keeping Met Police applications running",
-      "dek": "Six-year deal covers management and security, with options to add cloud and digital workplace services",
-      "url": "https://www.theregister.com/public-sector/2026/10/06/atos-lands-350m-beat-keeping-met-police-applications-running/5301310",
-      "source": "The Register",
+      "id": "00f8d10b3616c2a2",
+      "slug": "vmware-licensing-costs-are-driving-customers-toward-multi-hypervisor-and-container-strat-997494",
+      "title": "VMware licensing costs are driving customers toward multi-hypervisor and container strategies",
+      "dek": "A Rimini Street survey of 300 organizations worldwide that use VMware found that 60% are considering a multi-hypervisor strategy. Another 47% favor using both hypervisors and containers, allowing them to choose where to run different workloads. Rimini sells third-party support for VMware and other e",
+      "url": "https://www.techspot.com/news/114121-vmware-licensing-costs-driving-customers-toward-multi-hypervisor.html",
+      "source": "Techspot",
       "sourceType": "external",
-      "image": "https://image.theregister.com/236993.webp?width=1200",
-      "publishedAt": "2026-10-06T10:29:00.000Z",
-      "topic": "Security",
+      "image": "https://www.techspot.com/images2/news/bigimage/2026/10/2026-10-06-image-22.jpg",
+      "publishedAt": "2026-10-07T11:15:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 42
+    },
+    {
+      "id": "3d9f4c6c8d1aeda0",
+      "slug": "oracle-corporation-orcl-to-distribute-quarterly-dividend-of-0-50-on-october-23rd-4a196d",
+      "title": "Oracle Corporation (ORCL) to Distribute Quarterly Dividend of $0.50 on October 23rd",
+      "dek": "Oracle Corporation (NYSE:ORCL – Get Free Report) declared a quarterly dividend on Wednesday, September 9th. Investors of record on Friday, October 9th will be paid a dividend of $0.50 per share by the enterprise software provider on Friday, October 23rd. This represents a $2.00 dividend on an annual",
+      "url": "https://www.defenseworld.net/2026/10/07/oracle-corporation-orcl-to-distribute-quarterly-dividend-of-0-50-on-october-23rd.html",
+      "source": "Defenseworld Net",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-10-07T11:11:08.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "public sector"
+        "dividend articles",
+        "companies"
       ],
       "priority": 42
     },
     {
-      "id": "07f1834cfb7321b6",
-      "slug": "population-health-management-market-2033-181-43-billion-growth-ai-powered-care-managemen-da43f2",
-      "title": "Population Health Management Market (2033): $181.43 Billion Growth, AI-Powered Care Management & Value-Based Care Driving United States Expansion",
-      "dek": "Lightbeam Health Solutions, a population health management technology provider, has expanded its AI-enabled value-based care capabilities through the December 2025 acquisition of Syntax Health, adding contract modeling, incentive design, and actuarial capabilities to its platform. Lightbeam currentl",
-      "url": "https://www.openpr.com/news/4652750/population-health-management-market-2033-181-43-billion",
+      "id": "9640c38e176b2efd",
+      "slug": "recruitment-process-outsourcing-market-strengthens-as-95-crore-taggd-acquisition-acceler-11d526",
+      "title": "Recruitment Process Outsourcing Market Strengthens as ₹95 Crore Taggd Acquisition Accelerates AI-Powered Talent Solutions",
+      "dek": "EMA Partners India acquired digital Recruitment Process Outsourcing (RPO) provider Taggd for ₹95 crore in an all-cash transaction in June 2026, combining executive search, professional search, and AI-powered RPO capabilities. The deal strengthens the shift toward integrated, technology-enabled talen",
+      "url": "https://www.openpr.com/news/4654048/recruitment-process-outsourcing-market-strengthens-as-95",
       "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/a/La06760509_k.jpg",
-      "publishedAt": "2026-10-06T10:20:02.000Z",
+      "image": "https://cdn.open-pr.com/L/a/La07381480_k.jpg",
+      "publishedAt": "2026-10-07T11:08:45.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "health & medicine"
+        "it",
+        "new media & software"
       ],
       "priority": 42
     },
     {
-      "id": "ad83cc924f80bfbe",
-      "slug": "why-are-nasdaq-dow-futures-rising-premarket-spcx-nvda-ceg-amd-orcl-nok-in-focus-fc067a",
-      "title": "Why Are Nasdaq, Dow Futures Rising Premarket? SPCX, NVDA, CEG, AMD, ORCL, NOK In Focus",
-      "dek": "On Stocktwits, retail sentiment toward SPY and QQQ has turned ‘extremely bullish,’ supported by the rally in tech stocks.",
-      "url": "https://newsable.asianetnews.com/markets/why-are-nasdaq-dow-futures-rising-premarket-spcx-nvda-ceg-amd-orcl-nok-in-focus-articleshow-0e10cc9",
-      "source": "Asianet Newsable",
+      "id": "32c156ef3da0442a",
+      "slug": "core-banking-software-market-size-to-reach-usd-65-39-billion-by-2034-growing-at-18-0-cag-d07d1c",
+      "title": "Core Banking Software Market Size to Reach USD 65.39 Billion by 2034, Growing at 18.0% CAGR",
+      "dek": "The Global Core Banking Software Market is entering a period of sustained, double-digit expansion as banks replace legacy systems with cloud-native, API-first and composable platforms. According to the newly released Epignosis Insights study, Core Banking Software Market: Vendor Innovation, Strategi",
+      "url": "https://www.openpr.com/news/4653746/core-banking-software-market-size-to-reach-usd-65-39-billion",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-f1e093fe-b2a0-4d38-bad1-2c4fcf8f24c8.jpg",
-      "publishedAt": "2026-10-06T09:50:01.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://cdn.open-pr.com/L/a/La07708092_k.jpg",
+      "publishedAt": "2026-10-07T11:07:53.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "markets"
+        "it",
+        "new media & software"
       ],
-      "priority": 41
+      "priority": 42
     },
     {
-      "id": "28fe717f76a5dbcb",
-      "slug": "oracle-cloud-reported-data-breach-legacy-server-leads-to-20-million-victims-35b4c5",
-      "title": "Oracle Cloud Reported Data Breach: Legacy Server Leads to 20 Million Victims",
-      "dek": "Oracle denied a cloud breach but later confirmed unauthorized access to legacy Cerner data, exposing 20 million people's records including medical information, mandating a review of non‑cloud data security protocols.",
-      "url": "https://us.headtopics.com/news/oracle-cloud-reported-data-breach-legacy-server-leads-to-88504532",
-      "source": "Headtopics",
+      "id": "cb598741d2cde4eb",
+      "slug": "airtel-business-claims-enterprise-comms-first-for-india-with-iq-gateway-ddb074",
+      "title": "Airtel Business claims enterprise comms first for India with IQ Gateway",
+      "dek": "With SMS, WhatsApp , RCS and a variety of voice services all now part and parcel of enterprises’ communications portfolios, managing fragmented customer communication stacks across multiple service providers and tools has become an issue, and Airtel Business ’s answer to the problem has launched to ",
+      "url": "https://www.computerweekly.com/news/366651933/Airtel-Business-claims-enterprise-comms-first-for-India-with-IQ-Gateway",
+      "source": "Techtarget",
       "sourceType": "external",
-      "image": "https://i.headtopics.com/images/2026/10/6/gizmodo/oracle-cloud-reported-data-breach-legacy-server-le-oracle-cloud-reported-data-breach-legacy-server-le-92F1977819C16B1605049A31BC7FCF65-16x9.webp",
-      "publishedAt": "2026-10-06T09:38:00.000Z",
+      "image": "https://cdn.ttgtmedia.com/visuals/LeMagIT/hero_article/server_infrastructure_AdobeStock_271134500_smaller.jpeg",
+      "publishedAt": "2026-10-07T11:00:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "Security"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "0006a1238bef4ec5",
+      "slug": "accenture-contractor-removed-over-blunder-in-lead-up-to-fbi-breach-14c2fe",
+      "title": "Accenture contractor removed over blunder in lead up to FBI breach",
+      "dek": "The contractor is believed to have failed to apply a security patch that would have secured Oracle PeopleSoft",
+      "url": "https://www.itpro.com/security/accenture-contractor-removed-over-blunder-in-lead-up-to-fbi-breach",
+      "source": "Itpro",
+      "sourceType": "external",
+      "image": "https://cdn.mos.cms.futurecdn.net/jRkfi6dgPf8sAehLXuGT3a-1920-80.jpg",
+      "publishedAt": "2026-10-07T10:31:38.000Z",
       "topic": "Security",
       "tags": [
-        "data security mandatory mandatory mandate mandator",
-        "legacy server",
-        "data breach",
-        "mandatory mandatory mandatory mandatory mandatory",
-        "technology",
-        "oracle cloud"
+        "security"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "f0c5bfe7051d4647",
+      "slug": "top-10-ai-agent-platforms-for-enterprises-08545e",
+      "title": "Top 10 AI Agent Platforms for Enterprises",
+      "dek": "How leading enterprise AI platforms are helping organisations build, deploy, govern, and scale autonomous AI agents Moving from chatbot and content generation to AI agents that think and plan, use tools, may incorporate enterprise data, and can take multiple actions. Generating several actions, gene",
+      "url": "https://www.eletimes.ai/top-10-ai-agent-platforms-for-enterprises",
+      "source": "Ele Times",
+      "sourceType": "external",
+      "image": "https://www.eletimes.ai/wp-content/uploads/2026/10/Top-10-AI-Agent-Platforms-for-Enterprises.jpg",
+      "publishedAt": "2026-10-07T10:30:42.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "ele times top 10",
+        "artificial intelligence"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "186a742325b26253",
+      "slug": "qlik-achieves-aws-data-competency-advancing-open-and-end-to-end-data-innovation-8a804e",
+      "title": "Qlik achieves AWS Data Competency, advancing open and end-to-end data innovation",
+      "dek": "Qlik has achieved the AWS Data Competency in the Relational Database category, recognizing Qlik’s demonstrated expertise delivering unified data architectures on Amazon Web Services (AWS), helping organizations build the data foundations that power modern analytics and AI workloads. Achieving the AW",
+      "url": "https://etedge-insights.com/trending/qlik-achieves-aws-data-competency-advancing-open-and-end-to-end-data-innovation/",
+      "source": "Et Edge Insights - The New Paradigm Of Business In",
+      "sourceType": "external",
+      "image": "https://etedge-insights.com/wp-content/uploads/2026/03/shutterstock_2677202313.jpg",
+      "publishedAt": "2026-10-07T10:24:40.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "qlik",
+        "aws",
+        "data competency",
+        "trending"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "62f8e3f5f57a457f",
+      "slug": "sovereign-ai-cloud-market-accelerates-as-uk-launches-500-million-sovereign-ai-fund-to-st-e86c7f",
+      "title": "Sovereign AI Cloud Market Accelerates as UK Launches £500 Million Sovereign AI Fund to Strengthen Domestic AI Infrastructure",
+      "dek": "The UK government has launched a £500 million Sovereign AI initiative to back homegrown AI companies and strengthen domestic capabilities across compute, infrastructure, foundation models and AI security. The program is designed to provide investment, access to public compute and",
+      "url": "https://www.openpr.com/news/4653939/sovereign-ai-cloud-market-accelerates-as-uk-launches-500",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/a/La07844742_k.jpg",
+      "publishedAt": "2026-10-07T10:09:13.000Z",
+      "topic": "Security",
+      "tags": [
+        "it",
+        "new media & software"
       ],
       "priority": 41
     },
     {
-      "id": "2be8b4d30193f08a",
-      "slug": "cognizant-selected-by-sita-to-deliver-ai-led-global-finance-transformation-on-the-cloud-e00b75",
-      "title": "Cognizant Selected by SITA to Deliver AI-Led Global Finance Transformation on the Cloud",
-      "dek": "Collaboration will help SITA create a Frontier Finance function - data-driven, innovative and focused on growth and measurable business value - using AI and new ways of working AMSTERDAM and GENEVA, Oct. 6, 2026 /PRNewswire/ -- Cognizant (Nasdaq: CTSH) today announced that it has been selected by S.",
-      "url": "https://www.itbiznews.com/news/articleView.html?idxno=227166",
-      "source": "It비즈뉴스",
+      "id": "53a250974224cc39",
+      "slug": "path-infotech-takes-enterprise-ai-past-the-proof-of-concept-and-into-production-at-oracl-3be8b9",
+      "title": "Path Infotech Takes Enterprise AI Past the Proof of Concept and Into Production at Oracle AI World 2026",
+      "dek": "India Morning Times is an online news publication focusing on the India: Your daily news update on India",
+      "url": "https://indiamorningtimes.com/article/947909646-path-infotech-takes-enterprise-ai-past-the-proof-of-concept-and-into-production-at-oracle-ai-world-2026",
+      "source": "Indiamorningtimes",
       "sourceType": "external",
-      "image": "https://cdn.itbiznews.com/news/photo/202610/227166_230946_3008.jpg",
-      "publishedAt": "2026-10-06T09:34:34.000Z",
+      "image": "",
+      "publishedAt": "2026-10-07T10:00:04.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "AI"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "b49a2aabc8fb3c8c",
+      "slug": "bare-metal-cloud-market-advances-as-jane-street-commits-6-billion-to-coreweave-s-ai-clou-a9dd4a",
+      "title": "Bare Metal Cloud Market Advances as Jane Street Commits $6 Billion to CoreWeave's AI Cloud Expansion",
+      "dek": "Jane Street committed approximately $6 billion to CoreWeave's AI cloud platform in April 2026, alongside a $1 billion equity investment, expanding access to next-generation compute across multiple facilities, including NVIDIA Vera Rubin technology. The agreement highlights accelerating demand for de",
+      "url": "https://www.openpr.com/news/4653900/bare-metal-cloud-market-advances-as-jane-street-commits-6",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/a/La07602468_k.jpg",
+      "publishedAt": "2026-10-07T09:47:50.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "it",
+        "new media & software"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "9813027a027177ea",
+      "slug": "oracle-to-cut-another-70-jobs-in-ireland-in-ai-cost-cutting-push-9e9c00",
+      "title": "Oracle to cut another 70 jobs in Ireland in AI cost-cutting push",
+      "dek": "Cloud computing giant has already shed around 150 Irish roles this year",
+      "url": "https://www.irishtimes.com/business/2026/10/07/oracle-to-cut-another-70-jobs-in-ireland-in-ai-cost-cutting-push/",
+      "source": "The Irish Times",
+      "sourceType": "external",
+      "image": "https://www.irishtimes.com/resizer/v2/D4CIJGFRY362DSGIHX63EMG7X4.jpg?smart=true&auth=a458dca812b2da375b6e54dc39ef09a7ce3e23d5201eee886962ed2d5fa4f7a3&width=1200&height=630",
+      "publishedAt": "2026-10-07T09:44:16.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
         "AI"
@@ -200,229 +259,180 @@
       "priority": 41
     },
     {
-      "id": "50ef91524689a9e8",
-      "slug": "nvidia-s-record-high-raises-a-bigger-question-about-how-far-the-rally-can-run-12de66",
-      "title": "Nvidia’s Record High Raises a Bigger Question About How Far the Rally Can Run",
-      "dek": "Market Analysis by covering: NVIDIA Corporation. Read 's Market Analysis on Investing.com",
-      "url": "https://www.investing.com/analysis/nvidias-record-high-raises-a-bigger-question-about-how-far-the-rally-can-run-200689011",
-      "source": "Investing Us",
+      "id": "c2eb6a3d1ef041ad",
+      "slug": "saudi-s-economic-transformation-collides-with-war-and-falling-fdi-2ea52c",
+      "title": "Saudi’s economic transformation collides with war and falling FDI",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://fortune.com/2026/10/07/saudi-economic-transformation-collides-war-falling-fdi/",
+      "source": "Fortune",
       "sourceType": "external",
-      "image": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
-      "publishedAt": "2026-10-06T09:26:00.000Z",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-1775590070-e1791365726504.jpg?w=2048",
+      "publishedAt": "2026-10-07T09:36:55.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "nvidia corporation"
+        "newsletters"
       ],
       "priority": 41
     },
     {
-      "id": "075b46766b793eb5",
-      "slug": "cognizant-wins-sita-mandate-for-ai-led-finance-transformation-3b671a",
-      "title": "Cognizant wins SITA mandate for AI-led finance transformation",
-      "dek": "Cognizant (CTSH) will help SITA roll out Oracle Fusion Cloud ERP worldwide, adding AI insights for finance and supply chain.",
-      "url": "https://seekingalpha.com/news/4650436-cognizant-wins-sita-mandate-for-ai-led-finance-transformation?feed_item_type=news",
-      "source": "Seeking Alpha",
+      "id": "dfcca692fcfe926f",
+      "slug": "knowledge-graph-market-advances-as-neo4j-commits-100-million-to-genai-and-agentic-ai-exp-0dc84a",
+      "title": "Knowledge Graph Market Advances as Neo4j Commits $100 Million to GenAI and Agentic AI Expansion",
+      "dek": "The global Knowledge Graph Market is gaining strategic momentum as Neo4j announced a $100 million investment in October 2025 to accelerate GenAI product innovation, expand agentic AI offerings, and support 1,000 AI-native startups worldwide over 12 months. The investment reinforces",
+      "url": "https://www.openpr.com/news/4653869/knowledge-graph-market-advances-as-neo4j-commits-100-million",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1445224795/image_1445224795.jpg?io=getty-c-w1280",
-      "publishedAt": "2026-10-06T09:15:04.000Z",
+      "image": "https://cdn.open-pr.com/L/a/La07209724_k.jpg",
+      "publishedAt": "2026-10-07T09:36:53.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "it",
+        "new media & software"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "aa8af3e976ed93e8",
+      "slug": "iot-in-healthcare-market-to-reach-us-594-8-billion-by-2033-at-16-4-cagr-connected-medica-5f5cac",
+      "title": "IoT in Healthcare Market to Reach US$594.8 Billion by 2033 at 16.4% CAGR; Connected Medical Devices and Remote Patient Monitoring Drive Market Growth - Key Players: Medtronic, Cisco Systems, Inc., IBM Corporation",
+      "dek": "The global IoT in Healthcare market is gaining commercial traction as connected medical devices, remote patient monitoring, and digital care infrastructure move deeper into routine healthcare delivery. According to DataM Intelligence, the telemedicine segment accounted for approximately 29.6% of the",
+      "url": "https://www.openpr.com/news/4653844/iot-in-healthcare-market-to-reach-us-594-8-billion-by-2033",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/a/La07907109_k.jpg",
+      "publishedAt": "2026-10-07T09:25:38.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "ctsh"
+        "health & medicine"
       ],
       "priority": 41
     },
     {
-      "id": "fe3c1a31c15db761",
-      "slug": "cloud-computing-platforms-for-machine-learning-b05dd1",
-      "title": "Cloud Computing Platforms for Machine Learning",
-      "dek": "Cloud computing platforms provide scalable infrastructure, tools and managed services for data processing, model development, training, deployment and monitoring Machine Learning models without requiring organizations to build and maintain all the underlying infrastructure themselves. These platform",
-      "url": "https://www.geeksforgeeks.org/machine-learning/cloud-computing-platforms-for-machine-learning/",
-      "source": "Geeksforgeeks",
+      "id": "cd0bf370b8d151d7",
+      "slug": "pharmacy-automation-systems-market-gains-new-ground-as-bd-vmax-160-handles-high-volume-s-d12b8d",
+      "title": "Pharmacy Automation Systems Market Gains New Ground as BD Vmax 160 Handles High-Volume Specialty Medication Fulfillment",
+      "dek": "BD and Fairview Health Services announced the first U.S. deployment of the BD Vmax 160 in September 2026, bringing high-speed unit-of-use pharmacy automation to Fairview's centralized outpatient pharmacy operations. Fairview fills an average of 20,000 prescriptions per week across its",
+      "url": "https://www.openpr.com/news/4653821/pharmacy-automation-systems-market-gains-new-ground-as-bd-vmax",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://media.geeksforgeeks.org/wp-content/uploads/20261005165941960938/frame_4146.webp",
-      "publishedAt": "2026-10-06T09:10:19.000Z",
-      "topic": "Training & Certification",
+      "image": "https://cdn.open-pr.com/L/a/La07446127_k.jpg",
+      "publishedAt": "2026-10-07T09:16:21.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "machine learning algorithms",
-        "ibm cloud",
-        "microsoft azure",
-        "amazon web services",
-        "cloud services",
-        "cognitive services"
+        "health & medicine"
       ],
       "priority": 41
     },
     {
-      "id": "ecb399c11f730beb",
-      "slug": "addressing-the-digital-shift-ai-accounting-erp-trend-in-singapore-3773da",
-      "title": "Addressing the Digital Shift – AI Accounting ERP Trend in Singapore",
-      "dek": "Selecting a scalable enterprise solution is no longer just an operational choice; it is a core business strategy. For small and medium businesses navigating a highly digitalized economy, legacy architectures fail to meet modern efficiency standards. Integrating advanced automation into financial wor",
-      "url": "https://e27.co/top-5-popular-ai-accounting-erp-for-smb-in-singapore-20261006/",
-      "source": "E27",
+      "id": "fbd4bf8007780ef5",
+      "slug": "32-unique-0-days-exploited-in-samsung-s26-pixel-10-openai-codex-and-other-devices-in-pwn-6d84b6",
+      "title": "32 Unique 0-Days Exploited in Samsung S26, Pixel 10, OpenAI Codex and Other Devices in Pwn2Own 2026",
+      "dek": "Security researchers reportedly exploited 32 unique zero-day vulnerabilities and earned $388,500 on the opening day of Pwn2Own Ireland 2026. Samsung Galaxy S26, OpenAI Codex, smart home devices and AI services fell to working exploits, but the Google Pixel 10 attempt failed within the contest time l",
+      "url": "https://cybersecuritynews.com/32-0-days-pwn2own-2026/",
+      "source": "Cybersecuritynews",
       "sourceType": "external",
-      "image": "https://e27.co/wp-content/uploads/2026/10/Gemini_Generated_Image_dddjvadddjvadddj-scaled.jpeg",
-      "publishedAt": "2026-10-06T08:55:15.000Z",
+      "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/32-0-Days-Pwn2Own-2026.webp",
+      "publishedAt": "2026-10-07T08:27:31.000Z",
+      "topic": "Security",
+      "tags": [
+        "cyber security",
+        "cyber security news"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "9eb598eeb17caadf",
+      "slug": "ember-ai-launches-strategic-partner-program-and-new-oracle-health-integration-12cb40",
+      "title": "Ember AI Launches Strategic Partner Program and New Oracle Health Integration",
+      "dek": "Marketplace presence with athenahealth, ModMed, Veradigm and expanded EHR connectivity make proactive revenue integrity easier to deploy within providers’ existing technology Ember AI, the AI-powered revenue integrity platform that helps healthcare organizations collect every dollar they’ve earned, ",
+      "url": "https://salestechstar.com/predictive-ai-artificial-intelligence/ember-ai-launches-strategic-partner-program-and-new-oracle-health-integration/",
+      "source": "Salestech Star",
+      "sourceType": "external",
+      "image": "https://salestechstar.com/wp-content/uploads/2026/01/Launch_-5-1.jpg",
+      "publishedAt": "2026-10-07T08:20:45.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "enterprise tech",
-        "global",
-        "artificial intelligence"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "7b92b019a31653ab",
-      "slug": "uipath-test-cloud-now-available-on-oracle-marketplace-6eebcc",
-      "title": "UiPath Test Cloud Now Available on Oracle Marketplace",
-      "dek": "Agentic, intelligent testing capabilities designed to help organizations automate and scale testing across Oracle application environments NEW YORK...",
-      "url": "https://greenstocknews.com/news/nyse/path/uipath-test-cloud-now-available-on-oracle-marketplace",
-      "source": "Green Stock News",
-      "sourceType": "external",
-      "image": "https://greenstocknews.com/images/ogimage.jpg",
-      "publishedAt": "2026-10-06T08:31:01.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [],
-      "priority": 40
-    },
-    {
-      "id": "f10cb4f218161c66",
-      "slug": "massive-oracle-healthcare-breach-exposed-sensitive-data-of-nearly-20-million-people-b3765d",
-      "title": "Massive Oracle Healthcare Breach Exposed Sensitive Data of Nearly 20 Million People",
-      "dek": "A cybersecurity breach at Oracle Corp.’s healthcare unit last year compromised personal information belonging to nearly 20 million people, according to information released by the Texas attorney general. The disclosure provides a clearer picture of the scale of an attack that Oracle first reported t",
-      "url": "https://industrywired.com/cybersecurity/massive-oracle-healthcare-breach-exposed-sensitive-data-of-nearly-20-million-people-12628409",
-      "source": "Industry Wired",
-      "sourceType": "external",
-      "image": "https://img-cdn.publive.online/fit-in/1280x960/industry-wired/media/media_files/2026/10/06/oracle-2026-10-06-12-57-51.jpg",
-      "publishedAt": "2026-10-06T08:10:37.000Z",
-      "topic": "Security",
-      "tags": [
+        "sales engagement",
         "news",
-        "cybersecurity"
+        "sales technology news",
+        "modmed",
+        "salestech",
+        "sales & marketing"
       ],
       "priority": 40
     },
     {
-      "id": "0cc9fca9e5807937",
-      "slug": "glimmer-launches-creator-offering-turnkey-managed-services-for-global-and-regional-creat-79542c",
-      "title": "Glimmer Launches Creator+ offering turnkey Managed Services for Global and Regional Creator/Influencer Campaigns on its Enterprise Platform",
-      "dek": "As more traditional advertising dollars move to creators, Fortune 5000 brands can now benefit from the turnkey ability to offload campaign sourcing, managing and back-office payments for their global creator campaigns. Glimmer, the enterprise global content production and creator platform, announced",
-      "url": "https://martechseries.com/content/glimmer-launches-creator-offering-turnkey-managed-services-for-global-and-regional-creator-influencer-campaigns-on-its-enterprise-platform/",
-      "source": "Marketing Technology Series",
+      "id": "17cc44805a7cdff6",
+      "slug": "2024-to-2030-charting-the-u-s-concierge-medicine-market-s-growth-in-numbers-2d0e81",
+      "title": "2024 to 2030: Charting the U.S. Concierge Medicine Market’s Growth in Numbers",
+      "dek": "Long waits, rushed visits, and a shrinking supply of primary care physicians are pushing more patients and doctors toward membership-based care. According to Grand View [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/10/07/1775760",
+      "source": "Express-press-release",
       "sourceType": "external",
-      "image": "https://martechseries.com/wp-content/uploads/2026/10/MarTech-Series-15-4.jpg",
-      "publishedAt": "2026-10-06T08:01:53.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
+      "publishedAt": "2026-10-07T07:05:17.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "martech",
-        "content",
-        "marketing technology news",
-        "founder and co-ceo",
-        "ai/ml",
-        "glimmer"
+        "internet & online"
       ],
-      "priority": 40
+      "priority": 39
     },
     {
-      "id": "58c7f53f4da4de41",
-      "slug": "oracle-data-breach-exposes-medical-records-of-20-million-people-6eb2e4",
-      "title": "Oracle data breach exposes medical records of 20 million people",
-      "dek": "A major cybersecurity breach at Oracle Corp.'s healthcare division has exposed the personal information of nearly 20 million people.",
-      "url": "https://www.newsbytesapp.com/news/science/oracle-data-breach-exposes-medical-records-of-20-million-people/story",
-      "source": "Newsbytes",
+      "id": "b5fab9c33183d950",
+      "slug": "google-unveils-major-ai-and-cloud-advances-at-next-23-datadriveninvestor-4701c3",
+      "title": "Google Unveils Major AI and Cloud Advances at Next '23 — DataDrivenInvestor",
+      "dek": "Practitioner-written analysis on DataDrivenInvestor.",
+      "url": "https://www.datadriveninvestor.com/articles/google-unveils-major-ai-and-cloud-advances-at-next-23",
+      "source": "Datadriveninvestor",
       "sourceType": "external",
-      "image": "https://i.cdn.newsbytesapp.com/images/l142_5711791259371.jpg",
-      "publishedAt": "2026-10-06T07:37:12.000Z",
-      "topic": "Security",
-      "tags": [],
-      "priority": 40
-    },
-    {
-      "id": "f03cb24487f53c53",
-      "slug": "oracle-health-cyberattack-exposes-data-of-nearly-20-million-people-3-million-from-texas-08698f",
-      "title": "Oracle Health Cyberattack Exposes Data of Nearly 20 Million People; 3 Million From Texas",
-      "dek": "Oracle Health’s 2025 breach exposed sensitive data of nearly 20 million people, including Social Security numbers and medical records.",
-      "url": "https://www.analyticsinsight.net/news/oracle-health-cyberattack-exposes-data-of-nearly-20-million-people-3-million-from-texas",
-      "source": "Analytics And Insight",
-      "sourceType": "external",
-      "image": "https://media.assettype.com/analyticsinsight/2026-10-06/mvl7wcu8/Oracle-2025-Health-Breach-Compromised-Data-of-20-Million-People.jpg",
-      "publishedAt": "2026-10-06T07:19:13.000Z",
-      "topic": "Security",
+      "image": "https://media.datadriveninvestor.com/uploads/2018/09/Google_Cloud_Next_1.max-2500x2500-1.png",
+      "publishedAt": "2026-10-07T05:14:58.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "patient data security",
-        "oracle health breach",
-        "cerner data breach",
-        "healthcare data breach",
-        "oracle cyberattack"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "150e8387dbb8fbfc",
-      "slug": "oracle-hiring-again-techie-shares-rs-42-lakh-salary-offer-internet-warns-bhai-mat-jao-am-84ebed",
-      "title": "'Oracle Hiring Again?': Techie Shares Rs 42 Lakh Salary Offer, Internet Warns 'Bhai Mat Jao' Amid Layoff Fears",
-      "dek": "An Oracle OCI offer of Rs 41-42 lakh base salary has sparked an online debate, with users weighing the attractive pay against concerns over layoffs and job stability",
-      "url": "https://www.news18.com/viral/oracle-hiring-again-techie-shares-rs-42-lakh-salary-offer-internet-warns-bhai-mat-jao-amid-layoff-fears-ws-l-10368816.html",
-      "source": "News 18",
-      "sourceType": "external",
-      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Untitled-design-6-2026-10-3f6493da291e4b903eeb15c689458d5d-1200x800.png",
-      "publishedAt": "2026-10-06T04:44:03.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "viral"
+        "AI"
       ],
       "priority": 38
     },
     {
-      "id": "a1c3b6743f411eec",
-      "slug": "fbi-removes-accenture-contractor-for-alleged-involvement-in-a-data-breach-that-exposed-d-2de67d",
-      "title": "FBI removes Accenture contractor for alleged involvement in a data breach that exposed details of thousands of employees",
-      "dek": "The Federal Bureau of Investigation removed an Accenture contractor on Monday over their role in a damaging data breach that exposed sensitive personal details of thousands of bureau employees, two sources familiar with the matter told Reuters.",
-      "url": "https://www.livemint.com/companies/news/fbi-removes-accenture-contractor-for-alleged-involvement-in-a-data-breach-that-exposed-details-of-thousands-of-employees-11791257121089.html",
-      "source": "Mint",
+      "id": "3ada1543c5c500c7",
+      "slug": "cognizant-and-sita-partnership-targets-ai-led-finance-11063e",
+      "title": "Cognizant and SITA partnership targets AI-Led finance",
+      "dek": "Cognizant and SITA partnership will modernise finance, procurement and supply chain with Oracle Fusion Cloud, shared data and AI-led insights across SITA.",
+      "url": "https://www.dqchannels.com/news/cognizant-and-sita-partnership-rebuilds-finance-for-ai-12629254",
+      "source": "Dqc",
       "sourceType": "external",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/FBI_Accenture_1791257358010_4ump_1791257358139_FfEN_24ebc6e1-96cf-4e0e-a92d-07e278f1fe44_BdL4.jpg",
-      "publishedAt": "2026-10-06T03:31:20.000Z",
-      "topic": "Security",
+      "image": "https://img-cdn.publive.online/dqc/media/media_files/2026/10/06/aviation-ai-and-finance-partnership-2026-10-06-16-45-29.png",
+      "publishedAt": "2026-10-07T04:02:37.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "oracle peoplesoft",
-        "security patch",
-        "accenture",
-        "data breach",
-        "fbi"
+        "global finance transformation",
+        "finance transformation",
+        "enterprise ai",
+        "ai-led finance transformation",
+        "financial it"
       ],
       "priority": 37
     },
     {
-      "id": "0c8c0e323f504c0d",
-      "slug": "oracle-2025-health-breach-compromised-data-of-20-million-people-f7a08c",
-      "title": "Oracle 2025 health breach compromised data of 20 million people",
-      "dek": "An Oracle healthcare unit breach compromised personal data of nearly 20 million people, including Social Security and medical information.",
-      "url": "https://www.cnbctv18.com/technology/oracle-2025-health-breach-compromised-data-of-20-million-people-cybersecurity-cyberattack-fbi-social-security-number-20005294.htm",
-      "source": "Cnbctv18",
+      "id": "5f666a5158bc2592",
+      "slug": "meta-s-enterprise-push-could-turn-ai-from-a-saas-feature-into-a-saas-competitor-1582cd",
+      "title": "Meta’s Enterprise Push Could Turn AI From a SaaS Feature Into a SaaS Competitor",
+      "dek": "Meta Platforms, Inc. (NASDAQ:META) launched the Meta Enterprise Platform on September 28 as a new business pillar focused on its AI technology stack. The platform will give businesses and developers access to tools such as the Meta Business Agent, Muse Code, Muse Agent, and Muse API. The market quic",
+      "url": "https://www.insidermonkey.com/news/metas-enterprise-push-could-turn-ai-from-a-saas-feature-into-a-saas-competitor-1847213/",
+      "source": "Insider Trading",
       "sourceType": "external",
-      "image": "https://images.cnbctv18.com/uploads/2026/06/cyberattacks-2026-06-a3d397e934ebd86ce1a92ca7e6ac7657.jpg",
-      "publishedAt": "2026-10-06T02:35:27.000Z",
-      "topic": "Security",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/kcD220K1WP4t3xbc5VJjDljw9fW-h8M0N31nMdBI6FI/resize:fit:6000:4000:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2024/06/06162153/dima-solomin-WfcHl9YfTyQ-unsplash.jpg",
+      "publishedAt": "2026-10-07T02:59:31.000Z",
+      "topic": "Java & MySQL",
       "tags": [
-        "technology"
+        "yahoo finance",
+        "nasdaq:mdb",
+        "hedge funds",
+        "nasdaq:meta",
+        "news",
+        "mongodb inc. (nasdaq:mdb)"
       ],
       "priority": 37
-    },
-    {
-      "id": "b7a0257d642dfd2b",
-      "slug": "oracle-healthcare-breach-exposes-personal-data-of-nearly-20-million-people-d6f087",
-      "title": "Oracle Healthcare Breach Exposes Personal Data Of Nearly 20 Million People",
-      "dek": "In a report issued Friday, the Texas AG said the company disclosed that Social Security numbers, addresses and medical information of almost 20 million people, including about 3 million Texans, were taken in the hack.",
-      "url": "https://www.ndtvprofit.com/markets/oracle-healthcare-breach-exposes-personal-data-of-nearly-20-million-people-12143511",
-      "source": "Ndtv Profit",
-      "sourceType": "external",
-      "image": "https://c.ndtvimg.com/2026-10/50017r3s_oracle-in-focus_625x300_06_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720",
-      "publishedAt": "2026-10-06T01:25:22.000Z",
-      "topic": "Security",
-      "tags": [
-        "ndtv profit"
-      ],
-      "priority": 36
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1981,24 +1991,6 @@
       "tags": [
         "Oracle Database",
         "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "7c3ad34d1ff092f6",
-      "slug": "blockchain-tables-a4f246",
-      "title": "Blockchain Tables",
-      "dek": "In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham kick off a new season with a deep dive into the latest features of Oracle Database 23ai. Joined by Bill Millar, a Senior Principal Database & MySQL Instructor, they explore the new enhancements to blockchain tabl",
-      "url": "https://oracleuniversitypodcast.libsyn.com/blockchain-tables",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-30T11:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "Oracle Database",
-        "MySQL",
-        "Oracle University"
       ],
       "priority": 36
     }
