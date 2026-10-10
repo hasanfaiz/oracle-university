@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T00:30:20.037Z",
+  "generatedAt": "2026-10-10T00:06:50.441Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,278 +7,295 @@
   },
   "items": [
     {
-      "id": "5cf628bd3df65db3",
-      "slug": "top-cio-events-for-2027-4a3314",
-      "title": "Top CIO events for 2027",
-      "dek": "Throughout the year, tech executives will be able to compare notes across the most pressing IT trends, from AI cost management to cyber resilience.",
-      "url": "https://www.ciodive.com/news/top-cio-events-for-2027/832419/",
-      "source": "Ciodive",
+      "id": "c3813cd1ab8221f1",
+      "slug": "openai-revenue-figure-sinks-ai-stocks-as-nasdaq-drops-1-25-39678e",
+      "title": "OpenAI revenue figure sinks AI stocks as Nasdaq drops 1.25%",
+      "dek": "OpenAI tells investors its annualized revenue hit US$50 billion, roughly US$20 billion below earlier figures",
+      "url": "https://www.wealthprofessional.ca/investments/equity-markets/ai-selloff-drags-nasdaq-down-125-as-tsx-holds-its-ground/393743",
+      "source": "Wealth Professional Canada",
       "sourceType": "external",
-      "image": "https://imgproxy.divecdn.com/gbwKSXg8IIPJDhzbHd6Uac3rf6E2zjFpglKr7WRY_h0/g:ce/rs:fill:1200:1200:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzg1MTY4Mzk2X2FpZk5SZWsuanBn.webp",
-      "publishedAt": "2026-10-08T11:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "97534d2bad7f4b2f",
-      "slug": "building-scalable-agent-friendly-apis-for-ai-applications-fc58ad",
-      "title": "Building scalable, agent-friendly APIs for AI applications",
-      "dek": "Nowadays, most of us interact with frontier AI models in a structured way, even if we do not always think The post Building scalable, agent-friendly APIs for AI applications appeared first on The New Stack.",
-      "url": "https://thenewstack.io/building-agent-friendly-apis/",
-      "source": "The New Stack",
-      "sourceType": "external",
-      "image": "https://cdn.thenewstack.io/media/2026/10/ee1a9e41-resource-database-joz4ohpe8f4-unsplash.jpg",
-      "publishedAt": "2026-10-08T11:00:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "sponsored-post-contributed",
-        "api management",
-        "sponsor-oracle",
-        "ai agents",
-        "microservices"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "0aef2ebc865fbb40",
-      "slug": "amazon-job-cuts-hit-hundreds-as-tech-giant-denies-ai-link-3c9609",
-      "title": "Amazon job cuts hit hundreds as tech giant denies AI link",
-      "dek": "Amazon’s latest round of job cuts will affect hundreds of employees worldwide, City AM understands, as the tech giant continues to restructure its business following nearly 30,000 redundancies. The company confirmed on Wednesday that it was reducing headcount across its Stores division, which overse",
-      "url": "https://www.cityam.com/amazon-job-cuts-hit-hundreds-as-tech-giant-denies-ai-link/",
-      "source": "City A.m.",
-      "sourceType": "external",
-      "image": "https://www.cityam.com/wp-content/uploads/2025/05/Amazon-11-24_747-e1746606011113.jpg",
-      "publishedAt": "2026-10-08T10:55:13.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "business"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "3ad2d0c3343f0f0f",
-      "slug": "ajman-unlocks-a-new-era-of-smart-governance-as-ai-powered-financial-advisor-takes-centre-c21095",
-      "title": "Ajman Unlocks a New Era of Smart Governance as AI-Powered Financial Advisor Takes Centre Stage at Ai Everything Abu Dhabi",
-      "dek": "Ajman Unlocks a New Era of Smart Governance as AI-Powered Financial Advisor Takes Centre Stage at Ai Everything Abu Dhabi The Ajman Department of Finance has completed its participation in Ai Everything Abu Dhabi, where it introduced the Smart Financial Advisor, an artificial intelligence-powered di",
-      "url": "https://www.travelandtourworld.com/news/article/l7chs6kqghwu/",
-      "source": "Travel And Tour World",
-      "sourceType": "external",
-      "image": "https://www.travelandtourworld.com/wp-content/uploads/2026/10/IMG-20261008-WA0007-1.jpg",
-      "publishedAt": "2026-10-08T10:42:15.000Z",
+      "image": "https://cdn-res.keymedia.com/cms/images/wp/deni_639271315161071705.jpg",
+      "publishedAt": "2026-10-09T12:00:00.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "uae digital transformation",
-        "tourism news",
-        "united arab emirates travel news",
-        "event news",
-        "ajman department of finance",
-        "travel event news"
+        "tsx composite",
+        "openai revenue",
+        "ai stocks"
       ],
-      "priority": 42
+      "priority": 43
     },
     {
-      "id": "ac49d46852cf4783",
-      "slug": "supply-chain-management-market-gains-momentum-as-fpt-and-zebox-sign-3-year-ai-logistics--0aa953",
-      "title": "Supply Chain Management Market Gains Momentum as FPT and ZEBOX Sign 3-Year AI Logistics Partnership",
-      "dek": "The Supply Chain Management Market is gaining momentum as FPT and ZEBOX, the innovation accelerator initiated by CMA CGM Group, entered a three-year strategic partnership in October 2026 to develop and deploy AI-powered solutions across shipping, port operations, logistics, supply",
-      "url": "https://www.openpr.com/news/4655218/supply-chain-management-market-gains-momentum-as-fpt-and-zebox",
-      "source": "Openpr.com",
+      "id": "1d6431d65cd3d349",
+      "slug": "netapp-inc-ntap-stock-position-lifted-by-monument-capital-management-c7e117",
+      "title": "NetApp, Inc. $NTAP Stock Position Lifted by Monument Capital Management",
+      "dek": "Monument Capital Management raised its holdings in NetApp, Inc. (NASDAQ:NTAP – Free Report) by 16.7% in the third quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC). The firm owned 16,791 shares of the data storage provider’s stock after purchasing an ",
+      "url": "https://baseballnewssource.com/2026/10/09/netapp-inc-ntap-stock-position-lifted-by-monument-capital-management/11295379.html",
+      "source": "Bbns",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/a/La08294291_k.jpg",
-      "publishedAt": "2026-10-08T10:39:15.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "3be3368a91fd1c17",
-      "slug": "uae-retail-investors-rotate-from-software-into-the-infrastructure-powering-the-ai-race-813d80",
-      "title": "UAE retail investors rotate from software into the infrastructure powering the AI race",
-      "dek": "Oracle tops the UAE risers list with an 86% increase in holders",
-      "url": "https://www.zawya.com/en/press-release/research-studies/uae-retail-investors-rotate-from-software-into-the-infrastructure-powering-the-ai-race-1570262",
-      "source": "Zawya",
-      "sourceType": "external",
-      "image": "https://media.lseg-dw.gcpp.io/prod/images/gm_preview/90b154d82740-josh-gilbert-lead-analyst-middle-east-at-etoro.webp",
-      "publishedAt": "2026-10-08T10:23:39.000Z",
+      "image": "https://www.marketbeat.com/logos/netapp-inc-logo-1200x675.jpg?v=20221104135632",
+      "publishedAt": "2026-10-09T11:37:16.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "retail"
+        "markets",
+        "sec filing articles"
       ],
-      "priority": 41
+      "priority": 43
     },
     {
-      "id": "e8212e40df6a93dd",
-      "slug": "ai-powered-care-is-reshaping-the-telehealth-market-38b77a",
-      "title": "AI-Powered Care Is Reshaping the Telehealth Market",
-      "dek": "The global telehealth market was valued at USD 77.4 billion in 2025 and is expected to reach USD 187.5 billion by 2033, expanding at a [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/10/08/1775992",
+      "id": "d6bb467c7adaa545",
+      "slug": "netapp-inc-ntap-stock-acquired-by-monument-capital-management-ab6bd4",
+      "title": "NetApp, Inc. $NTAP Stock Acquired by Monument Capital Management",
+      "dek": "Monument Capital Management raised its stake in NetApp, Inc. (NASDAQ:NTAP – Free Report) by 16.7% during the third quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The fund owned 16,791 shares of the data storage provider’s stock after buying an additio",
+      "url": "https://www.thelincolnianonline.com/2026/10/09/netapp-inc-ntap-stock-acquired-by-monument-capital-management.html",
+      "source": "The Lincolnian Online",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/netapp-inc-logo-1200x675.jpg?v=20221104135632",
+      "publishedAt": "2026-10-09T11:37:16.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "stocks",
+        "sec filing articles"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "dbb4f9206e3505b9",
+      "slug": "sql-databases-in-modern-backend-work-3f2afe",
+      "title": "SQL Databases in Modern Backend Work",
+      "dek": "Most apps have data they must keep. A store app needs accounts, items, orders, and payments. A bank app needs transfers and account details. A clinic needs patient files and visit dates. A site that posts content needs users, posts, notes, and publish settings. Even if the UI is made with a new fron",
+      "url": "https://techgenyz.com/sql-databases/",
+      "source": "Techgenyz",
+      "sourceType": "external",
+      "image": "https://techgenyz.com/wp-content/uploads/2026/09/SQL.webp",
+      "publishedAt": "2026-10-09T11:30:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "update",
+        "computing"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "cd7acf3c75d9e9d9",
+      "slug": "avatrade-to-acquire-majority-of-fxcm-business-bolstering-its-position-as-a-leading-globa-ff5f9e",
+      "title": "AVATRADE TO ACQUIRE MAJORITY OF FXCM BUSINESS, BOLSTERING ITS POSITION AS A LEADING GLOBAL MULTI-ASSET TRADING GROUP",
+      "dek": "AvaTrade to acquire the majority of FXCM Group’s business and brand, bringing them under the global framework of the AvaTrade Group and giving relevant FXCM clients access to AvaTrade’s advanced platforms, AI-powered tools and comprehensive multi-asset offering. Dubai, 9th October, 2026 – AvaTrade, ",
+      "url": "https://uaenews247.com/2026/10/09/avatrade-to-acquire-majority-of-fxcm-business-bolstering-its-position-as-a-leading-global-multi-asset-trading-group/",
+      "source": "Uae News 24/7",
+      "sourceType": "external",
+      "image": "https://uaenews247.com/wp-content/uploads/2026/10/whatsapp-image-2026-10-09-at-2.34.50-pm.jpeg?w=819",
+      "publishedAt": "2026-10-09T11:18:29.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "business & investments",
+        "avatrade"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "1b8ada9d62745e4f",
+      "slug": "openai-s-revenue-is-reportedly-20-billion-lower-than-thought-nvidia-just-lost-170-billio-49cc64",
+      "title": "OpenAI’s Revenue Is Reportedly $20 Billion Lower Than Thought. Nvidia Just Lost $170 Billion",
+      "dek": "A $20 billion accounting gap in OpenAI's revenue figures sent shockwaves through chip stocks on October 8, wiping out billions in market value across Nvidia, CoreWeave, Oracle, and others. The twist is that no sales were actually lost.",
+      "url": "https://247wallst.com/investing/2026/10/09/openais-revenue-is-reportedly-20-billion-lower-than-thought-nvidia-just-lost-170-billion/",
+      "source": "24/7 Wall St",
+      "sourceType": "external",
+      "image": "https://247wallst.com/wp-content/uploads/2026/07/neocloud.jpg",
+      "publishedAt": "2026-10-09T11:15:34.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "investing"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "3ba4f3a6a79f4132",
+      "slug": "big-business-this-week-tech-giants-face-a-7-9-trillion-ai-cash-crunch-c2efd5",
+      "title": "Big Business This Week: Tech Giants Face A $7.9 Trillion AI Cash Crunch",
+      "dek": "Tech giants Oracle face a massive AI cash call, needing a combined $7.9 trillion in revenue by 2031 to break even on AI investments.",
+      "url": "https://cheddar.com/media/big-business-this-week-tech-giants-face-a-79-trillion-ai-cash-crunch/",
+      "source": "Cheddar",
+      "sourceType": "external",
+      "image": "https://archetype-military-times-prod.web.arc-cdn.net/resizer/v2/MuZjxgrIl8BANcnlQY0qh91f-w8=/cloudfront-us-east-1.images.arcpublishing.com/archetype/M57QAVWGZ5GOJPFEXFDHYFHGNM.jpg",
+      "publishedAt": "2026-10-09T11:00:06.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "business",
+        "circulated-cheddartv"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "b218507ac994d941",
+      "slug": "zone-co-launches-agenthq-to-bring-controlled-ai-automation-to-erp-finance-80b447",
+      "title": "Zone & Co Launches AgentHQ to Bring Controlled AI Automation to ERP Finance",
+      "dek": "Zone & Co has unveiled Zone AgentHQ, a platform that enables finance teams to deploy, control, and operate AI agents executing approved actions in Oracle NetSuite. AgentHQ, which will initially feature 10+ domain-specific agents to be exact designed to simplify accounts payable and financial close p",
+      "url": "https://itdigest.com/quick-byte/zone-co-launches-agenthq-to-bring-controlled-ai-automation-to-erp-finance/",
+      "source": "Itdigest",
+      "sourceType": "external",
+      "image": "https://itdigest.com/wp-content/uploads/2026/10/Zone-_-Co-Launches-AgentHQ-to-Bring-Controlled-AI-Automation-to-ERP-Finance-scaled.webp",
+      "publishedAt": "2026-10-09T10:36:03.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "quick byte",
+        "news",
+        "zone & co",
+        "financial operations",
+        "itdigest",
+        "agenthq"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "28fa88be439de168",
+      "slug": "gpu-as-a-service-market-in-europe-gdpr-sustainability-and-local-hosting-404998",
+      "title": "GPU As A Service Market in Europe: GDPR, Sustainability, and Local Hosting",
+      "dek": "The GPU as a service market was valued at USD 4.3 billion in 2025 and is projected to reach USD 14.4 billion by 2033, growing [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/10/09/1776183",
       "source": "Express-press-release",
       "sourceType": "external",
       "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
-      "publishedAt": "2026-10-08T08:46:54.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "internet & online",
-        "telehealth market"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "ab4abe3d6c403840",
-      "slug": "ai-agents-are-reshaping-the-enterprise-data-management-market-285c97",
-      "title": "AI Agents Are Reshaping the Enterprise Data Management Market",
-      "dek": "The global enterprise data management market was valued at USD 123.1 billion in 2025 and is expected to increase from USD 137.3 billion in 2026 [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/10/08/1775981",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
-      "publishedAt": "2026-10-08T08:29:46.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "enterprise data management market",
-        "internet & online"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "817253b995f2673b",
-      "slug": "oracle-health-data-breach-tally-climbs-to-nearly-20-million-81c54e",
-      "title": "Oracle Health Data Breach Tally Climbs to Nearly 20 Million",
-      "dek": "The figure is far higher than the counts that surfaced in earlier filings and patient notifications. The post Oracle Health Data Breach Tally Climbs to Nearly 20 Million appeared first on SecurityWeek.",
-      "url": "https://www.securityweek.com/oracle-health-data-breach-tally-climbs-to-nearly-20-million/",
-      "source": "Securityweek",
-      "sourceType": "external",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/03/healthcare-medical.jpeg",
-      "publishedAt": "2026-10-08T08:23:31.000Z",
-      "topic": "Security",
-      "tags": [
-        "data breach",
-        "data breaches",
-        "healthcare",
-        "oracle health"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "6aac7e7d2f5691f8",
-      "slug": "mastek-shares-defy-weak-markets-gain-3-after-staffordshire-county-council-picks-company--06969b",
-      "title": "Mastek shares defy weak markets, gain 3% after Staffordshire County council picks company for Oracle Cloud transformation",
-      "dek": "Mastek shares witnessed an uptick on Thursday despite weak market sentiment after its UK subsidiary was selected by Staffordshire County Council for an AI-enabled Oracle Cloud transformation programme. The engagement will cover finance, procurement, human resources and payroll, with Mastek deploying",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mastek-shares-defy-weak-markets-gain-3-after-staffordshire-county-council-picks-company-for-oracle-cloud-transformation/articleshow/134783762.cms",
-      "source": "The Economic Times",
-      "sourceType": "external",
-      "image": "https://img.etimg.com/thumb/msid-134783848,width-1200,height-900,imgsize-1963797,overlay-etmarkets/articleshow.jpg",
-      "publishedAt": "2026-10-08T07:43:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "AI"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "b86ae9692b57f96e",
-      "slug": "taction-software-expands-telemedicine-and-ehr-integrated-healthcare-app-development-serv-cb91ae",
-      "title": "Taction Software Expands Telemedicine and EHR-Integrated Healthcare App Development Services",
-      "dek": "India Morning Times is an online news publication focusing on the India: Your daily news update on India",
-      "url": "https://indiamorningtimes.com/article/948141581-taction-software-expands-telemedicine-and-ehr-integrated-healthcare-app-development-services",
-      "source": "Indiamorningtimes",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-10-08T07:31:34.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [],
-      "priority": 39
-    },
-    {
-      "id": "208ef40f969c99ae",
-      "slug": "redis-by-proxy-percona-targets-the-last-major-hurdle-to-valkey-adoption-386451",
-      "title": "Redis by proxy: Percona targets the last major hurdle to Valkey adoption",
-      "dek": "When Redis changed its licensing in 2024, replacing its permissive BSD license with proprietary, source-available alternatives, it prompted a major The post Redis by proxy: Percona targets the last major hurdle to Valkey adoption appeared first on The New Stack.",
-      "url": "https://thenewstack.io/valkey-proxy-redis-percona/",
-      "source": "The New Stack",
-      "sourceType": "external",
-      "image": "https://cdn.thenewstack.io/media/2026/10/ca3e5d09-neon-percona-stickers-on-keyboard.jpg",
-      "publishedAt": "2026-10-08T06:54:15.000Z",
+      "publishedAt": "2026-10-09T10:34:26.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "ai",
-        "databases",
-        "operations",
-        "open source"
+        "gpu as a service market forecasts",
+        "gpu as a service market share",
+        "gpu as a service market",
+        "technology",
+        "gpu as a service market analysis",
+        "gpu as a service market size"
       ],
-      "priority": 39
+      "priority": 42
     },
     {
-      "id": "79a85ea16f930db7",
-      "slug": "samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland-2dfaa4",
-      "title": "Samsung Galaxy S26 hacked three more times at Pwn2Own Ireland",
-      "dek": "On the second day of Pwn2Own Ireland 2026, security researchers collected $232,500 in cash awards after exploiting 45 unique zero-day vulnerabilities. [...]",
-      "url": "https://www.bleepingcomputer.com/news/security/samsung-galaxy-s26-hacked-three-more-times-at-pwn2own-ireland/",
-      "source": "Bleepingcomputer",
-      "sourceType": "external",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/07/Pwn2Own-Ireland.jpg",
-      "publishedAt": "2026-10-08T06:32:16.000Z",
-      "topic": "Security",
-      "tags": [
-        "security"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "8e28bd91ac874f90",
-      "slug": "7-reasons-why-php-is-the-best-choice-for-web-development-and-business-it-solutions-28198e",
-      "title": "7 Reasons Why PHP Is the Best Choice for Web Development and Business IT Solutions",
-      "dek": "Explore the main advantages of PHP and why it’s the top choice for web development, especially for business IT solutions and applications.",
-      "url": "https://stfalcon.com/en/blog/post/php-advantages-for-business",
-      "source": "Stfalcon Studio Llc",
-      "sourceType": "external",
-      "image": "https://storage.stfalcon.com/uploads/images/5b489f3671cab.webp",
-      "publishedAt": "2026-10-08T06:30:10.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "php",
-        "enterprise-software"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "319e410b621f4214",
-      "slug": "north-america-tailored-finance-management-platforms-market-ai-financial-copilots-and-aut-35d6f6",
-      "title": "💳 North America Tailored Finance Management Platforms Market: AI Financial Copilots and Autonomous Money Management Reshape Personalized Finance",
-      "dek": "🔹 Market Definition The North America Tailored Finance Management Platforms Market covers specialized digital platforms that customize budgeting, financial planning, cash-flow forecasting, expense management, treasury analytics, investment oversight and financial decision-making around the specific",
-      "url": "https://www.openpr.com/news/4654751/north-america-tailored-finance-management-platforms",
+      "id": "bf45db188411001f",
+      "slug": "how-b-corp-certification-is-reshaping-business-education-and-what-it-means-for-the-next--4cd63b",
+      "title": "How B Corp Certification Is Reshaping Business Education - and What It Means for the Next Generation of Managers",
+      "dek": "More than 10,800 companies across 102 countries and 163 industries now hold B Corp certification, employing over one million people between them. This year the movement turned 20, and the first companies began certifying under B Lab's revised global standards.",
+      "url": "https://www.openpr.com/news/4656067/how-b-corp-certification-is-reshaping-business-education",
       "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/a/La08179242_k.jpg",
-      "publishedAt": "2026-10-08T05:43:52.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://cdn.open-pr.com/L/a/La09749019_k.jpg",
+      "publishedAt": "2026-10-09T09:46:09.000Z",
+      "topic": "Training & Certification",
       "tags": [
         "economy",
         "banking & insurance",
         "business",
         "finances"
       ],
-      "priority": 38
+      "priority": 41
     },
     {
-      "id": "ff266de7c373c9bf",
-      "slug": "healthcare-human-resources-software-market-size-share-2034-0010c1",
-      "title": "Healthcare Human Resources Software Market Size, Share, 2034",
-      "dek": "(MENAFN - Straits Research) Healthcare Human Resources Software Market Size The global healthcare human resources software market size was valued at USD 1029.93 million in 2025 and is projected to ...",
-      "url": "https://menafn.com/1111779289/Healthcare-Human-Resources-Software-Market-Size-Share-2034",
-      "source": "Menafn",
+      "id": "60212c602a9160b3",
+      "slug": "gould-capital-llc-raises-stock-holdings-in-microsoft-corporation-msft-52fcfb",
+      "title": "Gould Capital LLC Raises Stock Holdings in Microsoft Corporation $MSFT",
+      "dek": "Gould Capital LLC boosted its stake in Microsoft Corporation (NASDAQ:MSFT – Free Report) by 19.9% in the second quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission. The institutional investor owned 12,223 shares of the software giant’s stock afte",
+      "url": "https://www.defenseworld.net/2026/10/09/gould-capital-llc-raises-stock-holdings-in-microsoft-corporation-msft.html",
+      "source": "Defenseworld Net",
       "sourceType": "external",
-      "image": "https://menafn.com/images/Menafn_SmallLogo.jpg",
-      "publishedAt": "2026-10-08T05:31:22.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [],
+      "image": "https://www.marketbeat.com/logos/microsoft-corporation-logo-1200x675.png",
+      "publishedAt": "2026-10-09T08:57:05.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "sec filing articles",
+        "companies"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "3dcd6f1c42c42a52",
+      "slug": "knowledge-graph-market-size-share-trends-by-solution-and-model-type-global-forecast-to-2-2b5268",
+      "title": "Knowledge Graph Market Size, Share, Trends by Solution and Model Type - Global Forecast to 2032 | Generative AI Demand Drives 31.6% CAGR, Creating a USD 9.88 Billion Opportunity",
+      "dek": "Partnerships, product innovation and acquisitions expand market reach, while AI integration and managed services drive efficiency, insight and scalable adoption.",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/10/09/3377863/28124/en/knowledge-graph-market-size-share-trends-by-solution-and-model-type-global-forecast-to-2032-generative-ai-demand-drives-31-6-cagr-creating-a-usd-9-88-billion-opportunity.html",
+      "source": "Globenewswire_fr",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-10-09T08:21:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "research analysis and reports"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "cb67f224a8fea82b",
+      "slug": "dan-ives-updates-ai-30-adds-dell-spcx-while-dropping-orcl-and-pega-ahead-of-ives-rebalan-e2081e",
+      "title": "Dan Ives Updates AI 30: Adds DELL, SPCX While Dropping ORCL and PEGA Ahead of IVES Rebalance - SpaceX…",
+      "dek": "Dan Ives updates his AI 30 'Winner List' ahead of the IVES ETF rebalance, adding Dell and SpaceX while dropping Oracle and Pegasystems.",
+      "url": "https://www.benzinga.com/markets/equities/26/10/62265293/dan-ives-updates-ai-30-adds-dell-spcx-while-dropping-orcl-and-pega-ahead-of-ives-rebalance",
+      "source": "Benzinga",
+      "sourceType": "external",
+      "image": "https://cdn.benzinga.com/cdn-cgi/image/width=1200,height=800,fit=crop/files/images/story/2026/10/09/Dell-Technologies-Inc.jpg",
+      "publishedAt": "2026-10-09T07:58:30.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "\"symbol: pega\"",
+        "\"tag: dan ives\"",
+        "\"category: news\"",
+        "\"category: sector etfs\"",
+        "\"category: trading ideas\"",
+        "\"category: etfs\""
+      ],
+      "priority": 40
+    },
+    {
+      "id": "92914e5dd75000b2",
+      "slug": "cloud-computing-market-is-adding-roughly-usd-2-16-trillion-by-2033-where-will-it-land-64be31",
+      "title": "Cloud Computing Market Is Adding Roughly USD 2.16 Trillion by 2033: Where Will It Land?",
+      "dek": "What does it take for an industry to grow roughly 26% in a single year and still be forecast to nearly triple again? That is [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/10/09/1776142",
+      "source": "Express-press-release",
+      "sourceType": "external",
+      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
+      "publishedAt": "2026-10-09T07:51:54.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "cloud computing market analysis",
+        "cloud computing market",
+        "cloud computing market share",
+        "technology",
+        "cloud computing market growth",
+        "cloud computing market forecasts"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "7685444d1ebbe67c",
+      "slug": "google-pixel-10-exploits-earned-hackers-560-000-at-pwn2own-006450",
+      "title": "Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own",
+      "dek": "$1.2 million was paid out at Pwn2Own Ireland 2026 for exploits targeting phones, printers, smart speakers, smart home hubs, and AI infrastructure and coding tools. The post Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own appeared first on SecurityWeek.",
+      "url": "https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/",
+      "source": "Securityweek",
+      "sourceType": "external",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/08/Pwn2Own-hackers-hacking-competition.jpeg",
+      "publishedAt": "2026-10-09T06:39:55.000Z",
+      "topic": "Security",
+      "tags": [
+        "pwn2own ireland",
+        "pwn2own ireland 2026",
+        "google pixel",
+        "exploit",
+        "vulnerabilities",
+        "pwn2own"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "e356b8e033cfde7e",
+      "slug": "dow-s-p-500-nasdaq-futures-climb-after-openai-s-tepid-revenue-sparks-tech-selloff-nbis-s-2cf893",
+      "title": "Dow, S&P 500, Nasdaq Futures Climb After OpenAI’s Tepid Revenue Sparks Tech Selloff: NBIS, SPCX, T, VZ Stocks In Focus",
+      "dek": "OpenAI reportedly said that it had clocked about $50 billion in annualized revenue at the end of September, while markets were widely expecting a revenue figure of $70 billion.",
+      "url": "https://newsable.asianetnews.com/markets/dow-s-p-500-nasdaq-futures-climb-after-openai-s-tepid-revenue-sparks-tech-selloff-nbis-spcx-t-vz-stocks-in-focus-articleshow-q4hhgkl",
+      "source": "Asianet Newsable",
+      "sourceType": "external",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-e902c925-fa8f-4a05-a5a8-a9d578f0c524.jpg",
+      "publishedAt": "2026-10-09T04:45:01.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "markets"
+      ],
       "priority": 38
     },
     {
