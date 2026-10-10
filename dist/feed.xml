@@ -6,151 +6,70 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Oct 2026 00:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 23:40:57 GMT</lastBuildDate>
     
     <item>
-      <title>OpenAI revenue figure sinks AI stocks as Nasdaq drops 1.25%</title>
-      <link>https://oracle-university.com/stories/openai-revenue-figure-sinks-ai-stocks-as-nasdaq-drops-1-25-39678e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/openai-revenue-figure-sinks-ai-stocks-as-nasdaq-drops-1-25-39678e/</guid>
-      <pubDate>Fri, 09 Oct 2026 12:00:00 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>OpenAI tells investors its annualized revenue hit US$50 billion, roughly US$20 billion below earlier figures</description>
-      <source url="https://www.wealthprofessional.ca/investments/equity-markets/ai-selloff-drags-nasdaq-down-125-as-tsx-holds-its-ground/393743">Wealth Professional Canada</source>
-    </item>
-    <item>
-      <title>NetApp, Inc. $NTAP Stock Position Lifted by Monument Capital Management</title>
-      <link>https://oracle-university.com/stories/netapp-inc-ntap-stock-position-lifted-by-monument-capital-management-c7e117/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/netapp-inc-ntap-stock-position-lifted-by-monument-capital-management-c7e117/</guid>
-      <pubDate>Fri, 09 Oct 2026 11:37:16 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Monument Capital Management raised its holdings in NetApp, Inc. (NASDAQ:NTAP – Free Report) by 16.7% in the third quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC). The firm owned 16,791 shares of the data storage provider’s stock after purchasing an </description>
-      <source url="https://baseballnewssource.com/2026/10/09/netapp-inc-ntap-stock-position-lifted-by-monument-capital-management/11295379.html">Bbns</source>
-    </item>
-    <item>
-      <title>NetApp, Inc. $NTAP Stock Acquired by Monument Capital Management</title>
-      <link>https://oracle-university.com/stories/netapp-inc-ntap-stock-acquired-by-monument-capital-management-ab6bd4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/netapp-inc-ntap-stock-acquired-by-monument-capital-management-ab6bd4/</guid>
-      <pubDate>Fri, 09 Oct 2026 11:37:16 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Monument Capital Management raised its stake in NetApp, Inc. (NASDAQ:NTAP – Free Report) by 16.7% during the third quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The fund owned 16,791 shares of the data storage provider’s stock after buying an additio</description>
-      <source url="https://www.thelincolnianonline.com/2026/10/09/netapp-inc-ntap-stock-acquired-by-monument-capital-management.html">The Lincolnian Online</source>
-    </item>
-    <item>
-      <title>SQL Databases in Modern Backend Work</title>
-      <link>https://oracle-university.com/stories/sql-databases-in-modern-backend-work-3f2afe/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/sql-databases-in-modern-backend-work-3f2afe/</guid>
-      <pubDate>Fri, 09 Oct 2026 11:30:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Most apps have data they must keep. A store app needs accounts, items, orders, and payments. A bank app needs transfers and account details. A clinic needs patient files and visit dates. A site that posts content needs users, posts, notes, and publish settings. Even if the UI is made with a new fron</description>
-      <source url="https://techgenyz.com/sql-databases/">Techgenyz</source>
-    </item>
-    <item>
-      <title>AVATRADE TO ACQUIRE MAJORITY OF FXCM BUSINESS, BOLSTERING ITS POSITION AS A LEADING GLOBAL MULTI-ASSET TRADING GROUP</title>
-      <link>https://oracle-university.com/stories/avatrade-to-acquire-majority-of-fxcm-business-bolstering-its-position-as-a-leading-globa-ff5f9e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/avatrade-to-acquire-majority-of-fxcm-business-bolstering-its-position-as-a-leading-globa-ff5f9e/</guid>
-      <pubDate>Fri, 09 Oct 2026 11:18:29 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>AvaTrade to acquire the majority of FXCM Group’s business and brand, bringing them under the global framework of the AvaTrade Group and giving relevant FXCM clients access to AvaTrade’s advanced platforms, AI-powered tools and comprehensive multi-asset offering. Dubai, 9th October, 2026 – AvaTrade, </description>
-      <source url="https://uaenews247.com/2026/10/09/avatrade-to-acquire-majority-of-fxcm-business-bolstering-its-position-as-a-leading-global-multi-asset-trading-group/">Uae News 24/7</source>
-    </item>
-    <item>
-      <title>OpenAI’s Revenue Is Reportedly $20 Billion Lower Than Thought. Nvidia Just Lost $170 Billion</title>
-      <link>https://oracle-university.com/stories/openai-s-revenue-is-reportedly-20-billion-lower-than-thought-nvidia-just-lost-170-billio-49cc64/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/openai-s-revenue-is-reportedly-20-billion-lower-than-thought-nvidia-just-lost-170-billio-49cc64/</guid>
-      <pubDate>Fri, 09 Oct 2026 11:15:34 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>A $20 billion accounting gap in OpenAI&#39;s revenue figures sent shockwaves through chip stocks on October 8, wiping out billions in market value across Nvidia, CoreWeave, Oracle, and others. The twist is that no sales were actually lost.</description>
-      <source url="https://247wallst.com/investing/2026/10/09/openais-revenue-is-reportedly-20-billion-lower-than-thought-nvidia-just-lost-170-billion/">24/7 Wall St</source>
-    </item>
-    <item>
-      <title>Big Business This Week: Tech Giants Face A $7.9 Trillion AI Cash Crunch</title>
-      <link>https://oracle-university.com/stories/big-business-this-week-tech-giants-face-a-7-9-trillion-ai-cash-crunch-c2efd5/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/big-business-this-week-tech-giants-face-a-7-9-trillion-ai-cash-crunch-c2efd5/</guid>
-      <pubDate>Fri, 09 Oct 2026 11:00:06 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Tech giants Oracle face a massive AI cash call, needing a combined $7.9 trillion in revenue by 2031 to break even on AI investments.</description>
-      <source url="https://cheddar.com/media/big-business-this-week-tech-giants-face-a-79-trillion-ai-cash-crunch/">Cheddar</source>
-    </item>
-    <item>
-      <title>Zone &amp; Co Launches AgentHQ to Bring Controlled AI Automation to ERP Finance</title>
-      <link>https://oracle-university.com/stories/zone-co-launches-agenthq-to-bring-controlled-ai-automation-to-erp-finance-80b447/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/zone-co-launches-agenthq-to-bring-controlled-ai-automation-to-erp-finance-80b447/</guid>
-      <pubDate>Fri, 09 Oct 2026 10:36:03 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Zone &amp; Co has unveiled Zone AgentHQ, a platform that enables finance teams to deploy, control, and operate AI agents executing approved actions in Oracle NetSuite. AgentHQ, which will initially feature 10+ domain-specific agents to be exact designed to simplify accounts payable and financial close p</description>
-      <source url="https://itdigest.com/quick-byte/zone-co-launches-agenthq-to-bring-controlled-ai-automation-to-erp-finance/">Itdigest</source>
-    </item>
-    <item>
-      <title>GPU As A Service Market in Europe: GDPR, Sustainability, and Local Hosting</title>
-      <link>https://oracle-university.com/stories/gpu-as-a-service-market-in-europe-gdpr-sustainability-and-local-hosting-404998/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/gpu-as-a-service-market-in-europe-gdpr-sustainability-and-local-hosting-404998/</guid>
-      <pubDate>Fri, 09 Oct 2026 10:34:26 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The GPU as a service market was valued at USD 4.3 billion in 2025 and is projected to reach USD 14.4 billion by 2033, growing [read full press release...]</description>
-      <source url="https://express-press-release.net/news/2026/10/09/1776183">Express-press-release</source>
-    </item>
-    <item>
-      <title>How B Corp Certification Is Reshaping Business Education - and What It Means for the Next Generation of Managers</title>
-      <link>https://oracle-university.com/stories/how-b-corp-certification-is-reshaping-business-education-and-what-it-means-for-the-next--4cd63b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/how-b-corp-certification-is-reshaping-business-education-and-what-it-means-for-the-next--4cd63b/</guid>
-      <pubDate>Fri, 09 Oct 2026 09:46:09 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>More than 10,800 companies across 102 countries and 163 industries now hold B Corp certification, employing over one million people between them. This year the movement turned 20, and the first companies began certifying under B Lab&#39;s revised global standards.</description>
-      <source url="https://www.openpr.com/news/4656067/how-b-corp-certification-is-reshaping-business-education">Openpr.com</source>
-    </item>
-    <item>
-      <title>Gould Capital LLC Raises Stock Holdings in Microsoft Corporation $MSFT</title>
-      <link>https://oracle-university.com/stories/gould-capital-llc-raises-stock-holdings-in-microsoft-corporation-msft-52fcfb/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/gould-capital-llc-raises-stock-holdings-in-microsoft-corporation-msft-52fcfb/</guid>
-      <pubDate>Fri, 09 Oct 2026 08:57:05 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Gould Capital LLC boosted its stake in Microsoft Corporation (NASDAQ:MSFT – Free Report) by 19.9% in the second quarter, according to the company in its most recent disclosure with the Securities &amp; Exchange Commission. The institutional investor owned 12,223 shares of the software giant’s stock afte</description>
-      <source url="https://www.defenseworld.net/2026/10/09/gould-capital-llc-raises-stock-holdings-in-microsoft-corporation-msft.html">Defenseworld Net</source>
-    </item>
-    <item>
-      <title>Knowledge Graph Market Size, Share, Trends by Solution and Model Type - Global Forecast to 2032 | Generative AI Demand Drives 31.6% CAGR, Creating a USD 9.88 Billion Opportunity</title>
-      <link>https://oracle-university.com/stories/knowledge-graph-market-size-share-trends-by-solution-and-model-type-global-forecast-to-2-2b5268/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/knowledge-graph-market-size-share-trends-by-solution-and-model-type-global-forecast-to-2-2b5268/</guid>
-      <pubDate>Fri, 09 Oct 2026 08:21:00 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Partnerships, product innovation and acquisitions expand market reach, while AI integration and managed services drive efficiency, insight and scalable adoption.</description>
-      <source url="https://www.globenewswire.com/fr/news-release/2026/10/09/3377863/28124/en/knowledge-graph-market-size-share-trends-by-solution-and-model-type-global-forecast-to-2032-generative-ai-demand-drives-31-6-cagr-creating-a-usd-9-88-billion-opportunity.html">Globenewswire_fr</source>
-    </item>
-    <item>
-      <title>Dan Ives Updates AI 30: Adds DELL, SPCX While Dropping ORCL and PEGA Ahead of IVES Rebalance - SpaceX…</title>
-      <link>https://oracle-university.com/stories/dan-ives-updates-ai-30-adds-dell-spcx-while-dropping-orcl-and-pega-ahead-of-ives-rebalan-e2081e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/dan-ives-updates-ai-30-adds-dell-spcx-while-dropping-orcl-and-pega-ahead-of-ives-rebalan-e2081e/</guid>
-      <pubDate>Fri, 09 Oct 2026 07:58:30 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Dan Ives updates his AI 30 &#39;Winner List&#39; ahead of the IVES ETF rebalance, adding Dell and SpaceX while dropping Oracle and Pegasystems.</description>
-      <source url="https://www.benzinga.com/markets/equities/26/10/62265293/dan-ives-updates-ai-30-adds-dell-spcx-while-dropping-orcl-and-pega-ahead-of-ives-rebalance">Benzinga</source>
-    </item>
-    <item>
-      <title>Cloud Computing Market Is Adding Roughly USD 2.16 Trillion by 2033: Where Will It Land?</title>
-      <link>https://oracle-university.com/stories/cloud-computing-market-is-adding-roughly-usd-2-16-trillion-by-2033-where-will-it-land-64be31/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-computing-market-is-adding-roughly-usd-2-16-trillion-by-2033-where-will-it-land-64be31/</guid>
-      <pubDate>Fri, 09 Oct 2026 07:51:54 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>What does it take for an industry to grow roughly 26% in a single year and still be forecast to nearly triple again? That is [read full press release...]</description>
-      <source url="https://express-press-release.net/news/2026/10/09/1776142">Express-press-release</source>
-    </item>
-    <item>
-      <title>Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own</title>
-      <link>https://oracle-university.com/stories/google-pixel-10-exploits-earned-hackers-560-000-at-pwn2own-006450/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/google-pixel-10-exploits-earned-hackers-560-000-at-pwn2own-006450/</guid>
-      <pubDate>Fri, 09 Oct 2026 06:39:55 GMT</pubDate>
+      <title>Oracle Layoffs and the Duties of an AI Landlord</title>
+      <link>https://oracle-university.com/stories/oracle-layoffs-and-the-duties-of-an-ai-landlord-cc8358/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-layoffs-and-the-duties-of-an-ai-landlord-cc8358/</guid>
+      <pubDate>Sat, 10 Oct 2026 11:25:54 GMT</pubDate>
       <category>Security</category>
-      <description>$1.2 million was paid out at Pwn2Own Ireland 2026 for exploits targeting phones, printers, smart speakers, smart home hubs, and AI infrastructure and coding tools. The post Google Pixel 10 Exploits Earned Hackers $560,000 at Pwn2Own appeared first on SecurityWeek.</description>
-      <source url="https://www.securityweek.com/google-pixel-10-exploits-earned-hackers-560000-at-pwn2own/">Securityweek</source>
+      <description>Oracle’s AI infrastructure business is expanding rapidly even as jobs are cut, raising questions about workforce planning, operational risks and the people behind its growing cloud ambitions.</description>
+      <source url="https://www.timesnownews.com/opinion/india/oracle-layoffs-and-the-duties-of-an-ai-landlord-article-156310321">Times Now News</source>
     </item>
     <item>
-      <title>Dow, S&amp;P 500, Nasdaq Futures Climb After OpenAI’s Tepid Revenue Sparks Tech Selloff: NBIS, SPCX, T, VZ Stocks In Focus</title>
-      <link>https://oracle-university.com/stories/dow-s-p-500-nasdaq-futures-climb-after-openai-s-tepid-revenue-sparks-tech-selloff-nbis-s-2cf893/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/dow-s-p-500-nasdaq-futures-climb-after-openai-s-tepid-revenue-sparks-tech-selloff-nbis-s-2cf893/</guid>
-      <pubDate>Fri, 09 Oct 2026 04:45:01 GMT</pubDate>
+      <title>The Telo MT1 is a big truck trapped in a tiny truck’s body</title>
+      <link>https://oracle-university.com/stories/the-telo-mt1-is-a-big-truck-trapped-in-a-tiny-truck-s-body-5a80ec/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-telo-mt1-is-a-big-truck-trapped-in-a-tiny-truck-s-body-5a80ec/</guid>
+      <pubDate>Sat, 10 Oct 2026 11:21:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>ONLY AVAILABLE IN PAID PLANS</description>
+      <source url="https://us.headtopics.com/news/the-telo-mt1-is-a-big-truck-trapped-in-a-tiny-truck-s-body-88661970">Headtopics</source>
+    </item>
+    <item>
+      <title>Information Services Group: AI Infrastructure Demand Sends Cloud Bookings Soaring</title>
+      <link>https://oracle-university.com/stories/information-services-group-ai-infrastructure-demand-sends-cloud-bookings-soaring-cfe12f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/information-services-group-ai-infrastructure-demand-sends-cloud-bookings-soaring-cfe12f/</guid>
+      <pubDate>Sat, 10 Oct 2026 10:03:02 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>OpenAI reportedly said that it had clocked about $50 billion in annualized revenue at the end of September, while markets were widely expecting a revenue figure of $70 billion.</description>
-      <source url="https://newsable.asianetnews.com/markets/dow-s-p-500-nasdaq-futures-climb-after-openai-s-tepid-revenue-sparks-tech-selloff-nbis-spcx-t-vz-stocks-in-focus-articleshow-q4hhgkl">Asianet Newsable</source>
+      <description>Information Services Group (NASDAQ:III) said its third-quarter 2026 market data showed accelerating demand for AI infrastructure and cloud services, while growth in traditional managed services remained modest as enterprises shifted spending toward AI, software platforms and cloud capacity. The comp</description>
+      <source url="https://baseballnewssource.com/2026/10/10/information-services-group-ai-infrastructure-demand-sends-cloud-bookings-soaring/11296926.html">Bbns</source>
+    </item>
+    <item>
+      <title>Microsoft Decision-1: Faster, Cheaper AI Model Built for Structured Business Decisions</title>
+      <link>https://oracle-university.com/stories/microsoft-decision-1-faster-cheaper-ai-model-built-for-structured-business-decisions-5f7f62/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/microsoft-decision-1-faster-cheaper-ai-model-built-for-structured-business-decisions-5f7f62/</guid>
+      <pubDate>Sat, 10 Oct 2026 09:55:08 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Microsoft’s Decision-1 AI model claims to be 35x faster than GPT-6 Sol for structured decisions at USD 0.042 per million input tokens. Results are unverified.</description>
+      <source url="https://www.analyticsinsight.net/news/microsoft-decision-1-faster-cheaper-ai-model-built-for-structured-business-decisions">Analytics And Insight</source>
+    </item>
+    <item>
+      <title>Oracle Corporation $ORCL Stock: Valley Wealth Managers Inc. Raises Stake</title>
+      <link>https://oracle-university.com/stories/oracle-corporation-orcl-stock-valley-wealth-managers-inc-raises-stake-15d0f9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-stock-valley-wealth-managers-inc-raises-stake-15d0f9/</guid>
+      <pubDate>Sat, 10 Oct 2026 09:38:47 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Valley Wealth Managers Inc. increased its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 5.2% during the 3rd quarter, HoldingsChannel reports. The firm owned 147,787 shares of the enterprise software provider’s stock after buying an additional 7,281 shares during the period. Valley Wealth </description>
+      <source url="https://www.watchlistnews.com/oracle-corporation-orcl-stock-valley-wealth-managers-inc-raises-stake/11256537.html">Watch List News</source>
+    </item>
+    <item>
+      <title>PostgreSQL Ecosystem Expands Across AI, Lakehouse, Automation, and Security</title>
+      <link>https://oracle-university.com/stories/postgresql-ecosystem-expands-across-ai-lakehouse-automation-and-security-ea9972/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/postgresql-ecosystem-expands-across-ai-lakehouse-automation-and-security-ea9972/</guid>
+      <pubDate>Sat, 10 Oct 2026 08:54:46 GMT</pubDate>
+      <category>Security</category>
+      <description>PostgreSQL news roundup: AWS DuckDB in Aurora, Babelfish FTS gaps, DBtune automation, Nebius managed clusters, Tom Lane architecture, Splunk CVE. The post PostgreSQL Ecosystem Expands Across AI, Lakehouse, Automation, and Security appeared first on SourceTrail.</description>
+      <source url="https://www.sourcetrail.com/sql/postgresql-ecosystem-expands-across-ai-lakehouse-automation-and-security/">Sourcetrail</source>
+    </item>
+    <item>
+      <title>OpenAI Annualized Revenue at $50B, Below Estimates</title>
+      <link>https://oracle-university.com/stories/openai-annualized-revenue-at-50b-below-estimates-d832ef/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/openai-annualized-revenue-at-50b-below-estimates-d832ef/</guid>
+      <pubDate>Sat, 10 Oct 2026 08:40:44 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>OpenAI Annualized Revenue Falls Below Earlier Estimates, Triggering Tech Stock Selloff OpenAI told investors its annualized revenue reached roughly $50 billion, below figures that had circulated widely. CNBC confirmed the number after the Financial Times first reported it on Thursday, October 8. The</description>
+      <source url="https://inc29.com/openai-annualized-revenue-at-50b-below-estimates/">Inc29, Business, Funding And Entrepreneur News</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -457,6 +376,87 @@
       <category>AI &amp; Database</category>
       <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In this two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle AI Vector an</description>
       <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-for-data-when-data-meet-intelligence">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Part II of AI for Data: When Data meets Intelligence</title>
+      <link>https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</guid>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In the second of a two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle A</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-of-data-for-ai-when-data-meets-intelligence">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Cloud Data Centers: Core Concepts - Part 1</title>
+      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</guid>
+      <pubDate>Tue, 07 Oct 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Curious about what really goes on inside a cloud data center? In this episode, Lois Houston and Nikita Abraham chat with Principal OCI Instructor Orlando Gentil about how cloud data centers are transforming the way organizations manage technology. They explore the differences between traditional and</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-1">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Oracle AI for Fusion Apps</title>
+      <link>https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</guid>
+      <pubDate>Tue, 23 Sep 2025 11:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Want to make AI work for your business? In today&#39;s episode, Lois Houston and Nikita Abraham continue their discussion of AI in Oracle Fusion Applications by focusing on three key AI capabilities: predictive, generative, and agentic. Joining them is Principal Instructor Yunus Mohammed, who explains h</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-ai-for-fusion-apps">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Oracle&#39;s AI Ecosystem</title>
+      <link>https://oracle-university.com/stories/oracle-s-ai-ecosystem-1d77a2/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-s-ai-ecosystem-1d77a2/</guid>
+      <pubDate>Tue, 16 Sep 2025 11:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to explore Oracle&#39;s approach to enterprise AI. The conversation covers the essential components of the Oracle AI stack and how each part, from the foundational infrastructure to business-specific appli</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/oracles-ai-ecosystem">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Buy or Build AI?</title>
+      <link>https://oracle-university.com/stories/buy-or-build-ai-6e5a7d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/buy-or-build-ai-6e5a7d/</guid>
+      <pubDate>Tue, 09 Sep 2025 11:14:43 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>How do you decide whether to buy a ready-made AI solution or build one from the ground up? The choice is more than just a technical decision; it&#39;s about aligning AI with your business goals. In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to examine</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/buy-or-build-ai">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>The AI Workflow</title>
+      <link>https://oracle-university.com/stories/the-ai-workflow-2273cc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-ai-workflow-2273cc/</guid>
+      <pubDate>Tue, 02 Sep 2025 11:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Join Lois Houston and Nikita Abraham as they chat with Yunus Mohammed, a Principal Instructor at Oracle University, about the key stages of AI model development. From gathering and preparing data to selecting, training, and deploying models, learn how each phase impacts AI&#39;s real-world effectiveness</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/the-ai-workflow">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Core AI Concepts – Part 3</title>
+      <link>https://oracle-university.com/stories/core-ai-concepts-part-3-b8133b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/core-ai-concepts-part-3-b8133b/</guid>
+      <pubDate>Tue, 26 Aug 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Join hosts Lois Houston and Nikita Abraham, along with Principal AI/ML Instructor Himanshu Raj, as they discuss the transformative world of Generative AI. Together, they uncover the ways in which generative AI agents are changing the way we interact with technology, automating tasks and delivering n</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-3">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Core AI Concepts – Part 2</title>
+      <link>https://oracle-university.com/stories/core-ai-concepts-part-2-7bf4a7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/core-ai-concepts-part-2-7bf4a7/</guid>
+      <pubDate>Tue, 19 Aug 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>In this episode, Lois Houston and Nikita Abraham continue their discussion on AI fundamentals, diving into Data Science with Principal AI/ML Instructor Himanshu Raj. They explore key concepts like data collection, cleaning, and analysis, and talk about how quality data drives impactful insights. AI </description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-2">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Core AI Concepts – Part 1</title>
+      <link>https://oracle-university.com/stories/core-ai-concepts-part-1-d909db/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/core-ai-concepts-part-1-d909db/</guid>
+      <pubDate>Tue, 12 Aug 2025 11:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Join hosts Lois Houston and Nikita Abraham, along with Principal AI/ML Instructor Himanshu Raj, as they dive deeper into the world of artificial intelligence, analyzing the types of machine learning. They also discuss deep learning, including how it works, its applications, and its advantages and ch</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-1">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
