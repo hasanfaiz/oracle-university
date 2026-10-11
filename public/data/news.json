@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T23:40:57.591Z",
+  "generatedAt": "2026-10-11T23:46:27.393Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,133 +7,156 @@
   },
   "items": [
     {
-      "id": "e19c931003b81e72",
-      "slug": "oracle-layoffs-and-the-duties-of-an-ai-landlord-cc8358",
-      "title": "Oracle Layoffs and the Duties of an AI Landlord",
-      "dek": "Oracle’s AI infrastructure business is expanding rapidly even as jobs are cut, raising questions about workforce planning, operational risks and the people behind its growing cloud ambitions.",
-      "url": "https://www.timesnownews.com/opinion/india/oracle-layoffs-and-the-duties-of-an-ai-landlord-article-156310321",
-      "source": "Times Now News",
+      "id": "6be2b1e340a6e5fc",
+      "slug": "why-nvidia-is-holding-up-as-ai-credit-fears-hit-broadcom-and-oracle-c4c7b6",
+      "title": "Why NVIDIA Is Holding Up as AI Credit Fears Hit Broadcom and Oracle",
+      "dek": "NVIDIA is holding up better than Broadcom and Oracle as AI credit fears grow. Rising earnings estimates, Oracle's debt burden and customer concentration help explain the gap.",
+      "url": "https://www.ibtimes.sg/why-nvidia-holding-ai-credit-fears-hit-broadcom-oracle-94944",
+      "source": "International Business Times",
       "sourceType": "external",
-      "image": "https://images.timesnownews.com/thumb/msid-156310318,thumbsize-127889,width-1280,height-720,resizemode-75/156310318.jpg",
-      "publishedAt": "2026-10-10T11:25:54.000Z",
-      "topic": "Security",
+      "image": "https://data.ibtimes.sg/en/full/97683/nvidia.jpg?w=1200&h=630?q=60",
+      "publishedAt": "2026-10-11T09:46:40.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "layoff news",
-        "ai",
-        "oracle layoffs",
-        "ai landlord",
-        "role of ai in layoffs",
+        "ai credit fears",
+        "nvidia vs broadcom and oracle",
+        "nvidia earnings estimates"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "a76de6f9c1181d3b",
+      "slug": "ai-powered-attacks-on-south-korean-financial-sectors-linked-to-chinese-ddos-group-report-61f515",
+      "title": "AI-powered attacks on South Korean financial sectors linked to Chinese DDoS group: Report",
+      "dek": "The attacker reportedly used separate attack servers and alternative access routes.",
+      "url": "https://www.straitstimes.com/asia/east-asia/ai-powered-attacks-on-south-korean-financial-sectors-linked-to-chinese-ddos-group-report",
+      "source": "Straitstimes",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-10-11T08:25:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "AI"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "938de0ddd5c43ba0",
+      "slug": "ai-stocks-to-watch-in-2026-bosch-ltts-persistent-systems-and-other-indian-companies-in-l-95d17a",
+      "title": "AI Stocks to Watch in 2026: Bosch, LTTS, Persistent Systems and Other Indian Companies in List",
+      "dek": "AI can help improve vehicle safety, identify equipment problems before they cause breakdowns and automate manufacturing processes. Bosch could benefit as vehicle manufacturers increasingly adopt connected technologies and intelligent systems. In Q3 FY26, Bosch reported revenue of Rs 48,856 million, ",
+      "url": "https://www.goodreturns.in/news/ai-stocks-to-watch-in-2026-bosch-ltts-persistent-systems-and-other-indian-companies-in-list-1540663.html",
+      "source": "Goodreturns",
+      "sourceType": "external",
+      "image": "https://images.goodreturns.in/webp/img/2026/10/aiitstocks1-89651791706246.jpg",
+      "publishedAt": "2026-10-11T08:11:19.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
         "news"
       ],
-      "priority": 43
+      "priority": 40
     },
     {
-      "id": "4ece4668f60fec2a",
-      "slug": "the-telo-mt1-is-a-big-truck-trapped-in-a-tiny-truck-s-body-5a80ec",
-      "title": "The Telo MT1 is a big truck trapped in a tiny truck’s body",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://us.headtopics.com/news/the-telo-mt1-is-a-big-truck-trapped-in-a-tiny-truck-s-body-88661970",
-      "source": "Headtopics",
+      "id": "99e3930ca82e4fad",
+      "slug": "fbi-arrests-cybersecurity-executive-over-data-breach-after-contractor-fails-to-update-or-c35a57",
+      "title": "FBI Arrests Cybersecurity Executive Over Data Breach After Contractor Fails to Update Oracle HR Platform",
+      "dek": "CNN reports: The FBI arrested a Canadian cybersecurity executive and ransomware expert as part of the investigation of a damaging hack that exposed the sensitive data of current and former FBI employees, according to court documents and people familiar the investigation. Edward Dubrovsky was arreste",
+      "url": "https://it.slashdot.org/story/26/10/11/0157259/fbi-arrests-cybersecurity-executive-over-data-breach-after-contractor-fails-to-update-oracle-hr-platform",
+      "source": "Slashdot",
       "sourceType": "external",
-      "image": "https://i.headtopics.com/images/2026/10/10/verge/the-telo-mt1-is-a-big-truck-trapped-in-a-tiny-truc-the-telo-mt1-is-a-big-truck-trapped-in-a-tiny-truc-1C89963333EC97640E21786F7AC825A6-16x9.webp",
-      "publishedAt": "2026-10-10T11:21:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "united states news"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "6123ef4c7a2b2b09",
-      "slug": "information-services-group-ai-infrastructure-demand-sends-cloud-bookings-soaring-cfe12f",
-      "title": "Information Services Group: AI Infrastructure Demand Sends Cloud Bookings Soaring",
-      "dek": "Information Services Group (NASDAQ:III) said its third-quarter 2026 market data showed accelerating demand for AI infrastructure and cloud services, while growth in traditional managed services remained modest as enterprises shifted spending toward AI, software platforms and cloud capacity. The comp",
-      "url": "https://baseballnewssource.com/2026/10/10/information-services-group-ai-infrastructure-demand-sends-cloud-bookings-soaring/11296926.html",
-      "source": "Bbns",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/information-services-group-inc-logo-1200x675.jpg?v2",
-      "publishedAt": "2026-10-10T10:03:02.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "partner feed articles",
-        "markets"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "47e4f755ba51316f",
-      "slug": "microsoft-decision-1-faster-cheaper-ai-model-built-for-structured-business-decisions-5f7f62",
-      "title": "Microsoft Decision-1: Faster, Cheaper AI Model Built for Structured Business Decisions",
-      "dek": "Microsoft’s Decision-1 AI model claims to be 35x faster than GPT-6 Sol for structured decisions at USD 0.042 per million input tokens. Results are unverified.",
-      "url": "https://www.analyticsinsight.net/news/microsoft-decision-1-faster-cheaper-ai-model-built-for-structured-business-decisions",
-      "source": "Analytics And Insight",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-10-10T09:55:08.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "gpt-6 sol comparison",
-        "microsoft foundry",
-        "microsoft decision-1",
-        "ai agents",
-        "microsoft"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "296d773668b518d0",
-      "slug": "oracle-corporation-orcl-stock-valley-wealth-managers-inc-raises-stake-15d0f9",
-      "title": "Oracle Corporation $ORCL Stock: Valley Wealth Managers Inc. Raises Stake",
-      "dek": "Valley Wealth Managers Inc. increased its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 5.2% during the 3rd quarter, HoldingsChannel reports. The firm owned 147,787 shares of the enterprise software provider’s stock after buying an additional 7,281 shares during the period. Valley Wealth ",
-      "url": "https://www.watchlistnews.com/oracle-corporation-orcl-stock-valley-wealth-managers-inc-raises-stake/11256537.html",
-      "source": "Watch List News",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-10-10T09:38:47.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "sec filing articles",
-        "investing"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "2fb3fb48756cdc65",
-      "slug": "postgresql-ecosystem-expands-across-ai-lakehouse-automation-and-security-ea9972",
-      "title": "PostgreSQL Ecosystem Expands Across AI, Lakehouse, Automation, and Security",
-      "dek": "PostgreSQL news roundup: AWS DuckDB in Aurora, Babelfish FTS gaps, DBtune automation, Nebius managed clusters, Tom Lane architecture, Splunk CVE. The post PostgreSQL Ecosystem Expands Across AI, Lakehouse, Automation, and Security appeared first on SourceTrail.",
-      "url": "https://www.sourcetrail.com/sql/postgresql-ecosystem-expands-across-ai-lakehouse-automation-and-security/",
-      "source": "Sourcetrail",
-      "sourceType": "external",
-      "image": "https://www.sourcetrail.com/wp-content/uploads/2026/10/PostgreSQL.jpg",
-      "publishedAt": "2026-10-10T08:54:46.000Z",
+      "image": "https://a.fsdn.com/sd/topics/security_64.png",
+      "publishedAt": "2026-10-11T07:34:00.000Z",
       "topic": "Security",
       "tags": [
-        "postgresql",
-        "sql"
+        "security"
       ],
-      "priority": 41
+      "priority": 40
     },
     {
-      "id": "e77678d6c52e5266",
-      "slug": "openai-annualized-revenue-at-50b-below-estimates-d832ef",
-      "title": "OpenAI Annualized Revenue at $50B, Below Estimates",
-      "dek": "OpenAI Annualized Revenue Falls Below Earlier Estimates, Triggering Tech Stock Selloff OpenAI told investors its annualized revenue reached roughly $50 billion, below figures that had circulated widely. CNBC confirmed the number after the Financial Times first reported it on Thursday, October 8. The",
-      "url": "https://inc29.com/openai-annualized-revenue-at-50b-below-estimates/",
-      "source": "Inc29, Business, Funding And Entrepreneur News",
+      "id": "9a92b38fb058a6d4",
+      "slug": "11-best-ai-courses-for-database-administrators-to-future-proof-your-career-in-2026-0d7e01",
+      "title": "11 Best AI Courses for Database Administrators to Future-Proof Your Career in 2026",
+      "dek": "Discover the 11 top AI courses tailored for database administrators to stay ahead in 2026. Learn essential skills, tools, and strategies to automate workflows, enhance performance, and secure your role in an evolving industry.",
+      "url": "https://completeaitraining.com/blog/11-best-ai-courses-for-database-administrators-to-future-proof-your-career-in-2026/",
+      "source": "Complete Ai Training",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-10-10T08:40:44.000Z",
+      "image": "https://cdn.completeaitraining.com/ai_course_images/all_ai_courses_for_database_administrators__update_1752093558.jpg",
+      "publishedAt": "2026-10-11T07:12:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "ai blog",
+        "blog"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "a122f1ea32642675",
+      "slug": "ai-powered-attacks-on-korean-financial-sectors-linked-to-chinese-ddos-group-report-a10954",
+      "title": "AI-powered attacks on Korean financial sectors linked to Chinese DDoS group: report",
+      "dek": "A recent series of AI-backed cyberattacks on South Korean banks may be linked to a Chinese group that carries out distributed denial-of-service (DDoS) attacks for hire, according to a report released Sunday by a Seoul-based cybersecurity firm Logpresso. The company said the Telegram account “YY520CN",
+      "url": "https://www.koreaherald.com/article/10898597",
+      "source": "The Korea Herald",
+      "sourceType": "external",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/10/11/news-p.v1.20261011.f02d6edf8ca14b7c886248385c6ca225_T1.jpg",
+      "publishedAt": "2026-10-11T05:38:13.000Z",
+      "topic": "Security",
+      "tags": [
+        "national"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "5439885878b4e6aa",
+      "slug": "northland-securities-estimates-coreweave-q3-earnings-cd5687",
+      "title": "Northland Securities Estimates CoreWeave Q3 Earnings",
+      "dek": "CoreWeave Inc. (NASDAQ:CRWV – Free Report) – Research analysts at Northland Securities reduced their Q3 2026 earnings per share estimates for shares of CoreWeave in a report issued on Wednesday, October 7th. Northland Securities analyst N. Chokshi now forecasts that the company will earn ($1.70) per",
+      "url": "https://www.americanbankingnews.com/2026/10/11/northland-securities-estimates-coreweave-q3-earnings.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/coreweave-inc-class-a-common-stock--logo-1200x675.png?v=20250328080441",
+      "publishedAt": "2026-10-11T05:14:54.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "artificial intelligence",
-        "financial times",
-        "oracle",
-        "semiconductor stocks",
-        "ai stocks",
-        "ai valuation"
+        "market news",
+        "analyst articles - estimates"
       ],
-      "priority": 41
+      "priority": 38
+    },
+    {
+      "id": "5ae2a656eff92b62",
+      "slug": "information-services-group-ai-infrastructure-demand-sends-cloud-bookings-soaring-e113b4",
+      "title": "Information Services Group: AI Infrastructure Demand Sends Cloud Bookings Soaring",
+      "dek": "Information Services Group (NASDAQ:III) said its third-quarter 2026 market data showed accelerating demand for AI infrastructure and cloud services, while growth in traditional managed services remained modest as enterprises shifted spending toward AI, software platforms and cloud capacity. The comp",
+      "url": "https://zolmax.com/investing/information-services-group-ai-infrastructure-demand-sends-cloud-bookings-soaring/12026079.html",
+      "source": "Zolmax",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/information-services-group-inc-logo-1200x675.jpg?v2",
+      "publishedAt": "2026-10-11T05:02:49.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "investing",
+        "partner feed articles"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "986cb0798df6c4a7",
+      "slug": "the-only-billionaires-making-money-this-year-are-in-tech-448060",
+      "title": "The only billionaires making money this year are in tech",
+      "dek": "With tech billionaires being worth a combined $4.6trn.",
+      "url": "https://www.moneyweb.co.za/news/tech/the-only-billionaires-making-money-this-year-are-in-tech/",
+      "source": "Moneyweb",
+      "sourceType": "external",
+      "image": "https://www.moneyweb.co.za/wp-content/uploads/2026/10/469824405-2048x1366.jpg",
+      "publishedAt": "2026-10-11T02:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "elon musk",
+        "mark zuckerberg",
+        "tech",
+        "ai"
+      ],
+      "priority": 36
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1948,39 +1971,6 @@
       "publishedAt": "2024-04-09T14:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "513c87bee83d2547",
-      "slug": "developing-redwood-applications-86e984",
-      "title": "Developing Redwood Applications",
-      "dek": "Redwood is a state-of-the-art graphical interface that defines the look and feel of the new Oracle Cloud Redwood Applications. In this episode, hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Joe Greenwald, take a closer look at the intent behind the design and deve",
-      "url": "https://oracleuniversitypodcast.libsyn.com/developing-redwood-applications",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-02T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "0bc5f5b9fa209155",
-      "slug": "preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio-23f876",
-      "title": "Preparing to Extend Oracle Fusion Apps Using Visual Builder Studio",
-      "dek": "What do you need to start customizing the next generation of Oracle Fusion Apps? How do you create new pages for business processes? What level of expertise do you require for this? Join Lois Houston and Nikita Abraham as they get answers to all these questions and more from Senior Principal OCI Ins",
-      "url": "https://oracleuniversitypodcast.libsyn.com/preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-03-26T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
       "priority": 36
     }
   ]
