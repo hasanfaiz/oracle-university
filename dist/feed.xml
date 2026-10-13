@@ -6,88 +6,115 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Oct 2026 23:46:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 02:08:15 GMT</lastBuildDate>
     
     <item>
-      <title>Why NVIDIA Is Holding Up as AI Credit Fears Hit Broadcom and Oracle</title>
-      <link>https://oracle-university.com/stories/why-nvidia-is-holding-up-as-ai-credit-fears-hit-broadcom-and-oracle-c4c7b6/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/why-nvidia-is-holding-up-as-ai-credit-fears-hit-broadcom-and-oracle-c4c7b6/</guid>
-      <pubDate>Sun, 11 Oct 2026 09:46:40 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>NVIDIA is holding up better than Broadcom and Oracle as AI credit fears grow. Rising earnings estimates, Oracle&#39;s debt burden and customer concentration help explain the gap.</description>
-      <source url="https://www.ibtimes.sg/why-nvidia-holding-ai-credit-fears-hit-broadcom-oracle-94944">International Business Times</source>
-    </item>
-    <item>
-      <title>AI-powered attacks on South Korean financial sectors linked to Chinese DDoS group: Report</title>
-      <link>https://oracle-university.com/stories/ai-powered-attacks-on-south-korean-financial-sectors-linked-to-chinese-ddos-group-report-61f515/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-powered-attacks-on-south-korean-financial-sectors-linked-to-chinese-ddos-group-report-61f515/</guid>
-      <pubDate>Sun, 11 Oct 2026 08:25:00 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>The attacker reportedly used separate attack servers and alternative access routes.</description>
-      <source url="https://www.straitstimes.com/asia/east-asia/ai-powered-attacks-on-south-korean-financial-sectors-linked-to-chinese-ddos-group-report">Straitstimes</source>
-    </item>
-    <item>
-      <title>AI Stocks to Watch in 2026: Bosch, LTTS, Persistent Systems and Other Indian Companies in List</title>
-      <link>https://oracle-university.com/stories/ai-stocks-to-watch-in-2026-bosch-ltts-persistent-systems-and-other-indian-companies-in-l-95d17a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-stocks-to-watch-in-2026-bosch-ltts-persistent-systems-and-other-indian-companies-in-l-95d17a/</guid>
-      <pubDate>Sun, 11 Oct 2026 08:11:19 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>AI can help improve vehicle safety, identify equipment problems before they cause breakdowns and automate manufacturing processes. Bosch could benefit as vehicle manufacturers increasingly adopt connected technologies and intelligent systems. In Q3 FY26, Bosch reported revenue of Rs 48,856 million, </description>
-      <source url="https://www.goodreturns.in/news/ai-stocks-to-watch-in-2026-bosch-ltts-persistent-systems-and-other-indian-companies-in-list-1540663.html">Goodreturns</source>
-    </item>
-    <item>
-      <title>FBI Arrests Cybersecurity Executive Over Data Breach After Contractor Fails to Update Oracle HR Platform</title>
-      <link>https://oracle-university.com/stories/fbi-arrests-cybersecurity-executive-over-data-breach-after-contractor-fails-to-update-or-c35a57/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/fbi-arrests-cybersecurity-executive-over-data-breach-after-contractor-fails-to-update-or-c35a57/</guid>
-      <pubDate>Sun, 11 Oct 2026 07:34:00 GMT</pubDate>
-      <category>Security</category>
-      <description>CNN reports: The FBI arrested a Canadian cybersecurity executive and ransomware expert as part of the investigation of a damaging hack that exposed the sensitive data of current and former FBI employees, according to court documents and people familiar the investigation. Edward Dubrovsky was arreste</description>
-      <source url="https://it.slashdot.org/story/26/10/11/0157259/fbi-arrests-cybersecurity-executive-over-data-breach-after-contractor-fails-to-update-oracle-hr-platform">Slashdot</source>
-    </item>
-    <item>
-      <title>11 Best AI Courses for Database Administrators to Future-Proof Your Career in 2026</title>
-      <link>https://oracle-university.com/stories/11-best-ai-courses-for-database-administrators-to-future-proof-your-career-in-2026-0d7e01/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/11-best-ai-courses-for-database-administrators-to-future-proof-your-career-in-2026-0d7e01/</guid>
-      <pubDate>Sun, 11 Oct 2026 07:12:00 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>Discover the 11 top AI courses tailored for database administrators to stay ahead in 2026. Learn essential skills, tools, and strategies to automate workflows, enhance performance, and secure your role in an evolving industry.</description>
-      <source url="https://completeaitraining.com/blog/11-best-ai-courses-for-database-administrators-to-future-proof-your-career-in-2026/">Complete Ai Training</source>
-    </item>
-    <item>
-      <title>AI-powered attacks on Korean financial sectors linked to Chinese DDoS group: report</title>
-      <link>https://oracle-university.com/stories/ai-powered-attacks-on-korean-financial-sectors-linked-to-chinese-ddos-group-report-a10954/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-powered-attacks-on-korean-financial-sectors-linked-to-chinese-ddos-group-report-a10954/</guid>
-      <pubDate>Sun, 11 Oct 2026 05:38:13 GMT</pubDate>
-      <category>Security</category>
-      <description>A recent series of AI-backed cyberattacks on South Korean banks may be linked to a Chinese group that carries out distributed denial-of-service (DDoS) attacks for hire, according to a report released Sunday by a Seoul-based cybersecurity firm Logpresso. The company said the Telegram account “YY520CN</description>
-      <source url="https://www.koreaherald.com/article/10898597">The Korea Herald</source>
-    </item>
-    <item>
-      <title>Northland Securities Estimates CoreWeave Q3 Earnings</title>
-      <link>https://oracle-university.com/stories/northland-securities-estimates-coreweave-q3-earnings-cd5687/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/northland-securities-estimates-coreweave-q3-earnings-cd5687/</guid>
-      <pubDate>Sun, 11 Oct 2026 05:14:54 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>CoreWeave Inc. (NASDAQ:CRWV – Free Report) – Research analysts at Northland Securities reduced their Q3 2026 earnings per share estimates for shares of CoreWeave in a report issued on Wednesday, October 7th. Northland Securities analyst N. Chokshi now forecasts that the company will earn ($1.70) per</description>
-      <source url="https://www.americanbankingnews.com/2026/10/11/northland-securities-estimates-coreweave-q3-earnings.html">Americanbankingnews</source>
-    </item>
-    <item>
-      <title>Information Services Group: AI Infrastructure Demand Sends Cloud Bookings Soaring</title>
-      <link>https://oracle-university.com/stories/information-services-group-ai-infrastructure-demand-sends-cloud-bookings-soaring-e113b4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/information-services-group-ai-infrastructure-demand-sends-cloud-bookings-soaring-e113b4/</guid>
-      <pubDate>Sun, 11 Oct 2026 05:02:49 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Information Services Group (NASDAQ:III) said its third-quarter 2026 market data showed accelerating demand for AI infrastructure and cloud services, while growth in traditional managed services remained modest as enterprises shifted spending toward AI, software platforms and cloud capacity. The comp</description>
-      <source url="https://zolmax.com/investing/information-services-group-ai-infrastructure-demand-sends-cloud-bookings-soaring/12026079.html">Zolmax</source>
-    </item>
-    <item>
-      <title>The only billionaires making money this year are in tech</title>
-      <link>https://oracle-university.com/stories/the-only-billionaires-making-money-this-year-are-in-tech-448060/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-only-billionaires-making-money-this-year-are-in-tech-448060/</guid>
-      <pubDate>Sun, 11 Oct 2026 02:00:00 GMT</pubDate>
+      <title>Asia Pacific Luxury Eco-Resort Technologies Market Latest Roadmap (2026-2033)</title>
+      <link>https://oracle-university.com/stories/asia-pacific-luxury-eco-resort-technologies-market-latest-roadmap-2026-2033-263a6b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/asia-pacific-luxury-eco-resort-technologies-market-latest-roadmap-2026-2033-263a6b/</guid>
+      <pubDate>Mon, 12 Oct 2026 13:54:05 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>With tech billionaires being worth a combined $4.6trn.</description>
-      <source url="https://www.moneyweb.co.za/news/tech/the-only-billionaires-making-money-this-year-are-in-tech/">Moneyweb</source>
+      <description>🌿🏝️ Asia Pacific Luxury Eco-Resort Technologies Market Study (2025-2032) From Our Industry HTF Market Intelligence The Asia Pacific Luxury Eco-Resort Technologies Market Study provides a comprehensive analysis spanning 140+ pages, covering market scope, sustainable hospitality innovations, smart r</description>
+      <source url="https://www.openpr.com/news/4658794/asia-pacific-luxury-eco-resort-technologies-market-latest">Openpr.com</source>
+    </item>
+    <item>
+      <title>Why Is the Radiology Information System Market Becoming a Key Investment Priority Amid Rising Demand for Digital Healthcare and AI-Driven Imaging Workflows</title>
+      <link>https://oracle-university.com/stories/why-is-the-radiology-information-system-market-becoming-a-key-investment-priority-amid-r-240a6d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/why-is-the-radiology-information-system-market-becoming-a-key-investment-priority-amid-r-240a6d/</guid>
+      <pubDate>Mon, 12 Oct 2026 12:48:11 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>According to DataM Intelligence (DMI) analysis, the Global Radiology Information System Market was valued at US$ 1.40 billion in 2025 and is expected to reach US$ 3.02 billion by 2033, growing at a CAGR of 10.08% during the forecast period</description>
+      <source url="https://www.openpr.com/news/4658718/why-is-the-radiology-information-system-market-becoming-a-key">Openpr.com</source>
+    </item>
+    <item>
+      <title>Broadcom Vs. Oracle: Whose AI Chip Debt Financing Scheme Looks Worse?</title>
+      <link>https://oracle-university.com/stories/broadcom-vs-oracle-whose-ai-chip-debt-financing-scheme-looks-worse-159074/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/broadcom-vs-oracle-whose-ai-chip-debt-financing-scheme-looks-worse-159074/</guid>
+      <pubDate>Mon, 12 Oct 2026 12:45:33 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Oracle and Broadcom both borrowed from the AI buildout in very different ways, and one of those balance sheets looks far more dangerous than the other right now.</description>
+      <source url="https://247wallst.com/investing/2026/10/12/broadcom-vs-oracle-whose-ai-chip-debt-financing-scheme-looks-worse/">24/7 Wall St</source>
+    </item>
+    <item>
+      <title>Nvidia (NVDA) Grows Like a Rocket But Still Looks Cheap</title>
+      <link>https://oracle-university.com/stories/nvidia-nvda-grows-like-a-rocket-but-still-looks-cheap-4ae4bc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/nvidia-nvda-grows-like-a-rocket-but-still-looks-cheap-4ae4bc/</guid>
+      <pubDate>Mon, 12 Oct 2026 12:36:14 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Nvidia (NASDAQ:NVDA) is posting the kind of numbers that once justified a sky-high price tag. Yet the market now pays far less for each dollar of its expected profit than it did, on average, over the past five years. Something has to give. Either the earnings engine is about to stall, or the stock’s</description>
+      <source url="https://www.insidermonkey.com/news/nvidia-nvda-grows-like-a-rocket-but-still-looks-cheap-1849920/">Insider Trading</source>
+    </item>
+    <item>
+      <title>Oracle (ORCL) Has $664B Lined Up. The Market Wants Cash First</title>
+      <link>https://oracle-university.com/stories/oracle-orcl-has-664b-lined-up-the-market-wants-cash-first-0d75af/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-orcl-has-664b-lined-up-the-market-wants-cash-first-0d75af/</guid>
+      <pubDate>Mon, 12 Oct 2026 12:36:05 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Oracle (NYSE:ORCL) is sitting on a pile of signed business most companies can only dream about: $664 billion in remaining performance obligations (contracted revenue not yet recognized) at the end of fiscal Q1 2027. Yet the market keeps treating the stock like a question mark, attracting retail atte</description>
+      <source url="https://www.insidermonkey.com/news/oracle-orcl-has-664b-lined-up-the-market-wants-cash-first-1852323/">Insider Trading</source>
+    </item>
+    <item>
+      <title>Oracle Is Trucking In Natural Gas to Keep Its AI Data Centers on Schedule</title>
+      <link>https://oracle-university.com/stories/oracle-is-trucking-in-natural-gas-to-keep-its-ai-data-centers-on-schedule-96c8b2/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-is-trucking-in-natural-gas-to-keep-its-ai-data-centers-on-schedule-96c8b2/</guid>
+      <pubDate>Mon, 12 Oct 2026 12:20:04 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Oracle&#39;s AI data centers are running behind on pipelines and permits, so the company found an unusual workaround to keep construction on schedule and avoid penalties on hundreds of billions in signed contracts.</description>
+      <source url="https://247wallst.com/investing/2026/10/12/oracle-is-trucking-in-natural-gas-to-keep-its-ai-data-centers-on-schedule/">24/7 Wall St</source>
+    </item>
+    <item>
+      <title>Ray Dalio Spots AI Bubble Near Burst as SpaceX Hunts $40 Billion for Nvidia Chips</title>
+      <link>https://oracle-university.com/stories/ray-dalio-spots-ai-bubble-near-burst-as-spacex-hunts-40-billion-for-nvidia-chips-a91d50/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ray-dalio-spots-ai-bubble-near-burst-as-spacex-hunts-40-billion-for-nvidia-chips-a91d50/</guid>
+      <pubDate>Mon, 12 Oct 2026 11:52:14 GMT</pubDate>
+      <category>Security</category>
+      <description>Ray Dalio warns AI forms a classic bubble nearing its burst amid surging debt and rates. SpaceX&#39;s $40B push for Nvidia chips after its IPO highlights the risks, as hyperscalers commit hundreds of billions. Earnings grow but cash conversion pressures mount. The cycle approaches a dangerous turn.</description>
+      <source url="https://www.webpronews.com/ray-dalio-spots-ai-bubble-near-burst-as-spacex-hunts-40-billion-for-nvidia-chips/">Webpronews</source>
+    </item>
+    <item>
+      <title>AI is only as good as the data behind it</title>
+      <link>https://oracle-university.com/stories/ai-is-only-as-good-as-the-data-behind-it-063a1b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-is-only-as-good-as-the-data-behind-it-063a1b/</guid>
+      <pubDate>Mon, 12 Oct 2026 11:01:19 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>For Indian SMEs, the ERP conversation is no longer about finance. As AI becomes part of everyday software, businesses from metros to tier-two cities want systems that connect their data… The post AI is only as good as the data behind it appeared first on CIO&amp;Leader.</description>
+      <source url="https://www.cioandleader.com/ai-is-only-as-good-as-the-data-behind-it/">Cio&amp;leader</source>
+    </item>
+    <item>
+      <title>Trump to Push for Higher Oil Output, Houston Co.’s Next Gen Geothermal Plant Reaches Scale</title>
+      <link>https://oracle-university.com/stories/trump-to-push-for-higher-oil-output-houston-co-s-next-gen-geothermal-plant-reaches-scale-910243/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/trump-to-push-for-higher-oil-output-houston-co-s-next-gen-geothermal-plant-reaches-scale-910243/</guid>
+      <pubDate>Mon, 12 Oct 2026 10:28:04 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>ONLY AVAILABLE IN PAID PLANS</description>
+      <source url="https://texasenergyreport.com/p/trump-to-push-for-higher-oil-output">The Texas Energy Report</source>
+    </item>
+    <item>
+      <title>AI Reshuffle: The Tech Jobs Being Cut vs The Ones Being Created</title>
+      <link>https://oracle-university.com/stories/ai-reshuffle-the-tech-jobs-being-cut-vs-the-ones-being-created-a4a58e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-reshuffle-the-tech-jobs-being-cut-vs-the-ones-being-created-a4a58e/</guid>
+      <pubDate>Mon, 12 Oct 2026 10:11:55 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Oracle has begun its second round of layoffs this year, with as many as 3,000 affected employees reportedly in India. Product engineering teams are among the worst hit. The cuts come after Oracle’s workforce fell by about 21,000, or 13 percent, in the year to May. Layoffs.fyi has counted 1,23,305 te</description>
+      <source url="https://www.freepressjournal.in/tech/ai-reshuffle-the-tech-jobs-being-cut-vs-the-ones-being-created">The Free Press Journal</source>
+    </item>
+    <item>
+      <title>Head-To-Head Comparison: Rimini Street (NASDAQ:RMNI) versus Portage Biotech (NASDAQ:ALP)</title>
+      <link>https://oracle-university.com/stories/head-to-head-comparison-rimini-street-nasdaq-rmni-versus-portage-biotech-nasdaq-alp-b02bd5/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/head-to-head-comparison-rimini-street-nasdaq-rmni-versus-portage-biotech-nasdaq-alp-b02bd5/</guid>
+      <pubDate>Mon, 12 Oct 2026 09:14:53 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Portage Biotech (NASDAQ:ALP – Get Free Report) and Rimini Street (NASDAQ:RMNI – Get Free Report) are both small-cap technology companies, but which is the better business? We will contrast the two businesses based on the strength of their earnings, profitability, analyst recommendations, valuation, </description>
+      <source url="https://www.americanbankingnews.com/2026/10/12/head-to-head-comparison-rimini-street-nasdaqrmni-versus-portage-biotech-nasdaqalp.html">Americanbankingnews</source>
+    </item>
+    <item>
+      <title>NetApp and Oracle to launch fully managed cloud storage service for demanding AI and enterprise workloads</title>
+      <link>https://oracle-university.com/stories/netapp-and-oracle-to-launch-fully-managed-cloud-storage-service-for-demanding-ai-and-ent-928830/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/netapp-and-oracle-to-launch-fully-managed-cloud-storage-service-for-demanding-ai-and-ent-928830/</guid>
+      <pubDate>Mon, 12 Oct 2026 08:45:31 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Secure, reliable, and performant NetApp storage is planned to be available as a native service to Oracle Cloud Infrastructure customers</description>
+      <source url="https://www.zawya.com/en/press-release/companies-news/netapp-and-oracle-to-launch-fully-managed-cloud-storage-service-for-demanding-ai-and-enterprise-workloads-1591361">Zawya</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -430,33 +457,6 @@
       <category>Applications &amp; NetSuite</category>
       <description>In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to explore Oracle&#39;s approach to enterprise AI. The conversation covers the essential components of the Oracle AI stack and how each part, from the foundational infrastructure to business-specific appli</description>
       <source url="https://oracleuniversitypodcast.libsyn.com/oracles-ai-ecosystem">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Buy or Build AI?</title>
-      <link>https://oracle-university.com/stories/buy-or-build-ai-6e5a7d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/buy-or-build-ai-6e5a7d/</guid>
-      <pubDate>Tue, 09 Sep 2025 11:14:43 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>How do you decide whether to buy a ready-made AI solution or build one from the ground up? The choice is more than just a technical decision; it&#39;s about aligning AI with your business goals. In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to examine</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/buy-or-build-ai">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>The AI Workflow</title>
-      <link>https://oracle-university.com/stories/the-ai-workflow-2273cc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-ai-workflow-2273cc/</guid>
-      <pubDate>Tue, 02 Sep 2025 11:00:00 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>Join Lois Houston and Nikita Abraham as they chat with Yunus Mohammed, a Principal Instructor at Oracle University, about the key stages of AI model development. From gathering and preparing data to selecting, training, and deploying models, learn how each phase impacts AI&#39;s real-world effectiveness</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/the-ai-workflow">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Core AI Concepts – Part 3</title>
-      <link>https://oracle-university.com/stories/core-ai-concepts-part-3-b8133b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/core-ai-concepts-part-3-b8133b/</guid>
-      <pubDate>Tue, 26 Aug 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Join hosts Lois Houston and Nikita Abraham, along with Principal AI/ML Instructor Himanshu Raj, as they discuss the transformative world of Generative AI. Together, they uncover the ways in which generative AI agents are changing the way we interact with technology, automating tasks and delivering n</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-3">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
