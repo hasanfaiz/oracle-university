@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T23:46:21.910Z",
+  "generatedAt": "2026-10-14T23:19:22.555Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,316 +7,490 @@
   },
   "items": [
     {
-      "id": "6e3765a6523c9863",
-      "slug": "ai-video-analytics-market-to-reach-usd-91-32-billion-by-2035-growing-from-usd-12-00-bill-5515cf",
-      "title": "AI Video Analytics Market to Reach USD 91.32 Billion by 2035, Growing from USD 12.00 Billion in 2025 - SRI",
-      "dek": "London, UK - October 2026 | Strategic Revenue Insights Inc. - Strategic Revenue Insights Inc. has released a new report on the global AI Video Analytics market, covering components, deployment models, applications, end users, and regions from 2026 to 2035. https://www.strategicrevenueinsights.com/in",
-      "url": "https://www.openpr.com/news/4660008/ai-video-analytics-market-to-reach-usd-91-32-billion-by-2035",
+      "id": "6d3ac8dd38bcbcf1",
+      "slug": "erste-group-bank-brokers-lift-earnings-estimates-for-mrvl-a2113d",
+      "title": "Erste Group Bank Brokers Lift Earnings Estimates for MRVL",
+      "dek": "Marvell Technology, Inc. (NASDAQ:MRVL – Free Report) – Analysts at Erste Group Bank raised their FY2028 earnings per share estimates for shares of Marvell Technology in a report issued on Thursday, October 8th. Erste Group Bank analyst S. Lingnau now expects that the semiconductor company will post ",
+      "url": "https://www.themarketsdaily.com/2026/10/14/erste-group-bank-brokers-lift-earnings-estimates-for-mrvl.html",
+      "source": "Markets Daily",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/marvell-technology-inc-logo-1200x675.jpg?v=20231226132558",
+      "publishedAt": "2026-10-14T11:18:18.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "analyst articles - estimates",
+        "stocks"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "4d10cd6126fad734",
+      "slug": "almalinux-os-foundation-chair-to-speak-at-all-things-open-2026-75372b",
+      "title": "AlmaLinux OS Foundation Chair To Speak at All Things Open 2026",
+      "dek": "The AlmaLinux OS Foundation, the nonprofit that stewards the free and community-governed open source enterprise Linux distribution, today announced that chair",
+      "url": "https://www.einpresswire.com/article/949387394/almalinux-os-foundation-chair-to-speak-at-all-things-open-2026",
+      "source": "Ein Presswire",
+      "sourceType": "external",
+      "image": "https://img.einnews.com/ampsize/589713/almalinux.png",
+      "publishedAt": "2026-10-14T11:05:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "florida",
+        "worldnews",
+        "it industry",
+        "united states"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "296c52050788f18e",
+      "slug": "oracle-netsuite-announces-launch-of-ai-first-quickstart-nyse-content-update-939655",
+      "title": "Oracle NetSuite Announces Launch of AI-first QuickStart: NYSE Content Update",
+      "dek": "NYSE issues a pre-market daily advisory direct from the trading floor. The New York Stock Exchange (NYSE) provides a daily pre-market update directly from the NYSE Trading Floor. Access today's NYSE Pre-market update for market insights before trading begins. Kristen Scholer delivers the pre-market ",
+      "url": "https://investingnews.com/oracle-netsuite-announces-launch-of-ai-first-quickstart-nyse-content-update/",
+      "source": "Investing News Network (inn)",
+      "sourceType": "external",
+      "image": "https://investingnews.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNTg1ODg1NS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTgzNDgyNTIxOX0.cBVUy2sasvxLR5NTr0bPLuWJNxfsXjBDtCUD28kRSJM/image.png?width=210",
+      "publishedAt": "2026-10-14T10:55:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "fintech-investing",
+        "nyse-ice",
+        "ice"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "a801988d5af58b4c",
+      "slug": "beyond-cloud-capacity-india-s-next-ai-advantage-0e9be7",
+      "title": "Beyond cloud capacity: India’s next AI advantage",
+      "dek": "By Vijay Kasi, Partner, Kearney and Abhinav Priyanshu, Senior Operations Manager, Kearney India is entering a new phase of AI readiness. Microsoft’s latest Hyderabad cloud region adds another local deployment […] The post Beyond cloud capacity: India’s next AI advantage appeared first on Express Com",
+      "url": "https://www.expresscomputer.in/guest-blogs/beyond-cloud-capacity-indias-next-ai-advantage/139894/",
+      "source": "Express Computer",
+      "sourceType": "external",
+      "image": "https://cdn1.expresscomputer.in/wp-content/uploads/2024/03/20153543/hand-holding-cloud-system-with-data-protection.jpg",
+      "publishedAt": "2026-10-14T10:54:47.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "guest blogs",
+        "artificial intelligence ai",
+        "news"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "404ff4ba739362e5",
+      "slug": "the-risks-of-an-ai-bubble-6fda32",
+      "title": "The Risks of an AI Bubble",
+      "dek": "The spending spree to build artificial intelligence is creating a bubble, but that’s not entirely a bad thing.",
+      "url": "https://www.kiplinger.com/business/the-risks-of-an-ai-bubble",
+      "source": "Kiplinger",
+      "sourceType": "external",
+      "image": "https://cdn.mos.cms.futurecdn.net/q4KTEJUJXQFxvjUiJQUEjF-1920-80.jpg",
+      "publishedAt": "2026-10-14T10:30:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "tech stocks",
+        "stocks",
+        "investing",
+        "business"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "9f9b761fd30a6f7c",
+      "slug": "aramco-hq-fire-data-centers-concern-gop-while-ferc-shoots-down-data-center-plan-eeb834",
+      "title": "Aramco HQ Fire, Data Centers Concern GOP, While FERC Shoots Down Data Center Plan",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://texasenergyreport.com/p/aramco-hq-fire-data-centers-concern",
+      "source": "The Texas Energy Report",
+      "sourceType": "external",
+      "image": "https://substackcdn.com/image/fetch/$s_!mGb8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a27bda4-10aa-4732-b876-43cdc9628f2d_1536x1024.webp",
+      "publishedAt": "2026-10-14T10:28:46.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [],
+      "priority": 43
+    },
+    {
+      "id": "257d65d03d437726",
+      "slug": "suki-raises-90m-to-automate-referrals-and-prior-auths-not-just-clinical-notes-eef7e4",
+      "title": "Suki Raises $90M to Automate Referrals and Prior Auths, Not Just Clinical Notes",
+      "dek": "Suki AI healthcare funding: the ambient scribe company raised $90M in a Series E to build agentic AI that autonomously submits prior authorization requests, schedules referrals, and executes post-encounter clinical workflows without additional physician action, targeting the highest-value administra",
+      "url": "https://www.techtimes.com/articles/328988/20261014/suki-raises-90m-automate-referrals-prior-auths-not-just-clinical-notes.htm",
+      "source": "Techtimes",
+      "sourceType": "external",
+      "image": "https://d.techtimes.com/en/full/476751/ai-healthcare.jpg",
+      "publishedAt": "2026-10-14T10:28:02.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "artificial intelligence"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "c3f630b0ac13c4e9",
+      "slug": "ids-next-expands-wellness-technology-offering-through-oracle-marketplace-c84cfa",
+      "title": "IDS Next Expands Wellness Technology Offering Through Oracle Marketplace",
+      "dek": "IDS Next is happy to announce that FX Spa, our wellness ERP solution, is now available on Oracle Marketplace. Designed for hotels, resorts and wellness centres,",
+      "url": "https://www.einpresswire.com/article/949526394/ids-next-expands-wellness-technology-offering-through-oracle-marketplace",
+      "source": "Ein Presswire",
+      "sourceType": "external",
+      "image": "https://img.einnews.com/ampsize/1213085/fx-spa.jpeg",
+      "publishedAt": "2026-10-14T10:12:43.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "united arab emirates",
+        "it industry",
+        "india",
+        "worldnews",
+        "travel",
+        "technology"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "d8b9bef642203c2c",
+      "slug": "workday-rising-how-returned-ceo-aneel-bhusri-is-taking-a-page-from-steve-jobs-playbook-w-e225e8",
+      "title": "Workday RIsing - how returned CEO Aneel Bhusri is taking a page from Steve Jobs playbook when it comes to turning Workday into a ‘re-start-up’!",
+      "dek": "Aneel Bhusri was the co-founder of Workday and CEO for many years. He returned to the top slot nine months ago as the siren call of AI evolution took hold.",
+      "url": "https://diginomica.com/workday-rising-how-returned-ceo-aneel-bhusri-taking-page-steve-jobs-playbook-when-it-comes-turning",
+      "source": "Diginomica",
+      "sourceType": "external",
+      "image": "https://diginomica.com/sites/default/files/images/2026-10/IMG_0440.jpeg",
+      "publishedAt": "2026-10-14T10:09:50.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "agentic ai",
+        "cloud erp financials and supply chain",
+        "ai adoption",
+        "regulation",
+        "hcm and the digital future of work"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "bf62ea82e8df8ed9",
+      "slug": "the-dawn-of-readingball-how-english-soccer-s-first-head-of-ai-is-plotting-a-smarter-rout-91706f",
+      "title": "The dawn of Readingball: How English soccer’s first head of AI is plotting a smarter route back to the Premier League",
+      "dek": "Reading's head of AI believes a people-centred approach can sort the decisive solutions from the hype, and help send the long-embattled Royals back towards the elite. The post The dawn of Readingball: How English soccer’s first head of AI is plotting a smarter route back to the Premier League appear",
+      "url": "https://www.sportspro.com/features/technology/reading-fc-ai-stuart-fenton-data-technology-premier-league/",
+      "source": "Sportspro",
+      "sourceType": "external",
+      "image": "https://www.sportspro.com/wp-content/uploads/2026/10/Reading-FC-Jack-Marriott.jpg",
+      "publishedAt": "2026-10-14T10:01:59.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "reading fc",
+        "lenovo",
+        "ai",
+        "nvidia",
+        "technology",
+        "emerging technology"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "a7f67b1b673cc78c",
+      "slug": "mastek-and-cort-win-isg-paragon-partnership-of-the-year-2026-for-north-america-5e0045",
+      "title": "Mastek and CORT Win ISG Paragon Partnership of the Year 2026 for North America",
+      "dek": "The award celebrates a decade of digital transformation, from digital commerce modernization to an AI-powered future, continuous innovation, and measurable business outcomes. United States, 14th Oct 2026 - Mastek, a trusted AI-first digital engineering and cloud transformation partner and CORT Busin",
+      "url": "https://www.openpr.com/news/4661376/mastek-and-cort-win-isg-paragon-partnership-of-the-year-2026",
       "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/a/La13818206_k.jpg",
-      "publishedAt": "2026-10-13T11:30:00.000Z",
+      "image": "https://cdn.open-pr.com/a/1/a14618075_k.jpg",
+      "publishedAt": "2026-10-14T09:50:06.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "it",
+        "new media & software"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "c20d2fa3e1bf2e32",
+      "slug": "global-semiconductor-carbon-management-software-market-outlook-2026-key-vendors-sustaina-088a4f",
+      "title": "Global Semiconductor Carbon Management Software Market Outlook 2026: Key Vendors, Sustainability Trends and Growth Opportunities Through 2032",
+      "dek": "QY Research has recently published a research report titled, \"Global Semiconductor Carbon Management Software Market Share and Ranking, Overall Sales and Demand Forecast 2026-2032\" assessing various factors impacting its trajectory. Analysts have used primary and secondary research methodologies to ",
+      "url": "https://www.openpr.com/news/4661348/global-semiconductor-carbon-management-software-market",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/a/La14453960_k.jpg",
+      "publishedAt": "2026-10-14T09:38:11.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "it",
         "new media & software"
       ],
-      "priority": 43
-    },
-    {
-      "id": "645f897f41c33af4",
-      "slug": "scaleway-to-build-amd-powered-ai-supercomputer-in-sweden-d5f13b",
-      "title": "Scaleway to build AMD-powered AI supercomputer in Sweden",
-      "dek": "Scaleway to build AMD-powered AI supercomputer in Sweden",
-      "url": "https://www.investing.com/news/stock-market-news/scaleway-to-build-amdpowered-ai-supercomputer-in-sweden-4946205",
-      "source": "Investing Us",
-      "sourceType": "external",
-      "image": "https://content-media.investing.com/trkd-images/LYNXMPEM9C0W9_L.jpg",
-      "publishedAt": "2026-10-13T11:13:44.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "051f0fd5def42d36",
-      "slug": "new-enterprise-adapter-offers-a-supported-powerplan-integration-between-powerplan-and-or-8bd935",
-      "title": "New Enterprise Adapter Offers a Supported PowerPlan Integration Between PowerPlan and Oracle® Fusion Cloud ERP",
-      "dek": "Customers can now synchronize financial data with Oracle Fusion Cloud ERP through a single, PowerPlan-supported integration, with no custom code to maintain ATLANTA, Oct. 13, 2026 (GLOBE NEWSWIRE) -- PowerPlan, a leading provider of financial software solutions for asset-intensive companies, today a",
-      "url": "https://www.manilatimes.net/2026/10/13/tmt-newswire/globenewswire/new-enterprise-adapter-offers-a-supported-powerplan-integration-between-powerplan-and-oracle-fusion-cloud-erp/2444426",
-      "source": "The Manila Times",
-      "sourceType": "external",
-      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/10/13/1257347.jpg",
-      "publishedAt": "2026-10-13T11:10:18.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "tmt newswire"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "18a2293bae2eb1a9",
-      "slug": "appficiency-announces-strategic-growth-investment-in-redpoint-solutions-4722fa",
-      "title": "Appficiency Announces Strategic Growth Investment in RedPoint Solutions",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.postregister.com/businessreport/technology/appficiency-announces-strategic-growth-investment-in-redpoint-solutions/article_1714247d-5d17-507e-aae5-42a11f7628cc.html",
-      "source": "Postregister",
-      "sourceType": "external",
-      "image": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-      "publishedAt": "2026-10-13T11:02:54.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "technology"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "9c454f76d665d447",
-      "slug": "marvell-microsoft-and-oracle-establish-ocp-working-group-to-standardize-data-center-hard-1b486c",
-      "title": "Marvell, Microsoft and Oracle Establish OCP Working Group to Standardize Data Center Hardware Security",
-      "dek": "New Open Compute Project (OCP) working group: Companies form a new working group to standardize on a silicon-based and attested secure integrated hardware security module (HSM) solution for cloud and hyperscale data center infrastructure. Strengthening cloud security: Secure key caching and...",
-      "url": "https://investingnews.com/marvell-microsoft-and-oracle-establish-ocp-working-group-to-standardize-data-center-hardware-security/",
-      "source": "Investing News Network (inn)",
-      "sourceType": "external",
-      "image": "https://investingnews.com/media-library/image.png?id=33219186&width=1200",
-      "publishedAt": "2026-10-13T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "mrvl",
-        "tech-investing",
-        "nasdaq-mrvl"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "c1d3363f0d9018f0",
-      "slug": "s-p-hits-all-time-highs-ai-trade-does-all-the-work-516ab8",
-      "title": "S&P Hits All-Time Highs, AI Trade Does All The Work",
-      "dek": "From June we saw money rotate out of tech into reflationary sectors, also software, explains Amrita Roy and Uttam Dey. Now, money is moving back into tech.",
-      "url": "https://seekingalpha.com/article/4953647-s-and-p-hits-all-time-highs-ai-trade-does-all-the-work",
-      "source": "Seeking Alpha",
-      "sourceType": "external",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2242072348/image_2242072348.jpg?io=getty-c-w1280",
-      "publishedAt": "2026-10-13T10:30:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "zmet:ca",
-        "zpfe:ca",
-        "orcl",
-        "pltr",
-        "amzn",
-        "sa team"
-      ],
       "priority": 42
     },
     {
-      "id": "d5cf6d39cfd5bf22",
-      "slug": "data-replication-market-report-2026-market-outlook-supported-by-a-forecast-12-7-cagr-716247",
-      "title": "Data Replication Market Report 2026 Market Outlook Supported By A Forecast 12.7% CAGR",
-      "dek": "The data replication market is becoming an increasingly vital part of enterprise IT infrastructure as organizations seek reliable ways to manage their growing volumes of data. With the rising need for continuous data availability and disaster recovery, this sector is",
-      "url": "https://www.openpr.com/news/4659867/data-replication-market-report-2026-market-outlook-supported",
-      "source": "Openpr.com",
+      "id": "309db7c674cbd6c2",
+      "slug": "workday-launches-ai-workforce-tool-analyzing-tasks-not-just-job-titles-40bff4",
+      "title": "Workday Launches AI Workforce Tool Analyzing Tasks, Not Just Job Titles",
+      "dek": "AI workforce planning software is entering a new era: Workday launched Work Intelligence at Workday Rising 2026, breaking each job role into individual tasks and measuring in real time which tasks AI is disrupting, using skills data from more than 3,450 enterprise customers to help HR leaders plan s",
+      "url": "https://www.techtimes.com/articles/329003/20261014/workday-launches-ai-workforce-tool-analyzing-tasks-not-just-job-titles.htm",
+      "source": "Techtimes",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/a/La13522283_k.jpg",
-      "publishedAt": "2026-10-13T10:07:22.000Z",
+      "image": "https://d.techtimes.com/en/full/476747/workday-ai.jpg",
+      "publishedAt": "2026-10-14T09:34:25.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "new media & software",
-        "it"
+        "business"
       ],
       "priority": 42
     },
     {
-      "id": "1ccf4390988db9cb",
-      "slug": "global-oncology-clinical-decision-support-market-size-share-trends-and-forecast-2026-203-2ef904",
-      "title": "Global Oncology Clinical Decision Support Market Size, Share, Trends, and Forecast, 2026-2036 | AI and Precision Oncology Fuel 12.6% CAGR and a USD 2.33 Billion Opportunity",
-      "dek": "Maximize ROI through AI/ML, cloud SaaS, genomic interpretation, EHR integration and strategic partnerships, while targeting high-potential Asia-Pacific adoption.",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/10/13/3379417/28124/en/global-oncology-clinical-decision-support-market-size-share-trends-and-forecast-2026-2036-ai-and-precision-oncology-fuel-12-6-cagr-and-a-usd-2-33-billion-opportunity.html",
+      "id": "54ae6f8cae648348",
+      "slug": "socgen-s-top-stock-strategist-shares-the-3-part-ai-investing-playbook-and-12-stocks-to-o-a56439",
+      "title": "SocGen's top stock strategist shares the 3-part AI investing playbook, and 12 stocks to own for further upside",
+      "dek": "It's been four years since the start of the AI-fueled bull market, and Société Générale has the playbook for the next phase of investors' favorite trade.",
+      "url": "https://www.businessinsider.com/top-ai-stock-picks-to-buy-investing-productivity-msft-lly-2026-10",
+      "source": "Insider",
+      "sourceType": "external",
+      "image": "https://i.insider.com/6ace4f262428f6b45581187d?format=jpeg",
+      "publishedAt": "2026-10-14T09:15:01.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "ai-stocks",
+        "stock-picks",
+        "markets",
+        "investing",
+        "societe-generale",
+        "stocks-to-buy"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "cb2709777419aae5",
+      "slug": "telehealth-market-trends-in-ai-assisted-virtual-consultations-c2f21b",
+      "title": "Telehealth Market Trends in AI-Assisted Virtual Consultations",
+      "dek": "The global telehealth market is entering a period of sustained expansion as healthcare providers increasingly adopt virtual consultations, remote patient monitoring, and digitally connected care [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/10/14/1776698",
+      "source": "Express-press-release",
+      "sourceType": "external",
+      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
+      "publishedAt": "2026-10-14T09:12:34.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "internet & online",
+        "telehealth market"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "eaa1c9e479081f0a",
+      "slug": "amd-helion-ocp-blueprint-adds-model-router-operators-scale-cpus-without-buying-more-gpus-944971",
+      "title": "AMD Helion OCP Blueprint Adds Model Router: Operators Scale CPUs Without Buying More GPUs",
+      "dek": "AMD Helion OCP agentic AI rack debuts with an integrated model router that routes each agent request to the cheapest appropriate backend: cloud frontier or local open-source model. AMD internal testing showed a 43% reduction in token costs. Helios 72-GPU rack entered production in September 2026 and",
+      "url": "https://www.techtimes.com/articles/329005/20261014/amd-helion-ocp-blueprint-adds-model-router-operators-scale-cpus-without-buying-more-gpus.htm",
+      "source": "Techtimes",
+      "sourceType": "external",
+      "image": "https://d.techtimes.com/en/full/476743/amd-helion.jpg",
+      "publishedAt": "2026-10-14T09:04:22.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "computers"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "6d9dacd44ed58d66",
+      "slug": "artificial-intelligence-ai-business-intelligence-market-report-offers-analysis-of-market-4a2c83",
+      "title": "Artificial Intelligence (AI) Business Intelligence Market Report Offers Analysis of Market Development and Future Growth Opportunities",
+      "dek": "The artificial intelligence (AI) business intelligence market is rapidly evolving, driven by the escalating need for smarter data analysis and decision-making tools. As businesses increasingly rely on AI to handle vast amounts of data and extract meaningful insights, this sector",
+      "url": "https://www.openpr.com/news/4661204/artificial-intelligence-ai-business-intelligence-market",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/a/La14562791_k.jpg",
+      "publishedAt": "2026-10-14T08:48:17.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "it",
+        "new media & software"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "ed128fc4a06e2fce",
+      "slug": "logistics-software-market-expands-as-e-commerce-growth-and-digital-freight-management-ac-2c8666",
+      "title": "Logistics Software Market Expands as E-Commerce Growth and Digital Freight Management Accelerate Global Adoption",
+      "dek": "According to SNS Insider, the Logistics Software Market was estimated at USD 17.82 Billion in 2025 and is anticipated to reach USD 42.89 Billion by 2035, at a CAGR of 9.18% from 2026 to 2035. Increasing demands for supply chain",
+      "url": "https://www.openpr.com/news/4661141/logistics-software-market-expands-as-e-commerce-growth",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/a/La14322698_k.jpg",
+      "publishedAt": "2026-10-14T08:24:43.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "it",
+        "new media & software"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "71c4ea05b22aeae0",
+      "slug": "medical-device-interoperability-market-size-share-and-trends-analysis-global-opportuniti-5c91ca",
+      "title": "Medical Device Interoperability Market Size, Share, and Trends Analysis - Global Opportunities and Forecast, 2026-2036 | IoMT, FHIR, and AI Fuel 17.6% CAGR Toward USD 22.85 Billion",
+      "dek": "Boost ROI with cloud-native, FHIR-enabled platforms, AI and IoMT integration, strategic partnerships, and services that reduce data silos and operating complexity.",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/10/14/3380387/28124/en/medical-device-interoperability-market-size-share-and-trends-analysis-global-opportunities-and-forecast-2026-2036-iomt-fhir-and-ai-fuel-17-6-cagr-toward-usd-22-85-billion.html",
       "source": "Globenewswire_fr",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-10-13T08:46:00.000Z",
-      "topic": "Applications & NetSuite",
+      "publishedAt": "2026-10-14T08:21:00.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
         "research analysis and reports"
       ],
       "priority": 41
     },
     {
-      "id": "a5afc1c752912623",
-      "slug": "contact-center-software-top-solutions-compared-for-2026-334e9d",
-      "title": "Contact Center Software: Top Solutions Compared for 2026",
-      "dek": "Contact center software unifies voice, chat, email, and social media in one platform. Compare top solutions for different team sizes in 2026. The post Contact Center Software: Top Solutions Compared for 2026 appeared first on Nextiva Blog.",
-      "url": "https://www.nextiva.com/blog/contact-center-software.html",
-      "source": "Nextiva",
+      "id": "95e122d742e2aef5",
+      "slug": "vapusdata-introduces-vapusdata-os-for-governed-ai-native-enterprise-workflows-be1773",
+      "title": "VapusData Introduces VapusData OS for Governed, AI-Native Enterprise Workflows",
+      "dek": "VapusData, an AI data operating system company, has introduced VapusData OS, a decentralised, secure and governed AI Data Operating System designed to help enterprises run AI across the data and systems they already use. The platform connects enterprise data, applications and infrastructure with AI ",
+      "url": "https://cxotoday.com/media-coverage/vapusdata-introduces-vapusdata-os-for-governed-ai-native-enterprise-workflows/",
+      "source": "Cxotoday",
       "sourceType": "external",
-      "image": "https://www.nextiva.com/cdn-cgi/image/width=1300,height=731,fit=cover,gravity=auto,format=auto/blog/wp-content/uploads/sites/10/2024/12/contact-center-software-hero.png",
-      "publishedAt": "2026-10-13T08:38:58.000Z",
+      "image": "https://cxotoday.com/wp-content/uploads/2026/10/VapusData_Image-300x150.png",
+      "publishedAt": "2026-10-14T07:36:41.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "vapusdata",
+        "media coverage"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "13d534716ac034f9",
+      "slug": "ora-00600-internal-error-code-arguments-kcratr1-lastbwr-202f31",
+      "title": "ORA-00600: internal error code, arguments: kcratr1_lastbwr], [, ], [, ],[,",
+      "dek": "Dear gentlemen, The error occurred once I try to startup the database as follow, ORA-00600: internal error code, arguments: [kcratr1_lastbwr], [], [], [], [],[], [], [] I tried to run the command, u201Crecover database;u201D and I got the following, SQL> recover database; ORA-00283: recovery sessio.",
+      "url": "https://community.sap.com/t5/technology-q-a/ora-00600-internal-error-code-arguments-kcratr1-lastbwr/qaq-p/7237203",
+      "source": "Sap",
+      "sourceType": "external",
+      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
+      "publishedAt": "2026-10-14T07:25:12.000Z",
+      "topic": "AI & Database",
+      "tags": [],
+      "priority": 40
+    },
+    {
+      "id": "5853d4a5a3d3e0da",
+      "slug": "warehouse-management-system-market-beyond-the-headlines-what-the-segment-data-really-say-2fa4be",
+      "title": "Warehouse Management System Market Beyond the Headlines: What the Segment Data Really Says",
+      "dek": "Picture a distribution center the morning after a major online sale. Orders arrive faster than pickers can walk the aisles, stock sits in the wrong [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/10/14/1776627",
+      "source": "Express-press-release",
+      "sourceType": "external",
+      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
+      "publishedAt": "2026-10-14T06:12:48.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "warehouse management systems market share",
+        "technology",
+        "warehouse management systems market forecasts",
+        "warehouse management systems market",
+        "warehouse management systems market growth",
+        "warehouse management systems market analysis"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "09673527e292bc18",
+      "slug": "years-of-proven-results-drive-continued-partnership-between-pyung-hwa-holdings-and-rimin-de37e3",
+      "title": "Years of Proven Results Drive Continued Partnership Between Pyung Hwa Holdings and Rimini Street",
+      "dek": "Business Wire India Rimini Street, Inc. (Nasdaq: RMNI), the Software Support and Agentic AI ERP Company™ and the leading third-party support provider for Oracle, SAP and VMware software, today announced continued success in its long-standing relationship with Pyung Hwa Holdings, a leading Korean aut",
+      "url": "https://nynewsly.com/years-of-proven-results-drive-continued-partnership-between-pyung-hwa-holdings-and-rimini-street/49892/",
+      "source": "Ny Newsly",
+      "sourceType": "external",
+      "image": "https://nynewsly.com/wp-content/themes/publisher/images/default-thumb/large.png",
+      "publishedAt": "2026-10-14T05:45:31.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "brand post"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "5d34389243eeb00a",
+      "slug": "iot-in-education-market-gains-momentum-as-usd-10-million-adb-financing-targets-digital-l-9ca301",
+      "title": "IoT in Education Market Gains Momentum as USD 10 Million ADB Financing Targets Digital Learning Across 30,000 Schools",
+      "dek": "The Asian Development Bank (ADB) signed a USD 10 million financing package with Schoolnet India Limited on June 17, 2026, to improve learning outcomes for 4.5 million students by expanding digital learning infrastructure across 30,000 government schools in India. The",
+      "url": "https://www.openpr.com/news/4660820/iot-in-education-market-gains-momentum-as-usd-10-million-adb",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/a/La14596741_k.jpg",
+      "publishedAt": "2026-10-14T05:34:01.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "it",
+        "new media & software"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "c7cb878bc08e4bb4",
+      "slug": "hidden-ai-capabilities-can-be-made-cryptographically-undetectable-neurips-paper-proves-0f1669",
+      "title": "Hidden AI Capabilities Can Be Made Cryptographically Undetectable, NeurIPS Paper Proves",
+      "dek": "AI safety evaluation faces a new mathematical limit: a NeurIPS 2026 paper proves that anyone with access to model weights can embed a hidden neural network protected by SHA-3 cryptography that no known elicitation technique, fine-tuning approach, or weight analysis can surface. The finding challenge",
+      "url": "https://www.techtimes.com/articles/328995/20261014/hidden-ai-capabilities-can-made-cryptographically-undetectable-neurips-paper-proves.htm",
+      "source": "Techtimes",
+      "sourceType": "external",
+      "image": "https://d.techtimes.com/en/full/476731/ai.jpg",
+      "publishedAt": "2026-10-14T05:25:58.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "artificial intelligence"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "d95053136f08ec7a",
+      "slug": "sap-connect-2026-the-autonomous-enterprise-clocks-in-cx-gets-a-cameo-62d774",
+      "title": "SAP Connect 2026: The Autonomous Enterprise Clocks In, CX Gets a Cameo",
+      "dek": "SAP used its Las Vegas keynote to put the autonomous enterprise into general availability. Customer experience got two minutes on stage and found its real airtime in the executive Q&A. The News Five months after introducing the autonomous enterprise at Sapphire under the tagline the beginning of bet",
+      "url": "https://customerthink.com/sap-connect-2026-the-autonomous-enterprise-clocks-in-cx-gets-a-cameo/",
+      "source": "Customer Think",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-10-14T03:26:36.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "customer experience",
+        "enterprise technology",
+        "blog"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "8cdb8ec8d7dff218",
+      "slug": "microsoft-weighs-20-cost-cuts-in-azure-vertical-amid-soaring-ai-data-center-spending-rep-8a8632",
+      "title": "Microsoft Weighs 20% Cost Cuts In Azure Vertical Amid Soaring AI Data Center Spending: Report",
+      "dek": "Microsoft Azure is exploring potential cost reductions of at least 20% in its software development unit to offset heavy infrastructure investments and rising talent retention costs.",
+      "url": "https://newsable.asianetnews.com/markets/microsoft-weighs-20-cost-cuts-in-azure-vertical-amid-soaring-ai-data-center-spending-report-articleshow-3h1ha4w",
+      "source": "Asianet Newsable",
+      "sourceType": "external",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-68b2647c-cc2f-448b-84a4-d924515dbe69.webp",
+      "publishedAt": "2026-10-14T00:30:06.000Z",
       "topic": "Oracle Cloud",
       "tags": [
-        "customer experience"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "025745c4f18d51f7",
-      "slug": "vfunction-5-0-brings-large-java-and-net-applications-into-ai-driven-development-2dd82a",
-      "title": "vFunction 5.0 Brings Large Java and .NET Applications Into AI-Driven Development",
-      "dek": "New 5.0 release generates specifications and integration tests from the running application and modernizes databases to PostgreSQL vFunction announced vFunction 5.0, a release that brings large existing Java and .NET applications into AI-driven development. vFunction 5.0 adds specifications and inte",
-      "url": "https://martechseries.com/technology/vfunction-5-0-brings-large-java-and-net-applications-into-ai-driven-development/",
-      "source": "Marketing Technology Series",
-      "sourceType": "external",
-      "image": "https://martechseries.com/wp-content/uploads/2026/10/steptodown.com856546.jpg",
-      "publishedAt": "2026-10-13T07:57:38.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "marketing technology news",
-        "ai coding tools",
-        "martech",
-        "vfunction",
-        "java",
-        "martech technology"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "7242f63454aad320",
-      "slug": "full-transcript-cloudflare-q2-2026-earnings-call-25c1ff",
-      "title": "Full Transcript: Cloudflare Q2 2026 Earnings Call",
-      "dek": "Cloudflare (NYSE:NET) held its second-quarter earnings conference call on Thursday. Below is the complete transcript from the call. This transcript is brought to you by Benzinga APIs. For real-time access to our entire",
-      "url": "https://www.benzinga.com/news/26/10/62314881/full-transcript-cloudflare-q2-2026-earnings-call",
-      "source": "Benzinga",
-      "sourceType": "external",
-      "image": "https://cdn.benzinga.com/files/images/story/2025/11/06/movers_1.jpg?crop=600:400,smart&optimize=medium",
-      "publishedAt": "2026-10-13T07:55:06.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "trading ideas",
-        "earnings conference call transcripts",
-        "news",
         "markets"
       ],
-      "priority": 40
+      "priority": 36
     },
     {
-      "id": "5f9728126a46a341",
-      "slug": "cognizant-to-drive-sita-s-ai-led-global-finance-transformation-e1125d",
-      "title": "Cognizant to Drive SITA’s AI-Led Global Finance Transformation",
-      "dek": "The SKY programme will deploy Oracle Fusion Cloud across finance, procurement and supply chain operations, targeting greater efficiency, improved decision-making and measurable business value. Cognizant has been selected by SITA, a specialist in air transport technology, as the implementation and tr",
-      "url": "https://www.enterpriseitworld.com/cognizant-to-drive-sitas-ai-led-global-finance-transformation/",
-      "source": "Enterprise It World",
+      "id": "65bc4bc6fb9261b6",
+      "slug": "oracle-netsuite-now-streamlines-hospitality-operations-12542f",
+      "title": "Oracle NetSuite Now Streamlines Hospitality Operations",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://hospitalitynews.in/news/oracle-netsuite-enhances-hospitality-with-micros-simphony-connector",
+      "source": "Hospitalitynews",
       "sourceType": "external",
-      "image": "https://www.enterpriseitworld.com/wp-content/uploads/2026/10/Nicolas-Husson.png",
-      "publishedAt": "2026-10-13T07:44:56.000Z",
+      "image": "https://hospitalitynews.in/uploads/images/202403/image_870x580_66081826aa8a5.jpg",
+      "publishedAt": "2026-10-14T00:00:00.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "AI",
-        "Partner"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "1f4b92d39dc1796b",
-      "slug": "data-replication-tools-market-report-examines-industry-trends-growth-drivers-and-future--b354ba",
-      "title": "Data Replication Tools Market Report Examines Industry Trends, Growth Drivers And Future Outlook",
-      "dek": "The data replication tools market is gaining significant traction as organizations increasingly prioritize data availability and seamless management across complex environments. With accelerating digital transformation and expanding cloud adoption, this sector is set to witness robust growth through",
-      "url": "https://www.openpr.com/news/4659580/data-replication-tools-market-report-examines-industry-trends",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/a/La13537567_k.jpg",
-      "publishedAt": "2026-10-13T07:25:57.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "it",
-        "new media & software"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "fed5bac9dbe8ca9e",
-      "slug": "top-stock-reports-for-oracle-american-express-and-progressive-63ed69",
-      "title": "Top stock reports for Oracle, American Express and Progressive",
-      "dek": "The daily 'Ahead of Wall Street' article is a must-read for all investors who would like to be ready for that day's trading action. The article comes out before the market opens, attempting to make sense of that morning's economic releases and how they will affect that day's market action.",
-      "url": "https://www.fxstreet.com/news/top-stock-reports-for-oracle-american-express-and-progressive-202610130641",
-      "source": "Fxstreet",
-      "sourceType": "external",
-      "image": "https://editorial.fxsstatic.com/images/i/General-Stocks_1.png",
-      "publishedAt": "2026-10-13T06:41:04.000Z",
-      "topic": "Business & Earnings",
-      "tags": [],
-      "priority": 39
-    },
-    {
-      "id": "4c0adacf8beb8354",
-      "slug": "why-ai-agents-are-forcing-enterprises-to-rebuild-their-data-foundations-d26bc0",
-      "title": "Why AI Agents Are Forcing Enterprises To Rebuild Their Data Foundations",
-      "dek": "Enterprises have spent years accumulating data. Making it usable for AI is proving harder. Systems built for different teams, functions,…",
-      "url": "https://inc42.com/buzz/why-ai-agents-are-forcing-enterprises-to-rebuild-their-data-foundation/",
-      "source": "Inc42",
-      "sourceType": "external",
-      "image": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/Oracle-CTO-Dialogue-RT1-ftr.jpg",
-      "publishedAt": "2026-10-13T06:29:36.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "news",
-        "brandlabs"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "0b9a796b861cfb61",
-      "slug": "customer-engagement-solutions-market-gains-momentum-as-usd-1-5-billion-genesys-investmen-6abcf0",
-      "title": "Customer Engagement Solutions Market Gains Momentum as USD 1.5 Billion Genesys Investment Strengthens AI-Powered Customer Experiences",
-      "dek": "Genesys announced USD 1.5 billion in investment commitments from Salesforce and ServiceNow on July 31, 2025, strengthening partnerships focused on AI-powered customer experience orchestration. The investment supports Genesys' position in the enterprise customer engagement landscape, where businesses",
-      "url": "https://www.openpr.com/news/4659324/customer-engagement-solutions-market-gains-momentum-as-usd-1-5",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/a/La13291728_k.jpg",
-      "publishedAt": "2026-10-13T06:00:18.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "it",
-        "new media & software"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "ea5d07c47f1d683c",
-      "slug": "it-stocks-today-13-october-2026-why-are-it-stocks-up-today-nifty-it-jumps-3-as-tcs-infos-4cbbca",
-      "title": "IT Stocks Today (13 October, 2026): Why Are IT Stocks Up Today? Nifty IT Jumps 3% as TCS, Infosys, HCL Tech, Wipro, Mahindra Shares Surge on Strong Earnings – Should You Buy IT Stocks Now",
-      "dek": "IT stocks rally up to 3% as TCS and HCL Tech’s strong Q2 results, AI revenue growth and dollar gains boost sentiment - Should investors buy now? The post IT Stocks Today (13 October, 2026): Why Are IT Stocks Up Today? Nifty IT Jumps 3% as TCS, Infosys, HCL Tech, Wipro, Mahindra Shares Surge on Stron",
-      "url": "https://sundayguardianlive.com/business/it-stocks-today-13-october-2026-why-are-it-stocks-up-today-nifty-it-jumps-3-as-tcs-infosys-hcl-tech-wipro-mahindra-shares-surge-on-strong-earnings-should-you-buy-it-stocks-now-304607/",
-      "source": "The Sunday Guardian",
-      "sourceType": "external",
-      "image": "https://sundayguardianlive.com/wp-content/uploads/2026/10/it-stocks-today.png",
-      "publishedAt": "2026-10-13T04:31:45.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "business",
-        "it stocks today",
-        "why are it stocks up today"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "b72ace6ffafee46c",
-      "slug": "can-enterprises-trust-ai-to-build-apps-oracle-apex-makes-the-case-1d1814",
-      "title": "Can Enterprises Trust AI To Build Apps? Oracle APEX Makes The Case",
-      "dek": "Oracle’s APEX AI Application Generator uses APEXlang to make AI-built enterprise apps governable and auditable. What it means for CIOs weighing AI app development.",
-      "url": "https://www.forbes.com/sites/stevemcdowell/2026/10/12/can-enterprises-trust-ai-to-build-apps-oracle-apex-makes-the-case/",
-      "source": "Forbes",
-      "sourceType": "external",
-      "image": "https://imageio.forbes.com/specials-images/imageserve/6acd8072fccec9adb2cf3a87/0x0.jpg",
-      "publishedAt": "2026-10-13T00:58:24.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "/cloud",
-        "/innovation",
-        "cloud",
-        "/ai",
-        "innovation",
-        "standard"
+        "NetSuite"
       ],
       "priority": 36
     },
@@ -449,22 +623,6 @@
       "topic": "Training & Certification",
       "tags": [
         "Oracle University",
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "0c24cc4f5198d48c",
-      "slug": "learn-about-the-latest-oracle-academy-workshops-on-embedding-generative-ai-in-apex-appli-2edc5e",
-      "title": "Learn about the latest Oracle Academy workshops on embedding generative AI in Apex applications and using AI to create SQL in Apex",
-      "dek": "Willie Mcrae, Oracle Academy Principal Instructor, joins us to discuss Oracle Academy AI resources for educators and their students, including two new workshops on embedding generative AI in Oracle APEX applications and using AI to create SQL in APEX.",
-      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/learn-about-the-latest-oracle-academy-workshops-on-embedding-generative-ai-in-apex-applications-and-using-ai-to-create-sql-in-apex",
-      "source": "Oracle Academy Tech Chat",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_Ep15_rev2.mp3?dest-id=3949203",
-      "publishedAt": "2026-03-17T16:23:07.000Z",
-      "topic": "Training & Certification",
-      "tags": [
         "AI"
       ],
       "priority": 36
@@ -1843,153 +2001,6 @@
       "topic": "Security",
       "tags": [
         "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "119c79ecef58b62d",
-      "slug": "database-security-part-2-ef77d6",
-      "title": "Database Security: Part 2",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham continue their exploration of Oracle Database 23ai's database security capabilities. They are joined once again by Ron Soltani, a Senior Principal Database & Security Instructor, who delves into the intricacies of the new hybrid read-only mode f",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-2",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-13T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Oracle Database",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ffc09f7346e6f6b5",
-      "slug": "database-security-part-1-b4c13f",
-      "title": "Database Security: Part 1",
-      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they dive into the critical topic of database security. In the first of a two-part series on database security in Oracle Database 23ai, they discuss the importance of protecting dat",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-1",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-06T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Oracle Database",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "7c3ad34d1ff092f6",
-      "slug": "blockchain-tables-a4f246",
-      "title": "Blockchain Tables",
-      "dek": "In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham kick off a new season with a deep dive into the latest features of Oracle Database 23ai. Joined by Bill Millar, a Senior Principal Database & MySQL Instructor, they explore the new enhancements to blockchain tabl",
-      "url": "https://oracleuniversitypodcast.libsyn.com/blockchain-tables",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-30T11:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "Oracle Database",
-        "MySQL",
-        "Oracle University"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ff92a6749fa996f7",
-      "slug": "database-essentials-027d69",
-      "title": "Database Essentials",
-      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Hope Fisher, Oracle's Product Manager for Database Technologies, as they break down the basics of databases, explore different database management systems, and delve into database development. Whether you're a newcomer or just need a refresher, ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-essentials",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-23T14:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "f046bd97147c0cf8",
-      "slug": "container-engine-for-kubernetes-security-practices-26ab8f",
-      "title": "Container Engine for Kubernetes: Security Practices",
-      "dek": "In the season's final episode, hosts Lois Houston and Nikita Abraham interview senior OCI instructor Mahendra Mehra about the security practices that are vital for OKE clusters on OCI. Mahendra shares his expert insights on the importance of Kubernetes security, especially in today's digital landsca",
-      "url": "https://oracleuniversitypodcast.libsyn.com/container-engine-for-kubernetes-security-practices",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP7.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-16T14:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "OCI",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "be8b92279cd0831f",
-      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
-      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-09T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "d38db88cd3fd3cc0",
-      "slug": "working-with-oke-virtual-nodes-f5a370",
-      "title": "Working with OKE Virtual Nodes",
-      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-02T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "bd401ec004db1755",
-      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
-      "title": "Introduction to OCI Container Engine for Kubernetes",
-      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-25T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "1d3aa287378f7e71",
-      "slug": "basics-of-kubernetes-23e26c",
-      "title": "Basics of Kubernetes",
-      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
-      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-18T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
       ],
       "priority": 36
     }
