@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T22:54:57.611Z",
+  "generatedAt": "2026-10-17T22:28:33.767Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,294 +7,151 @@
   },
   "items": [
     {
-      "id": "151a07431f20fd39",
-      "slug": "on-cloud-spain-a-complete-guide-to-running-shoes-lifestyle-models-and-shoe-care-10926a",
-      "title": "On Cloud Spain: A Complete Guide To Running Shoes, Lifestyle Models, And Shoe Care",
-      "dek": "Choosing the right footwear is essential for people who enjoy running, walking, traveling, and maintaining an active lifestyle. On Cloud Spain is a useful search term for shoppers interested in modern footwear that combines contemporary design with comfort and performance.",
-      "url": "https://www.openpr.com/news/4663939/on-cloud-spain-a-complete-guide-to-running-shoes-lifestyle",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/a/La16549797_k.jpg",
-      "publishedAt": "2026-10-16T10:45:20.000Z",
-      "topic": "Oracle Ecosystem",
+      "id": "10ca39f2b48408bd",
+      "slug": "openjdk-bug-fixing-javaone-and-jdk-28-ijn-a40194",
+      "title": "\"OpenJDK Bug Fixing, JavaOne, and JDK 28\" [IJN]",
+      "dek": "On August 18th, 2026 a mail pops up on the hotspot-compiler-dev mailing list and it describes something that is not supposed to happen: a serious new bug in a JDK release candidate phase, just a few weeks before general availability. Apparently, under very specific circumstances, some buffer content",
+      "url": "https://inside.java/2026/10/17/podcast-072/",
+      "source": "Inside Java",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/insidejava/2026-10-inside-java-podcast-72--ijn116.mp4?dest-id=2318780",
+      "publishedAt": "2026-10-17T13:58:00.000Z",
+      "topic": "Java & MySQL",
       "tags": [
-        "fashion",
-        "trends",
-        "lifestyle"
+        "JDK",
+        "OpenJDK"
       ],
-      "priority": 43
+      "priority": 59
     },
     {
-      "id": "8952dafb4d541245",
-      "slug": "the-690-billion-cloud-spending-spree-626170",
-      "title": "The $690 billion cloud spending spree",
-      "dek": "Every quarter, I look at the capital expenditure numbers coming out of the major cloud providers, and every quarter, they manage to surprise me. This… Read more → The post The $690 billion cloud spending spree appeared first on IT Security News.",
-      "url": "https://www.itsecuritynews.info/the-690-billion-cloud-spending-spree/",
-      "source": "It Security News",
+      "id": "0e03b97083a8b971",
+      "slug": "risk-of-an-ai-crunch-for-stock-markets-is-rising-5f35cd",
+      "title": "Risk of an AI crunch for stock markets is rising",
+      "dek": "The tremor seen this week could be a foretaste of things to come",
+      "url": "https://financialpost.com/financial-times/risk-of-ai-crunch-stock-markets-rising",
+      "source": "Financial Post",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-10-16T10:33:10.000Z",
+      "image": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2026/10/1017-mg-wall-street-ai.png",
+      "publishedAt": "2026-10-17T10:00:43.000Z",
       "topic": "Security",
       "tags": [
-        "infoworld",
-        "en"
+        "data centres",
+        "ft",
+        "subscriber",
+        "tech stocks",
+        "stock markets",
+        "risk"
       ],
       "priority": 43
     },
     {
-      "id": "82bf6bd54b12591f",
-      "slug": "europe-digital-healthcare-supply-chain-management-market-size-share-and-forecast-2026-20-25a43e",
-      "title": "Europe Digital Healthcare Supply Chain Management Market Size, Share and Forecast, 2026-2033 | AI, Cloud-based Platforms and Traceability Drive 7.9% CAGR",
-      "dek": "Cloud-based platforms, AI, automation and real-time tracking improve visibility, planning, compliance and resilience while reducing waste and manual friction.",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/10/16/3382470/28124/en/europe-digital-healthcare-supply-chain-management-market-size-share-and-forecast-2026-2033-ai-cloud-based-platforms-and-traceability-drive-7-9-cagr.html",
-      "source": "Globenewswire_fr",
+      "id": "ade775aa664d4343",
+      "slug": "don-t-build-your-career-around-a-tool-that-may-not-survive-oracle-s-sanjeev-chauhan-e10982",
+      "title": "Don’t build your career around a tool that may not survive: Oracle’s Sanjeev Chauhan",
+      "dek": "Oracle’s cloud engineering head says AI is taking over routine infrastructure work, and engineers will need to move from tuning individual systems to designing how entire systems work together.",
+      "url": "https://economictimes.indiatimes.com/ai/ai-insights/dont-build-your-career-around-a-tool-that-may-not-survive-oracles-sanjeev-chauhan/articleshow/135009759.cms",
+      "source": "The Economic Times",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-10-16T10:31:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "research analysis and reports"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "de1618f744a499d7",
-      "slug": "top-10-cloud-computing-services-for-businesses-in-2026-full-guide-cb84de",
-      "title": "Top 10 Cloud Computing Services for Businesses in 2026: Full Guide",
-      "dek": "Overview: The article covers 10 cloud providers, from market leaders like AWS and Azure to niche picks like Cloudflare and DigitalOcean. Fresh 2026 data shows a market worth USD 143.4 billion in one quarter, with AWS at 28 percent, Azure at 20 percent, and Google Cloud at 15 percent. AI demand is th",
-      "url": "https://industrywired.com/technology/top-10-cloud-computing-services-for-businesses-in-2026-full-guide-12681981",
-      "source": "Industry Wired",
-      "sourceType": "external",
-      "image": "https://img-cdn.publive.online/fit-in/1280x960/industry-wired/media/media_files/2026/10/16/top-10-cloud-computing-services-for-businesses-in-2026-full-guide-2026-10-16-15-25-08.jpg",
-      "publishedAt": "2026-10-16T10:30:37.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "technology",
-        "news"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "2564967225a25fb1",
-      "slug": "musk-behind-paxton-global-oil-supply-rebound-iea-south-tx-mini-haynesville-a552a8",
-      "title": "Musk Behind Paxton, Global Oil Supply Rebound: IEA, South TX “Mini-Haynesville”",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://texasenergyreport.com/p/musk-behind-paxton-global-oil-supply",
-      "source": "The Texas Energy Report",
-      "sourceType": "external",
-      "image": "https://substackcdn.com/image/fetch/$s_!XdEQ!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b2e3251-6f18-4f6e-9b8c-84750f1aa4dc_146x146.png",
-      "publishedAt": "2026-10-16T10:27:32.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 43
-    },
-    {
-      "id": "37adb55bcdb7430f",
-      "slug": "blockchain-in-supply-chain-market-size-to-reach-usd-14-73-billion-by-2035-fd8472",
-      "title": "Blockchain in Supply Chain Market Size to Reach USD 14.73 Billion by 2035",
-      "dek": "The Blockchain in Supply Chain Market was valued at USD 1.20 Billion in 2025 and is projected to reach USD 14.73 Billion by 2035, growing at a CAGR of 28.57% during the forecast period 2026 to 2035. The market growth",
-      "url": "https://www.openpr.com/news/4663883/blockchain-in-supply-chain-market-size-to-reach-usd-14-73-billion",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/a/La16517003_k.jpg",
-      "publishedAt": "2026-10-16T10:02:38.000Z",
+      "image": "https://img.etimg.com/thumb/msid-135009789,resizemode-4,width-1200,height-900,imgsize-196002,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-10-17T07:24:19.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "95d11c30bd416bd9",
-      "slug": "it-jobs-report-employers-consider-ai-risks-and-ethics-da0924",
-      "title": "IT jobs report: Employers consider AI risks and ethics",
-      "dek": "The IT job hiring market appears to remain strong, as data from the Dice September 2026 Jobs Report shows that IT job postings continued to increase through September after experiencing a slight dip in August. Overall, the data shows that year over year, IT job postings rose 17% compared to Septembe",
-      "url": "https://www.cio.com/article/4201347/information-technology-jobs-report.html",
-      "source": "Cio.com India",
-      "sourceType": "external",
-      "image": "https://www.cio.com/wp-content/uploads/2026/10/4201347-0-64765400-1792144993-shutterstock_2312374465.jpg?quality=50&strip=all",
-      "publishedAt": "2026-10-16T10:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "careers",
-        "it jobs",
-        "it management",
-        "salaries",
-        "it skills and training",
-        "hiring"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "37640c3b1a52cc17",
-      "slug": "oracle-data-center-energy-profile-2026-sustainability-and-emissions-analysis-24-energy-c-ec15b3",
-      "title": "Oracle Data Center Energy Profile - 2026 Sustainability and Emissions Analysis | 24% Energy CAGR and Stargate Expansion Drive Renewable Investment and Carbon Risk",
-      "dek": "Oracle's asset-light OCI strategy prioritizes compute hardware, while renewable energy use and emissions decoupling strengthen sustainability amid Stargate risks.",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/10/16/3382396/28124/en/oracle-data-center-energy-profile-2026-sustainability-and-emissions-analysis-24-energy-cagr-and-stargate-expansion-drive-renewable-investment-and-carbon-risk.html",
-      "source": "Globenewswire_fr",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-10-16T09:47:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "research analysis and reports"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "21e2139b6b680533",
-      "slug": "saudi-arabia-generative-ai-market-size-to-hit-635-49-million-by-2034-with-a-16-63-cagr-87eac5",
-      "title": "Saudi Arabia Generative AI Market Size to Hit 635.49 Million by 2034 | With a 16.63% CAGR",
-      "dek": "IMARC Group, a leading global market research and management consulting firm, has published its latest market intelligence report on the Saudi Arabia generative AI market. The Saudi Arabia generative AI market was valued at USD 159.21 Million in 2025 and",
-      "url": "https://www.openpr.com/news/4663791/saudi-arabia-generative-ai-market-size-to-hit-635-49-million",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/a/La16268397_k.jpg",
-      "publishedAt": "2026-10-16T09:06:47.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "banking & insurance",
-        "finances",
-        "economy",
-        "business"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "908452c22043468e",
-      "slug": "e-commerce-software-market-preparing-stores-for-ai-agents-38b4da",
-      "title": "E-commerce Software Market: Preparing Stores for AI Agents",
-      "dek": "The global e-commerce software market was valued at USD 9.4 billion in 2025 and is projected to increase from USD 10.4 billion in 2026 to [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/10/16/1777054",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
-      "publishedAt": "2026-10-16T09:01:54.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "internet & online",
-        "e-commerce software market"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "0eb38bb34ac0a10a",
-      "slug": "warehouse-management-system-market-size-to-reach-usd-14-67-billion-by-2033-ai-integratio-ff8a94",
-      "title": "Warehouse Management System Market Size to Reach USD 14.67 Billion by 2033: AI Integration, Warehouse Automation, Cloud-Based Solutions",
-      "dek": "The global Warehouse Management System Market is expected to reach USD 5.02 billion in 2025 and is projected to reach USD 14.67 billion by 2033, growing at a CAGR of 14.34% during 2026 to 2033. The market is expanding as",
-      "url": "https://www.openpr.com/news/4663782/warehouse-management-system-market-size-to-reach-usd-14-67",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/a/La16461423_k.jpg",
-      "publishedAt": "2026-10-16T09:01:01.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "fffc853bb3e4b708",
-      "slug": "internet-of-things-market-edge-ai-takes-the-lead-6d5618",
-      "title": "Internet of Things Market: Edge AI Takes the Lead",
-      "dek": "The global Internet of Things (IoT) market was valued at USD 1,596.6 billion in 2025 and is expected to reach USD 3,274.1 billion by 2033, [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/10/16/1777042",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
-      "publishedAt": "2026-10-16T08:14:49.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "internet of things market",
-        "internet & online"
+        "cloud computing",
+        "forward deployed engineer",
+        "fde",
+        "artificial intelligence",
+        "ai automation",
+        "enterprise technology"
       ],
       "priority": 41
     },
     {
-      "id": "fe201cff4f494de2",
-      "slug": "supply-chain-management-market-ai-moves-from-planning-to-action-cbe4b2",
-      "title": "Supply Chain Management Market: AI Moves From Planning to Action",
-      "dek": "The global supply chain management market was valued at USD 25.67 billion in 2024 and is expected to reach USD 48.59 billion by 2030, expanding [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/10/16/1777025",
-      "source": "Express-press-release",
+      "id": "048b3d267c93acfd",
+      "slug": "joe-brennan-crh-analysts-play-catch-up-as-wall-street-braces-for-rare-earnings-miss-c02b39",
+      "title": "Joe Brennan: CRH analysts play catch-up as Wall Street braces for rare earnings miss",
+      "dek": "Rising energy costs and slump in US housebuilding have put pressure on building materials group forecasts",
+      "url": "https://www.irishtimes.com/business/markets/2026/10/17/crh-analysts-play-catch-up-as-wall-street-braces-for-rare-earnings-miss/",
+      "source": "The Irish Times",
       "sourceType": "external",
-      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
-      "publishedAt": "2026-10-16T07:45:12.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "supply chain management market",
-        "internet & online"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "69ffc448130cd59c",
-      "slug": "1-million-business-customers-signal-a-shift-in-the-generative-ai-market-toward-embedded--e9abed",
-      "title": "1 Million Business Customers Signal a Shift in the Generative AI Market Toward Embedded Workflows",
-      "dek": "More than 1 million business customers worldwide were using OpenAI's products for business purposes by November 2025, highlighting the transition of generative AI from standalone chatbots to integrated enterprise workflows. Businesses are incorporating AI into software development, customer support,",
-      "url": "https://www.openpr.com/news/4663661/1-million-business-customers-signal-a-shift-in-the-generative-ai",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/a/La16361479_k.jpg",
-      "publishedAt": "2026-10-16T07:05:50.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "4c2f3dd5f4721222",
-      "slug": "avatrade-accelerates-global-growth-with-acquisition-of-forex-pioneer-fxcm-362cfe",
-      "title": "AvaTrade Accelerates Global Growth with Acquisition of Forex Pioneer FXCM",
-      "dek": "Agreement with Jefferies’ Stratos Group brings a 25-year Forex pioneer into AvaTrade’s multi-asset ecosystem and opens AvaTrade’s AI-powered platforms to FXCM clients worldwide. AvaTrade, a leading global online trading broker, today announced a definitive agreement to acquire the FXCM business from",
-      "url": "https://investinglive.com/education/avatrade-accelerates-global-growth-with-acquisition-of-forex-pioneer-fxcm/",
-      "source": "Forexlive",
-      "sourceType": "external",
-      "image": "https://investinglive.com/cms/media/Processed/Categories/featured/AvaTrade%20Accelerates%20Global%20Growth-featured-1792131786.jpg",
-      "publishedAt": "2026-10-16T06:25:31.000Z",
+      "image": "https://www.irishtimes.com/resizer/v2/Z6ZJV6VTTNHCDF7EZNSRG7CVGA.jpg?auth=ba914db9e97529b42f54c4ab41c37159f444073c89f9376effc9dcb5bdcee3b8&smart=true&width=630&height=350",
+      "publishedAt": "2026-10-17T05:00:00.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "education"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "4551738acdaa810b",
-      "slug": "10-000-organizations-accelerate-the-shift-toward-ai-powered-cognitive-automation-f5c548",
-      "title": "10,000+ Organizations Accelerate the Shift Toward AI-Powered Cognitive Automation",
-      "dek": "More than 10,000 organizations already rely on UiPath's enterprise automation platform, reflecting the established commercial role of automation software and the industry's transition toward AI-enabled workflows. Cognitive automation extends traditional robotic process automation (RPA) by combining ",
-      "url": "https://www.openpr.com/news/4663574/10-000-organizations-accelerate-the-shift-toward-ai-powered",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/a/La16375297_k.jpg",
-      "publishedAt": "2026-10-16T06:09:25.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "new media & software",
-        "it"
+        "markets"
       ],
       "priority": 39
     },
     {
-      "id": "5724e199e5d35557",
-      "slug": "united-states-autonomous-data-platform-market-2033-growth-drivers-trends-market-forecast-ba543a",
-      "title": "United States Autonomous Data Platform Market 2033 | Growth Drivers, Trends & Market Forecast, Competitive Landscape & Investment Opportunities",
-      "dek": "Market Size and Growth 2026 The Autonomous Data Platform Market is rapidly transforming enterprise data management as organisations shift from manually managed infrastructure toward self-optimising, AI-orchestrated systems. In 2025, the global autonomous data platform market reached US$ 2.86 billion",
-      "url": "https://www.openpr.com/news/4663543/united-states-autonomous-data-platform-market-2033-growth",
-      "source": "Openpr.com",
+      "id": "fc51e8de4916e8f4",
+      "slug": "default-odds-top-60-at-coreweave-testing-chip-supercycle-9426a5",
+      "title": "Default Odds Top 60% at CoreWeave, Testing Chip Supercycle",
+      "dek": "CoreWeave's bond yield hit 14.8% and implied default odds topped 60%, dragging down AI and chip stocks including Samsung Electronics and SK hynix.",
+      "url": "https://en.sedaily.com/international/2026/10/17/default-odds-top-60-percent-at-coreweave-testing-chip",
+      "source": "서울경제",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/a/La16919618_k.jpg",
-      "publishedAt": "2026-10-16T05:50:38.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://wimg.sedaily.com/news/cms/2026/10/17/news-p.v1.20261017.780988b1cecb4251b4e3deb7f16c96d5_P1.png",
+      "publishedAt": "2026-10-17T04:09:42.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "new media & software",
-        "it"
+        "international"
       ],
-      "priority": 39
+      "priority": 38
+    },
+    {
+      "id": "edb24108da7a620c",
+      "slug": "your-daily-brief-for-october-17th-e92182",
+      "title": "Your Daily Brief For October 17th",
+      "dek": "Investors have been dumping AI-linked debt, and Indonesia just got a very stern warning.",
+      "url": "https://finimize.com/content/your-daily-brief-for-october-17th-2026",
+      "source": "Finimize",
+      "sourceType": "external",
+      "image": "https://finimize-img.imgix.net/https%3A%2F%2Fchivas-assets.s3-eu-west-1.amazonaws.com%2Fstatic%2Fimages%2FDailyBriefCover-Landscape-171026.original.jpg?ixlib=python-3.1.2&s=d417b1d7edd33f82a1444ab68a2d6dd8",
+      "publishedAt": "2026-10-17T04:01:59.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "infrastructure",
+        "ai",
+        "interest rates",
+        "portfolio",
+        "meta",
+        "data centers"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "ed2fd3a85851b334",
+      "slug": "memphis-supply-chain-logistics-jobs-with-several-openings-3bc4fc",
+      "title": "🚚 Memphis Supply Chain & Logistics Jobs with Several Openings",
+      "dek": "Memphis is busy right now with freight, warehousing, and distribution work. If you like fast‑paced days and staying on your feet, these local roles are wor",
+      "url": "https://www.newsbreak.com/memphis-tn-daily-brief-375428074/4950760338943-memphis-supply-chain-logistics-jobs-with-several-openings",
+      "source": "Newsbreak",
+      "sourceType": "external",
+      "image": "https://img.particlenews.com/img/id/3oyZOz_1GBUv5HY00",
+      "publishedAt": "2026-10-17T00:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "newsbreak",
+        "memphis tn daily brief",
+        "local news",
+        "breaking news"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "b6f88cbe83f54bea",
+      "slug": "why-coreweave-is-in-the-crosshairs-of-the-ai-scare-ee75ff",
+      "title": "Why CoreWeave is in the crosshairs of the AI scare",
+      "dek": "Rising borrowing costs, heavy infrastructure spending and delays to data centre projects are testing investor confidence in debt-funded AI businesses",
+      "url": "https://www.thehindubusinessline.com/info-tech/why-coreweave-is-in-the-crosshairs-of-the-ai-scare/article71595207.ece",
+      "source": "The Hindu - Business Line",
+      "sourceType": "external",
+      "image": "https://bl-i.thgim.com/public/incoming/txbvcr/article71595208.ece/alternates/LANDSCAPE_1200/2026-10-15T134123Z_1375214207_RC2JHMADKZND_RTRMADP_3_COREWEAVE-STOCKS.JPG",
+      "publishedAt": "2026-10-16T23:58:10.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "info-tech"
+      ],
+      "priority": 36
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1985,6 +1842,146 @@
       "tags": [
         "OCI",
         "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "b45e3d006fc93558",
+      "slug": "encore-episode-oci-ai-services-5e7f50",
+      "title": "Encore Episode: OCI AI Services",
+      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-28T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "57fe9154d1531745",
+      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
+      "title": "Encore Episode: Generative AI and Large Language Models",
+      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-14T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "60d141d1ef069450",
+      "slug": "encore-episode-deep-learning-fe981b",
+      "title": "Encore Episode: Deep Learning",
+      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-07T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "311a8fe7e2892283",
+      "slug": "encore-episode-machine-learning-ee26a4",
+      "title": "Encore Episode: Machine Learning",
+      "dek": "Does machine learning feel like too convoluted a topic? Not anymore! Listen to hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Hemant Gahankari, talk about foundational machine learning concepts and dive into how supervised learning, unsupervised learning, and reinf",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-machine-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-30T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "4589098868999fde",
+      "slug": "encore-episode-introduction-to-artificial-intelligence-ai-9e755a",
+      "title": "Encore Episode: Introduction to Artificial Intelligence (AI)",
+      "dek": "You probably interact with artificial intelligence (AI) more than you realize. So, there's never been a better time to start figuring out how it all works. Join Lois Houston and Nikita Abraham as they decode the fundamentals of AI so that anyone, irrespective of their technical background, can lever",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-introduction-to-artificial-intelligence-ai",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-23T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ba70f7a05b875a4b",
+      "slug": "using-ords-to-make-your-adb-data-available-in-vbs-061acb",
+      "title": "Using ORDS to Make Your ADB Data Available in VBS",
+      "dek": "Visual Builder Studio requires its data sources to connect to the webpage it produces using REST calls. Therefore, the data source has to provide a REST interface. A simple, easy, secure, and free way to do that is with Oracle REST Data Services (ORDS). In this episode, hosts Lois Houston and Nikita",
+      "url": "https://oracleuniversitypodcast.libsyn.com/using-ords-to-make-your-adb-data-available-in-vbs",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-16T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "967d33e1489de57e",
+      "slug": "forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today-f03edc",
+      "title": "Forgotten, But Not Gone: How Model-Based Development Is Still Alive and Well Today",
+      "dek": "Computer Aided Software Engineering (CASE) tools, which helped make the analysis, design, and implementation phases of software development better, faster, and cheaper, fell out of favor in the mid-'90s. Yet much of what they have to offer remains and is in active use within different Oracle tools. ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/-forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-09T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "513c87bee83d2547",
+      "slug": "developing-redwood-applications-86e984",
+      "title": "Developing Redwood Applications",
+      "dek": "Redwood is a state-of-the-art graphical interface that defines the look and feel of the new Oracle Cloud Redwood Applications. In this episode, hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Joe Greenwald, take a closer look at the intent behind the design and deve",
+      "url": "https://oracleuniversitypodcast.libsyn.com/developing-redwood-applications",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-02T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "0bc5f5b9fa209155",
+      "slug": "preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio-23f876",
+      "title": "Preparing to Extend Oracle Fusion Apps Using Visual Builder Studio",
+      "dek": "What do you need to start customizing the next generation of Oracle Fusion Apps? How do you create new pages for business processes? What level of expertise do you require for this? Join Lois Houston and Nikita Abraham as they get answers to all these questions and more from Senior Principal OCI Ins",
+      "url": "https://oracleuniversitypodcast.libsyn.com/preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-03-26T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
       ],
       "priority": 36
     }

@@ -6,160 +6,79 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2026 22:54:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 22:28:33 GMT</lastBuildDate>
     
     <item>
-      <title>On Cloud Spain: A Complete Guide To Running Shoes, Lifestyle Models, And Shoe Care</title>
-      <link>https://oracle-university.com/stories/on-cloud-spain-a-complete-guide-to-running-shoes-lifestyle-models-and-shoe-care-10926a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/on-cloud-spain-a-complete-guide-to-running-shoes-lifestyle-models-and-shoe-care-10926a/</guid>
-      <pubDate>Fri, 16 Oct 2026 10:45:20 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Choosing the right footwear is essential for people who enjoy running, walking, traveling, and maintaining an active lifestyle. On Cloud Spain is a useful search term for shoppers interested in modern footwear that combines contemporary design with comfort and performance.</description>
-      <source url="https://www.openpr.com/news/4663939/on-cloud-spain-a-complete-guide-to-running-shoes-lifestyle">Openpr.com</source>
+      <title>&quot;OpenJDK Bug Fixing, JavaOne, and JDK 28&quot; [IJN]</title>
+      <link>https://oracle-university.com/stories/openjdk-bug-fixing-javaone-and-jdk-28-ijn-a40194/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/openjdk-bug-fixing-javaone-and-jdk-28-ijn-a40194/</guid>
+      <pubDate>Sat, 17 Oct 2026 13:58:00 GMT</pubDate>
+      <category>Java &amp; MySQL</category>
+      <description>On August 18th, 2026 a mail pops up on the hotspot-compiler-dev mailing list and it describes something that is not supposed to happen: a serious new bug in a JDK release candidate phase, just a few weeks before general availability. Apparently, under very specific circumstances, some buffer content</description>
+      <source url="https://inside.java/2026/10/17/podcast-072/">Inside Java</source>
     </item>
     <item>
-      <title>The $690 billion cloud spending spree</title>
-      <link>https://oracle-university.com/stories/the-690-billion-cloud-spending-spree-626170/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-690-billion-cloud-spending-spree-626170/</guid>
-      <pubDate>Fri, 16 Oct 2026 10:33:10 GMT</pubDate>
+      <title>Risk of an AI crunch for stock markets is rising</title>
+      <link>https://oracle-university.com/stories/risk-of-an-ai-crunch-for-stock-markets-is-rising-5f35cd/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/risk-of-an-ai-crunch-for-stock-markets-is-rising-5f35cd/</guid>
+      <pubDate>Sat, 17 Oct 2026 10:00:43 GMT</pubDate>
       <category>Security</category>
-      <description>Every quarter, I look at the capital expenditure numbers coming out of the major cloud providers, and every quarter, they manage to surprise me. This… Read more → The post The $690 billion cloud spending spree appeared first on IT Security News.</description>
-      <source url="https://www.itsecuritynews.info/the-690-billion-cloud-spending-spree/">It Security News</source>
+      <description>The tremor seen this week could be a foretaste of things to come</description>
+      <source url="https://financialpost.com/financial-times/risk-of-ai-crunch-stock-markets-rising">Financial Post</source>
     </item>
     <item>
-      <title>Europe Digital Healthcare Supply Chain Management Market Size, Share and Forecast, 2026-2033 | AI, Cloud-based Platforms and Traceability Drive 7.9% CAGR</title>
-      <link>https://oracle-university.com/stories/europe-digital-healthcare-supply-chain-management-market-size-share-and-forecast-2026-20-25a43e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/europe-digital-healthcare-supply-chain-management-market-size-share-and-forecast-2026-20-25a43e/</guid>
-      <pubDate>Fri, 16 Oct 2026 10:31:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Cloud-based platforms, AI, automation and real-time tracking improve visibility, planning, compliance and resilience while reducing waste and manual friction.</description>
-      <source url="https://www.globenewswire.com/fr/news-release/2026/10/16/3382470/28124/en/europe-digital-healthcare-supply-chain-management-market-size-share-and-forecast-2026-2033-ai-cloud-based-platforms-and-traceability-drive-7-9-cagr.html">Globenewswire_fr</source>
+      <title>Don’t build your career around a tool that may not survive: Oracle’s Sanjeev Chauhan</title>
+      <link>https://oracle-university.com/stories/don-t-build-your-career-around-a-tool-that-may-not-survive-oracle-s-sanjeev-chauhan-e10982/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/don-t-build-your-career-around-a-tool-that-may-not-survive-oracle-s-sanjeev-chauhan-e10982/</guid>
+      <pubDate>Sat, 17 Oct 2026 07:24:19 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Oracle’s cloud engineering head says AI is taking over routine infrastructure work, and engineers will need to move from tuning individual systems to designing how entire systems work together.</description>
+      <source url="https://economictimes.indiatimes.com/ai/ai-insights/dont-build-your-career-around-a-tool-that-may-not-survive-oracles-sanjeev-chauhan/articleshow/135009759.cms">The Economic Times</source>
     </item>
     <item>
-      <title>Top 10 Cloud Computing Services for Businesses in 2026: Full Guide</title>
-      <link>https://oracle-university.com/stories/top-10-cloud-computing-services-for-businesses-in-2026-full-guide-cb84de/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-10-cloud-computing-services-for-businesses-in-2026-full-guide-cb84de/</guid>
-      <pubDate>Fri, 16 Oct 2026 10:30:37 GMT</pubDate>
+      <title>Joe Brennan: CRH analysts play catch-up as Wall Street braces for rare earnings miss</title>
+      <link>https://oracle-university.com/stories/joe-brennan-crh-analysts-play-catch-up-as-wall-street-braces-for-rare-earnings-miss-c02b39/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/joe-brennan-crh-analysts-play-catch-up-as-wall-street-braces-for-rare-earnings-miss-c02b39/</guid>
+      <pubDate>Sat, 17 Oct 2026 05:00:00 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Overview: The article covers 10 cloud providers, from market leaders like AWS and Azure to niche picks like Cloudflare and DigitalOcean. Fresh 2026 data shows a market worth USD 143.4 billion in one quarter, with AWS at 28 percent, Azure at 20 percent, and Google Cloud at 15 percent. AI demand is th</description>
-      <source url="https://industrywired.com/technology/top-10-cloud-computing-services-for-businesses-in-2026-full-guide-12681981">Industry Wired</source>
+      <description>Rising energy costs and slump in US housebuilding have put pressure on building materials group forecasts</description>
+      <source url="https://www.irishtimes.com/business/markets/2026/10/17/crh-analysts-play-catch-up-as-wall-street-braces-for-rare-earnings-miss/">The Irish Times</source>
     </item>
     <item>
-      <title>Musk Behind Paxton, Global Oil Supply Rebound: IEA, South TX “Mini-Haynesville”</title>
-      <link>https://oracle-university.com/stories/musk-behind-paxton-global-oil-supply-rebound-iea-south-tx-mini-haynesville-a552a8/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/musk-behind-paxton-global-oil-supply-rebound-iea-south-tx-mini-haynesville-a552a8/</guid>
-      <pubDate>Fri, 16 Oct 2026 10:27:32 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://texasenergyreport.com/p/musk-behind-paxton-global-oil-supply">The Texas Energy Report</source>
-    </item>
-    <item>
-      <title>Blockchain in Supply Chain Market Size to Reach USD 14.73 Billion by 2035</title>
-      <link>https://oracle-university.com/stories/blockchain-in-supply-chain-market-size-to-reach-usd-14-73-billion-by-2035-fd8472/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/blockchain-in-supply-chain-market-size-to-reach-usd-14-73-billion-by-2035-fd8472/</guid>
-      <pubDate>Fri, 16 Oct 2026 10:02:38 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The Blockchain in Supply Chain Market was valued at USD 1.20 Billion in 2025 and is projected to reach USD 14.73 Billion by 2035, growing at a CAGR of 28.57% during the forecast period 2026 to 2035. The market growth</description>
-      <source url="https://www.openpr.com/news/4663883/blockchain-in-supply-chain-market-size-to-reach-usd-14-73-billion">Openpr.com</source>
-    </item>
-    <item>
-      <title>IT jobs report: Employers consider AI risks and ethics</title>
-      <link>https://oracle-university.com/stories/it-jobs-report-employers-consider-ai-risks-and-ethics-da0924/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/it-jobs-report-employers-consider-ai-risks-and-ethics-da0924/</guid>
-      <pubDate>Fri, 16 Oct 2026 10:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>The IT job hiring market appears to remain strong, as data from the Dice September 2026 Jobs Report shows that IT job postings continued to increase through September after experiencing a slight dip in August. Overall, the data shows that year over year, IT job postings rose 17% compared to Septembe</description>
-      <source url="https://www.cio.com/article/4201347/information-technology-jobs-report.html">Cio.com India</source>
-    </item>
-    <item>
-      <title>Oracle Data Center Energy Profile - 2026 Sustainability and Emissions Analysis | 24% Energy CAGR and Stargate Expansion Drive Renewable Investment and Carbon Risk</title>
-      <link>https://oracle-university.com/stories/oracle-data-center-energy-profile-2026-sustainability-and-emissions-analysis-24-energy-c-ec15b3/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-data-center-energy-profile-2026-sustainability-and-emissions-analysis-24-energy-c-ec15b3/</guid>
-      <pubDate>Fri, 16 Oct 2026 09:47:00 GMT</pubDate>
-      <category>Security</category>
-      <description>Oracle&#39;s asset-light OCI strategy prioritizes compute hardware, while renewable energy use and emissions decoupling strengthen sustainability amid Stargate risks.</description>
-      <source url="https://www.globenewswire.com/fr/news-release/2026/10/16/3382396/28124/en/oracle-data-center-energy-profile-2026-sustainability-and-emissions-analysis-24-energy-cagr-and-stargate-expansion-drive-renewable-investment-and-carbon-risk.html">Globenewswire_fr</source>
-    </item>
-    <item>
-      <title>Saudi Arabia Generative AI Market Size to Hit 635.49 Million by 2034 | With a 16.63% CAGR</title>
-      <link>https://oracle-university.com/stories/saudi-arabia-generative-ai-market-size-to-hit-635-49-million-by-2034-with-a-16-63-cagr-87eac5/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/saudi-arabia-generative-ai-market-size-to-hit-635-49-million-by-2034-with-a-16-63-cagr-87eac5/</guid>
-      <pubDate>Fri, 16 Oct 2026 09:06:47 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>IMARC Group, a leading global market research and management consulting firm, has published its latest market intelligence report on the Saudi Arabia generative AI market. The Saudi Arabia generative AI market was valued at USD 159.21 Million in 2025 and</description>
-      <source url="https://www.openpr.com/news/4663791/saudi-arabia-generative-ai-market-size-to-hit-635-49-million">Openpr.com</source>
-    </item>
-    <item>
-      <title>E-commerce Software Market: Preparing Stores for AI Agents</title>
-      <link>https://oracle-university.com/stories/e-commerce-software-market-preparing-stores-for-ai-agents-38b4da/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/e-commerce-software-market-preparing-stores-for-ai-agents-38b4da/</guid>
-      <pubDate>Fri, 16 Oct 2026 09:01:54 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The global e-commerce software market was valued at USD 9.4 billion in 2025 and is projected to increase from USD 10.4 billion in 2026 to [read full press release...]</description>
-      <source url="https://express-press-release.net/news/2026/10/16/1777054">Express-press-release</source>
-    </item>
-    <item>
-      <title>Warehouse Management System Market Size to Reach USD 14.67 Billion by 2033: AI Integration, Warehouse Automation, Cloud-Based Solutions</title>
-      <link>https://oracle-university.com/stories/warehouse-management-system-market-size-to-reach-usd-14-67-billion-by-2033-ai-integratio-ff8a94/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/warehouse-management-system-market-size-to-reach-usd-14-67-billion-by-2033-ai-integratio-ff8a94/</guid>
-      <pubDate>Fri, 16 Oct 2026 09:01:01 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The global Warehouse Management System Market is expected to reach USD 5.02 billion in 2025 and is projected to reach USD 14.67 billion by 2033, growing at a CAGR of 14.34% during 2026 to 2033. The market is expanding as</description>
-      <source url="https://www.openpr.com/news/4663782/warehouse-management-system-market-size-to-reach-usd-14-67">Openpr.com</source>
-    </item>
-    <item>
-      <title>Internet of Things Market: Edge AI Takes the Lead</title>
-      <link>https://oracle-university.com/stories/internet-of-things-market-edge-ai-takes-the-lead-6d5618/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/internet-of-things-market-edge-ai-takes-the-lead-6d5618/</guid>
-      <pubDate>Fri, 16 Oct 2026 08:14:49 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The global Internet of Things (IoT) market was valued at USD 1,596.6 billion in 2025 and is expected to reach USD 3,274.1 billion by 2033, [read full press release...]</description>
-      <source url="https://express-press-release.net/news/2026/10/16/1777042">Express-press-release</source>
-    </item>
-    <item>
-      <title>Supply Chain Management Market: AI Moves From Planning to Action</title>
-      <link>https://oracle-university.com/stories/supply-chain-management-market-ai-moves-from-planning-to-action-cbe4b2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/supply-chain-management-market-ai-moves-from-planning-to-action-cbe4b2/</guid>
-      <pubDate>Fri, 16 Oct 2026 07:45:12 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The global supply chain management market was valued at USD 25.67 billion in 2024 and is expected to reach USD 48.59 billion by 2030, expanding [read full press release...]</description>
-      <source url="https://express-press-release.net/news/2026/10/16/1777025">Express-press-release</source>
-    </item>
-    <item>
-      <title>1 Million Business Customers Signal a Shift in the Generative AI Market Toward Embedded Workflows</title>
-      <link>https://oracle-university.com/stories/1-million-business-customers-signal-a-shift-in-the-generative-ai-market-toward-embedded--e9abed/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/1-million-business-customers-signal-a-shift-in-the-generative-ai-market-toward-embedded--e9abed/</guid>
-      <pubDate>Fri, 16 Oct 2026 07:05:50 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>More than 1 million business customers worldwide were using OpenAI&#39;s products for business purposes by November 2025, highlighting the transition of generative AI from standalone chatbots to integrated enterprise workflows. Businesses are incorporating AI into software development, customer support,</description>
-      <source url="https://www.openpr.com/news/4663661/1-million-business-customers-signal-a-shift-in-the-generative-ai">Openpr.com</source>
-    </item>
-    <item>
-      <title>AvaTrade Accelerates Global Growth with Acquisition of Forex Pioneer FXCM</title>
-      <link>https://oracle-university.com/stories/avatrade-accelerates-global-growth-with-acquisition-of-forex-pioneer-fxcm-362cfe/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/avatrade-accelerates-global-growth-with-acquisition-of-forex-pioneer-fxcm-362cfe/</guid>
-      <pubDate>Fri, 16 Oct 2026 06:25:31 GMT</pubDate>
+      <title>Default Odds Top 60% at CoreWeave, Testing Chip Supercycle</title>
+      <link>https://oracle-university.com/stories/default-odds-top-60-at-coreweave-testing-chip-supercycle-9426a5/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/default-odds-top-60-at-coreweave-testing-chip-supercycle-9426a5/</guid>
+      <pubDate>Sat, 17 Oct 2026 04:09:42 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Agreement with Jefferies’ Stratos Group brings a 25-year Forex pioneer into AvaTrade’s multi-asset ecosystem and opens AvaTrade’s AI-powered platforms to FXCM clients worldwide. AvaTrade, a leading global online trading broker, today announced a definitive agreement to acquire the FXCM business from</description>
-      <source url="https://investinglive.com/education/avatrade-accelerates-global-growth-with-acquisition-of-forex-pioneer-fxcm/">Forexlive</source>
+      <description>CoreWeave&#39;s bond yield hit 14.8% and implied default odds topped 60%, dragging down AI and chip stocks including Samsung Electronics and SK hynix.</description>
+      <source url="https://en.sedaily.com/international/2026/10/17/default-odds-top-60-percent-at-coreweave-testing-chip">서울경제</source>
     </item>
     <item>
-      <title>10,000+ Organizations Accelerate the Shift Toward AI-Powered Cognitive Automation</title>
-      <link>https://oracle-university.com/stories/10-000-organizations-accelerate-the-shift-toward-ai-powered-cognitive-automation-f5c548/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/10-000-organizations-accelerate-the-shift-toward-ai-powered-cognitive-automation-f5c548/</guid>
-      <pubDate>Fri, 16 Oct 2026 06:09:25 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>More than 10,000 organizations already rely on UiPath&#39;s enterprise automation platform, reflecting the established commercial role of automation software and the industry&#39;s transition toward AI-enabled workflows. Cognitive automation extends traditional robotic process automation (RPA) by combining </description>
-      <source url="https://www.openpr.com/news/4663574/10-000-organizations-accelerate-the-shift-toward-ai-powered">Openpr.com</source>
+      <title>Your Daily Brief For October 17th</title>
+      <link>https://oracle-university.com/stories/your-daily-brief-for-october-17th-e92182/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/your-daily-brief-for-october-17th-e92182/</guid>
+      <pubDate>Sat, 17 Oct 2026 04:01:59 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Investors have been dumping AI-linked debt, and Indonesia just got a very stern warning.</description>
+      <source url="https://finimize.com/content/your-daily-brief-for-october-17th-2026">Finimize</source>
     </item>
     <item>
-      <title>United States Autonomous Data Platform Market 2033 | Growth Drivers, Trends &amp; Market Forecast, Competitive Landscape &amp; Investment Opportunities</title>
-      <link>https://oracle-university.com/stories/united-states-autonomous-data-platform-market-2033-growth-drivers-trends-market-forecast-ba543a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/united-states-autonomous-data-platform-market-2033-growth-drivers-trends-market-forecast-ba543a/</guid>
-      <pubDate>Fri, 16 Oct 2026 05:50:38 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Market Size and Growth 2026 The Autonomous Data Platform Market is rapidly transforming enterprise data management as organisations shift from manually managed infrastructure toward self-optimising, AI-orchestrated systems. In 2025, the global autonomous data platform market reached US$ 2.86 billion</description>
-      <source url="https://www.openpr.com/news/4663543/united-states-autonomous-data-platform-market-2033-growth">Openpr.com</source>
+      <title>🚚 Memphis Supply Chain &amp; Logistics Jobs with Several Openings</title>
+      <link>https://oracle-university.com/stories/memphis-supply-chain-logistics-jobs-with-several-openings-3bc4fc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/memphis-supply-chain-logistics-jobs-with-several-openings-3bc4fc/</guid>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Memphis is busy right now with freight, warehousing, and distribution work. If you like fast‑paced days and staying on your feet, these local roles are wor</description>
+      <source url="https://www.newsbreak.com/memphis-tn-daily-brief-375428074/4950760338943-memphis-supply-chain-logistics-jobs-with-several-openings">Newsbreak</source>
+    </item>
+    <item>
+      <title>Why CoreWeave is in the crosshairs of the AI scare</title>
+      <link>https://oracle-university.com/stories/why-coreweave-is-in-the-crosshairs-of-the-ai-scare-ee75ff/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/why-coreweave-is-in-the-crosshairs-of-the-ai-scare-ee75ff/</guid>
+      <pubDate>Fri, 16 Oct 2026 23:58:10 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Rising borrowing costs, heavy infrastructure spending and delays to data centre projects are testing investor confidence in debt-funded AI businesses</description>
+      <source url="https://www.thehindubusinessline.com/info-tech/why-coreweave-is-in-the-crosshairs-of-the-ai-scare/article71595207.ece">The Hindu - Business Line</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -457,6 +376,87 @@
       <category>AI &amp; Database</category>
       <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In this two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle AI Vector an</description>
       <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-for-data-when-data-meet-intelligence">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Part II of AI for Data: When Data meets Intelligence</title>
+      <link>https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</guid>
+      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In the second of a two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle A</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-of-data-for-ai-when-data-meets-intelligence">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Cloud Data Centers: Core Concepts - Part 1</title>
+      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</guid>
+      <pubDate>Tue, 07 Oct 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Curious about what really goes on inside a cloud data center? In this episode, Lois Houston and Nikita Abraham chat with Principal OCI Instructor Orlando Gentil about how cloud data centers are transforming the way organizations manage technology. They explore the differences between traditional and</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-1">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Oracle AI for Fusion Apps</title>
+      <link>https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</guid>
+      <pubDate>Tue, 23 Sep 2025 11:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Want to make AI work for your business? In today&#39;s episode, Lois Houston and Nikita Abraham continue their discussion of AI in Oracle Fusion Applications by focusing on three key AI capabilities: predictive, generative, and agentic. Joining them is Principal Instructor Yunus Mohammed, who explains h</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-ai-for-fusion-apps">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Oracle&#39;s AI Ecosystem</title>
+      <link>https://oracle-university.com/stories/oracle-s-ai-ecosystem-1d77a2/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-s-ai-ecosystem-1d77a2/</guid>
+      <pubDate>Tue, 16 Sep 2025 11:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to explore Oracle&#39;s approach to enterprise AI. The conversation covers the essential components of the Oracle AI stack and how each part, from the foundational infrastructure to business-specific appli</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/oracles-ai-ecosystem">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Buy or Build AI?</title>
+      <link>https://oracle-university.com/stories/buy-or-build-ai-6e5a7d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/buy-or-build-ai-6e5a7d/</guid>
+      <pubDate>Tue, 09 Sep 2025 11:14:43 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>How do you decide whether to buy a ready-made AI solution or build one from the ground up? The choice is more than just a technical decision; it&#39;s about aligning AI with your business goals. In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to examine</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/buy-or-build-ai">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>The AI Workflow</title>
+      <link>https://oracle-university.com/stories/the-ai-workflow-2273cc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-ai-workflow-2273cc/</guid>
+      <pubDate>Tue, 02 Sep 2025 11:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Join Lois Houston and Nikita Abraham as they chat with Yunus Mohammed, a Principal Instructor at Oracle University, about the key stages of AI model development. From gathering and preparing data to selecting, training, and deploying models, learn how each phase impacts AI&#39;s real-world effectiveness</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/the-ai-workflow">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Core AI Concepts – Part 3</title>
+      <link>https://oracle-university.com/stories/core-ai-concepts-part-3-b8133b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/core-ai-concepts-part-3-b8133b/</guid>
+      <pubDate>Tue, 26 Aug 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Join hosts Lois Houston and Nikita Abraham, along with Principal AI/ML Instructor Himanshu Raj, as they discuss the transformative world of Generative AI. Together, they uncover the ways in which generative AI agents are changing the way we interact with technology, automating tasks and delivering n</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-3">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Core AI Concepts – Part 2</title>
+      <link>https://oracle-university.com/stories/core-ai-concepts-part-2-7bf4a7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/core-ai-concepts-part-2-7bf4a7/</guid>
+      <pubDate>Tue, 19 Aug 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>In this episode, Lois Houston and Nikita Abraham continue their discussion on AI fundamentals, diving into Data Science with Principal AI/ML Instructor Himanshu Raj. They explore key concepts like data collection, cleaning, and analysis, and talk about how quality data drives impactful insights. AI </description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-2">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Core AI Concepts – Part 1</title>
+      <link>https://oracle-university.com/stories/core-ai-concepts-part-1-d909db/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/core-ai-concepts-part-1-d909db/</guid>
+      <pubDate>Tue, 12 Aug 2025 11:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Join hosts Lois Houston and Nikita Abraham, along with Principal AI/ML Instructor Himanshu Raj, as they dive deeper into the world of artificial intelligence, analyzing the types of machine learning. They also discuss deep learning, including how it works, its applications, and its advantages and ch</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-1">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
