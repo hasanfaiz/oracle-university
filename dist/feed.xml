@@ -6,7 +6,7 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Oct 2026 22:28:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 22:29:49 GMT</lastBuildDate>
     
     <item>
       <title>&quot;OpenJDK Bug Fixing, JavaOne, and JDK 28&quot; [IJN]</title>
@@ -18,67 +18,67 @@
       <source url="https://inside.java/2026/10/17/podcast-072/">Inside Java</source>
     </item>
     <item>
-      <title>Risk of an AI crunch for stock markets is rising</title>
-      <link>https://oracle-university.com/stories/risk-of-an-ai-crunch-for-stock-markets-is-rising-5f35cd/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/risk-of-an-ai-crunch-for-stock-markets-is-rising-5f35cd/</guid>
-      <pubDate>Sat, 17 Oct 2026 10:00:43 GMT</pubDate>
-      <category>Security</category>
-      <description>The tremor seen this week could be a foretaste of things to come</description>
-      <source url="https://financialpost.com/financial-times/risk-of-ai-crunch-stock-markets-rising">Financial Post</source>
+      <title>What’s true and what’s not in Michigan’s data center debate</title>
+      <link>https://oracle-university.com/stories/what-s-true-and-what-s-not-in-michigan-s-data-center-debate-9ac461/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/what-s-true-and-what-s-not-in-michigan-s-data-center-debate-9ac461/</guid>
+      <pubDate>Sun, 18 Oct 2026 10:00:52 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Among the takeaways, data centers indeed pose environmental concerns, but they aren’t raising electricity rates — at least not yet.</description>
+      <source url="https://www.thenewsherald.com/2026/10/18/whats-true-and-whats-not-in-michigans-data-center-debate/">The News Herald</source>
     </item>
     <item>
-      <title>Don’t build your career around a tool that may not survive: Oracle’s Sanjeev Chauhan</title>
-      <link>https://oracle-university.com/stories/don-t-build-your-career-around-a-tool-that-may-not-survive-oracle-s-sanjeev-chauhan-e10982/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/don-t-build-your-career-around-a-tool-that-may-not-survive-oracle-s-sanjeev-chauhan-e10982/</guid>
-      <pubDate>Sat, 17 Oct 2026 07:24:19 GMT</pubDate>
+      <title>Oracle Corporation $ORCL Shares Acquired by CRA Financial Services LLC</title>
+      <link>https://oracle-university.com/stories/oracle-corporation-orcl-shares-acquired-by-cra-financial-services-llc-7c9ba1/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-shares-acquired-by-cra-financial-services-llc-7c9ba1/</guid>
+      <pubDate>Sun, 18 Oct 2026 08:17:04 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>CRA Financial Services LLC raised its holdings in Oracle Corporation (NYSE:ORCL – Free Report) by 23.5% during the third quarter, according to the company in its most recent Form 13F filing with the Securities &amp; Exchange Commission. The fund owned 22,064 shares of the enterprise software provider’s </description>
+      <source url="https://www.americanbankingnews.com/2026/10/18/oracle-corporation-orcl-shares-acquired-by-cra-financial-services-llc.html">Americanbankingnews</source>
+    </item>
+    <item>
+      <title>The Agentic Glass Box: Observability and Governance at Enterprise Scale</title>
+      <link>https://oracle-university.com/stories/the-agentic-glass-box-observability-and-governance-at-enterprise-scale-69abf1/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-agentic-glass-box-observability-and-governance-at-enterprise-scale-69abf1/</guid>
+      <pubDate>Sun, 18 Oct 2026 04:44:37 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Knowing that an agent was built securely and knowing that it is behaving securely right now are two different things. The trust foundation that Part one described — vetted supply chains, governed provisioning, enforced identity — is a starting point, not a guarantee. Agents evolve. Configurations ch</description>
+      <source url="https://community.sap.com/t5/artificial-intelligence-blogs-posts/the-agentic-glass-box-observability-and-governance-at-enterprise-scale/ba-p/14506023">Sap</source>
+    </item>
+    <item>
+      <title>SAP Connect 2026: Autonomous CX Steps Out of the Kitchen</title>
+      <link>https://oracle-university.com/stories/sap-connect-2026-autonomous-cx-steps-out-of-the-kitchen-f3a499/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/sap-connect-2026-autonomous-cx-steps-out-of-the-kitchen-f3a499/</guid>
+      <pubDate>Sun, 18 Oct 2026 01:36:10 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>A day after getting mere two minutes on SAP’s main stage, customer experience made its case in an hour, to the people who run the systems. The News On October 7, SAP’s customer experience organization held its own SAP Connect keynote to put products and substance behind what it calls Autonomous CX. </description>
+      <source url="https://customerthink.com/sap-connect-2026-autonomous-cx-steps-out-of-the-kitchen/">Customer Think</source>
+    </item>
+    <item>
+      <title>Mark Zuckerberg’s Second Act?</title>
+      <link>https://oracle-university.com/stories/mark-zuckerberg-s-second-act-ab786d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/mark-zuckerberg-s-second-act-ab786d/</guid>
+      <pubDate>Sun, 18 Oct 2026 00:18:05 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Oracle’s cloud engineering head says AI is taking over routine infrastructure work, and engineers will need to move from tuning individual systems to designing how entire systems work together.</description>
-      <source url="https://economictimes.indiatimes.com/ai/ai-insights/dont-build-your-career-around-a-tool-that-may-not-survive-oracles-sanjeev-chauhan/articleshow/135009759.cms">The Economic Times</source>
+      <description>Meta had a big week as Muse continues to be the hottest product in AI. But is this another flash in the pan or a fundamental change in how the world uses technology?</description>
+      <source url="https://www.fool.com/investing/2026/10/17/mark-zuckerbergs-second-act/">Fool</source>
     </item>
     <item>
-      <title>Joe Brennan: CRH analysts play catch-up as Wall Street braces for rare earnings miss</title>
-      <link>https://oracle-university.com/stories/joe-brennan-crh-analysts-play-catch-up-as-wall-street-braces-for-rare-earnings-miss-c02b39/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/joe-brennan-crh-analysts-play-catch-up-as-wall-street-braces-for-rare-earnings-miss-c02b39/</guid>
-      <pubDate>Sat, 17 Oct 2026 05:00:00 GMT</pubDate>
+      <title>💻 Multiple High-Paying IT Openings in Salt Lake City</title>
+      <link>https://oracle-university.com/stories/multiple-high-paying-it-openings-in-salt-lake-city-984c85/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/multiple-high-paying-it-openings-in-salt-lake-city-984c85/</guid>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Salt Lake City tech is busy right now—especially around AI, cloud, and healthcare IT. Here are several solid roles ranging from help desk to senior leaders</description>
+      <source url="https://www.newsbreak.com/salt-lake-city-ut-daily-brief-375437820/4952345448510-multiple-high-paying-it-openings-in-salt-lake-city">Newsbreak</source>
+    </item>
+    <item>
+      <title>Prediction: Oracle Stock Trails the S&amp;P 500 Through 2030</title>
+      <link>https://oracle-university.com/stories/prediction-oracle-stock-trails-the-s-p-500-through-2030-839e03/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/prediction-oracle-stock-trails-the-s-p-500-through-2030-839e03/</guid>
+      <pubDate>Sat, 17 Oct 2026 23:51:20 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Rising energy costs and slump in US housebuilding have put pressure on building materials group forecasts</description>
-      <source url="https://www.irishtimes.com/business/markets/2026/10/17/crh-analysts-play-catch-up-as-wall-street-braces-for-rare-earnings-miss/">The Irish Times</source>
-    </item>
-    <item>
-      <title>Default Odds Top 60% at CoreWeave, Testing Chip Supercycle</title>
-      <link>https://oracle-university.com/stories/default-odds-top-60-at-coreweave-testing-chip-supercycle-9426a5/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/default-odds-top-60-at-coreweave-testing-chip-supercycle-9426a5/</guid>
-      <pubDate>Sat, 17 Oct 2026 04:09:42 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>CoreWeave&#39;s bond yield hit 14.8% and implied default odds topped 60%, dragging down AI and chip stocks including Samsung Electronics and SK hynix.</description>
-      <source url="https://en.sedaily.com/international/2026/10/17/default-odds-top-60-percent-at-coreweave-testing-chip">서울경제</source>
-    </item>
-    <item>
-      <title>Your Daily Brief For October 17th</title>
-      <link>https://oracle-university.com/stories/your-daily-brief-for-october-17th-e92182/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/your-daily-brief-for-october-17th-e92182/</guid>
-      <pubDate>Sat, 17 Oct 2026 04:01:59 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Investors have been dumping AI-linked debt, and Indonesia just got a very stern warning.</description>
-      <source url="https://finimize.com/content/your-daily-brief-for-october-17th-2026">Finimize</source>
-    </item>
-    <item>
-      <title>🚚 Memphis Supply Chain &amp; Logistics Jobs with Several Openings</title>
-      <link>https://oracle-university.com/stories/memphis-supply-chain-logistics-jobs-with-several-openings-3bc4fc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/memphis-supply-chain-logistics-jobs-with-several-openings-3bc4fc/</guid>
-      <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Memphis is busy right now with freight, warehousing, and distribution work. If you like fast‑paced days and staying on your feet, these local roles are wor</description>
-      <source url="https://www.newsbreak.com/memphis-tn-daily-brief-375428074/4950760338943-memphis-supply-chain-logistics-jobs-with-several-openings">Newsbreak</source>
-    </item>
-    <item>
-      <title>Why CoreWeave is in the crosshairs of the AI scare</title>
-      <link>https://oracle-university.com/stories/why-coreweave-is-in-the-crosshairs-of-the-ai-scare-ee75ff/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/why-coreweave-is-in-the-crosshairs-of-the-ai-scare-ee75ff/</guid>
-      <pubDate>Fri, 16 Oct 2026 23:58:10 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Rising borrowing costs, heavy infrastructure spending and delays to data centre projects are testing investor confidence in debt-funded AI businesses</description>
-      <source url="https://www.thehindubusinessline.com/info-tech/why-coreweave-is-in-the-crosshairs-of-the-ai-scare/article71595207.ece">The Hindu - Business Line</source>
+      <description>ONLY AVAILABLE IN PAID PLANS</description>
+      <source url="https://www.bundle.app/en/finance/prediction-oracle-stock-trails-the-sp-500-through-2030-C4901918-F0E1-5528-9B7C-6C826DC4D18E">Bundle</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
