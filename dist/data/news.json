@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T23:49:17.878Z",
+  "generatedAt": "2026-10-20T23:15:01.614Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,49 +7,15 @@
   },
   "items": [
     {
-      "id": "489ef3e801c0a92f",
-      "slug": "financial-survey-globant-nyse-glob-versus-whitefiber-nasdaq-wyfi-e5d4c2",
-      "title": "Financial Survey: Globant (NYSE:GLOB) versus WhiteFiber (NASDAQ:WYFI)",
-      "dek": "WhiteFiber (NASDAQ:WYFI – Get Free Report) and Globant (NYSE:GLOB – Get Free Report) are both small-cap technology companies, but which is the superior stock? We will contrast the two companies based on the strength of their earnings, valuation, profitability, institutional ownership, analyst recomm",
-      "url": "https://www.americanbankingnews.com/2026/10/19/financial-survey-globant-nyseglob-versus-whitefiber-nasdaqwyfi.html",
-      "source": "Americanbankingnews",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/globant-sa-logo-1200x675.png?v=20240202075256",
-      "publishedAt": "2026-10-19T11:28:49.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "market news",
-        "comparison articles"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "86ccde8ee1318c0b",
-      "slug": "billionaire-larry-ellison-loses-194-billion-in-one-year-as-oracle-stocks-fall-4db7b9",
-      "title": "Billionaire Larry Ellison loses $194 billion in one year as oracle stocks fall",
-      "dek": "American technology billionaire and Oracle co-founder Larry Ellison has recorded a $194 billion decline in his net worth over the past year, representing a 52.1% reduction in his estimated fortune. The post Billionaire Larry Ellison loses $194 billion in one year as oracle stocks fall appeared first",
-      "url": "https://nairametrics.com/2026/10/19/billionaire-larry-ellison-loses-194-billion-in-one-year-as-oracle-stocks-fall/",
-      "source": "Nairametrics",
-      "sourceType": "external",
-      "image": "https://cdn.nairametrics.com/wp-content/uploads/2026/10/larry-ellison.webp",
-      "publishedAt": "2026-10-19T11:05:54.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "people",
-        "billionaire watch"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "918a67bbe7efd1cc",
-      "slug": "germany-green-it-software-market-size-share-trends-and-forecasts-2026-2031-csrd-complian-6580b8",
-      "title": "Germany Green IT Software Market Size, Share, Trends, and Forecasts, 2026-2031 | CSRD Compliance and Hybrid Adoption Fuel 14.81% CAGR to USD 3.69 Billion",
-      "dek": "Boost ROI with integrated ESG platforms, prebuilt SAP and ServiceNow connectors, hybrid deployment, and AI automation that cuts compliance costs and speeds audit readiness.",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/10/19/3383298/28124/en/germany-green-it-software-market-size-share-trends-and-forecasts-2026-2031-csrd-compliance-and-hybrid-adoption-fuel-14-81-cagr-to-usd-3-69-billion.html",
+      "id": "7cf7cca5548867d7",
+      "slug": "hospital-capacity-management-market-size-share-trends-and-global-forecast-2026-2036-ai-e-f00760",
+      "title": "Hospital Capacity Management Market Size, Share, Trends, and Global Forecast, 2026-2036 | AI-Enabled Operations and Cloud Adoption Drive 11.5% CAGR and US$18.5 Billion Market",
+      "dek": "Dublin, Oct. 20, 2026 (GLOBE NEWSWIRE) -- \"Hospital Capacity Management Market Size, Share & Trends Analysis - Global Opportunity Analysis and Industry Forecast (2026-2036)\" has been added to ResearchAndMarkets.com's offering.",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/10/20/3384250/28124/en/hospital-capacity-management-market-size-share-trends-and-global-forecast-2026-2036-ai-enabled-operations-and-cloud-adoption-drive-11-5-cagr-and-us-18-5-billion-market.html",
       "source": "Globenewswire_fr",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-10-19T11:00:00.000Z",
+      "publishedAt": "2026-10-20T11:14:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
         "research analysis and reports"
@@ -57,184 +23,308 @@
       "priority": 43
     },
     {
-      "id": "c7846020d8ec2428",
-      "slug": "netherlands-digital-transformation-market-share-industry-trends-and-growth-forecasts-202-e7ce59",
-      "title": "Netherlands Digital Transformation Market Share, Industry Trends, and Growth Forecasts, 2026-2031 | AI, Cloud, and Edge Adoption Drive 13.02% CAGR Toward USD 74.06 Billion",
-      "dek": "ROI opportunities center on cloud and edge migration, AI/ML, digital twins and automation, supported by strong connectivity, SME grants and sovereign hosting.",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/10/19/3383243/28124/en/netherlands-digital-transformation-market-share-industry-trends-and-growth-forecasts-2026-2031-ai-cloud-and-edge-adoption-drive-13-02-cagr-toward-usd-74-06-billion.html",
+      "id": "318390d28d881491",
+      "slug": "google-cloud-is-down-in-the-uk-here-s-why-it-matters-and-what-it-tells-us-about-modern-l-f0e559",
+      "title": "Google Cloud is down in the UK: Here’s why it matters — and what it tells us about modern life",
+      "dek": "Struggling to send money to friends or family via a banking app? You're not alone. Revolut, Halifax, and Lloyds Bank have all confirmed issues affecting services including card payments, transfers, cash withdrawals and signing into smartphone apps. According to crowdsourced data from social media, B",
+      "url": "https://www.gbnews.com/tech/google-cloud-outage-uk-why",
+      "source": "Gb News",
+      "sourceType": "external",
+      "image": "https://www.gbnews.com/media-library/google-offices-in-london.jpg?id=68489724&width=980",
+      "publishedAt": "2026-10-20T11:10:36.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "Security",
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "e6a8741d55cf4658",
+      "slug": "az-and-oracle-team-up-on-ai-platform-for-clinical-trials-56d827",
+      "title": "AZ and Oracle team up on AI platform for clinical trials",
+      "dek": "AZ and Oracle team up on AI platform for clinical trials Phil. Taylor Tue, 20/10/2026 - 11:03",
+      "url": "https://pharmaphorum.com/news/az-and-oracle-team-ai-platform-clinical-trials",
+      "source": "Pharmaphorum News",
+      "sourceType": "external",
+      "image": "https://pharmaphorum.com/sites/default/files/2026-10/Oracle_Health_and_Life_Sciences_1200x675.jpg",
+      "publishedAt": "2026-10-20T11:03:47.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "artificial intelligence",
+        "digital health",
+        "astrazeneca",
+        "recruitment",
+        "pharma news",
+        "real-world data"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "c5aadfb1e9b8eef1",
+      "slug": "a-data-centre-is-not-a-cloud-platform-why-the-distinction-matters-ab8522",
+      "title": "A data centre is not a cloud platform: Why the distinction matters",
+      "dek": "Data centres and cloud platforms have been used interchangeably but are not the same thing. With the Central Bank of Nigeria requiring payment data to remain on local infrastructure by 2027, building local cloud platforms on Nigeria's expanding data centre foundation is critical.",
+      "url": "https://techcabal.com/2026/10/20/data-centre-cloud-platform-difference/",
+      "source": "Techcabal",
+      "sourceType": "external",
+      "image": "https://c76c7bbc41.mjedge.net/wp-content/uploads/tc/2024/09/Cloud-Computing-2-scaled.jpg",
+      "publishedAt": "2026-10-20T11:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "data centres",
+        "cloud storage",
+        "opinion"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "81af54aef83e71fa",
+      "slug": "ai-copilot-solutions-market-size-share-and-trends-global-forecast-to-2036-revenue-to-hit-425afa",
+      "title": "AI Copilot Solutions Market Size, Share, and Trends - Global Forecast to 2036 | Revenue to Hit $196.8 Billion as Enterprise and Industry-Specific Adoption Drives 18.4% CAGR",
+      "dek": "Dublin, Oct. 20, 2026 (GLOBE NEWSWIRE) -- \"AI Copilot Solutions Market - Global Forecast to 2036\" has been added to ResearchAndMarkets.com's offering.",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/10/20/3384204/28124/en/ai-copilot-solutions-market-size-share-and-trends-global-forecast-to-2036-revenue-to-hit-196-8-billion-as-enterprise-and-industry-specific-adoption-drives-18-4-cagr.html",
       "source": "Globenewswire_fr",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-10-19T10:55:00.000Z",
-      "topic": "Oracle Ecosystem",
+      "publishedAt": "2026-10-20T10:55:00.000Z",
+      "topic": "Business & Earnings",
       "tags": [
         "research analysis and reports"
       ],
-      "priority": 42
+      "priority": 43
     },
     {
-      "id": "67251503f2648ae5",
-      "slug": "fm-sitharaman-flags-global-capital-moving-towards-us-ai-linked-markets-as-a-concern-for--7ee97b",
-      "title": "FM Sitharaman flags global capital moving towards US, AI-linked markets as a ‘concern’ for India in 2027",
-      "dek": "FM Nirmala Sitharaman warned that continued capital outflows and global investment shifting toward the US and AI markets pose major risks to India in 2027. Details here.",
-      "url": "https://www.livemint.com/economy/fm-sitharaman-flags-global-capital-moving-towards-us-ai-linked-markets-as-a-concern-for-india-in-2027-11792402978461.html",
-      "source": "Mint",
+      "id": "eff7cecd33165b6c",
+      "slug": "astrazeneca-and-oracle-team-up-on-ai-to-find-patients-for-drug-trials-903c41",
+      "title": "AstraZeneca and Oracle team up on AI to find patients for drug trials",
+      "dek": "AstraZeneca and Oracle will use AI and real patient health data to find people for drug trials faster, the two firms announced. The deal adds to a long list of AI health tie-ups between drugmakers and tech companies. The pair signed a non-binding term sheet, so the terms are not yet final, and neith",
+      "url": "https://thenextweb.com/news/astrazeneca-oracle-ai-drug-trials",
+      "source": "Tnw",
       "sourceType": "external",
-      "image": "https://www.livemint.com/lm-img/img/2026/10/19/1600x900/logo/PTI10-17-2026-000517B-0_1792406233285_Qy93_1792406254584_Amx6_0f1e3edc-ac5e-4df7-a082-1a96fa03eced_bSWW.jpg",
-      "publishedAt": "2026-10-19T10:43:51.000Z",
+      "image": "https://media.thenextweb.com/2026/06/Oracle.avif",
+      "publishedAt": "2026-10-20T10:51:27.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "oracle",
+        "health tech",
+        "corporates and innovation",
+        "business"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "70691eb864a1a5ef",
+      "slug": "the-ai-buildout-is-nearing-its-existential-phase-9ca135",
+      "title": "The AI buildout is nearing its existential phase",
+      "dek": "Trillions of dollars are pouring into AI data centres, but revenue forecasts are falling short of what’s needed to justify the spending, Paul J. Davies writes for Bloomberg.",
+      "url": "https://theprint.in/world/the-ai-buildout-is-nearing-its-existential-phase/3076818/",
+      "source": "Theprint Hindi",
+      "sourceType": "external",
+      "image": "https://staticprintenglish.theprint.in/wp-content/uploads/2026/09/Exclusive-US_556-e1792493079805.jpg",
+      "publishedAt": "2026-10-20T10:45:19.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "world",
+        "bloomberg opinion"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "aa3638131ee4fd68",
+      "slug": "astrazeneca-works-with-oracle-to-speed-up-drug-trials-807fab",
+      "title": "AstraZeneca works with Oracle to speed up drug trials",
+      "dek": "Pharmaceutical company is working with Oracle to advance the use of AI and data analytics in medicine",
+      "url": "https://www.computerweekly.com/news/366652499/AstraZeneca-works-with-Oracle-to-speed-up-drug-trials",
+      "source": "Computerweekly News",
+      "sourceType": "external",
+      "image": "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/Hero%20Images/healthcare-hospital-icons-ECG-adobe.jpeg",
+      "publishedAt": "2026-10-20T10:45:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "78967e8d7cade5ec",
+      "slug": "kansas-dem-adam-hamilton-who-made-millions-on-big-tech-stocks-now-running-away-from-ai-d-1fd468",
+      "title": "Kansas Dem Adam Hamilton, who made millions on Big Tech stocks, now running away from AI data center boom",
+      "dek": "Hamilton reported shares from either himself or his wife of between $1.1 million and $3.5 million in major firms like Google, Meta, Microsoft and Oracle.",
+      "url": "https://us.headtopics.com/news/kansas-dem-adam-hamilton-who-made-millions-on-big-tech-89000405",
+      "source": "Headtopics",
+      "sourceType": "external",
+      "image": "https://i.headtopics.com/images/2026/10/20/nypost/kansas-dem-adam-hamilton-who-made-millions-on-big--kansas-dem-adam-hamilton-who-made-millions-on-big--67C6F2FE66528F78A3CEB4BCBD936256-16x9.webp",
+      "publishedAt": "2026-10-20T10:42:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "artificial intelligence",
+        "campaign finance",
+        "china",
+        "us news",
+        "midterm elections 2026",
+        "politics"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "b0c780a22866c9f0",
+      "slug": "why-azn-vsxy-eypt-stocks-are-moving-premarket-today-79df5c",
+      "title": "Why AZN, VSXY, EYPT Stocks Are Moving Premarket Today",
+      "dek": "A healthcare AI collaboration and a bullish retail outlook lift sentiment, while a Phase 3 trial setback puts EyePoint under pressure.",
+      "url": "https://newsable.asianetnews.com/markets/why-azn-vsxy-eypt-stocks-are-moving-premarket-today-articleshow-4q1dw4g",
+      "source": "Asianet Newsable",
+      "sourceType": "external",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-05636f24-cbcb-41d7-acd5-c51262f76349.webp",
+      "publishedAt": "2026-10-20T10:30:07.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "markets"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "7127c4b7df1f598e",
+      "slug": "stellar-cyber-security-operations-solutions-now-available-on-oracle-marketplace-5ada75",
+      "title": "Stellar Cyber Security Operations Solutions Now Available on Oracle Marketplace",
+      "dek": "Stellar Cyber, a leading provider of security operations solutions and an Oracle partner, today announced that Stellar Cyber Security Operations Platform, Stellar Cyber Open XDR SecOps Platform, and Stellar Cyber Next-Generation SIEM are now available on Oracle Marketplace .",
+      "url": "https://www.financialcontent.com/article/bizwire-2026-10-20-stellar-cyber-security-operations-solutions-now-available-on-oracle-marketplace",
+      "source": "Financialcontent",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-10-20T09:00:00.000Z",
       "topic": "Security",
       "tags": [
-        "ai-linked markets",
-        "india capital outflows",
-        "us investments",
-        "global investments",
-        "nirmala sitharaman"
+        "Security",
+        "Partner"
       ],
-      "priority": 42
+      "priority": 41
     },
     {
-      "id": "0de4371ed148d9c9",
-      "slug": "nvidia-dodged-the-ai-selloff-and-jensen-huang-has-a-theory-why-860168",
-      "title": "Nvidia dodged the AI selloff, and Jensen Huang has a theory why",
-      "dek": "Nvidia held up as AI and chip stocks shed $1 trillion in a week. Here's what Jensen Huang said about it, and what investors should watch next.",
-      "url": "https://www.thestreet.com/investing/stocks/nvidia-dodged-the-ai-selloff-and-jensen-huang-has-a-theory-why",
-      "source": "Thestreet",
+      "id": "eec2969eb15a577f",
+      "slug": "the-vogue-business-ai-tracker-73a4fd",
+      "title": "The Vogue Business AI Tracker",
+      "dek": "Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar. Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.",
+      "url": "https://www.vogue.com/story/technology/the-vogue-business-ai-tracker",
+      "source": "Vogue",
       "sourceType": "external",
-      "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMjE2NDUx/nvidia-corp-backs-swedish-sferical-one-ai-supercomputer.jpg?profile=rss",
-      "publishedAt": "2026-10-19T10:33:00.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://assets.vogue.com/photos/687913fa7c80ebe6dfc9d153/master/pass/AItracker-holder-25-story.jpg",
+      "publishedAt": "2026-10-20T08:30:00.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "ceo",
-        "nvidia",
-        "investing advice",
-        "markets",
-        "investing basics",
-        "investing strategy"
+        "ai",
+        "business / technology",
+        "vogue business tracker",
+        "technology",
+        "beauty",
+        "business"
       ],
-      "priority": 42
+      "priority": 41
     },
     {
-      "id": "baecd78b5f6982bc",
-      "slug": "global-drug-diversion-monitoring-market-size-share-trends-and-forecast-2026-2036-ai-and--d65f0f",
-      "title": "Global Drug Diversion Monitoring Market Size, Share, Trends, and Forecast, 2026-2036 | AI and Cloud Adoption Fuel 13.1% CAGR and a USD 3.84 Billion Market",
-      "dek": "Dublin, Oct. 19, 2026 (GLOBE NEWSWIRE) -- \"Drug Diversion Monitoring Market Size, Share & Trends Analysis - Global Opportunity Analysis and Industry Forecast (2026-2036)\" has been added to ResearchAndMarkets.com's offering.",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/10/19/3383193/28124/en/global-drug-diversion-monitoring-market-size-share-trends-and-forecast-2026-2036-ai-and-cloud-adoption-fuel-13-1-cagr-and-a-usd-3-84-billion-market.html",
+      "id": "d6f096b3f73358ad",
+      "slug": "japan-ict-market-size-share-trends-and-growth-forecasts-2026-2031-ai-hybrid-cloud-cybers-6d5cf0",
+      "title": "Japan ICT - Market Size, Share, Trends, and Growth Forecasts (2026-2031) | AI, Hybrid Cloud, Cybersecurity, and Data Centers Drive Growth to USD 610.61 Billion by 2031",
+      "dek": "Legacy-to-cloud modernization cuts costs, while bundled managed services secure recurring revenue; AI, cybersecurity and edge analytics unlock cross-sell opportunities.",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/10/20/3384071/28124/en/japan-ict-market-size-share-trends-and-growth-forecasts-2026-2031-ai-hybrid-cloud-cybersecurity-and-data-centers-drive-growth-to-usd-610-61-billion-by-2031.html",
       "source": "Globenewswire_fr",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-10-19T10:19:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "research analysis and reports"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "029204887c5f5519",
-      "slug": "linux-ecosystem-balances-ai-driven-threats-kernel-changes-and-desktop-expansion-220540",
-      "title": "Linux ecosystem balances AI-driven threats, kernel changes and desktop expansion",
-      "dek": "Linux faces AI-assisted attacks, a critical guest-to-host kernel flaw, Torvalds' LLM patch and new desktop tools. What to patch and why it matters. The post Linux ecosystem balances AI-driven threats, kernel changes and desktop expansion appeared first on SourceTrail.",
-      "url": "https://www.sourcetrail.com/software/linux-ecosystem-balances-ai-driven-threats-kernel-changes-and-desktop-expansion/",
-      "source": "Sourcetrail",
-      "sourceType": "external",
-      "image": "https://www.sourcetrail.com/wp-content/uploads/2026/10/Linux-3.jpg",
-      "publishedAt": "2026-10-19T10:07:28.000Z",
+      "publishedAt": "2026-10-20T08:15:00.000Z",
       "topic": "Security",
       "tags": [
-        "software"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "768c29f654009dbe",
-      "slug": "kuwait-ict-market-size-share-trends-and-growth-forecasts-2026-2031-cloud-first-policy-5g-cc40df",
-      "title": "Kuwait ICT Market Size, Share, Trends, and Growth Forecasts, 2026-2031 | Cloud-First Policy, 5G, and AI Drive a USD 34.37 Billion Opportunity",
-      "dek": "Dublin, Oct. 19, 2026 (GLOBE NEWSWIRE) -- \"Kuwait ICT - Market Share Analysis, Industry Trends & Statistics, Growth Forecasts (2026-2031)\" has been added to ResearchAndMarkets.com's offering. The Kuwait ICT market was valued at USD 20.4 billion in 2025 and is estimated to increase from USD 22.25 bil",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/10/19/3383129/28124/en/kuwait-ict-market-size-share-trends-and-growth-forecasts-2026-2031-cloud-first-policy-5g-and-ai-drive-a-usd-34-37-billion-opportunity.html",
-      "source": "Globenewswire_fr",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-10-19T09:55:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
         "research analysis and reports"
       ],
-      "priority": 42
+      "priority": 41
     },
     {
-      "id": "309926feb55fb4b7",
-      "slug": "absci-accelerates-ai-antibody-design-on-amd-instinct-gpus-776f78",
-      "title": "Absci Accelerates AI Antibody Design on AMD Instinct™ GPUs",
-      "dek": "AMD and Absci achieved a 3x speedup in AI antibody design by running the AbsciBind co-folding model on Instinct™ GPUs with optimized Triton kernels.",
-      "url": "https://www.amd.com/en/blogs/2026/absci-accelerates-ai-antibody-design-on-amd-instinct-gpus.html",
-      "source": "Advanced Micro Devices",
+      "id": "221b1351bcace85e",
+      "slug": "the-journey-of-a-paper-unicorn-adventures-inside-a-modern-warehouse-bdec67",
+      "title": "The journey of a paper unicorn: adventures inside a modern warehouse",
+      "dek": "Kaspersky experts explain the security issues affecting warehouse environments. We break down initial access vectors specific to warehouses, and discuss the impact of a compromise.",
+      "url": "https://securelist.com/paper-unicorn-warehouse-security/121537/",
+      "source": "Securelist",
       "sourceType": "external",
-      "image": "https://www.amd.com/content/dam/amd/en/images/blogs/designs/amd-silo-ai/amdsiloai-absci-hero.jpg",
-      "publishedAt": "2026-10-19T07:20:23.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://media.kasperskycontenthub.com/wp-content/uploads/sites/43/2026/10/19144935/sas-paper-unicorn-warehouse-featured-image.jpg",
+      "publishedAt": "2026-10-20T07:00:45.000Z",
+      "topic": "Security",
       "tags": [
+        "large",
+        "security assessment",
+        "wi-fi",
+        "bluetooth",
+        "full",
+        "security services"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "6ac6d7469791aea8",
+      "slug": "teradata-s-new-security-measures-aim-to-harness-ai-agents-802b2e",
+      "title": "Teradata's new security measures aim to harness AI agents",
+      "dek": "The vendor's new features, including poly-anonymization to reduce PII exposure address customer needs, bring its privacy and security capabilities in line with its peers.",
+      "url": "https://www.techtarget.com/data-technologies/news/366652361/Teradatas-new-security-measures-aim-to-harness-AI-agents",
+      "source": "Techtarget",
+      "sourceType": "external",
+      "image": "https://cdn.ttgtmedia.com/rms/onlineimages/security_a218339023.jpg",
+      "publishedAt": "2026-10-20T06:45:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Security",
         "AI"
       ],
       "priority": 40
     },
     {
-      "id": "475cc1e1ff5650d6",
-      "slug": "aiac-asia-adr-week-2026-experts-discuss-sharia-compliance-in-fintech-disputes-aiac-i-arb-eda365",
-      "title": "AIAC Asia ADR Week 2026: Experts discuss Sharia compliance in FinTech disputes, AIAC i-Arbitration Rules 2026, and the role of Islamic ADR",
-      "dek": "In a panel discussion at the AIAC Asia ADR Week 2026 on the topic “Code, Capital and Compliance: Resolving Disputes in Islamic Fintech”, the panellists delved into smart contracts, Sharia compliance, interim relief, third-party funding, FinTech products, and cross-border Islamic FinTech disputes. Th",
-      "url": "https://www.scconline.com/blog/post/2026/10/19/asia-adr-week-2026-i-arbitration-rules-2026/",
-      "source": "Scconline",
+      "id": "ca07fa3a7f482462",
+      "slug": "be-stock-slips-overnight-bloom-energy-s-valuation-in-focus-ahead-of-q3-earnings-a1e7d3",
+      "title": "BE Stock Slips Overnight: Bloom Energy’s Valuation In Focus Ahead Of Q3 Earnings",
+      "dek": "Bloom Energy's forward price-to-earnings ratio exceeds its peers, at 63.5x as per Koyfin data.",
+      "url": "https://newsable.asianetnews.com/markets/be-stock-slips-overnight-bloom-energy-s-valuation-in-focus-ahead-of-q3-earnings-articleshow-8zt9ofc",
+      "source": "Asianet Newsable",
       "sourceType": "external",
-      "image": "https://www.scconline.com/blog/wp-content/uploads/2026/10/Asia-ADR-Week-2026-i-Arbitration-Rules.webp",
-      "publishedAt": "2026-10-19T05:00:49.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-6275225f-bae1-4879-aa2f-69db917dcbca.webp",
+      "publishedAt": "2026-10-20T06:30:09.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "events & collaborations",
-        "sadique mohd",
-        "shook lin & bok",
-        "skrine",
-        "international",
-        "online investment platforms"
+        "markets"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "43b18d9320785c40",
+      "slug": "oracle-and-astrazeneca-partner-to-advance-ai-enabled-healthcare-innovation-6a1466",
+      "title": "Oracle and AstraZeneca Partner to Advance AI-enabled Healthcare Innovation",
+      "dek": "Collaboration to connect AstraZeneca's scientific and therapeutic expertise with Oracle's real-world data, cloud, AI, and clinical capabilities to accelerate clinical research and bring evidence-driven insights into care workflows to help improve patient care",
+      "url": "https://www.communitynewspapergroup.com/online_features/press_releases/oracle-and-astrazeneca-partner-to-advance-ai-enabled-healthcare-innovation/article_fdad384c-a920-5771-99b3-aa03c2eed3cc.html",
+      "source": "Communitynewspapergroup",
+      "sourceType": "external",
+      "image": "https://bloximages.chicago2.vip.townnews.com/communitynewspapergroup.com/content/tncms/assets/v3/editorial/e/76/e7612635-798e-575a-9157-967c9789ce37/6ad71b5424a59.image.jpg?resize=300%2C93",
+      "publishedAt": "2026-10-20T04:51:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "AI",
+        "Partner"
       ],
       "priority": 38
     },
     {
-      "id": "10ca39f2b48408bd",
-      "slug": "openjdk-bug-fixing-javaone-and-jdk-28-ijn-a40194",
-      "title": "\"OpenJDK Bug Fixing, JavaOne, and JDK 28\" [IJN]",
-      "dek": "On August 18th, 2026 a mail pops up on the hotspot-compiler-dev mailing list and it describes something that is not supposed to happen: a serious new bug in a JDK release candidate phase, just a few weeks before general availability. Apparently, under very specific circumstances, some buffer content",
-      "url": "https://inside.java/2026/10/17/podcast-072/",
-      "source": "Inside Java",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/insidejava/2026-10-inside-java-podcast-72--ijn116.mp4?dest-id=2318780",
-      "publishedAt": "2026-10-17T13:58:00.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "JDK",
-        "OpenJDK"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "f19e32404d35e3b0",
-      "slug": "neocloud-operator-nscale-s-ipo-plans-could-be-at-risk-after-microsoft-cancels-u-k-data-c-0604e3",
-      "title": "Neocloud operator Nscale’s IPO plans could be at risk after Microsoft cancels U.K. data center project",
-      "dek": "British neocloud startup Nscale Global Holdings Ltd.’s plans to launch an initial public offering in the U.S. have suffered a massive setback after its biggest customer Microsoft Corp. pulled out of a critical data center deal this weekend. A report in The Telegraph on Sunday said Microsoft has term",
-      "url": "https://siliconangle.com/2026/10/18/neocloud-operator-nscales-ipo-plans-could-be-at-risk-after-microsoft-pulls-the-plug-on-u-k-data-center-project/",
-      "source": "Siliconangle",
+      "id": "3652bf9af5d2bbe3",
+      "slug": "red-hat-expands-availability-of-its-industry-leading-hybrid-cloud-platforms-on-oracle-cl-d0af65",
+      "title": "Red Hat expands availability of its industry-leading hybrid cloud platforms on Oracle Cloud Infrastructure",
+      "dek": "Red Hat, the world's leading provider of open source solutions, today announced expanded availability of its industry-leading open hybrid cloud portfolio on Oracle Cloud...",
+      "url": "https://itwire.com/it-industry-news/enterprise-cloud/red-hat-expands-availability-of-its-industry-leading-hybrid-cloud-platforms-on-oracle-cloud-infrastructure",
+      "source": "iTWire",
       "sourceType": "external",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/Screenshot-from-2026-10-19-07-57-01.png",
-      "publishedAt": "2026-10-19T00:57:31.000Z",
-      "topic": "Security",
+      "image": "https://media.itwire.com/2026/10/20/red-hat-expands-availability-of-its-industry-leading-hybrid-cloud-platforms-on-oracle-cloud-infrastructure-551a1122edc6.jpg",
+      "publishedAt": "2026-10-20T03:27:26.000Z",
+      "topic": "Oracle Cloud",
       "tags": [
-        "ai infrastructure",
-        "data center funding",
-        "data center buildout",
-        "investors",
-        "infra",
-        "data center"
+        "Oracle Cloud",
+        "Oracle Cloud Infrastructure"
       ],
-      "priority": 36
+      "priority": 38
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1908,86 +1998,6 @@
         "Oracle Cloud",
         "OCI",
         "Oracle Cloud Infrastructure"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "6ba1bee89c8a91cc",
-      "slug": "what-is-containerization-0326f4",
-      "title": "What is Containerization?",
-      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-04T14:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "OCI",
-        "Oracle University"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "b45e3d006fc93558",
-      "slug": "encore-episode-oci-ai-services-5e7f50",
-      "title": "Encore Episode: OCI AI Services",
-      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-28T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI",
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "57fe9154d1531745",
-      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
-      "title": "Encore Episode: Generative AI and Large Language Models",
-      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-14T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "60d141d1ef069450",
-      "slug": "encore-episode-deep-learning-fe981b",
-      "title": "Encore Episode: Deep Learning",
-      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-07T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "311a8fe7e2892283",
-      "slug": "encore-episode-machine-learning-ee26a4",
-      "title": "Encore Episode: Machine Learning",
-      "dek": "Does machine learning feel like too convoluted a topic? Not anymore! Listen to hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Hemant Gahankari, talk about foundational machine learning concepts and dive into how supervised learning, unsupervised learning, and reinf",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-machine-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-30T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
       ],
       "priority": 36
     }
