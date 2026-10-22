@@ -6,277 +6,187 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 23:28:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 23:28:34 GMT</lastBuildDate>
     
     <item>
-      <title>Massive Oracle Security Update – 1295 Flaws Patched, Including Critical E-Business Suite Vulnerability</title>
-      <link>https://oracle-university.com/stories/massive-oracle-security-update-1295-flaws-patched-including-critical-e-business-suite-vu-de426c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/massive-oracle-security-update-1295-flaws-patched-including-critical-e-business-suite-vu-de426c/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:26:20 GMT</pubDate>
-      <category>Security</category>
-      <description>Oracle has released its October 2026 Critical Patch Update, delivering 1,295 new security patches across its software portfolio. Published on October 20. The update includes a maximum-severity Oracle E-Business Suite vulnerability that allows attackers without login credentials to take over an affec</description>
-      <source url="https://cybersecuritynews.com/massive-oracle-security-update/">Cybersecuritynews</source>
-    </item>
-    <item>
-      <title>Oracle vs. Microsoft: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?</title>
-      <link>https://oracle-university.com/stories/oracle-vs-microsoft-which-is-the-better-ai-cloud-stock-to-own-for-the-next-5-years-b984ed/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-vs-microsoft-which-is-the-better-ai-cloud-stock-to-own-for-the-next-5-years-b984ed/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:22:00 GMT</pubDate>
+      <title>Oracle Vs. Microsoft: How The Wildcard AI Spender Plans to Disrupt</title>
+      <link>https://oracle-university.com/stories/oracle-vs-microsoft-how-the-wildcard-ai-spender-plans-to-disrupt-d882a3/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-vs-microsoft-how-the-wildcard-ai-spender-plans-to-disrupt-d882a3/</guid>
+      <pubDate>Thu, 22 Oct 2026 11:22:46 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Oracle&#39;s AI-related growth is hard to ignore. But Microsoft&#39;s stronger cash flow could make it the better stock to own over the next five years.</description>
-      <source url="https://www.fool.com/investing/2026/10/21/oracle-vs-microsoft-which-is-the-better-ai-cloud-s/">Fool</source>
+      <description>The post Oracle Vs. Microsoft: How The Wildcard AI Spender Plans to Disrupt appeared first on 24/7 Wall St.. Oracle (NYSE:ORCL) and Microsoft (NASDAQ:MSFT) both just reported quarters driven by AI cloud demand. Each is going after the same demand in a different way. Microsoft pays for its…</description>
+      <source url="https://biztoc.com/x/1678482a3ec0fa72">Biztoc</source>
     </item>
     <item>
-      <title>Top EDI Providers Featured in Report on ERP Integration Solutions</title>
-      <link>https://oracle-university.com/stories/top-edi-providers-featured-in-report-on-erp-integration-solutions-887581/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-edi-providers-featured-in-report-on-erp-integration-solutions-887581/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:18:08 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>As businesses increasingly automate supply chain operations, Electronic Data Interchange (EDI) integration with Enterprise Resource Planning (ERP) systems plays an important role in streamlining transactions and improving communication with trading partners. This overview highlights five EDI provide</description>
-      <source url="http://prsync.com/infocon-systems/top-edi-providers-featured-in-report-on-erp-integration-solutions-5206807/">Pr Sync</source>
-    </item>
-    <item>
-      <title>SentinelOne Unveils Singularity ASOC, an Autonomous SOC Suite Built on Purple</title>
-      <link>https://oracle-university.com/stories/sentinelone-unveils-singularity-asoc-an-autonomous-soc-suite-built-on-purple-c6f962/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/sentinelone-unveils-singularity-asoc-an-autonomous-soc-suite-built-on-purple-c6f962/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:00 GMT</pubDate>
-      <category>Security</category>
-      <description>SentinelOne on Oct. 21, 2026, at its OneCon customer conference in Las Vegas unveiled Singularity ASOC (Autonomous Security Operations Center), an integrated suite the company says ties real-time data ingestion, agentic investigation and automated response into one governed loop. The stack runs on P</description>
-      <source url="https://www.webpronews.com/sentinelone-singularity-asoc-purple-autonomous-soc-onecon-2026/">Webpronews</source>
-    </item>
-    <item>
-      <title>GXB Agrees on Donations with Four Major International Organizations</title>
-      <link>https://oracle-university.com/stories/gxb-agrees-on-donations-with-four-major-international-organizations-21984c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/gxb-agrees-on-donations-with-four-major-international-organizations-21984c/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:05:08 GMT</pubDate>
+      <title>Saudi Arabia&#39;s Humain expands Nvidia deal with 84MW AI computing plan</title>
+      <link>https://oracle-university.com/stories/saudi-arabia-s-humain-expands-nvidia-deal-with-84mw-ai-computing-plan-b102f6/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/saudi-arabia-s-humain-expands-nvidia-deal-with-84mw-ai-computing-plan-b102f6/</guid>
+      <pubDate>Thu, 22 Oct 2026 10:56:22 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Builds Key IT Partnership with ITEYES; Pursues Top-Tier CEX Listings, Actively Considers a Hyperliquid Listing, Poised to Become the “Eye of the Storm” in Blockchain in 2027 Innovative hybrid donation model agreed with UNCPGA, Club de Madrid, HELP and Lindau Nobel Laureate Meetings; formal agreement</description>
-      <source url="https://newspatrolling.com/gxb-agrees-on-donations-with-four-major-international-organizations/">Newspatrolling.com - News Cum Content Syndication</source>
+      <description>ONLY AVAILABLE IN PAID PLANS</description>
+      <source url="https://www.thenationalnews.com/future/technology/2026/10/22/saudi-arabias-humain-expands-nvidia-deal-with-84mw-ai-computing-plan/">The National</source>
     </item>
     <item>
-      <title>Nifty IT Hits 8-Month High: Is There More Upside Left?</title>
-      <link>https://oracle-university.com/stories/nifty-it-hits-8-month-high-is-there-more-upside-left-790c88/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/nifty-it-hits-8-month-high-is-there-more-upside-left-790c88/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:05:03 GMT</pubDate>
-      <category>Security</category>
-      <description>Nifty IT has rallied over 17 per cent in October. Experts explain key drivers, AI opportunities, earnings risks and whether IT stocks have more upside.</description>
-      <source url="https://www.outlookmoney.com/invest/nifty-it-index-eight-month-high-it-stocks-rally-upside-outlook">Outlook Money</source>
-    </item>
-    <item>
-      <title>Top 10 Blockchain Projects Bringing Enterprise Data Onchain</title>
-      <link>https://oracle-university.com/stories/top-10-blockchain-projects-bringing-enterprise-data-onchain-4b4f29/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-10-blockchain-projects-bringing-enterprise-data-onchain-4b4f29/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:04:45 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Enterprises have spent decades building databases, yet the greatest friction often appears when information has to move between organizations. Banks need to verify external financial data, manufacturers exchange records with suppliers, and companies increasingly need evidence showing where informati</description>
-      <source url="https://mpost.io/top-10-blockchain-projects-bringing-enterprise-data-onchain/">Metaverse Post</source>
-    </item>
-    <item>
-      <title>The AI buildout is nearing its existential phase</title>
-      <link>https://oracle-university.com/stories/the-ai-buildout-is-nearing-its-existential-phase-6f8a38/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-ai-buildout-is-nearing-its-existential-phase-6f8a38/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:02:40 GMT</pubDate>
-      <category>Java &amp; MySQL</category>
-      <description>FEAR OF MISSING OUT has driven data-center developers to build as much computing capacity as possible, as swiftly as they can. But investors funding the projects are getting nervous. They’re suddenly worrying that spending on artificial intelligence (AI) services won’t be enough to justify the trill</description>
-      <source url="https://bworldonline.com/bloomberg/2026/10/21/788447/the-ai-buildout-is-nearing-its-existential-phase/">Businessworld Online</source>
-    </item>
-    <item>
-      <title>Banking Software: Core Systems, Features, and How Banks Choose Them</title>
-      <link>https://oracle-university.com/stories/banking-software-core-systems-features-and-how-banks-choose-them-243c16/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/banking-software-core-systems-features-and-how-banks-choose-them-243c16/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>Explore Banking Software, Core Banking, Cloud Services, Digital Banking, and Payment Tools to learn how banks improve security, boost efficiency, cut costs, and serve customers</description>
-      <source url="https://www.analyticsinsight.net/banking/banking-software-core-systems-features-and-how-banks-choose-them">Analytics And Insight</source>
-    </item>
-    <item>
-      <title>Oracle AI Agent Studio for Industry Applications Helps Accelerate Business Outcomes</title>
-      <link>https://oracle-university.com/stories/oracle-ai-agent-studio-for-industry-applications-helps-accelerate-business-outcomes-6c738c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-ai-agent-studio-for-industry-applications-helps-accelerate-business-outcomes-6c738c/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>New platform enables customers and partners to easily and securely create, extend, deploy, and manage industry-specific AI agents and teams of agents across the enterprise AUSTIN, Texas, Oct. 21, 2026 /PRNewswire/ -- Oracle today announced Oracle AI Agent Studio1 for Industry...</description>
-      <source url="https://www.prnewswire.com/news-releases/oracle-ai-agent-studio-for-industry-applications-helps-accelerate-business-outcomes-302914801.html">Pr Newswire</source>
-    </item>
-    <item>
-      <title>NVIDIA Packages OpenShell Into a Full-Stack Safe-Agent Reference Architecture at GTC Berlin</title>
-      <link>https://oracle-university.com/stories/nvidia-packages-openshell-into-a-full-stack-safe-agent-reference-architecture-at-gtc-ber-19d13c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/nvidia-packages-openshell-into-a-full-stack-safe-agent-reference-architecture-at-gtc-ber-19d13c/</guid>
-      <pubDate>Wed, 21 Oct 2026 10:50:00 GMT</pubDate>
+      <title>Nvidia Is Moving Deeper Into Intel, AMD Territory: Supermicro Rolls Out 256-CPU Vera Rack</title>
+      <link>https://oracle-university.com/stories/nvidia-is-moving-deeper-into-intel-amd-territory-supermicro-rolls-out-256-cpu-vera-rack-055886/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/nvidia-is-moving-deeper-into-intel-amd-territory-supermicro-rolls-out-256-cpu-vera-rack-055886/</guid>
+      <pubDate>Thu, 22 Oct 2026 10:30:07 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>At GTC Berlin on Oct. 21, 2026, NVIDIA put OpenShell, Vera Rubin, Vera CPUs and BlueField-4 Sentry into one reference architecture for building, containing and enforcing safe AI agents — and said it is available now.</description>
-      <source url="https://www.webpronews.com/nvidia-openshell-reference-architecture-safe-ai-agents-gtc-berlin/">Webpronews</source>
+      <description>Supermicro on Thursday announced a fully liquid-cooled rack built around 256 Nvidia Vera CPUs for agentic AI workloads.</description>
+      <source url="https://newsable.asianetnews.com/markets/nvidia-is-moving-deeper-into-intel-amd-territory-supermicro-rolls-out-256-cpu-vera-rack-articleshow-obcogwd">Asianet Newsable</source>
     </item>
     <item>
-      <title>Oracle Puts AI to Work in F1, Cloud, Partners and Defense Training</title>
-      <link>https://oracle-university.com/stories/oracle-puts-ai-to-work-in-f1-cloud-partners-and-defense-training-7ff3d9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-puts-ai-to-work-in-f1-cloud-partners-and-defense-training-7ff3d9/</guid>
-      <pubDate>Wed, 21 Oct 2026 10:40:20 GMT</pubDate>
+      <title>Prediction: This Is How Much SpaceX Stock Will Be Worth By the End of 2027</title>
+      <link>https://oracle-university.com/stories/prediction-this-is-how-much-spacex-stock-will-be-worth-by-the-end-of-2027-04cde1/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/prediction-this-is-how-much-spacex-stock-will-be-worth-by-the-end-of-2027-04cde1/</guid>
+      <pubDate>Thu, 22 Oct 2026 10:30:00 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>SpaceX stock is surging following a blowout third-quarter earnings report.</description>
+      <source url="https://www.fool.com/investing/2026/10/22/prediction-this-is-how-much-spacex-stock-will-be-w/">Fool</source>
+    </item>
+    <item>
+      <title>Terillium Unveils New AI Agents on Oracle Fusion Applications AI Agent Marketplace</title>
+      <link>https://oracle-university.com/stories/terillium-unveils-new-ai-agents-on-oracle-fusion-applications-ai-agent-marketplace-e24493/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/terillium-unveils-new-ai-agents-on-oracle-fusion-applications-ai-agent-marketplace-e24493/</guid>
+      <pubDate>Thu, 22 Oct 2026 10:23:40 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Terillium has unveiled three AI agents on the Oracle AI Agent Marketplace designed to help Oracle Fusion Applications customers streamline procurement, supply chain planning, and accounts payable. Discover how these purpose-built AI agents can reduce manual work, improve process consistency, and bri</description>
+      <source url="https://aithority.com/machine-learning/terillium-unveils-new-ai-agents-on-oracle-fusion-applications-ai-agent-marketplace/">Aithority</source>
+    </item>
+    <item>
+      <title>Cambridge Health Group and Oracle team to strengthen healthcare efficiency and patient care</title>
+      <link>https://oracle-university.com/stories/cambridge-health-group-and-oracle-team-to-strengthen-healthcare-efficiency-and-patient-c-d50051/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cambridge-health-group-and-oracle-team-to-strengthen-healthcare-efficiency-and-patient-c-d50051/</guid>
+      <pubDate>Thu, 22 Oct 2026 09:54:08 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Agreement will integrate technology, data and AI across CHG&#39;s expanding healthcare network in the UAE and Saudi Arabia</description>
+      <source url="https://www.zawya.com/en/press-release/companies-news/cambridge-health-group-and-oracle-team-to-strengthen-healthcare-efficiency-and-patient-care-1847486">Zawya</source>
+    </item>
+    <item>
+      <title>Harbor Adds Docker Sandboxes to Run Reproducible AI Agent Evals in Isolated MicroVMs</title>
+      <link>https://oracle-university.com/stories/harbor-adds-docker-sandboxes-to-run-reproducible-ai-agent-evals-in-isolated-microvms-77877a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/harbor-adds-docker-sandboxes-to-run-reproducible-ai-agent-evals-in-isolated-microvms-77877a/</guid>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Docker announced that Harbor, the open-source agent evaluation framework, now works with Docker Sandboxes. This change allows each evaluation task to run in its own microVM. So, instead of sharing a container, tasks are isolated for better performance By Claudio Masolo</description>
+      <source url="https://www.infoq.com/news/2026/10/ai-agents-harbor-docker/">Information Queue</source>
+    </item>
+    <item>
+      <title>Rimini Street (RMNI) Projected to Announce Quarterly Earnings on Thursday</title>
+      <link>https://oracle-university.com/stories/rimini-street-rmni-projected-to-announce-quarterly-earnings-on-thursday-d7f228/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/rimini-street-rmni-projected-to-announce-quarterly-earnings-on-thursday-d7f228/</guid>
+      <pubDate>Thu, 22 Oct 2026 08:43:41 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Rimini Street (NASDAQ:RMNI – Get Free Report) is expected to release its Q3 2026 results after the market closes on Thursday, October 29th. Analysts expect the company to announce earnings of $0.10 per share and revenue of $110.82 million for the quarter. Investors may review the information on the </description>
+      <source url="https://www.watchlistnews.com/rimini-street-rmni-projected-to-announce-quarterly-earnings-on-thursday/11272978.html">Watch List News</source>
+    </item>
+    <item>
+      <title>Delinea Introduces Fastpath MCP Server Access Risk Analysis</title>
+      <link>https://oracle-university.com/stories/delinea-introduces-fastpath-mcp-server-access-risk-analysis-e398ee/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/delinea-introduces-fastpath-mcp-server-access-risk-analysis-e398ee/</guid>
+      <pubDate>Thu, 22 Oct 2026 08:28:37 GMT</pubDate>
+      <category>Security</category>
+      <description>Delinea, the identity security platform that continuously controls what AI agents, humans, and machines can do and for how long, today announced Delinea Fastpath MCP Server, a new capability that connects access governance data to the AI assistants teams already use. Using the Model Context Protocol</description>
+      <source url="https://smestreet.in/technology/delinea-introduces-fastpath-mcp-server-access-risk-analysis-12719103">Smestreet In</source>
+    </item>
+    <item>
+      <title>Riverbed Delivers Enhanced Value to Customers with Riverbed Data Express Deployed on Oracle Cloud</title>
+      <link>https://oracle-university.com/stories/riverbed-delivers-enhanced-value-to-customers-with-riverbed-data-express-deployed-on-ora-a01ec2/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/riverbed-delivers-enhanced-value-to-customers-with-riverbed-data-express-deployed-on-ora-a01ec2/</guid>
+      <pubDate>Thu, 22 Oct 2026 07:47:17 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Riverbed achieves Oracle Validated: Oracle Cloud Infrastructure Expertise and is now available in the Oracle Marketplace Riverbed, a leader in AIOps for observability and data acceleration and an Oracle partner, announced that its AI-scale data movement platform, Riverbed Data Express, has achieved </description>
+      <source url="https://aithority.com/it-and-devops/cloud/riverbed-delivers-enhanced-value-to-customers-with-riverbed-data-express-deployed-on-oracle-cloud/">Aithority</source>
+    </item>
+    <item>
+      <title>Quality Management Software Market Forecast 2033: Opportunities and Challenges</title>
+      <link>https://oracle-university.com/stories/quality-management-software-market-forecast-2033-opportunities-and-challenges-1eb330/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/quality-management-software-market-forecast-2033-opportunities-and-challenges-1eb330/</guid>
+      <pubDate>Thu, 22 Oct 2026 07:39:28 GMT</pubDate>
       <category>Training &amp; Certification</category>
-      <description>Oracle is linking AI to F1 calls, OCI storage, partner credits and defense skills. See what is real, what is early and what still lacks proof. The post Oracle Puts AI to Work in F1, Cloud, Partners and Defense Training appeared first on SourceTrail.</description>
-      <source url="https://www.sourcetrail.com/software/oracle-puts-ai-to-work-in-f1-cloud-partners-and-defense-training/">Sourcetrail</source>
+      <description>Market Overview and Projections The quality management software market is growing because companies want audit management, document control, non-conformance tracking, environmental health and safety, training [read full press release...]</description>
+      <source url="https://express-press-release.net/news/2026/10/22/1778035">Express-press-release</source>
     </item>
     <item>
-      <title>Positron AI and General Compute Partner to Expand Access to Memory-First AI Inference Infrastructure</title>
-      <link>https://oracle-university.com/stories/positron-ai-and-general-compute-partner-to-expand-access-to-memory-first-ai-inference-in-f7af90/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/positron-ai-and-general-compute-partner-to-expand-access-to-memory-first-ai-inference-in-f7af90/</guid>
-      <pubDate>Wed, 21 Oct 2026 10:29:00 GMT</pubDate>
+      <title>Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU</title>
+      <link>https://oracle-university.com/stories/oracle-patches-over-1-200-vulnerabilities-with-october-2026-cpu-2bd4e2/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-patches-over-1-200-vulnerabilities-with-october-2026-cpu-2bd4e2/</guid>
+      <pubDate>Thu, 22 Oct 2026 07:38:14 GMT</pubDate>
+      <category>Security</category>
+      <description>Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches. The post Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU appeared first on SecurityWeek.</description>
+      <source url="https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/">Securityweek</source>
+    </item>
+    <item>
+      <title>US Data Center Power Generators Market to Reach USD 2.97 Billion by 2032, Says Markntel Advisor</title>
+      <link>https://oracle-university.com/stories/us-data-center-power-generators-market-to-reach-usd-2-97-billion-by-2032-says-markntel-a-18cfef/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/us-data-center-power-generators-market-to-reach-usd-2-97-billion-by-2032-says-markntel-a-18cfef/</guid>
+      <pubDate>Thu, 22 Oct 2026 07:35:15 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Markntel Advisor has released a comprehensive industry research report on the US Data Center Power Generators Market, presenting an evaluation of generator technologies, capacity requirements, power reliability, and competitive dynamics. The study examines how artificial intelligence (AI), cloud com</description>
+      <source url="https://www.openpr.com/news/4668959/us-data-center-power-generators-market-to-reach-usd-2-97-billion">Openpr.com</source>
+    </item>
+    <item>
+      <title>SBI customer data leak to PHP flaw: Major cybersecurity incidents raise alarm</title>
+      <link>https://oracle-university.com/stories/sbi-customer-data-leak-to-php-flaw-major-cybersecurity-incidents-raise-alarm-374745/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/sbi-customer-data-leak-to-php-flaw-major-cybersecurity-incidents-raise-alarm-374745/</guid>
+      <pubDate>Thu, 22 Oct 2026 07:29:12 GMT</pubDate>
+      <category>Security</category>
+      <description>A suspected SBI customer data leak, compromised eMudhra cryptographic keys and a critical PHP vulnerability are among several cybersecurity concerns reported recently.</description>
+      <source url="https://www.cnbctv18.com/photos/technology/sbi-customer-data-leak-to-php-flaw-major-cybersecurity-incidents-raise-alarm-20016812.htm">Cnbctv18</source>
+    </item>
+    <item>
+      <title>Delinea gives AI assistants read-only access to governance data</title>
+      <link>https://oracle-university.com/stories/delinea-gives-ai-assistants-read-only-access-to-governance-data-a4dedf/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/delinea-gives-ai-assistants-read-only-access-to-governance-data-a4dedf/</guid>
+      <pubDate>Thu, 22 Oct 2026 07:17:59 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Delinea has announced Delinea Fastpath MCP Server, a new capability that connects access governance data to the AI assistants teams already use. Using the Model Context Protocol (MCP), finance, IT, audit, and compliance teams can ask natural-language questions and get fine-grained, cross-application</description>
+      <source url="https://www.helpnetsecurity.com/2026/10/22/delinea-fastpath-mcp-server/">Help Net Security</source>
+    </item>
+    <item>
+      <title>Certification authority eMudhra defends its laughably weak private keys - The Register</title>
+      <link>https://oracle-university.com/stories/certification-authority-emudhra-defends-its-laughably-weak-private-keys-the-register-ff2771/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/certification-authority-emudhra-defends-its-laughably-weak-private-keys-the-register-ff2771/</guid>
+      <pubDate>Thu, 22 Oct 2026 06:38:14 GMT</pubDate>
+      <category>Security</category>
+      <description>Certification authority eMudhra defends its laughably weak private keys The Register Security Alert CVE-2026-91403 Released Oracle Blogs The Internet goes on high alert after discovery of 8 compromised TLS certs Ars Technica eMudhra security blunder left trusted CA signing keys exposed to anyone Hel</description>
+      <source url="https://news.google.com/rss/articles/CBMixgFBVV95cUxOVkFSVTNmQWx5WF8tbEF6bGtwZGptOHFsMVg3amd3cTd6WDI2ei1XWWZ3Tm9TMnN4M19sM1VhTTE1UWZnbnBrejFBNUVqb2FjRUxTbTJ4M3MzeWFoalo5ZlpVbnJEOHlhVDRhLXlwbUJ1X004NW9oY01sRzZJbmVETlNQMnhtUWp3RldrVGJnOUNZcll2b3h1eEcwbjk3QnRuTHNnMTZEdUlTdjVaV0pTeS05MW0tcmMyRmFObFRYQThSUHRtaUE?oc=5">Google News</source>
+    </item>
+    <item>
+      <title>Delinea launches MCP server to simplify access governance and audit readiness</title>
+      <link>https://oracle-university.com/stories/delinea-launches-mcp-server-to-simplify-access-governance-and-audit-readiness-1169b3/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/delinea-launches-mcp-server-to-simplify-access-governance-and-audit-readiness-1169b3/</guid>
+      <pubDate>Thu, 22 Oct 2026 06:33:15 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>General Compute purchases Positron’s Atlas systems and commits to large-scale next-generation Titan systems Positron AI announced that General Compute will purchase its Atlas inference systems and has committed to purchasing its next-generation Titan systems, expanding General Compute’s dedicated in</description>
-      <source url="https://aithority.com/machine-learning/positron-ai-and-general-compute-partner-to-expand-access-to-memory-first-ai-inference-infrastructure/">Aithority</source>
+      <description>Delinea has introduced Fastpath MCP Server, a capability that connects access governance data with artificial intelligence (AI) assistants. It allows finance, information technology (IT), audit, and compliance teams to query… The post Delinea launches MCP server to simplify access governance and aud</description>
+      <source url="https://www.cioandleader.com/delinea-launches-mcp-server-to-simplify-access-governance-and-audit-readiness/">Cio&amp;leader</source>
     </item>
     <item>
-      <title>Transportation Management System Market Opportunities Created by Digital Supply Chain Transformation</title>
-      <link>https://oracle-university.com/stories/transportation-management-system-market-opportunities-created-by-digital-supply-chain-tr-25bd67/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/transportation-management-system-market-opportunities-created-by-digital-supply-chain-tr-25bd67/</guid>
-      <pubDate>Wed, 21 Oct 2026 10:24:51 GMT</pubDate>
+      <title>NVIDIA Cuts AI Factory Deployment to 14 Days With DSX POD at GTC Berlin</title>
+      <link>https://oracle-university.com/stories/nvidia-cuts-ai-factory-deployment-to-14-days-with-dsx-pod-at-gtc-berlin-9d2881/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/nvidia-cuts-ai-factory-deployment-to-14-days-with-dsx-pod-at-gtc-berlin-9d2881/</guid>
+      <pubDate>Thu, 22 Oct 2026 06:15:24 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>The global transportation management system market was valued at USD 18.6 billion in 2025. It is estimated at USD 21.8 billion in 2026 and projected [read full press release...]</description>
-      <source url="https://express-press-release.net/news/2026/10/21/1777887">Express-press-release</source>
+      <description>NVIDIA DSX POD cuts AI factory site-connection from six months to 14 days by completing all rack cabling and cooling integration before shipment, Jensen Huang announced at GTC Berlin 2026. The 14-day window applies only once a site is ready; facility prep remains the customer&#39;s work. NVIDIA also unv</description>
+      <source url="https://www.techtimes.com/articles/329381/20261022/nvidia-cuts-ai-factory-deployment-14-days-dsx-pod-gtc-berlin.htm">Techtimes</source>
     </item>
     <item>
-      <title>VapusData Introduces VapusData OS for Governed, AI-Native Enterprise Workflows</title>
-      <link>https://oracle-university.com/stories/vapusdata-introduces-vapusdata-os-for-governed-ai-native-enterprise-workflows-8cbb1e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/vapusdata-introduces-vapusdata-os-for-governed-ai-native-enterprise-workflows-8cbb1e/</guid>
-      <pubDate>Wed, 21 Oct 2026 10:15:11 GMT</pubDate>
+      <title>LTM Launches BlueVerse™ ValueMesh™ to Help Enterprises Scale AI Across Oracle Transformations</title>
+      <link>https://oracle-university.com/stories/ltm-launches-blueverse-valuemesh-to-help-enterprises-scale-ai-across-oracle-transformati-175fe3/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ltm-launches-blueverse-valuemesh-to-help-enterprises-scale-ai-across-oracle-transformati-175fe3/</guid>
+      <pubDate>Thu, 22 Oct 2026 05:00:00 GMT</pubDate>
       <category>Applications &amp; NetSuite</category>
-      <description>New Delhi [India], October 21: VapusData, an AI data operating system company, has introduced VapusData OS, a decentralised, secure and governed AI Data Operating System designed to help enterprises run AI across the data and systems they already use. The platform connects enterprise data, applicati</description>
-      <source url="https://www.business-standard.com/content/press-releases-ani/vapusdata-introduces-vapusdata-os-for-governed-ai-native-enterprise-workflows-126102100758_1.html">Business Standard</source>
+      <description>MUMBAI, India--(Business Wire/Korea Newswire)--LTM, the Business Creativity partner to the world’s largest enterprises, today announced the launch of BlueVerse™ ValueMesh™, an AI execution fabric designed to help enterprises industrialize AI acros...</description>
+      <source url="https://www.newswire.co.kr/newsRead.php?no=1045308&amp;sourceType=rss">Newswire</source>
     </item>
     <item>
-      <title>IT Security News Roundup: 2026-10-21 Morning</title>
-      <link>https://oracle-university.com/stories/it-security-news-roundup-2026-10-21-morning-0a2bf2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/it-security-news-roundup-2026-10-21-morning-0a2bf2/</guid>
-      <pubDate>Wed, 21 Oct 2026 10:06:10 GMT</pubDate>
-      <category>Security</category>
-      <description>IT Security News: Morning roundup, 2026-10-21 Summary This morning’s cybersecurity news highlights the dual-edged nature of artificial intelligence, as threat actors weaponize AI penetration tools like ARTEX while security teams scramble to govern autonomous agent workflows. Simultaneously, persiste</description>
-      <source url="https://www.itsecuritynews.info/it-security-news-roundup-2026-10-21-morning/">It Security News</source>
-    </item>
-    <item>
-      <title>Business News | VapusData Introduces VapusData OS for Governed, AI-Native Enterprise Workflows</title>
-      <link>https://oracle-university.com/stories/business-news-vapusdata-introduces-vapusdata-os-for-governed-ai-native-enterprise-workfl-ee41dc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/business-news-vapusdata-introduces-vapusdata-os-for-governed-ai-native-enterprise-workfl-ee41dc/</guid>
-      <pubDate>Wed, 21 Oct 2026 09:50:25 GMT</pubDate>
+      <title>Rimini Street Conference: AI, Managed Services Drive ERP Modernization Push</title>
+      <link>https://oracle-university.com/stories/rimini-street-conference-ai-managed-services-drive-erp-modernization-push-74372d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/rimini-street-conference-ai-managed-services-drive-erp-modernization-push-74372d/</guid>
+      <pubDate>Thu, 22 Oct 2026 00:04:48 GMT</pubDate>
       <category>Applications &amp; NetSuite</category>
-      <description>Get latest articles and stories on Business at LatestLY. New Delhi [India], October 21: VapusData, an AI data operating system company, has introduced VapusData OS, a decentralised, secure and governed AI Data Operating System designed to help enterprises run AI across the data and systems they alre</description>
-      <source url="https://www.latestly.com/agency-news/business-news-vapusdata-introduces-vapusdata-os-for-governed-ai-native-enterprise-workflows-7651901.html">Latestly</source>
-    </item>
-    <item>
-      <title>Pinnacle Associates Ltd. Purchases 11,806 Shares of Oracle Corporation $ORCL</title>
-      <link>https://oracle-university.com/stories/pinnacle-associates-ltd-purchases-11-806-shares-of-oracle-corporation-orcl-26ee8e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/pinnacle-associates-ltd-purchases-11-806-shares-of-oracle-corporation-orcl-26ee8e/</guid>
-      <pubDate>Wed, 21 Oct 2026 09:37:21 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Pinnacle Associates Ltd. grew its position in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 5.2% in the 3rd quarter, according to the company in its most recent 13F filing with the SEC. The fund owned 238,348 shares of the enterprise software provider’s stock after purchasing an addition</description>
-      <source url="https://www.americanbankingnews.com/2026/10/21/pinnacle-associates-ltd-purchases-11806-shares-of-oracle-corporation-orcl.html">Americanbankingnews</source>
-    </item>
-    <item>
-      <title>Oracle Releases 1,295 Security Patches to Fix Critical Vulnerabilities Across Multiple Products</title>
-      <link>https://oracle-university.com/stories/oracle-releases-1-295-security-patches-to-fix-critical-vulnerabilities-across-multiple-p-d841c2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-releases-1-295-security-patches-to-fix-critical-vulnerabilities-across-multiple-p-d841c2/</guid>
-      <pubDate>Wed, 21 Oct 2026 09:32:39 GMT</pubDate>
-      <category>Security</category>
-      <description>Oracle has released its October 2026 Critical Patch Update, which includes 1,295 new security patches across its enterprise portfolio. Published on… Read more → The post Oracle Releases 1,295 Security Patches to Fix Critical Vulnerabilities Across Multiple Products appeared first on IT Security News</description>
-      <source url="https://www.itsecuritynews.info/oracle-releases-1295-security-patches-to-fix-critical-vulnerabilities-across-multiple-products/">It Security News</source>
-    </item>
-    <item>
-      <title>LTM Launches BlueVerse™ ValueMesh™ to Scale AI Across Oracle Transformations</title>
-      <link>https://oracle-university.com/stories/ltm-launches-blueverse-valuemesh-to-scale-ai-across-oracle-transformations-940b95/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ltm-launches-blueverse-valuemesh-to-scale-ai-across-oracle-transformations-940b95/</guid>
-      <pubDate>Wed, 21 Oct 2026 09:28:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>LTM Limited launches BlueVerse™ ValueMesh™, an AI execution fabric to help enterprises industrialize AI across the Oracle transformation lifecycle. Announced…</description>
-      <source url="https://www.psuconnect.in/corporate-news/ltm-launches-bluevers-valuemes-to-scale-ai-across-oracle-transformations">Psu Connect</source>
-    </item>
-    <item>
-      <title>LTM Launches BlueVerse(TM) ValueMesh(TM) to Help Enterprises Scale AI Across Oracle Transformations</title>
-      <link>https://oracle-university.com/stories/ltm-launches-blueverse-tm-valuemesh-tm-to-help-enterprises-scale-ai-across-oracle-transf-dde247/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ltm-launches-blueverse-tm-valuemesh-tm-to-help-enterprises-scale-ai-across-oracle-transf-dde247/</guid>
-      <pubDate>Wed, 21 Oct 2026 08:37:21 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>MUMBAI, India–BUSINESS WIRE– LTM, the Business Creativity partner to the world’s largest enterprises, today announced the launch of BlueVerse™ ValueMesh™, an AI execution fabric designed to help enterprises industrialize AI across the Oracle transformation lifecycle, from strategy and implementation</description>
-      <source url="https://newshub.medianet.com.au/2026/10/ltm-launches-blueversetm-valuemeshtm-to-help-enterprises-scale-ai-across-oracle-transformations/177789/">News Hub - Medianet News Hub Archive</source>
-    </item>
-    <item>
-      <title>53 OpenJDK Vulnerabilities Disclosed Today Set an All-Time High; Azul Patches Them All</title>
-      <link>https://oracle-university.com/stories/53-openjdk-vulnerabilities-disclosed-today-set-an-all-time-high-azul-patches-them-all-319708/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/53-openjdk-vulnerabilities-disclosed-today-set-an-all-time-high-azul-patches-them-all-319708/</guid>
-      <pubDate>Wed, 21 Oct 2026 07:43:37 GMT</pubDate>
-      <category>Security</category>
-      <description>Azul’s Security-only, Stability-first™ updates can be deployed immediately to counter the speed of agentic AI threats Azul, the trusted leader in enterprise Java for AI-first world, released its October Security-only, Stability-first™ updates for Azul Core that are immediately deployable to address </description>
-      <source url="https://cioinfluence.com/security/53-openjdk-vulnerabilities-disclosed-today-set-an-all-time-high-azul-patches-them-all/">Cio Influence</source>
-    </item>
-    <item>
-      <title>Azul patches all 53 vulnerabilities in latest OpenJDK update</title>
-      <link>https://oracle-university.com/stories/azul-patches-all-53-vulnerabilities-in-latest-openjdk-update-e95839/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/azul-patches-all-53-vulnerabilities-in-latest-openjdk-update-e95839/</guid>
-      <pubDate>Wed, 21 Oct 2026 07:41:45 GMT</pubDate>
-      <category>Security</category>
-      <description>Azul says its October security-only updates address vulnerabilities in the latest OpenJDK release, helping enterprises patch Java systems with fewer unrelated changes. News</description>
-      <source url="https://www.dqchannels.com/news/azul-patches-53-openjdk-vulnerabilities-october-2026-12695044">Dqc</source>
-    </item>
-    <item>
-      <title>Red Hat Expands Availability of Its Industry-Leading Hybrid Cloud Platforms on Oracle Cloud Infrastructure</title>
-      <link>https://oracle-university.com/stories/red-hat-expands-availability-of-its-industry-leading-hybrid-cloud-platforms-on-oracle-cl-89eea8/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/red-hat-expands-availability-of-its-industry-leading-hybrid-cloud-platforms-on-oracle-cl-89eea8/</guid>
-      <pubDate>Wed, 21 Oct 2026 07:32:05 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Expanded availability gives customers more options to deploy and procure Red Hat technologies on OCI Red Hat, the world’s leading provider of open source solutions, announced expanded availability of its industry-leading open hybrid cloud portfolio on Oracle Cloud Infrastructure (OCI). This includes</description>
-      <source url="https://aithority.com/it-and-devops/cloud/red-hat-expands-availability-of-its-industry-leading-hybrid-cloud-platforms-on-oracle-cloud-infrastructure/">Aithority</source>
-    </item>
-    <item>
-      <title>LTM Launches BlueVerse ValueMesh to Help Enterprises Scale AI Across Oracle Transformations</title>
-      <link>https://oracle-university.com/stories/ltm-launches-blueverse-valuemesh-to-help-enterprises-scale-ai-across-oracle-transformati-618e3e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ltm-launches-blueverse-valuemesh-to-help-enterprises-scale-ai-across-oracle-transformati-618e3e/</guid>
-      <pubDate>Wed, 21 Oct 2026 07:16:16 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>LTM today announced the launch of BlueVerse™ ValueMesh™, an AI execution fabric designed to help enterprises industrialize AI across the Oracle transformation lifecycle, from strategy and implementation to operations and continuous innovation. BlueVerse™ ValueMesh™ is developed and validated by LTM </description>
-      <source url="https://cxotoday.com/media-coverage/ltm-launches-blueverse-valuemesh-to-help-enterprises-scale-ai-across-oracle-transformations/">Cxotoday</source>
-    </item>
-    <item>
-      <title>Business News | LTM Launches BlueVerse™ ValueMesh™ to Help Enterprises Scale AI Across Oracle Transformations</title>
-      <link>https://oracle-university.com/stories/business-news-ltm-launches-blueverse-valuemesh-to-help-enterprises-scale-ai-across-oracl-c258dc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/business-news-ltm-launches-blueverse-valuemesh-to-help-enterprises-scale-ai-across-oracl-c258dc/</guid>
-      <pubDate>Wed, 21 Oct 2026 06:22:23 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Get latest articles and stories on Business at LatestLY. Mumbai (Maharashtra) [India], October 21: LTM, the Business Creativity partner to the world’s largest enterprises, today announced the launch of BlueVerse™ ValueMesh™, an AI execution fabric designed to help enterprises industrialize AI across</description>
-      <source url="https://www.latestly.com/agency-news/business-news-ltm-launches-blueverse-valuemesh-to-help-enterprises-scale-ai-across-oracle-transformations-7651623.html">Latestly</source>
-    </item>
-    <item>
-      <title>Zoom Turns Meeting History Into Queryable AI Context, Opens MCP APIs to Claude and GPT</title>
-      <link>https://oracle-university.com/stories/zoom-turns-meeting-history-into-queryable-ai-context-opens-mcp-apis-to-claude-and-gpt-c2420f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/zoom-turns-meeting-history-into-queryable-ai-context-opens-mcp-apis-to-claude-and-gpt-c2420f/</guid>
-      <pubDate>Wed, 21 Oct 2026 06:16:45 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Zoom Zoomtopia 2026 introduces Unified Context Layer, a live graph database linking enterprise meeting and chat history queryable from Claude, GPT, Gemini, and any MCP-compatible AI. ZoomMate Agent Teams launch today. Voice translation and deepfake detection arrive by year-end; the NSA warned in May</description>
-      <source url="https://www.techtimes.com/articles/329310/20261021/zoom-turns-meeting-history-queryable-ai-context-opens-mcp-apis-claude-gpt.htm">Techtimes</source>
-    </item>
-    <item>
-      <title>Global Hyperscale Data Center Market Size, Investment Analysis &amp; Forecast to 2031 | Arizton</title>
-      <link>https://oracle-university.com/stories/global-hyperscale-data-center-market-size-investment-analysis-forecast-to-2031-arizton-3b0032/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/global-hyperscale-data-center-market-size-investment-analysis-forecast-to-2031-arizton-3b0032/</guid>
-      <pubDate>Wed, 21 Oct 2026 05:03:09 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Arizton estimates that the global hyperscale data center market recorded investments of USD 440.48 billion in 2025, with investment projected to reach USD 902.55 billion by 2031, growing at a CAGR of 12.70%. The expansion of AI, machine learning, and other</description>
-      <source url="https://www.openpr.com/news/4667402/global-hyperscale-data-center-market-size-investment-analysis">Openpr.com</source>
-    </item>
-    <item>
-      <title>Azul issues security fixes for record OpenJDK flaws</title>
-      <link>https://oracle-university.com/stories/azul-issues-security-fixes-for-record-openjdk-flaws-c2a160/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/azul-issues-security-fixes-for-record-openjdk-flaws-c2a160/</guid>
-      <pubDate>Wed, 21 Oct 2026 05:01:00 GMT</pubDate>
-      <category>Security</category>
-      <description>Enterprises running Java face a heavier patching burden, as 53 flaws in the latest OpenJDK update must be fixed far faster than usual.</description>
-      <source url="https://securitybrief.asia/story/azul-issues-security-fixes-for-record-openjdk-flaws">Securitybrief Asia</source>
-    </item>
-    <item>
-      <title>TornadoVM 7 Enables GPU-Native Workloads From Java Applications</title>
-      <link>https://oracle-university.com/stories/tornadovm-7-enables-gpu-native-workloads-from-java-applications-0284fd/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/tornadovm-7-enables-gpu-native-workloads-from-java-applications-0284fd/</guid>
-      <pubDate>Wed, 21 Oct 2026 03:00:00 GMT</pubDate>
-      <category>Java &amp; MySQL</category>
-      <description>TornadoVM, an open-source heterogeneous programming framework for Java has reached version 7.0. It automatically accelerates Java programs on multi-core CPUs and GPUs and provides a rich GPU programming ecosystem in Java that can be used with any mainstream JDK distribution e.g. Temurin, Red Hat Ope</description>
-      <source url="https://www.infoq.com/news/2026/10/tornadovm-7-gpu/">Information Queue</source>
+      <description>Rimini Street (NASDAQ:RMNI) outlined its strategy to expand beyond third-party enterprise software support by helping customers modernize existing ERP environments with managed services, integrations and artificial intelligence tools, according to comments from CFO Michael Perica and VP and Treasure</description>
+      <source url="https://www.dailypolitical.com/2026/10/21/rimini-street-conference-ai-managed-services-drive-erp-modernization-push.html">Daily Political</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -457,6 +367,96 @@
       <category>Security</category>
       <description>Every system depends on reliable infrastructure behind the scenes. Oracle Cloud Infrastructure (OCI) delivers that reliability with speed, flexibility, and built-in security. Join Lois Houston and Nikita Abraham as they speak with Oracle Cloud experts David Mills and Tijo Thomas about what makes OCI</description>
       <source url="https://oracleuniversitypodcast.libsyn.com/getting-to-know-oracle-cloud-infrastructure">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Best of 2025: Unlocking the Power of Oracle APEX and AI</title>
+      <link>https://oracle-university.com/stories/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai-6aff1f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai-6aff1f/</guid>
+      <pubDate>Tue, 23 Dec 2025 12:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Lois Houston and Nikita Abraham explore how Oracle APEX integrates with AI to build smarter low-code applications. They are joined by Chaitanya Koratamaddi, Director of Product Management at Oracle, who explains the basics of Oracle APEX, its global adoption, and the challenges it addresses for busi</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Bringing the Cloud to You: Security and Control with Exadata</title>
+      <link>https://oracle-university.com/stories/bringing-the-cloud-to-you-security-and-control-with-exadata-e7accc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/bringing-the-cloud-to-you-security-and-control-with-exadata-e7accc/</guid>
+      <pubDate>Tue, 16 Dec 2025 13:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>In this episode, we&#39;ll talk about Security and Control with Exadata We&#39;ll explore how organizations can benefit from cloud innovation while keeping full control over their data — a critical challenge in today&#39;s digital world. ---------------------------------------------------- Episode Transcript: 0</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/bringing-the-cloud-to-you-security-and-control-with-exadata">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Best of 2025: Oracle Fusion Cloud Applications Foundations Training &amp; Certifications</title>
+      <link>https://oracle-university.com/stories/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications-6881a0/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications-6881a0/</guid>
+      <pubDate>Tue, 16 Dec 2025 12:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham dive into Oracle Fusion Cloud Applications and the new courses and certifications on offer. They are joined by Oracle Fusion Apps experts Patrick McBride and Bill Lawson who introduce the concept of Oracle Modern</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Best of 2025: Introduction to MySQL</title>
+      <link>https://oracle-university.com/stories/best-of-2025-introduction-to-mysql-2273ef/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-introduction-to-mysql-2273ef/</guid>
+      <pubDate>Tue, 02 Dec 2025 05:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Join hosts Lois Houston and Nikita Abraham as they explore the world of MySQL 8.4. Together with Perside Foster, a MySQL Principal Solution Engineer, they break down the fundamentals of MySQL, its wide range of applications, and why it&#39;s so popular among developers and database administrators. This </description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-introduction-to-mysql">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>The Transformative Power of Low Code Development</title>
+      <link>https://oracle-university.com/stories/the-transformative-power-of-low-code-development-d12adc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-transformative-power-of-low-code-development-d12adc/</guid>
+      <pubDate>Tue, 25 Nov 2025 13:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>In this Episode Orlaith Lawton speaks with Oracle ACE Roberto Capancioni about the importance of APEX and why it is the world&#39;s most popular low-code application platform. ------------------------------------------------------ Episode Transcript: 00:00:00:00 - 00:00:35:14 Unknown Welcome to the Orac</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-transformative-power-of-low-code-development">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Understanding Security Risks and Threats in the Cloud - Part 1</title>
+      <link>https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</guid>
+      <pubDate>Tue, 18 Nov 2025 12:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>This week, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to explore what truly keeps data safe, and what puts it at risk. They discuss the CIA triad, dive into hashing and encryption, and shed light on how cyber threats like malware, phishing, and ransomware t</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/understanding-security-risks-and-threats-in-the-cloud-part-1">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Networking &amp; Security Essentials</title>
+      <link>https://oracle-university.com/stories/networking-security-essentials-113af4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/networking-security-essentials-113af4/</guid>
+      <pubDate>Tue, 11 Nov 2025 12:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>How do all your devices connect and stay safe in the cloud? In this episode, Lois Houston and Nikita Abraham talk with OCI instructors Sergio Castro and Orlando Gentil about the basics of how networks work and the simple steps that help protect them. You&#39;ll learn how information gets from one place </description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/networking-security-essentials">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Inside Cloud Networking</title>
+      <link>https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</guid>
+      <pubDate>Tue, 04 Nov 2025 12:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>In this episode, hosts Lois Houston and Nikita Abraham team up with Senior Principal OCI Instructor Sergio Castro to unpack the basics of cloud networking and the Domain Name System (DNS). You&#39;ll learn how local and virtual networks connect devices, and how DNS seamlessly translates familiar names l</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/inside-cloud-networking">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Cloud Data Centers: Core Concepts - Part 4</title>
+      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</guid>
+      <pubDate>Tue, 28 Oct 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>In this episode, hosts Lois Houston and Nikita Abraham, along with Principal OCI Instructor Orlando Gentil, break down the differences between Infrastructure-as-a-Service, Platform-as-a-Service, and Software-as-a-Service. The conversation explores how each framework influences control, cost efficien</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-4">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Cloud Data Centers: Core Concepts - Part 3</title>
+      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</guid>
+      <pubDate>Tue, 21 Oct 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Have you ever considered how a single server can support countless applications and workloads at once? In this episode, hosts Lois Houston and Nikita Abraham, together with Principal OCI Instructor Orlando Gentil, explore the sophisticated technologies that make this possible in modern cloud data ce</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-3">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
