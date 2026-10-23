@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T23:28:34.477Z",
+  "generatedAt": "2026-10-23T23:15:41.330Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,365 +7,215 @@
   },
   "items": [
     {
-      "id": "25ffcf977f323cdb",
-      "slug": "oracle-vs-microsoft-how-the-wildcard-ai-spender-plans-to-disrupt-d882a3",
-      "title": "Oracle Vs. Microsoft: How The Wildcard AI Spender Plans to Disrupt",
-      "dek": "The post Oracle Vs. Microsoft: How The Wildcard AI Spender Plans to Disrupt appeared first on 24/7 Wall St.. Oracle (NYSE:ORCL) and Microsoft (NASDAQ:MSFT) both just reported quarters driven by AI cloud demand. Each is going after the same demand in a different way. Microsoft pays for its…",
-      "url": "https://biztoc.com/x/1678482a3ec0fa72",
-      "source": "Biztoc",
+      "id": "0210bafe3ba7608b",
+      "slug": "can-blockchain-solve-ev-battery-swapping-s-trust-problem-fe8f96",
+      "title": "Can Blockchain Solve EV Battery Swapping’s Trust Problem?",
+      "dek": "Battery swapping promises to make replenishing an electric vehicle feel more like refuelling a conventional car. Instead of waiting for a battery to recharge, drivers exchange a depleted pack for a charged one. But that convenience introduces a question: how can someone trust a battery they have nev",
+      "url": "https://www.securities.io/ev-battery-swapping-blockchain-trust/",
+      "source": "Securities Io",
       "sourceType": "external",
-      "image": "https://cdn.biztoc.com/1678482a3ec0fa72_s.webp",
-      "publishedAt": "2026-10-22T11:22:46.000Z",
+      "image": "https://www.securities.io/wp-content/uploads/2026/10/af54b751-f028-4f28-974e-af3eaf39708f.png",
+      "publishedAt": "2026-10-23T10:54:54.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 43
+    },
+    {
+      "id": "ae6ddca9d80ab835",
+      "slug": "infosys-differentiated-ai-strategy-and-a-sharp-focus-on-value-unlock-propels-29-sequenti-86b5ca",
+      "title": "Infosys:Differentiated AI strategy and a sharp focus on value unlock propels 29% sequential growth in AI revenues",
+      "dek": "Robust Q2 large deal TCV at $5.2 billion with 62% net new; lays solid foundation for future growth FY 27 revenue guidance revised to 1%-2% and margin guidance retained at 20%-22% www.infosys.com/\" target=\"_blank\" rel=\"nofollow\">www.infosys.com/en.html\" target=\"_blank\" rel=\"nofollow\">Infosys (NSE...",
+      "url": "https://investingnews.com/infosys-differentiated-ai-strategy-and-a-sharp-focus-on-value-unlock-propels-29-sequential-growth-in-ai-revenues/",
+      "source": "Investing News Network (inn)",
+      "sourceType": "external",
+      "image": "https://investingnews.com/media-library/image.gif?id=31699902&width=1200",
+      "publishedAt": "2026-10-23T10:34:00.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "breaking news",
-        "news",
-        "curation",
-        "media",
-        "aggregator"
+        "infy",
+        "nyse-infy"
       ],
       "priority": 43
     },
     {
-      "id": "945a57491847beeb",
-      "slug": "saudi-arabia-s-humain-expands-nvidia-deal-with-84mw-ai-computing-plan-b102f6",
-      "title": "Saudi Arabia's Humain expands Nvidia deal with 84MW AI computing plan",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.thenationalnews.com/future/technology/2026/10/22/saudi-arabias-humain-expands-nvidia-deal-with-84mw-ai-computing-plan/",
-      "source": "The National",
+      "id": "cc814dd6b9a5dd19",
+      "slug": "big-tech-can-t-stop-ai-spending-but-the-cash-is-running-out-860350",
+      "title": "Big Tech Can't Stop AI Spending, but the Cash Is Running Out",
+      "dek": "Meta's $825 billion AI infrastructure commitment has squeezed funding across Big Tech, with OpenAI and Anthropic pushing ahead with IPOs.",
+      "url": "https://en.sedaily.com/international/2026/10/23/big-tech-cant-stop-ai-spending-but-the-cash-is-running-out",
+      "source": "서울경제",
       "sourceType": "external",
-      "image": "https://www.thenationalnews.com/resizer/v2/EXV7LIZC6RK2DODKWL3QZK4CGI.jpg?auth=a45157e5fd5426f49abddf2abb4fe741b4ce8a5dda5ebf5f7b0c96b7331a1e1e&smart=true&width=5500&height=3667",
-      "publishedAt": "2026-10-22T10:56:22.000Z",
+      "image": "https://wimg.sedaily.com/news/cms/2026/10/23/rcv.YNA.20261022.PRU20261022241501009_P1.jpg",
+      "publishedAt": "2026-10-23T10:13:19.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "technology",
-        "artificial intelligence",
-        "saudi arabia",
-        "story",
-        "business team",
-        "standard"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "68cf69e3bb4c003c",
-      "slug": "nvidia-is-moving-deeper-into-intel-amd-territory-supermicro-rolls-out-256-cpu-vera-rack-055886",
-      "title": "Nvidia Is Moving Deeper Into Intel, AMD Territory: Supermicro Rolls Out 256-CPU Vera Rack",
-      "dek": "Supermicro on Thursday announced a fully liquid-cooled rack built around 256 Nvidia Vera CPUs for agentic AI workloads.",
-      "url": "https://newsable.asianetnews.com/markets/nvidia-is-moving-deeper-into-intel-amd-territory-supermicro-rolls-out-256-cpu-vera-rack-articleshow-obcogwd",
-      "source": "Asianet Newsable",
-      "sourceType": "external",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-38b094fb-6363-4b48-b403-46b21d174fba.jpg",
-      "publishedAt": "2026-10-22T10:30:07.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "markets"
+        "international"
       ],
       "priority": 42
     },
     {
-      "id": "470dc1a956fe8140",
-      "slug": "prediction-this-is-how-much-spacex-stock-will-be-worth-by-the-end-of-2027-04cde1",
-      "title": "Prediction: This Is How Much SpaceX Stock Will Be Worth By the End of 2027",
-      "dek": "SpaceX stock is surging following a blowout third-quarter earnings report.",
-      "url": "https://www.fool.com/investing/2026/10/22/prediction-this-is-how-much-spacex-stock-will-be-w/",
-      "source": "Fool",
+      "id": "efed0f8cd3f086c5",
+      "slug": "oracle-investor-day-meeting-to-be-held-october-28-2026-d6b8e5",
+      "title": "ORACLE INVESTOR DAY MEETING TO BE HELD OCTOBER 28, 2026",
+      "dek": "Oracle (NYSE: ORCL) today announced that it will hold its Investor Day Meeting at Oracle AI World, Wednesday, October 28, 2026. Oracle's Investor Day Meeting will be live at 10:55 a.m. Central Time via the Investor Relations homepage at www. Oracle.cominvestor. About OracleOracle offers integr...",
+      "url": "https://investingnews.com/oracle-investor-day-meeting-to-be-held-october-28-2026/",
+      "source": "Investing News Network (inn)",
       "sourceType": "external",
-      "image": "https://g.foolcdn.com/editorial/images/891955/gettyimages-149282224-1400x930-55f535a.jpg",
-      "publishedAt": "2026-10-22T10:30:00.000Z",
+      "image": "https://investingnews.com/media-library/image.jpg?id=50349587&width=1200",
+      "publishedAt": "2026-10-23T10:06:00.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "d82f2a7e-1a47-4008-b3f0-9679711df598",
-        "spcx",
-        "technology and telecom",
-        "investing"
+        "orcl",
+        "tech-investing",
+        "nyse-orcl"
       ],
       "priority": 42
     },
     {
-      "id": "e7394179ba18ad3d",
-      "slug": "terillium-unveils-new-ai-agents-on-oracle-fusion-applications-ai-agent-marketplace-e24493",
-      "title": "Terillium Unveils New AI Agents on Oracle Fusion Applications AI Agent Marketplace",
-      "dek": "Terillium has unveiled three AI agents on the Oracle AI Agent Marketplace designed to help Oracle Fusion Applications customers streamline procurement, supply chain planning, and accounts payable. Discover how these purpose-built AI agents can reduce manual work, improve process consistency, and bri",
-      "url": "https://aithority.com/machine-learning/terillium-unveils-new-ai-agents-on-oracle-fusion-applications-ai-agent-marketplace/",
-      "source": "Aithority",
+      "id": "721ee210cab689fc",
+      "slug": "oracle-announces-1-billion-investment-to-accelerate-partner-growth-and-ai-driven-moderni-108d03",
+      "title": "Oracle Announces $1 Billion Investment to Accelerate Partner Growth and AI-Driven Modernization for Customers",
+      "dek": "Expanded benefits and incentives provide resources to build offerings, pursue new business, and deliver customer successOracle AI World -- Oracle today announced a $1 billion commitment to its partner ecosystem to help partners capitalize on customer demand for AI-powered solutions and services. ...",
+      "url": "https://investingnews.com/oracle-announces-1-billion-investment-to-accelerate-partner-growth-and-ai-driven-modernization-for-customers/",
+      "source": "Investing News Network (inn)",
       "sourceType": "external",
-      "image": "https://aithority.com/wp-content/uploads/2026/10/7xm.xyz686546.jpg",
-      "publishedAt": "2026-10-22T10:23:40.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "ai capabilities",
-        "news",
-        "machine learning",
-        "oracle",
-        "terillium",
-        "ai"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "88c4abef14089122",
-      "slug": "cambridge-health-group-and-oracle-team-to-strengthen-healthcare-efficiency-and-patient-c-d50051",
-      "title": "Cambridge Health Group and Oracle team to strengthen healthcare efficiency and patient care",
-      "dek": "Agreement will integrate technology, data and AI across CHG's expanding healthcare network in the UAE and Saudi Arabia",
-      "url": "https://www.zawya.com/en/press-release/companies-news/cambridge-health-group-and-oracle-team-to-strengthen-healthcare-efficiency-and-patient-care-1847486",
-      "source": "Zawya",
-      "sourceType": "external",
-      "image": "https://media.lseg-dw.gcpp.io/prod/images/gm_preview/faa583875690-agreement-will-integrate-technology-data-and-ai-across-chgs-expanding-healthca.webp",
-      "publishedAt": "2026-10-22T09:54:08.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "healthcare"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "71b9558aba0ea708",
-      "slug": "harbor-adds-docker-sandboxes-to-run-reproducible-ai-agent-evals-in-isolated-microvms-77877a",
-      "title": "Harbor Adds Docker Sandboxes to Run Reproducible AI Agent Evals in Isolated MicroVMs",
-      "dek": "Docker announced that Harbor, the open-source agent evaluation framework, now works with Docker Sandboxes. This change allows each evaluation task to run in its own microVM. So, instead of sharing a container, tasks are isolated for better performance By Claudio Masolo",
-      "url": "https://www.infoq.com/news/2026/10/ai-agents-harbor-docker/",
-      "source": "Information Queue",
-      "sourceType": "external",
-      "image": "https://res.infoq.com/news/2026/10/ai-agents-harbor-docker/en/headerimage/generatedHeaderImage-1792589629439.jpg",
-      "publishedAt": "2026-10-22T09:00:00.000Z",
+      "image": "https://investingnews.com/media-library/image.jpg?id=50349587&width=1200",
+      "publishedAt": "2026-10-23T10:01:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "devops",
-        "agentic ai architecture",
-        "news",
-        "docker"
+        "orcl",
+        "tech-investing",
+        "nyse-orcl"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "968603d9068a182e",
+      "slug": "net-software-expert-bangalore-in-000342",
+      "title": ".NET Software Expert (Bangalore, IN)",
+      "dek": "Job Type: PermanentExperience Required: 10 – 15 YearsJob Location: Bangalore JOB DESCRIPTION Code, design, execute, and take complete responsibility for the delivery and maintenance of software projects/products.",
+      "url": "https://www.parking.net/parking-jobs/skidata/-net-software-expert-bangalore-in",
+      "source": "Parking Network",
+      "sourceType": "external",
+      "image": "https://www.parking.net/Upload/ContentManagersPictures/Skidata/Skidata-logo-assaabloy-480px.png",
+      "publishedAt": "2026-10-23T09:46:58.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "parking",
+        "skidata",
+        "banglore",
+        "in",
+        ".net software expert",
+        "jobs"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "6fff827ddfc28ad9",
+      "slug": "anahat-singh-next-match-date-time-head-to-head-where-to-watch-silicon-valley-open-2026-s-ac2934",
+      "title": "Anahat Singh Next Match: Date, Time, Head-to-Head, Where To Watch Silicon Valley Open 2026 Semifinal vs Sivasangari Subramaniam",
+      "dek": "Anahat Singh faces world No. 4 Sivasangari Subramaniam in the Silicon Valley Open 2026 semifinals. Check Anahat’s match time in IST, head-to-head record, and the live streaming details The post Anahat Singh Next Match: Date, Time, Head-to-Head, Where To Watch Silicon Valley Open 2026 Semifinal vs Si",
+      "url": "https://sundayguardianlive.com/sports/squash-anahat-singh-next-match-date-time-head-to-head-where-to-watch-silicon-valley-open-2026-semifinal-vs-sivasangari-subramaniam-310626/",
+      "source": "The Sunday Guardian",
+      "sourceType": "external",
+      "image": "https://sundayguardianlive.com/wp-content/uploads/2026/10/anahat-singh.png",
+      "publishedAt": "2026-10-23T08:29:37.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "sports",
+        "squash"
       ],
       "priority": 41
     },
     {
-      "id": "d92b6cf6a44bd385",
-      "slug": "rimini-street-rmni-projected-to-announce-quarterly-earnings-on-thursday-d7f228",
-      "title": "Rimini Street (RMNI) Projected to Announce Quarterly Earnings on Thursday",
-      "dek": "Rimini Street (NASDAQ:RMNI – Get Free Report) is expected to release its Q3 2026 results after the market closes on Thursday, October 29th. Analysts expect the company to announce earnings of $0.10 per share and revenue of $110.82 million for the quarter. Investors may review the information on the ",
-      "url": "https://www.watchlistnews.com/rimini-street-rmni-projected-to-announce-quarterly-earnings-on-thursday/11272978.html",
-      "source": "Watch List News",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/rimini-street-inc-logo-1200x675.jpg?v=20240522112008",
-      "publishedAt": "2026-10-22T08:43:41.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "earnings previews",
-        "investing"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "4893fc37007f451d",
-      "slug": "delinea-introduces-fastpath-mcp-server-access-risk-analysis-e398ee",
-      "title": "Delinea Introduces Fastpath MCP Server Access Risk Analysis",
-      "dek": "Delinea, the identity security platform that continuously controls what AI agents, humans, and machines can do and for how long, today announced Delinea Fastpath MCP Server, a new capability that connects access governance data to the AI assistants teams already use. Using the Model Context Protocol",
-      "url": "https://smestreet.in/technology/delinea-introduces-fastpath-mcp-server-access-risk-analysis-12719103",
-      "source": "Smestreet In",
-      "sourceType": "external",
-      "image": "https://img-cdn.publive.online/fit-in/1280x960/smstreet/media/media_files/2026/10/22/delinea-2026-10-22-13-40-20.png",
-      "publishedAt": "2026-10-22T08:28:37.000Z",
-      "topic": "Security",
-      "tags": [
-        "technology for smes",
-        "erp for smes"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "814563eb27055098",
-      "slug": "riverbed-delivers-enhanced-value-to-customers-with-riverbed-data-express-deployed-on-ora-a01ec2",
-      "title": "Riverbed Delivers Enhanced Value to Customers with Riverbed Data Express Deployed on Oracle Cloud",
-      "dek": "Riverbed achieves Oracle Validated: Oracle Cloud Infrastructure Expertise and is now available in the Oracle Marketplace Riverbed, a leader in AIOps for observability and data acceleration and an Oracle partner, announced that its AI-scale data movement platform, Riverbed Data Express, has achieved ",
-      "url": "https://aithority.com/it-and-devops/cloud/riverbed-delivers-enhanced-value-to-customers-with-riverbed-data-express-deployed-on-oracle-cloud/",
-      "source": "Aithority",
-      "sourceType": "external",
-      "image": "https://aithority.com/wp-content/uploads/2026/10/7xm.xyz651678.jpg",
-      "publishedAt": "2026-10-22T07:47:17.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "data acceleration",
-        "svp and gm",
-        "cloud",
-        "riverbed",
-        "chalan aras",
-        "machine learning"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "3ee8c5921719e098",
-      "slug": "quality-management-software-market-forecast-2033-opportunities-and-challenges-1eb330",
-      "title": "Quality Management Software Market Forecast 2033: Opportunities and Challenges",
-      "dek": "Market Overview and Projections The quality management software market is growing because companies want audit management, document control, non-conformance tracking, environmental health and safety, training [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/10/22/1778035",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
-      "publishedAt": "2026-10-22T07:39:28.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "quality management software market size",
-        "technology",
-        "quality management software market growth",
-        "quality management software market share",
-        "quality management software market forecasts",
-        "quality management software market analysis"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "016a6e994d26a663",
-      "slug": "oracle-patches-over-1-200-vulnerabilities-with-october-2026-cpu-2bd4e2",
-      "title": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
-      "dek": "Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches. The post Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU appeared first on SecurityWeek.",
-      "url": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
-      "source": "Securityweek",
-      "sourceType": "external",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/01/Oracle.jpeg",
-      "publishedAt": "2026-10-22T07:38:14.000Z",
-      "topic": "Security",
-      "tags": [
-        "patches",
-        "vulnerabilities",
-        "vulnerability",
-        "oracle cpu",
-        "oracle"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "9b68248970f5ac0e",
-      "slug": "us-data-center-power-generators-market-to-reach-usd-2-97-billion-by-2032-says-markntel-a-18cfef",
-      "title": "US Data Center Power Generators Market to Reach USD 2.97 Billion by 2032, Says Markntel Advisor",
-      "dek": "Markntel Advisor has released a comprehensive industry research report on the US Data Center Power Generators Market, presenting an evaluation of generator technologies, capacity requirements, power reliability, and competitive dynamics. The study examines how artificial intelligence (AI), cloud com",
-      "url": "https://www.openpr.com/news/4668959/us-data-center-power-generators-market-to-reach-usd-2-97-billion",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/a/La22905753_k.jpg",
-      "publishedAt": "2026-10-22T07:35:15.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "marketing research",
-        "media consulting",
-        "advertising"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "94c1185d94ef94f7",
-      "slug": "sbi-customer-data-leak-to-php-flaw-major-cybersecurity-incidents-raise-alarm-374745",
-      "title": "SBI customer data leak to PHP flaw: Major cybersecurity incidents raise alarm",
-      "dek": "A suspected SBI customer data leak, compromised eMudhra cryptographic keys and a critical PHP vulnerability are among several cybersecurity concerns reported recently.",
-      "url": "https://www.cnbctv18.com/photos/technology/sbi-customer-data-leak-to-php-flaw-major-cybersecurity-incidents-raise-alarm-20016812.htm",
-      "source": "Cnbctv18",
-      "sourceType": "external",
-      "image": "https://images.cnbctv18.com/uploads/2026/10/modified-infographic-img-0-2026-10-22t07-21-10764333-2026-10-0a2b67d0de8ebf7d2057090a769018de.jpeg",
-      "publishedAt": "2026-10-22T07:29:12.000Z",
-      "topic": "Security",
-      "tags": [
-        "latest"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "9e904a886aafb89c",
-      "slug": "delinea-gives-ai-assistants-read-only-access-to-governance-data-a4dedf",
-      "title": "Delinea gives AI assistants read-only access to governance data",
-      "dek": "Delinea has announced Delinea Fastpath MCP Server, a new capability that connects access governance data to the AI assistants teams already use. Using the Model Context Protocol (MCP), finance, IT, audit, and compliance teams can ask natural-language questions and get fine-grained, cross-application",
-      "url": "https://www.helpnetsecurity.com/2026/10/22/delinea-fastpath-mcp-server/",
-      "source": "Help Net Security",
-      "sourceType": "external",
-      "image": "https://img.helpnetsecurity.com/wp-content/uploads/2024/11/28150559/hns-large_logo.webp",
-      "publishedAt": "2026-10-22T07:17:59.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "delinea",
-        "industry news"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "0f1c4c11eb475031",
-      "slug": "certification-authority-emudhra-defends-its-laughably-weak-private-keys-the-register-ff2771",
-      "title": "Certification authority eMudhra defends its laughably weak private keys - The Register",
-      "dek": "Certification authority eMudhra defends its laughably weak private keys The Register Security Alert CVE-2026-91403 Released Oracle Blogs The Internet goes on high alert after discovery of 8 compromised TLS certs Ars Technica eMudhra security blunder left trusted CA signing keys exposed to anyone Hel",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVkFSVTNmQWx5WF8tbEF6bGtwZGptOHFsMVg3amd3cTd6WDI2ei1XWWZ3Tm9TMnN4M19sM1VhTTE1UWZnbnBrejFBNUVqb2FjRUxTbTJ4M3MzeWFoalo5ZlpVbnJEOHlhVDRhLXlwbUJ1X004NW9oY01sRzZJbmVETlNQMnhtUWp3RldrVGJnOUNZcll2b3h1eEcwbjk3QnRuTHNnMTZEdUlTdjVaV0pTeS05MW0tcmMyRmFObFRYQThSUHRtaUE?oc=5",
-      "source": "Google News",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-10-22T06:38:14.000Z",
-      "topic": "Security",
-      "tags": [
-        "CVE",
-        "Security",
-        "Certification"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "f7c3634daa4fb9a0",
-      "slug": "delinea-launches-mcp-server-to-simplify-access-governance-and-audit-readiness-1169b3",
-      "title": "Delinea launches MCP server to simplify access governance and audit readiness",
-      "dek": "Delinea has introduced Fastpath MCP Server, a capability that connects access governance data with artificial intelligence (AI) assistants. It allows finance, information technology (IT), audit, and compliance teams to query… The post Delinea launches MCP server to simplify access governance and aud",
-      "url": "https://www.cioandleader.com/delinea-launches-mcp-server-to-simplify-access-governance-and-audit-readiness/",
+      "id": "112e8acf6d045e56",
+      "slug": "enterprise-ai-will-be-defined-by-trusted-business-context-not-just-models-2663d8",
+      "title": "Enterprise AI will be defined by trusted business context, not just models",
+      "dek": "As AI moves into enterprise workflows, databases must deliver trusted context, secure access and scalable performance. Sanjeev explains how Oracle is adapting its data platform for generative and agentic AI.… The post Enterprise AI will be defined by trusted business context, not just models appeare",
+      "url": "https://www.cioandleader.com/enterprise-ai-will-be-defined-by-trusted-business-context-not-just-models/",
       "source": "Cio&leader",
       "sourceType": "external",
-      "image": "https://www.cioandleader.com/wp-content/uploads/2018/11/AI_24-3.jpg",
-      "publishedAt": "2026-10-22T06:33:15.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://www.cioandleader.com/wp-content/uploads/2026/10/Sanjeev-Chauhan-1.webp",
+      "publishedAt": "2026-10-23T08:17:00.000Z",
+      "topic": "AI & Database",
       "tags": [
-        "press release"
+        "oracle",
+        "interview",
+        "enterprise ai",
+        "ai vector",
+        "latest"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "405fc1d0be5f138a",
+      "slug": "critical-oracle-java-flaw-with-cvss-9-1-allows-unauthenticated-remote-attacks-76e079",
+      "title": "Critical Oracle Java Flaw With CVSS 9.1 Allows Unauthenticated Remote Attacks",
+      "dek": "Oracle issued a security alert for CVE-2026-91403, a critical vulnerability affecting Oracle Java SE and GraalVM. Attackers can exploit this vulnerability… Read more → The post Critical Oracle Java Flaw With CVSS 9.1 Allows Unauthenticated Remote Attacks appeared first on IT Security News.",
+      "url": "https://www.itsecuritynews.info/critical-oracle-java-flaw-with-cvss-9-1-allows-unauthenticated-remote-attacks/",
+      "source": "It Security News",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-10-23T07:04:46.000Z",
+      "topic": "Security",
+      "tags": [
+        "en"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "066b12b7994aafcd",
+      "slug": "oracle-issues-emergency-java-update-for-critical-9-1-https-trust-vulnerability-1657e1",
+      "title": "Oracle Issues Emergency Java Update for Critical 9.1 HTTPS Trust Vulnerability",
+      "dek": "Oracle has released an emergency Java security update to address CVE-2026-91403, a critical vulnerability affecting how Java applications trust digital… Read more → The post Oracle Issues Emergency Java Update for Critical 9.1 HTTPS Trust Vulnerability appeared first on IT Security News.",
+      "url": "https://www.itsecuritynews.info/oracle-issues-emergency-java-update-for-critical-9-1-https-trust-vulnerability/",
+      "source": "It Security News",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-10-23T07:04:26.000Z",
+      "topic": "Security",
+      "tags": [
+        "vulnerability",
+        "en",
+        "cyber security news",
+        "patch & updates"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "bb6ac2cc6211f531",
+      "slug": "oracle-issues-emergency-java-update-for-critical-9-1-https-trust-vulnerability-91e97c",
+      "title": "Oracle Issues Emergency Java Update for Critical 9.1 HTTPS Trust Vulnerability",
+      "dek": "Oracle has released an emergency Java security update to address CVE-2026-91403, a critical vulnerability affecting how Java applications trust digital certificates. Published on October 21, 2026, the alert assigns the flaw a CVSS 3.1 score of 9.1 and covers Oracle Java SE and GraalVM. The update bl",
+      "url": "https://cybersecuritynews.com/emergency-java-update/",
+      "source": "Cybersecuritynews",
+      "sourceType": "external",
+      "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Java-Security-Update.webp",
+      "publishedAt": "2026-10-23T06:01:47.000Z",
+      "topic": "Security",
+      "tags": [
+        "vulnerability",
+        "vulnerability news",
+        "cyber security",
+        "cyber security news"
       ],
       "priority": 39
     },
     {
-      "id": "2d07da9bcfe257c1",
-      "slug": "nvidia-cuts-ai-factory-deployment-to-14-days-with-dsx-pod-at-gtc-berlin-9d2881",
-      "title": "NVIDIA Cuts AI Factory Deployment to 14 Days With DSX POD at GTC Berlin",
-      "dek": "NVIDIA DSX POD cuts AI factory site-connection from six months to 14 days by completing all rack cabling and cooling integration before shipment, Jensen Huang announced at GTC Berlin 2026. The 14-day window applies only once a site is ready; facility prep remains the customer's work. NVIDIA also unv",
-      "url": "https://www.techtimes.com/articles/329381/20261022/nvidia-cuts-ai-factory-deployment-14-days-dsx-pod-gtc-berlin.htm",
-      "source": "Techtimes",
+      "id": "85189c50546c239b",
+      "slug": "bloom-energy-be-q3-2026-earnings-call-transcript-141ba6",
+      "title": "Bloom Energy (BE) Q3 2026 Earnings Call Transcript",
+      "dek": "Revenue surged 138% as hyperscalers ramp distributed power adoption.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/bloom-energy-be-q3-2026-earnings-call-transcript/",
+      "source": "Fool",
       "sourceType": "external",
-      "image": "https://d.techtimes.com/en/full/453547/nvidia.jpg",
-      "publishedAt": "2026-10-22T06:15:24.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/b4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg",
+      "publishedAt": "2026-10-23T00:38:39.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "computers"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "bd49a5b05d8f873a",
-      "slug": "ltm-launches-blueverse-valuemesh-to-help-enterprises-scale-ai-across-oracle-transformati-175fe3",
-      "title": "LTM Launches BlueVerse™ ValueMesh™ to Help Enterprises Scale AI Across Oracle Transformations",
-      "dek": "MUMBAI, India--(Business Wire/Korea Newswire)--LTM, the Business Creativity partner to the world’s largest enterprises, today announced the launch of BlueVerse™ ValueMesh™, an AI execution fabric designed to help enterprises industrialize AI acros...",
-      "url": "https://www.newswire.co.kr/newsRead.php?no=1045308&sourceType=rss",
-      "source": "Newswire",
-      "sourceType": "external",
-      "image": "https://file.newswire.co.kr/data/upfile/company_img/thumb_480/2026/03/31017998_20260306144008_4062603795.jpg",
-      "publishedAt": "2026-10-22T05:00:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "AI",
-        "Partner"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "4f9cee2138d33980",
-      "slug": "rimini-street-conference-ai-managed-services-drive-erp-modernization-push-74372d",
-      "title": "Rimini Street Conference: AI, Managed Services Drive ERP Modernization Push",
-      "dek": "Rimini Street (NASDAQ:RMNI) outlined its strategy to expand beyond third-party enterprise software support by helping customers modernize existing ERP environments with managed services, integrations and artificial intelligence tools, according to comments from CFO Michael Perica and VP and Treasure",
-      "url": "https://www.dailypolitical.com/2026/10/21/rimini-street-conference-ai-managed-services-drive-erp-modernization-push.html",
-      "source": "Daily Political",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/rimini-street-inc-logo-1200x675.jpg?v=20240522112008",
-      "publishedAt": "2026-10-22T00:04:48.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "partner feed articles",
-        "finance"
+        "earningscall-transcripts",
+        "eeda4c30-a1a3-433c-a06f-2e6c6eb3952f",
+        "be"
       ],
       "priority": 36
     },
@@ -2007,6 +1857,136 @@
       "topic": "Oracle Cloud",
       "tags": [
         "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "1d3aa287378f7e71",
+      "slug": "basics-of-kubernetes-23e26c",
+      "title": "Basics of Kubernetes",
+      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
+      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-18T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ec54bf5b81f570ed",
+      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
+      "title": "Oracle Cloud Infrastructure Registry",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-11T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "OCI",
+        "Oracle Cloud Infrastructure"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "6ba1bee89c8a91cc",
+      "slug": "what-is-containerization-0326f4",
+      "title": "What is Containerization?",
+      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-04T14:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "OCI",
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "b45e3d006fc93558",
+      "slug": "encore-episode-oci-ai-services-5e7f50",
+      "title": "Encore Episode: OCI AI Services",
+      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-28T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "57fe9154d1531745",
+      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
+      "title": "Encore Episode: Generative AI and Large Language Models",
+      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-14T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "60d141d1ef069450",
+      "slug": "encore-episode-deep-learning-fe981b",
+      "title": "Encore Episode: Deep Learning",
+      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-07T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "311a8fe7e2892283",
+      "slug": "encore-episode-machine-learning-ee26a4",
+      "title": "Encore Episode: Machine Learning",
+      "dek": "Does machine learning feel like too convoluted a topic? Not anymore! Listen to hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Hemant Gahankari, talk about foundational machine learning concepts and dive into how supervised learning, unsupervised learning, and reinf",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-machine-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-30T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "4589098868999fde",
+      "slug": "encore-episode-introduction-to-artificial-intelligence-ai-9e755a",
+      "title": "Encore Episode: Introduction to Artificial Intelligence (AI)",
+      "dek": "You probably interact with artificial intelligence (AI) more than you realize. So, there's never been a better time to start figuring out how it all works. Join Lois Houston and Nikita Abraham as they decode the fundamentals of AI so that anyone, irrespective of their technical background, can lever",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-introduction-to-artificial-intelligence-ai",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-23T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
       ],
       "priority": 36
     }
