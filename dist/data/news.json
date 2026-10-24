@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T23:15:41.330Z",
+  "generatedAt": "2026-10-24T22:35:49.469Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,215 +7,174 @@
   },
   "items": [
     {
-      "id": "0210bafe3ba7608b",
-      "slug": "can-blockchain-solve-ev-battery-swapping-s-trust-problem-fe8f96",
-      "title": "Can Blockchain Solve EV Battery Swapping’s Trust Problem?",
-      "dek": "Battery swapping promises to make replenishing an electric vehicle feel more like refuelling a conventional car. Instead of waiting for a battery to recharge, drivers exchange a depleted pack for a charged one. But that convenience introduces a question: how can someone trust a battery they have nev",
-      "url": "https://www.securities.io/ev-battery-swapping-blockchain-trust/",
-      "source": "Securities Io",
+      "id": "7513740446442eaf",
+      "slug": "tiktok-us-seeks-four-gigawatts-of-computing-capacity-as-ai-infrastructure-demand-surges-d033cc",
+      "title": "TikTok US Seeks Four Gigawatts of Computing Capacity as AI Infrastructure Demand Surges",
+      "dek": "TikTok’s US business is seeking to secure as much as four gigawatts of computing capacity by the early 2030s, positioning the social media platform among companies competing for long-term access to the infrastructure needed to support artificial intelligence and increasingly demanding digital servic",
+      "url": "https://www.tekedia.com/tiktok-us-seeks-four-gigawatts-of-computing-capacity-as-ai-infrastructure-demand-surges/",
+      "source": "Tekedia",
       "sourceType": "external",
-      "image": "https://www.securities.io/wp-content/uploads/2026/10/af54b751-f028-4f28-974e-af3eaf39708f.png",
-      "publishedAt": "2026-10-23T10:54:54.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 43
-    },
-    {
-      "id": "ae6ddca9d80ab835",
-      "slug": "infosys-differentiated-ai-strategy-and-a-sharp-focus-on-value-unlock-propels-29-sequenti-86b5ca",
-      "title": "Infosys:Differentiated AI strategy and a sharp focus on value unlock propels 29% sequential growth in AI revenues",
-      "dek": "Robust Q2 large deal TCV at $5.2 billion with 62% net new; lays solid foundation for future growth FY 27 revenue guidance revised to 1%-2% and margin guidance retained at 20%-22% www.infosys.com/\" target=\"_blank\" rel=\"nofollow\">www.infosys.com/en.html\" target=\"_blank\" rel=\"nofollow\">Infosys (NSE...",
-      "url": "https://investingnews.com/infosys-differentiated-ai-strategy-and-a-sharp-focus-on-value-unlock-propels-29-sequential-growth-in-ai-revenues/",
-      "source": "Investing News Network (inn)",
-      "sourceType": "external",
-      "image": "https://investingnews.com/media-library/image.gif?id=31699902&width=1200",
-      "publishedAt": "2026-10-23T10:34:00.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://www.tekedia.com/wp-content/uploads/2026/02/tiktok.jpg",
+      "publishedAt": "2026-10-24T09:28:01.000Z",
+      "topic": "Oracle Cloud",
       "tags": [
-        "infy",
-        "nyse-infy"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "cc814dd6b9a5dd19",
-      "slug": "big-tech-can-t-stop-ai-spending-but-the-cash-is-running-out-860350",
-      "title": "Big Tech Can't Stop AI Spending, but the Cash Is Running Out",
-      "dek": "Meta's $825 billion AI infrastructure commitment has squeezed funding across Big Tech, with OpenAI and Anthropic pushing ahead with IPOs.",
-      "url": "https://en.sedaily.com/international/2026/10/23/big-tech-cant-stop-ai-spending-but-the-cash-is-running-out",
-      "source": "서울경제",
-      "sourceType": "external",
-      "image": "https://wimg.sedaily.com/news/cms/2026/10/23/rcv.YNA.20261022.PRU20261022241501009_P1.jpg",
-      "publishedAt": "2026-10-23T10:13:19.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "international"
+        "latest insights | news"
       ],
       "priority": 42
     },
     {
-      "id": "efed0f8cd3f086c5",
-      "slug": "oracle-investor-day-meeting-to-be-held-october-28-2026-d6b8e5",
-      "title": "ORACLE INVESTOR DAY MEETING TO BE HELD OCTOBER 28, 2026",
-      "dek": "Oracle (NYSE: ORCL) today announced that it will hold its Investor Day Meeting at Oracle AI World, Wednesday, October 28, 2026. Oracle's Investor Day Meeting will be live at 10:55 a.m. Central Time via the Investor Relations homepage at www. Oracle.cominvestor. About OracleOracle offers integr...",
-      "url": "https://investingnews.com/oracle-investor-day-meeting-to-be-held-october-28-2026/",
-      "source": "Investing News Network (inn)",
+      "id": "9fe6e9c38e8bc725",
+      "slug": "healthtech-leaders-fixing-healthcare-ai-s-data-problem-51103d",
+      "title": "Healthtech Leaders Fixing Healthcare AI’s Data Problem",
+      "dek": "A person’s medical history is rarely stored in just one place. Instead, it is scattered across different clinic computers, lab systems, and hospital databases that do not talk to each other. This makes it hard for artificial intelligence (AI) tools to give accurate advice, because AI needs a complet",
+      "url": "https://www.fmlive.in/healthtech-leaders-fixing-healthcare-ais-data-problem/",
+      "source": "Fm Live",
       "sourceType": "external",
-      "image": "https://investingnews.com/media-library/image.jpg?id=50349587&width=1200",
-      "publishedAt": "2026-10-23T10:06:00.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "orcl",
-        "tech-investing",
-        "nyse-orcl"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "721ee210cab689fc",
-      "slug": "oracle-announces-1-billion-investment-to-accelerate-partner-growth-and-ai-driven-moderni-108d03",
-      "title": "Oracle Announces $1 Billion Investment to Accelerate Partner Growth and AI-Driven Modernization for Customers",
-      "dek": "Expanded benefits and incentives provide resources to build offerings, pursue new business, and deliver customer successOracle AI World -- Oracle today announced a $1 billion commitment to its partner ecosystem to help partners capitalize on customer demand for AI-powered solutions and services. ...",
-      "url": "https://investingnews.com/oracle-announces-1-billion-investment-to-accelerate-partner-growth-and-ai-driven-modernization-for-customers/",
-      "source": "Investing News Network (inn)",
-      "sourceType": "external",
-      "image": "https://investingnews.com/media-library/image.jpg?id=50349587&width=1200",
-      "publishedAt": "2026-10-23T10:01:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "orcl",
-        "tech-investing",
-        "nyse-orcl"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "968603d9068a182e",
-      "slug": "net-software-expert-bangalore-in-000342",
-      "title": ".NET Software Expert (Bangalore, IN)",
-      "dek": "Job Type: PermanentExperience Required: 10 – 15 YearsJob Location: Bangalore JOB DESCRIPTION Code, design, execute, and take complete responsibility for the delivery and maintenance of software projects/products.",
-      "url": "https://www.parking.net/parking-jobs/skidata/-net-software-expert-bangalore-in",
-      "source": "Parking Network",
-      "sourceType": "external",
-      "image": "https://www.parking.net/Upload/ContentManagersPictures/Skidata/Skidata-logo-assaabloy-480px.png",
-      "publishedAt": "2026-10-23T09:46:58.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "parking",
-        "skidata",
-        "banglore",
-        "in",
-        ".net software expert",
-        "jobs"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "6fff827ddfc28ad9",
-      "slug": "anahat-singh-next-match-date-time-head-to-head-where-to-watch-silicon-valley-open-2026-s-ac2934",
-      "title": "Anahat Singh Next Match: Date, Time, Head-to-Head, Where To Watch Silicon Valley Open 2026 Semifinal vs Sivasangari Subramaniam",
-      "dek": "Anahat Singh faces world No. 4 Sivasangari Subramaniam in the Silicon Valley Open 2026 semifinals. Check Anahat’s match time in IST, head-to-head record, and the live streaming details The post Anahat Singh Next Match: Date, Time, Head-to-Head, Where To Watch Silicon Valley Open 2026 Semifinal vs Si",
-      "url": "https://sundayguardianlive.com/sports/squash-anahat-singh-next-match-date-time-head-to-head-where-to-watch-silicon-valley-open-2026-semifinal-vs-sivasangari-subramaniam-310626/",
-      "source": "The Sunday Guardian",
-      "sourceType": "external",
-      "image": "https://sundayguardianlive.com/wp-content/uploads/2026/10/anahat-singh.png",
-      "publishedAt": "2026-10-23T08:29:37.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "sports",
-        "squash"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "112e8acf6d045e56",
-      "slug": "enterprise-ai-will-be-defined-by-trusted-business-context-not-just-models-2663d8",
-      "title": "Enterprise AI will be defined by trusted business context, not just models",
-      "dek": "As AI moves into enterprise workflows, databases must deliver trusted context, secure access and scalable performance. Sanjeev explains how Oracle is adapting its data platform for generative and agentic AI.… The post Enterprise AI will be defined by trusted business context, not just models appeare",
-      "url": "https://www.cioandleader.com/enterprise-ai-will-be-defined-by-trusted-business-context-not-just-models/",
-      "source": "Cio&leader",
-      "sourceType": "external",
-      "image": "https://www.cioandleader.com/wp-content/uploads/2026/10/Sanjeev-Chauhan-1.webp",
-      "publishedAt": "2026-10-23T08:17:00.000Z",
+      "image": "https://www.fmlive.in/wp-content/uploads/2026/10/Zc-cas.png",
+      "publishedAt": "2026-10-24T08:33:36.000Z",
       "topic": "AI & Database",
       "tags": [
-        "oracle",
-        "interview",
-        "enterprise ai",
-        "ai vector",
-        "latest"
+        "technology"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "2eb84d3a02a3106d",
+      "slug": "be-stock-sees-worst-single-day-fall-in-3-months-jefferies-trims-price-target-flags-lack--31a46a",
+      "title": "BE Stock Sees Worst Single-Day Fall In 3 Months — Jefferies Trims Price Target, Flags Lack Of Updates On Its Largest Opportunity With Oracle",
+      "dek": "According to TheFly, Jefferies analyst Julien Dumoulin-Smith lowered the firm's price target on Bloom Energy to $242 from $289 while maintaining a ‘Hold’ rating on the shares.",
+      "url": "https://newsable.asianetnews.com/markets/be-stock-sees-worst-single-day-fall-in-3-months-jefferies-trims-price-target-flags-lack-of-updates-on-its-largest-opportunity-with-oracle-articleshow-u64nmob",
+      "source": "Asianet Newsable",
+      "sourceType": "external",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-892215b3-5961-407f-8b82-1bdd8b363987.webp",
+      "publishedAt": "2026-10-24T08:30:06.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "markets"
       ],
       "priority": 41
     },
     {
-      "id": "405fc1d0be5f138a",
-      "slug": "critical-oracle-java-flaw-with-cvss-9-1-allows-unauthenticated-remote-attacks-76e079",
-      "title": "Critical Oracle Java Flaw With CVSS 9.1 Allows Unauthenticated Remote Attacks",
-      "dek": "Oracle issued a security alert for CVE-2026-91403, a critical vulnerability affecting Oracle Java SE and GraalVM. Attackers can exploit this vulnerability… Read more → The post Critical Oracle Java Flaw With CVSS 9.1 Allows Unauthenticated Remote Attacks appeared first on IT Security News.",
-      "url": "https://www.itsecuritynews.info/critical-oracle-java-flaw-with-cvss-9-1-allows-unauthenticated-remote-attacks/",
-      "source": "It Security News",
+      "id": "857ca506c0b1bb78",
+      "slug": "alibaba-group-holding-limited-baba-stock-acquired-by-axxcess-wealth-management-llc-c1ed93",
+      "title": "Alibaba Group Holding Limited $BABA Stock Acquired by Axxcess Wealth Management LLC",
+      "dek": "Axxcess Wealth Management LLC lifted its holdings in shares of Alibaba Group Holding Limited (NYSE:BABA – Free Report) by 88.2% during the 3rd quarter, Holdings Channel.com reports. The fund owned 13,058 shares of the specialty retailer’s stock after buying an additional 6,121 shares during the peri",
+      "url": "https://www.americanbankingnews.com/2026/10/24/alibaba-group-holding-limited-baba-stock-acquired-by-axxcess-wealth-management-llc.html",
+      "source": "Americanbankingnews",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-10-23T07:04:46.000Z",
-      "topic": "Security",
+      "image": "https://www.marketbeat.com/logos/alibaba-group-holding-limited-logo-1200x675.png?v=20221020143329",
+      "publishedAt": "2026-10-24T07:26:51.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "en"
+        "market news",
+        "sec filing articles"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "64c30e4dc1a488d5",
+      "slug": "astrazeneca-and-cleveland-clinic-abu-dhabi-team-up-for-50-million-clinical-trials-action-976263",
+      "title": "AstraZeneca and Cleveland Clinic Abu Dhabi team up for $50 million clinical trials action plan",
+      "dek": "Studies poised to start this year aimed at boosting research into cardiovascular, renal and metabolic diseases",
+      "url": "https://www.thenationalnews.com/news/uae/2026/10/24/astrazeneca-and-cleveland-clinic-abu-dhabi-team-up-for-50-million-clinical-trials-action-plan/",
+      "source": "The National",
+      "sourceType": "external",
+      "image": "https://www.thenationalnews.com/resizer/v2/MKQMFEPM7CFV4RT63OHLMG656I.jpg?auth=9c712c706fec9604c98d5e751ea82b861dafac6fa98121c8bfd6a5a5c5730063&smart=true&width=1920&height=1260",
+      "publishedAt": "2026-10-24T07:07:36.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "uae desk team",
+        "standard",
+        "story"
       ],
       "priority": 40
     },
     {
-      "id": "066b12b7994aafcd",
-      "slug": "oracle-issues-emergency-java-update-for-critical-9-1-https-trust-vulnerability-1657e1",
-      "title": "Oracle Issues Emergency Java Update for Critical 9.1 HTTPS Trust Vulnerability",
-      "dek": "Oracle has released an emergency Java security update to address CVE-2026-91403, a critical vulnerability affecting how Java applications trust digital… Read more → The post Oracle Issues Emergency Java Update for Critical 9.1 HTTPS Trust Vulnerability appeared first on IT Security News.",
-      "url": "https://www.itsecuritynews.info/oracle-issues-emergency-java-update-for-critical-9-1-https-trust-vulnerability/",
-      "source": "It Security News",
+      "id": "c51551eb17ecc472",
+      "slug": "crexendo-eyes-100m-run-rate-as-ai-acquisitions-fuel-ucaas-growth-06c20e",
+      "title": "Crexendo Eyes $100M Run Rate as AI, Acquisitions Fuel UCaaS Growth",
+      "dek": "Crexendo (NASDAQ:CXDO) President and COO Doug Gaylor outlined the company’s growth strategy, financial performance and artificial-intelligence product initiatives during a presentation at the LD Micro conference. Gaylor said Crexendo operates as a unified communications-as-a-service, or UCaaS, provi",
+      "url": "https://www.watchlistnews.com/crexendo-eyes-100m-run-rate-as-ai-acquisitions-fuel-ucaas-growth/11277728.html",
+      "source": "Watch List News",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-10-23T07:04:26.000Z",
-      "topic": "Security",
+      "image": "https://www.marketbeat.com/logos/crexendo-inc-logo-1200x675.png?v=20230106145921",
+      "publishedAt": "2026-10-24T05:02:01.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "vulnerability",
-        "en",
-        "cyber security news",
-        "patch & updates"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "bb6ac2cc6211f531",
-      "slug": "oracle-issues-emergency-java-update-for-critical-9-1-https-trust-vulnerability-91e97c",
-      "title": "Oracle Issues Emergency Java Update for Critical 9.1 HTTPS Trust Vulnerability",
-      "dek": "Oracle has released an emergency Java security update to address CVE-2026-91403, a critical vulnerability affecting how Java applications trust digital certificates. Published on October 21, 2026, the alert assigns the flaw a CVSS 3.1 score of 9.1 and covers Oracle Java SE and GraalVM. The update bl",
-      "url": "https://cybersecuritynews.com/emergency-java-update/",
-      "source": "Cybersecuritynews",
-      "sourceType": "external",
-      "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Java-Security-Update.webp",
-      "publishedAt": "2026-10-23T06:01:47.000Z",
-      "topic": "Security",
-      "tags": [
-        "vulnerability",
-        "vulnerability news",
-        "cyber security",
-        "cyber security news"
+        "investing",
+        "partner feed articles"
       ],
       "priority": 39
     },
     {
-      "id": "85189c50546c239b",
-      "slug": "bloom-energy-be-q3-2026-earnings-call-transcript-141ba6",
-      "title": "Bloom Energy (BE) Q3 2026 Earnings Call Transcript",
-      "dek": "Revenue surged 138% as hyperscalers ramp distributed power adoption.",
-      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/22/bloom-energy-be-q3-2026-earnings-call-transcript/",
-      "source": "Fool",
+      "id": "5eadc8f1c25b9482",
+      "slug": "oracle-commits-1-billion-to-partners-and-expands-marketplace-access-b11ae4",
+      "title": "Oracle commits $1 billion to partners and expands Marketplace access",
+      "dek": "Oracle announced a $1 billion commitment to its partner network over the next four years on October 23, pairing expanded training and sales incentives with Marketplace changes aimed at increasing purchases of partner-built software and artificial-intelligence services. The New York Stock Exchange-li",
+      "url": "https://finchannel.com/oracle-commits-1-billion-to-partners-and-expands-marketplace-access/139248/american-business-trends/2026/10/",
+      "source": "Finchannel",
       "sourceType": "external",
-      "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/b4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg",
-      "publishedAt": "2026-10-23T00:38:39.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://finchannel.com/wp-content/uploads/2026/09/Oracle-Layoffs.jpeg",
+      "publishedAt": "2026-10-24T04:56:20.000Z",
+      "topic": "Training & Certification",
       "tags": [
-        "earningscall-transcripts",
-        "eeda4c30-a1a3-433c-a06f-2e6c6eb3952f",
-        "be"
+        "business"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "d4bc11024f201e93",
+      "slug": "why-ai-data-centers-are-powering-a-boom-in-fuel-cell-demand-71c8ce",
+      "title": "Why AI data centers are powering a boom in fuel-cell demand",
+      "dek": "A fuel cell generates electricity through a chemical reaction between a fuel, such as natural gas or hydrogen, and oxygen, converting the fuel's energy directly into electricity rather than burning it.",
+      "url": "https://economictimes.indiatimes.com/tech/technology/why-ai-data-centers-are-powering-a-boom-in-fuel-cell-demand/articleshow/135161365.cms",
+      "source": "The Economic Times",
+      "sourceType": "external",
+      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-172240,resizemode-75,msid-135161365/tech/technology/why-ai-data-centers-are-powering-a-boom-in-fuel-cell-demand.jpg",
+      "publishedAt": "2026-10-24T03:56:47.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "oracle",
+        "data center capacity",
+        "fuel cells",
+        "bloom energy",
+        "on-site power sources",
+        "ai data centers"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "bd43e39b245a1a3d",
+      "slug": "hunting-replication-lag-a-queue-by-queue-method-for-diagnosing-oracle-goldengate-7f2c73",
+      "title": "Hunting Replication Lag: A Queue-by-Queue Method for Diagnosing Oracle GoldenGate",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.bundle.app/en/technology/hunting-replication-lag-a-queue-by-queue-method-for-diagnosing-oracle-goldengate-15760A85-29A8-5E09-993D-A0564D052A2D",
+      "source": "Bundle",
+      "sourceType": "external",
+      "image": "https://static.bundle.app/news/4368841d-e6d4-5f2e-b6f2-0e1340a01495.jpg",
+      "publishedAt": "2026-10-23T23:02:41.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "004da4525c1c7c59",
+      "slug": "three-insights-you-may-have-missed-from-thecube-s-coverage-of-oracle-s-ai-cyberattacks-a-f15650",
+      "title": "Three insights you may have missed from theCUBE’s coverage of Oracle’s “AI Cyberattacks Are Escalating: How to Secure Your Data Now” virtual event",
+      "dek": "Agentic AI security is testing where enterprises place their trust as software gains the ability to access sensitive data and act on users’ behalf. The challenge extends from controlling individual requests to governing actions that can span multiple systems and business processes. That expanding re",
+      "url": "https://siliconangle.com/2026/10/23/three-insights-agentic-ai-security-cyber-resilience-oracleaicybersecurity/",
+      "source": "Siliconangle",
+      "sourceType": "external",
+      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/untitled-11.jpg",
+      "publishedAt": "2026-10-23T22:58:48.000Z",
+      "topic": "Security",
+      "tags": [
+        "roger cornejo",
+        "rsa security",
+        "identity management",
+        "davie knox",
+        "oracle deep data security",
+        "cyber resilience"
       ],
       "priority": 36
     },
@@ -1988,6 +1947,34 @@
       "tags": [
         "AI"
       ],
+      "priority": 36
+    },
+    {
+      "id": "ba70f7a05b875a4b",
+      "slug": "using-ords-to-make-your-adb-data-available-in-vbs-061acb",
+      "title": "Using ORDS to Make Your ADB Data Available in VBS",
+      "dek": "Visual Builder Studio requires its data sources to connect to the webpage it produces using REST calls. Therefore, the data source has to provide a REST interface. A simple, easy, secure, and free way to do that is with Oracle REST Data Services (ORDS). In this episode, hosts Lois Houston and Nikita",
+      "url": "https://oracleuniversitypodcast.libsyn.com/using-ords-to-make-your-adb-data-available-in-vbs",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-16T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "967d33e1489de57e",
+      "slug": "forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today-f03edc",
+      "title": "Forgotten, But Not Gone: How Model-Based Development Is Still Alive and Well Today",
+      "dek": "Computer Aided Software Engineering (CASE) tools, which helped make the analysis, design, and implementation phases of software development better, faster, and cheaper, fell out of favor in the mid-'90s. Yet much of what they have to offer remains and is in active use within different Oracle tools. ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/-forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-09T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
       "priority": 36
     }
   ]
