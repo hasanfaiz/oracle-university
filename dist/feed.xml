@@ -6,106 +6,286 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 22:40:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 23:57:16 GMT</lastBuildDate>
     
     <item>
-      <title>Oracle Corporation $ORCL Stock: Mountain Hill Investment Partners Corp. Grows Holdings</title>
-      <link>https://oracle-university.com/stories/oracle-corporation-orcl-stock-mountain-hill-investment-partners-corp-grows-holdings-4b0050/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-stock-mountain-hill-investment-partners-corp-grows-holdings-4b0050/</guid>
-      <pubDate>Sun, 25 Oct 2026 10:27:37 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Mountain Hill Investment Partners Corp. grew its position in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 140.5% during the 3rd quarter, HoldingsChannel.com reports. The firm owned 125,403 shares of the enterprise software provider’s stock after buying an additional 73,255 shares during</description>
-      <source url="https://www.tickerreport.com/banking-finance/13636077/oracle-corporation-orcl-stock-mountain-hill-investment-partners-corp-grows-holdings.html">Ticker Report</source>
-    </item>
-    <item>
-      <title>Oracle Corporation $ORCL Stock Position Lifted by Mountain Hill Investment Partners Corp.</title>
-      <link>https://oracle-university.com/stories/oracle-corporation-orcl-stock-position-lifted-by-mountain-hill-investment-partners-corp-e45a86/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-stock-position-lifted-by-mountain-hill-investment-partners-corp-e45a86/</guid>
-      <pubDate>Sun, 25 Oct 2026 10:27:36 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Mountain Hill Investment Partners Corp. raised its position in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 140.5% in the 3rd quarter, according to the company in its most recent disclosure with the Securities &amp; Exchange Commission. The firm owned 125,403 shares of the enterprise softwa</description>
-      <source url="https://www.dailypolitical.com/2026/10/25/oracle-corporation-orcl-stock-position-lifted-by-mountain-hill-investment-partners-corp.html">Daily Political</source>
-    </item>
-    <item>
-      <title>SI vs. AI: Super Intelligence Anomaly Outbreaks Trump’d by Clinton Legacy Tech (Veterans First ...</title>
-      <link>https://oracle-university.com/stories/si-vs-ai-super-intelligence-anomaly-outbreaks-trump-d-by-clinton-legacy-tech-veterans-fi-8237e7/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/si-vs-ai-super-intelligence-anomaly-outbreaks-trump-d-by-clinton-legacy-tech-veterans-fi-8237e7/</guid>
-      <pubDate>Sun, 25 Oct 2026 10:25:36 GMT</pubDate>
+      <title>TechBooky Intelligence Launches With a New Look at Africa’s Tech Economy</title>
+      <link>https://oracle-university.com/stories/techbooky-intelligence-launches-with-a-new-look-at-africa-s-tech-economy-e3c7c5/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/techbooky-intelligence-launches-with-a-new-look-at-africa-s-tech-economy-e3c7c5/</guid>
+      <pubDate>Mon, 26 Oct 2026 11:32:00 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Will California’s May ’27 AI Safety Mandate Collide with DFARS Frameworks (AI vs. SI?)—Military Tech Veterans Advise IT Corp Giants to Reconsider Software Defenses</description>
-      <source url="https://www.hastingstribune.com/ap/business/si-vs-ai-super-intelligence-anomaly-outbreaks-trump-d-by-clinton-legacy-tech-veterans-first/article_04aefb03-9193-59a9-9876-1f9e7961981d.html">Hastingstribune</source>
+      <description>Africa’s technology economy is often described with one big number. Funding rises or falls, a new cable lands, or a government announces an AI strategy, and the entire continent is made to sound as though it has moved in the same direction. The reality is more complicated. TechBooky is launching Tec</description>
+      <source url="https://www.techbooky.com/techbooky-intelligence-launches-with-a-new-look-at-africas-tech-economy/">Techbooky</source>
     </item>
     <item>
-      <title>Alibaba Group (NYSE:BABA) Stock Falls 2.2% – Time to Sell?</title>
-      <link>https://oracle-university.com/stories/alibaba-group-nyse-baba-stock-falls-2-2-time-to-sell-0941fc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/alibaba-group-nyse-baba-stock-falls-2-2-time-to-sell-0941fc/</guid>
-      <pubDate>Sun, 25 Oct 2026 10:11:11 GMT</pubDate>
+      <title>SoftBank weighs a $50 billion AI bet on Malaysia, equal to a tenth of the country’s GDP</title>
+      <link>https://oracle-university.com/stories/softbank-weighs-a-50-billion-ai-bet-on-malaysia-equal-to-a-tenth-of-the-country-s-gdp-f569b7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/softbank-weighs-a-50-billion-ai-bet-on-malaysia-equal-to-a-tenth-of-the-country-s-gdp-f569b7/</guid>
+      <pubDate>Mon, 26 Oct 2026 11:31:17 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Malaysia has recorded $94B of data-center investments between 2021 and mid-2026; Softbank’s investment plan would lift that total by more than half.</description>
+      <source url="https://fortune.com/2026/10/26/softbank-malaysia-50-billion-ai-investment/">Fortune</source>
+    </item>
+    <item>
+      <title>Mastering Java Development in Visual Studio Code</title>
+      <link>https://oracle-university.com/stories/mastering-java-development-in-visual-studio-code-8ca7ac/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/mastering-java-development-in-visual-studio-code-8ca7ac/</guid>
+      <pubDate>Mon, 26 Oct 2026 11:29:50 GMT</pubDate>
+      <category>Java &amp; MySQL</category>
+      <description>Unlock full Java power in VS Code. Learn about Oracle&#39;s extension, Red Hat support, JDK setup, and pro tips to boost your coding productivity. The post Mastering Java Development in Visual Studio Code appeared first on SourceTrail.</description>
+      <source url="https://www.sourcetrail.com/java/mastering-java-development-in-visual-studio-code/">Sourcetrail</source>
+    </item>
+    <item>
+      <title>Balancing Oracle’s Backlog Against Its Balance Sheet</title>
+      <link>https://oracle-university.com/stories/balancing-oracle-s-backlog-against-its-balance-sheet-6ff2f6/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/balancing-oracle-s-backlog-against-its-balance-sheet-6ff2f6/</guid>
+      <pubDate>Mon, 26 Oct 2026 11:15:06 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Shares of Alibaba Group Holding Limited (NYSE:BABA – Get Free Report) were down 2.2% during trading on Friday. The stock traded as low as $99.46 and last traded at $99.6210. 8,968,391 shares were traded during trading, a decline of 22% from the average daily volume of 11,478,985 shares. The stock ha</description>
-      <source url="https://www.watchlistnews.com/alibaba-group-nysebaba-stock-falls-2-2-time-to-sell/11279101.html">Watch List News</source>
+      <description>Oracle is sitting on a record AI backlog that analysts say could justify nearly doubling the stock price, yet the company just posted negative free cash flow and its CFO cannot say when that changes. Something has to give.</description>
+      <source url="https://247wallst.com/investing/2026/10/26/balancing-oracles-backlog-against-its-balance-sheet/">24/7 Wall St</source>
     </item>
     <item>
-      <title>Tech Layoffs 2026: Job cuts near 2 lakh globally as big tech like Microsoft, Google, Oracle, Meta &amp; more pivot to AI</title>
-      <link>https://oracle-university.com/stories/tech-layoffs-2026-job-cuts-near-2-lakh-globally-as-big-tech-like-microsoft-google-oracle-9e0357/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/tech-layoffs-2026-job-cuts-near-2-lakh-globally-as-big-tech-like-microsoft-google-oracle-9e0357/</guid>
-      <pubDate>Sun, 25 Oct 2026 09:27:13 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Tech companies are utilising job cuts to demonstrate a commitment to margin expansion, pushing stock prices higher even as they announce internal restructuring.</description>
-      <source url="https://www.livemint.com/technology/tech-news/tech-layoffs-2026-job-cuts-near-2-lakh-globally-as-big-tech-like-microsoft-google-oracle-meta-more-pivot-to-ai-11792917241824.html">Mint</source>
+      <title>Oracle Invests $1 Billion to Support AI Innovation and Customer Transformation Through Partners</title>
+      <link>https://oracle-university.com/stories/oracle-invests-1-billion-to-support-ai-innovation-and-customer-transformation-through-pa-602b32/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-invests-1-billion-to-support-ai-innovation-and-customer-transformation-through-pa-602b32/</guid>
+      <pubDate>Mon, 26 Oct 2026 11:14:02 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Enterprise software and cloud titan Oracle has committed to investing a billion dollars over many years to support its partner ecosystem. The announcement came through Oracle AI World conference and involves expanding the OPN initiative to enable GSIs, ISVs, and MSPs create, market, and deploy AI an</description>
+      <source url="https://itdigest.com/information-technology/oracle-invests-1-billion-to-support-ai-innovation-and-customer-transformation-through-partners/">Itdigest</source>
     </item>
     <item>
-      <title>Oracle Corporation $ORCL Stock Acquired by Evergreen Capital Management LLC</title>
-      <link>https://oracle-university.com/stories/oracle-corporation-orcl-stock-acquired-by-evergreen-capital-management-llc-3b4b1c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-stock-acquired-by-evergreen-capital-management-llc-3b4b1c/</guid>
-      <pubDate>Sun, 25 Oct 2026 08:41:12 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Evergreen Capital Management LLC raised its holdings in Oracle Corporation (NYSE:ORCL – Free Report) by 32.1% during the 3rd quarter, according to the company in its most recent disclosure with the SEC. The firm owned 125,484 shares of the enterprise software provider’s stock after buying an additio</description>
-      <source url="https://www.defenseworld.net/2026/10/25/oracle-corporation-orcl-stock-acquired-by-evergreen-capital-management-llc.html">Defenseworld Net</source>
-    </item>
-    <item>
-      <title>4,723 Oracle Corporation $ORCL Shares Acquired by Gibbs Wealth Management</title>
-      <link>https://oracle-university.com/stories/4-723-oracle-corporation-orcl-shares-acquired-by-gibbs-wealth-management-fff5c2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/4-723-oracle-corporation-orcl-shares-acquired-by-gibbs-wealth-management-fff5c2/</guid>
-      <pubDate>Sun, 25 Oct 2026 08:04:58 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Gibbs Wealth Management raised its holdings in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 15.3% during the 3rd quarter, Holdings Channel reports. The fund owned 35,503 shares of the enterprise software provider’s stock after purchasing an additional 4,723 shares during the period. Gib</description>
-      <source url="https://www.americanbankingnews.com/2026/10/25/4723-oracle-corporation-orcl-shares-acquired-by-gibbs-wealth-management.html">Americanbankingnews</source>
-    </item>
-    <item>
-      <title>Comparing Nebius Group (NASDAQ:NBIS) &amp; Rimini Street (NASDAQ:RMNI)</title>
-      <link>https://oracle-university.com/stories/comparing-nebius-group-nasdaq-nbis-rimini-street-nasdaq-rmni-369124/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/comparing-nebius-group-nasdaq-nbis-rimini-street-nasdaq-rmni-369124/</guid>
-      <pubDate>Sun, 25 Oct 2026 07:31:08 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Nebius Group (NASDAQ:NBIS – Get Free Report) and Rimini Street (NASDAQ:RMNI – Get Free Report) are both technology companies, but which is the better stock? We will contrast the two companies based on the strength of their institutional ownership, earnings, dividends, profitability, analyst recommen</description>
-      <source url="https://www.defenseworld.net/2026/10/25/comparing-nebius-group-nasdaqnbis-rimini-street-nasdaqrmni.html">Defenseworld Net</source>
-    </item>
-    <item>
-      <title>Erste Group Bank Has Positive View of Oracle FY2028 Earnings</title>
-      <link>https://oracle-university.com/stories/erste-group-bank-has-positive-view-of-oracle-fy2028-earnings-16ed34/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/erste-group-bank-has-positive-view-of-oracle-fy2028-earnings-16ed34/</guid>
-      <pubDate>Sun, 25 Oct 2026 05:29:08 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Oracle Corporation (NYSE:ORCL – Free Report) – Analysts at Erste Group Bank raised their FY2028 earnings estimates for Oracle in a note issued to investors on Wednesday, October 21st. Erste Group Bank analyst H. Engel now forecasts that the enterprise software provider will earn $9.32 per share for </description>
-      <source url="https://www.americanbankingnews.com/2026/10/25/erste-group-bank-has-positive-view-of-oracle-fy2028-earnings.html">Americanbankingnews</source>
-    </item>
-    <item>
-      <title>💻 Atlanta IT Jobs: Multiple High-Paying Tech &amp; AI Roles</title>
-      <link>https://oracle-university.com/stories/atlanta-it-jobs-multiple-high-paying-tech-ai-roles-49cc9b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/atlanta-it-jobs-multiple-high-paying-tech-ai-roles-49cc9b/</guid>
-      <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+      <title>Zoom unveils Unified Context Layer to turn meetings into action</title>
+      <link>https://oracle-university.com/stories/zoom-unveils-unified-context-layer-to-turn-meetings-into-action-448a87/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/zoom-unveils-unified-context-layer-to-turn-meetings-into-action-448a87/</guid>
+      <pubDate>Mon, 26 Oct 2026 11:10:00 GMT</pubDate>
       <category>Security</category>
-      <description>Atlanta’s tech scene is buzzing right now—especially for cloud, AI/ML, cybersecurity, and enterprise systems. Here are several standout IT roles hiring in</description>
-      <source url="https://www.newsbreak.com/atlanta-ga-daily-brief-373181462/4965774912837-atlanta-it-jobs-multiple-high-paying-tech-ai-roles">Newsbreak</source>
+      <description>Zoom&#39;s new Unified Context Layer connects meetings and customer data to AI-powered workflows, as the company expands tools for sales, service and security.</description>
+      <source url="https://www.nationthailand.com/business/tech/40072762">Nation Thailand</source>
     </item>
     <item>
-      <title>Top 7 Rated Software for Small Businesses</title>
-      <link>https://oracle-university.com/stories/top-7-rated-software-for-small-businesses-a01158/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-7-rated-software-for-small-businesses-a01158/</guid>
-      <pubDate>Sat, 24 Oct 2026 23:31:00 GMT</pubDate>
+      <title>Best Blockchain Stocks To Keep An Eye On – October 25th</title>
+      <link>https://oracle-university.com/stories/best-blockchain-stocks-to-keep-an-eye-on-october-25th-23b3b0/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-blockchain-stocks-to-keep-an-eye-on-october-25th-23b3b0/</guid>
+      <pubDate>Mon, 26 Oct 2026 11:03:05 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Core Scientific, Figure Technology Solutions, Bitdeer Technologies Group, Globant, Mercurity Fintech, Digi Power X, and BTQ Technologies are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that devel</description>
+      <source url="https://www.thelincolnianonline.com/2026/10/26/best-blockchain-stocks-to-keep-an-eye-on-october-25th.html">The Lincolnian Online</source>
+    </item>
+    <item>
+      <title>K-38 Consulting Releases Free Startup Guide on How to Create a Cash Flow Forecast, Including a 13-Week Rolling Forecast Template</title>
+      <link>https://oracle-university.com/stories/k-38-consulting-releases-free-startup-guide-on-how-to-create-a-cash-flow-forecast-includ-1f461d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/k-38-consulting-releases-free-startup-guide-on-how-to-create-a-cash-flow-forecast-includ-1f461d/</guid>
+      <pubDate>Mon, 26 Oct 2026 10:28:02 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Discover the top 7 rated software solutions tailored for small businesses. Enhance productivity and efficiency with our expert recommendations on the best-rated software to help your business thrive.</description>
-      <source url="https://smallbiztrends.com/rated-software/">Small Business Trends</source>
+      <description>ONLY AVAILABLE IN PAID PLANS</description>
+      <source url="https://www.abnewswire.com/pressreleases/k38-consulting-releases-free-startup-guide-on-how-to-create-a-cash-flow-forecast-including-a-13week-rolling-forecast-template_843877.html">Abnewswire</source>
+    </item>
+    <item>
+      <title>ChatGPT Enterprise vs Microsoft 365 Copilot 2026: Pricing, Customer Results and Top 10 Enterprise AI Platforms</title>
+      <link>https://oracle-university.com/stories/chatgpt-enterprise-vs-microsoft-365-copilot-2026-pricing-customer-results-and-top-10-ent-fc4b7c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/chatgpt-enterprise-vs-microsoft-365-copilot-2026-pricing-customer-results-and-top-10-ent-fc4b7c/</guid>
+      <pubDate>Mon, 26 Oct 2026 10:19:09 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>ChatGPT Enterprise and Microsoft 365 Copilot are competing for enterprise AI investments in 2026 as CIOs seek to improve productivity</description>
+      <source url="https://infotechlead.com/artificial-intelligence/chatgpt-enterprise-vs-microsoft-365-copilot-2026-pricing-customer-results-and-top-10-enterprise-ai-platforms-99180">Infotech Lead</source>
+    </item>
+    <item>
+      <title>&#39;Didn’t even take five minutes&#39;: Man uses ChatGPT to find lost earbud hidden in gravel</title>
+      <link>https://oracle-university.com/stories/didn-t-even-take-five-minutes-man-uses-chatgpt-to-find-lost-earbud-hidden-in-gravel-59a424/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/didn-t-even-take-five-minutes-man-uses-chatgpt-to-find-lost-earbud-hidden-in-gravel-59a424/</guid>
+      <pubDate>Mon, 26 Oct 2026 10:14:50 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>A Reddit user claims ChatGPT helped him find a missing white earbud hidden among gravel at a park in less than five minutes by analysing uploaded photos. The incident sparked discussion about AI’s image recognition capabilities and its potential to solve everyday problems.</description>
+      <source url="https://www.moneycontrol.com/news/trends/didn-t-even-take-five-minutes-man-uses-chatgpt-to-find-lost-earbud-hidden-in-gravel-14060325.html">Moneycontrol</source>
+    </item>
+    <item>
+      <title>SAP S/4HANA vs Oracle Fusion Cloud ERP 2026: Cost, AI, Customer ROI and Top 10 Cloud ERP Vendors</title>
+      <link>https://oracle-university.com/stories/sap-s-4hana-vs-oracle-fusion-cloud-erp-2026-cost-ai-customer-roi-and-top-10-cloud-erp-ve-9eccd1/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/sap-s-4hana-vs-oracle-fusion-cloud-erp-2026-cost-ai-customer-roi-and-top-10-cloud-erp-ve-9eccd1/</guid>
+      <pubDate>Mon, 26 Oct 2026 10:13:32 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>SAP S/4HANA Cloud and Oracle Fusion Cloud ERP are competing for enterprise cloud ERP investments in 2026 targeting CIOs</description>
+      <source url="https://infotechlead.com/cloud/sap-s-4hana-vs-oracle-fusion-cloud-erp-2026-cost-ai-customer-roi-and-top-10-cloud-erp-vendors-99177">Infotech Lead</source>
+    </item>
+    <item>
+      <title>Oracle Corporation $ORCL Stock Position Boosted by Nadler Financial Group Inc.</title>
+      <link>https://oracle-university.com/stories/oracle-corporation-orcl-stock-position-boosted-by-nadler-financial-group-inc-287293/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-stock-position-boosted-by-nadler-financial-group-inc-287293/</guid>
+      <pubDate>Mon, 26 Oct 2026 10:09:26 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Nadler Financial Group Inc. raised its position in Oracle Corporation (NYSE:ORCL – Free Report) by 34.5% during the 3rd quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The firm owned 21,101 shares of the enterprise software provider’s stock after purch</description>
+      <source url="https://www.themarketsdaily.com/2026/10/26/oracle-corporation-orcl-stock-position-boosted-by-nadler-financial-group-inc.html">Markets Daily</source>
+    </item>
+    <item>
+      <title>Oracle Advances Outcome-Driven AI Across Fusion Applications</title>
+      <link>https://oracle-university.com/stories/oracle-advances-outcome-driven-ai-across-fusion-applications-0584ba/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-advances-outcome-driven-ai-across-fusion-applications-0584ba/</guid>
+      <pubDate>Mon, 26 Oct 2026 10:09:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>New agentic applications and AI experiences help organizations get work done and achieve measurable business outcomes across finance, HR, supply chain, sales, and serviceOracle AI WorldOracle today announced new AI innovations across Oracle Fusion Cloud Applications. With new Oracle Fusion Agentic..</description>
+      <source url="https://investingnews.com/oracle-advances-outcome-driven-ai-across-fusion-applications/">Investing News Network (inn)</source>
+    </item>
+    <item>
+      <title>Oracle Introduces AI Agent-Ready Fusion Applications Setup and Configuration to Speed Implementations</title>
+      <link>https://oracle-university.com/stories/oracle-introduces-ai-agent-ready-fusion-applications-setup-and-configuration-to-speed-im-6e5410/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-introduces-ai-agent-ready-fusion-applications-setup-and-configuration-to-speed-im-6e5410/</guid>
+      <pubDate>Mon, 26 Oct 2026 10:08:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>New registry provides Oracle product expertise and best practices as executable AI skills in a public Git repository to automate setup and configuration and fast-track adoption of new capabilitiesOracle AI WorldOracle today announced the Oracle Fusion Setup and Configuration Registry (FSCR), a pub..</description>
+      <source url="https://investingnews.com/oracle-introduces-ai-agent-ready-fusion-applications-setup-and-configuration-to-speed-implementations/">Investing News Network (inn)</source>
+    </item>
+    <item>
+      <title>Oracle Introduces Claw-Powered Fusion Agentic Applications for Supply Chain</title>
+      <link>https://oracle-university.com/stories/oracle-introduces-claw-powered-fusion-agentic-applications-for-supply-chain-dc2a1e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-introduces-claw-powered-fusion-agentic-applications-for-supply-chain-dc2a1e/</guid>
+      <pubDate>Mon, 26 Oct 2026 10:07:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>New Fusion Claw applications help supply chain teams achieve critical business outcomes with greater speed and confidence by continuously adapting and executing complex workOracle AI World -- Oracle today announced new Fusion Claw-powered agentic applications for supply chain operations. Oracle Fu..</description>
+      <source url="https://investingnews.com/oracle-introduces-claw-powered-fusion-agentic-applications-for-supply-chain/">Investing News Network (inn)</source>
+    </item>
+    <item>
+      <title>Oracle Introduces Claw-Powered Fusion Agentic Applications for Customer Experience</title>
+      <link>https://oracle-university.com/stories/oracle-introduces-claw-powered-fusion-agentic-applications-for-customer-experience-2de14c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-introduces-claw-powered-fusion-agentic-applications-for-customer-experience-2de14c/</guid>
+      <pubDate>Mon, 26 Oct 2026 10:06:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>New Fusion Claw Applications help sales and service teams pursue profitable growth and deliver on customer commitments by continuously adapting and executing complex work with enterprise governanceOracle AI WorldOracle today announced new Oracle Fusion Claw-powered agentic applications for custome..</description>
+      <source url="https://investingnews.com/oracle-introduces-claw-powered-fusion-agentic-applications-for-customer-experience/">Investing News Network (inn)</source>
+    </item>
+    <item>
+      <title>Oracle Introduces New AI-Powered Ways to Execute Work Across Oracle Fusion Applications</title>
+      <link>https://oracle-university.com/stories/oracle-introduces-new-ai-powered-ways-to-execute-work-across-oracle-fusion-applications-b1ad72/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-introduces-new-ai-powered-ways-to-execute-work-across-oracle-fusion-applications-b1ad72/</guid>
+      <pubDate>Mon, 26 Oct 2026 10:05:00 GMT</pubDate>
+      <category>Security</category>
+      <description>Fusion Companion and Fusion Agentic Home help organizations achieve business outcomes by enabling employees to execute work across different AI clients while maintaining enterprise security and controlOracle AI World -- Oracle today announced Oracle Fusion Companion with Oracle Fusion Agentic Home..</description>
+      <source url="https://investingnews.com/oracle-introduces-new-ai-powered-ways-to-execute-work-across-oracle-fusion-applications/">Investing News Network (inn)</source>
+    </item>
+    <item>
+      <title>Oracle Unveils Agentic AI Platform to Accelerate Implementation of Oracle Fusion Cloud Applications</title>
+      <link>https://oracle-university.com/stories/oracle-unveils-agentic-ai-platform-to-accelerate-implementation-of-oracle-fusion-cloud-a-138283/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-unveils-agentic-ai-platform-to-accelerate-implementation-of-oracle-fusion-cloud-a-138283/</guid>
+      <pubDate>Mon, 26 Oct 2026 10:04:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>New platform combines specialized AI agents, Oracle expertise, and guided learning to help customers implement and modernize Oracle Fusion Cloud Applications faster and realize value soonerOracle AI WorldOracle today announced an agentic AI platform designed to help customers accelerate the implem..</description>
+      <source url="https://investingnews.com/oracle-unveils-agentic-ai-platform-to-accelerate-implementation-of-oracle-fusion-cloud-applications/">Investing News Network (inn)</source>
+    </item>
+    <item>
+      <title>Oracle Helps SharkNinja Power Up Its AI Strategy</title>
+      <link>https://oracle-university.com/stories/oracle-helps-sharkninja-power-up-its-ai-strategy-208acd/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-helps-sharkninja-power-up-its-ai-strategy-208acd/</guid>
+      <pubDate>Mon, 26 Oct 2026 10:03:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Using AI-powered Oracle Fusion Cloud Applications, global product design and technology company is automating work across finance and supply chain to support continued growthOracle AI World -- Oracle is helping SharkNinja, a global product design and technology company, support its AI-powered grow..</description>
+      <source url="https://investingnews.com/oracle-helps-sharkninja-power-up-its-ai-strategy/">Investing News Network (inn)</source>
+    </item>
+    <item>
+      <title>WMATA Keeps Its Workforce Moving with Oracle Fusion Applications</title>
+      <link>https://oracle-university.com/stories/wmata-keeps-its-workforce-moving-with-oracle-fusion-applications-f0f3bb/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/wmata-keeps-its-workforce-moving-with-oracle-fusion-applications-f0f3bb/</guid>
+      <pubDate>Mon, 26 Oct 2026 10:02:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Major public transportation agency connects HR and payroll processes to reduce administrative complexity, strengthen compliance, and enhance the employee experienceOracle AI WorldWashington Metropolitan Area Transit Authority (WMATA), one of North America&#39;s largest public transportation agencies, ..</description>
+      <source url="https://investingnews.com/wmata-keeps-its-workforce-moving-with-oracle-fusion-applications/">Investing News Network (inn)</source>
+    </item>
+    <item>
+      <title>Oracle Advances Autonomous AI Lakehouse with Business Semantic Layer and Expanded Support for Iceberg Data</title>
+      <link>https://oracle-university.com/stories/oracle-advances-autonomous-ai-lakehouse-with-business-semantic-layer-and-expanded-suppor-ec22f6/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-advances-autonomous-ai-lakehouse-with-business-semantic-layer-and-expanded-suppor-ec22f6/</guid>
+      <pubDate>Mon, 26 Oct 2026 10:01:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>New capabilities ground AI agents in business context, enable multidimensional simulations, and govern data consistently across the enterprise data estate, without costly data movementOracle AI World -- Oracle today announced new capabilities for Oracle Autonomous AI Lakehouse that help organizati..</description>
+      <source url="https://investingnews.com/oracle-advances-autonomous-ai-lakehouse-with-business-semantic-layer-and-expanded-support-for-iceberg-data/">Investing News Network (inn)</source>
+    </item>
+    <item>
+      <title>Oracle Announces Deep Trust AI Architecture to Help Enterprises Innovate with Confidence</title>
+      <link>https://oracle-university.com/stories/oracle-announces-deep-trust-ai-architecture-to-help-enterprises-innovate-with-confidence-cea8a5/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-announces-deep-trust-ai-architecture-to-help-enterprises-innovate-with-confidence-cea8a5/</guid>
+      <pubDate>Mon, 26 Oct 2026 10:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>New architecture helps organizations reduce risk as AI adoption expands by embedding trust into four critical layers of the technology stack Oracle AI World -- Oracle today announced its Deep Trust AI Architecture, a blueprint that makes trust a built-in property of the enterprise technology stack..</description>
+      <source url="https://investingnews.com/oracle-announces-deep-trust-ai-architecture-to-help-enterprises-innovate-with-confidence/">Investing News Network (inn)</source>
+    </item>
+    <item>
+      <title>Microsoft Power BI vs Tableau 2026: Pricing, AI Features, Data Integration and Top 10 Business Intelligence Platforms</title>
+      <link>https://oracle-university.com/stories/microsoft-power-bi-vs-tableau-2026-pricing-ai-features-data-integration-and-top-10-busin-4740a1/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/microsoft-power-bi-vs-tableau-2026-pricing-ai-features-data-integration-and-top-10-busin-4740a1/</guid>
+      <pubDate>Mon, 26 Oct 2026 09:55:56 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Microsoft Power BI and Salesforce Tableau are competing for enterprise business intelligence (BI) spending as CIOs prioritize lower analytics costs</description>
+      <source url="https://infotechlead.com/software/microsoft-power-bi-vs-tableau-2026-pricing-ai-features-data-integration-and-top-10-business-intelligence-platforms-99171">Infotech Lead</source>
+    </item>
+    <item>
+      <title>Black-Box Testing with AI Agents: Test the Rules, Not the Code</title>
+      <link>https://oracle-university.com/stories/black-box-testing-with-ai-agents-test-the-rules-not-the-code-8fce56/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/black-box-testing-with-ai-agents-test-the-rules-not-the-code-8fce56/</guid>
+      <pubDate>Mon, 26 Oct 2026 07:58:58 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>One of the most useful test reports I&#39;ve seen an AI produce came from agents that never saw a single line of the application&#39;s code. At a company I worked at, we tried a simple experiment. We gave the models the business rules of a system that was already built, and nothing else. No repository, no a</description>
+      <source url="https://dev.to/soaresdiogo/black-box-testing-with-ai-agents-test-the-rules-not-the-code-17j8">Dev Community</source>
+    </item>
+    <item>
+      <title>Cambridge Health Group signs Oracle MoU to improve healthcare operations in UAE</title>
+      <link>https://oracle-university.com/stories/cambridge-health-group-signs-oracle-mou-to-improve-healthcare-operations-in-uae-4e78fd/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cambridge-health-group-signs-oracle-mou-to-improve-healthcare-operations-in-uae-4e78fd/</guid>
+      <pubDate>Mon, 26 Oct 2026 07:41:15 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The collaboration will focus on connecting business functions, improving access to information and using emerging technologies, including artificial intelligence (AI), to support faster decision-making across the Group.</description>
+      <source url="https://www.healthcaremea.com/2026/10/26/cambridge-health-group-signs-oracle-mou-to-improve-healthcare-operations-in-uae/">Healthcaremea</source>
+    </item>
+    <item>
+      <title>Globant (NYSE:GLOB) and Formula Systems (1985) (NASDAQ:FORTY) Critical Comparison</title>
+      <link>https://oracle-university.com/stories/globant-nyse-glob-and-formula-systems-1985-nasdaq-forty-critical-comparison-4b3c3a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/globant-nyse-glob-and-formula-systems-1985-nasdaq-forty-critical-comparison-4b3c3a/</guid>
+      <pubDate>Mon, 26 Oct 2026 06:15:29 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Globant (NYSE:GLOB – Get Free Report) and Formula Systems (1985) (NASDAQ:FORTY – Get Free Report) are both small-cap technology companies, but which is the better business? We will contrast the two businesses based on the strength of their dividends, earnings, institutional ownership, analyst recomm</description>
+      <source url="https://www.defenseworld.net/2026/10/26/globant-nyseglob-and-formula-systems-1985-nasdaqforty-critical-comparison.html">Defenseworld Net</source>
+    </item>
+    <item>
+      <title>Oracle Announces $1 Billion Investment to Accelerate Partner Growth and AI-Driven Modernization for Customers</title>
+      <link>https://oracle-university.com/stories/oracle-announces-1-billion-investment-to-accelerate-partner-growth-and-ai-driven-moderni-3b120c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-announces-1-billion-investment-to-accelerate-partner-growth-and-ai-driven-moderni-3b120c/</guid>
+      <pubDate>Mon, 26 Oct 2026 05:53:26 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Oracle today announced a $1 billion commitment to its partner ecosystem to help partners capitalize on customer demand for AI-powered solutions and services. Spanning the next four years, the investment… The post Oracle Announces $1 Billion Investment to Accelerate Partner Growth and AI-Driven Moder</description>
+      <source url="https://www.cioandleader.com/oracle-announces-1-billion-investment-to-accelerate-partner-growth-and-ai-driven-modernization-for-customers/">Cio&amp;leader</source>
+    </item>
+    <item>
+      <title>Department of Justice files suit to block certification of Alaska Senate vote—but only if Republican loses</title>
+      <link>https://oracle-university.com/stories/department-of-justice-files-suit-to-block-certification-of-alaska-senate-vote-but-only-i-c62a7c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/department-of-justice-files-suit-to-block-certification-of-alaska-senate-vote-but-only-i-c62a7c/</guid>
+      <pubDate>Mon, 26 Oct 2026 04:08:45 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>The unprecedented lawsuit, defying the US Constitution, is the first overt action by the Trump administration to challenge the results of the midterm election.</description>
+      <source url="https://www.wsws.org/en/articles/2026/10/26/zyli-o26.html">World Socialist Web Site</source>
+    </item>
+    <item>
+      <title>Oracle&#39;s racers: AI removes the grind, increases focus</title>
+      <link>https://oracle-university.com/stories/oracle-s-racers-ai-removes-the-grind-increases-focus-22ff6f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-s-racers-ai-removes-the-grind-increases-focus-22ff6f/</guid>
+      <pubDate>Mon, 26 Oct 2026 02:21:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Oracle Red Bull Racing and SailGP provide insights into AI&#39;s relentless incursion into the world of human performance.</description>
+      <source url="https://itbrief.asia/story/oracle-s-racers-ai-removes-the-grind-increases-focus">It Brief Asia</source>
+    </item>
+    <item>
+      <title>Infosys:Differentiated AI strategy and a sharp focus on value unlock propels 29% sequential growth in AI revenues | AAP</title>
+      <link>https://oracle-university.com/stories/infosys-differentiated-ai-strategy-and-a-sharp-focus-on-value-unlock-propels-29-sequenti-acda32/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/infosys-differentiated-ai-strategy-and-a-sharp-focus-on-value-unlock-propels-29-sequenti-acda32/</guid>
+      <pubDate>Mon, 26 Oct 2026 02:01:25 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>ONLY AVAILABLE IN PAID PLANS</description>
+      <source url="https://aap.com.au/aapreleases/cision20261023ae78864/">Australian Associated Press</source>
+    </item>
+    <item>
+      <title>Oracle pledges USD $1 billion to partner ecosystem</title>
+      <link>https://oracle-university.com/stories/oracle-pledges-usd-1-billion-to-partner-ecosystem-3d73e8/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-pledges-usd-1-billion-to-partner-ecosystem-3d73e8/</guid>
+      <pubDate>Mon, 26 Oct 2026 01:53:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The move aims to widen partner sales, support and cloud migration work as Oracle tries to deepen links with customers through its marketplace.</description>
+      <source url="https://channellife.com.au/story/oracle-pledges-usd-1-billion-to-partner-ecosystem">Channellife Australia</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -277,186 +457,6 @@
       <category>Security</category>
       <description>Understanding cloud costs can be challenging, but it&#39;s essential for maximizing value. In this episode, hosts Lois Houston and Nikita Abraham speak with Oracle Cloud experts David Mills and Tijo Thomas about how Oracle Cloud Infrastructure offers predictable pricing, robust security, and high perfor</description>
       <source url="https://oracleuniversitypodcast.libsyn.com/driving-business-value-with-ocipart-1">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Getting to Know Oracle Cloud Infrastructure</title>
-      <link>https://oracle-university.com/stories/getting-to-know-oracle-cloud-infrastructure-b4f7ca/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/getting-to-know-oracle-cloud-infrastructure-b4f7ca/</guid>
-      <pubDate>Tue, 06 Jan 2026 17:15:25 GMT</pubDate>
-      <category>Security</category>
-      <description>Every system depends on reliable infrastructure behind the scenes. Oracle Cloud Infrastructure (OCI) delivers that reliability with speed, flexibility, and built-in security. Join Lois Houston and Nikita Abraham as they speak with Oracle Cloud experts David Mills and Tijo Thomas about what makes OCI</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/getting-to-know-oracle-cloud-infrastructure">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Best of 2025: Unlocking the Power of Oracle APEX and AI</title>
-      <link>https://oracle-university.com/stories/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai-6aff1f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai-6aff1f/</guid>
-      <pubDate>Tue, 23 Dec 2025 12:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Lois Houston and Nikita Abraham explore how Oracle APEX integrates with AI to build smarter low-code applications. They are joined by Chaitanya Koratamaddi, Director of Product Management at Oracle, who explains the basics of Oracle APEX, its global adoption, and the challenges it addresses for busi</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Bringing the Cloud to You: Security and Control with Exadata</title>
-      <link>https://oracle-university.com/stories/bringing-the-cloud-to-you-security-and-control-with-exadata-e7accc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/bringing-the-cloud-to-you-security-and-control-with-exadata-e7accc/</guid>
-      <pubDate>Tue, 16 Dec 2025 13:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>In this episode, we&#39;ll talk about Security and Control with Exadata We&#39;ll explore how organizations can benefit from cloud innovation while keeping full control over their data — a critical challenge in today&#39;s digital world. ---------------------------------------------------- Episode Transcript: 0</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/bringing-the-cloud-to-you-security-and-control-with-exadata">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Best of 2025: Oracle Fusion Cloud Applications Foundations Training &amp; Certifications</title>
-      <link>https://oracle-university.com/stories/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications-6881a0/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications-6881a0/</guid>
-      <pubDate>Tue, 16 Dec 2025 12:00:00 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham dive into Oracle Fusion Cloud Applications and the new courses and certifications on offer. They are joined by Oracle Fusion Apps experts Patrick McBride and Bill Lawson who introduce the concept of Oracle Modern</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Best of 2025: Introduction to MySQL</title>
-      <link>https://oracle-university.com/stories/best-of-2025-introduction-to-mysql-2273ef/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-introduction-to-mysql-2273ef/</guid>
-      <pubDate>Tue, 02 Dec 2025 05:00:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Join hosts Lois Houston and Nikita Abraham as they explore the world of MySQL 8.4. Together with Perside Foster, a MySQL Principal Solution Engineer, they break down the fundamentals of MySQL, its wide range of applications, and why it&#39;s so popular among developers and database administrators. This </description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-introduction-to-mysql">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>The Transformative Power of Low Code Development</title>
-      <link>https://oracle-university.com/stories/the-transformative-power-of-low-code-development-d12adc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-transformative-power-of-low-code-development-d12adc/</guid>
-      <pubDate>Tue, 25 Nov 2025 13:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>In this Episode Orlaith Lawton speaks with Oracle ACE Roberto Capancioni about the importance of APEX and why it is the world&#39;s most popular low-code application platform. ------------------------------------------------------ Episode Transcript: 00:00:00:00 - 00:00:35:14 Unknown Welcome to the Orac</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-transformative-power-of-low-code-development">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Understanding Security Risks and Threats in the Cloud - Part 1</title>
-      <link>https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</guid>
-      <pubDate>Tue, 18 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>This week, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to explore what truly keeps data safe, and what puts it at risk. They discuss the CIA triad, dive into hashing and encryption, and shed light on how cyber threats like malware, phishing, and ransomware t</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/understanding-security-risks-and-threats-in-the-cloud-part-1">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Networking &amp; Security Essentials</title>
-      <link>https://oracle-university.com/stories/networking-security-essentials-113af4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/networking-security-essentials-113af4/</guid>
-      <pubDate>Tue, 11 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>How do all your devices connect and stay safe in the cloud? In this episode, Lois Houston and Nikita Abraham talk with OCI instructors Sergio Castro and Orlando Gentil about the basics of how networks work and the simple steps that help protect them. You&#39;ll learn how information gets from one place </description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/networking-security-essentials">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Inside Cloud Networking</title>
-      <link>https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</guid>
-      <pubDate>Tue, 04 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>In this episode, hosts Lois Houston and Nikita Abraham team up with Senior Principal OCI Instructor Sergio Castro to unpack the basics of cloud networking and the Domain Name System (DNS). You&#39;ll learn how local and virtual networks connect devices, and how DNS seamlessly translates familiar names l</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/inside-cloud-networking">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 4</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</guid>
-      <pubDate>Tue, 28 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>In this episode, hosts Lois Houston and Nikita Abraham, along with Principal OCI Instructor Orlando Gentil, break down the differences between Infrastructure-as-a-Service, Platform-as-a-Service, and Software-as-a-Service. The conversation explores how each framework influences control, cost efficien</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-4">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 3</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</guid>
-      <pubDate>Tue, 21 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Have you ever considered how a single server can support countless applications and workloads at once? In this episode, hosts Lois Houston and Nikita Abraham, together with Principal OCI Instructor Orlando Gentil, explore the sophisticated technologies that make this possible in modern cloud data ce</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-3">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>AI and Security</title>
-      <link>https://oracle-university.com/stories/ai-and-security-7b0e26/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-and-security-7b0e26/</guid>
-      <pubDate>Tue, 14 Oct 2025 15:58:49 GMT</pubDate>
-      <category>Security</category>
-      <description>In this episode host Oracle Academy Program Manager Benelux &amp; DACH Rik Bleeker speaks with Oracle expert Thomas Minne on the crucial intersection of Artificial Intelligence and data security, explaining why the Oracle Database is foundational to both. Drawing on his 15 years as a DBA and current rol</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-and-security">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 2</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-2-9a562f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-2-9a562f/</guid>
-      <pubDate>Tue, 14 Oct 2025 06:44:39 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Have you ever wondered where all your digital memories, work projects, or favorite photos actually live in the cloud? In this episode, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to discuss cloud storage. They explore how data is carefully organized, the dif</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-2">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>AI for Data: When Data meets Intelligence</title>
-      <link>https://oracle-university.com/stories/ai-for-data-when-data-meets-intelligence-f7601f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-for-data-when-data-meets-intelligence-f7601f/</guid>
-      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In this two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle AI Vector an</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-for-data-when-data-meet-intelligence">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Part II of AI for Data: When Data meets Intelligence</title>
-      <link>https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</guid>
-      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In the second of a two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle A</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-of-data-for-ai-when-data-meets-intelligence">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 1</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</guid>
-      <pubDate>Tue, 07 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Curious about what really goes on inside a cloud data center? In this episode, Lois Houston and Nikita Abraham chat with Principal OCI Instructor Orlando Gentil about how cloud data centers are transforming the way organizations manage technology. They explore the differences between traditional and</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-1">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Oracle AI for Fusion Apps</title>
-      <link>https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</guid>
-      <pubDate>Tue, 23 Sep 2025 11:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Want to make AI work for your business? In today&#39;s episode, Lois Houston and Nikita Abraham continue their discussion of AI in Oracle Fusion Applications by focusing on three key AI capabilities: predictive, generative, and agentic. Joining them is Principal Instructor Yunus Mohammed, who explains h</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-ai-for-fusion-apps">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Oracle&#39;s AI Ecosystem</title>
-      <link>https://oracle-university.com/stories/oracle-s-ai-ecosystem-1d77a2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-s-ai-ecosystem-1d77a2/</guid>
-      <pubDate>Tue, 16 Sep 2025 11:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to explore Oracle&#39;s approach to enterprise AI. The conversation covers the essential components of the Oracle AI stack and how each part, from the foundational infrastructure to business-specific appli</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/oracles-ai-ecosystem">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Buy or Build AI?</title>
-      <link>https://oracle-university.com/stories/buy-or-build-ai-6e5a7d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/buy-or-build-ai-6e5a7d/</guid>
-      <pubDate>Tue, 09 Sep 2025 11:14:43 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>How do you decide whether to buy a ready-made AI solution or build one from the ground up? The choice is more than just a technical decision; it&#39;s about aligning AI with your business goals. In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to examine</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/buy-or-build-ai">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>The AI Workflow</title>
-      <link>https://oracle-university.com/stories/the-ai-workflow-2273cc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-ai-workflow-2273cc/</guid>
-      <pubDate>Tue, 02 Sep 2025 11:00:00 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>Join Lois Houston and Nikita Abraham as they chat with Yunus Mohammed, a Principal Instructor at Oracle University, about the key stages of AI model development. From gathering and preparing data to selecting, training, and deploying models, learn how each phase impacts AI&#39;s real-world effectiveness</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/the-ai-workflow">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
