@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T23:57:16.686Z",
+  "generatedAt": "2026-10-27T23:52:12.981Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,465 +7,479 @@
   },
   "items": [
     {
-      "id": "038754d96df55d27",
-      "slug": "techbooky-intelligence-launches-with-a-new-look-at-africa-s-tech-economy-e3c7c5",
-      "title": "TechBooky Intelligence Launches With a New Look at Africa’s Tech Economy",
-      "dek": "Africa’s technology economy is often described with one big number. Funding rises or falls, a new cable lands, or a government announces an AI strategy, and the entire continent is made to sound as though it has moved in the same direction. The reality is more complicated. TechBooky is launching Tec",
-      "url": "https://www.techbooky.com/techbooky-intelligence-launches-with-a-new-look-at-africas-tech-economy/",
-      "source": "Techbooky",
-      "sourceType": "external",
-      "image": "https://d1s6vdzy36jczj.cloudfront.net/wp-content/uploads/2026/10/26122837/TechBooky-Intelligence-Featured-Image.png",
-      "publishedAt": "2026-10-26T11:32:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "ai data intelligence",
-        "data intelligence",
-        "african",
-        "techbooky intelligence"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "904246263d96afa8",
-      "slug": "softbank-weighs-a-50-billion-ai-bet-on-malaysia-equal-to-a-tenth-of-the-country-s-gdp-f569b7",
-      "title": "SoftBank weighs a $50 billion AI bet on Malaysia, equal to a tenth of the country’s GDP",
-      "dek": "Malaysia has recorded $94B of data-center investments between 2021 and mid-2026; Softbank’s investment plan would lift that total by more than half.",
-      "url": "https://fortune.com/2026/10/26/softbank-malaysia-50-billion-ai-investment/",
-      "source": "Fortune",
-      "sourceType": "external",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297941125.jpg?w=2048",
-      "publishedAt": "2026-10-26T11:31:17.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "asia",
-        "latest"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "89af3e710271e4f4",
-      "slug": "mastering-java-development-in-visual-studio-code-8ca7ac",
-      "title": "Mastering Java Development in Visual Studio Code",
-      "dek": "Unlock full Java power in VS Code. Learn about Oracle's extension, Red Hat support, JDK setup, and pro tips to boost your coding productivity. The post Mastering Java Development in Visual Studio Code appeared first on SourceTrail.",
-      "url": "https://www.sourcetrail.com/java/mastering-java-development-in-visual-studio-code/",
-      "source": "Sourcetrail",
-      "sourceType": "external",
-      "image": "https://www.sourcetrail.com/wp-content/uploads/2026/10/extension-de-Java-Platform-para-Visual-Studio-Code_pex37880001.jpg",
-      "publishedAt": "2026-10-26T11:29:50.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "java",
-        "ide"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "91b23a8412655c8d",
-      "slug": "balancing-oracle-s-backlog-against-its-balance-sheet-6ff2f6",
-      "title": "Balancing Oracle’s Backlog Against Its Balance Sheet",
-      "dek": "Oracle is sitting on a record AI backlog that analysts say could justify nearly doubling the stock price, yet the company just posted negative free cash flow and its CFO cannot say when that changes. Something has to give.",
-      "url": "https://247wallst.com/investing/2026/10/26/balancing-oracles-backlog-against-its-balance-sheet/",
-      "source": "24/7 Wall St",
-      "sourceType": "external",
-      "image": "https://247wallst.com/wp-content/uploads/2026/07/shutterstock-2733385393-huge-licensed-scaled.jpg",
-      "publishedAt": "2026-10-26T11:15:06.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "investing"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "bb75d7d98bdb7c33",
-      "slug": "oracle-invests-1-billion-to-support-ai-innovation-and-customer-transformation-through-pa-602b32",
-      "title": "Oracle Invests $1 Billion to Support AI Innovation and Customer Transformation Through Partners",
-      "dek": "Enterprise software and cloud titan Oracle has committed to investing a billion dollars over many years to support its partner ecosystem. The announcement came through Oracle AI World conference and involves expanding the OPN initiative to enable GSIs, ISVs, and MSPs create, market, and deploy AI an",
-      "url": "https://itdigest.com/information-technology/oracle-invests-1-billion-to-support-ai-innovation-and-customer-transformation-through-partners/",
-      "source": "Itdigest",
-      "sourceType": "external",
-      "image": "https://itdigest.com/wp-content/uploads/2026/10/Oracle-Announces-_1-Billion-Investment-to-Accelerate-Partner-Growth-and-AI-Driven-Modernization-for-Customers.webp",
-      "publishedAt": "2026-10-26T11:14:02.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "independent software vendors",
-        "artificial intelligence",
-        "itdigest",
-        "oracle",
-        "oracle partnernetwork",
-        "information technology"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "e9e0e8cf3c0533dd",
-      "slug": "zoom-unveils-unified-context-layer-to-turn-meetings-into-action-448a87",
-      "title": "Zoom unveils Unified Context Layer to turn meetings into action",
-      "dek": "Zoom's new Unified Context Layer connects meetings and customer data to AI-powered workflows, as the company expands tools for sales, service and security.",
-      "url": "https://www.nationthailand.com/business/tech/40072762",
-      "source": "Nation Thailand",
-      "sourceType": "external",
-      "image": "https://media.nationthailand.com/2026/10/QP5CE0zWHXVFdxBDCxaM.webp",
-      "publishedAt": "2026-10-26T11:10:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "travel news",
-        "nation news thailand",
-        "phuket",
-        "thai news",
-        "pattaya",
-        "king"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "7d835a8a197be006",
-      "slug": "best-blockchain-stocks-to-keep-an-eye-on-october-25th-23b3b0",
-      "title": "Best Blockchain Stocks To Keep An Eye On – October 25th",
-      "dek": "Core Scientific, Figure Technology Solutions, Bitdeer Technologies Group, Globant, Mercurity Fintech, Digi Power X, and BTQ Technologies are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that devel",
-      "url": "https://www.thelincolnianonline.com/2026/10/26/best-blockchain-stocks-to-keep-an-eye-on-october-25th.html",
-      "source": "The Lincolnian Online",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
-      "publishedAt": "2026-10-26T11:03:05.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "partner feed articles",
-        "stocks"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "8b0cc48d08ef35e4",
-      "slug": "k-38-consulting-releases-free-startup-guide-on-how-to-create-a-cash-flow-forecast-includ-1f461d",
-      "title": "K-38 Consulting Releases Free Startup Guide on How to Create a Cash Flow Forecast, Including a 13-Week Rolling Forecast Template",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.abnewswire.com/pressreleases/k38-consulting-releases-free-startup-guide-on-how-to-create-a-cash-flow-forecast-including-a-13week-rolling-forecast-template_843877.html",
-      "source": "Abnewswire",
+      "id": "30e6d1809a5473b2",
+      "slug": "oracle-pushes-ai-deeper-into-enterprise-workflows-with-fusion-companion-de5bc2",
+      "title": "Oracle pushes AI deeper into enterprise workflows with Fusion Companion",
+      "dek": "Oracle is adding a new orchestration layer to its Fusion Cloud Applications suite to help enterprises automate business workflows, coordinate AI agents,… Read more → The post Oracle pushes AI deeper into enterprise workflows with Fusion Companion appeared first on IT Security News.",
+      "url": "https://www.itsecuritynews.info/oracle-pushes-ai-deeper-into-enterprise-workflows-with-fusion-companion/",
+      "source": "It Security News",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-10-26T10:28:02.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 42
-    },
-    {
-      "id": "6398f67202b5a537",
-      "slug": "chatgpt-enterprise-vs-microsoft-365-copilot-2026-pricing-customer-results-and-top-10-ent-fc4b7c",
-      "title": "ChatGPT Enterprise vs Microsoft 365 Copilot 2026: Pricing, Customer Results and Top 10 Enterprise AI Platforms",
-      "dek": "ChatGPT Enterprise and Microsoft 365 Copilot are competing for enterprise AI investments in 2026 as CIOs seek to improve productivity",
-      "url": "https://infotechlead.com/artificial-intelligence/chatgpt-enterprise-vs-microsoft-365-copilot-2026-pricing-customer-results-and-top-10-enterprise-ai-platforms-99180",
-      "source": "Infotech Lead",
-      "sourceType": "external",
-      "image": "https://infotechlead.com/wp-content/uploads/2026/10/enterprise-AI-pricing-strategy-2026.jpg",
-      "publishedAt": "2026-10-26T10:19:09.000Z",
-      "topic": "Applications & NetSuite",
+      "publishedAt": "2026-10-27T11:33:20.000Z",
+      "topic": "Security",
       "tags": [
-        "ai",
-        "artificial intelligence"
+        "ai security",
+        "infoworld",
+        "en"
       ],
-      "priority": 42
+      "priority": 43
     },
     {
-      "id": "8d2d14c08ad1b035",
-      "slug": "didn-t-even-take-five-minutes-man-uses-chatgpt-to-find-lost-earbud-hidden-in-gravel-59a424",
-      "title": "'Didn’t even take five minutes': Man uses ChatGPT to find lost earbud hidden in gravel",
-      "dek": "A Reddit user claims ChatGPT helped him find a missing white earbud hidden among gravel at a park in less than five minutes by analysing uploaded photos. The incident sparked discussion about AI’s image recognition capabilities and its potential to solve everyday problems.",
-      "url": "https://www.moneycontrol.com/news/trends/didn-t-even-take-five-minutes-man-uses-chatgpt-to-find-lost-earbud-hidden-in-gravel-14060325.html",
-      "source": "Moneycontrol",
+      "id": "efd2a0b6a7fd3405",
+      "slug": "database-market-to-expand-at-13-7-cagr-through-2032-as-cloud-deployment-accounts-for-58--e5f756",
+      "title": "Database Market to Expand at 13.7% CAGR Through 2032 as Cloud Deployment Accounts for 58.65% Market Share – Reports Mordor Intelligence",
+      "dek": "The database market is projected to reach USD 371 Bn by 2032, driven by generative AI workloads, growing adoption of cloud-based database services, and increasing demand for real-time data processing. Market growth is further supported by vector database applications, managed database platforms, ind",
+      "url": "https://www.globenewswire.com/news-release/2026/10/27/3388881/0/en/database-market-to-expand-at-13-7-cagr-through-2032-as-cloud-deployment-accounts-for-58-65-market-share-reports-mordor-intelligence.html",
+      "source": "Globe Newswire",
       "sourceType": "external",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261026101426_gg110ggf.jpg",
-      "publishedAt": "2026-10-26T10:14:50.000Z",
+      "image": "",
+      "publishedAt": "2026-10-27T11:30:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "press releases",
+        "market research reports",
+        "research analysis and reports"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "2a7f458f3644facb",
+      "slug": "hybrid-working-is-now-the-key-talent-advantage-for-hr-leaders-8af929",
+      "title": "Hybrid working is now the key talent advantage for HR leaders",
+      "dek": "More flexible ways of working could unlock billions of dollars in productivity gains by helping businesses attract and retain talent and protect critical knowledge, according to new economic modelling from Arup and International Workplace Group (IWG), the world’s largest platform for work with brand",
+      "url": "https://cxotoday.com/media-coverage/hybrid-working-is-now-the-key-talent-advantage-for-hr-leaders/",
+      "source": "Cxotoday",
+      "sourceType": "external",
+      "image": "https://cxotoday.com/wp-content/uploads/2021/12/hybrid-work-300x161.jpg",
+      "publishedAt": "2026-10-27T11:28:17.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
+        "hybrid working",
+        "hybrid workplace",
+        "media coverage"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "3dc9b84bd501045f",
+      "slug": "pharmacovigilance-and-drug-safety-software-market-to-reach-us-14-98-billion-by-2033-as-a-1e1ecf",
+      "title": "Pharmacovigilance and Drug Safety Software Market to Reach US$ 14.98 Billion by 2033 as AI-Driven Drug Monitoring Advances",
+      "dek": "According to DataM Intelligence, the global pharmacovigilance and drug safety software market was valued at US$ 7.56 billion in 2025 and is projected to reach US$ 14.98 billion by 2033, registering a CAGR of 10.8% during 2026-2033. Market expansion is",
+      "url": "https://www.openpr.com/news/4673753/pharmacovigilance-and-drug-safety-software-market-to-reach-us",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/a/La27553108_k.jpg",
+      "publishedAt": "2026-10-27T11:27:59.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "health & medicine"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "d5d0b7ef68f8d46e",
+      "slug": "oracle-enhances-autonomous-ai-lakehouse-with-business-semantic-layer-and-expanded-iceber-6293c2",
+      "title": "Oracle Enhances Autonomous AI Lakehouse With Business Semantic Layer and Expanded Iceberg Support",
+      "dek": "American multinational cloud computing corporation Oracle has made some substantial developments in its Oracle Autonomous AI Lakehouse solution. Specifically, this will be accompanied by an indigenous Business Semantic Layer in addition to improved read and write functionalities for Apache Iceberg t",
+      "url": "https://itdigest.com/information-technology/oracle-enhances-autonomous-ai-lakehouse-with-business-semantic-layer-and-expanded-iceberg-support/",
+      "source": "Itdigest",
+      "sourceType": "external",
+      "image": "https://itdigest.com/wp-content/uploads/2026/10/Oracle-Enhances-Autonomous-AI-Lakehouse-With-Business-Semantic-Layer-and-Expanded-Iceberg-Support.webp",
+      "publishedAt": "2026-10-27T11:23:51.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "information technology",
+        "oracle",
+        "news",
+        "ai lakehouse",
         "artificial intelligence",
-        "everyday ai applications",
-        "r/chatgpt",
-        "chatgpt",
-        "image analysis",
-        "ai image recognition"
+        "iceberg data"
       ],
-      "priority": 42
+      "priority": 43
     },
     {
-      "id": "77f47c6a0e8f9f04",
-      "slug": "sap-s-4hana-vs-oracle-fusion-cloud-erp-2026-cost-ai-customer-roi-and-top-10-cloud-erp-ve-9eccd1",
-      "title": "SAP S/4HANA vs Oracle Fusion Cloud ERP 2026: Cost, AI, Customer ROI and Top 10 Cloud ERP Vendors",
-      "dek": "SAP S/4HANA Cloud and Oracle Fusion Cloud ERP are competing for enterprise cloud ERP investments in 2026 targeting CIOs",
-      "url": "https://infotechlead.com/cloud/sap-s-4hana-vs-oracle-fusion-cloud-erp-2026-cost-ai-customer-roi-and-top-10-cloud-erp-vendors-99177",
-      "source": "Infotech Lead",
+      "id": "194f70b75519f73a",
+      "slug": "new-broadcom-enhancements-to-truesource-spring-enterprise-with-hub-and-app-advisor-help--e1d9e7",
+      "title": "New Broadcom Enhancements to TrueSource Spring Enterprise with Hub and App Advisor Help Customers Assess their Open Source Security Posture, Prioritize Fixes, and Automate Patching",
+      "dek": "Broadcom Inc. (NASDAQ: AVGO), a global technology leader that designs, develops, and supplies semiconductor and infrastructure software solutions, today shipped fixes for 89 novel vulnerabilities in TrueSource Spring Enterprise to its critical infrastructure customers and others who qualify for ear.",
+      "url": "https://investingnews.com/new-broadcom-enhancements-to-truesource-spring-enterprise-with-hub-and-app-advisor-help-customers-assess-their-open-source-security-posture-prioritize-fixes-and-automate-patching/",
+      "source": "Investing News Network (inn)",
       "sourceType": "external",
-      "image": "https://infotechlead.com/wp-content/uploads/2026/10/Implementation-Costs-and-Licensing-for-SAP-vs-Oracle-ERP.jpg",
-      "publishedAt": "2026-10-26T10:13:32.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://investingnews.com/media-library/image.gif?id=31856534&width=1200",
+      "publishedAt": "2026-10-27T11:00:00.000Z",
+      "topic": "Security",
       "tags": [
-        "erp",
-        "cloud"
+        "nasdaq-avgo",
+        "avgo"
       ],
-      "priority": 42
+      "priority": 43
     },
     {
-      "id": "6d4d9fb8e4f87614",
-      "slug": "oracle-corporation-orcl-stock-position-boosted-by-nadler-financial-group-inc-287293",
-      "title": "Oracle Corporation $ORCL Stock Position Boosted by Nadler Financial Group Inc.",
-      "dek": "Nadler Financial Group Inc. raised its position in Oracle Corporation (NYSE:ORCL – Free Report) by 34.5% during the 3rd quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The firm owned 21,101 shares of the enterprise software provider’s stock after purch",
-      "url": "https://www.themarketsdaily.com/2026/10/26/oracle-corporation-orcl-stock-position-boosted-by-nadler-financial-group-inc.html",
-      "source": "Markets Daily",
+      "id": "58e39ef9217552f5",
+      "slug": "rimini-street-rmni-set-to-release-quarterly-earnings-on-thursday-660f92",
+      "title": "Rimini Street (RMNI) Set to Release Quarterly Earnings on Thursday",
+      "dek": "Rimini Street (NASDAQ:RMNI – Get Free Report) is expected to be releasing its Q3 2026 results after the market closes on Thursday, October 29th. Analysts expect the company to announce earnings of $0.10 per share and revenue of $110.82 million for the quarter. Interested persons can find conference ",
+      "url": "https://www.tickerreport.com/banking-finance/13638093/rimini-street-rmni-set-to-release-quarterly-earnings-on-thursday.html",
+      "source": "Ticker Report",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-10-26T10:09:26.000Z",
+      "image": "https://www.marketbeat.com/logos/rimini-street-inc-logo-1200x675.jpg?v=20240522112008",
+      "publishedAt": "2026-10-27T10:55:35.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "sec filing articles",
-        "stocks"
+        "earnings previews",
+        "banking"
       ],
       "priority": 42
     },
     {
-      "id": "5a099ddcc0b1ab20",
-      "slug": "oracle-advances-outcome-driven-ai-across-fusion-applications-0584ba",
-      "title": "Oracle Advances Outcome-Driven AI Across Fusion Applications",
-      "dek": "New agentic applications and AI experiences help organizations get work done and achieve measurable business outcomes across finance, HR, supply chain, sales, and serviceOracle AI WorldOracle today announced new AI innovations across Oracle Fusion Cloud Applications. With new Oracle Fusion Agentic..",
-      "url": "https://investingnews.com/oracle-advances-outcome-driven-ai-across-fusion-applications/",
-      "source": "Investing News Network (inn)",
+      "id": "8ed08dd1b165c80e",
+      "slug": "evan-goldberg-on-ai-trust-confident-answers-aren-t-enough-context-is-everything-372ddc",
+      "title": "Evan Goldberg on AI trust: Confident answers aren’t enough, context is everything",
+      "dek": "Every enterprise software vendor now has an AI agent story. Oracle NetSuite’s version, unveiled at SuiteWorld in Las Vegas on October 26, comes with two twists: its agents are meant to know your industry, and its newest offering is designed to catch tech startups on day one and keep them until IPO. ",
+      "url": "https://e27.co/evan-goldberg-on-ai-trust-confident-answers-arent-enough-context-is-everything-20261027/",
+      "source": "E27",
       "sourceType": "external",
-      "image": "https://investingnews.com/media-library/image.jpg?id=50349587&width=1200",
-      "publishedAt": "2026-10-26T10:09:00.000Z",
+      "image": "https://e27.co/wp-content/uploads/2026/10/Evan_goldberg_news.jpeg",
+      "publishedAt": "2026-10-27T10:42:02.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "orcl",
-        "tech-investing",
-        "nyse-orcl"
+        "global",
+        "artificial intelligence",
+        "oracle netsuite",
+        "ai agents",
+        "features",
+        "oracle"
       ],
       "priority": 42
     },
     {
-      "id": "c4e3ddf3537e72e7",
-      "slug": "oracle-introduces-ai-agent-ready-fusion-applications-setup-and-configuration-to-speed-im-6e5410",
-      "title": "Oracle Introduces AI Agent-Ready Fusion Applications Setup and Configuration to Speed Implementations",
-      "dek": "New registry provides Oracle product expertise and best practices as executable AI skills in a public Git repository to automate setup and configuration and fast-track adoption of new capabilitiesOracle AI WorldOracle today announced the Oracle Fusion Setup and Configuration Registry (FSCR), a pub..",
-      "url": "https://investingnews.com/oracle-introduces-ai-agent-ready-fusion-applications-setup-and-configuration-to-speed-implementations/",
-      "source": "Investing News Network (inn)",
-      "sourceType": "external",
-      "image": "https://investingnews.com/media-library/image.jpg?id=50349587&width=1200",
-      "publishedAt": "2026-10-26T10:08:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "orcl",
-        "tech-investing",
-        "nyse-orcl"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "f04097ba66ae3684",
-      "slug": "oracle-introduces-claw-powered-fusion-agentic-applications-for-supply-chain-dc2a1e",
+      "id": "a18a0344b33aee2f",
+      "slug": "oracle-introduces-claw-powered-fusion-agentic-applications-for-supply-chain-15e343",
       "title": "Oracle Introduces Claw-Powered Fusion Agentic Applications for Supply Chain",
-      "dek": "New Fusion Claw applications help supply chain teams achieve critical business outcomes with greater speed and confidence by continuously adapting and executing complex workOracle AI World -- Oracle today announced new Fusion Claw-powered agentic applications for supply chain operations. Oracle Fu..",
-      "url": "https://investingnews.com/oracle-introduces-claw-powered-fusion-agentic-applications-for-supply-chain/",
-      "source": "Investing News Network (inn)",
+      "dek": "Oracle today announced new Fusion Claw-powered agentic applications for supply chain operations. Oracle Fusion Claw is a governed agentic execution runtime that enables Fusion Agentic Applications to reason, compute, adapt, and execute specialist-grade work including deep research, computation, simu",
+      "url": "https://cxotoday.com/media-coverage/oracle-introduces-claw-powered-fusion-agentic-applications-for-supply-chain/",
+      "source": "Cxotoday",
       "sourceType": "external",
-      "image": "https://investingnews.com/media-library/image.jpg?id=50349587&width=1200",
-      "publishedAt": "2026-10-26T10:07:00.000Z",
+      "image": "https://cxotoday.com/wp-content/uploads/2022/06/Oracle.jpeg",
+      "publishedAt": "2026-10-27T10:34:31.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "orcl",
-        "tech-investing",
-        "nyse-orcl"
+        "oracle",
+        "media coverage",
+        "oracle fusion"
       ],
       "priority": 42
     },
     {
-      "id": "55256a253d53530b",
-      "slug": "oracle-introduces-claw-powered-fusion-agentic-applications-for-customer-experience-2de14c",
-      "title": "Oracle Introduces Claw-Powered Fusion Agentic Applications for Customer Experience",
-      "dek": "New Fusion Claw Applications help sales and service teams pursue profitable growth and deliver on customer commitments by continuously adapting and executing complex work with enterprise governanceOracle AI WorldOracle today announced new Oracle Fusion Claw-powered agentic applications for custome..",
-      "url": "https://investingnews.com/oracle-introduces-claw-powered-fusion-agentic-applications-for-customer-experience/",
-      "source": "Investing News Network (inn)",
+      "id": "600440389ab76b00",
+      "slug": "bharathcloud-expands-hyderabad-presence-with-second-office-plans-to-onboard-over-500-emp-5c89dc",
+      "title": "BharathCloud Expands Hyderabad Presence With Second Office; Plans to Onboard Over 500 Employees",
+      "dek": "BharathCloud has announced the launch of its second office in Hyderabad at Mindspace IT Park, HUDA Techno Enclave, HITEC City. Spread across approximately 10,000 sq. ft., the new office will support the company’s growing cloud and AI infrastructure business and house its planned Global Network Opera",
+      "url": "https://cxotoday.com/media-coverage/bharathcloud-expands-hyderabad-presence-with-second-office-plans-to-onboard-over-500-employees/",
+      "source": "Cxotoday",
       "sourceType": "external",
-      "image": "https://investingnews.com/media-library/image.jpg?id=50349587&width=1200",
-      "publishedAt": "2026-10-26T10:06:00.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://cxotoday.com/wp-content/uploads/2026/10/BharathClouds-Hyderabad-Expansion-and-Hiring-Plans-300x169.jpeg",
+      "publishedAt": "2026-10-27T10:20:58.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "orcl",
-        "tech-investing",
-        "nyse-orcl"
+        "media coverage",
+        "bharathcloud"
       ],
       "priority": 42
     },
     {
-      "id": "57973bb146f253d3",
-      "slug": "oracle-introduces-new-ai-powered-ways-to-execute-work-across-oracle-fusion-applications-b1ad72",
-      "title": "Oracle Introduces New AI-Powered Ways to Execute Work Across Oracle Fusion Applications",
-      "dek": "Fusion Companion and Fusion Agentic Home help organizations achieve business outcomes by enabling employees to execute work across different AI clients while maintaining enterprise security and controlOracle AI World -- Oracle today announced Oracle Fusion Companion with Oracle Fusion Agentic Home..",
-      "url": "https://investingnews.com/oracle-introduces-new-ai-powered-ways-to-execute-work-across-oracle-fusion-applications/",
-      "source": "Investing News Network (inn)",
+      "id": "b2751bd7828934cc",
+      "slug": "unbound-ia-opens-london-creative-hub-to-serve-global-technology-and-ai-clients-24a996",
+      "title": "Unbound IA opens London creative hub to serve global technology and AI clients",
+      "dek": "London becomes the creative centre for the agency’s integrated brand and demand offering",
+      "url": "https://www.einpresswire.com/article/951578005/unbound-ia-opens-london-creative-hub-to-serve-global-technology-and-ai-clients",
+      "source": "Ein Presswire",
       "sourceType": "external",
-      "image": "https://investingnews.com/media-library/image.jpg?id=50349587&width=1200",
-      "publishedAt": "2026-10-26T10:05:00.000Z",
+      "image": "https://img.einnews.com/ampsize/1230154/the-unbound-ia-uk-team.jpeg",
+      "publishedAt": "2026-10-27T10:20:48.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "media",
+        "manufacturing",
+        "united kingdom",
+        "it industry",
+        "worldnews",
+        "technology"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "e37745871b218fbb",
+      "slug": "ai-agents-for-embedded-design-dc687f",
+      "title": "AI agents for embedded design",
+      "dek": "AI agents are all the rage, and the technology is being integrated into embedded development environments to boost productivity. AI can be used for code generation and configuration of platforms, and even for the design of hardware in FPGAs, but there are issues with the quality and the safety of co",
+      "url": "https://www.eenewseurope.com/en/ai-agents-for-embedded-design/",
+      "source": "Eenews Europe",
+      "sourceType": "external",
+      "image": "https://www.eenewseurope.com/wp-content/uploads/2026/10/AMD-ROss-Agentic-Design-1-scaled-e1793028810597.jpg",
+      "publishedAt": "2026-10-27T10:19:31.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "agentic ai",
+        "development environment",
+        "ai",
+        "feature articles"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "e119917ecac14ebf",
+      "slug": "cloud-workload-protection-market-to-reach-usd-21-20-billion-by-2033-ai-threat-detection--662d0b",
+      "title": "Cloud Workload Protection Market to Reach USD 21.20 Billion by 2033 | AI Threat Detection, Cloud Runtime Security and Key Players",
+      "dek": "According to Coherent Market Insights (CMI), the global Cloud Workload Protection Market is expected to grow from USD 5.75 billion in 2026 to USD 21.20 billion by 2033, with a reported compound annual growth rate (CAGR) of 11.6% during 2026-2033. The",
+      "url": "https://www.openpr.com/news/4673598/cloud-workload-protection-market-to-reach-usd-21-20-billion",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/a/La27493484_k.jpg",
+      "publishedAt": "2026-10-27T09:57:43.000Z",
       "topic": "Security",
       "tags": [
-        "orcl",
-        "tech-investing",
-        "nyse-orcl"
+        "business",
+        "banking & insurance",
+        "economy",
+        "finances"
       ],
       "priority": 42
     },
     {
-      "id": "6608d52f77638f72",
-      "slug": "oracle-unveils-agentic-ai-platform-to-accelerate-implementation-of-oracle-fusion-cloud-a-138283",
-      "title": "Oracle Unveils Agentic AI Platform to Accelerate Implementation of Oracle Fusion Cloud Applications",
-      "dek": "New platform combines specialized AI agents, Oracle expertise, and guided learning to help customers implement and modernize Oracle Fusion Cloud Applications faster and realize value soonerOracle AI WorldOracle today announced an agentic AI platform designed to help customers accelerate the implem..",
-      "url": "https://investingnews.com/oracle-unveils-agentic-ai-platform-to-accelerate-implementation-of-oracle-fusion-cloud-applications/",
-      "source": "Investing News Network (inn)",
+      "id": "1ed28da0ca7d3f00",
+      "slug": "mawarid-finance-brings-industry-leaders-together-for-the-fourth-fintech-and-innovation-s-13244b",
+      "title": "Mawarid Finance brings industry leaders together for the Fourth FinTech and Innovation Summit in Dubai",
+      "dek": "Under the theme “The Power Shift,” the summit explores the technologies, regulatory developments and partnerships redefining the future of finance, with 16 partnership agreements signed and two new products launched",
+      "url": "https://www.zawya.com/en/press-release/events-conferences/mawarid-finance-brings-industry-leaders-together-for-the-fourth-fintech-and-innovation-summit-in-dubai-1852528",
+      "source": "Zawya",
       "sourceType": "external",
-      "image": "https://investingnews.com/media-library/image.jpg?id=50349587&width=1200",
-      "publishedAt": "2026-10-26T10:04:00.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://media.lseg-dw.gcpp.io/prod/images/gm_preview/55ee61cbd1e1-dsc7340.webp",
+      "publishedAt": "2026-10-27T09:27:42.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "orcl",
-        "tech-investing",
-        "nyse-orcl"
+        "fintech"
       ],
-      "priority": 42
+      "priority": 41
     },
     {
-      "id": "a2f4cd9929e38356",
-      "slug": "oracle-helps-sharkninja-power-up-its-ai-strategy-208acd",
-      "title": "Oracle Helps SharkNinja Power Up Its AI Strategy",
-      "dek": "Using AI-powered Oracle Fusion Cloud Applications, global product design and technology company is automating work across finance and supply chain to support continued growthOracle AI World -- Oracle is helping SharkNinja, a global product design and technology company, support its AI-powered grow..",
-      "url": "https://investingnews.com/oracle-helps-sharkninja-power-up-its-ai-strategy/",
-      "source": "Investing News Network (inn)",
-      "sourceType": "external",
-      "image": "https://investingnews.com/media-library/image.jpg?id=50349587&width=1200",
-      "publishedAt": "2026-10-26T10:03:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "orcl",
-        "tech-investing",
-        "nyse-orcl"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "5595e8166c909b6d",
-      "slug": "wmata-keeps-its-workforce-moving-with-oracle-fusion-applications-f0f3bb",
-      "title": "WMATA Keeps Its Workforce Moving with Oracle Fusion Applications",
-      "dek": "Major public transportation agency connects HR and payroll processes to reduce administrative complexity, strengthen compliance, and enhance the employee experienceOracle AI WorldWashington Metropolitan Area Transit Authority (WMATA), one of North America's largest public transportation agencies, ..",
-      "url": "https://investingnews.com/wmata-keeps-its-workforce-moving-with-oracle-fusion-applications/",
-      "source": "Investing News Network (inn)",
-      "sourceType": "external",
-      "image": "https://investingnews.com/media-library/image.jpg?id=50349587&width=1200",
-      "publishedAt": "2026-10-26T10:02:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "orcl",
-        "tech-investing",
-        "nyse-orcl"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "3cc42a9e67212c04",
-      "slug": "oracle-advances-autonomous-ai-lakehouse-with-business-semantic-layer-and-expanded-suppor-ec22f6",
-      "title": "Oracle Advances Autonomous AI Lakehouse with Business Semantic Layer and Expanded Support for Iceberg Data",
-      "dek": "New capabilities ground AI agents in business context, enable multidimensional simulations, and govern data consistently across the enterprise data estate, without costly data movementOracle AI World -- Oracle today announced new capabilities for Oracle Autonomous AI Lakehouse that help organizati..",
-      "url": "https://investingnews.com/oracle-advances-autonomous-ai-lakehouse-with-business-semantic-layer-and-expanded-support-for-iceberg-data/",
-      "source": "Investing News Network (inn)",
-      "sourceType": "external",
-      "image": "https://investingnews.com/media-library/image.jpg?id=50349587&width=1200",
-      "publishedAt": "2026-10-26T10:01:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "orcl",
-        "tech-investing",
-        "nyse-orcl"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "ce43394c7f880f25",
-      "slug": "oracle-announces-deep-trust-ai-architecture-to-help-enterprises-innovate-with-confidence-cea8a5",
-      "title": "Oracle Announces Deep Trust AI Architecture to Help Enterprises Innovate with Confidence",
-      "dek": "New architecture helps organizations reduce risk as AI adoption expands by embedding trust into four critical layers of the technology stack Oracle AI World -- Oracle today announced its Deep Trust AI Architecture, a blueprint that makes trust a built-in property of the enterprise technology stack..",
-      "url": "https://investingnews.com/oracle-announces-deep-trust-ai-architecture-to-help-enterprises-innovate-with-confidence/",
-      "source": "Investing News Network (inn)",
-      "sourceType": "external",
-      "image": "https://investingnews.com/media-library/image.jpg?id=50349587&width=1200",
-      "publishedAt": "2026-10-26T10:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "orcl",
-        "tech-investing",
-        "nyse-orcl"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "cfa364c3c48eaf84",
-      "slug": "microsoft-power-bi-vs-tableau-2026-pricing-ai-features-data-integration-and-top-10-busin-4740a1",
-      "title": "Microsoft Power BI vs Tableau 2026: Pricing, AI Features, Data Integration and Top 10 Business Intelligence Platforms",
-      "dek": "Microsoft Power BI and Salesforce Tableau are competing for enterprise business intelligence (BI) spending as CIOs prioritize lower analytics costs",
-      "url": "https://infotechlead.com/software/microsoft-power-bi-vs-tableau-2026-pricing-ai-features-data-integration-and-top-10-business-intelligence-platforms-99171",
+      "id": "8add09daf2db623d",
+      "slug": "snowflake-vs-databricks-10-alternatives-to-cut-data-platform-costs-in-2026-customer-savi-dd7c91",
+      "title": "Snowflake vs Databricks: 10 Alternatives to Cut Data Platform Costs in 2026, Customer Savings Compared",
+      "dek": "Enterprises comparing Snowflake and Databricks in 2026 are looking for ways to reduce cloud data warehouse spending, AI infrastructure costs",
+      "url": "https://infotechlead.com/cloud/snowflake-vs-databricks-10-alternatives-to-cut-data-platform-costs-in-2026-customer-savings-compared-99215",
       "source": "Infotech Lead",
       "sourceType": "external",
-      "image": "https://infotechlead.com/wp-content/uploads/2026/10/Top-10-Business-Intelligence-Platforms-Competing-in-2026.jpg",
-      "publishedAt": "2026-10-26T09:55:56.000Z",
+      "image": "https://infotechlead.com/wp-content/uploads/2026/10/Pricing-and-Cost-Differences-between-Snowflake-vs-Databricks.jpg",
+      "publishedAt": "2026-10-27T09:19:54.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "software"
+        "cio",
+        "it spending"
       ],
-      "priority": 42
+      "priority": 41
     },
     {
-      "id": "da099b385a7bd90d",
-      "slug": "black-box-testing-with-ai-agents-test-the-rules-not-the-code-8fce56",
-      "title": "Black-Box Testing with AI Agents: Test the Rules, Not the Code",
-      "dek": "One of the most useful test reports I've seen an AI produce came from agents that never saw a single line of the application's code. At a company I worked at, we tried a simple experiment. We gave the models the business rules of a system that was already built, and nothing else. No repository, no a",
-      "url": "https://dev.to/soaresdiogo/black-box-testing-with-ai-agents-test-the-rules-not-the-code-17j8",
-      "source": "Dev Community",
-      "sourceType": "external",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fezvh71udt0l6adkjbgx1.png",
-      "publishedAt": "2026-10-26T07:58:58.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "softwareengineering",
-        "qa",
-        "ai",
-        "testing"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "b09b8ba9c7fb3751",
-      "slug": "cambridge-health-group-signs-oracle-mou-to-improve-healthcare-operations-in-uae-4e78fd",
-      "title": "Cambridge Health Group signs Oracle MoU to improve healthcare operations in UAE",
-      "dek": "The collaboration will focus on connecting business functions, improving access to information and using emerging technologies, including artificial intelligence (AI), to support faster decision-making across the Group.",
-      "url": "https://www.healthcaremea.com/2026/10/26/cambridge-health-group-signs-oracle-mou-to-improve-healthcare-operations-in-uae/",
-      "source": "Healthcaremea",
-      "sourceType": "external",
-      "image": "https://www.healthcaremea.com/wp-content/uploads/2026/10/image-1600x900-2026-10-26T104022.176.png",
-      "publishedAt": "2026-10-26T07:41:15.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "latest news",
-        "uae",
-        "hospitals",
-        "oracle",
-        "healthcare delivery",
-        "africa & middle east"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "0721e1d496638905",
-      "slug": "globant-nyse-glob-and-formula-systems-1985-nasdaq-forty-critical-comparison-4b3c3a",
-      "title": "Globant (NYSE:GLOB) and Formula Systems (1985) (NASDAQ:FORTY) Critical Comparison",
-      "dek": "Globant (NYSE:GLOB – Get Free Report) and Formula Systems (1985) (NASDAQ:FORTY – Get Free Report) are both small-cap technology companies, but which is the better business? We will contrast the two businesses based on the strength of their dividends, earnings, institutional ownership, analyst recomm",
-      "url": "https://www.defenseworld.net/2026/10/26/globant-nyseglob-and-formula-systems-1985-nasdaqforty-critical-comparison.html",
+      "id": "ef54ea8d1937647c",
+      "slug": "oracle-corporation-orcl-stock-hourglass-capital-llc-raises-holdings-8dc4ae",
+      "title": "Oracle Corporation $ORCL Stock: Hourglass Capital LLC Raises Holdings",
+      "dek": "Hourglass Capital LLC lifted its position in shares of Oracle Corporation (NYSE:ORCL – Free Report) by 12.9% during the 3rd quarter, according to the company in its most recent 13F filing with the Securities & Exchange Commission. The institutional investor owned 60,678 shares of the enterprise soft",
+      "url": "https://www.defenseworld.net/2026/10/27/oracle-corporation-orcl-stock-hourglass-capital-llc-raises-holdings.html",
       "source": "Defenseworld Net",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/formula-systems-(1985)-ltd-logo-1200x675.png?v=20210709125017",
-      "publishedAt": "2026-10-26T06:15:29.000Z",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-10-27T08:36:27.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "companies",
+        "sec filing articles"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "56b89bfaafbf8eae",
+      "slug": "oracle-invests-1-billion-to-boost-ai-powered-partner-solutions-6ddb07",
+      "title": "Oracle Invests $1 Billion to Boost AI-Powered Partner Solutions",
+      "dek": "Oracle announced a $1 billion commitment to its partner ecosystem to help partners capitalize on customer demand for AI-powered solutions and services. Spanning the next four years, the investment is intended to expand opportunities for partners to develop innovative solutions, build specialized exp",
+      "url": "https://smestreet.in/technology/oracle-invests-1-billion-to-boost-ai-powered-partner-solutions-12757091",
+      "source": "Smestreet In",
+      "sourceType": "external",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/smstreet/media/media_files/2025/02/10/BFHNdlE8FUD3SeHJxx9i.png",
+      "publishedAt": "2026-10-27T08:10:37.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "cloud for smes",
+        "technology for smes"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "61ebf0b291fb2e48",
+      "slug": "pythian-announces-integration-with-gemini-to-help-accelerate-cloud-migration-for-oracle--e924bb",
+      "title": "Pythian Announces Integration with Gemini to Help Accelerate Cloud Migration for Oracle Applications",
+      "dek": "Pythian announced the availability of open-source deployment assets and Model Context Protocol (MCP) connectors for major Oracle enterprise application suites, including Oracle E-Business Suite (EBS), JD Edwards (9.2), and PeopleSoft. Developed by Pythian in collaboration with Google Cloud, these ne",
+      "url": "https://aithority.com/it-and-devops/cloud/pythian-announces-integration-with-gemini-to-help-accelerate-cloud-migration-for-oracle-applications/",
+      "source": "Aithority",
+      "sourceType": "external",
+      "image": "https://aithority.com/wp-content/uploads/2026/10/564984.jpg",
+      "publishedAt": "2026-10-27T08:00:49.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "ai capabilities",
+        "machine learning",
+        "pythian",
+        "gemini",
+        "google cloud",
+        "oracle"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "ba2cf24fd7cf2ea8",
+      "slug": "agentic-ai-market-to-reach-usd-171-2-billion-by-2034-growing-at-41-7-cagr-as-autonomous--9e3ada",
+      "title": "Agentic AI Market to Reach USD 171.2 Billion by 2034, Growing at 41.7% CAGR as Autonomous Agents Transform Enterprise Operations, Says Dimension Market Research",
+      "dek": "Artificial intelligence is no longer waiting for instructions-it is setting goals, making decisions, and taking action. According to Dimension Market Research, the global agentic AI market is projected to grow from USD 7.4 billion in 2025 to USD 171.2 billion",
+      "url": "https://www.openpr.com/news/4673406/agentic-ai-market-to-reach-usd-171-2-billion-by-2034-growing",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/a/La27218596_k.jpg",
+      "publishedAt": "2026-10-27T07:21:16.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "it",
+        "new media & software"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "928502e81c12cfb9",
+      "slug": "cognizant-and-ebrd-partnership-puts-ai-into-bank-technology-operations-819424",
+      "title": "Cognizant and EBRD partnership puts AI into bank technology operations",
+      "dek": "Cognizant and EBRD partnership backs a five-year Tech Blueprint with AI-enabled operations, software engineering, cloud services and IT modernisation.",
+      "url": "https://www.dqchannels.com/news/cognizant-and-ebrd-partnership-targets-five-years-of-modernisation-12756658",
+      "source": "Dqc",
+      "sourceType": "external",
+      "image": "https://img-cdn.publive.online/dqc/media/media_files/2026/10/27/ai-powered-banking-partnership-2026-10-27-12-40-20.png",
+      "publishedAt": "2026-10-27T07:11:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "cognizant"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "558ab0e2b4650017",
+      "slug": "ai-world-oracle-sets-agents-loose-on-fusion-cloud-apps-5825fb",
+      "title": "AI World: Oracle sets agents loose on Fusion Cloud apps",
+      "dek": "On the opening day of its annual AI World conference, Oracle brought a wide range of agentic innovations to bear on its Fusion Cloud application suite",
+      "url": "https://www.computerweekly.com/news/366652561/AI-World-Oracle-sets-agents-loose-on-Fusion-Cloud-apps",
+      "source": "Computerweekly News",
+      "sourceType": "external",
+      "image": "https://cdn.ttgtmedia.com/visuals/ComputerWeekly/HeroImages/using-AI-agent-chatbot-Looker-Studio-adobe.jpg",
+      "publishedAt": "2026-10-27T06:42:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "AI"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "219690b0c8aa84cd",
+      "slug": "suiteworld-2026-the-end-of-erp-as-we-know-it-says-netsuite-executive-0bfa98",
+      "title": "SuiteWorld 2026: The end of ERP as we know it, says NetSuite executive",
+      "dek": "NetSuite co-founder and executive vice-president Evan Goldberg says AI is moving business software beyond menu navigation, while expanding access to the platform for startups",
+      "url": "https://www.computerweekly.com/news/366652560/SuiteWorld-2026-The-end-of-ERP-as-we-know-it-says-NetSuite-executive",
+      "source": "Techtarget",
+      "sourceType": "external",
+      "image": "https://cdn.ttgtmedia.com/visuals/LeMagIT/hero_article/AI-bot-AdobeStock_909560265.jpg",
+      "publishedAt": "2026-10-27T06:40:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "NetSuite",
+        "AI"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "3eae4ec522a40b18",
+      "slug": "oracle-advances-outcome-driven-ai-across-fusion-applications-a8e207",
+      "title": "Oracle Advances Outcome-Driven AI Across Fusion Applications",
+      "dek": "Oracle today announced new AI innovations across Oracle Fusion Cloud Applications. With new Oracle Fusion Agentic Applications powered by Oracle Fusion Claw, organizations can complete highly complex work economically and at scale across finance, HR, supply chain, sales, and service. To connect busi",
+      "url": "https://cxotoday.com/media-coverage/oracle-advances-outcome-driven-ai-across-fusion-applications/",
+      "source": "Cxotoday",
+      "sourceType": "external",
+      "image": "https://cxotoday.com/wp-content/uploads/2022/08/CXO-Oracle-300x200.jpeg",
+      "publishedAt": "2026-10-27T06:37:22.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "media coverage",
+        "oracle"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "8bfb37bd3352dffe",
+      "slug": "itau-acquires-neospace-for-588m-betting-finance-data-beats-generic-ai-models-3ccc16",
+      "title": "Itaú Acquires NeoSpace for $588M, Betting Finance Data Beats Generic AI Models",
+      "dek": "Itau Unibanco acquires NeoSpace A.I. Technologies for $588 million, betting that two years of custom AI training on its own 60-million-customer banking dataset will outperform any generic model from OpenAI, Google, or any other cloud provider. The deal establishes a new benchmark for what proprietar",
+      "url": "https://www.techtimes.com/articles/329532/20261027/itau-acquires-neospace-588m-betting-finance-data-beats-generic-ai-models.htm",
+      "source": "Techtimes",
+      "sourceType": "external",
+      "image": "https://d.techtimes.com/en/full/477216/itau.jpg",
+      "publishedAt": "2026-10-27T06:20:01.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "artificial intelligence"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "ff24745bf9204b2d",
+      "slug": "balasubramanyan-subbaraman-joins-a-t-video-to-drive-expansion-510224",
+      "title": "Balasubramanyan Subbaraman joins A&T Video to drive expansion",
+      "dek": "Balasubramanyan Subbaraman joins A&T Video as Executive Director, focusing on enterprise clients, government projects, electronics manufacturing and AI-led AV solutions.",
+      "url": "https://www.dqchannels.com/news/balasubramanyan-subbaraman-joins-at-video-as-ai-shapes-av-plans-12756597",
+      "source": "Dqc",
+      "sourceType": "external",
+      "image": "https://img-cdn.publive.online/dqc/media/media_files/2026/10/27/confident-leader-in-a-golden-corporate-future-2026-10-27-11-39-51.png",
+      "publishedAt": "2026-10-27T06:10:13.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "pro av",
+        "executive director",
+        "a&amp;t video",
+        "subbaraman joins a&amp;t video",
+        "av leadership",
+        "balasubramanyan subbaraman a&amp;t video"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "5637fa2a096e2eca",
+      "slug": "oracle-announces-ai-planning-engine-and-semantic-layer-to-stop-agents-misreading-busines-36169d",
+      "title": "Oracle Announces AI Planning Engine and Semantic Layer to Stop Agents Misreading Business Data",
+      "dek": "Oracle Business Semantic Layer and Business Simulation Engine were announced at Oracle AI World Las Vegas 2026, giving enterprise AI agents consistent metric definitions and Essbase-backed what-if planning inside one lakehouse. Both features are expected within 12 months. Iceberg SQL support expands",
+      "url": "https://www.techtimes.com/articles/329524/20261027/oracle-announces-ai-planning-engine-semantic-layer-stop-agents-misreading-business-data.htm",
+      "source": "Techtimes",
+      "sourceType": "external",
+      "image": "https://d.techtimes.com/en/full/465763/oracle.jpg",
+      "publishedAt": "2026-10-27T05:50:01.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "business"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "8b5db1a391b98463",
+      "slug": "head-to-head-survey-oracle-nyse-orcl-versus-gorilla-technology-group-nasdaq-grrr-705012",
+      "title": "Head-To-Head Survey: Oracle (NYSE:ORCL) versus Gorilla Technology Group (NASDAQ:GRRR)",
+      "dek": "Gorilla Technology Group (NASDAQ:GRRR – Get Free Report) and Oracle (NYSE:ORCL – Get Free Report) are both technology companies, but which is the superior investment? We will compare the two businesses based on the strength of their dividends, valuation, earnings, analyst recommendations, institutio",
+      "url": "https://www.defenseworld.net/2026/10/27/head-to-head-survey-oracle-nyseorcl-versus-gorilla-technology-group-nasdaqgrrr.html",
+      "source": "Defenseworld Net",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-10-27T05:47:56.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "companies",
@@ -474,83 +488,116 @@
       "priority": 39
     },
     {
-      "id": "ad22f886f3cf9c53",
-      "slug": "oracle-announces-1-billion-investment-to-accelerate-partner-growth-and-ai-driven-moderni-3b120c",
-      "title": "Oracle Announces $1 Billion Investment to Accelerate Partner Growth and AI-Driven Modernization for Customers",
-      "dek": "Oracle today announced a $1 billion commitment to its partner ecosystem to help partners capitalize on customer demand for AI-powered solutions and services. Spanning the next four years, the investment… The post Oracle Announces $1 Billion Investment to Accelerate Partner Growth and AI-Driven Moder",
-      "url": "https://www.cioandleader.com/oracle-announces-1-billion-investment-to-accelerate-partner-growth-and-ai-driven-modernization-for-customers/",
-      "source": "Cio&leader",
+      "id": "75bd02ff8466a33d",
+      "slug": "suiteworld-26-netsuite-unveils-new-ai-tools-to-boost-efficiency-for-small-businesses-770957",
+      "title": "SuiteWorld 26: NetSuite unveils new AI tools to boost efficiency for small businesses",
+      "dek": "Oracle NetSuite has introduced SuiteExpress and SuiteSkills to transform business operations..",
+      "url": "https://economictimes.indiatimes.com/small-biz/security-tech/technology/suiteworld-26-netsuite-unveils-new-ai-tools-to-boost-efficiency-for-small-businesses/articleshow/135223095.cms",
+      "source": "The Economic Times",
       "sourceType": "external",
-      "image": "https://www.cioandleader.com/wp-content/uploads/2026/01/AI_.webp",
-      "publishedAt": "2026-10-26T05:53:26.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://img.etimg.com/thumb/msid-135224804,resizemode-4,width-1200,height-900,imgsize-35412,overlay-etrise/articleshow.jpg",
+      "publishedAt": "2026-10-27T04:54:25.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "ai",
-        "press release"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "461ef91d7ae6f629",
-      "slug": "department-of-justice-files-suit-to-block-certification-of-alaska-senate-vote-but-only-i-c62a7c",
-      "title": "Department of Justice files suit to block certification of Alaska Senate vote—but only if Republican loses",
-      "dek": "The unprecedented lawsuit, defying the US Constitution, is the first overt action by the Trump administration to challenge the results of the midterm election.",
-      "url": "https://www.wsws.org/en/articles/2026/10/26/zyli-o26.html",
-      "source": "World Socialist Web Site",
-      "sourceType": "external",
-      "image": "https://www.wsws.org/asset/c0365d9d-8de4-4bb5-8dec-a3f49902435f?rendition=1600x900",
-      "publishedAt": "2026-10-26T04:08:45.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "Certification"
+        "oracle netsuite",
+        "ai tools for small businesses",
+        "suiteskills",
+        "erp implementation tools",
+        "business operations efficiency",
+        "netsuite suiteexpress"
       ],
       "priority": 38
     },
     {
-      "id": "82f3c70acea6c585",
-      "slug": "oracle-s-racers-ai-removes-the-grind-increases-focus-22ff6f",
-      "title": "Oracle's racers: AI removes the grind, increases focus",
-      "dek": "Oracle Red Bull Racing and SailGP provide insights into AI's relentless incursion into the world of human performance.",
-      "url": "https://itbrief.asia/story/oracle-s-racers-ai-removes-the-grind-increases-focus",
-      "source": "It Brief Asia",
+      "id": "b2ef3099a7ecd2e6",
+      "slug": "suiteworld-2026-oracle-netsuite-adds-new-ai-capabilities-moves-closer-to-autonomous-suit-d97ffc",
+      "title": "SuiteWorld 2026: Oracle NetSuite adds new AI capabilities, moves closer to autonomous suite vision",
+      "dek": "NetSuite’s new AI capabilities include AI Workspaces, AI Portlets, SuiteSkills, industry-specific agents, and SuiteAgent Studio, along with updates to Ask Oracle.",
+      "url": "https://economictimes.indiatimes.com/small-biz/security-tech/technology/suiteworld-2026-oracle-netsuite-adds-new-ai-capabilities-moves-closer-to-autonomous-suite-vision/articleshow/135224731.cms",
+      "source": "The Economic Times",
       "sourceType": "external",
-      "image": "https://itbrief.asia/uploads/story/2026/10/26/compatible_SI202610260001_hires_jpeg_24bit_rgb-story-322277.jpg",
-      "publishedAt": "2026-10-26T02:21:00.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://img.etimg.com/thumb/msid-135224752,resizemode-4,width-1200,height-900,imgsize-135186,overlay-etrise/articleshow.jpg",
+      "publishedAt": "2026-10-27T04:50:19.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "oracle netsuite",
+        "ai workspaces",
+        "suiteworld 2026",
+        "suiteskills",
+        "autonomous suite",
+        "ai capabilities"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "7b752781cd115396",
+      "slug": "netsuite-rolls-out-ai-suite-tools-in-australia-nz-b69b4b",
+      "title": "NetSuite rolls out AI suite tools in Australia & NZ",
+      "dek": "Some tools are already reaching Australian and New Zealand users as the ERP vendor expands AI features for finance, inventory and approvals.",
+      "url": "https://itbrief.co.nz/story/netsuite-rolls-out-ai-suite-tools-in-australia-nz",
+      "source": "It Brief New Zealand",
+      "sourceType": "external",
+      "image": "https://itbrief.co.nz/uploads/story/2026/10/27/compatible_modern-office-dashboard-cloud-erp-finance-inventory-workflows-story-322549.jpg",
+      "publishedAt": "2026-10-27T03:22:00.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
         "technology"
       ],
       "priority": 37
     },
     {
-      "id": "f39b3e78642932f6",
-      "slug": "infosys-differentiated-ai-strategy-and-a-sharp-focus-on-value-unlock-propels-29-sequenti-acda32",
-      "title": "Infosys:Differentiated AI strategy and a sharp focus on value unlock propels 29% sequential growth in AI revenues | AAP",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://aap.com.au/aapreleases/cision20261023ae78864/",
-      "source": "Australian Associated Press",
+      "id": "739c36c3f251d860",
+      "slug": "a-buyer-s-guide-to-heda-shelves-global-leading-warehouse-racking-system-manufacturer-fro-fa234e",
+      "title": "A Buyer's Guide to HEDA SHELVES: Global Leading Warehouse Racking System Manufacturer From China",
+      "dek": "What should an international buyer really expect from a Global Leading Warehouse Racking System Manufacturer? The phrase should be tested against practical evidence rather than treated as a marketing label. For warehouse racking procurement, that evidence includes engineering capability, configurabl",
+      "url": "https://www.openpr.com/news/4673191/a-buyer-s-guide-to-heda-shelves-global-leading-warehouse",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-10-26T02:01:25.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "b32b06bfba20bba8",
-      "slug": "oracle-pledges-usd-1-billion-to-partner-ecosystem-3d73e8",
-      "title": "Oracle pledges USD $1 billion to partner ecosystem",
-      "dek": "The move aims to widen partner sales, support and cloud migration work as Oracle tries to deepen links with customers through its marketplace.",
-      "url": "https://channellife.com.au/story/oracle-pledges-usd-1-billion-to-partner-ecosystem",
-      "source": "Channellife Australia",
-      "sourceType": "external",
-      "image": "https://channellife.com.au/uploads/story/2026/10/26/compatible_1000009936-story-322280.jpg",
-      "publishedAt": "2026-10-26T01:53:00.000Z",
+      "image": "https://cdn.open-pr.com/L/a/La27905684_k.jpg",
+      "publishedAt": "2026-10-27T03:05:34.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "technology"
+        "logistics & transport"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "6b73769edbf71c57",
+      "slug": "java-for-absolute-beginners-a-complete-easy-guide-f6250c",
+      "title": "Java for Absolute Beginners: A Complete, Easy Guide",
+      "dek": "Java is a popular, platform-independent programming language used to build mobile apps, web applications, enterprise software, and backend systems. This blog explains Java from “What is Java?” to your first Hello, World! program in a simple, learner-friendly order. 1. Why Java? Choose Java because i",
+      "url": "https://dev.to/rakesh_akm/java-for-absolute-beginners-a-complete-easy-guide-1dhh",
+      "source": "Dev Community",
+      "sourceType": "external",
+      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fj306sgf09sg9bu05387w.png",
+      "publishedAt": "2026-10-27T02:26:21.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "webdev",
+        "java",
+        "programming",
+        "learning"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "ccfc744502f44dea",
+      "slug": "the-outlook-for-the-artificial-intelligence-ai-in-predictive-toxicology-market-strengthe-871fd2",
+      "title": "The Outlook for the Artificial Intelligence (AI) in Predictive Toxicology Market Strengthens as Global Demand Increases",
+      "dek": "The Business Research Company’s The Outlook for the Artificial Intelligence in Predictive Toxicology Global Market Report 2026–Market Size, Forecast 2026-2035",
+      "url": "https://www.einpresswire.com/article/951750113/the-outlook-for-the-artificial-intelligence-ai-in-predictive-toxicology-market-strengthens-as-global-demand-increases",
+      "source": "Ein Presswire",
+      "sourceType": "external",
+      "image": "https://img.einnews.com/ampsize/1227561/artificial-intelligence-ai-in.png",
+      "publishedAt": "2026-10-27T00:30:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "business and economy",
+        "japan",
+        "energy industry",
+        "chemical industry",
+        "world",
+        "united states"
       ],
       "priority": 36
     },
@@ -1981,38 +2028,6 @@
         "Oracle Database",
         "MySQL",
         "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "7fc0f877b6c48593",
-      "slug": "hybrid-columnar-compression-fast-ingest-a4b392",
-      "title": "Hybrid Columnar Compression & Fast Ingest",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with Senior Principal Database & MySQL Instructor Bill Millar about the enhanced performance of Hybrid Columnar Compression, the different compression levels, and how to achieve the best compression for your tables. Then, they delve into F",
-      "url": "https://oracleuniversitypodcast.libsyn.com/hybrid-columnar-compression-fast-ingest",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP7.mp3?dest-id=3870039",
-      "publishedAt": "2024-09-10T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "MySQL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "028f55b53f871be3",
-      "slug": "the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfall-f2dc7e",
-      "title": "The ethics of AI in Academia. Benefits and promise of AI. What should you consider? Pitfalls to avoid?",
-      "dek": "In this episode host Oracle Academy manager Tyra Peirce speaks with Mary Olson Industry Executive Director, Education at Oracle. Tyra and Mary speak about the ethics of AI in education and give practical advice on how to best use the technology while avoiding common pitfalls. -----------------------",
-      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfalls-to-avoid",
-      "source": "Oracle Academy Tech Chat",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP01.mp3?dest-id=3949203",
-      "publishedAt": "2024-09-03T12:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "AI"
       ],
       "priority": 36
     }
