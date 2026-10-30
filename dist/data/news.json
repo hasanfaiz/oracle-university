@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T00:05:28.032Z",
+  "generatedAt": "2026-10-30T00:01:39.458Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,853 +7,699 @@
   },
   "items": [
     {
-      "id": "bc95e999c5aaa38e",
-      "slug": "upwind-s-400m-series-c-follows-fourfold-revenue-growth-and-a-jump-to-a-3-8b-valuation-41416f",
-      "title": "Upwind’s $400M Series C Follows Fourfold Revenue Growth and a Jump to a $3.8B Valuation",
-      "dek": "Upwind Security has more than doubled its valuation since the beginning of 2026, securing a $400 million Series C round as its revenue quadruples and enterprise demand for cloud and AI security continues to develop. The financing values the company at $3.8 billion, up from $1.5 billion in its Series",
-      "url": "https://nytech.media/upwinds-400m-series-c-follows-fourfold-revenue-growth-and-a-jump-to-a-3-8b-valuation/",
-      "source": "New York Tech Media",
+      "id": "660e0e8cb4720221",
+      "slug": "immutable-data-beyond-value-classes-ata-db955b",
+      "title": "\"Immutable Data Beyond Value Classes\" [AtA]",
+      "dek": "Object-Oriented Programming offers a lot of flexibility for modelling diverse domains but not all elements need that flexibility. Data, specifically, is often better modeled by simple, immutable types and while OOP does not prevent that, it can make it a bit cumbersome. So in recent and coming years",
+      "url": "https://inside.java/2026/10/29/podcast-073/",
+      "source": "Inside Java",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/insidejava/ijp-73.mp3?dest-id=2318780",
+      "publishedAt": "2026-10-29T07:32:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 52
+    },
+    {
+      "id": "4f9be1f5f20a3df6",
+      "slug": "the-5-essential-layers-of-ai-agent-sandboxing-on-kubernetes-15fb54",
+      "title": "The 5 essential layers of AI agent sandboxing on Kubernetes",
+      "dek": "An AI agent given autonomy to run code will inevitably run code no human has reviewed. It may install model-selected The post The 5 essential layers of AI agent sandboxing on Kubernetes appeared first on The New Stack.",
+      "url": "https://thenewstack.io/ai-agent-sandboxing-kubernetes/",
+      "source": "The New Stack",
       "sourceType": "external",
-      "image": "https://nytech.media/wp-content/uploads/2026/10/Amiram-Shachar-3-Upwind-2.png",
-      "publishedAt": "2026-10-28T12:03:14.000Z",
-      "topic": "Security",
+      "image": "https://cdn.thenewstack.io/media/2026/10/926c3e14-joshua-earle-bbso944xe1u-unsplash.jpg",
+      "publishedAt": "2026-10-29T12:00:00.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "cybersecurity",
-        "funding announcement",
-        "upwind security"
+        "kubernetes",
+        "security",
+        "sponsored-post-contributed",
+        "ai agents",
+        "sponsor-cncf"
       ],
       "priority": 43
     },
     {
-      "id": "9b73423e3a7f0275",
-      "slug": "suse-advances-multi-linux-management-and-agentic-ai-capabilities-63aa1d",
-      "title": "SUSE advances multi-Linux management and agentic AI capabilities",
-      "dek": "Expanding the availability of its open infrastructure portfolio for use on Oracle Cloud Infrastructure",
-      "url": "https://www.zawya.com/en/press-release/companies-news/suse-advances-multi-linux-management-and-agentic-ai-capabilities-1854377",
-      "source": "Zawya",
+      "id": "5a266ac34d56a4d3",
+      "slug": "rent-the-model-own-the-harness-own-the-network-561209",
+      "title": "Rent the model. Own the harness. Own the network.",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://fortune.com/2026/10/29/rent-the-model-own-the-harness-ai-choke-points/",
+      "source": "Fortune",
       "sourceType": "external",
-      "image": "https://media.lseg-dw.gcpp.io/prod/images/gm_preview/638e1e849271-susesignage.webp",
-      "publishedAt": "2026-10-28T12:00:58.000Z",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/multi-model-era-by-the-numbers.jpg?w=2048",
+      "publishedAt": "2026-10-29T12:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "business"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "6beb9c5e85ba0a46",
+      "slug": "oracle-ai-world-26-baking-a-supply-chain-global-view-with-ai-insight-at-grupo-bimbo-dea454",
+      "title": "Oracle AI World 26 - baking a supply chain global view with AI insight at Grupo Bimbo",
+      "dek": "One of the world's largest bakery firms has risen through standardization on Oracle apps.",
+      "url": "https://diginomica.com/oracle-ai-world-26-baking-supply-chain-global-view-ai-insight-grupo-bimbo",
+      "source": "Diginomica",
+      "sourceType": "external",
+      "image": "https://diginomica.com/sites/default/files/images/2026-10/Osito-Trigo-min.jpg",
+      "publishedAt": "2026-10-29T11:54:39.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "agentic ai",
+        "enterprise ai",
+        "cloud erp financials and supply chain",
+        "audio",
+        "ai adoption"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "1f9a490bdf832738",
+      "slug": "ai-build-out-hits-snag-as-google-and-microsoft-put-off-raising-capex-forecasts-c2d816",
+      "title": "AI build-out hits snag as Google and Microsoft put off raising capex forecasts",
+      "dek": "Microsoft and Alphabet both reported capital expenditures that fell short of estimates, adding to concern over the cost of the AI build-out.",
+      "url": "https://www.cnbc.com/2026/10/29/microsoft-google-ai-capex-estimates.html",
+      "source": "Cnbc",
+      "sourceType": "external",
+      "image": "https://image.cnbcfm.com/api/v1/image/108084419-1736449342986-Side_by_Side_template.jpg?v=1736449542&w=1200&h=675",
+      "publishedAt": "2026-10-29T11:43:26.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "openai - forge global",
+        "business",
+        "invesco qqq trust",
+        "iren ltd",
+        "oracle corp",
+        "technology select sector spdr fund"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "f22dbc18f4811bec",
+      "slug": "india-s-data-centre-capacity-hits-1-57-gw-as-cloud-and-ai-infrastructure-expand-35eee5",
+      "title": "India’s Data Centre Capacity Hits 1.57 GW as Cloud and AI Infrastructure Expand",
+      "dek": "India's data centre capacity reached 1.57 GW in August 2026 as the government expanded MeghRaj, IndiaAI and domestic cloud infrastructure, with fresh investments, GPU access and data protection measures shaping the country's digital future.",
+      "url": "https://www.aryanage.com/article/49689/india%E2%80%99s-data-centre-capacity-hits-157-gw-as-cloud-and",
+      "source": "Aryan Age",
+      "sourceType": "external",
+      "image": "https://www.aryanage.com/media/2026-10/image---2026-10-29t170808.098.jpg",
+      "publishedAt": "2026-10-29T11:38:29.000Z",
       "topic": "Oracle Cloud",
       "tags": [
-        "artificial intelligence"
+        "india"
       ],
       "priority": 43
     },
     {
-      "id": "fecd80131bee645c",
-      "slug": "upwind-s-400m-series-c-backs-a-runtime-first-security-strategy-as-revenue-quadruples-c3eddd",
-      "title": "Upwind’s $400M Series C backs a runtime-first security strategy as revenue quadruples",
-      "dek": "The moment a cloud workload changes, the security picture around it can change too. A new application release, an altered configuration or an interaction between services may affect whether an exposure can be exploited. For security teams relying on periodic assessments, keeping pace with those chan",
-      "url": "https://thenextweb.com/news/upwind-400m-series-c-runtime-security-revenue-quadruples",
-      "source": "Tnw",
+      "id": "3680a11d71797bdd",
+      "slug": "the-new-rules-for-big-tech-s-ai-spending-704372",
+      "title": "The New Rules For Big Tech's AI Spending",
+      "dek": "Big Tech AI capex faces a Goldilocks test as Alphabet, Microsoft and Oracle balance spending, cash flow and monetization. Read more.",
+      "url": "https://seekingalpha.com/article/4959150-the-new-rules-for-big-techs-ai-spending",
+      "source": "Seeking Alpha",
       "sourceType": "external",
-      "image": "https://media.thenextweb.com/2026/10/upwind-ceo-amiram-shachar-sofa-dog.avif",
-      "publishedAt": "2026-10-28T12:00:56.000Z",
-      "topic": "Security",
-      "tags": [
-        "contributed"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "2b1ba05b9f0c25b5",
-      "slug": "cloud-security-startup-upwind-raises-400m-at-3-8b-valuation-as-revenue-quadruples-b8deac",
-      "title": "Cloud security startup Upwind raises $400M at $3.8B valuation as revenue quadruples",
-      "dek": "Cloud and artificial intelligence security startup Upwind Security Inc. today revealed that it has raised $400 million in new funding at a valuation of $3.8 billion. Reports in early September had the round at $300 million. By the time it closed, Upwind had taken in an additional $100 million, and t",
-      "url": "https://siliconangle.com/2026/10/28/cloud-security-startup-upwind-raises-400m-at-3-8b-valuation-as-revenue-quadruples/",
-      "source": "Siliconangle",
-      "sourceType": "external",
-      "image": "https://images.siliconangle.com/blogs.dir/1/files/2026/10/upwind.png",
-      "publishedAt": "2026-10-28T12:00:23.000Z",
-      "topic": "Security",
-      "tags": [
-        "salesforce",
-        "spot",
-        "canapi ventures",
-        "top story 4",
-        "aws",
-        "news"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "8b96f7484a8bf380",
-      "slug": "upwind-raises-400m-series-c-at-3-8b-valuation-as-revenue-quadruples-in-2026-20e18d",
-      "title": "Upwind Raises $400M Series C at $3.8B Valuation as Revenue Quadruples in 2026",
-      "dek": "Upwind Security reports a $400M Series C at a $3.8B valuation as revenue quadruples, supporting expansion of runtime cloud and AI security.",
-      "url": "https://hackernoon.com/upwind-raises-$400m-series-c-at-$38b-valuation-as-revenue-quadruples-in-2026",
-      "source": "Hackernoon",
-      "sourceType": "external",
-      "image": "https://cdn.hackernoon.com/images/Gea57yzWSwTWXffnxe0x7Iz3peS2-4183be0.png",
-      "publishedAt": "2026-10-28T12:00:02.000Z",
-      "topic": "Security",
-      "tags": [
-        "runtime-cloud-security",
-        "upwind-security",
-        "autonomous-threat",
-        "aws-security-hub-extended",
-        "cloud-attack-path-validation",
-        "cybersecurity-funding"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "57c80559a3b5119c",
-      "slug": "spot-io-founder-s-upwind-raises-400m-at-3-8b-six-years-after-his-450m-exit-2266c6",
-      "title": "Spot.io founder’s Upwind raises $400M at $3.8B, six years after his $450M exit",
-      "dek": "Amiram Shachar sold his first company, Spot.io, to NetApp for $450 million in 2020. His second company, Upwind,…",
-      "url": "https://techfundingnews.com/upwind-400m-series-c-3-8b-valuation-cloud-ai-security/",
-      "source": "Techfundingnews",
-      "sourceType": "external",
-      "image": "https://techfundingnews.com/wp-content/uploads/2026/10/Upwind-Security.png",
-      "publishedAt": "2026-10-28T12:00:00.000Z",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2213473593/image_2213473593.jpg?io=getty-c-w1280",
+      "publishedAt": "2026-10-29T11:30:37.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "ai",
-        "latest news",
-        "news",
-        "startups news",
-        "us",
-        "israel tech news"
+        "wall street breakfast"
       ],
       "priority": 43
     },
     {
-      "id": "8a1914254f0005bd",
-      "slug": "saudi-arabia-generative-engine-optimization-market-to-reach-usd-128-1-million-by-2035-gr-303099",
-      "title": "Saudi Arabia Generative Engine Optimization Market to Reach USD 128.1 Million by 2035, Growing at 30.8% CAGR as Vision 2030 Accelerates AI-First Digital Strategies, Says Dimension Market Research",
-      "dek": "The way people discover information is changing-and Saudi Arabia is positioning itself at the forefront of that shift. According to Dimension Market Research, the Saudi Arabia Generative Engine Optimization Market is projected to grow from USD 11.5 million in 2026",
-      "url": "https://www.openpr.com/news/4675109/saudi-arabia-generative-engine-optimization-market-to-reach-usd",
+      "id": "325201d7212e8f91",
+      "slug": "fed-calm-spoiled-by-renewed-ai-jitters-ecb-eyed-next-789b80",
+      "title": "Fed Calm Spoiled by renewed AI Jitters, ECB Eyed Next",
+      "dek": "Market Analysis by Trading Point covering: Euro US Dollar, US Dollar Canadian Dollar, Gold Spot US Dollar, Microsoft Corporation. Read Trading Point's Market Analysis on Investing.com",
+      "url": "https://www.investing.com/analysis/fed-calm-spoiled-by-renewed-ai-jitters-ecb-eyed-next-200690517",
+      "source": "Investing Us",
+      "sourceType": "external",
+      "image": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
+      "publishedAt": "2026-10-29T11:20:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "gold spot us dollar",
+        "us dollar canadian dollar",
+        "euro us dollar",
+        "microsoft corporation"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "49e15d9694a06964",
+      "slug": "oracle-ai-world-26-building-data-centers-look-it-s-complicated-says-oracle-co-ceo-clay-m-dbde00",
+      "title": "Oracle AI World 26 - building data centers? Look, it's complicated, says Oracle co-CEO Clay Magouyrk, but it's under control",
+      "dek": "CapEx looks like reaching a point where it's capped, but for now Magouyrk has a few myths to dispel.",
+      "url": "https://diginomica.com/oracle-ai-world-26-building-data-centers-look-its-complicated-says-oracle-co-ceo-clay-magouyrk-its",
+      "source": "Diginomica",
+      "sourceType": "external",
+      "image": "https://diginomica.com/sites/default/files/images/2026-10/Screenshot%202026-10-28%20at%2018.46.00.png",
+      "publishedAt": "2026-10-29T11:18:16.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "cloud platforms - infrastructure and architecture",
+        "enterprise ai",
+        "audio",
+        "ai adoption"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "41f8d6df00cd50fd",
+      "slug": "startup-news-and-updates-daily-roundup-october-29-2026-bd72e7",
+      "title": "Startup news and updates: daily roundup (October 29, 2026)",
+      "dek": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Thursday, October 29, 2026.",
+      "url": "https://yourstory.com/2026/10/startup-news-and-updates-daily-roundup-october-29-2026",
+      "source": "Yourstory",
+      "sourceType": "external",
+      "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/DailyRoundupImages1600x900-1774005165949.jpg",
+      "publishedAt": "2026-10-29T11:13:15.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 43
+    },
+    {
+      "id": "12a4d948654d30d5",
+      "slug": "oracle-shares-gain-on-long-term-outlook-plans-for-positive-free-cash-flow-539936",
+      "title": "Oracle Shares Gain On Long-term Outlook, Plans For Positive Free Cash Flow",
+      "dek": "REDWOOD SHORES (dpa-AFX) - Oracle Corp.'s (ORCL) shares increased significantly after the tech major announced positive long-term outlook and plans for reaching positive free cash flow, closing We...",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69973497-oracle-shares-gain-on-long-term-outlook-plans-for-positive-free-cash-flow-020.htm",
+      "source": "Finanznachrichten.de",
+      "sourceType": "external",
+      "image": "https://www.finanznachrichten.de/chart-oracle-corporation-aktie-intraday-tradegate.png",
+      "publishedAt": "2026-10-29T11:06:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "term",
+        "cash",
+        "flow",
+        "shares",
+        "outlook",
+        "free"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "ad3870b542b99547",
+      "slug": "oracle-just-did-what-alphabet-couldn-t-convince-wall-street-that-ai-spending-pays-off-0744d6",
+      "title": "Oracle Just Did What Alphabet Couldn’t: Convince Wall Street That AI Spending Pays Off",
+      "dek": "On October 28, 2026, two of the biggest AI spenders in the market got opposite reactions. Oracle (NYSE:ORCL) rose 11% on the day of its investor day. That evening, Alphabet (NASDAQ:GOOGL) reported third-quarter results, and its shares fell about 10% in premarket trading on October 29, 2026. Alphabet",
+      "url": "https://247wallst.com/investing/2026/10/29/oracle-just-did-what-alphabet-couldnt-convince-wall-street-that-ai-spending-pays-off/",
+      "source": "24/7 Wall St",
+      "sourceType": "external",
+      "image": "https://247wallst.com/wp-content/uploads/2022/03/imageForEntry2-1wd.jpg",
+      "publishedAt": "2026-10-29T11:03:01.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "investing"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "52d75b20282f1722",
+      "slug": "two-decades-of-mathematical-research-demotes-legacy-silicon-sd-wan-database-cloud-comput-85f87b",
+      "title": "Two Decades of Mathematical Research Demotes Legacy Silicon, SD-WAN, Database & Cloud Computing Infrastructures",
+      "dek": "SILICON VALLEY, CA - Synchroknot Incorporated, a California Corporation, has announced the availability of three pre-packaged infrastructure asset bundles containing architectural blueprints, specifications, and reference implementation source code for its processor, database and networking technolo",
+      "url": "https://www.openpr.com/news/4675722/two-decades-of-mathematical-research-demotes-legacy-silicon",
       "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/a/La28377899_k.jpg",
-      "publishedAt": "2026-10-28T11:57:59.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://cdn.open-pr.com/L/a/La29434147_k.jpg",
+      "publishedAt": "2026-10-29T10:57:29.000Z",
+      "topic": "AI & Database",
       "tags": [
         "it",
         "new media & software"
       ],
-      "priority": 43
-    },
-    {
-      "id": "7125f8b3b2b756b3",
-      "slug": "google-s-ai-chips-are-headed-to-oracle-s-cloud-and-the-information-says-openai-wants-the-4b24e6",
-      "title": "Google’s AI Chips Are Headed to Oracle’s Cloud, and The Information Says OpenAI Wants Them Too",
-      "dek": "Oracle will start offering Google's TPU chips on OCI in 2027, the first hyperscale cloud outside Google to do so. The Information reports OpenAI also plans to buy TPUs, though terms weren't disclosed.",
-      "url": "https://www.webpronews.com/google-tpu-oracle-cloud-openai-ai-chips/",
-      "source": "Webpronews",
-      "sourceType": "external",
-      "image": "https://www.webpronews.com/wp-content/uploads/2026/10/google-tpu-oracle-cloud-openai-ai-chips.jpg",
-      "publishedAt": "2026-10-28T11:57:14.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "multicloudpro",
-        "top news",
-        "anthropic",
-        "google",
-        "oracle cloud infrastructure",
-        "nvidia"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "7b219f24885f7cc1",
-      "slug": "earnings-call-transcript-info-edge-posts-stronger-margins-in-q2-2026-d34f61",
-      "title": "Earnings call transcript: Info Edge posts stronger margins in Q2 2026",
-      "dek": "Earnings call transcript: Info Edge posts stronger margins in Q2 2026",
-      "url": "https://au.investing.com/news/stock-market-news/earnings-call-transcript-info-edge-posts-stronger-margins-in-q2-2026-93CH-4721106",
-      "source": "Investing Australia",
-      "sourceType": "external",
-      "image": "https://content-media.investing.com/news/moved_LYNXMPEM3Q0WG_1200_L.jpg",
-      "publishedAt": "2026-10-28T11:48:12.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "Earnings"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "178a9f30ba532b51",
-      "slug": "oracle-brings-snowflake-ai-data-cloud-to-oci-50649c",
-      "title": "Oracle brings Snowflake AI Data Cloud to OCI",
-      "dek": "Oracle and Snowflake plan to bring Snowflake AI Data Cloud to OCI, with unified billing, Oracle Universal Credits and enterprise AI capabilities. News",
-      "url": "https://www.dqchannels.com/news/oracle-snowflake-ai-data-cloud-oci-12761542",
-      "source": "Dqc",
-      "sourceType": "external",
-      "image": "https://img-cdn.publive.online/dqc/media/media_files/2026/10/28/oracle-snowflake-cloud-integration-2026-10-28-17-14-28.png",
-      "publishedAt": "2026-10-28T11:44:42.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI",
-        "AI"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "d42d7b3c0d166962",
-      "slug": "cerebras-and-oracle-team-up-to-bring-cerebras-ai-inference-to-oracle-cloud-infrastructur-06db4c",
-      "title": "Cerebras and Oracle Team Up to Bring Cerebras AI Inference to Oracle Cloud Infrastructure",
-      "dek": "Fast inference helps AI labs, enterprises, and developers build more responsive, capable AI agents and applications Cerebras Systems (NASDAQ: CBRS) and Oracle announced plans to make Cerebras’ fast inference available on Oracle Cloud Infrastructure (OCI) for AI labs, enterprises, and developers buil",
-      "url": "https://aithority.com/machine-learning/cerebras-and-oracle-team-up-to-bring-cerebras-ai-inference-to-oracle-cloud-infrastructure/",
-      "source": "Aithority",
-      "sourceType": "external",
-      "image": "https://aithority.com/wp-content/uploads/2026/10/7xm.xyz402871.jpg",
-      "publishedAt": "2026-10-28T11:35:37.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "ai",
-        "cerebras",
-        "oracle",
-        "news",
-        "cloud",
-        "machine learning"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "044090556bed8001",
-      "slug": "nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-16987c",
-      "title": "NVIDIA and Oracle Expand NVIDIA Vera Rubin to Multi-Gigawatt Scale and Bring NVIDIA Vera CPU to Oracle Cloud Infrastructure",
-      "dek": "NVIDIA Vera Rubin NVL72 and NVIDIA Vera CPUs Are Now Generally Available on OCI, With Plans to Introduce HGX Rubin NVL8 Systems to Help Organizations Accelerate Frontier Model Training, Improve Inference Efficiency and Scale Agentic Workloads NVIDIA and Oracle announced plans to expand Oracle Cloud ",
-      "url": "https://aithority.com/machine-learning/nvidia-and-oracle-expand-nvidia-vera-rubin-to-multi-gigawatt-scale-and-bring-nvidia-vera-cpu-to-oracle-cloud-infrastructure/",
-      "source": "Aithority",
-      "sourceType": "external",
-      "image": "https://aithority.com/wp-content/uploads/2026/10/7xm.xyz935277.jpg",
-      "publishedAt": "2026-10-28T11:32:16.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "ai",
-        "nvidia",
-        "oracle",
-        "news",
-        "ai infrastructure",
-        "ai models"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "fbc8a420c96dd7ca",
-      "slug": "oracle-fusion-claw-targets-five-complex-customer-experience-tasks-62f4bd",
-      "title": "Oracle Fusion Claw targets five complex customer experience tasks",
-      "dek": "Oracle Fusion Claw brings governed AI agents to sales, customer service and field operations, helping enterprises plan work and execute approved business actions.",
-      "url": "https://www.dqchannels.com/news/oracle-fusion-claw-takes-on-service-issues-before-they-grow-12760416",
-      "source": "Dqc",
-      "sourceType": "external",
-      "image": "https://img-cdn.publive.online/dqc/media/media_files/2026/10/28/oracle-fusion-ai-customer-intelligence-2026-10-28-16-39-06.png",
-      "publishedAt": "2026-10-28T11:09:12.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "oracle"
-      ],
       "priority": 42
     },
     {
-      "id": "855e01a8cd0a2aaa",
-      "slug": "oracle-adds-native-snowflake-service-to-oci-to-ease-data-integration-1225df",
-      "title": "Oracle adds native Snowflake service to OCI to ease data integration",
-      "dek": "Oracle on Tuesday said it has partnered with Snowflake to make the latter’s AI Data Cloud available as a native service on Oracle Cloud Infrastructure… Read more → The post Oracle adds native Snowflake service to OCI to ease data integration appeared first on IT Security News.",
-      "url": "https://www.itsecuritynews.info/oracle-adds-native-snowflake-service-to-oci-to-ease-data-integration/",
-      "source": "It Security News",
+      "id": "a5e1a2bb41850e70",
+      "slug": "google-cloud-launches-vmware-self-managed-offering-441774",
+      "title": "Google Cloud launches VMware self-managed offering",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.sdxcentral.com/news/google-cloud-launches-vmware-self-managed-offering/",
+      "source": "Sdxcentral",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-10-28T11:05:28.000Z",
-      "topic": "Security",
-      "tags": [
-        "en",
-        "infoworld"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "404e9014bcb78c13",
-      "slug": "f5-and-oracle-collaborate-to-strengthen-application-security-in-the-ai-era-e88a75",
-      "title": "F5 and Oracle Collaborate to Strengthen Application Security in the AI Era",
-      "dek": "Collaboration is intended to help secure web applications and APIs against evolving cyber threats F5 (NASDAQ: FFIV), the global leader in delivering and securing every app and API, and Oracle today announced a planned collaboration intended to bring next-generation web application and API pro...",
-      "url": "https://investingnews.com/f5-and-oracle-collaborate-to-strengthen-application-security-in-the-ai-era/",
-      "source": "Investing News Network (inn)",
-      "sourceType": "external",
-      "image": "https://investingnews.com/media-library/image.jpg?id=46923310&width=1200",
-      "publishedAt": "2026-10-28T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "ngs-ffiv",
-        "ffiv"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "006ef825320a9a14",
-      "slug": "hackers-actively-exploiting-new-oracle-ebs-rce-vulnerability-772bb2",
-      "title": "Hackers Actively Exploiting New Oracle EBS RCE Vulnerability",
-      "dek": "Hackers have begun testing a critical Oracle E-Business Suite vulnerability that can let them run commands without logging in. Threat intelligence firm Defused reported exploratory exploit attempts against its decoy systems on October 27, 2026. However, these observations do not confirm successful a",
-      "url": "https://cybersecuritynews.com/oracle-ebs-rce-exploited/",
-      "source": "Cybersecuritynews",
-      "sourceType": "external",
-      "image": "https://cybersecuritynews.com/wp-content/uploads/2026/10/Oracle-EBS-RCE-Vulnerability.webp",
-      "publishedAt": "2026-10-28T10:38:25.000Z",
-      "topic": "Security",
-      "tags": [
-        "cyber security",
-        "cyber security news"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "122aa2fca29ddfe3",
-      "slug": "oracle-ai-data-platform-brings-ai-assisted-business-context-to-enterprise-ai-7370ff",
-      "title": "Oracle AI Data Platform Brings AI-Assisted Business Context to Enterprise AI",
-      "dek": "New Oracle AI Data Platform capabilities combine AI-assisted enterprise ontologies, semantic reasoning, and AI estate governance capabilities to help organizations put AI to work at scale New Oracle AI Data Platform Innovation Service turns AI opportunities into business outcomes Oracle announced ne",
-      "url": "https://aithority.com/machine-learning/oracle-ai-data-platform-brings-ai-assisted-business-context-to-enterprise-ai/",
-      "source": "Aithority",
-      "sourceType": "external",
-      "image": "https://aithority.com/wp-content/uploads/2026/10/fhfhhe-4.jpg",
-      "publishedAt": "2026-10-28T10:33:17.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "oracle",
-        "data management",
-        "oracle ai data platform",
-        "oracle ai data platform capabilities",
-        "oracle analytics cloud",
-        "oracle fusion data intelligence"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "5c2021800c7e642b",
-      "slug": "snowflake-inc-snow-stock-sigma-planning-corp-raises-position-c74857",
-      "title": "Snowflake Inc. $SNOW Stock: Sigma Planning Corp Raises Position",
-      "dek": "Sigma Planning Corp increased its position in Snowflake Inc. (NYSE:SNOW – Free Report) by 220.3% in the third quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The fund owned 6,892 shares of the company’s stock after buying an add",
-      "url": "https://www.tickerreport.com/banking-finance/13639668/snowflake-inc-snow-stock-sigma-planning-corp-raises-position.html",
-      "source": "Ticker Report",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/snowflake-inc-logo-1200x675.png?v=20200921121226",
-      "publishedAt": "2026-10-28T10:31:42.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "sec filing articles",
-        "banking"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "2b10b5621edf1d18",
-      "slug": "moving-compute-from-gcp-to-aws-vms-kubernetes-and-gpus-b90654",
-      "title": "Moving Compute from GCP to AWS: VMs, Kubernetes and GPUs",
-      "dek": "A plain-English guide to moving compute from Google Cloud to AWS: VMs, instance groups, Spot, GKE, GPUs, TPUs and batch. What replaces what, what behaves differently, what changes on the bill, and a step-by-step plan. \"Compute\" is the part of the cloud that runs your code: virtual machines, Kubernet",
-      "url": "https://dev.to/cobuildx-ai/moving-compute-from-gcp-to-aws-vms-kubernetes-and-gpus-2g6j",
-      "source": "Dev Community",
-      "sourceType": "external",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcobuildx.ai%2Fblog%2Fgcp-to-aws-compute-options.png",
-      "publishedAt": "2026-10-28T10:27:46.000Z",
+      "image": "https://media.datacenterdynamics.com/media/images/d5e36f29-6a2c-4040-8f96-100c8fa370.2e16d0ba.fill-750x500.jpg",
+      "publishedAt": "2026-10-29T10:56:19.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "googlecloud",
-        "kubernetes",
-        "aws",
-        "cloud"
+        "vcf",
+        "amazon web services",
+        "vmware",
+        "oracle",
+        "google",
+        "aws"
       ],
       "priority": 42
     },
     {
-      "id": "7bc2b825f5989434",
-      "slug": "uk-budget-and-fomc-day-20a444",
-      "title": "UK budget and FOMC day",
-      "dek": "EU mid-market update: UK budget and FOMC day; SK hynix says DRAM and HBM are sold out through 2029 as Kospi closes above 6,000 on a 6.6% gain; Alphabet’s Q3 earnings after the close may show whether TPU sales outside Google and reportedly to OpenAI.",
-      "url": "https://www.fxstreet.com/analysis/uk-budget-and-fomc-day-202610281026",
-      "source": "Fxstreet",
+      "id": "92747db9491c3596",
+      "slug": "fortinet-reports-strong-third-quarter-2026-financial-results-a47f2f",
+      "title": "Fortinet Reports Strong Third Quarter 2026 Financial Results",
+      "dek": "Raises 2026 revenue guidance to 20% year over year growth Highlights Revenue grew 20% year over year to $2.08 billion Product revenue grew 37% year over year to $765 million Billings grew 29% year over year to $2.34 billion1 GAAP operating margin of 34% Non-GAAP operating margin of 38%1 GAAP earning",
+      "url": "https://www.riauone.com/global/Fortinet-Reports-Strong-Third-Quarter-2026-Financial-Results",
+      "source": "Riauone.com | Berita Nusantara Terkini",
       "sourceType": "external",
-      "image": "https://editorial.fxsstatic.com/images/i/discover-51.png",
-      "publishedAt": "2026-10-28T10:26:00.000Z",
+      "image": "https://www.riauone.com/photo/berita/dir102026/6425_Fortinet-Reports-Strong-Third-Quarter-2026-Financial-Results.jpg",
+      "publishedAt": "2026-10-29T10:34:00.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "Earnings"
+        "asap",
+        "pemilu",
+        "inhu",
+        "berita riau terkini",
+        "tembilahan",
+        "lingkungan"
       ],
       "priority": 42
     },
     {
-      "id": "9ceb4ff60c2d93bd",
-      "slug": "forwardly-launches-solution-to-embed-ar-and-ap-into-any-vertical-saas-platforms-or-banks-1b96f4",
-      "title": "Forwardly launches solution to embed AR and AP into any vertical SAAS platforms or banks",
-      "dek": "New offering enables software platforms and financial institutions to add accounts payable, accounts receivable and business payments into existing experiences. Forwardly, the AI-native B2B payments platform, today launched the Forwardly Developer API, giving software platforms and financial institu",
-      "url": "https://globalfintechseries.com/banking/digital-payments/forwardly-launches-solution-to-embed-ar-and-ap-into-any-vertical-saas-platforms-or-banks/",
-      "source": "Globalfintechseries",
+      "id": "b563b86272bfe9cf",
+      "slug": "healthcare-analytics-market-explained-from-usd-65-6-billion-to-usd-198-8-billion-1016ae",
+      "title": "Healthcare Analytics Market Explained: From USD 65.6 Billion to USD 198.8 Billion",
+      "dek": "The healthcare analytics market was valued at USD 65.6 billion in 2025 and is estimated at USD 81.9 billion in 2026. It is projected to [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/10/29/1779376",
+      "source": "Express-press-release",
       "sourceType": "external",
-      "image": "https://globalfintechseries.com/wp-content/uploads/Forwardly-launches-solution-to-embed-AR-and-AP-into-any-vertical-SAAS-platforms-or-banks.png",
-      "publishedAt": "2026-10-28T10:13:06.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "payments",
-        "finance",
-        "forwardly",
-        "b2b payments platform",
-        "digital payments",
-        "financial institutions"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "3a12716df1fcf1d0",
-      "slug": "oracle-introduces-claw-powered-fusion-agentic-applications-for-supply-chain-f92328",
-      "title": "Oracle Introduces Claw-Powered Fusion Agentic Applications for Supply Chain",
-      "dek": "Oracle today announced new Fusion Claw-powered agentic applications for supply chain operations. Oracle Fusion Claw is a governed agentic execution runtime that enables Fusion Agentic Applications to reason, compute, adapt,… The post Oracle Introduces Claw-Powered Fusion Agentic Applications for Sup",
-      "url": "https://www.cioandleader.com/oracle-introduces-claw-powered-fusion-agentic-applications-for-supply-chain/",
-      "source": "Cio&leader",
-      "sourceType": "external",
-      "image": "https://www.cioandleader.com/wp-content/uploads/2018/11/delivery-g72a21b7fc_640-3.png",
-      "publishedAt": "2026-10-28T09:15:17.000Z",
+      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
+      "publishedAt": "2026-10-29T10:33:33.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "supply chain",
+        "healthcare analytics market forecasts",
+        "healthcare analytics market share",
+        "healthcare",
+        "healthcare analytics market size",
+        "healthcare analytics market growth",
+        "healthcare analytics market analysis"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "ba991a36cdb82dca",
+      "slug": "f5-oracle-collaborate-to-strengthen-application-security-in-the-ai-era-36491c",
+      "title": "F5, Oracle collaborate to strengthen application security in the AI era",
+      "dek": "F5, the global leader in delivering and securing every app and API, and Oracle have announced a planned collaboration intended to bring next-generation web application and API protection (WAAP) to customers running applications on Oracle Cloud Infrastructure (OCI). Announced on October 29 under the ",
+      "url": "https://etedge-insights.com/trending/f5-oracle-collaborate-to-strengthen-application-security-in-the-ai-era/",
+      "source": "Et Edge Insights - The New Paradigm Of Business In",
+      "sourceType": "external",
+      "image": "https://etedge-insights.com/wp-content/uploads/2026/10/Memorandum-of-Understanding-MoU.jpg",
+      "publishedAt": "2026-10-29T10:04:56.000Z",
+      "topic": "Security",
+      "tags": [
+        "oracle",
+        "oracle cloud infrastructure",
+        "api security",
+        "cyber security",
+        "f5",
+        "ai-powered attacks"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "1a77fa27d28bb67c",
+      "slug": "oracle-to-offer-snowflake-as-a-native-service-on-oci-429b98",
+      "title": "Oracle to offer Snowflake as a native service on OCI",
+      "dek": "Oracle will offer Snowflake AI Data Cloud as a native, first-party service on Oracle Cloud Infrastructure (OCI), allowing customers to access Snowflake's analytics and AI capabilities through Oracle's cloud platform and billing system. The post Oracle to offer Snowflake as a native service on OCI ap",
+      "url": "https://www.expresscomputer.in/news/oracle-to-offer-snowflake-as-a-native-service-on-oci/140713/",
+      "source": "Express Computer",
+      "sourceType": "external",
+      "image": "https://cdn1.expresscomputer.in/wp-content/uploads/2026/02/16095043/New-Project-2026-02-16T095024.481.jpg",
+      "publishedAt": "2026-10-29T10:02:47.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "oracle",
+        "snowflake",
+        "news",
+        "artificial intelligence ai",
+        "artificial intelligence"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "59b14a8be06fb1dc",
+      "slug": "f5-and-oracle-plan-enhanced-application-and-api-security-d42816",
+      "title": "F5 and Oracle Plan Enhanced Application and API Security",
+      "dek": "F5, the global leader in delivering and securing every app and API, and Oracle announced a planned collaboration intended to bring next-generation web application and API protection (WAAP) to customers running applications on Oracle Cloud Infrastructure (OCI). Under the parties’ non-binding MOU, thi",
+      "url": "https://smestreet.in/technology/f5-and-oracle-plan-enhanced-application-and-api-security-12764950",
+      "source": "Smestreet In",
+      "sourceType": "external",
+      "image": "https://img-cdn.publive.online/fit-in/1280x960/smstreet/media/media_files/2025/07/10/f5-inc-2025-07-10-17-15-21.jpg",
+      "publishedAt": "2026-10-29T10:00:37.000Z",
+      "topic": "Security",
+      "tags": [
+        "cloud for smes",
+        "technology for smes"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "2b42e5cd1405e7bf",
+      "slug": "microsoft-copilot-vs-google-gemini-vs-aws-ai-which-platform-offers-channel-partners-more-b46aa8",
+      "title": "Microsoft Copilot vs Google Gemini vs AWS AI: Which Platform Offers Channel Partners More Revenue in 2027?",
+      "dek": "Microsoft Copilot, Google Gemini, AWS AI, Salesforce Agentforce, Oracle AI, ServiceNow and IBM watsonx are competing for enterprise AI spending",
+      "url": "https://infotechlead.com/channels/microsoft-copilot-vs-google-gemini-vs-aws-ai-which-platform-offers-channel-partners-more-revenue-in-2027-99325",
+      "source": "Infotech Lead",
+      "sourceType": "external",
+      "image": "https://infotechlead.com/wp-content/uploads/2026/10/Microsoft-Copilot-vs-Google-Gemini-vs-AWS-AI-Channel-Partner-Opportunity-Comparison.jpg",
+      "publishedAt": "2026-10-29T09:30:47.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "artificial intelligence",
+        "channels"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "2215174b092c5ac9",
+      "slug": "can-ai-services-become-a-major-revenue-source-for-it-channel-partners-in-2027-microsoft--669bf9",
+      "title": "Can AI Services Become a Major Revenue Source for IT Channel Partners in 2027? Microsoft, AWS, Google and Cisco Lead Opportunities",
+      "dek": "Artificial intelligence could become a major revenue driver for IT channel partners in 2027 as enterprises increase spending on AI agents",
+      "url": "https://infotechlead.com/channels/can-ai-services-become-a-major-revenue-source-for-it-channel-partners-in-2027-microsoft-aws-google-and-cisco-lead-opportunities-99322",
+      "source": "Infotech Lead",
+      "sourceType": "external",
+      "image": "https://infotechlead.com/wp-content/uploads/2026/10/AI-Services-Revenue-Opportunities-for-Channel-Partners-in-2027.jpg",
+      "publishedAt": "2026-10-29T09:26:20.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "channels"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "49c2b10e848eb447",
+      "slug": "microsoft-salesforce-dell-oracle-and-adobe-direct-sales-threaten-channel-partner-revenue-4c3ee1",
+      "title": "Microsoft, Salesforce, Dell, Oracle and Adobe Direct Sales Threaten Channel Partner Revenue in 2026",
+      "dek": "Microsoft, Salesforce, Dell Technologies, Oracle, Adobe and cybersecurity vendors are reshaping their relationships with channel partners",
+      "url": "https://infotechlead.com/channels/microsoft-salesforce-dell-oracle-and-adobe-direct-sales-threaten-channel-partner-revenue-in-2026-99316",
+      "source": "Infotech Lead",
+      "sourceType": "external",
+      "image": "https://infotechlead.com/wp-content/uploads/2026/10/Channel-Partner-Revenue-in-2026.jpg",
+      "publishedAt": "2026-10-29T09:16:18.000Z",
+      "topic": "Security",
+      "tags": [
+        "channels"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "efa3d96d7a3dcf86",
+      "slug": "f5-and-oracle-collaborate-to-strengthen-application-security-in-the-ai-era-04e8ac",
+      "title": "F5 and Oracle collaborate to strengthen application security in the AI era",
+      "dek": "F5 the global leader in delivering and securing every app and API, and Oracle today announced a planned collaboration intended to bring next-generation web application and API protection (WAAP) to… The post F5 and Oracle collaborate to strengthen application security in the AI era appeared first on ",
+      "url": "https://www.cioandleader.com/f5-and-oracle-collaborate-to-strengthen-application-security-in-the-ai-era/",
+      "source": "Cio&leader",
+      "sourceType": "external",
+      "image": "https://www.cioandleader.com/wp-content/uploads/2026/01/AI_.webp",
+      "publishedAt": "2026-10-29T09:11:51.000Z",
+      "topic": "Security",
+      "tags": [
+        "ai",
         "press release"
       ],
       "priority": 41
     },
     {
-      "id": "58da0436af76ba5a",
-      "slug": "mattermost-and-cohere-deliver-sovereign-human-machine-teaming-to-on-premises-air-gapped--92a5c1",
-      "title": "Mattermost and Cohere Deliver Sovereign Human-Machine Teaming to On-Premises, Air-Gapped, and Classified Environments",
-      "dek": "/PRNewswire-PRWeb/ -- Mattermost agents, powered by advanced Cohere models through Cohere North, bring multi-user, multi-agent sovereign platforms to national...",
-      "url": "https://www.prweb.com/releases/mattermost-and-cohere-deliver-sovereign-human-machine-teaming-to-on-premises-air-gapped-and-classified-environments-302921779.html",
-      "source": "Prweb",
-      "sourceType": "external",
-      "image": "https://mmx.prnewswire.com/media/MS2020858/Mattermost-Cohere-Sovereign-AI.jpg?id=OA3039683",
-      "publishedAt": "2026-10-28T09:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "aerospace",
-        "licensing",
-        "networks",
-        "artificial intelligence",
-        "defense",
-        "computer & electronics"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "005f4bd0f0d0ed82",
-      "slug": "oracle-and-openai-are-bringing-chatgpt-into-the-enterprise-here-s-what-s-real-and-what-i-be62c6",
-      "title": "Oracle and OpenAI Are Bringing ChatGPT Into the Enterprise — Here's What's Real and What Isn't Yet",
-      "dek": "Oracle and OpenAI announced an expanded partnership on October 27, 2026, at Oracle AI World in Las Vegas. The headline is simple enough: ChatGPT and Codex, wired into the software companies already run their businesses on. Four offerings make up the suite. Some of them are genuinely interesting. One",
-      "url": "https://dev.to/paullovelace/oracle-and-openai-are-bringing-chatgpt-into-the-enterprise-heres-whats-real-and-what-isnt-yet-35cc",
-      "source": "Dev Community",
-      "sourceType": "external",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3fnzupfaxvpzuq8kcdvs.jpg",
-      "publishedAt": "2026-10-28T08:55:27.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "programming",
-        "webdev",
-        "enterprise",
-        "ai"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "650147aaa5b631a3",
-      "slug": "tdfc-recruitment-2026-apply-offline-for-programmer-dba-project-manager-posts-2c2961",
-      "title": "TDFC Recruitment 2026: Apply Offline for Programmer, DBA & Project Manager posts",
-      "dek": "TDFC Recruitment 2026: Tamil Nadu Transport Development Finance Corporation Limited (TDFC), a Government of Tamil Nadu Undertaking, has released Recruitment Notification No. 1/2026 inviting applications from eligible candidates for Programmer, Senior Programmer, Database Administrator (DBA), and Pro",
-      "url": "https://www.karmasandhan.com/tdfc-recruitment-2026/",
-      "source": "Karma Sandhan",
-      "sourceType": "external",
-      "image": "https://www.karmasandhan.com/wp-content/uploads/2026/10/TDFC-Recruitment-2026-Banner_converted.webp",
-      "publishedAt": "2026-10-28T08:22:45.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "latest job​",
-        "tdfc recruitment"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "47235139deeb25a8",
-      "slug": "oracle-partners-with-openai-to-bring-chatgpt-codex-and-ai-tools-to-enterprise-businesses-eca88d",
-      "title": "Oracle partners with OpenAI to bring ChatGPT, Codex and AI tools to enterprise businesses",
-      "dek": "New products include Oracle AI Workspace, AI Security Mesh, App Composer and a free-to-start AI bundle for small businesses with $12,000 in annual cloud credits",
-      "url": "https://www.moneycontrol.com/technology/oracle-partners-with-openai-to-bring-chatgpt-codex-and-ai-tools-to-enterprise-businesses-article-14062400.html",
-      "source": "Moneycontrol",
-      "sourceType": "external",
-      "image": "https://images.moneycontrol.com/static-mcnews/2026/10/20261028081305_Oracle.png",
-      "publishedAt": "2026-10-28T08:13:12.000Z",
-      "topic": "Security",
-      "tags": [
-        "oracle",
-        "oracle partners with chatgpt"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "4d50a4e8a63779a7",
-      "slug": "oracle-expands-native-ai-and-data-services-on-oci-with-snowflake-ee0a71",
+      "id": "a0d8e5500f87f5f7",
+      "slug": "oracle-expands-native-ai-and-data-services-on-oci-with-snowflake-332277",
       "title": "Oracle Expands Native AI and Data Services on OCI with Snowflake",
-      "dek": "Oracle and Snowflake today announced that Snowflake AI Data Cloud will be available as a native, first-party service on Oracle Cloud Infrastructure (OCI), further expanding the AI and data capabilities Oracle offers to help organizations accelerate enterprise AI initiatives. By making Snowflake avai",
-      "url": "https://cxotoday.com/media-coverage/oracle-expands-native-ai-and-data-services-on-oci-with-snowflake/",
-      "source": "Cxotoday",
+      "dek": "Oracle and Snowflake announced that Snowflake AI Data Cloud will be available as a native, first-party service on Oracle Cloud Infrastructure (OCI), further expanding the AI and data capabilities Oracle offers to help organizations accelerate enterprise AI initiatives. By making Snowflake available ",
+      "url": "https://techachievemedia.com/press-release/oracle-expands-native-ai-and-data-services-on-oci-with-snowflake/",
+      "source": "Tech Achieve Media",
       "sourceType": "external",
-      "image": "https://cxotoday.com/wp-content/uploads/2025/09/Snowflake_Logo-1-300x72.png",
-      "publishedAt": "2026-10-28T08:10:32.000Z",
+      "image": "https://techachievemedia.com/wp-content/uploads/2025/09/software-developer-6521720_640.jpg",
+      "publishedAt": "2026-10-29T09:10:24.000Z",
       "topic": "Oracle Cloud",
       "tags": [
-        "oracle",
-        "snowflake",
-        "media coverage"
+        "press release"
       ],
-      "priority": 40
+      "priority": 41
     },
     {
-      "id": "491ab001e24697ee",
-      "slug": "mastek-expands-trichy-centre-to-accommodate-150-200-professionals-22d31d",
-      "title": "Mastek expands Trichy centre to accommodate 150-200 professionals",
-      "dek": "Mastek is expanding its Trichy center to accommodate 150-200 professionals. The hub will focus on Salesforce, Oracle, Data & AI, and cloud transformation. New initiatives include Deep Blue Sessions for students and community engagement via Mastek Foundation. Expansion aligns with the company's strat",
-      "url": "https://scanx.trade/stock-market-news/companies/mastek-expands-trichy-centre-accommodate-150-200-professionals/54719663",
-      "source": "scanx.trade",
+      "id": "3f23183c01dc616f",
+      "slug": "information-systems-05700e",
+      "title": "Information Systems",
+      "dek": "Become the bridge between people and technology. Our social science approach to Information Systems focuses on how technology transforms organisations and shapes behaviour and society, rather than coding. Develop the strategic, ethical, human-centred skills, from AI governance to organisational chan",
+      "url": "https://sheffield.ac.uk/postgraduate/taught/courses/2027/information-systems-msc",
+      "source": "University Of Sheffield",
       "sourceType": "external",
-      "image": "https://news-images.dhan.co/mastek-expands-trichy-centre-accommodate-150-200-professionals.jpg",
-      "publishedAt": "2026-10-28T07:54:42.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "7dfa4999bf036301",
-      "slug": "skip-locked-vs-redis-when-should-you-use-a-database-queue-2ce914",
-      "title": "SKIP LOCKED vs. Redis: When Should You Use a Database Queue?",
-      "dek": "Is SKIP LOCKED enough for reliable background jobs? Explore leases, heartbeats, fencing tokens, and idempotency in PostgreSQL queues.",
-      "url": "https://hackernoon.com/skip-locked-vs-redis-when-should-you-use-a-database-queue",
-      "source": "Hackernoon",
-      "sourceType": "external",
-      "image": "https://cdn.hackernoon.com/images/Qss33dMKN1dyFVIulHKzrfaBo3w2-u0938p3.png",
-      "publishedAt": "2026-10-28T07:52:57.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "database",
-        "backend",
-        "distributed-systems",
-        "postgresql",
-        "background-job-processing",
-        "at-least-once-delivery"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "eafacfb45fc5f32d",
-      "slug": "oracle-and-openai-announce-4-enterprise-ai-tools-what-s-available-57433d",
-      "title": "Oracle and OpenAI Announce 4 Enterprise AI Tools: What’s Available?",
-      "dek": "OpenAI and Oracle are expanding their enterprise AI partnership beyond cloud procurement, bringing together ChatGPT, Codex, Oracle applications, and cloud infrastructure across four offerings announced at Oracle AI World on October 27. The goal is to help employees work across business systems, enab",
-      "url": "https://techgenyz.com/oracle-ai-workspace-4-enterprise-ai-tools/",
-      "source": "Techgenyz",
-      "sourceType": "external",
-      "image": "https://techgenyz.com/wp-content/uploads/2026/10/oracle-and-openai.webp",
-      "publishedAt": "2026-10-28T07:50:59.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "oracle ai workspace",
-        "enterprise ai",
-        "codex",
-        "chatgpt",
-        "oracle netsuite",
-        "news"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "d44acfbcd8fbb5eb",
-      "slug": "oracle-plans-to-expand-multicloud-ai-database-services-to-us-government-and-public-secto-09b591",
-      "title": "Oracle Plans to Expand Multicloud AI Database Services to US Government and Public Sector Workloads",
-      "dek": "Planned FedRAMP Class D (formerly FedRAMP High) certification is expected to enable customers to run regulated Oracle workloads on Oracle Exadata infrastructure through Oracle AI Database@AWS, Oracle AI Database@Azure, or Oracle AI Database@Google Cloud Oracle announced plans to obtain FedRAMP Class",
-      "url": "https://cioinfluence.com/cloud/oracle-plans-to-expand-multicloud-ai-database-services-to-us-government-and-public-sector-workloads/",
-      "source": "Cio Influence",
-      "sourceType": "external",
-      "image": "https://cioinfluence.com/wp-content/uploads/2026/10/11.jpg",
-      "publishedAt": "2026-10-28T07:40:14.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "cloud",
-        "oracle",
-        "machine learning",
-        "oracle ai database deployments",
-        "oracle ai database@aws",
-        "oracle ai database@google cloud"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "f22672a109860388",
-      "slug": "oracle-strengthens-its-alliance-with-openai-and-diversifies-its-chips-to-accelerate-in-a-b56e2b",
-      "title": "Oracle strengthens its alliance with OpenAI and diversifies its chips to accelerate in AI",
-      "dek": "Oracle announced the integration of ChatGPT and Codex into its business software, as well as the expansion of the processors available on its cloud infrastructure. Presented at the Oracle AI World...",
-      "url": "https://www.marketscreener.com/news/oracle-strengthens-its-alliance-with-openai-and-diversifies-its-chips-to-accelerate-in-ai-ce785cdddf80f62c",
-      "source": "MarketScreener",
-      "sourceType": "external",
-      "image": "https://cdn.zonebourse.com/static/resize/0/0//images//reuters/2021-06-15T204103Z_2_LYNXNPEH5E15E-OCABS_RTROPTP_3_CBUSINESS-US-ORACLE-RESULTS.JPG",
-      "publishedAt": "2026-10-28T07:36:48.000Z",
+      "image": "https://sheffield.ac.uk/sites/default/files/styles/two_thirds_2x/public/2021-03/AO200187.jpg?h=a93980ca&itok=xOVj_83F",
+      "publishedAt": "2026-10-29T09:01:57.000Z",
       "topic": "Oracle Cloud",
       "tags": [
         "AI"
       ],
-      "priority": 40
+      "priority": 41
     },
     {
-      "id": "8d8df024cba56313",
-      "slug": "oracle-cloud-infrastructure-brings-nvidia-amd-intel-google-cerebras-sambanova-broadcom-u-80140f",
-      "title": "Oracle Cloud Infrastructure Brings NVIDIA, AMD, Intel, Google, Cerebras, SambaNova & Broadcom Under One Massive “AI” Roof, Deploying Vera Rubin, 6th Gen EPYC & MI455X, and Diamond Rapids Among Many Ot",
-      "dek": "Oracle Cloud Infrastructure expands with NVIDIA Vera Rubin NVL72 systems, AMD EPYC, Intel Xeon, TPUs, & Cerebras for robust AI capabilities.",
-      "url": "https://wccftech.com/oracle-cloud-infrastructure-brings-nvidia-amd-intel-google-cerebras-sambanova-broadcom-under-one-massive-cloud-roof/",
-      "source": "Wccftech",
-      "sourceType": "external",
-      "image": "https://cdn.wccftech.com/wp-content/uploads/2026/10/Oracle-Cloud-AI-1920x1026.jpg",
-      "publishedAt": "2026-10-28T07:25:06.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "Oracle Cloud Infrastructure",
-        "AI"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "0c4aa0658b86767f",
-      "slug": "multisoft-systems-offers-veeva-vault-validation-management-training-for-life-sciences-pr-114719",
-      "title": "Multisoft Systems Offers Veeva Vault Validation Management Training for Life Sciences Professionals",
-      "dek": "As pharmaceutical and biotechnology organizations increasingly adopt cloud-based platforms to manage regulated business processes, ensuring system reliability, data integrity, and compliance has become a critical priority. Multisoft Systems offers Veeva Vault Validation Management Training to help p",
-      "url": "http://prsync.com/multisoft-systems/multisoft-systems-offers-veeva-vault-validation-management-training-for-life-sciences-professionals-5207248/",
+      "id": "24ccbba366cd931c",
+      "slug": "multisoft-systems-offers-salesforce-financial-services-cloud-online-training-in-new-york-2b92f2",
+      "title": "Multisoft Systems Offers Salesforce Financial Services Cloud Online Training in New York, USA",
+      "dek": "The financial services industry continues to adopt digital platforms to improve customer relationships, streamline operations, and deliver more personalized experiences. Salesforce Financial Services Cloud (FSC) helps financial institutions manage customer information, understand client relationship",
+      "url": "http://prsync.com/multisoft-systems/multisoft-systems-offers-salesforce-financial-services-cloud-online-training-in-new-york-usa-5207341/",
       "source": "Pr Sync",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-10-28T07:06:23.000Z",
+      "publishedAt": "2026-10-29T09:00:55.000Z",
       "topic": "Training & Certification",
       "tags": [],
-      "priority": 39
+      "priority": 41
     },
     {
-      "id": "1f1cc7e469f3678d",
-      "slug": "oracle-to-offer-snowflake-ai-data-cloud-as-native-service-on-oci-5585c3",
-      "title": "Oracle to offer Snowflake AI Data Cloud as native service on OCI",
-      "dek": "Oracle and Snowflake have announced plans to make Snowflake AI Data Cloud available as a native, first-party service on Oracle Cloud Infrastructure (OCI), allowing customers to access Snowflake's data analytics and AI capabilities through Oracle's cloud platform. The post Oracle to offer Snowflake A",
-      "url": "https://www.expresscomputer.in/news/oracle-to-offer-snowflake-ai-data-cloud-as-native-service-on-oci/140581/",
-      "source": "Express Computer",
+      "id": "02f3691b7a386a09",
+      "slug": "oracle-pledges-usd-1-billion-to-boost-partner-ecosystem-2e5416",
+      "title": "Oracle pledges USD $1 billion to boost partner ecosystem",
+      "dek": "The four-year funding push is designed to help Oracle's partners build and sell more AI and cloud services, and support customer deployments.",
+      "url": "https://itbrief.co.nz/story/oracle-pledges-usd-1-billion-to-boost-partner-ecosystem",
+      "source": "It Brief New Zealand",
       "sourceType": "external",
-      "image": "https://cdn1.expresscomputer.in/wp-content/uploads/2026/02/16095043/New-Project-2026-02-16T095024.481.jpg",
-      "publishedAt": "2026-10-28T06:59:35.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "oracle",
-        "news",
-        "snowflake",
-        "artificial intelligence",
-        "artificial intelligence ai"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "da9cfff74f5afdf0",
-      "slug": "oracle-introduces-new-ai-applications-for-customer-experience-dfc2c3",
-      "title": "Oracle Introduces New AI Applications for Customer Experience",
-      "dek": "Oracle announced new Oracle Fusion Claw-powered agentic applications for customer experience. Oracle Fusion Claw is a governed agentic execution runtime that enables Fusion Agentic Applications to reason, compute, adapt, and execute specialist-grade work, including deep research, computation, simula",
-      "url": "https://smestreet.in/technology/oracle-introduces-new-ai-applications-for-customer-experience-12760386",
-      "source": "Smestreet In",
-      "sourceType": "external",
-      "image": "https://img-cdn.publive.online/fit-in/1280x960/smstreet/media/media_files/2025/02/10/BFHNdlE8FUD3SeHJxx9i.png",
-      "publishedAt": "2026-10-28T06:54:10.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "technology for smes",
-        "cloud for smes",
-        "iot &amp; ai"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "0674bd092859e408",
-      "slug": "oracle-reinvents-enterprise-computing-for-the-ai-era-with-openai-0ccff2",
-      "title": "Oracle Reinvents Enterprise Computing for the AI Era with OpenAI",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://enterprisetalk.com/news/oracle-reinvents-enterprise-computing-for-the-ai-era-with-openai",
-      "source": "Enterprisetalk",
-      "sourceType": "external",
-      "image": "https://enterprisetalk.com/uploads/2026/10/1793171686800-Oracle%20Reinvents%20Enterprise%20Computing%20for%20the%20AI%20Era%20with%20OpenAI.webp",
-      "publishedAt": "2026-10-28T06:30:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "AI"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "c6b0a843582b872b",
-      "slug": "shinyhunters-exploited-oracle-peoplesoft-zero-day-turns-out-to-be-three-chained-flaws-eebacb",
-      "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
-      "dek": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier, CVE-2026-35273, in June. Its root is a server-side request forgery (SSRF) that ",
-      "url": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
-      "source": "The Hacker News",
-      "sourceType": "external",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgiU-iVEycp9z-2dprGJhgl046M9ZvG7kGGwaXNzgFJg7XDubOoWWLvEuKAOczIcGuXU04db46Xa6pRMKO36ZS7Fu8Xkv7mNuPjHUS0zLTHkGlNWNRD2DLCznPf6jqvqamZSZGMBXSzh9gMYm-9sR-y7OgN7i7n6x0dfYxyl9QftWlfuQw0mpTteHy57k/s1600/sh.jpg",
-      "publishedAt": "2026-10-28T06:04:58.000Z",
-      "topic": "Security",
-      "tags": [
-        "CVE"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "b43bdab920d38b00",
-      "slug": "oracle-targets-us-government-ai-workloads-with-multicloud-database-expansion-7ec384",
-      "title": "Oracle Targets US Government AI Workloads With Multicloud Database Expansion",
-      "dek": "Market Analysis by Isaac Olaosegba covering: Oracle Corporation. Read Isaac Olaosegba's Market Analysis on Investing.com",
-      "url": "https://www.investing.com/analysis/oracle-targets-us-government-ai-workloads-with-multicloud-database-expansion-200690401",
-      "source": "Investing Us",
-      "sourceType": "external",
-      "image": "https://i-invdn-com.investing.com/redesign/images/seo/v2/investingcom_analysis_og.jpg",
-      "publishedAt": "2026-10-28T06:04:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "oracle corporation"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "f7ee6972b6abb466",
-      "slug": "oracle-expands-nvidia-ai-chip-deal-adds-google-and-other-suppliers-7cdfc0",
-      "title": "Oracle expands Nvidia AI chip deal, adds Google and other suppliers",
-      "dek": "Oracle has expanded its cloud AI chip deal with Jensen Huang-led Nvidia while adding AI chips from other suppliers, including Google and Cerebras Systems,",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/oracle-expands-nvidia-ai-chip-deal-adds-google-and-other-suppliers/articleshow/135253936.cms",
-      "source": "Times of India",
-      "sourceType": "external",
-      "image": "https://static.toiimg.com/thumb/msid-135253953,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-      "publishedAt": "2026-10-28T05:57:00.000Z",
+      "image": "https://itbrief.co.nz/uploads/story/2026/10/29/compatible_cloud-platform-partner-network-digital-illustration-story-322946.jpg",
+      "publishedAt": "2026-10-29T09:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
+        "technology"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "14938fc8426397a7",
+      "slug": "deathwatch-dead-as-a-doornail-f1dd1d",
+      "title": "Deathwatch/Dead as a Doornail",
+      "dek": "2015: Majhost ← Older revision Revision as of 07:55, 29 October 2026 Line 689: * January or February: {{url|1=http://www.nakido.com/|2=Nakido}}, a file sharing site, resolves a domain parking page. * January: [[AOL Autos]] is shut down. * January: Image hosting site Majhost quietly disappeared. Curi",
+      "url": "https://wiki.archiveteam.org/index.php?diff=64276&oldid=63889&title=Deathwatch%2FDead_as_a_Doornail",
+      "source": "Archiveteam",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-10-29T07:55:52.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 40
+    },
+    {
+      "id": "e14c9eacd6d74451",
+      "slug": "oracle-launches-ai-consulting-practice-with-openai-3c3e46",
+      "title": "Oracle launches AI consulting practice with OpenAI",
+      "dek": "Businesses moving beyond AI pilots will get help from Oracle's new service, which aims to speed deployment and tighten control across enterprise systems.",
+      "url": "https://channellife.com.au/story/oracle-launches-ai-consulting-practice-with-openai",
+      "source": "Channellife Australia",
+      "sourceType": "external",
+      "image": "https://channellife.com.au/uploads/story/2026/10/29/compatible_business-team-conference-table-cloud-architecture-diagrams-digital-illustration-story-322941.jpg",
+      "publishedAt": "2026-10-29T07:12:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "technology"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "b6cd6367d7378809",
+      "slug": "oracle-unveils-deep-trust-ai-architecture-for-enterprises-b63db0",
+      "title": "Oracle unveils Deep Trust AI Architecture for enterprises",
+      "dek": "The framework is meant to help companies control security, privacy and business rules as AI agents and generated software spread through enterprise systems.",
+      "url": "https://securitybrief.co.uk/story/oracle-unveils-deep-trust-ai-architecture-for-enterprises",
+      "source": "Securitybrief Uk",
+      "sourceType": "external",
+      "image": "https://securitybrief.co.uk/uploads/story/2026/10/29/compatible_enterprise-security-hub-locked-shield-cloud-servers-ai-nodes-story-322943.jpg",
+      "publishedAt": "2026-10-29T07:07:08.000Z",
+      "topic": "Security",
+      "tags": [
+        "technology"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "71ba2730b8318efb",
+      "slug": "oracle-launches-claw-powered-hr-apps-for-fusion-cloud-011a76",
+      "title": "Oracle launches Claw-powered HR apps for Fusion Cloud",
+      "dek": "The move ties AI more tightly to HR workflows, with Oracle aiming to automate staffing, hiring and pay tasks under human oversight.",
+      "url": "https://itbrief.com.au/story/oracle-launches-claw-powered-hr-apps-for-fusion-cloud",
+      "source": "It Brief Australia",
+      "sourceType": "external",
+      "image": "https://itbrief.com.au/uploads/story/2026/10/29/compatible_lew-thompson-story-322935.jpg",
+      "publishedAt": "2026-10-29T07:06:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "technology"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "4dbe1e04c5ac4711",
+      "slug": "oracle-expands-nvidia-ai-infrastructure-deal-adds-google-tpus-and-other-chip-suppliers-e8054b",
+      "title": "Oracle Expands Nvidia AI Infrastructure Deal, Adds Google TPUs and Other Chip Suppliers",
+      "dek": "Oracle is expanding its partnership with Nvidia while broadening the range of AI processors available through its cloud infrastructure services.",
+      "url": "https://www.news18.com/tech/oracle-expands-nvidia-ai-infrastructure-deal-adds-google-tpus-and-other-chip-suppliers-ws-l-10402781.html",
+      "source": "News18",
+      "sourceType": "external",
+      "image": "https://images.news18.com/ibnlive/uploads/2026/10/Oracle-2026-10-8e0ae877c9ef128dbe3cf572f34c0465-1200x675.jpg",
+      "publishedAt": "2026-10-29T06:46:16.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
         "AI"
       ],
       "priority": 39
     },
     {
-      "id": "9dd1f7d8b7dca3f1",
-      "slug": "india-among-oracle-netsuite-s-highest-priority-markets-says-asia-head-suxena-3fa72c",
-      "title": "India among Oracle NetSuite's highest-priority markets, says Asia head Suxena",
-      "dek": "Oracle NetSuite elevates India as a top priority, highlighting AI-native, cloud-ready SMEs driving growth beyond metros and tier-2 cities.",
-      "url": "https://www.thehindubusinessline.com/info-tech/india-among-oracle-netsuites-highest-priority-markets-says-asia-head-suxena/article71634235.ece",
-      "source": "The Hindu Business Line",
+      "id": "004aef7fcf6dcdc8",
+      "slug": "oracle-snowflake-launch-native-oci-ai-as-a-new-service-6557ca",
+      "title": "Oracle & Snowflake launch native OCI AI as a new service",
+      "dek": "Customers will be able to buy Snowflake through Oracle's cloud, simplifying billing and data access for AI and analytics workloads.",
+      "url": "https://datacenternews.asia/story/oracle-snowflake-launch-native-oci-ai-as-a-new-service",
+      "source": "Datacenternews Asia Pacific",
       "sourceType": "external",
-      "image": "https://bl-i.thgim.com/public/incoming/ucv1kr/article71630949.ece/alternates/LANDSCAPE_1200/IMG_10_iStock-2222990006_2_1_R2F9G42K.jpg",
-      "publishedAt": "2026-10-28T04:20:44.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://datacenternews.asia/uploads/story/2026/10/29/compatible_clay-magouyrk-and-sridhar-ramaswamy-story-322940.jpg",
+      "publishedAt": "2026-10-29T06:34:00.000Z",
+      "topic": "Oracle Cloud",
       "tags": [
-        "NetSuite",
+        "technology"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "60bc7d9b3005636d",
+      "slug": "oracle-targets-225-billion-revenue-by-2030-40-profit-margin-and-30-billion-free-cash-flo-a6111c",
+      "title": "Oracle Targets $225 Billion Revenue by 2030, 40% Profit Margin and $30 Billion Free Cash Flow as AI Cloud Investment Accelerates",
+      "dek": "Oracle has unveiled its financial strategy targeting annual revenue of more than $225 billion by fiscal 2030, representing compound annual growth exceeding 35 percent from fiscal 2026, as the enterprise technology company accelerates investments in artificial intelligence, cloud infrastructure, data",
+      "url": "https://infotechlead.com/networking/oracle-targets-225-billion-revenue-by-2030-40-profit-margin-and-30-billion-free-cash-flow-as-ai-cloud-investment-accelerates-99304",
+      "source": "Infotech Lead",
+      "sourceType": "external",
+      "image": "https://infotechlead.com/wp-content/uploads/2026/09/Oracle-AI-infrastructure-revenue-Q1-fiscal-2026-2027.png",
+      "publishedAt": "2026-10-29T06:23:54.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
         "AI"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "08da9a4703eb9c3b",
+      "slug": "alphabet-googl-q3-2026-earnings-call-transcript-936e6e",
+      "title": "Alphabet (GOOGL) Q3 2026 Earnings Call Transcript",
+      "dek": "Cloud revenue surged 103% on AI demand; Gemini hit 1 billion users.",
+      "url": "https://www.fool.com/earnings/call-transcripts/2026/10/29/alphabet-googl-q3-2026-earnings-call-transcript/",
+      "source": "Fool",
+      "sourceType": "external",
+      "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/b4204f36ed605fc54d4ba32e2cb31d1dd892afd6-800x450.jpg",
+      "publishedAt": "2026-10-29T05:24:03.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "earningscall-transcripts",
+        "googl",
+        "020a4bae-0baa-4b3d-8a5c-1075995c43b9"
       ],
       "priority": 38
     },
     {
-      "id": "a1c3bfadf451c245",
-      "slug": "google-tpu-arrives-on-oracle-cloud-new-split-architecture-transforms-enterprise-ai-compu-f41dc0",
-      "title": "Google TPU Arrives on Oracle Cloud: New Split Architecture Transforms Enterprise AI Compute",
-      "dek": "Google TPU on Oracle Cloud Infrastructure: Starting in 2027, Oracle Cloud Infrastructure becomes the first hyperscaler outside Google to offer eighth-generation Tensor Processing Units, featuring the TPU 8t for AI training with SparseCore and the TPU 8i for enterprise inference with Boardfly topolog",
-      "url": "https://www.techtimes.com/articles/329577/20261028/google-tpu-arrives-oracle-cloud-new-split-architecture-transforms-enterprise-ai-compute.htm",
-      "source": "Techtimes",
+      "id": "de42ef4ba40fda30",
+      "slug": "it-security-news-roundup-2026-10-29-overnight-8bd291",
+      "title": "IT Security News Roundup: 2026-10-29 Overnight",
+      "dek": "IT Security News: Overnight roundup, 2026-10-29 Summary The most important story in this window was the PHP2Shell campaign, in which attackers chained web-layer flaws with a Linux kernel exploit to root 25 servers, including government-affiliated systems. It sits alongside follow-up… Read more → The",
+      "url": "https://www.itsecuritynews.info/it-security-news-roundup-2026-10-29-overnight/",
+      "source": "It Security News",
       "sourceType": "external",
-      "image": "https://d.techtimes.com/en/full/416696/google.jpg",
-      "publishedAt": "2026-10-28T04:01:02.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "artificial intelligence"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "4d1963061a767e14",
-      "slug": "oracle-netsuite-india-among-oracle-netsuite-s-highest-8ee5ec",
-      "title": "Oracle NetSuite: India among Oracle NetSuite's highest",
-      "dek": "Speaking to PTI on the sidelines of Oracle AI World, Amit Suxena, group vice president and head of Asia at Oracle NetSuite, an AI-native business management platform, said momentum among Indian businesses had been growing over the last four to five years.",
-      "url": "https://economictimes.indiatimes.com/tech/technology/india-among-oracle-netsuites-highest-priority-markets-says-asia-head-amit-suxena/articleshow/135251253.cms",
-      "source": "The Economic Times",
-      "sourceType": "external",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-41432,resizemode-75,msid-135251253/tech/technology/india-among-oracle-netsuites-highest-priority-markets-says-asia-head-amit-suxena.jpg",
-      "publishedAt": "2026-10-28T03:57:52.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "NetSuite",
-        "AI"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "c1965cd03cc4ea05",
-      "slug": "oracle-partners-with-openai-to-bring-chatgpt-and-codex-to-enterprise-workflows-beaf9d",
-      "title": "Oracle Partners With OpenAI to Bring ChatGPT and Codex to Enterprise Workflows",
-      "dek": "Oracle AI Workspace will bring Oracle Fusion Applications, NetSuite, Oracle AI Database and OCI into a unified experience accessible through ChatGPT.",
-      "url": "https://analyticsindiamag.com/ai-news/oracle-partners-with-openai-to-bring-chatgpt-and-codex-to-enterprise-workflows",
-      "source": "Analytics India Magazine",
-      "sourceType": "external",
-      "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1769140818662-206b667d-3d7d-401f-a4ea-9cafa3e32b21-vfxgd.webp",
-      "publishedAt": "2026-10-28T03:37:17.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "ai news"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "c0669b927429c957",
-      "slug": "sillytavern-remote-access-security-checklist-11-cves-in-2026-the-node-brotli-fix-cve-202-7d67d6",
-      "title": "SillyTavern remote access security checklist: 11 CVEs in 2026, the Node Brotli fix (CVE-2026-111497), 6 config.yaml keys",
-      "dek": "If you use SillyTavern from your phone or another PC, check three things now: the SillyTavern version, whether your Node.js has the 2026-10-21 security patch, and privateAddressWhitelist in config.yaml. The Node bug, CVE-2026-111497, went onto CISA's list of actively exploited vulnerabilities on 202",
-      "url": "https://dev.to/ilan_kim/sillytavern-remote-access-security-checklist-11-cves-in-2026-the-node-brotli-fix-11l8",
-      "source": "Dev Community",
-      "sourceType": "external",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fyz6wtwpcpuvtwj7vv106.png",
-      "publishedAt": "2026-10-28T02:52:26.000Z",
+      "image": "",
+      "publishedAt": "2026-10-29T05:06:04.000Z",
       "topic": "Security",
       "tags": [
-        "ai",
-        "selfhosted",
-        "node",
-        "security"
+        "ai synthesis",
+        "2026-10-29",
+        "daily roundup"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "cb121d473b52ea40",
+      "slug": "netsuite-customers-urged-to-prepare-for-ai-adoption-3462e9",
+      "title": "NetSuite customers urged to prepare for AI adoption",
+      "dek": "Australian and New Zealand finance teams could cut manual close work as NetSuite rolls out AI tools, but only if data and controls are ready.",
+      "url": "https://cfotech.com.au/story/netsuite-customers-urged-to-prepare-for-ai-adoption",
+      "source": "Cfotech Australia",
+      "sourceType": "external",
+      "image": "https://cfotech.com.au/uploads/story/2026/10/29/compatible_IMG_3068__1_-story-322922.jpg",
+      "publishedAt": "2026-10-29T02:46:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "technology"
       ],
       "priority": 37
     },
     {
-      "id": "3a8880a8a15d087b",
-      "slug": "netsuite-s-james-chisham-on-sea-s-e-invoicing-maze-data-residency-and-who-pays-when-ai-g-958845",
-      "title": "NetSuite’s James Chisham on SEA’s e-invoicing maze, data residency and who pays when AI gets it wrong",
-      "dek": "In a convention centre full of AI agents, autonomous closes and pyrotechnic keynotes, James Chisham has the least glamorous job at Oracle NetSuite’s SuiteWorld in Las Vegas. He is the man who makes the software obey the taxman. As Vice President of Product Management and International Strategy, Chis",
-      "url": "https://e27.co/netsuites-james-chisham-on-seas-e-invoicing-maze-data-residency-and-who-pays-when-ai-gets-it-wrong-20261027/",
-      "source": "E27",
+      "id": "93986e2f81938d95",
+      "slug": "wall-street-is-asking-big-tech-to-show-the-ai-math-4dfeea",
+      "title": "Wall Street Is Asking Big Tech To Show The AI Math",
+      "dek": "Microsoft and Oracle got rewarded for funding AI plans with cash flow, while Alphabet’s spend and slower Search growth spooked investors.",
+      "url": "https://finimize.com/content/wall-street-is-asking-big-tech-to-show-the-ai-math",
+      "source": "Finimize",
       "sourceType": "external",
-      "image": "https://e27.co/wp-content/uploads/2026/10/James_Chisham_interview.jpeg",
-      "publishedAt": "2026-10-28T01:00:05.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://finimize-img.imgix.net/https%3A%2F%2Fchivas-assets.s3-eu-west-1.amazonaws.com%2Fstatic%2Fimages%2Ftag_reuters_com_2026_newsml_L3N46E2RS_747679856.jpeg?ixlib=python-3.1.2&s=143acce09173fd9522138ceb4dc3f7bb",
+      "publishedAt": "2026-10-29T02:33:19.000Z",
+      "topic": "Business & Earnings",
       "tags": [
         "ai",
-        "oracle",
-        "global",
-        "oracle netsuite",
-        "artificial intelligence",
-        "events"
+        "information technology",
+        "microsoft",
+        "earnings",
+        "cloud",
+        "alphabet"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "f91aaedc335f88e7",
+      "slug": "oracle-vs-palo-alto-networks-which-tech-stock-is-the-better-buy-in-2026-33e556",
+      "title": "Oracle vs. Palo Alto Networks: Which Tech Stock Is the Better Buy in 2026?",
+      "dek": "Both companies are benefiting from AI-related demand trends, but the valuation gap suggests greater upside for one stock.",
+      "url": "https://www.fool.com/coverage/better-buy/2026/10/28/oracle-vs-palo-alto-networks-which-tech-stock-is-the-better-buy-in-2026/",
+      "source": "Fool",
+      "sourceType": "external",
+      "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/b27f5e07328be3e075a4374848fdaed652e0f31c-4000x2429.jpg",
+      "publishedAt": "2026-10-29T01:07:01.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "technology and telecom",
+        "panw",
+        "coveragebetter-buy",
+        "49f26851-34a0-4e8b-92cc-7ba624c10053",
+        "orcl"
       ],
       "priority": 36
     },
     {
-      "id": "07aef5c9a5397736",
-      "slug": "oracle-ai-world-26-larry-ellison-on-curing-cancer-taxing-robots-making-everyone-wealthy--7e26d5",
-      "title": "Oracle AI World 26 - Larry Ellison on curing cancer, taxing robots, making everyone wealthy and fixing healthcare",
-      "dek": "Technology conference keynotes are often hit and miss - and usually require a heavy dose of patience as executives run through product demo after product demo. You can’t say that’s the case when listening to Oracle founder Larry Ellison.",
-      "url": "https://diginomica.com/oracle-ai-world-26-larry-ellison-curing-cancer-taxing-robots-making-everyone-wealthy-and-fixing",
-      "source": "Diginomica",
+      "id": "b72c7d4d297967d4",
+      "slug": "s-p-500-nasdaq-futures-dip-as-weaker-than-expected-alphabet-earnings-reignite-ai-spendin-05cd24",
+      "title": "S&P 500, Nasdaq Futures Dip As Weaker-Than-Expected Alphabet Earnings Reignite AI Spending Worries — GOOGL, MSFT, ORCL, NVDA, MRVL In Focus",
+      "dek": "The Federal Reserve left interest rates unchanged in its October policy meeting.",
+      "url": "https://newsable.asianetnews.com/markets/s-p-500-nasdaq-futures-dip-as-weaker-than-expected-alphabet-earnings-reignite-ai-spending-worries-googl-msft-orcl-nvda-mrvl-in-focus-articleshow-zr2h3nr",
+      "source": "Asianet Newsable",
       "sourceType": "external",
-      "image": "https://diginomica.com/sites/default/files/images/2026-10/Screenshot%202026-10-27%20at%2017.48.21.png",
-      "publishedAt": "2026-10-28T00:56:38.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-083e05e5-0fa3-47ca-bd4b-f0344b96ea44.jpg",
+      "publishedAt": "2026-10-29T00:35:01.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "agentic ai",
-        "healthcare transformation",
-        "government",
-        "oaiw26",
-        "audio"
+        "markets"
       ],
       "priority": 36
     },
@@ -2056,6 +1902,120 @@
       "tags": [
         "Oracle Cloud",
         "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "db9ca63c0d3e919f",
+      "slug": "implications-of-ai-and-privacy-b48b75",
+      "title": "Implications of AI and Privacy",
+      "dek": "In this episode, host Tyra Crockett Peirce speaks with Wei Jiang, an Oracle AI researcher and former university professor, about the privacy impacts of AI. --------------------------------------------------------- Episode Transcript: 00;00;09;03 - 00;00;35;11 Welcome to the Oracle Academy Tech Chat.",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/implications-of-ai-and-privacy",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP08.mp3?dest-id=3949203",
+      "publishedAt": "2024-12-03T13:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "c949b56fda6ba239",
+      "slug": "best-of-2024-preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio-79fc05",
+      "title": "Best of 2024: Preparing to Extend Oracle Fusion Apps Using Visual Builder Studio",
+      "dek": "What do you need to start customizing the next generation of Oracle Fusion Apps? How do you create new pages for business processes? What level of expertise do you require for this? Join Lois Houston and Nikita Abraham as they get answers to all these questions and more from Senior Principal OCI Ins",
+      "url": "https://oracleuniversitypodcast.libsyn.com/best-of-2024-preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S11_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-12-03T12:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "62f16a917242586a",
+      "slug": "best-of-2024-introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-al-9d327b",
+      "title": "Best of 2024: Introduction to Visual Builder Studio, Visual Builder Cloud Service, Stand-Alone, and JET",
+      "dek": "The next generation of front-end user interfaces for Oracle Fusion Applications is being built using Visual Builder Studio and Oracle JavaScript Extension Toolkit. However, many of the terms associated with these tools can be confusing. In this episode, Lois Houston and Nikita Abraham are joined by ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/best-of-2024-introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-alone-and-jet",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S11_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-11-26T12:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "198332c939d3ce7f",
+      "slug": "oracle-ai-in-fusion-cloud-human-capital-management-22576f",
+      "title": "Oracle AI in Fusion Cloud Human Capital Management",
+      "dek": "In this special episode of the Oracle University Podcast, Lois Houston and Nikita Abraham, along with Principal HCM Instructor Jeff Schuster, delve into the intersection of HCM and AI, exploring the practical applications and implications of this technology in human resources. Jeff shares his insigh",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-ai-in-fusion-cloud-human-capital-management",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-11-19T12:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "HCM",
+        "Oracle University",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "aeb0fadf9218b7fb",
+      "slug": "oracle-database-23ai-backup-and-recovery-part-2-a21298",
+      "title": "Oracle Database 23ai: Backup and Recovery - Part 2",
+      "dek": "Lois Houston and Nikita Abraham continue their deep dive into Oracle Database 23ai backup and recovery strategies with Senior Principal Database & MySQL Instructor Bill Millar. Picking up from Part 1, they explore critical concepts such as instance recovery, checkpoint processes, and the role of red",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-database-23ai-backup-and-recovery-part-2",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-11-12T12:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle Database",
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "25991950f723daf7",
+      "slug": "oracle-database-23ai-backup-and-recovery-part-1-cd90d3",
+      "title": "Oracle Database 23ai: Backup and Recovery - Part 1",
+      "dek": "In this two-part special, Lois Houston and Nikita Abraham delve into the critical topic of backup and recovery in Oracle Database 23ai. Together with Bill Millar, Senior Principal Database & MySQL Instructor, they discuss the role of database administrators, strategies for protecting data, and deali",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-database-23ai-backup-and-recovery-part-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-11-05T07:34:39.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle Database",
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "5f283d40ee2c8d74",
+      "slug": "oracle-ai-vector-search-part-2-9e86aa",
+      "title": "Oracle AI Vector Search: Part 2",
+      "dek": "This week, Lois Houston and Nikita Abraham continue their exploration of Oracle AI Vector Search with a deep dive into vector indexes and memory considerations. Senior Principal APEX and Apps Dev Instructor Brent Dayley breaks down what vector indexes are, how they enhance the efficiency of search q",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-ai-vector-search-part-2",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP14.mp3?dest-id=3870039",
+      "publishedAt": "2024-10-29T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "AI"
       ],
       "priority": 36
     }
