@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T23:55:22.143Z",
+  "generatedAt": "2026-10-31T23:30:20.407Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,186 +7,146 @@
   },
   "items": [
     {
-      "id": "aad69215a441341b",
-      "slug": "polymarket-deepens-partnership-with-chainlink-as-official-oracle-for-high-speed-up-down--392306",
-      "title": "Polymarket Deepens Partnership With Chainlink as Official Oracle for High-Speed Up/Down Markets and Launches Gold and Silver Trading",
-      "dek": "Building on the more than $11 billion in trading volume already powered by Chainlink, Polymarket is now expanding its 15-minute markets to commodities, equities, and forex. Polymarket, the world’s global prediction market, has deepened its strategic partnership with Chainlink, the standard for oncha",
-      "url": "https://globalfintechseries.com/trading/polymarket-deepens-partnership-with-chainlink-as-official-oracle-for-high-speed-up-down-markets-and-launches-gold-and-silver-trading/",
-      "source": "Globalfintechseries",
+      "id": "3a444673dacc36a4",
+      "slug": "oracle-nyse-orcl-raised-to-strong-buy-at-melius-research-0b3486",
+      "title": "Oracle (NYSE:ORCL) Raised to Strong-Buy at Melius Research",
+      "dek": "Oracle (NYSE:ORCL – Get Free Report) was upgraded by research analysts at Melius Research from a “hold” rating to a “strong-buy” rating in a note issued to investors on Thursday, Zacks reports. Other analysts also recently issued research reports about the stock. BMO Capital Markets reduced their pr",
+      "url": "https://www.themarketsdaily.com/2026/10/31/oracle-nyseorcl-raised-to-strong-buy-at-melius-research.html",
+      "source": "Markets Daily",
       "sourceType": "external",
-      "image": "https://globalfintechseries.com/wp-content/uploads/Polymarket-Deepens-Partnership-With-Chainlink-as-Official-Oracle-for-High-Speed-UpDown-Markets-and-Launches-Gold-and-Silver-Trading.png",
-      "publishedAt": "2026-10-30T11:48:37.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-10-31T11:05:05.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "forex",
-        "chief legal officer",
-        "neal kumar",
-        "news",
-        "trading",
-        "finance"
+        "stocks",
+        "analyst articles - us"
       ],
       "priority": 43
     },
     {
-      "id": "141ab986cc11964b",
-      "slug": "satya-nadella-just-took-a-shot-at-oracle-and-coreweave-e646ea",
-      "title": "Satya Nadella Just Took a Shot at Oracle and CoreWeave",
-      "dek": "Satya Nadella described a business model he called no business at all, named no company, and watched a handful of AI cloud stocks drop after hours. The comment may have been positioning, but the numbers behind it are hard to dismiss.",
-      "url": "https://247wallst.com/investing/2026/10/30/satya-nadella-just-took-a-shot-at-oracle-and-coreweave/",
-      "source": "24/7 Wall St",
+      "id": "bfeedc616e45780f",
+      "slug": "fears-over-828-billion-ai-capex-spending-spree-help-erase-1-trillion-in-market-value-461bb8",
+      "title": "Fears over $828 billion AI capex spending spree help erase $1 trillion in market value",
+      "dek": "Five tech giants are set to spend as much as $828 billion this year on infrastructure as the AI race eats into cash flow and rattles Wall Street.",
+      "url": "https://fortune.com/2026/10/31/big-tech-ai-capital-spending-spree/",
+      "source": "Fortune",
       "sourceType": "external",
-      "image": "https://247wallst.com/wp-content/uploads/2026/05/satya-nadella.png",
-      "publishedAt": "2026-10-30T11:47:06.000Z",
+      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297764008_93fae6-e1793399543644.jpg?w=2048",
+      "publishedAt": "2026-10-31T10:44:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "big tech",
+        "tech"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "af9d691f090fa3e3",
+      "slug": "international-business-machines-corporation-ibm-stock-parcion-private-wealth-llc-boosts--c380b7",
+      "title": "International Business Machines Corporation $IBM Stock: Parcion Private Wealth LLC Boosts Position",
+      "dek": "Parcion Private Wealth LLC raised its holdings in International Business Machines Corporation (NYSE:IBM – Free Report) by 23.0% during the third quarter, according to the company in its most recent filing with the Securities & Exchange Commission. The institutional investor owned 11,954 shares of th",
+      "url": "https://www.watchlistnews.com/international-business-machines-corporation-ibm-stock-parcion-private-wealth-llc-boosts-position/11287547.html",
+      "source": "Watch List News",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/international-business-machines-co-logo-1200x675.png?v=20221020160751",
+      "publishedAt": "2026-10-31T10:23:28.000Z",
       "topic": "Business & Earnings",
       "tags": [
+        "sec filing articles",
         "investing"
       ],
-      "priority": 43
-    },
-    {
-      "id": "ac1a7cbf17e332f7",
-      "slug": "zocdoc-opens-its-platform-to-ai-agents-6cddbd",
-      "title": "Zocdoc Opens Its Platform to AI Agents",
-      "dek": "The app that connects users to healthcare providers will allow AI agents to access its database",
-      "url": "https://www.adweek.com/media/zocdoc-opens-its-platform-to-ai-agents/",
-      "source": "Adweek",
-      "sourceType": "external",
-      "image": "https://static-www.adweek.com/wp-content/uploads/2026/10/Copy-of-Copy-of-TEMPLATE-Link-Thumbnail-21.jpg?w=1200&h=630&crop=1",
-      "publishedAt": "2026-10-30T11:18:28.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "health and wellness",
-        "premium",
-        "ai news"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "4153854c23724119",
-      "slug": "accenture-ai-agents-are-sifting-through-applicants-fceae5",
-      "title": "Accenture AI agents are sifting through applicants",
-      "dek": "But a human makes final hiring decisions at global tech consultancy",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/30/accenture-ai-agents-are-sifting-through-applicants/5306460",
-      "source": "The Register",
-      "sourceType": "external",
-      "image": "https://image.theregister.com/5252012.webp?width=1200",
-      "publishedAt": "2026-10-30T11:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "ai and ml"
-      ],
       "priority": 42
     },
     {
-      "id": "71d41bb02a49c03c",
-      "slug": "sap-s-4hana-conversion-check-list-steps-by-steps-with-details-27ada6",
-      "title": "SAP S/4HANA Conversion Check list Steps by Steps with Details.",
-      "dek": "Complete checklist of converting SAP ECC to SAP S/4HANA. Overview of SAP S/4HANA Conversion. Rise with SAP S/4 Conversion refers to the process of technically and functionally transforming an existing SAP ECC System into SAP S/4HANA, SAP’s next‑generation ERP platform. This approach is also know...",
-      "url": "https://community.sap.com/t5/technology-blog-posts-by-members/sap-s-4hana-conversion-check-list-steps-by-steps-with-details/ba-p/14261865",
-      "source": "Sap",
-      "sourceType": "external",
-      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
-      "publishedAt": "2026-10-30T10:59:31.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "assisted",
-        "learning",
-        "genai",
-        "content",
-        "technology updates​"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "151be17faf903684",
-      "slug": "microsoft-can-fund-more-ai-spending-with-debt-robert-schiffman-says-e2187a",
-      "title": "Microsoft can fund more AI spending with debt, Robert Schiffman says",
-      "dek": "Microsoft has room to borrow for rising AI spending while continuing shareholder payouts, Bloomberg Intelligence's Robert Schiffman said, following Bloomberg reporting that it seeks at least $25 billion.",
-      "url": "https://econotimes.com/Microsoft-can-fund-more-AI-spending-with-debt-Robert-Schiffman-says-1766755",
-      "source": "Econotimes",
-      "sourceType": "external",
-      "image": "https://wfuxxvxhdynkhcrlavdu.supabase.co/storage/v1/object/public/article-media/articles/24c78c71aeb8b0d16f1d1922488f140b21bda4f15696e5320ca0b39726daaaab.webp",
-      "publishedAt": "2026-10-30T10:40:29.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "corporate bonds",
-        "artificial intelligence",
-        "microsoft",
-        "ai revolution series"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "8570d7828fc916d7",
-      "slug": "domestic-droid-gone-amok-don-t-worry-you-re-covered-2104ca",
-      "title": "Domestic droid gone amok? Don't worry, you're covered",
-      "dek": "Insurance firms look to insulate domestic humanoid robot owners against the inevitable chaos they will bring",
-      "url": "https://www.theregister.com/ai-and-ml/2026/10/30/domestic-droid-gone-amok-dont-worry-youre-covered/5306396",
-      "source": "The Register",
-      "sourceType": "external",
-      "image": "https://image.theregister.com/260510.webp?width=1200",
-      "publishedAt": "2026-10-30T10:14:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "ai and ml"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "9f83389544d3316a",
-      "slug": "terrascout-ai-the-offline-trail-dispatcher-field-naturalist-powered-by-gemma-2-f77c9d",
-      "title": "TerraScout AI: The Offline Trail Dispatcher & Field Naturalist Powered by Gemma 2",
-      "dek": "This is a submission for the Hacktoberfest Open-Source AI Challenge Week 1: Touch Grass What I Built \"In every walk with nature, one receives far more than he seeks.\" — John Muir Modern technology has perfected the art of capturing our attention. Infinite algorithmic feeds, notification pings, and h",
-      "url": "https://dev.to/shashiharanramvanamcrypto/terrascout-ai-the-offline-trail-dispatcher-field-naturalist-powered-by-gemma-2-3mpm",
+      "id": "fea4806a6ee6a353",
+      "slug": "multi-vendor-ai-chips-reshape-data-center-operations-91af0a",
+      "title": "Multi-Vendor AI Chips Reshape Data Center Operations",
+      "dek": "Cloud Platforms Embrace Accelerator Diversity Oracle Cloud Infrastructure has begun offering Google Cloud Tensor Processing Units alongside its existing GPU portfolio and newly introduced custom AI accelerators. Customers can now provision TPU v5e pods directly through OCI for large-scale training j",
+      "url": "https://dev.to/lse-group-corporation/multi-vendor-ai-chips-reshape-data-center-operations-hpm",
       "source": "Dev Community",
       "sourceType": "external",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7q6way60hlds4v1k374s.png",
-      "publishedAt": "2026-10-30T09:50:20.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto/https%3A%2F%2Fmarketing.lumanet.info%2Fvirtual%2F36ef05c85b675527c94e.webp",
+      "publishedAt": "2026-10-31T10:00:01.000Z",
+      "topic": "Training & Certification",
       "tags": [
-        "devchallenge",
-        "gemma",
-        "opensource",
-        "hf26challenge"
+        "ai",
+        "hardware",
+        "infrastructure",
+        "cloud"
       ],
-      "priority": 41
+      "priority": 42
     },
     {
-      "id": "07e1108705d8b7e8",
-      "slug": "intc-stock-heads-for-worst-single-day-drop-in-over-2-years-but-ceo-lip-bu-tan-says-ai-ag-de26a4",
-      "title": "INTC Stock Heads for Worst Single-Day Drop in Over 2 Years, but CEO Lip-Bu Tan Says AI Agents Could Drive Server CPU Market to $200 Billion",
-      "dek": "Intel shares plunge 23% after weak Q4 guidance despite an earnings beat; CEO Tan predicts AI could expand the server CPU market to $200B.",
-      "url": "https://www.benzinga.com/markets/tech/26/10/62729704/intc-stock-heads-for-worst-single-day-drop-in-over-2-years-but-ceo-lip-bu-tan-says-ai-agents-could-drive-server-cpu-market-to-200-billion",
-      "source": "Benzinga",
+      "id": "05def90fb28d7614",
+      "slug": "oracle-s-massive-expansion-plans-face-a-daunting-reality-ed6c2c",
+      "title": "Oracle's massive expansion plans face a daunting reality",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.thestreet.com/investing/stocks/orcl-oracle-morgan-stanley-revisits-stock-price-target-after-investor-day-says-landing-6-gw-of-10gw-ambition-on-time-is-the-test",
+      "source": "Thestreet",
       "sourceType": "external",
-      "image": "https://cdn.benzinga.com/files/images/story/2026/10/30/Intel-Logo-Displayed-On-A-Smartphone-Scr.jpg?crop=600:400,smart&optimize=medium",
-      "publishedAt": "2026-10-30T09:31:24.000Z",
+      "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMjI5MzEx/oracle-co-founder_me_103126.jpg?profile=rss",
+      "publishedAt": "2026-10-31T08:03:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "stocks",
+        "earnings",
+        "investing",
+        "investing stocks",
+        "technology",
+        "artificial intelligence"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "bc6b1800eb927de1",
+      "slug": "dan-ives-says-anthropic-ipo-faces-a-perfect-storm-aswath-damodaran-warns-if-one-falls-th-d07b9c",
+      "title": "Dan Ives Says Anthropic IPO Faces A 'Perfect Storm' - Aswath Damodaran Warns 'If One Falls, They Drag The Others Down'",
+      "dek": "(MENAFN - AsiaNet News) Ives said that the key question is whether the development ultimately affects investor appetite for Anthropic's IPO. He added that the amount of money that Anthropic wants ...",
+      "url": "https://menafn.com/1111895312/Dan-Ives-Says-Anthropic-IPO-Faces-A-Perfect-Storm-Aswath-Damodaran-Warns-If-One-Falls-They-Drag-The-Others-Down",
+      "source": "Menafn",
+      "sourceType": "external",
+      "image": "https://menafn.com/rss/2026-10/31/AN_c9e1dimage_story.jpg",
+      "publishedAt": "2026-10-31T05:45:53.000Z",
+      "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 39
+    },
+    {
+      "id": "48da020d78d332d6",
+      "slug": "rimini-street-nasdaq-rmni-raised-to-strong-buy-at-wall-street-zen-c72a67",
+      "title": "Rimini Street (NASDAQ:RMNI) Raised to Strong-Buy at Wall Street Zen",
+      "dek": "Rimini Street (NASDAQ:RMNI – Get Free Report) was upgraded by investment analysts at Wall Street Zen from a “buy” rating to a “strong-buy” rating in a note issued to investors on Saturday, Wall Street Zen reports. Several other analysts also recently issued reports on RMNI. Zacks Research upgraded R",
+      "url": "https://www.americanbankingnews.com/2026/10/31/rimini-street-nasdaqrmni-raised-to-strong-buy-at-wall-street-zen.html",
+      "source": "Americanbankingnews",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/rimini-street-inc-logo-1200x675.jpg?v=20240522112008",
+      "publishedAt": "2026-10-31T05:37:06.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "lip-bu tan",
-        "equities",
-        "tech",
-        "memory stocks",
-        "markets"
+        "analyst articles - us",
+        "market news"
       ],
-      "priority": 41
+      "priority": 39
     },
     {
-      "id": "9f039f711f1cf158",
-      "slug": "why-is-the-advanced-analytics-market-becoming-a-top-investment-priority-amid-rising-dema-c51357",
-      "title": "Why Is the Advanced Analytics Market Becoming a Top Investment Priority Amid Rising Demand for AI-Driven Insights and Data Driven Decision Making",
-      "dek": "According to DataM Intelligence (DMI) analysis, the Global Advanced Analytics Market was valued at US$ 84.0 billion in 2025 and is expected to reach US$ 590.6 billion by 2033, growing at a CAGR of 28.0% during the forecast period (2026-2033). Market",
-      "url": "https://www.openpr.com/news/4677377/why-is-the-advanced-analytics-market-becoming-a-top-investment",
-      "source": "Openpr.com",
+      "id": "4ad17881184415aa",
+      "slug": "axon-enterprise-vs-servicenow-which-industrials-stock-is-a-better-buy-in-2026-eaa63a",
+      "title": "Axon Enterprise vs. ServiceNow: Which Industrials Stock Is a Better Buy in 2026?",
+      "dek": "ServiceNow commands a 20-point earnings valuation advantage, while Axon's cloud software transition masks heavy stock-based compensation.",
+      "url": "https://www.fool.com/coverage/better-buy/2026/10/30/axon-enterprise-vs-servicenow-which-industrials-stock-is-a-better-buy-in-2026/",
+      "source": "Fool",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/a/La30593641_k.jpg",
-      "publishedAt": "2026-10-30T09:26:33.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/bf5dd3c7e5911383631f1a50d2d7c90ab7f1371f-1200x800.png",
+      "publishedAt": "2026-10-31T02:22:01.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "new media & software",
-        "it"
+        "coveragebetter-buy",
+        "axon",
+        "ac323976-5ce5-4943-a50b-191bee96c969",
+        "industrials",
+        "now"
       ],
-      "priority": 41
+      "priority": 37
     },
     {
       "id": "660e0e8cb4720221",
@@ -200,114 +160,6 @@
       "publishedAt": "2026-10-29T07:32:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [],
-      "priority": 41
-    },
-    {
-      "id": "439e86478bf8a2c8",
-      "slug": "oracle-just-capped-how-much-new-money-it-will-raise-i-d-consider-buying-a-small-stake-in-807835",
-      "title": "Oracle Just Capped How Much New Money It Will Raise. I'd Consider Buying a Small Stake in the Stock.",
-      "dek": "The cloud giant's 2030 revenue target is a year old. Its cap on new shares and debt is brand new.",
-      "url": "https://www.fool.com/investing/2026/10/30/oracle-just-capped-how-much-new-money-it-will-raise-i-d-consider-buying-a-small-stake-in-the-stock/",
-      "source": "Fool",
-      "sourceType": "external",
-      "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/7314cb789a9950a9a32ae0ce931b044e305bb609-1200x800.png",
-      "publishedAt": "2026-10-30T07:41:01.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "technology and telecom",
-        "investing",
-        "f7f070a4-a2ee-4ecf-b7f2-dd31109cb84e",
-        "orcl"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "8c2c2ce3137aa923",
-      "slug": "top-players-in-the-supply-chain-management-market-fmi-forecasts-usd-109-6-billion-by-203-053cd7",
-      "title": "Top Players in the Supply Chain Management Market: FMI Forecasts USD 109.6 Billion by 2036",
-      "dek": "NEWARK, Del. - The global is projected to grow from USD 35.9 billion in 2026 to USD 109.6 billion by 2036, registering a compound annual growth rate (CAGR) of 11.8% during the forecast period, according to Future Market Insights (FMI).",
-      "url": "https://www.openpr.com/news/4677172/top-players-in-the-supply-chain-management-market-fmi-forecasts",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/a/La30468153_k.jpg",
-      "publishedAt": "2026-10-30T07:11:07.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "it",
-        "new media & software"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "05a2048bfd15d05e",
-      "slug": "security-audit-report-reentrancy-access-control-review-veda-49f4f7",
-      "title": "Security Audit Report: Reentrancy & Access Control Review: Veda",
-      "dek": "Security Audit Report: Reentrancy & Access Control Review: Veda Target Protocol: Veda (TVL: $1769.7M) Veda – Security Audit Report Focus: Reentrancy & Access‑Control Review Date: 30 Oct 2026 Auditors: [Your Company / Team] – Senior DeFi Security Researchers & Smart‑Contract Auditors Scope – The audi",
-      "url": "https://dev.to/dannydoes_2abdf9c/security-audit-report-reentrancy-access-control-review-veda-j0b",
-      "source": "Dev Community",
-      "sourceType": "external",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F7gj7uzmzkgt77v5d74ka.png",
-      "publishedAt": "2026-10-30T06:51:23.000Z",
-      "topic": "Security",
-      "tags": [
-        "security",
-        "web3",
-        "defi",
-        "ethereum"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "4dfe9a7dffd12e23",
-      "slug": "intel-gpu-d270-dumps-hbm-for-laptop-ram-air-cooled-inference-card-validated-by-7-3b-quar-347d06",
-      "title": "Intel GPU D270 Dumps HBM for Laptop RAM; Air-Cooled Inference Card Validated by $7.3B Quarter",
-      "dek": "Intel GPU D270 LPDDR5X inference GPU skips High Bandwidth Memory entirely, carrying 480 GB of laptop-grade DRAM in an air-cooled card. Intel's Q3 2026 Data Center and AI segment posted $7.3 billion in revenue, up 78% year over year, offering the first earnings-scale validation that inference-economi",
-      "url": "https://www.techtimes.com/articles/329762/20261030/intel-gpu-d270-dumps-hbm-laptop-ram-air-cooled-inference-card-validated-73b-quarter.htm",
-      "source": "Techtimes",
-      "sourceType": "external",
-      "image": "https://d.techtimes.com/en/full/477433/intel.jpg",
-      "publishedAt": "2026-10-30T06:41:02.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "artificial intelligence"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "4a621b9a2122287b",
-      "slug": "f5-oracle-plan-oci-security-tie-up-for-ai-threats-513410",
-      "title": "F5 & Oracle plan OCI security tie-up for AI threats",
-      "dek": "Cloud customers could gain extra protection against automated attacks as Oracle and F5 plan to embed web application and API security into OCI.",
-      "url": "https://securitybrief.co.uk/story/f5-oracle-plan-oci-security-tie-up-for-ai-threats",
-      "source": "Securitybrief Uk",
-      "sourceType": "external",
-      "image": "https://securitybrief.co.uk/uploads/story/2026/10/30/compatible_john-maddison-story-323096.jpg",
-      "publishedAt": "2026-10-30T02:57:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "technology"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "7dda053ec4b164e8",
-      "slug": "how-data-centers-are-shaping-michigan-s-midterm-elections-8387f0",
-      "title": "How data centers are shaping Michigan's midterm elections",
-      "dek": "Data center development continues to loom over many Michigan races ahead of the midterm elections with the growth of artificial intelligence and the expansion of big tech companies, as the Great Lakes state remains an ideal destination for large-scale data facilities. Opposition towards data center ",
-      "url": "https://statenews.com/article/2026/10/how-data-centers-are-shaping-michigans-midterm-elections",
-      "source": "The State News",
-      "sourceType": "external",
-      "image": "https://snworksceo.imgix.net/tsn/4d1e4a78-f825-44d8-8897-1cc090247e5c.sized-1000x1000.jpg",
-      "publishedAt": "2026-10-30T01:20:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "homepage",
-        "news",
-        "government &amp; politics",
-        "environment",
-        "campus",
-        "topstory"
-      ],
       "priority": 36
     },
     {
@@ -1999,6 +1851,130 @@
       "tags": [
         "OCI",
         "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "b45e3d006fc93558",
+      "slug": "encore-episode-oci-ai-services-5e7f50",
+      "title": "Encore Episode: OCI AI Services",
+      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-28T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "57fe9154d1531745",
+      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
+      "title": "Encore Episode: Generative AI and Large Language Models",
+      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-14T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "60d141d1ef069450",
+      "slug": "encore-episode-deep-learning-fe981b",
+      "title": "Encore Episode: Deep Learning",
+      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-07T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "311a8fe7e2892283",
+      "slug": "encore-episode-machine-learning-ee26a4",
+      "title": "Encore Episode: Machine Learning",
+      "dek": "Does machine learning feel like too convoluted a topic? Not anymore! Listen to hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Hemant Gahankari, talk about foundational machine learning concepts and dive into how supervised learning, unsupervised learning, and reinf",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-machine-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-30T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "4589098868999fde",
+      "slug": "encore-episode-introduction-to-artificial-intelligence-ai-9e755a",
+      "title": "Encore Episode: Introduction to Artificial Intelligence (AI)",
+      "dek": "You probably interact with artificial intelligence (AI) more than you realize. So, there's never been a better time to start figuring out how it all works. Join Lois Houston and Nikita Abraham as they decode the fundamentals of AI so that anyone, irrespective of their technical background, can lever",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-introduction-to-artificial-intelligence-ai",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-23T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ba70f7a05b875a4b",
+      "slug": "using-ords-to-make-your-adb-data-available-in-vbs-061acb",
+      "title": "Using ORDS to Make Your ADB Data Available in VBS",
+      "dek": "Visual Builder Studio requires its data sources to connect to the webpage it produces using REST calls. Therefore, the data source has to provide a REST interface. A simple, easy, secure, and free way to do that is with Oracle REST Data Services (ORDS). In this episode, hosts Lois Houston and Nikita",
+      "url": "https://oracleuniversitypodcast.libsyn.com/using-ords-to-make-your-adb-data-available-in-vbs",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-16T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "967d33e1489de57e",
+      "slug": "forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today-f03edc",
+      "title": "Forgotten, But Not Gone: How Model-Based Development Is Still Alive and Well Today",
+      "dek": "Computer Aided Software Engineering (CASE) tools, which helped make the analysis, design, and implementation phases of software development better, faster, and cheaper, fell out of favor in the mid-'90s. Yet much of what they have to offer remains and is in active use within different Oracle tools. ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/-forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-09T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "513c87bee83d2547",
+      "slug": "developing-redwood-applications-86e984",
+      "title": "Developing Redwood Applications",
+      "dek": "Redwood is a state-of-the-art graphical interface that defines the look and feel of the new Oracle Cloud Redwood Applications. In this episode, hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Joe Greenwald, take a closer look at the intent behind the design and deve",
+      "url": "https://oracleuniversitypodcast.libsyn.com/developing-redwood-applications",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-02T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "OCI"
       ],
       "priority": 36
     }
