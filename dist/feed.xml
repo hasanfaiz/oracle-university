@@ -6,88 +6,34 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Oct 2026 23:30:20 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 23:42:39 GMT</lastBuildDate>
     
     <item>
-      <title>Oracle (NYSE:ORCL) Raised to Strong-Buy at Melius Research</title>
-      <link>https://oracle-university.com/stories/oracle-nyse-orcl-raised-to-strong-buy-at-melius-research-0b3486/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-nyse-orcl-raised-to-strong-buy-at-melius-research-0b3486/</guid>
-      <pubDate>Sat, 31 Oct 2026 11:05:05 GMT</pubDate>
+      <title>Oracle Corporation $ORCL Shares Purchased by Summit Global Investments</title>
+      <link>https://oracle-university.com/stories/oracle-corporation-orcl-shares-purchased-by-summit-global-investments-d1aa4a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-shares-purchased-by-summit-global-investments-d1aa4a/</guid>
+      <pubDate>Sun, 01 Nov 2026 10:59:30 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Oracle (NYSE:ORCL – Get Free Report) was upgraded by research analysts at Melius Research from a “hold” rating to a “strong-buy” rating in a note issued to investors on Thursday, Zacks reports. Other analysts also recently issued research reports about the stock. BMO Capital Markets reduced their pr</description>
-      <source url="https://www.themarketsdaily.com/2026/10/31/oracle-nyseorcl-raised-to-strong-buy-at-melius-research.html">Markets Daily</source>
+      <description>Summit Global Investments raised its holdings in Oracle Corporation (NYSE:ORCL – Free Report) by 286.9% during the third quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 21,263 shares of the enter</description>
+      <source url="https://baseballnewssource.com/2026/11/01/oracle-corporation-orcl-shares-purchased-by-summit-global-investments/11329184.html">Bbns</source>
     </item>
     <item>
-      <title>Fears over $828 billion AI capex spending spree help erase $1 trillion in market value</title>
-      <link>https://oracle-university.com/stories/fears-over-828-billion-ai-capex-spending-spree-help-erase-1-trillion-in-market-value-461bb8/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/fears-over-828-billion-ai-capex-spending-spree-help-erase-1-trillion-in-market-value-461bb8/</guid>
-      <pubDate>Sat, 31 Oct 2026 10:44:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Five tech giants are set to spend as much as $828 billion this year on infrastructure as the AI race eats into cash flow and rattles Wall Street.</description>
-      <source url="https://fortune.com/2026/10/31/big-tech-ai-capital-spending-spree/">Fortune</source>
+      <title>How AI Startups Are Stretching Their Runway With Free Cloud and GPU Credits in 2026</title>
+      <link>https://oracle-university.com/stories/how-ai-startups-are-stretching-their-runway-with-free-cloud-and-gpu-credits-in-2026-cb5006/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/how-ai-startups-are-stretching-their-runway-with-free-cloud-and-gpu-credits-in-2026-cb5006/</guid>
+      <pubDate>Sun, 01 Nov 2026 10:52:09 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Building an AI product in 2026 is cheaper than it was three years ago, but it is still far from cheap. Model inference, vector databases, GPU instances for fine-tuning, speech and voice APIs, observability tools — the bill adds up long before the first paying customer arrives. For a pre-seed team… R</description>
+      <source url="https://techbullion.com/how-ai-startups-are-stretching-their-runway-with-free-cloud-and-gpu-credits-in-2026/">Techbullion</source>
     </item>
     <item>
-      <title>International Business Machines Corporation $IBM Stock: Parcion Private Wealth LLC Boosts Position</title>
-      <link>https://oracle-university.com/stories/international-business-machines-corporation-ibm-stock-parcion-private-wealth-llc-boosts--c380b7/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/international-business-machines-corporation-ibm-stock-parcion-private-wealth-llc-boosts--c380b7/</guid>
-      <pubDate>Sat, 31 Oct 2026 10:23:28 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Parcion Private Wealth LLC raised its holdings in International Business Machines Corporation (NYSE:IBM – Free Report) by 23.0% during the third quarter, according to the company in its most recent filing with the Securities &amp; Exchange Commission. The institutional investor owned 11,954 shares of th</description>
-      <source url="https://www.watchlistnews.com/international-business-machines-corporation-ibm-stock-parcion-private-wealth-llc-boosts-position/11287547.html">Watch List News</source>
-    </item>
-    <item>
-      <title>Multi-Vendor AI Chips Reshape Data Center Operations</title>
-      <link>https://oracle-university.com/stories/multi-vendor-ai-chips-reshape-data-center-operations-91af0a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/multi-vendor-ai-chips-reshape-data-center-operations-91af0a/</guid>
-      <pubDate>Sat, 31 Oct 2026 10:00:01 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>Cloud Platforms Embrace Accelerator Diversity Oracle Cloud Infrastructure has begun offering Google Cloud Tensor Processing Units alongside its existing GPU portfolio and newly introduced custom AI accelerators. Customers can now provision TPU v5e pods directly through OCI for large-scale training j</description>
-      <source url="https://dev.to/lse-group-corporation/multi-vendor-ai-chips-reshape-data-center-operations-hpm">Dev Community</source>
-    </item>
-    <item>
-      <title>Oracle&#39;s massive expansion plans face a daunting reality</title>
-      <link>https://oracle-university.com/stories/oracle-s-massive-expansion-plans-face-a-daunting-reality-ed6c2c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-s-massive-expansion-plans-face-a-daunting-reality-ed6c2c/</guid>
-      <pubDate>Sat, 31 Oct 2026 08:03:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.thestreet.com/investing/stocks/orcl-oracle-morgan-stanley-revisits-stock-price-target-after-investor-day-says-landing-6-gw-of-10gw-ambition-on-time-is-the-test">Thestreet</source>
-    </item>
-    <item>
-      <title>Dan Ives Says Anthropic IPO Faces A &#39;Perfect Storm&#39; - Aswath Damodaran Warns &#39;If One Falls, They Drag The Others Down&#39;</title>
-      <link>https://oracle-university.com/stories/dan-ives-says-anthropic-ipo-faces-a-perfect-storm-aswath-damodaran-warns-if-one-falls-th-d07b9c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/dan-ives-says-anthropic-ipo-faces-a-perfect-storm-aswath-damodaran-warns-if-one-falls-th-d07b9c/</guid>
-      <pubDate>Sat, 31 Oct 2026 05:45:53 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>(MENAFN - AsiaNet News) Ives said that the key question is whether the development ultimately affects investor appetite for Anthropic&#39;s IPO. He added that the amount of money that Anthropic wants ...</description>
-      <source url="https://menafn.com/1111895312/Dan-Ives-Says-Anthropic-IPO-Faces-A-Perfect-Storm-Aswath-Damodaran-Warns-If-One-Falls-They-Drag-The-Others-Down">Menafn</source>
-    </item>
-    <item>
-      <title>Rimini Street (NASDAQ:RMNI) Raised to Strong-Buy at Wall Street Zen</title>
-      <link>https://oracle-university.com/stories/rimini-street-nasdaq-rmni-raised-to-strong-buy-at-wall-street-zen-c72a67/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/rimini-street-nasdaq-rmni-raised-to-strong-buy-at-wall-street-zen-c72a67/</guid>
-      <pubDate>Sat, 31 Oct 2026 05:37:06 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Rimini Street (NASDAQ:RMNI – Get Free Report) was upgraded by investment analysts at Wall Street Zen from a “buy” rating to a “strong-buy” rating in a note issued to investors on Saturday, Wall Street Zen reports. Several other analysts also recently issued reports on RMNI. Zacks Research upgraded R</description>
-      <source url="https://www.americanbankingnews.com/2026/10/31/rimini-street-nasdaqrmni-raised-to-strong-buy-at-wall-street-zen.html">Americanbankingnews</source>
-    </item>
-    <item>
-      <title>Axon Enterprise vs. ServiceNow: Which Industrials Stock Is a Better Buy in 2026?</title>
-      <link>https://oracle-university.com/stories/axon-enterprise-vs-servicenow-which-industrials-stock-is-a-better-buy-in-2026-eaa63a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/axon-enterprise-vs-servicenow-which-industrials-stock-is-a-better-buy-in-2026-eaa63a/</guid>
-      <pubDate>Sat, 31 Oct 2026 02:22:01 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>ServiceNow commands a 20-point earnings valuation advantage, while Axon&#39;s cloud software transition masks heavy stock-based compensation.</description>
-      <source url="https://www.fool.com/coverage/better-buy/2026/10/30/axon-enterprise-vs-servicenow-which-industrials-stock-is-a-better-buy-in-2026/">Fool</source>
-    </item>
-    <item>
-      <title>&quot;Immutable Data Beyond Value Classes&quot; [AtA]</title>
-      <link>https://oracle-university.com/stories/immutable-data-beyond-value-classes-ata-db955b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/immutable-data-beyond-value-classes-ata-db955b/</guid>
-      <pubDate>Thu, 29 Oct 2026 07:32:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Object-Oriented Programming offers a lot of flexibility for modelling diverse domains but not all elements need that flexibility. Data, specifically, is often better modeled by simple, immutable types and while OOP does not prevent that, it can make it a bit cumbersome. So in recent and coming years</description>
-      <source url="https://inside.java/2026/10/29/podcast-073/">Inside Java</source>
+      <title>Week in review: Binance hit by $6.3 billion theft, impact of Brotli vulnerability</title>
+      <link>https://oracle-university.com/stories/week-in-review-binance-hit-by-6-3-billion-theft-impact-of-brotli-vulnerability-a36c41/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/week-in-review-binance-hit-by-6-3-billion-theft-impact-of-brotli-vulnerability-a36c41/</guid>
+      <pubDate>Sun, 01 Nov 2026 09:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: r/opensource bans AI projects, and solo devs go down with them Moderators of r/opensource, Reddit’s catch-all forum for open source software, have barred any project that “uses AI, is made by AI, or is </description>
+      <source url="https://www.helpnetsecurity.com/2026/11/01/week-in-review-binance-hit-by-6-3-billion-theft-impact-of-brotli-vulnerability/">Help Net Security</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -457,6 +403,60 @@
       <category>Oracle Ecosystem</category>
       <description>In this episode, Lois Houston and Nikita Abraham continue their discussion on AI fundamentals, diving into Data Science with Principal AI/ML Instructor Himanshu Raj. They explore key concepts like data collection, cleaning, and analysis, and talk about how quality data drives impactful insights. AI </description>
       <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-2">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Core AI Concepts – Part 1</title>
+      <link>https://oracle-university.com/stories/core-ai-concepts-part-1-d909db/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/core-ai-concepts-part-1-d909db/</guid>
+      <pubDate>Tue, 12 Aug 2025 11:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Join hosts Lois Houston and Nikita Abraham, along with Principal AI/ML Instructor Himanshu Raj, as they dive deeper into the world of artificial intelligence, analyzing the types of machine learning. They also discuss deep learning, including how it works, its applications, and its advantages and ch</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-1">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>What is AI?</title>
+      <link>https://oracle-university.com/stories/what-is-ai-cf94b7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/what-is-ai-cf94b7/</guid>
+      <pubDate>Tue, 05 Aug 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>In this episode, hosts Lois Houston and Nikita Abraham, together with Senior Cloud Engineer Nick Commisso, break down the basics of artificial intelligence (AI). They discuss the differences between Artificial General Intelligence (AGI) and Artificial Narrow Intelligence (ANI), and explore the conce</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/what-is-ai">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Modernize Your Business with Oracle Cloud Apps – Part 2</title>
+      <link>https://oracle-university.com/stories/modernize-your-business-with-oracle-cloud-apps-part-2-987aba/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/modernize-your-business-with-oracle-cloud-apps-part-2-987aba/</guid>
+      <pubDate>Tue, 29 Jul 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>In this episode, hosts Lois Houston and Nikita Abraham welcome back Cloud Delivery Lead Sarah Mahalik for a detailed tour of the four pillars of Oracle Fusion Cloud Applications: ERP, HCM, SCM, and CX. Discover how Oracle weaves AI, analytics, and automation into every layer of enterprise operations</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/modernize-your-business-with-oracle-cloud-apps-part-0">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Modernize Your Business with Oracle Cloud Apps – Part 1</title>
+      <link>https://oracle-university.com/stories/modernize-your-business-with-oracle-cloud-apps-part-1-db5937/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/modernize-your-business-with-oracle-cloud-apps-part-1-db5937/</guid>
+      <pubDate>Tue, 22 Jul 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Join hosts Lois Houston and Nikita Abraham, along with Cloud Delivery Lead Sarah Mahalik, as they unpack the core pillars of Oracle Fusion Cloud Applications—ERP, HCM, SCM, and CX. Learn how Oracle&#39;s SaaS model, Redwood UX, and built-in AI are reshaping business productivity, adaptability, and user </description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/modernize-your-business-with-oracle-cloud-apps-part-1">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Oracle GoldenGate 23ai: Parameters, Data Selection, Filtering, &amp; Transformation</title>
+      <link>https://oracle-university.com/stories/oracle-goldengate-23ai-parameters-data-selection-filtering-transformation-03d912/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-goldengate-23ai-parameters-data-selection-filtering-transformation-03d912/</guid>
+      <pubDate>Tue, 01 Jul 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>In the final episode of this series on Oracle GoldenGate 23ai, Lois Houston and Nikita Abraham welcome back Nick Wagner, Senior Director of Product Management for GoldenGate, to discuss how parameters shape data replication. This episode covers parameter files, data selection, filtering, and transfo</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-goldengate-23ai-parameters-data-selection-filtering-transformation">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Oracle GoldenGate 23ai: Managing Extract Trails and Files</title>
+      <link>https://oracle-university.com/stories/oracle-goldengate-23ai-managing-extract-trails-and-files-4a6e75/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-goldengate-23ai-managing-extract-trails-and-files-4a6e75/</guid>
+      <pubDate>Tue, 24 Jun 2025 11:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>In this episode of the Oracle University Podcast, Lois Houston and Nikita Abraham explore the intricacies of trail files in Oracle GoldenGate 23ai with Nick Wagner, Senior Director of Product Management. They delve into how trail files store committed operations, preserving the order of transactions</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-goldengate-23ai-managing-extract-trails-and-files">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>

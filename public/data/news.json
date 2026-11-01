@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T23:30:20.407Z",
+  "generatedAt": "2026-11-01T23:42:39.379Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,160 +7,56 @@
   },
   "items": [
     {
-      "id": "3a444673dacc36a4",
-      "slug": "oracle-nyse-orcl-raised-to-strong-buy-at-melius-research-0b3486",
-      "title": "Oracle (NYSE:ORCL) Raised to Strong-Buy at Melius Research",
-      "dek": "Oracle (NYSE:ORCL – Get Free Report) was upgraded by research analysts at Melius Research from a “hold” rating to a “strong-buy” rating in a note issued to investors on Thursday, Zacks reports. Other analysts also recently issued research reports about the stock. BMO Capital Markets reduced their pr",
-      "url": "https://www.themarketsdaily.com/2026/10/31/oracle-nyseorcl-raised-to-strong-buy-at-melius-research.html",
-      "source": "Markets Daily",
+      "id": "643f76a63ae15d1c",
+      "slug": "oracle-corporation-orcl-shares-purchased-by-summit-global-investments-d1aa4a",
+      "title": "Oracle Corporation $ORCL Shares Purchased by Summit Global Investments",
+      "dek": "Summit Global Investments raised its holdings in Oracle Corporation (NYSE:ORCL – Free Report) by 286.9% during the third quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 21,263 shares of the enter",
+      "url": "https://baseballnewssource.com/2026/11/01/oracle-corporation-orcl-shares-purchased-by-summit-global-investments/11329184.html",
+      "source": "Bbns",
       "sourceType": "external",
       "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-10-31T11:05:05.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "stocks",
-        "analyst articles - us"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "bfeedc616e45780f",
-      "slug": "fears-over-828-billion-ai-capex-spending-spree-help-erase-1-trillion-in-market-value-461bb8",
-      "title": "Fears over $828 billion AI capex spending spree help erase $1 trillion in market value",
-      "dek": "Five tech giants are set to spend as much as $828 billion this year on infrastructure as the AI race eats into cash flow and rattles Wall Street.",
-      "url": "https://fortune.com/2026/10/31/big-tech-ai-capital-spending-spree/",
-      "source": "Fortune",
-      "sourceType": "external",
-      "image": "https://fortune.com/img-assets/wp-content/uploads/2026/10/GettyImages-2297764008_93fae6-e1793399543644.jpg?w=2048",
-      "publishedAt": "2026-10-31T10:44:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "big tech",
-        "tech"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "af9d691f090fa3e3",
-      "slug": "international-business-machines-corporation-ibm-stock-parcion-private-wealth-llc-boosts--c380b7",
-      "title": "International Business Machines Corporation $IBM Stock: Parcion Private Wealth LLC Boosts Position",
-      "dek": "Parcion Private Wealth LLC raised its holdings in International Business Machines Corporation (NYSE:IBM – Free Report) by 23.0% during the third quarter, according to the company in its most recent filing with the Securities & Exchange Commission. The institutional investor owned 11,954 shares of th",
-      "url": "https://www.watchlistnews.com/international-business-machines-corporation-ibm-stock-parcion-private-wealth-llc-boosts-position/11287547.html",
-      "source": "Watch List News",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/international-business-machines-co-logo-1200x675.png?v=20221020160751",
-      "publishedAt": "2026-10-31T10:23:28.000Z",
+      "publishedAt": "2026-11-01T10:59:30.000Z",
       "topic": "Business & Earnings",
       "tags": [
         "sec filing articles",
-        "investing"
+        "markets"
       ],
-      "priority": 42
+      "priority": 43
     },
     {
-      "id": "fea4806a6ee6a353",
-      "slug": "multi-vendor-ai-chips-reshape-data-center-operations-91af0a",
-      "title": "Multi-Vendor AI Chips Reshape Data Center Operations",
-      "dek": "Cloud Platforms Embrace Accelerator Diversity Oracle Cloud Infrastructure has begun offering Google Cloud Tensor Processing Units alongside its existing GPU portfolio and newly introduced custom AI accelerators. Customers can now provision TPU v5e pods directly through OCI for large-scale training j",
-      "url": "https://dev.to/lse-group-corporation/multi-vendor-ai-chips-reshape-data-center-operations-hpm",
-      "source": "Dev Community",
+      "id": "47ac53a6a29766be",
+      "slug": "how-ai-startups-are-stretching-their-runway-with-free-cloud-and-gpu-credits-in-2026-cb5006",
+      "title": "How AI Startups Are Stretching Their Runway With Free Cloud and GPU Credits in 2026",
+      "dek": "Building an AI product in 2026 is cheaper than it was three years ago, but it is still far from cheap. Model inference, vector databases, GPU instances for fine-tuning, speech and voice APIs, observability tools — the bill adds up long before the first paying customer arrives. For a pre-seed team… R",
+      "url": "https://techbullion.com/how-ai-startups-are-stretching-their-runway-with-free-cloud-and-gpu-credits-in-2026/",
+      "source": "Techbullion",
       "sourceType": "external",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto/https%3A%2F%2Fmarketing.lumanet.info%2Fvirtual%2F36ef05c85b675527c94e.webp",
-      "publishedAt": "2026-10-31T10:00:01.000Z",
-      "topic": "Training & Certification",
+      "image": "https://techbullion.com/wp-content/uploads/2024/11/runway-ai-fund-1024x574.png",
+      "publishedAt": "2026-11-01T10:52:09.000Z",
+      "topic": "AI & Database",
       "tags": [
-        "ai",
-        "hardware",
-        "infrastructure",
-        "cloud"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "05def90fb28d7614",
-      "slug": "oracle-s-massive-expansion-plans-face-a-daunting-reality-ed6c2c",
-      "title": "Oracle's massive expansion plans face a daunting reality",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.thestreet.com/investing/stocks/orcl-oracle-morgan-stanley-revisits-stock-price-target-after-investor-day-says-landing-6-gw-of-10gw-ambition-on-time-is-the-test",
-      "source": "Thestreet",
-      "sourceType": "external",
-      "image": "https://www.thestreet.com/.image/NDA6MDAwMDAwMDAzMjI5MzEx/oracle-co-founder_me_103126.jpg?profile=rss",
-      "publishedAt": "2026-10-31T08:03:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "stocks",
-        "earnings",
-        "investing",
-        "investing stocks",
         "technology",
-        "artificial intelligence"
+        "carat",
+        "diamond rings"
       ],
-      "priority": 40
+      "priority": 43
     },
     {
-      "id": "bc6b1800eb927de1",
-      "slug": "dan-ives-says-anthropic-ipo-faces-a-perfect-storm-aswath-damodaran-warns-if-one-falls-th-d07b9c",
-      "title": "Dan Ives Says Anthropic IPO Faces A 'Perfect Storm' - Aswath Damodaran Warns 'If One Falls, They Drag The Others Down'",
-      "dek": "(MENAFN - AsiaNet News) Ives said that the key question is whether the development ultimately affects investor appetite for Anthropic's IPO. He added that the amount of money that Anthropic wants ...",
-      "url": "https://menafn.com/1111895312/Dan-Ives-Says-Anthropic-IPO-Faces-A-Perfect-Storm-Aswath-Damodaran-Warns-If-One-Falls-They-Drag-The-Others-Down",
-      "source": "Menafn",
+      "id": "a7d1fd9c8410e938",
+      "slug": "week-in-review-binance-hit-by-6-3-billion-theft-impact-of-brotli-vulnerability-a36c41",
+      "title": "Week in review: Binance hit by $6.3 billion theft, impact of Brotli vulnerability",
+      "dek": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: r/opensource bans AI projects, and solo devs go down with them Moderators of r/opensource, Reddit’s catch-all forum for open source software, have barred any project that “uses AI, is made by AI, or is ",
+      "url": "https://www.helpnetsecurity.com/2026/11/01/week-in-review-binance-hit-by-6-3-billion-theft-impact-of-brotli-vulnerability/",
+      "source": "Help Net Security",
       "sourceType": "external",
-      "image": "https://menafn.com/rss/2026-10/31/AN_c9e1dimage_story.jpg",
-      "publishedAt": "2026-10-31T05:45:53.000Z",
-      "topic": "Business & Earnings",
-      "tags": [],
-      "priority": 39
-    },
-    {
-      "id": "48da020d78d332d6",
-      "slug": "rimini-street-nasdaq-rmni-raised-to-strong-buy-at-wall-street-zen-c72a67",
-      "title": "Rimini Street (NASDAQ:RMNI) Raised to Strong-Buy at Wall Street Zen",
-      "dek": "Rimini Street (NASDAQ:RMNI – Get Free Report) was upgraded by investment analysts at Wall Street Zen from a “buy” rating to a “strong-buy” rating in a note issued to investors on Saturday, Wall Street Zen reports. Several other analysts also recently issued reports on RMNI. Zacks Research upgraded R",
-      "url": "https://www.americanbankingnews.com/2026/10/31/rimini-street-nasdaqrmni-raised-to-strong-buy-at-wall-street-zen.html",
-      "source": "Americanbankingnews",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/rimini-street-inc-logo-1200x675.jpg?v=20240522112008",
-      "publishedAt": "2026-10-31T05:37:06.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112502/cybersecurity_week_in_review1.jpg",
+      "publishedAt": "2026-11-01T09:00:00.000Z",
+      "topic": "Security",
       "tags": [
-        "analyst articles - us",
-        "market news"
+        "week in review",
+        "news"
       ],
-      "priority": 39
-    },
-    {
-      "id": "4ad17881184415aa",
-      "slug": "axon-enterprise-vs-servicenow-which-industrials-stock-is-a-better-buy-in-2026-eaa63a",
-      "title": "Axon Enterprise vs. ServiceNow: Which Industrials Stock Is a Better Buy in 2026?",
-      "dek": "ServiceNow commands a 20-point earnings valuation advantage, while Axon's cloud software transition masks heavy stock-based compensation.",
-      "url": "https://www.fool.com/coverage/better-buy/2026/10/30/axon-enterprise-vs-servicenow-which-industrials-stock-is-a-better-buy-in-2026/",
-      "source": "Fool",
-      "sourceType": "external",
-      "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/bf5dd3c7e5911383631f1a50d2d7c90ab7f1371f-1200x800.png",
-      "publishedAt": "2026-10-31T02:22:01.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "coveragebetter-buy",
-        "axon",
-        "ac323976-5ce5-4943-a50b-191bee96c969",
-        "industrials",
-        "now"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "660e0e8cb4720221",
-      "slug": "immutable-data-beyond-value-classes-ata-db955b",
-      "title": "\"Immutable Data Beyond Value Classes\" [AtA]",
-      "dek": "Object-Oriented Programming offers a lot of flexibility for modelling diverse domains but not all elements need that flexibility. Data, specifically, is often better modeled by simple, immutable types and while OOP does not prevent that, it can make it a bit cumbersome. So in recent and coming years",
-      "url": "https://inside.java/2026/10/29/podcast-073/",
-      "source": "Inside Java",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/insidejava/ijp-73.mp3?dest-id=2318780",
-      "publishedAt": "2026-10-29T07:32:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
+      "priority": 41
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1975,6 +1871,101 @@
       "tags": [
         "Oracle Cloud",
         "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "0bc5f5b9fa209155",
+      "slug": "preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio-23f876",
+      "title": "Preparing to Extend Oracle Fusion Apps Using Visual Builder Studio",
+      "dek": "What do you need to start customizing the next generation of Oracle Fusion Apps? How do you create new pages for business processes? What level of expertise do you require for this? Join Lois Houston and Nikita Abraham as they get answers to all these questions and more from Senior Principal OCI Ins",
+      "url": "https://oracleuniversitypodcast.libsyn.com/preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-03-26T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ced28242d290626e",
+      "slug": "introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-alone-and-jet-05c689",
+      "title": "Introduction to Visual Builder Studio, Visual Builder Cloud Service, Stand-Alone, and JET",
+      "dek": "The next generation of front-end user interfaces for Oracle Fusion Applications is being built using Visual Builder Studio and Oracle JavaScript Extension Toolkit. However, many of the terms associated with these tools can be confusing. In this episode, Lois Houston and Nikita Abraham are joined by ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-alone-and-jet",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-03-19T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "80b0e87aa5534b5f",
+      "slug": "oci-ai-services-fb5b69",
+      "title": "OCI AI Services",
+      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oci-ai-services",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S06_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-03-12T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "01b9d7957b344f1c",
+      "slug": "generative-ai-and-large-language-models-e87b5b",
+      "title": "Generative AI and Large Language Models",
+      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
+      "url": "https://oracleuniversitypodcast.libsyn.com/generative-ai-and-large-language-models",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S06_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-02-27T15:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "1855be8a41d81cd1",
+      "slug": "deep-learning-2a2b74",
+      "title": "Deep Learning",
+      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
+      "url": "https://oracleuniversitypodcast.libsyn.com/deep-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S06_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-02-20T15:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "f4cabfec646e09ac",
+      "slug": "everything-you-need-to-know-about-the-mysql-heatwave-implementation-associate-certificat-c8a4cf",
+      "title": "Everything You Need to Know About the MySQL HeatWave Implementation Associate Certification",
+      "dek": "What is MySQL HeatWave? How do I get certified in it? Where do I start? Listen to Lois Houston and Nikita Abraham, along with MySQL Developer Scott Stroz, answer all these questions and more on this week's episode of the Oracle University Podcast. MySQL Document Store: https://oracleuniversitypodcas",
+      "url": "https://oracleuniversitypodcast.libsyn.com/everything-you-need-to-know-about-the-mysql-heatwave-implementation-associate-certification",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S06_EPS1.mp3?dest-id=3870039",
+      "publishedAt": "2024-02-13T15:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "MySQL",
+        "Certification",
+        "Oracle University"
       ],
       "priority": 36
     }
