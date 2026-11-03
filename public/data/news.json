@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T23:42:39.379Z",
+  "generatedAt": "2026-11-03T02:28:58.589Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -7,56 +7,394 @@
   },
   "items": [
     {
-      "id": "643f76a63ae15d1c",
-      "slug": "oracle-corporation-orcl-shares-purchased-by-summit-global-investments-d1aa4a",
-      "title": "Oracle Corporation $ORCL Shares Purchased by Summit Global Investments",
-      "dek": "Summit Global Investments raised its holdings in Oracle Corporation (NYSE:ORCL – Free Report) by 286.9% during the third quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 21,263 shares of the enter",
-      "url": "https://baseballnewssource.com/2026/11/01/oracle-corporation-orcl-shares-purchased-by-summit-global-investments/11329184.html",
-      "source": "Bbns",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-11-01T10:59:30.000Z",
+      "id": "a6ea65aeb044c987",
+      "slug": "oracle-sets-the-date-for-its-first-quarter-fiscal-year-2027-earnings-announcement-a540e9",
+      "title": "Oracle Sets the Date for its First Quarter Fiscal Year 2027 Earnings Announcement",
+      "dek": "",
+      "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-First-Quarter-Fiscal-Year-2027-Earnings-Announcement/default.aspx",
+      "source": "Oracle Investor Relations News",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-09-02T20:00:00.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "sec filing articles",
-        "markets"
+        "Earnings"
+      ],
+      "priority": 46
+    },
+    {
+      "id": "f58466d207e1f5cc",
+      "slug": "oracle-sets-the-date-for-its-fourth-quarter-fiscal-year-2026-earnings-announcement-3a2dd3",
+      "title": "Oracle Sets the Date for its Fourth Quarter Fiscal Year 2026 Earnings Announcement",
+      "dek": "",
+      "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-Fourth-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx",
+      "source": "Oracle Investor Relations News",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-06-01T20:01:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "Earnings"
+      ],
+      "priority": 46
+    },
+    {
+      "id": "f76a77e7c98d5292",
+      "slug": "oracle-sets-the-date-for-its-third-quarter-fiscal-year-2026-earnings-announcement-e65993",
+      "title": "Oracle Sets the Date for its Third Quarter Fiscal Year 2026 Earnings Announcement",
+      "dek": "",
+      "url": "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-Third-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx",
+      "source": "Oracle Investor Relations News",
+      "sourceType": "official",
+      "image": "",
+      "publishedAt": "2026-03-03T21:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "Earnings"
+      ],
+      "priority": 46
+    },
+    {
+      "id": "dc65515317c532c7",
+      "slug": "oracle-taps-investors-for-us-20-billion-to-finance-ai-expansion-6f0a67",
+      "title": "Oracle taps investors for US$20 billion to finance AI expansion",
+      "dek": "Oracle plans to raise US$20 billion (HK$156 billion) through bond and share sales, regulatory filings showed on Monday, as the software giant taps investors to fund its costly AI and cloud infrastructure build-out.",
+      "url": "https://www.thestandard.com.hk/finance/article/347269/Oracle-taps-investors-for-US20-billion-to-finance-AI-expansion",
+      "source": "The Standard 英文虎報",
+      "sourceType": "external",
+      "image": "https://image.hkstandard.com.hk/f/1024p0/0x0/100/none/b7d339b80a6d1e85bf6598955d97ea3e/2026-07/2026-06-11T104300Z_555025164_RC2P56A1JRCU_RTRMADP_3_ORACLE-STOCKS.JPG",
+      "publishedAt": "2026-11-02T14:07:16.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "ai",
+        "oracle",
+        "share sale",
+        "bond"
       ],
       "priority": 43
     },
     {
-      "id": "47ac53a6a29766be",
-      "slug": "how-ai-startups-are-stretching-their-runway-with-free-cloud-and-gpu-credits-in-2026-cb5006",
-      "title": "How AI Startups Are Stretching Their Runway With Free Cloud and GPU Credits in 2026",
-      "dek": "Building an AI product in 2026 is cheaper than it was three years ago, but it is still far from cheap. Model inference, vector databases, GPU instances for fine-tuning, speech and voice APIs, observability tools — the bill adds up long before the first paying customer arrives. For a pre-seed team… R",
-      "url": "https://techbullion.com/how-ai-startups-are-stretching-their-runway-with-free-cloud-and-gpu-credits-in-2026/",
-      "source": "Techbullion",
+      "id": "5ed666812b84aace",
+      "slug": "oracle-s-stock-falls-as-the-company-details-plan-to-raise-20-billion-005e52",
+      "title": "Oracle’s stock falls as the company details plan to raise $20 billion",
+      "dek": "Oracle has been borrowing money and issuing stock to help finance its AI cloud growth.",
+      "url": "https://www.marketwatch.com/story/oracles-stock-falls-as-the-company-details-plan-to-raise-20-billion-f03f5e16?mod=mw_rss_topstories",
+      "source": "Marketwatch",
       "sourceType": "external",
-      "image": "https://techbullion.com/wp-content/uploads/2024/11/runway-ai-fund-1024x574.png",
-      "publishedAt": "2026-11-01T10:52:09.000Z",
-      "topic": "AI & Database",
+      "image": "https://images.mktw.net/im-22358225",
+      "publishedAt": "2026-11-02T14:03:00.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "technology",
-        "carat",
-        "diamond rings"
+        "services",
+        "c&e exclusion filter",
+        "computing",
+        "commodity",
+        "computers",
+        "equity markets"
       ],
       "priority": 43
     },
     {
-      "id": "a7d1fd9c8410e938",
-      "slug": "week-in-review-binance-hit-by-6-3-billion-theft-impact-of-brotli-vulnerability-a36c41",
-      "title": "Week in review: Binance hit by $6.3 billion theft, impact of Brotli vulnerability",
-      "dek": "Here’s an overview of some of last week’s most interesting news, articles, interviews and videos: r/opensource bans AI projects, and solo devs go down with them Moderators of r/opensource, Reddit’s catch-all forum for open source software, have barred any project that “uses AI, is made by AI, or is ",
-      "url": "https://www.helpnetsecurity.com/2026/11/01/week-in-review-binance-hit-by-6-3-billion-theft-impact-of-brotli-vulnerability/",
-      "source": "Help Net Security",
+      "id": "807b0eb4789a31d4",
+      "slug": "can-skydance-escape-its-80-billion-debt-burden-cc7691",
+      "title": "Can Skydance Escape Its $80 Billion Debt Burden?",
+      "dek": "Experts who spoke to TheWrap are skeptical the David Ellison-led media giant can hit its financial targets without additional action, such as more cost cuts, raising equity or asset sales The post Can Skydance Escape Its $80 Billion Debt Burden? appeared first on TheWrap.",
+      "url": "https://www.thewrap.com/industry-news/business/david-ellsion-skydance-debt-analysis/",
+      "source": "Thewrap",
       "sourceType": "external",
-      "image": "https://img.helpnetsecurity.com/wp-content/uploads/2023/12/01112502/cybersecurity_week_in_review1.jpg",
-      "publishedAt": "2026-11-01T09:00:00.000Z",
-      "topic": "Security",
+      "image": "https://www.thewrap.com/wp-content/uploads/2026/10/David-Ellison-Debt-Art.jpg",
+      "publishedAt": "2026-11-02T14:00:00.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "week in review",
-        "news"
+        "david ellison",
+        "paramount",
+        "skydance",
+        "streaming",
+        "tv",
+        "debt"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "cecb0d9518853a9f",
+      "slug": "oracle-plans-to-raise-20-billion-via-bond-stock-sales-43287c",
+      "title": "Oracle Plans to Raise $20 Billion via Bond, Stock Sales",
+      "dek": "Oracle plans to raise $20 billion through the sale of bonds and new shares, two US regulatory filings showed Monday, in a move that adds to its fundraising for expensive AI and cloud infrastructure.",
+      "url": "https://www.newsmax.com/finance/streettalk/oracle-stocks-bonds/2026/11/02/id/1274793",
+      "source": "Newsmax.com",
+      "sourceType": "external",
+      "image": "https://www.newsmax.com/cmspages/getfile.aspx?guid=A3972569-0CB3-4DE9-ACE4-70AB8669ED50",
+      "publishedAt": "2026-11-02T13:59:59.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "587da5296c9a9cc0",
+      "slug": "oracle-declines-4-as-10-billion-bond-sale-revives-ai-debt-worries-coreweave-advances-2-m-8b6176",
+      "title": "Oracle Declines 4% as $10 Billion Bond Sale Revives AI Debt Worries; CoreWeave Advances 2%, Microsoft Holds Steady",
+      "dek": "Oracle just launched a $10 billion bond sale to fund its AI ambitions, and the market is punishing the stock for it while a debt-laden rival moves in the opposite direction. The divergence raises a pointed question about which AI builders Wall Street actually trusts with borrowed money.",
+      "url": "https://247wallst.com/investing/2026/11/02/oracle-declines-4-as-10-billion-bond-sale-revives-ai-debt-worries-coreweave-advances-2-microsoft-holds-steady/",
+      "source": "24/7 Wall St",
+      "sourceType": "external",
+      "image": "https://247wallst.com/wp-content/uploads/2018/10/imageforentry76.jpg",
+      "publishedAt": "2026-11-02T13:58:54.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "investing"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "f6ea74937b2e675b",
+      "slug": "what-gem-did-for-government-buying-shrevit-wants-to-do-for-private-enterprise-procuremen-a0d693",
+      "title": "What GeM Did for Government Buying, Shrevit Wants to Do for Private Enterprise Procurement",
+      "dek": "Mumbai (Maharashtra) [India], November 2: When the Government e-Marketplace (GeM) moved public purchasing in India onto a single digital platform, it gave government buyers something most private companies still lack: one transparent, rule-bound environment where every tender, bid and approval leave",
+      "url": "https://www.business-standard.com/content/press-releases-ani/what-gem-did-for-government-buying-shrevit-wants-to-do-for-private-enterprise-procurement-126110201322_1.html",
+      "source": "Business Standard",
+      "sourceType": "external",
+      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+      "publishedAt": "2026-11-02T13:50:06.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "press releases ani",
+        "content"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "d98fc9acca468b86",
+      "slug": "oracle-plans-to-raise-us-20b-through-bonds-and-stock-sales-c1ba32",
+      "title": "Oracle plans to raise US$20B through bonds and stock sales",
+      "dek": "Oracle plans to raise US$20 billion through the sale of bonds and new shares, two U.S. regulatory filings showed on Monday, in a move that adds to its fundraising for expensive AI and cloud infrastructure.",
+      "url": "https://www.bnnbloomberg.ca/business/technology/2026/11/02/oracle-plans-to-raise-us20b-through-bonds-and-stock-sales/",
+      "source": "Bnn Bloomberg",
+      "sourceType": "external",
+      "image": "https://www.bnnbloomberg.ca/resizer/v2/H3OTJNCQUZAORB3FCXGES5EDUE.jpg?auth=6a22570dbbea1d75291c307a17b8ac3ef82f8ec645c9386147e5aad2d74189fa&smart=true&width=7453&height=5086",
+      "publishedAt": "2026-11-02T13:40:38.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "a475e918dffc4389",
+      "slug": "oracle-plans-to-raise-20-billion-through-bonds-and-stock-sales-8338c9",
+      "title": "Oracle plans to raise $20 billion through bonds and stock sales",
+      "dek": "Nov 2 (Reuters) - ⁠Oracle plans to raise $20 ⁠billion through the sale of ‌bonds and new shares, two US regulatory filings showed on Monday, in ​a move that ⁠adds to its ⁠fundraising for expensive AI and ⁠cloud infrastructure.",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/11/02/oracle-to-offer-10-billion-in-bonds",
+      "source": "The Star",
+      "sourceType": "external",
+      "image": "https://apicms.thestar.com.my/uploads/images/2026/11/02/4193767.jpg",
+      "publishedAt": "2026-11-02T13:28:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "AI"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "82c315bc82f7cf94",
+      "slug": "oracle-s-partner-catalogue-is-expanding-faster-than-its-cash-flow-2b6ae0",
+      "title": "Oracle’s Partner Catalogue Is Expanding Faster Than Its Cash Flow",
+      "dek": "Oracle shares slipped on Friday as a broad selloff in AI infrastructure names gathered pace, with Amazon’s quarterly results and its reaffirmed heavy spending plans sharpening investor worries about how — and when — the AI buildout pays off. The stock was climbing 1.3% in premarket trading today, a ",
+      "url": "https://www.newscase.com/oracles-partner-catalogue-is-expanding-faster-than-its-cash-flow/",
+      "source": "Newscase",
+      "sourceType": "external",
+      "image": "https://www.newscase.com/wp-content/uploads/ai-imgs/US68389X1054-2026-11-02-12-51-08.png",
+      "publishedAt": "2026-11-02T12:51:05.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "tech &amp; software",
+        "ai &amp; quantum computing",
+        "analysis",
+        "oracle",
+        "market commentary"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "62de1702c665e4ba",
+      "slug": "oracle-corporation-orcl-stock-position-raised-by-proshare-advisors-llc-b51f19",
+      "title": "Oracle Corporation $ORCL Stock Position Raised by ProShare Advisors LLC",
+      "dek": "ProShare Advisors LLC grew its position in shares of Oracle Corporation (NYSE:ORCL - Free Report) by 9.2% during the 3rd quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The firm owned 392,227 shares of the enterprise software provider's stock after buy",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-oracle-corporation-orcl-stock-position-raised-by-proshare-advisors-llc-2026-11-02/",
+      "source": "marketbeat",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-11-02T12:41:32.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "nyse:orcl",
+        "instant alerts",
+        "sec filing",
+        "oracle"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "1493bed258f324f7",
+      "slug": "appse-ai-publishes-procurement-bottleneck-audit-for-sap-business-one-netsuite-and-busine-28bbab",
+      "title": "appse ai Publishes Procurement Bottleneck Audit for SAP Business One, NetSuite and Business Central",
+      "dek": "appse ai, the ERP-first AI workflow automation platform built on APPSeCONNECT, today published a five-point procurement bottleneck audit for mid-market manufacturers and distributors. The audit helps procurement, operations, and finance teams running SAP Business One, NetSuite, and Microsoft Dynamic",
+      "url": "https://www.openpr.com/news/4678841/appse-ai-publishes-procurement-bottleneck-audit-for-sap",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/b/Lb02134600_k.jpg",
+      "publishedAt": "2026-11-02T11:21:53.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "new media & software",
+        "it"
       ],
       "priority": 41
+    },
+    {
+      "id": "95daa4059159e0de",
+      "slug": "the-future-of-ai-will-be-shaped-by-an-astonishingly-small-number-of-people-4d7ea8",
+      "title": "The Future of AI Will Be Shaped by an Astonishingly Small Number of People",
+      "dek": "These engineers, founders, thinkers, and brokers aren’t particularly well known. But they have an enormous sway in where technology goes.",
+      "url": "https://us.headtopics.com/news/the-future-of-ai-will-be-shaped-by-an-astonishingly-small-89454248",
+      "source": "Headtopics",
+      "sourceType": "external",
+      "image": "https://i.headtopics.com/images/2026/11/2/nymag/the-future-of-ai-will-be-shaped-by-an-astonishingl-the-future-of-ai-will-be-shaped-by-an-astonishingl-5D3E96F1B9303920D21FDB87574E03F9-16x9.webp",
+      "publishedAt": "2026-11-02T10:41:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "united states news"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "d784262405f98707",
+      "slug": "top-10-best-identity-governance-administration-iga-tools-in-2026-7635a6",
+      "title": "Top 10 Best Identity Governance & Administration (IGA) Tools in 2026",
+      "dek": "Quick Answer: Linx is the AI-native solution for modern IGA across all identity types; SailPoint remains the IGA benchmark with AI-driven certifications; Saviynt leads cloud-native converged governance; Microsoft Entra ID Governance wins bundled economics in M365 estates; Omada owns the configurable",
+      "url": "https://cybersecuritynews.com/best-iga-tools/",
+      "source": "Cybersecuritynews",
+      "sourceType": "external",
+      "image": "https://cybersecuritynews.com/wp-content/uploads/2026/09/Best-Identity-Governance-Administration-IGA-Tools.webp",
+      "publishedAt": "2026-11-02T10:09:58.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "top 10",
+        "cyber security news"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "03edfda00cef921e",
+      "slug": "why-grocery-wholesalers-are-fixing-item-data-before-chasing-ecommerce-and-ai-34f18e",
+      "title": "Why grocery wholesalers are fixing item data before chasing ecommerce and AI",
+      "dek": "How MVR Cash & Carry fixed its inventory data to unlock eCommerce, forecasting and AI.",
+      "url": "https://www.grocerydive.com/spons/why-grocery-wholesalers-are-fixing-item-data-before-chasing-ecommerce-and-a/873333/",
+      "source": "Grocerydive",
+      "sourceType": "external",
+      "image": "https://imgproxy.divecdn.com/rrTqYXgXWcAu2waBof2BcpvZYqSeMcBuR4k7NjsLtl8/g:ce/rs:fill:1200:1200:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9IZWFkZXJfSW1hZ2VfLV9IaWdoX1Jlc29sdXRpb25fLV9HZXR0eV8yMTk3OTMzNDIxLTEwNDB4NjE2LmpwZw==.webp",
+      "publishedAt": "2026-11-02T10:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "c3c06162dff86583",
+      "slug": "how-oracle-netsuite-rebuilt-its-erp-platform-for-the-ai-era-b4ac0b",
+      "title": "How Oracle NetSuite rebuilt its ERP platform for the AI era",
+      "dek": "At SuiteWorld in Las Vegas, Brian Chess, the SVP AI Product and Technology at Oracle NetSuite, explained the vision behind NetSuite Next. It comes down to a multi-year architectural rebuild. It positions NetSuite Next to make generative AI work better inside an enterprise ERP platform. The platform ",
+      "url": "https://www.techzine.eu/blogs/applications/145453/how-oracle-netsuite-rebuilt-its-erp-platform-for-the-ai-era/",
+      "source": "Techzine Europe",
+      "sourceType": "external",
+      "image": "https://www.techzine.eu/wp-content/uploads/2026/11/wvug3h_rzyk-1.jpg",
+      "publishedAt": "2026-11-02T09:53:50.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "oracle netsuite",
+        "applications",
+        "erp ai",
+        "ask oracle",
+        "enterprise ai",
+        "mcp server"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "698f394b85c83113",
+      "slug": "netsuite-declares-the-end-of-erp-the-future-is-invisible-54c9fe",
+      "title": "NetSuite declares the end of ERP: The future is invisible",
+      "dek": "At SuiteWorld 2026, Evan Goldberg declares the end of ERP as we know it today. NetSuite will remain an ERP solution, but with NetSuite Next, ERP is becoming increasingly invisible. Goldberg, one of NetSuite’s founders and now EVP of Oracle NetSuite, says ERP is coming to an end, and the platform is ",
+      "url": "https://www.techzine.eu/blogs/applications/145450/netsuite-declares-the-end-of-erp-the-future-is-invisible/",
+      "source": "Techzine Europe",
+      "sourceType": "external",
+      "image": "https://www.techzine.eu/wp-content/uploads/2026/11/wvug3h_rzyk.jpg",
+      "publishedAt": "2026-11-02T09:52:40.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "netsuite",
+        "oracle netsuite",
+        "applications",
+        "autonomous",
+        "erp",
+        "netsuite next"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "e522665e95e0455e",
+      "slug": "enterprise-hits-and-misses-ai-outcomes-are-elusive-the-human-review-tax-is-bs-and-enterp-32bc6e",
+      "title": "Enterprise hits and misses - AI outcomes are elusive, the human review tax is BS, and enterprises need an AI playbook",
+      "dek": "This week - as fall events roll on (and on), AI outcomes are in demand - but hard to nail down. Is the so-called AI human review tax a thing, or a flawed concept? An AI playbook would be swell - but are we any closer? As always, your whiffs - and diginomica's line in the sand with Meta.",
+      "url": "https://diginomica.com/enterprise-hits-and-misses-ai-outcomes-are-elusive-human-review-tax-bs-and-enterprises-need-ai",
+      "source": "Diginomica",
+      "sourceType": "external",
+      "image": "https://diginomica.com/sites/default/files/images/2015-06/driver-in-clouds.jpg",
+      "publishedAt": "2026-11-02T07:41:52.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "enterprise ai",
+        "digital and content marketing",
+        "agentic ai",
+        "governing identity privacy and security",
+        "hits and misses"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "c5a47d62f13d754d",
+      "slug": "netsuite-s-new-ai-capabilities-will-open-up-opportunities-for-smbs-oracle-netsuite-s-cra-2c8070",
+      "title": "NetSuite’s new AI capabilities will open up opportunities for SMBs: Oracle NetSuite’s Craig Sullivan",
+      "dek": "In conversation with ET Digital at SuiteWorld 2026 in Las Vegas, Craig Sullivan, Group Vice President, Product Management, Oracle NetSuite highlights NetSuite’s product strategy, AI innovation and enterprise transformation that can help SMEs scale and compete.",
+      "url": "https://economictimes.indiatimes.com/news/videos/netsuites-new-ai-capabilities-will-open-up-opportunities-for-smbs-oracle-netsuites-craig-sullivan/videoshow/135450325.cms",
+      "source": "The Economic Times",
+      "sourceType": "external",
+      "image": "https://img.etimg.com/thumb/msid-135450325,width-1200,height-900,overlay-economictimes/news/videos/netsuites-new-ai-capabilities-will-open-up-opportunities-for-smbs-oracle-netsuites-craig-sullivan.jpg",
+      "publishedAt": "2026-11-02T07:37:51.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "NetSuite",
+        "AI"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "885efad59049223a",
+      "slug": "oracle-s-health-unit-slashes-jobs-withdraws-job-offers-bw-healthcare-world-3b19cf",
+      "title": "Oracle's Health Unit Slashes Jobs, Withdraws Job Offers - BW Healthcare World",
+      "dek": "Software firm Oracle on Thursday laid off hundreds of employees, rescinded job offers, and cut back open positions within its health unit, the Insider reported, citing three people familiar with the matter. The layoffs follow thousands of cuts in corporate America as companies wrestle with elevated ",
+      "url": "https://www.bwhealthcareworld.com/article/oracles-health-unit-slashes-jobs-withdraws-job-offers-480809",
+      "source": "Businessworld Healthcare World",
+      "sourceType": "external",
+      "image": "https://static.businessworld.in/1621868161_KM2qN1_hire.png",
+      "publishedAt": "2026-11-02T06:17:18.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "Cerner"
+      ],
+      "priority": 37
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1664,308 +2002,6 @@
       "topic": "Oracle Cloud",
       "tags": [
         "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "d38db88cd3fd3cc0",
-      "slug": "working-with-oke-virtual-nodes-f5a370",
-      "title": "Working with OKE Virtual Nodes",
-      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-02T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "bd401ec004db1755",
-      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
-      "title": "Introduction to OCI Container Engine for Kubernetes",
-      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-25T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "1d3aa287378f7e71",
-      "slug": "basics-of-kubernetes-23e26c",
-      "title": "Basics of Kubernetes",
-      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
-      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-18T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ec54bf5b81f570ed",
-      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
-      "title": "Oracle Cloud Infrastructure Registry",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-11T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "OCI",
-        "Oracle Cloud Infrastructure"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "6ba1bee89c8a91cc",
-      "slug": "what-is-containerization-0326f4",
-      "title": "What is Containerization?",
-      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-04T14:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "OCI",
-        "Oracle University"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "b45e3d006fc93558",
-      "slug": "encore-episode-oci-ai-services-5e7f50",
-      "title": "Encore Episode: OCI AI Services",
-      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-28T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI",
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "57fe9154d1531745",
-      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
-      "title": "Encore Episode: Generative AI and Large Language Models",
-      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-14T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "60d141d1ef069450",
-      "slug": "encore-episode-deep-learning-fe981b",
-      "title": "Encore Episode: Deep Learning",
-      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-07T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "311a8fe7e2892283",
-      "slug": "encore-episode-machine-learning-ee26a4",
-      "title": "Encore Episode: Machine Learning",
-      "dek": "Does machine learning feel like too convoluted a topic? Not anymore! Listen to hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Hemant Gahankari, talk about foundational machine learning concepts and dive into how supervised learning, unsupervised learning, and reinf",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-machine-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-30T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "4589098868999fde",
-      "slug": "encore-episode-introduction-to-artificial-intelligence-ai-9e755a",
-      "title": "Encore Episode: Introduction to Artificial Intelligence (AI)",
-      "dek": "You probably interact with artificial intelligence (AI) more than you realize. So, there's never been a better time to start figuring out how it all works. Join Lois Houston and Nikita Abraham as they decode the fundamentals of AI so that anyone, irrespective of their technical background, can lever",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-introduction-to-artificial-intelligence-ai",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-23T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ba70f7a05b875a4b",
-      "slug": "using-ords-to-make-your-adb-data-available-in-vbs-061acb",
-      "title": "Using ORDS to Make Your ADB Data Available in VBS",
-      "dek": "Visual Builder Studio requires its data sources to connect to the webpage it produces using REST calls. Therefore, the data source has to provide a REST interface. A simple, easy, secure, and free way to do that is with Oracle REST Data Services (ORDS). In this episode, hosts Lois Houston and Nikita",
-      "url": "https://oracleuniversitypodcast.libsyn.com/using-ords-to-make-your-adb-data-available-in-vbs",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-16T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "967d33e1489de57e",
-      "slug": "forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today-f03edc",
-      "title": "Forgotten, But Not Gone: How Model-Based Development Is Still Alive and Well Today",
-      "dek": "Computer Aided Software Engineering (CASE) tools, which helped make the analysis, design, and implementation phases of software development better, faster, and cheaper, fell out of favor in the mid-'90s. Yet much of what they have to offer remains and is in active use within different Oracle tools. ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/-forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-09T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "513c87bee83d2547",
-      "slug": "developing-redwood-applications-86e984",
-      "title": "Developing Redwood Applications",
-      "dek": "Redwood is a state-of-the-art graphical interface that defines the look and feel of the new Oracle Cloud Redwood Applications. In this episode, hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Joe Greenwald, take a closer look at the intent behind the design and deve",
-      "url": "https://oracleuniversitypodcast.libsyn.com/developing-redwood-applications",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-02T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "0bc5f5b9fa209155",
-      "slug": "preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio-23f876",
-      "title": "Preparing to Extend Oracle Fusion Apps Using Visual Builder Studio",
-      "dek": "What do you need to start customizing the next generation of Oracle Fusion Apps? How do you create new pages for business processes? What level of expertise do you require for this? Join Lois Houston and Nikita Abraham as they get answers to all these questions and more from Senior Principal OCI Ins",
-      "url": "https://oracleuniversitypodcast.libsyn.com/preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-03-26T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ced28242d290626e",
-      "slug": "introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-alone-and-jet-05c689",
-      "title": "Introduction to Visual Builder Studio, Visual Builder Cloud Service, Stand-Alone, and JET",
-      "dek": "The next generation of front-end user interfaces for Oracle Fusion Applications is being built using Visual Builder Studio and Oracle JavaScript Extension Toolkit. However, many of the terms associated with these tools can be confusing. In this episode, Lois Houston and Nikita Abraham are joined by ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-alone-and-jet",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-03-19T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "80b0e87aa5534b5f",
-      "slug": "oci-ai-services-fb5b69",
-      "title": "OCI AI Services",
-      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oci-ai-services",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S06_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-03-12T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI",
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "01b9d7957b344f1c",
-      "slug": "generative-ai-and-large-language-models-e87b5b",
-      "title": "Generative AI and Large Language Models",
-      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
-      "url": "https://oracleuniversitypodcast.libsyn.com/generative-ai-and-large-language-models",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S06_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-02-27T15:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "1855be8a41d81cd1",
-      "slug": "deep-learning-2a2b74",
-      "title": "Deep Learning",
-      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
-      "url": "https://oracleuniversitypodcast.libsyn.com/deep-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S06_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-02-20T15:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "f4cabfec646e09ac",
-      "slug": "everything-you-need-to-know-about-the-mysql-heatwave-implementation-associate-certificat-c8a4cf",
-      "title": "Everything You Need to Know About the MySQL HeatWave Implementation Associate Certification",
-      "dek": "What is MySQL HeatWave? How do I get certified in it? Where do I start? Listen to Lois Houston and Nikita Abraham, along with MySQL Developer Scott Stroz, answer all these questions and more on this week's episode of the Oracle University Podcast. MySQL Document Store: https://oracleuniversitypodcas",
-      "url": "https://oracleuniversitypodcast.libsyn.com/everything-you-need-to-know-about-the-mysql-heatwave-implementation-associate-certification",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S06_EPS1.mp3?dest-id=3870039",
-      "publishedAt": "2024-02-13T15:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "MySQL",
-        "Certification",
-        "Oracle University"
       ],
       "priority": 36
     }
