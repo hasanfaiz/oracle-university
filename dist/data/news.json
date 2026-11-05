@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T00:43:01.216Z",
+  "generatedAt": "2026-11-05T00:56:58.597Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -55,6 +55,282 @@
       "priority": 46
     },
     {
+      "id": "6a882f046e6e8916",
+      "slug": "contrasting-cycurion-nasdaq-cycu-and-globant-nyse-glob-b57466",
+      "title": "Contrasting Cycurion (NASDAQ:CYCU) and Globant (NYSE:GLOB)",
+      "dek": "Cycurion (NASDAQ:CYCU – Get Free Report) and Globant (NYSE:GLOB – Get Free Report) are both technology companies, but which is the better stock? We will contrast the two businesses based on the strength of their dividends, valuation, risk, earnings, profitability, institutional ownership and analyst",
+      "url": "https://www.thelincolnianonline.com/2026/11/04/contrasting-cycurion-nasdaqcycu-and-globant-nyseglob.html",
+      "source": "The Lincolnian Online",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/globant-sa-logo-1200x675.png?v=20240202075256",
+      "publishedAt": "2026-11-04T12:44:50.000Z",
+      "topic": "Security",
+      "tags": [
+        "stocks",
+        "comparison articles"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "424a8e35ec8e21b9",
+      "slug": "oracle-cancels-usd-7-billion-tencent-ai-chip-deal-after-us-pressure-565471",
+      "title": "Oracle Cancels USD 7 Billion Tencent AI Chip Deal After US Pressure",
+      "dek": "A reported US intervention prompts Oracle to abandon its proposed USD 7 billion AI chip deal with China's Tencent.",
+      "url": "https://www.analyticsinsight.net/news/oracle-cancels-usd-7-billion-tencent-ai-chip-deal-after-us-pressure",
+      "source": "Analytics And Insight",
+      "sourceType": "external",
+      "image": "https://media.assettype.com/analyticsinsight/2026-11-04/tx6d5p5i/Oracle-abandons-7-billion-Tencent-AI-deal-under-Trump-pressure-FT-reports.jpg",
+      "publishedAt": "2026-11-04T12:41:23.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "oracle",
+        "ai chip deal",
+        "us-china technology tensions",
+        "tencent",
+        "artificial intelligence"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "cd2bbae5267ce349",
+      "slug": "google-expands-employee-buyouts-to-five-more-countries-as-ai-spending-soars-report-27061c",
+      "title": "Google expands employee buyouts to five more countries as AI spending soars: report",
+      "dek": "Alphabet has expanded its voluntary employee buyout program to five more countries as the Google parent seeks to control operating costs while pouring billions of dollars into artificial intelligence infrastructure. The company confirmed to Reuters on Wednesday that it extended voluntary exit offers",
+      "url": "https://invezz.com/news/2026/11/04/google-expands-employee-buyouts-to-five-more-countries-as-ai-spending-soars-report/",
+      "source": "Invezz",
+      "sourceType": "external",
+      "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/06/image-1781696774.png",
+      "publishedAt": "2026-11-04T12:40:56.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "tech"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "70439bd8c1bd9654",
+      "slug": "breakfast-news-did-nvidia-just-favor-marvell-b4b85a",
+      "title": "Breakfast News: Did Nvidia Just Favor Marvell?",
+      "dek": "Nvidia’s likely role in the Marvell-Lumentum deal, AI stocks hit by midterms, and more…",
+      "url": "https://www.fool.com/investing/breakfast-news/2026/11/04/breakfast-news/",
+      "source": "Fool",
+      "sourceType": "external",
+      "image": "https://g.foolcdn.com/misc-assets/nvda-marvell-bn.png",
+      "publishedAt": "2026-11-04T12:30:02.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "investingbreakfast-news",
+        "a0a6586b-2dd2-4421-801a-71a2001ef00a",
+        "markets"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "fcb220353bc53066",
+      "slug": "capital-one-ventures-backs-sentra-with-150m-to-secure-data-from-ai-agents-642ede",
+      "title": "Capital One Ventures backs Sentra with $150M to secure data from AI agents",
+      "dek": "Asaf Kochan headed Israel’s cyber intel Unit 8200 until early 2021. Together with Yoav Regev, who had previously…",
+      "url": "https://techfundingnews.com/sentra-150m-capital-one-ventures-ai-data-security/",
+      "source": "Techfundingnews",
+      "sourceType": "external",
+      "image": "https://techfundingnews.com/wp-content/uploads/2026/11/Sentra-co-founders.png",
+      "publishedAt": "2026-11-04T12:30:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "cybersecurity",
+        "ai news",
+        "ai",
+        "cybersecurity news",
+        "startups news",
+        "popular now"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "f4e2771a02361949",
+      "slug": "larry-ellison-on-ai-killing-software-companies-ai-may-do-some-of-their-job-but-not-all-a-88b7b0",
+      "title": "Larry Ellison on AI killing software companies: AI may do some of their job, but not all as companies across sectors will still need software firms to build their …",
+      "dek": "Larry Ellison believes that artificial intelligence will significantly transform how software companies operate and develop. He mentions that businesses will continue to require commercial app developers as needs evolve over time. Existing enterprise applications often fail to fully meet required pr",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/larry-ellison-on-ai-killing-software-companies-ai-may-do-some-of-their-job-but-not-all-as-companies-across-sectors-will-still-need-software-firms-to-build-their-/articleshow/135538946.cms",
+      "source": "The Times Of India",
+      "sourceType": "external",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135538991/135538991.jpg",
+      "publishedAt": "2026-11-04T12:13:18.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "ai software development",
+        "business software ai",
+        "larry ellison ai software",
+        "enterprise applications",
+        "software as a service",
+        "oracle"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "b69497ef2765219e",
+      "slug": "it-02-jobs-pay-and-how-to-qualify-6d46b0",
+      "title": "IT-02 Jobs: Pay and How to Qualify",
+      "dek": "Originally published on the CVFit blog. I'm Momin, founder of CVFit in Ottawa. I build a tool that tailors a resume to a specific job using only work you have actually done. Federal IT hiring is where that rule matters most — posters are precise about what counts as proof. Full disclosure: this is m",
+      "url": "https://dev.to/momin_aziz_1/it-02-jobs-pay-and-how-to-qualify-8p8",
+      "source": "Dev Community",
+      "sourceType": "external",
+      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwob7puqx3ka3n4ktkye6.webp",
+      "publishedAt": "2026-11-04T11:52:58.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "government",
+        "career",
+        "resume",
+        "jobsearch"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "ce6b5a54779cd591",
+      "slug": "vertiv-holdings-co-vrt-holdings-raised-by-prescott-group-capital-management-l-l-c-6d873c",
+      "title": "Vertiv Holdings Co. $VRT Holdings Raised by Prescott Group Capital Management L.L.C.",
+      "dek": "Prescott Group Capital Management L.L.C. lifted its stake in Vertiv Holdings Co. (NYSE:VRT – Free Report) by 716.8% during the 3rd quarter, according to its most recent disclosure with the SEC. The institutional investor owned 6,837 shares of the company’s stock after buying an additional 6,000 shar",
+      "url": "https://www.dailypolitical.com/2026/11/04/vertiv-holdings-co-vrt-holdings-raised-by-prescott-group-capital-management-l-l-c.html",
+      "source": "Daily Political",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/vertiv-holdings-co-logo-1200x675.jpg?v=20231228112537",
+      "publishedAt": "2026-11-04T11:52:57.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "finance",
+        "sec filing articles"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "af56e2db017d02e8",
+      "slug": "critical-survey-rimini-street-nasdaq-rmni-and-whitefiber-nasdaq-wyfi-994be3",
+      "title": "Critical Survey: Rimini Street (NASDAQ:RMNI) and WhiteFiber (NASDAQ:WYFI)",
+      "dek": "Rimini Street (NASDAQ:RMNI – Get Free Report) and WhiteFiber (NASDAQ:WYFI – Get Free Report) are both small-cap technology companies, but which is the better stock? We will compare the two companies based on the strength of their risk, institutional ownership, profitability, earnings, valuation, ana",
+      "url": "https://www.watchlistnews.com/critical-survey-rimini-street-nasdaqrmni-and-whitefiber-nasdaqwyfi/11292432.html",
+      "source": "Watch List News",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/whitefiber-inc-logo-1200x675.png?v=20250902131200",
+      "publishedAt": "2026-11-04T11:44:57.000Z",
+      "topic": "Security",
+      "tags": [
+        "comparison articles",
+        "investing"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "6a4a5142dca8ec22",
+      "slug": "oracle-corporation-orcl-stock-rakuten-investment-management-inc-raises-position-067c88",
+      "title": "Oracle Corporation $ORCL Stock: Rakuten Investment Management Inc. Raises Position",
+      "dek": "Rakuten Investment Management Inc. boosted its holdings in shares of Oracle Corporation (NYSE:ORCL - Free Report) by 11.1% during the 3rd quarter, according to its most recent disclosure with the Securities and Exchange Commission. The firm owned 310,207 shares of the enterprise software provider's",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-oracle-corporation-orcl-stock-rakuten-investment-management-inc-raises-position-2026-11-04/",
+      "source": "marketbeat",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-11-04T11:33:07.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "nyse:orcl",
+        "instant alerts",
+        "sec filing",
+        "oracle"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "0d12749d24482184",
+      "slug": "ipg-investment-advisors-llc-buys-4-633-shares-of-oracle-corporation-orcl-7cf572",
+      "title": "IPG Investment Advisors LLC Buys 4,633 Shares of Oracle Corporation $ORCL",
+      "dek": "IPG Investment Advisors LLC raised its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 68.5% in the third quarter, HoldingsChannel reports. The institutional investor owned 11,400 shares of the enterprise software provider’s stock after buying an additional 4,633 shares during the quarter. ",
+      "url": "https://www.themarketsdaily.com/2026/11/04/ipg-investment-advisors-llc-buys-4633-shares-of-oracle-corporation-orcl.html",
+      "source": "Markets Daily",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-11-04T10:43:13.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "sec filing articles",
+        "stocks"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "eae4ca6c928237f2",
+      "slug": "is-it-the-lobby-money-the-bible-or-strategy-decoding-israel-s-clout-in-washington-and-le-2d4a2e",
+      "title": "Is It the Lobby, Money, the Bible or Strategy? Decoding Israel’s clout in Washington and lessons for India",
+      "dek": "Infographics now in circulation claim that over 300 Jewish billionaires hold combined wealth exceeding $2 trillion, and that about 85 of the Forbes global top 500 are Jewish or Israeli: 49 American, 12 Israeli and 24 from elsewhere.",
+      "url": "https://www.wionews.com/opinions/decoding-israel-s-us-clout-key-lessons-for-india-s-foreign-strategy-1793786669215",
+      "source": "Wion",
+      "sourceType": "external",
+      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20261104/image-1793787381110.jpg?rect=(0,80,1040,779)",
+      "publishedAt": "2026-11-04T10:29:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "israel news",
+        "israel clout",
+        "trump netanyahu",
+        "netanyahu and trump",
+        "israel clout in us"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "16b6d798bf713837",
+      "slug": "open-database-connectivity-market-to-reach-usd-8-11-billion-by-2033-at-19-1-cagr-as-mult-bfeed7",
+      "title": "Open Database Connectivity Market to Reach USD 8.11 Billion by 2033 at 19.1% CAGR as Multi-Tier Drivers Become Critical Infrastructure for Enterprise Data Interoperability",
+      "dek": "The Open Database Connectivity (ODBC) Market is increasingly shaped by the need to connect enterprise applications with distributed databases, cloud platforms and heterogeneous data environments. Organizations operating across multiple database management systems require consistent connectivity with",
+      "url": "https://www.openpr.com/news/4681656/open-database-connectivity-market-to-reach-usd-8-11-billion",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/b/Lb04707468_k.jpg",
+      "publishedAt": "2026-11-04T09:36:08.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "it",
+        "new media & software"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "6c426d4b6f70ba6e",
+      "slug": "deloitte-forms-us-oracle-business-group-to-power-end-to-end-enterprise-transformation-57542d",
+      "title": "Deloitte Forms US Oracle Business Group to Power End-to-End Enterprise Transformation",
+      "dek": "Deloitte announced an expansion of its alliance with Oracle with the formation of the Deloitte Oracle business group, bringing together Deloitte’s Oracle-focused capabilities across AI, applications, cloud infrastructure, data, cyber and managed services. The new group is designed to help clients mo",
+      "url": "https://aithority.com/machine-learning/deloitte-forms-us-oracle-business-group-to-power-end-to-end-enterprise-transformation/",
+      "source": "Aithority",
+      "sourceType": "external",
+      "image": "https://aithority.com/wp-content/uploads/2026/11/7xm.xyz577206.jpg",
+      "publishedAt": "2026-11-04T08:36:07.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "ai agents",
+        "oracle cloud infrastructure (oci)",
+        "enterprise ai transformation",
+        "data platform",
+        "oracle business group",
+        "jason salzetti"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "a51c6c1993a7b1df",
+      "slug": "texas-goes-blue-what-gina-hinojosa-s-win-means-for-ai-data-centers-and-stocks-like-msft--37535c",
+      "title": "Texas Goes Blue: What Gina Hinojosa's Win Means For AI Data Centers And Stocks Like MSFT, AMZN, GOOGL, CRWV",
+      "dek": "Investors and analysts worry that a Democrat-led Congress could slow the buildout of new data centers, a key part of the AI boom.",
+      "url": "https://newsable.asianetnews.com/markets/texas-goes-blue-what-gina-hinojosa-s-win-means-for-ai-data-centers-and-stocks-like-msft-amzn-googl-crwv-articleshow-5oii2sm",
+      "source": "Asianet Newsable",
+      "sourceType": "external",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-188e5e34-2b9b-48d2-878c-4429a7b93988.jpg",
+      "publishedAt": "2026-11-04T07:30:06.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "markets"
+      ],
+      "priority": 39
+    },
+    {
       "id": "b2e8b669eb660fe0",
       "slug": "oracle-announces-pricing-of-20-billion-of-common-stock-and-senior-notes-638c02",
       "title": "Oracle Announces Pricing of $20 Billion of Common Stock and Senior Notes",
@@ -66,328 +342,100 @@
       "publishedAt": "2026-11-02T05:00:00.000Z",
       "topic": "Business & Earnings",
       "tags": [],
-      "priority": 44
+      "priority": 39
     },
     {
-      "id": "6ab5d8c6f43d9c69",
-      "slug": "devart-updates-its-entire-delphi-line-for-rad-studio-13-florence-release-2-sql-server-20-a9be7e",
-      "title": "Devart Updates Its Entire Delphi Line for RAD Studio 13 Florence Release 2, SQL Server 2025 and MySQL 9.7",
-      "dek": "Devart adds client-side column encryption for SQL Server, support for the latest IDE releases, and compatibility with new database server versions.",
-      "url": "https://www.einpresswire.com/article/954109362/devart-updates-its-entire-delphi-line-for-rad-studio-13-florence-release-2-sql-server-2025-and-mysql-9-7",
-      "source": "Ein Presswire",
+      "id": "a77f2a55f1909ede",
+      "slug": "interview-compound-cto-leo-eikelman-on-compound-v4-ai-security-collateral-isolation-and--b4fe09",
+      "title": "[Interview] Compound CTO Leo Eikelman on Compound V4: AI Security, Collateral Isolation, and Loss Control",
+      "dek": "As Decentralized Finance (DeFi) scales into institutional lending and Real-World Asset (RWA) tokenization, smart contract security alone is no longer enough. Institutional adoption now hinges on multi-layered operational risk management—from tri-party collateral custody to human-in-the-loop governan",
+      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158819",
+      "source": "Korea It Times",
       "sourceType": "external",
-      "image": "https://img.einnews.com/ampsize/1240728/dac-2026-2.jpeg",
-      "publishedAt": "2026-11-03T12:32:51.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "delaware",
-        "manufacturing",
-        "worldnews",
-        "germany",
-        "technology",
-        "it industry"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "4c0c5722c605e8d5",
-      "slug": "oracle-raises-20b-through-stock-and-bond-sales-to-fund-ai-expansion-596ab7",
-      "title": "Oracle Raises $20B Through Stock and Bond Sales to Fund AI Expansion",
-      "dek": "The raise comes as the company prepares for several years of heavy investment in data centers and AI infrastructure.",
-      "url": "https://mitsloanindia.com/article/oracle-raises-20b-through-stock-and-bond-sales-to-fund-ai-expansion",
-      "source": "Mit Sloan Management Review India",
-      "sourceType": "external",
-      "image": "https://mitsloanindia.com/wp-content/uploads/2026/04/Funding-8.jpg",
-      "publishedAt": "2026-11-03T12:15:33.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "ai infrastructure",
-        "ai",
-        "oracle raises $20b through stock",
-        "oracle"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "00800ada47df1919",
-      "slug": "startup-news-and-updates-daily-roundup-november-3-2026-9c3d2d",
-      "title": "Startup news and updates: Daily roundup (November 3, 2026)",
-      "dek": "YourStory presents the daily news roundup from the Indian startup ecosystem and beyond. Here's the roundup for Monday, November 02, 2026.",
-      "url": "https://yourstory.com/2026/11/startup-news-updates-daily-roundup-november-3-2026",
-      "source": "Yourstory",
-      "sourceType": "external",
-      "image": "https://images.yourstory.com/cs/2/11718bd02d6d11e9aa979329348d4c3e/DailyRoundupImages1600x900-1774005165949.jpg",
-      "publishedAt": "2026-11-03T11:41:51.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 42
-    },
-    {
-      "id": "cda58982915e807a",
-      "slug": "red-hat-patches-9-8-rated-linux-tcp-rce-flaw-while-ubuntu-releases-fixes-for-testing-cd9a7e",
-      "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-      "dek": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channel with no date for a regular update. The flaw, tra",
-      "url": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-      "source": "The Hacker News",
-      "sourceType": "external",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdf8UfDHsjH9VaJGtYT5WgjtJ1G5YRMkjPWNeKn-hw05sM9ny0kW9L2eIc3UCiIQ7qmc_TmfrenS1WH8KiRBjln2hQS0X7DUlykxdHrzDgg4uoiHpiOf3fVTOnUuOt4618z3PN7hw1AfUch_y0Tot3ubTga5LEfyWnATkzegfQBSWxMbzNzJaGY18QqC8/s1600/linux-rce.jpg",
-      "publishedAt": "2026-11-03T11:23:53.000Z",
+      "image": "https://www.koreaittimes.com/news/photo/202611/158819_108425_1354.png",
+      "publishedAt": "2026-11-04T05:52:13.000Z",
       "topic": "Security",
       "tags": [
-        "CVE"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "4026c1004f998694",
-      "slug": "uipath-appoints-yashdeep-vaishnav-as-managing-director-and-country-manager-for-india-to--389a80",
-      "title": "UiPath Appoints Yashdeep Vaishnav as Managing Director and Country Manager for India to Accelerate Growth in Business Orchestration",
-      "dek": "UiPath, Inc. today announced the appointment of Yashdeep Vaishnav as Managing Director and Country Manager for India. In this role, he will be responsible for driving the adoption of UiPath business orchestration and automation solutions in India and expanding the company’s customer and partner ecos",
-      "url": "https://cxotoday.com/media-coverage/uipath-appoints-yashdeep-vaishnav-as-managing-director-and-country-manager-for-india-to-accelerate-growth-in-business-orchestration/",
-      "source": "Cxotoday",
-      "sourceType": "external",
-      "image": "https://cxotoday.com/wp-content/uploads/2025/04/UiPath-300x152.png",
-      "publishedAt": "2026-11-03T11:13:42.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "media coverage",
-        "uipath"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "0cbb3388a321d198",
-      "slug": "promising-blockchain-stocks-to-keep-an-eye-on-november-2nd-6d0594",
-      "title": "Promising Blockchain Stocks To Keep An Eye On – November 2nd",
-      "dek": "Core Scientific, Figure Technology Solutions, Bitdeer Technologies Group, Globant, and Mercurity Fintech are the five Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, use, or support blockchain te",
-      "url": "https://baseballnewssource.com/2026/11/03/promising-blockchain-stocks-to-keep-an-eye-on-november-2nd/11331455.html",
-      "source": "Bbns",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
-      "publishedAt": "2026-11-03T11:13:06.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "partner feed articles",
-        "markets"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "0298802a0ad1ba3f",
-      "slug": "big-four-hyperscalers-raising-more-that-131-billion-in-debt-and-equity-for-ai-buildout-4af134",
-      "title": "Big four hyperscalers raising more that $131 billion in debt and equity for AI buildout",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.datacenterdynamics.com/en/news/big-four-hyperscalers-raising-more-that-131-billion-in-debt-and-equity-for-ai-buildout/",
-      "source": "datacenterdynamics",
-      "sourceType": "external",
-      "image": "https://media.datacenterdynamics.com/media/images/Adam-Gault.2e16d0ba.fill-750x500.jpg",
-      "publishedAt": "2026-11-03T11:11:46.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "amazon web services",
-        "amazon",
-        "google",
-        "microsoft",
-        "aws",
-        "oracle"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "2e2ba5526f5fdb5d",
-      "slug": "ehr-apis-compared-epic-oracle-health-athena-and-ecw-6f40b9",
-      "title": "EHR APIs Compared: Epic, Oracle Health, athena and eCW",
-      "dek": "All four pass the same certification floor. Where they differ (write-back, backend access and the path to a live customer) decides your roadmap. If your product has to work with more than one EHR, every health system you sell to asks the same question: \"Does it work with our EHR?\" In the US in 2026,",
-      "url": "https://dev.to/nirmitee/ehr-apis-compared-epic-oracle-health-athena-and-ecw-dbf",
-      "source": "Dev Community",
-      "sourceType": "external",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fmiro.medium.com%2Fv2%2Fresize%3Afit%3A1400%2F1%2AWZfWqjypZTh_RHRtdL0-UA.png",
-      "publishedAt": "2026-11-03T10:57:08.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "healthcare",
-        "interoperability",
-        "fhir",
-        "api"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "537e4a8a78cfd07a",
-      "slug": "windmill-capital-investor-letter-october-2026-edition-adb49f",
-      "title": "Windmill Capital Investor Letter – October 2026 Edition",
-      "dek": "Key updates on Indian markets for October 2026: RBI rate hikes, Jio Platforms' record IPO and defence sector valuation trends. Read the whole story in Windmill Capital's Tailwind. The post Windmill Capital Investor Letter – October 2026 Edition appeared first on smallcase.",
-      "url": "https://www.smallcase.com/blog/windmill-capital-investor-letter-october-2026-edition/",
-      "source": "Small Case",
-      "sourceType": "external",
-      "image": "https://www.smallcase.com/wp-content/uploads/2025/05/WPCL-header-2.png?wsr",
-      "publishedAt": "2026-11-03T10:56:43.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "the tailwind by windmill capital"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "ae4394c90e60e936",
-      "slug": "visual-paradigm-alternative-database-design-software-without-the-modeling-suite-a0b5ff",
-      "title": "Visual Paradigm Alternative: Database Design Software Without the Modeling Suite",
-      "dek": "Disclosure: I build Schemity, a desktop ERD tool - this post is from our blog and uses it for the examples. TL;DR: Visual Paradigm draws ERDs in every edition, but its edition matrix keeps reverse engineering from a database, the database generation wizard and database patching for Standard (US$349 ",
-      "url": "https://dev.to/tbson87/visual-paradigm-alternative-database-design-software-without-the-modeling-suite-2bo5",
-      "source": "Dev Community",
-      "sourceType": "external",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F9hcc1yl7ro9cmblb5fys.png",
-      "publishedAt": "2026-11-03T10:54:21.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "sql",
-        "programming",
-        "database",
-        "tooling"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "867aa09561b9f555",
-      "slug": "oracle-burns-entire-four-year-capital-promise-in-one-week-shares-shed-60b-c0b233",
-      "title": "Oracle Burns Entire Four-Year Capital Promise in One Week, Shares Shed $60B",
-      "dek": "Oracle stock AI infrastructure debt: Oracle filed to raise $20 billion via stock and bonds November 2, 2026 -- five days after pledging at Investor Day that this was its entire additional capital budget through fiscal 2030 -- erasing more than $60 billion in market value. The near-junk BBB- credit r",
-      "url": "https://www.techtimes.com/articles/329927/20261103/oracle-burns-entire-four-year-capital-promise-one-week-shares-shed-60b.htm",
-      "source": "Techtimes",
-      "sourceType": "external",
-      "image": "https://d.techtimes.com/en/full/477619/oracle.jpg",
-      "publishedAt": "2026-11-03T10:53:05.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "business"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "a19c98f5baef8115",
-      "slug": "us-voters-go-to-the-polls-as-us-strikes-qeshm-hours-after-brent-s-7-6-drop-on-peace-hope-d2a7fb",
-      "title": "US voters go to the polls as US strikes Qeshm hours after Brent’s 7.6% drop on peace hopes",
-      "dek": "EU mid-market update: US voters go to the polls as US strikes Qeshm hours after Brent’s 7.6% drop on peace hopes; Oracle raises its full $20B in five days, selling stock at an 11% discount; PBOC lifts the FX reserve requirement to slow the yuan.",
-      "url": "https://www.fxstreet.com/analysis/us-voters-go-to-the-polls-as-us-strikes-qeshm-hours-after-brents-76-drop-on-peace-hopes-202611031051",
-      "source": "Fxstreet",
-      "sourceType": "external",
-      "image": "https://editorial.fxsstatic.com/images/i/Oil-18326.png",
-      "publishedAt": "2026-11-03T10:51:34.000Z",
-      "topic": "Business & Earnings",
-      "tags": [],
-      "priority": 42
-    },
-    {
-      "id": "c9e8329e0d660dd5",
-      "slug": "analytics-as-a-service-market-to-reach-us-137-55-billion-by-2034-at-23-3-cagr-driven-by--c1c9a6",
-      "title": "Analytics as a Service Market to Reach US$ 137.55 Billion by 2034 at 23.3% CAGR, Driven by Rising Adoption of Cloud-Based Analytics and Data-Driven Business Strategies| Exclusive Report by The Insight Partners",
-      "dek": "India Morning Times is an online news publication focusing on the India: Your daily news update on India",
-      "url": "https://indiamorningtimes.com/article/954159643-analytics-as-a-service-market-to-reach-us-137-55-billion-by-2034-at-23-3-cagr-driven-by-rising-adoption-of-cloud-based-analytics-and-data-driven",
-      "source": "Indiamorningtimes",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-11-03T10:45:37.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 42
-    },
-    {
-      "id": "00a1110928e9e90f",
-      "slug": "us-stock-futures-trade-mixed-premarket-as-aapl-margin-concerns-weigh-on-tech-pltr-amd-ae-8fd133",
-      "title": "US Stock Futures Trade Mixed Premarket As AAPL Margin Concerns Weigh On Tech — PLTR, AMD, AEHR In Focus",
-      "dek": "Oil prices gained on reports of a U.S. strike on Iran, while traders looked ahead to a busy earnings calendar, both before and after the bell.",
-      "url": "https://newsable.asianetnews.com/markets/us-stock-futures-trade-mixed-premarket-as-aapl-margin-concerns-weigh-on-tech-pltr-amd-aehr-in-focus-articleshow-9nvbww8",
-      "source": "Asianet Newsable",
-      "sourceType": "external",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-688ec906-8d9c-4598-a873-96595f6c75f7.webp",
-      "publishedAt": "2026-11-03T10:30:06.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "markets"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "c007466d8844e54a",
-      "slug": "uipath-strengthens-india-leadership-with-yashdeep-vaishnav-7fde42",
-      "title": "UiPath Strengthens India Leadership With Yashdeep Vaishnav",
-      "dek": "UiPath, Inc. a leader in business orchestration and automation, announced the appointment of Yashdeep Vaishnav as Managing Director and Country Manager for India. In this role, he will be responsible for driving the adoption of UiPath business orchestration and automation solutions in India and expa",
-      "url": "https://smestreet.in/infocus/uipath-strengthens-india-leadership-with-yashdeep-vaishnav-12779405",
-      "source": "Smestreet In",
-      "sourceType": "external",
-      "image": "https://img-cdn.publive.online/fit-in/1280x960/smstreet/media/media_files/2026/11/03/uipath-2026-11-03-15-40-54.png",
-      "publishedAt": "2026-11-03T10:23:37.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "infocus",
-        "corporate"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "c32f5a7f04257d7d",
-      "slug": "oracle-plans-to-raise-20-billion-through-bonds-and-stock-sales-df9081",
-      "title": "Oracle plans to raise $20 billion through bonds and stock sales",
-      "dek": "The company said last week that it expects capital spending to peak this fiscal year and the next as it builds more cloud-computing capacity, but pledged to raise no more than $20 billion in additional financing for AI through fiscal 2030.",
-      "url": "https://economictimes.indiatimes.com/tech/startups/oracle-plans-to-raise-20-billion-through-bonds-and-stock-sales/articleshow/135490162.cms",
-      "source": "The Economic Times",
-      "sourceType": "external",
-      "image": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-34108,resizemode-75,msid-135490162/tech/startups/oracle-plans-to-raise-20-billion-through-bonds-and-stock-sales.jpg",
-      "publishedAt": "2026-11-03T09:02:12.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
+        "Security",
         "AI"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "38f5d76478f9a448",
-      "slug": "it-security-news-roundup-2026-11-03-overnight-59f9ef",
-      "title": "IT Security News Roundup: 2026-11-03 Overnight",
-      "dek": "IT Security News: Overnight roundup, 2026-11-03 Summary This early morning window is dominated by the escalating risks associated with artificial intelligence, from NCSC warnings about AI-powered infrastructure attacks to a critical security lapse involving a personal AI agent at the… Read more → Th",
-      "url": "https://www.itsecuritynews.info/it-security-news-roundup-2026-11-03-overnight/",
-      "source": "It Security News",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-11-03T05:05:49.000Z",
-      "topic": "Security",
-      "tags": [
-        "daily roundup",
-        "ai synthesis",
-        "2026-11-03"
       ],
       "priority": 38
     },
     {
-      "id": "fc932f5bd5913874",
-      "slug": "it-security-news-hourly-summary-2026-11-03-05h-4-posts-09cd06",
-      "title": "IT Security News Hourly Summary 2026-11-03 05h : 4 posts",
-      "dek": "4 posts published in the last hour 03:31The Oracle of Delphi Will Steal Your Credentials 03:31Google Dismantles 1.3 Million Device XCPE Botnet, Bans Android TV Maker Over Preinstalled Malware 03:02PLEASE_READ_ME: The Opportunistic Ransomware Devastating MySQL Servers 03:00IT Security News Hourly… Re",
-      "url": "https://www.itsecuritynews.info/it-security-news-hourly-summary-2026-11-03-05h-4-posts/",
-      "source": "It Security News",
+      "id": "97236e132d73f622",
+      "slug": "amd-s-networking-chief-never-bet-against-ethernet-3b41da",
+      "title": "AMD’s networking chief: Never bet against Ethernet",
+      "dek": "Four decades in networking taught Soni Jiandani to back Ethernet, not on any single company owning the stack",
+      "url": "https://www.sdxcentral.com/analysis/amds-networking-chief-never-bet-against-ethernet/",
+      "source": "Sdxcentral",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-11-03T04:00:05.000Z",
-      "topic": "Security",
+      "image": "https://media.datacenterdynamics.com/media/images/IMG_0636.7879565e.fill-750x500.jpg",
+      "publishedAt": "2026-11-04T04:00:41.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "2026-11-03",
-        "hourly summary"
+        "networking protocol",
+        "dpus",
+        "optical connectivity",
+        "programmability",
+        "chips",
+        "dpu"
       ],
       "priority": 37
     },
     {
-      "id": "123e3018ad502b88",
-      "slug": "oracle-s-ai-revenue-soars-but-cash-runs-short-as-it-seeks-20-billion-66e812",
-      "title": "Oracle's AI Revenue Soars, but Cash Runs Short as It Seeks $20 Billion",
-      "dek": "Oracle is seeking to raise $20 billion in fresh capital to support its expanding artificial intelligence infrastructure business. Demand for AI computing capacity is growing rapidly, but the cash required to build data centers and purchase equipment is outpacing the company's internally generated fu",
-      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158766",
-      "source": "Korea It Times",
+      "id": "e3f5bb29f1f02b2c",
+      "slug": "top-10-cloud-service-providers-in-india-in-2026-e59b1d",
+      "title": "Top 10 Cloud Service Providers in India in 2026",
+      "dek": "Explore the top cloud service providers in India in 2026. Compare AWS pricing, Microsoft Azure pricing, and Google Cloud pricing against their services.",
+      "url": "https://www.analyticsinsight.net/cloud-services/top-10-cloud-service-providers-in-india-in-2026",
+      "source": "Analytics And Insight",
       "sourceType": "external",
-      "image": "https://www.koreaittimes.com/news/photo/202611/158766_108363_1342.jpg",
-      "publishedAt": "2026-11-03T02:21:44.000Z",
+      "image": "https://media.assettype.com/analyticsinsight/2026-11-03/avds4tke/Top-10-Cloud-Service-Providers-in-India-in-2026.jpg",
+      "publishedAt": "2026-11-04T03:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "cloud service providers",
+        "aws pricing",
+        "microsoft azure pricing",
+        "google cloud pricing",
+        "best cloud service providers"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "79ab7d7f548b9e10",
+      "slug": "amd-q3-2026-revenue-surges-45-to-13-4-billion-as-ai-data-center-sales-jump-97-to-8-5-bil-35b109",
+      "title": "AMD Q3 2026 Revenue Surges 45% to $13.4 Billion as AI Data Center Sales Jump 97% to $8.5 Billion",
+      "dek": "AMD reported record revenue of $13.38 billion in the third quarter of 2026, representing 45 percent annual growth, as demand for AI accelerators, EPYC server processors and cloud infrastructure strengthened. The semiconductor company expanded its customer ecosystem with Anthropic, Meta, Microsoft, O",
+      "url": "https://infotechlead.com/networking/amd-q3-2026-revenue-surges-45-to-13-4-billion-as-ai-data-center-sales-jump-97-to-8-5-billion-99413",
+      "source": "Infotech Lead",
+      "sourceType": "external",
+      "image": "https://infotechlead.com/wp-content/uploads/2026/11/AMD-Q3-2026-result.jpg",
+      "publishedAt": "2026-11-04T02:13:22.000Z",
       "topic": "Oracle Cloud",
       "tags": [
         "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "a1de2046a47b705e",
+      "slug": "pershing-square-holdings-q3-2026-letter-to-shareholders-9a13e5",
+      "title": "Pershing Square Holdings Q3 2026 Letter To Shareholders",
+      "dek": "PSH reports Q3 2026 performance, highlighting portfolio resilience amidst AI-driven market volatility. Read our full analysis and investment update here.",
+      "url": "https://seekingalpha.com/article/4961892-pershing-square-holdings-q3-2026-letter-to-shareholders",
+      "source": "Seeking Alpha",
+      "sourceType": "external",
+      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2188218644/image_2188218644.jpg?io=getty-c-w1280",
+      "publishedAt": "2026-11-04T01:30:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "ps",
+        "pshzf",
+        "pershing square holdings",
+        "fund letters",
+        "psus",
+        "articles about william ackman"
       ],
       "priority": 36
     },
@@ -1965,23 +2013,6 @@
       "publishedAt": "2024-07-23T14:00:00.000Z",
       "topic": "AI & Database",
       "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "f046bd97147c0cf8",
-      "slug": "container-engine-for-kubernetes-security-practices-26ab8f",
-      "title": "Container Engine for Kubernetes: Security Practices",
-      "dek": "In the season's final episode, hosts Lois Houston and Nikita Abraham interview senior OCI instructor Mahendra Mehra about the security practices that are vital for OKE clusters on OCI. Mahendra shares his expert insights on the importance of Kubernetes security, especially in today's digital landsca",
-      "url": "https://oracleuniversitypodcast.libsyn.com/container-engine-for-kubernetes-security-practices",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP7.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-16T14:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "OCI",
-        "Security"
-      ],
       "priority": 36
     }
   ]
