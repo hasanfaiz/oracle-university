@@ -1,11 +1,28 @@
 {
-  "generatedAt": "2026-11-05T00:56:58.597Z",
+  "generatedAt": "2026-11-06T00:59:14.064Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
     "siteUrl": "https://oracle-university.com"
   },
   "items": [
+    {
+      "id": "f259923571e9c621",
+      "slug": "valhalla-ai-better-modules-string-templates-ata-2a0535",
+      "title": "\"Valhalla? AI? Better Modules? String Templates?\" [AtA]",
+      "dek": "This episode of the Inside Java Podcast is the Ask the Architect session from Devoxx Belgium 2026, where the audience members literally asked the Java architects their questions. They inquired about custom virtual thread schedulers, AI's impact on the development of Java itself, Valhalla features, s",
+      "url": "https://inside.java/2026/11/04/podcast-074/",
+      "source": "Inside Java",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/insidejava/ijp-74.mp3?dest-id=2318780",
+      "publishedAt": "2026-11-05T09:00:00.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "Java",
+        "AI"
+      ],
+      "priority": 52
+    },
     {
       "id": "a6ea65aeb044c987",
       "slug": "oracle-sets-the-date-for-its-first-quarter-fiscal-year-2027-earnings-announcement-a540e9",
@@ -55,280 +72,357 @@
       "priority": 46
     },
     {
-      "id": "6a882f046e6e8916",
-      "slug": "contrasting-cycurion-nasdaq-cycu-and-globant-nyse-glob-b57466",
-      "title": "Contrasting Cycurion (NASDAQ:CYCU) and Globant (NYSE:GLOB)",
-      "dek": "Cycurion (NASDAQ:CYCU – Get Free Report) and Globant (NYSE:GLOB – Get Free Report) are both technology companies, but which is the better stock? We will contrast the two businesses based on the strength of their dividends, valuation, risk, earnings, profitability, institutional ownership and analyst",
-      "url": "https://www.thelincolnianonline.com/2026/11/04/contrasting-cycurion-nasdaqcycu-and-globant-nyseglob.html",
-      "source": "The Lincolnian Online",
+      "id": "d6bea585e0c71980",
+      "slug": "google-expands-voluntary-buyout-offers-to-five-countries-amid-rising-ai-costs-list-of-co-134938",
+      "title": "Google expands voluntary buyout offers to five countries amid rising AI costs: List of companies laying off in 2026",
+      "dek": "The move is part of the tech giant's efforts to streamline operations and manage expenses as it increases spending on AI infrastructure and development. The development comes amid a wider wave of workforce reductions across the global technology sector, with several major companies announcing layoff",
+      "url": "https://www.ibtimes.co.in/google-expands-voluntary-buyout-offers-five-countries-amid-rising-ai-costs-list-companies-laying-908134",
+      "source": "International Business Times",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/globant-sa-logo-1200x675.png?v=20240202075256",
-      "publishedAt": "2026-11-04T12:44:50.000Z",
-      "topic": "Security",
-      "tags": [
-        "stocks",
-        "comparison articles"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "424a8e35ec8e21b9",
-      "slug": "oracle-cancels-usd-7-billion-tencent-ai-chip-deal-after-us-pressure-565471",
-      "title": "Oracle Cancels USD 7 Billion Tencent AI Chip Deal After US Pressure",
-      "dek": "A reported US intervention prompts Oracle to abandon its proposed USD 7 billion AI chip deal with China's Tencent.",
-      "url": "https://www.analyticsinsight.net/news/oracle-cancels-usd-7-billion-tencent-ai-chip-deal-after-us-pressure",
-      "source": "Analytics And Insight",
-      "sourceType": "external",
-      "image": "https://media.assettype.com/analyticsinsight/2026-11-04/tx6d5p5i/Oracle-abandons-7-billion-Tencent-AI-deal-under-Trump-pressure-FT-reports.jpg",
-      "publishedAt": "2026-11-04T12:41:23.000Z",
+      "image": "https://data1.ibtimes.co.in/en/full/840817/google-expands-voluntary-buyout-offers-five-countries-amid-rising-ai-costs-check-list-companies.png",
+      "publishedAt": "2026-11-05T12:55:54.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "oracle",
-        "ai chip deal",
-        "us-china technology tensions",
-        "tencent",
-        "artificial intelligence"
+        "germany",
+        "canada",
+        "france",
+        "workforce reduction",
+        "ai costs",
+        "global tech layoffs"
       ],
       "priority": 43
     },
     {
-      "id": "cd2bbae5267ce349",
-      "slug": "google-expands-employee-buyouts-to-five-more-countries-as-ai-spending-soars-report-27061c",
-      "title": "Google expands employee buyouts to five more countries as AI spending soars: report",
-      "dek": "Alphabet has expanded its voluntary employee buyout program to five more countries as the Google parent seeks to control operating costs while pouring billions of dollars into artificial intelligence infrastructure. The company confirmed to Reuters on Wednesday that it extended voluntary exit offers",
-      "url": "https://invezz.com/news/2026/11/04/google-expands-employee-buyouts-to-five-more-countries-as-ai-spending-soars-report/",
-      "source": "Invezz",
+      "id": "f06a691a69effc19",
+      "slug": "what-advanced-micro-devices-amd-said-on-its-q3-earnings-call-8a27ad",
+      "title": "What Advanced Micro Devices (AMD) Said on Its Q3 Earnings Call",
+      "dek": "Advanced Micro Devices (NASDAQ:AMD) reported record third-quarter 2026 revenue and profitability as demand for its data center processors and artificial intelligence accelerators accelerated, while the company projected a sharp increase in fourth-quarter sales and said it expects revenue growth of m",
+      "url": "https://baseballnewssource.com/2026/11/05/what-advanced-micro-devices-amd-said-on-its-q3-earnings-call/11334806.html",
+      "source": "Bbns",
       "sourceType": "external",
-      "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/06/image-1781696774.png",
-      "publishedAt": "2026-11-04T12:40:56.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://www.marketbeat.com/logos/advanced-micro-devices-inc-logo-1200x675.png?v=20261007111303",
+      "publishedAt": "2026-11-05T12:19:07.000Z",
+      "topic": "Oracle Cloud",
       "tags": [
-        "tech"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "70439bd8c1bd9654",
-      "slug": "breakfast-news-did-nvidia-just-favor-marvell-b4b85a",
-      "title": "Breakfast News: Did Nvidia Just Favor Marvell?",
-      "dek": "Nvidia’s likely role in the Marvell-Lumentum deal, AI stocks hit by midterms, and more…",
-      "url": "https://www.fool.com/investing/breakfast-news/2026/11/04/breakfast-news/",
-      "source": "Fool",
-      "sourceType": "external",
-      "image": "https://g.foolcdn.com/misc-assets/nvda-marvell-bn.png",
-      "publishedAt": "2026-11-04T12:30:02.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "investingbreakfast-news",
-        "a0a6586b-2dd2-4421-801a-71a2001ef00a",
+        "partner feed articles",
         "markets"
       ],
       "priority": 43
     },
     {
-      "id": "fcb220353bc53066",
-      "slug": "capital-one-ventures-backs-sentra-with-150m-to-secure-data-from-ai-agents-642ede",
-      "title": "Capital One Ventures backs Sentra with $150M to secure data from AI agents",
-      "dek": "Asaf Kochan headed Israel’s cyber intel Unit 8200 until early 2021. Together with Yoav Regev, who had previously…",
-      "url": "https://techfundingnews.com/sentra-150m-capital-one-ventures-ai-data-security/",
-      "source": "Techfundingnews",
+      "id": "14a823340d1a462c",
+      "slug": "microsoft-is-executing-an-irreproducible-balance-sheet-backed-infrastructure-pre-sale-at-d0291d",
+      "title": "Microsoft Is Executing an Irreproducible Balance-Sheet-Backed Infrastructure Pre-Sale at Scale",
+      "dek": "Microsoft sells AI capacity years before it exists, then pays for the build with its own cash. One investor keeps buying despite a $170 billion spending plan, and explains why Amazon and Oracle never earn his money.",
+      "url": "https://247wallst.com/investing/2026/11/05/microsoft-is-executing-an-irreproducible-balance-sheet-backed-infrastructure-pre-sale-at-scale/",
+      "source": "24/7 Wall St",
       "sourceType": "external",
-      "image": "https://techfundingnews.com/wp-content/uploads/2026/11/Sentra-co-founders.png",
-      "publishedAt": "2026-11-04T12:30:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "cybersecurity",
-        "ai news",
-        "ai",
-        "cybersecurity news",
-        "startups news",
-        "popular now"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "f4e2771a02361949",
-      "slug": "larry-ellison-on-ai-killing-software-companies-ai-may-do-some-of-their-job-but-not-all-a-88b7b0",
-      "title": "Larry Ellison on AI killing software companies: AI may do some of their job, but not all as companies across sectors will still need software firms to build their …",
-      "dek": "Larry Ellison believes that artificial intelligence will significantly transform how software companies operate and develop. He mentions that businesses will continue to require commercial app developers as needs evolve over time. Existing enterprise applications often fail to fully meet required pr",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/larry-ellison-on-ai-killing-software-companies-ai-may-do-some-of-their-job-but-not-all-as-companies-across-sectors-will-still-need-software-firms-to-build-their-/articleshow/135538946.cms",
-      "source": "The Times Of India",
-      "sourceType": "external",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135538991/135538991.jpg",
-      "publishedAt": "2026-11-04T12:13:18.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "ai software development",
-        "business software ai",
-        "larry ellison ai software",
-        "enterprise applications",
-        "software as a service",
-        "oracle"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "b69497ef2765219e",
-      "slug": "it-02-jobs-pay-and-how-to-qualify-6d46b0",
-      "title": "IT-02 Jobs: Pay and How to Qualify",
-      "dek": "Originally published on the CVFit blog. I'm Momin, founder of CVFit in Ottawa. I build a tool that tailors a resume to a specific job using only work you have actually done. Federal IT hiring is where that rule matters most — posters are precise about what counts as proof. Full disclosure: this is m",
-      "url": "https://dev.to/momin_aziz_1/it-02-jobs-pay-and-how-to-qualify-8p8",
-      "source": "Dev Community",
-      "sourceType": "external",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fwob7puqx3ka3n4ktkye6.webp",
-      "publishedAt": "2026-11-04T11:52:58.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "government",
-        "career",
-        "resume",
-        "jobsearch"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "ce6b5a54779cd591",
-      "slug": "vertiv-holdings-co-vrt-holdings-raised-by-prescott-group-capital-management-l-l-c-6d873c",
-      "title": "Vertiv Holdings Co. $VRT Holdings Raised by Prescott Group Capital Management L.L.C.",
-      "dek": "Prescott Group Capital Management L.L.C. lifted its stake in Vertiv Holdings Co. (NYSE:VRT – Free Report) by 716.8% during the 3rd quarter, according to its most recent disclosure with the SEC. The institutional investor owned 6,837 shares of the company’s stock after buying an additional 6,000 shar",
-      "url": "https://www.dailypolitical.com/2026/11/04/vertiv-holdings-co-vrt-holdings-raised-by-prescott-group-capital-management-l-l-c.html",
-      "source": "Daily Political",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/vertiv-holdings-co-logo-1200x675.jpg?v=20231228112537",
-      "publishedAt": "2026-11-04T11:52:57.000Z",
+      "image": "https://247wallst.com/wp-content/uploads/2018/01/microsoft-silicon-valley-center.jpg",
+      "publishedAt": "2026-11-05T12:15:58.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "finance",
-        "sec filing articles"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "af56e2db017d02e8",
-      "slug": "critical-survey-rimini-street-nasdaq-rmni-and-whitefiber-nasdaq-wyfi-994be3",
-      "title": "Critical Survey: Rimini Street (NASDAQ:RMNI) and WhiteFiber (NASDAQ:WYFI)",
-      "dek": "Rimini Street (NASDAQ:RMNI – Get Free Report) and WhiteFiber (NASDAQ:WYFI – Get Free Report) are both small-cap technology companies, but which is the better stock? We will compare the two companies based on the strength of their risk, institutional ownership, profitability, earnings, valuation, ana",
-      "url": "https://www.watchlistnews.com/critical-survey-rimini-street-nasdaqrmni-and-whitefiber-nasdaqwyfi/11292432.html",
-      "source": "Watch List News",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/whitefiber-inc-logo-1200x675.png?v=20250902131200",
-      "publishedAt": "2026-11-04T11:44:57.000Z",
-      "topic": "Security",
-      "tags": [
-        "comparison articles",
         "investing"
       ],
+      "priority": 43
+    },
+    {
+      "id": "92744e586e673734",
+      "slug": "renewable-innovations-joins-us-doe-lab-project-on-fuel-cell-power-for-ai-data-centers-04d3fc",
+      "title": "Renewable Innovations joins US DOE lab project on fuel cell power for AI data centers",
+      "dek": "Will include a field demonstration at the Sky Data Centers site in Santa Rosa, California",
+      "url": "https://www.datacenterdynamics.com/en/news/renewable-innovations-joins-us-doe-lab-project-on-fuel-cell-power-for-ai-data-centers/",
+      "source": "Data Center Dynamics",
+      "sourceType": "external",
+      "image": "https://media.datacenterdynamics.com/media/images/Screenshot_2026-11-05_101024.2e16d0ba.fill-750x500.png",
+      "publishedAt": "2026-11-05T12:14:41.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "alderbuck energy",
+        "sky data centers",
+        "drg technical solutions",
+        "department of energy",
+        "santa rosa",
+        "energy vault"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "45b6faa171ce8586",
+      "slug": "beamr-featured-in-the-wall-street-transcript-expects-approximately-50-revenue-growth-in--c4307f",
+      "title": "Beamr Featured in The Wall Street Transcript; Expects Approximately 50% Revenue Growth in 2026",
+      "dek": "In the interview, CEO Sharon Carmel highlights the commercial progress and physical AI opportunity. Beamr to engage with customers and partners at AWS re:Invent 2026, November 30-December 4 in Las Vegas Herzliya, Israel, Nov. 05, 2026 (GLOBE NEWSWIRE) -- Beamr Imaging Ltd. (Nasdaq: BMR), a leader in",
+      "url": "https://www.manilatimes.net/2026/11/05/tmt-newswire/globenewswire/beamr-featured-in-the-wall-street-transcript-expects-approximately-50-revenue-growth-in-2026/2462811",
+      "source": "The Manila Times",
+      "sourceType": "external",
+      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/05/1293802.jpg",
+      "publishedAt": "2026-11-05T12:09:15.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "tmt newswire"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "20e0191275fa2c65",
+      "slug": "ai-dispatch-the-price-of-intelligence-9bcdbb",
+      "title": "AI Dispatch: The Price of Intelligence",
+      "dek": "Here are the top developments in our AI roundup for October 31 to November 5.",
+      "url": "https://mitsloanindia.com/article/ai-dispatch-the-price-of-intelligence",
+      "source": "Mit Sloan Management Review India",
+      "sourceType": "external",
+      "image": "https://mitsloanindia.com/wp-content/uploads/2026/09/AI.gpt6_.jpg",
+      "publishedAt": "2026-11-05T12:03:53.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "ai"
+      ],
       "priority": 42
     },
     {
-      "id": "6a4a5142dca8ec22",
-      "slug": "oracle-corporation-orcl-stock-rakuten-investment-management-inc-raises-position-067c88",
-      "title": "Oracle Corporation $ORCL Stock: Rakuten Investment Management Inc. Raises Position",
-      "dek": "Rakuten Investment Management Inc. boosted its holdings in shares of Oracle Corporation (NYSE:ORCL - Free Report) by 11.1% during the 3rd quarter, according to its most recent disclosure with the Securities and Exchange Commission. The firm owned 310,207 shares of the enterprise software provider's",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-oracle-corporation-orcl-stock-rakuten-investment-management-inc-raises-position-2026-11-04/",
-      "source": "marketbeat",
+      "id": "739876bfb25b0b75",
+      "slug": "lightspeed-announces-second-quarter-2027-financial-results-13d9d2",
+      "title": "Lightspeed Announces Second Quarter 2027 Financial Results",
+      "dek": "/CNW/ -- Lightspeed Commerce Inc. (NYSE: LSPD) (TSX: LSPD) (\"Lightspeed\" or the \"Company\"), the unified omnichannel platform powering ambitious retail, golf,...",
+      "url": "https://www.newswire.ca/news-releases/lightspeed-announces-second-quarter-2027-financial-results-849654767.html",
+      "source": "Newswire",
+      "sourceType": "external",
+      "image": "https://mmx.prnewswire.com/media/MS1090855/Lightspeed-Commerce-Inc-Lightspeed-Announces-Second-Quarter-202.jpg?id=OA3059557",
+      "publishedAt": "2026-11-05T12:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "electronic commerce",
+        "earnings",
+        "retail"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "5c93d685f741b367",
+      "slug": "top-10-best-api-management-platforms-in-india-in-2027-7aba17",
+      "title": "Top 10 Best API Management Platforms In India In 2027",
+      "dek": "Top 10 Best API Management Platforms in India in 2027 The rapid digital transformation across Indian enterprises has elevated API management from a technical necessity to a core business capability. By mid-2026, organizations in banking, telecommunications, government services, retail, and manufactu",
+      "url": "https://www.inventiva.co.in/trends/top-10-best-api-management-platforms-in-india-in-2027/",
+      "source": "Inventiva",
+      "sourceType": "external",
+      "image": "https://www.inventiva.co.in/wp-content/uploads/2025/01/12145601_Wavy_Edu-04_Single-05.jpg",
+      "publishedAt": "2026-11-05T11:50:06.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "trends"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "f68179b436f1dddb",
+      "slug": "neck-pain-causes-and-physiotherapy-treatment-c22ca4",
+      "title": "Neck pain: causes and physiotherapy treatment",
+      "dek": "Neck pain is common and can arise for many reasons, from muscle overload to a cervical injury. Physiotherapy can help […]",
+      "url": "https://euroweeklynews.com/2026/11/05/neck-pain-causes-and-physiotherapy-treatment/",
+      "source": "Euro Weekly News",
+      "sourceType": "external",
+      "image": "https://euroweeklynews.com/wp-content/uploads/2026/11/Miguel-1-1024x682.jpg?type=local",
+      "publishedAt": "2026-11-05T11:10:12.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "sponsored",
+        "health and beauty"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "21646aa064cb107a",
+      "slug": "an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai-155d78",
+      "title": "An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI",
+      "dek": "An interview with Intuit CEO Sasan Goodarzi about the working for one of tech's oldest software companies, and how Intuit is leaning into the AI paradigm shift.",
+      "url": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
+      "source": "Stratechery",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-11-05T11:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "daily update",
+        "interviews"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "c49defbaefcea5ed",
+      "slug": "cloud-security-market-to-reach-usd-141-5-billion-by-2035-cloud-security-shifts-toward-un-394b63",
+      "title": "Cloud Security Market to Reach USD 141.5 Billion by 2035 | Cloud Security Shifts Toward Unified Multicloud Protection as AI Workloads Redefine Enterprise Risk",
+      "dek": "The cloud security industry is entering a phase in which protecting individual cloud applications and infrastructure is no longer sufficient. Enterprises increasingly operate across public, private and hybrid cloud environments, creating interconnected security requirements involving identities, wor",
+      "url": "https://www.openpr.com/news/4682853/cloud-security-market-to-reach-usd-141-5-billion-by-2035-cloud",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/b/Lb05555084_k.jpg",
+      "publishedAt": "2026-11-05T10:43:43.000Z",
+      "topic": "Security",
+      "tags": [
+        "it",
+        "new media & software"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "98a3f3ecebd60042",
+      "slug": "mainframe-market-to-reach-usd-4-80-billion-by-2033-mainframe-shifts-toward-ai-integrated-8459e4",
+      "title": "Mainframe Market to Reach USD 4.80 Billion by 2033 | Mainframe Shifts Toward AI-Integrated Enterprise Infrastructure as Modernization Replaces Wholesale System Replacement",
+      "dek": "The global Mainframe Market is entering a strategic transition as enterprises reassess the role of traditional computing infrastructure in supporting artificial intelligence, real-time transaction processing and increasingly complex digital operations. Rather than treating mainframes exclusively as ",
+      "url": "https://www.openpr.com/news/4682817/mainframe-market-to-reach-usd-4-80-billion-by-2033-mainframe",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/b/Lb05908020_k.jpg",
+      "publishedAt": "2026-11-05T09:42:30.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "it",
+        "new media & software"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "305b65e9a28a1bb8",
+      "slug": "smartsheet-launches-vsactual-ai-planning-tool-for-firms-53f865",
+      "title": "Smartsheet launches vsActual AI planning tool for firms",
+      "dek": "The software aims to help large organisations spot when projects, budgets and staffing are drifting off plan before problems escalate.",
+      "url": "https://cfotech.com.au/story/smartsheet-launches-vsactual-ai-planning-tool-for-firms",
+      "source": "Cfotech Australia",
+      "sourceType": "external",
+      "image": "https://cfotech.com.au/uploads/story/2026/11/05/compatible_warning-enterprise-planning-dashboard-manager-office-screen-story-323502.jpg",
+      "publishedAt": "2026-11-05T09:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "technology"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "de4a28aa5818f4d9",
+      "slug": "one-hacker-uses-12-ai-agents-to-breach-taiwan-s-emergency-services-and-steal-sensitive-d-ed413c",
+      "title": "One Hacker Uses 12 AI Agents to Breach Taiwan’s Emergency Services and Steal Sensitive Data",
+      "dek": "A single operator in Taiwan built a team of 12 AI agents and used it to attack hundreds of organizations in 11 countries. The campaign hit emergency services, banks, universities, and military systems. It led to confirmed theft of medical data and personal records. The setup, named BOSSAI, shows how",
+      "url": "https://cybersecuritynews.com/one-hacker-uses-12-ai-agents/",
+      "source": "Cybersecuritynews",
+      "sourceType": "external",
+      "image": "https://cybersecuritynews.com/wp-content/uploads/2026/11/One-Hacker-Uses-12-AI-Agents-to-Breach-Taiwans-Emergency-Services-and-Steal-Sensitive-Data.webp",
+      "publishedAt": "2026-11-05T08:56:26.000Z",
+      "topic": "Security",
+      "tags": [
+        "cyber security news",
+        "cyber security",
+        "threats"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "4e4ea261837eb432",
+      "slug": "associated-banc-corp-makes-new-investment-in-oracle-corporation-orcl-3c6335",
+      "title": "Associated Banc Corp Makes New Investment in Oracle Corporation $ORCL",
+      "dek": "Associated Banc Corp acquired a new position in Oracle Corporation (NYSE:ORCL – Free Report) during the 3rd quarter, according to the company in its most recent Form 13F filing with the Securities & Exchange Commission. The fund acquired 6,552 shares of the enterprise software provider’s stock, valu",
+      "url": "https://www.americanbankingnews.com/2026/11/05/associated-banc-corp-makes-new-investment-in-oracle-corporation-orcl.html",
+      "source": "Americanbankingnews",
       "sourceType": "external",
       "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-11-04T11:33:07.000Z",
-      "topic": "Business & Earnings",
+      "publishedAt": "2026-11-05T08:23:09.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "sec filing articles",
+        "market news"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "34c599c97576fee1",
+      "slug": "associated-banc-corp-purchases-new-holdings-in-oracle-corporation-orcl-fe029a",
+      "title": "Associated Banc Corp Purchases New Holdings in Oracle Corporation $ORCL",
+      "dek": "Associated Banc Corp purchased a new position in shares of Oracle Corporation (NYSE:ORCL - Free Report) during the third quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The institutional investor purchased 6,552 shares of the en",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-associated-banc-corp-purchases-new-holdings-in-oracle-corporation-orcl-2026-11-05/",
+      "source": "Market Beat",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-11-05T08:22:22.000Z",
+      "topic": "Oracle Cloud",
       "tags": [
         "nyse:orcl",
         "instant alerts",
         "sec filing",
         "oracle"
       ],
-      "priority": 42
+      "priority": 40
     },
     {
-      "id": "0d12749d24482184",
-      "slug": "ipg-investment-advisors-llc-buys-4-633-shares-of-oracle-corporation-orcl-7cf572",
-      "title": "IPG Investment Advisors LLC Buys 4,633 Shares of Oracle Corporation $ORCL",
-      "dek": "IPG Investment Advisors LLC raised its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 68.5% in the third quarter, HoldingsChannel reports. The institutional investor owned 11,400 shares of the enterprise software provider’s stock after buying an additional 4,633 shares during the quarter. ",
-      "url": "https://www.themarketsdaily.com/2026/11/04/ipg-investment-advisors-llc-buys-4633-shares-of-oracle-corporation-orcl.html",
-      "source": "Markets Daily",
+      "id": "1b073696392cb9af",
+      "slug": "no-java-no-subscription-this-mac-database-app-is-129-97-1353e6",
+      "title": "No Java, no subscription: this Mac database app is $129.97",
+      "dek": "Macworld TL;DR: Query MySQL, PostgreSQL, SQL Server, and Oracle from one native Mac app with a lifetime SQLPro Studio subscription for $129.97 (reg. $219.99). Most database tools that work with more than one engine run on Java instead of natively on macOS. If you want a faster native app for all of ",
+      "url": "https://www.macworld.com/article/3276157/no-java-no-subscription-this-mac-database-app-is-129-97.html",
+      "source": "Macworld",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-11-04T10:43:13.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "sec filing articles",
-        "stocks"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "eae4ca6c928237f2",
-      "slug": "is-it-the-lobby-money-the-bible-or-strategy-decoding-israel-s-clout-in-washington-and-le-2d4a2e",
-      "title": "Is It the Lobby, Money, the Bible or Strategy? Decoding Israel’s clout in Washington and lessons for India",
-      "dek": "Infographics now in circulation claim that over 300 Jewish billionaires hold combined wealth exceeding $2 trillion, and that about 85 of the Forbes global top 500 are Jewish or Israeli: 49 American, 12 Israeli and 24 from elsewhere.",
-      "url": "https://www.wionews.com/opinions/decoding-israel-s-us-clout-key-lessons-for-india-s-foreign-strategy-1793786669215",
-      "source": "Wion",
-      "sourceType": "external",
-      "image": "https://cdn1.wionews.com/prod/wion/images/2026/20261104/image-1793787381110.jpg?rect=(0,80,1040,779)",
-      "publishedAt": "2026-11-04T10:29:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "israel news",
-        "israel clout",
-        "trump netanyahu",
-        "netanyahu and trump",
-        "israel clout in us"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "16b6d798bf713837",
-      "slug": "open-database-connectivity-market-to-reach-usd-8-11-billion-by-2033-at-19-1-cagr-as-mult-bfeed7",
-      "title": "Open Database Connectivity Market to Reach USD 8.11 Billion by 2033 at 19.1% CAGR as Multi-Tier Drivers Become Critical Infrastructure for Enterprise Data Interoperability",
-      "dek": "The Open Database Connectivity (ODBC) Market is increasingly shaped by the need to connect enterprise applications with distributed databases, cloud platforms and heterogeneous data environments. Organizations operating across multiple database management systems require consistent connectivity with",
-      "url": "https://www.openpr.com/news/4681656/open-database-connectivity-market-to-reach-usd-8-11-billion",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/b/Lb04707468_k.jpg",
-      "publishedAt": "2026-11-04T09:36:08.000Z",
+      "image": "https://www.macworld.com/wp-content/uploads/2026/11/3276157-0-81185600-1793865670-SQLPro-Studio.jpg?quality=50&strip=all",
+      "publishedAt": "2026-11-05T08:00:00.000Z",
       "topic": "AI & Database",
       "tags": [
-        "it",
-        "new media & software"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "6c426d4b6f70ba6e",
-      "slug": "deloitte-forms-us-oracle-business-group-to-power-end-to-end-enterprise-transformation-57542d",
-      "title": "Deloitte Forms US Oracle Business Group to Power End-to-End Enterprise Transformation",
-      "dek": "Deloitte announced an expansion of its alliance with Oracle with the formation of the Deloitte Oracle business group, bringing together Deloitte’s Oracle-focused capabilities across AI, applications, cloud infrastructure, data, cyber and managed services. The new group is designed to help clients mo",
-      "url": "https://aithority.com/machine-learning/deloitte-forms-us-oracle-business-group-to-power-end-to-end-enterprise-transformation/",
-      "source": "Aithority",
-      "sourceType": "external",
-      "image": "https://aithority.com/wp-content/uploads/2026/11/7xm.xyz577206.jpg",
-      "publishedAt": "2026-11-04T08:36:07.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "ai agents",
-        "oracle cloud infrastructure (oci)",
-        "enterprise ai transformation",
-        "data platform",
-        "oracle business group",
-        "jason salzetti"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "a51c6c1993a7b1df",
-      "slug": "texas-goes-blue-what-gina-hinojosa-s-win-means-for-ai-data-centers-and-stocks-like-msft--37535c",
-      "title": "Texas Goes Blue: What Gina Hinojosa's Win Means For AI Data Centers And Stocks Like MSFT, AMZN, GOOGL, CRWV",
-      "dek": "Investors and analysts worry that a Democrat-led Congress could slow the buildout of new data centers, a key part of the AI boom.",
-      "url": "https://newsable.asianetnews.com/markets/texas-goes-blue-what-gina-hinojosa-s-win-means-for-ai-data-centers-and-stocks-like-msft-amzn-googl-crwv-articleshow-5oii2sm",
-      "source": "Asianet Newsable",
-      "sourceType": "external",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-188e5e34-2b9b-48d2-878c-4429a7b93988.jpg",
-      "publishedAt": "2026-11-04T07:30:06.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "markets"
+        "professional software"
       ],
       "priority": 39
+    },
+    {
+      "id": "5ab1714d143354e8",
+      "slug": "maximize-market-research-pvt-ltd-global-ai-data-center-market-to-reach-usd-84-52-billion-706b0e",
+      "title": "Maximize Market Research Pvt. Ltd.: Global AI Data Center Market to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% - Report by Maximize Market Research",
+      "dek": "Global AI Data Center Market to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% - Report by Maximize Market Research PUNE, India, Nov. 5, 2026 /PRNewswire/ -- According to Maximize Mark...",
+      "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70040606-maximize-market-research-pvt-ltd-global-ai-data-center-market-to-reach-usd-84-52-billion-by-2032-growing-at-a-cagr-of-25-8-report-by-maximize-m-008.htm",
+      "source": "Finanznachrichten.de",
+      "sourceType": "external",
+      "image": "https://rt.prnewswire.com/rt.gif?NewsItemId=EN88952&Transmission_Id=202611050130PR_NEWS_EURO_ND__EN88952&DateId=20261105",
+      "publishedAt": "2026-11-05T06:36:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "report",
+        "data",
+        "2032",
+        "cagr",
+        "market",
+        "global"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "05dd68b7395360fa",
+      "slug": "ai-will-level-the-playing-field-for-smbs-competing-with-larger-businesses-oracle-netsuit-2cbf3c",
+      "title": "AI will level the playing field for SMBs competing with larger businesses: Oracle NetSuite’s Amit Suxena",
+      "dek": "Suxena said that a massive technological revolution is underway and these are exciting times for new businesses, start-ups, and companies looking to expand.",
+      "url": "https://economictimes.indiatimes.com/small-biz/sme-sector/ai-will-level-the-playing-field-for-smbs-competing-with-larger-businesses-oracle-netsuites-amit-suxena/articleshow/135562055.cms",
+      "source": "The Economic Times",
+      "sourceType": "external",
+      "image": "https://img.etimg.com/thumb/msid-135562271,resizemode-4,width-1200,height-900,imgsize-21944,overlay-etrise/articleshow.jpg",
+      "publishedAt": "2026-11-05T06:31:06.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "impact of ai on smbs",
+        "technology",
+        "smb growth opportunities",
+        "ai",
+        "ai for small businesses",
+        "business intelligence"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "f8736cfd3955a81c",
+      "slug": "global-ai-data-center-market-to-reach-usd-84-52-billion-by-2032-growing-at-a-cagr-of-25--c76be6",
+      "title": "Global AI Data Center Market to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% - Report by Maximize Market Research",
+      "dek": "PUNE, India, Nov. 5, 2026 /PRNewswire/ -- According to Maximize Market Research, the Global AI Data Center Market was valued at USD 16.95 billion in 2025 and is projected to reach USD 84.52 billion by 2032, growing at a CAGR of 25.8% from 2026 to 2032. Global AI Data Center Market Size &...",
+      "url": "https://www.prnewswire.co.uk/news-releases/global-ai-data-center-market-to-reach-usd-84-52-billion-by-2032--growing-at-a-cagr-of-25-8--report-by-maximize-market-research-302930304.html",
+      "source": "Pr Newswire Uk",
+      "sourceType": "external",
+      "image": "https://mmx.prnewswire.com/media/MS2027199/Global-AI-Data-Center-Market.jpg?id=OA3057873&p=original",
+      "publishedAt": "2026-11-05T06:30:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "mrr"
+      ],
+      "priority": 38
     },
     {
       "id": "b2e8b669eb660fe0",
@@ -342,101 +436,6 @@
       "publishedAt": "2026-11-02T05:00:00.000Z",
       "topic": "Business & Earnings",
       "tags": [],
-      "priority": 39
-    },
-    {
-      "id": "a77f2a55f1909ede",
-      "slug": "interview-compound-cto-leo-eikelman-on-compound-v4-ai-security-collateral-isolation-and--b4fe09",
-      "title": "[Interview] Compound CTO Leo Eikelman on Compound V4: AI Security, Collateral Isolation, and Loss Control",
-      "dek": "As Decentralized Finance (DeFi) scales into institutional lending and Real-World Asset (RWA) tokenization, smart contract security alone is no longer enough. Institutional adoption now hinges on multi-layered operational risk management—from tri-party collateral custody to human-in-the-loop governan",
-      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158819",
-      "source": "Korea It Times",
-      "sourceType": "external",
-      "image": "https://www.koreaittimes.com/news/photo/202611/158819_108425_1354.png",
-      "publishedAt": "2026-11-04T05:52:13.000Z",
-      "topic": "Security",
-      "tags": [
-        "Security",
-        "AI"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "97236e132d73f622",
-      "slug": "amd-s-networking-chief-never-bet-against-ethernet-3b41da",
-      "title": "AMD’s networking chief: Never bet against Ethernet",
-      "dek": "Four decades in networking taught Soni Jiandani to back Ethernet, not on any single company owning the stack",
-      "url": "https://www.sdxcentral.com/analysis/amds-networking-chief-never-bet-against-ethernet/",
-      "source": "Sdxcentral",
-      "sourceType": "external",
-      "image": "https://media.datacenterdynamics.com/media/images/IMG_0636.7879565e.fill-750x500.jpg",
-      "publishedAt": "2026-11-04T04:00:41.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "networking protocol",
-        "dpus",
-        "optical connectivity",
-        "programmability",
-        "chips",
-        "dpu"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "e3f5bb29f1f02b2c",
-      "slug": "top-10-cloud-service-providers-in-india-in-2026-e59b1d",
-      "title": "Top 10 Cloud Service Providers in India in 2026",
-      "dek": "Explore the top cloud service providers in India in 2026. Compare AWS pricing, Microsoft Azure pricing, and Google Cloud pricing against their services.",
-      "url": "https://www.analyticsinsight.net/cloud-services/top-10-cloud-service-providers-in-india-in-2026",
-      "source": "Analytics And Insight",
-      "sourceType": "external",
-      "image": "https://media.assettype.com/analyticsinsight/2026-11-03/avds4tke/Top-10-Cloud-Service-Providers-in-India-in-2026.jpg",
-      "publishedAt": "2026-11-04T03:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "cloud service providers",
-        "aws pricing",
-        "microsoft azure pricing",
-        "google cloud pricing",
-        "best cloud service providers"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "79ab7d7f548b9e10",
-      "slug": "amd-q3-2026-revenue-surges-45-to-13-4-billion-as-ai-data-center-sales-jump-97-to-8-5-bil-35b109",
-      "title": "AMD Q3 2026 Revenue Surges 45% to $13.4 Billion as AI Data Center Sales Jump 97% to $8.5 Billion",
-      "dek": "AMD reported record revenue of $13.38 billion in the third quarter of 2026, representing 45 percent annual growth, as demand for AI accelerators, EPYC server processors and cloud infrastructure strengthened. The semiconductor company expanded its customer ecosystem with Anthropic, Meta, Microsoft, O",
-      "url": "https://infotechlead.com/networking/amd-q3-2026-revenue-surges-45-to-13-4-billion-as-ai-data-center-sales-jump-97-to-8-5-billion-99413",
-      "source": "Infotech Lead",
-      "sourceType": "external",
-      "image": "https://infotechlead.com/wp-content/uploads/2026/11/AMD-Q3-2026-result.jpg",
-      "publishedAt": "2026-11-04T02:13:22.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "a1de2046a47b705e",
-      "slug": "pershing-square-holdings-q3-2026-letter-to-shareholders-9a13e5",
-      "title": "Pershing Square Holdings Q3 2026 Letter To Shareholders",
-      "dek": "PSH reports Q3 2026 performance, highlighting portfolio resilience amidst AI-driven market volatility. Read our full analysis and investment update here.",
-      "url": "https://seekingalpha.com/article/4961892-pershing-square-holdings-q3-2026-letter-to-shareholders",
-      "source": "Seeking Alpha",
-      "sourceType": "external",
-      "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2188218644/image_2188218644.jpg?io=getty-c-w1280",
-      "publishedAt": "2026-11-04T01:30:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "ps",
-        "pshzf",
-        "pershing square holdings",
-        "fund letters",
-        "psus",
-        "articles about william ackman"
-      ],
       "priority": 36
     },
     {
@@ -1999,20 +1998,6 @@
         "MySQL",
         "Oracle University"
       ],
-      "priority": 36
-    },
-    {
-      "id": "ff92a6749fa996f7",
-      "slug": "database-essentials-027d69",
-      "title": "Database Essentials",
-      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Hope Fisher, Oracle's Product Manager for Database Technologies, as they break down the basics of databases, explore different database management systems, and delve into database development. Whether you're a newcomer or just need a refresher, ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-essentials",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-23T14:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [],
       "priority": 36
     }
   ]

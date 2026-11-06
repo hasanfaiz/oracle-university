@@ -6,8 +6,17 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 00:56:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 00:59:14 GMT</lastBuildDate>
     
+    <item>
+      <title>&quot;Valhalla? AI? Better Modules? String Templates?&quot; [AtA]</title>
+      <link>https://oracle-university.com/stories/valhalla-ai-better-modules-string-templates-ata-2a0535/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/valhalla-ai-better-modules-string-templates-ata-2a0535/</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
+      <category>Java &amp; MySQL</category>
+      <description>This episode of the Inside Java Podcast is the Ask the Architect session from Devoxx Belgium 2026, where the audience members literally asked the Java architects their questions. They inquired about custom virtual thread schedulers, AI&#39;s impact on the development of Java itself, Valhalla features, s</description>
+      <source url="https://inside.java/2026/11/04/podcast-074/">Inside Java</source>
+    </item>
     <item>
       <title>Oracle Sets the Date for its First Quarter Fiscal Year 2027 Earnings Announcement</title>
       <link>https://oracle-university.com/stories/oracle-sets-the-date-for-its-first-quarter-fiscal-year-2027-earnings-announcement-a540e9/</link>
@@ -36,139 +45,184 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-Third-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>Contrasting Cycurion (NASDAQ:CYCU) and Globant (NYSE:GLOB)</title>
-      <link>https://oracle-university.com/stories/contrasting-cycurion-nasdaq-cycu-and-globant-nyse-glob-b57466/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/contrasting-cycurion-nasdaq-cycu-and-globant-nyse-glob-b57466/</guid>
-      <pubDate>Wed, 04 Nov 2026 12:44:50 GMT</pubDate>
+      <title>Google expands voluntary buyout offers to five countries amid rising AI costs: List of companies laying off in 2026</title>
+      <link>https://oracle-university.com/stories/google-expands-voluntary-buyout-offers-to-five-countries-amid-rising-ai-costs-list-of-co-134938/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/google-expands-voluntary-buyout-offers-to-five-countries-amid-rising-ai-costs-list-of-co-134938/</guid>
+      <pubDate>Thu, 05 Nov 2026 12:55:54 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The move is part of the tech giant&#39;s efforts to streamline operations and manage expenses as it increases spending on AI infrastructure and development. The development comes amid a wider wave of workforce reductions across the global technology sector, with several major companies announcing layoff</description>
+      <source url="https://www.ibtimes.co.in/google-expands-voluntary-buyout-offers-five-countries-amid-rising-ai-costs-list-companies-laying-908134">International Business Times</source>
+    </item>
+    <item>
+      <title>What Advanced Micro Devices (AMD) Said on Its Q3 Earnings Call</title>
+      <link>https://oracle-university.com/stories/what-advanced-micro-devices-amd-said-on-its-q3-earnings-call-8a27ad/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/what-advanced-micro-devices-amd-said-on-its-q3-earnings-call-8a27ad/</guid>
+      <pubDate>Thu, 05 Nov 2026 12:19:07 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Advanced Micro Devices (NASDAQ:AMD) reported record third-quarter 2026 revenue and profitability as demand for its data center processors and artificial intelligence accelerators accelerated, while the company projected a sharp increase in fourth-quarter sales and said it expects revenue growth of m</description>
+      <source url="https://baseballnewssource.com/2026/11/05/what-advanced-micro-devices-amd-said-on-its-q3-earnings-call/11334806.html">Bbns</source>
+    </item>
+    <item>
+      <title>Microsoft Is Executing an Irreproducible Balance-Sheet-Backed Infrastructure Pre-Sale at Scale</title>
+      <link>https://oracle-university.com/stories/microsoft-is-executing-an-irreproducible-balance-sheet-backed-infrastructure-pre-sale-at-d0291d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/microsoft-is-executing-an-irreproducible-balance-sheet-backed-infrastructure-pre-sale-at-d0291d/</guid>
+      <pubDate>Thu, 05 Nov 2026 12:15:58 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Microsoft sells AI capacity years before it exists, then pays for the build with its own cash. One investor keeps buying despite a $170 billion spending plan, and explains why Amazon and Oracle never earn his money.</description>
+      <source url="https://247wallst.com/investing/2026/11/05/microsoft-is-executing-an-irreproducible-balance-sheet-backed-infrastructure-pre-sale-at-scale/">24/7 Wall St</source>
+    </item>
+    <item>
+      <title>Renewable Innovations joins US DOE lab project on fuel cell power for AI data centers</title>
+      <link>https://oracle-university.com/stories/renewable-innovations-joins-us-doe-lab-project-on-fuel-cell-power-for-ai-data-centers-04d3fc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/renewable-innovations-joins-us-doe-lab-project-on-fuel-cell-power-for-ai-data-centers-04d3fc/</guid>
+      <pubDate>Thu, 05 Nov 2026 12:14:41 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Will include a field demonstration at the Sky Data Centers site in Santa Rosa, California</description>
+      <source url="https://www.datacenterdynamics.com/en/news/renewable-innovations-joins-us-doe-lab-project-on-fuel-cell-power-for-ai-data-centers/">Data Center Dynamics</source>
+    </item>
+    <item>
+      <title>Beamr Featured in The Wall Street Transcript; Expects Approximately 50% Revenue Growth in 2026</title>
+      <link>https://oracle-university.com/stories/beamr-featured-in-the-wall-street-transcript-expects-approximately-50-revenue-growth-in--c4307f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/beamr-featured-in-the-wall-street-transcript-expects-approximately-50-revenue-growth-in--c4307f/</guid>
+      <pubDate>Thu, 05 Nov 2026 12:09:15 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>In the interview, CEO Sharon Carmel highlights the commercial progress and physical AI opportunity. Beamr to engage with customers and partners at AWS re:Invent 2026, November 30-December 4 in Las Vegas Herzliya, Israel, Nov. 05, 2026 (GLOBE NEWSWIRE) -- Beamr Imaging Ltd. (Nasdaq: BMR), a leader in</description>
+      <source url="https://www.manilatimes.net/2026/11/05/tmt-newswire/globenewswire/beamr-featured-in-the-wall-street-transcript-expects-approximately-50-revenue-growth-in-2026/2462811">The Manila Times</source>
+    </item>
+    <item>
+      <title>AI Dispatch: The Price of Intelligence</title>
+      <link>https://oracle-university.com/stories/ai-dispatch-the-price-of-intelligence-9bcdbb/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-dispatch-the-price-of-intelligence-9bcdbb/</guid>
+      <pubDate>Thu, 05 Nov 2026 12:03:53 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Here are the top developments in our AI roundup for October 31 to November 5.</description>
+      <source url="https://mitsloanindia.com/article/ai-dispatch-the-price-of-intelligence">Mit Sloan Management Review India</source>
+    </item>
+    <item>
+      <title>Lightspeed Announces Second Quarter 2027 Financial Results</title>
+      <link>https://oracle-university.com/stories/lightspeed-announces-second-quarter-2027-financial-results-13d9d2/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/lightspeed-announces-second-quarter-2027-financial-results-13d9d2/</guid>
+      <pubDate>Thu, 05 Nov 2026 12:00:00 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>/CNW/ -- Lightspeed Commerce Inc. (NYSE: LSPD) (TSX: LSPD) (&quot;Lightspeed&quot; or the &quot;Company&quot;), the unified omnichannel platform powering ambitious retail, golf,...</description>
+      <source url="https://www.newswire.ca/news-releases/lightspeed-announces-second-quarter-2027-financial-results-849654767.html">Newswire</source>
+    </item>
+    <item>
+      <title>Top 10 Best API Management Platforms In India In 2027</title>
+      <link>https://oracle-university.com/stories/top-10-best-api-management-platforms-in-india-in-2027-7aba17/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/top-10-best-api-management-platforms-in-india-in-2027-7aba17/</guid>
+      <pubDate>Thu, 05 Nov 2026 11:50:06 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Top 10 Best API Management Platforms in India in 2027 The rapid digital transformation across Indian enterprises has elevated API management from a technical necessity to a core business capability. By mid-2026, organizations in banking, telecommunications, government services, retail, and manufactu</description>
+      <source url="https://www.inventiva.co.in/trends/top-10-best-api-management-platforms-in-india-in-2027/">Inventiva</source>
+    </item>
+    <item>
+      <title>Neck pain: causes and physiotherapy treatment</title>
+      <link>https://oracle-university.com/stories/neck-pain-causes-and-physiotherapy-treatment-c22ca4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/neck-pain-causes-and-physiotherapy-treatment-c22ca4/</guid>
+      <pubDate>Thu, 05 Nov 2026 11:10:12 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Neck pain is common and can arise for many reasons, from muscle overload to a cervical injury. Physiotherapy can help […]</description>
+      <source url="https://euroweeklynews.com/2026/11/05/neck-pain-causes-and-physiotherapy-treatment/">Euro Weekly News</source>
+    </item>
+    <item>
+      <title>An Interview With Intuit CEO Sasan Goodarzi About Accounting and AI</title>
+      <link>https://oracle-university.com/stories/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai-155d78/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai-155d78/</guid>
+      <pubDate>Thu, 05 Nov 2026 11:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>An interview with Intuit CEO Sasan Goodarzi about the working for one of tech&#39;s oldest software companies, and how Intuit is leaning into the AI paradigm shift.</description>
+      <source url="https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/">Stratechery</source>
+    </item>
+    <item>
+      <title>Cloud Security Market to Reach USD 141.5 Billion by 2035 | Cloud Security Shifts Toward Unified Multicloud Protection as AI Workloads Redefine Enterprise Risk</title>
+      <link>https://oracle-university.com/stories/cloud-security-market-to-reach-usd-141-5-billion-by-2035-cloud-security-shifts-toward-un-394b63/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-security-market-to-reach-usd-141-5-billion-by-2035-cloud-security-shifts-toward-un-394b63/</guid>
+      <pubDate>Thu, 05 Nov 2026 10:43:43 GMT</pubDate>
       <category>Security</category>
-      <description>Cycurion (NASDAQ:CYCU – Get Free Report) and Globant (NYSE:GLOB – Get Free Report) are both technology companies, but which is the better stock? We will contrast the two businesses based on the strength of their dividends, valuation, risk, earnings, profitability, institutional ownership and analyst</description>
-      <source url="https://www.thelincolnianonline.com/2026/11/04/contrasting-cycurion-nasdaqcycu-and-globant-nyseglob.html">The Lincolnian Online</source>
+      <description>The cloud security industry is entering a phase in which protecting individual cloud applications and infrastructure is no longer sufficient. Enterprises increasingly operate across public, private and hybrid cloud environments, creating interconnected security requirements involving identities, wor</description>
+      <source url="https://www.openpr.com/news/4682853/cloud-security-market-to-reach-usd-141-5-billion-by-2035-cloud">Openpr.com</source>
     </item>
     <item>
-      <title>Oracle Cancels USD 7 Billion Tencent AI Chip Deal After US Pressure</title>
-      <link>https://oracle-university.com/stories/oracle-cancels-usd-7-billion-tencent-ai-chip-deal-after-us-pressure-565471/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-cancels-usd-7-billion-tencent-ai-chip-deal-after-us-pressure-565471/</guid>
-      <pubDate>Wed, 04 Nov 2026 12:41:23 GMT</pubDate>
+      <title>Mainframe Market to Reach USD 4.80 Billion by 2033 | Mainframe Shifts Toward AI-Integrated Enterprise Infrastructure as Modernization Replaces Wholesale System Replacement</title>
+      <link>https://oracle-university.com/stories/mainframe-market-to-reach-usd-4-80-billion-by-2033-mainframe-shifts-toward-ai-integrated-8459e4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/mainframe-market-to-reach-usd-4-80-billion-by-2033-mainframe-shifts-toward-ai-integrated-8459e4/</guid>
+      <pubDate>Thu, 05 Nov 2026 09:42:30 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The global Mainframe Market is entering a strategic transition as enterprises reassess the role of traditional computing infrastructure in supporting artificial intelligence, real-time transaction processing and increasingly complex digital operations. Rather than treating mainframes exclusively as </description>
+      <source url="https://www.openpr.com/news/4682817/mainframe-market-to-reach-usd-4-80-billion-by-2033-mainframe">Openpr.com</source>
+    </item>
+    <item>
+      <title>Smartsheet launches vsActual AI planning tool for firms</title>
+      <link>https://oracle-university.com/stories/smartsheet-launches-vsactual-ai-planning-tool-for-firms-53f865/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/smartsheet-launches-vsactual-ai-planning-tool-for-firms-53f865/</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>A reported US intervention prompts Oracle to abandon its proposed USD 7 billion AI chip deal with China&#39;s Tencent.</description>
-      <source url="https://www.analyticsinsight.net/news/oracle-cancels-usd-7-billion-tencent-ai-chip-deal-after-us-pressure">Analytics And Insight</source>
+      <description>The software aims to help large organisations spot when projects, budgets and staffing are drifting off plan before problems escalate.</description>
+      <source url="https://cfotech.com.au/story/smartsheet-launches-vsactual-ai-planning-tool-for-firms">Cfotech Australia</source>
     </item>
     <item>
-      <title>Google expands employee buyouts to five more countries as AI spending soars: report</title>
-      <link>https://oracle-university.com/stories/google-expands-employee-buyouts-to-five-more-countries-as-ai-spending-soars-report-27061c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/google-expands-employee-buyouts-to-five-more-countries-as-ai-spending-soars-report-27061c/</guid>
-      <pubDate>Wed, 04 Nov 2026 12:40:56 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Alphabet has expanded its voluntary employee buyout program to five more countries as the Google parent seeks to control operating costs while pouring billions of dollars into artificial intelligence infrastructure. The company confirmed to Reuters on Wednesday that it extended voluntary exit offers</description>
-      <source url="https://invezz.com/news/2026/11/04/google-expands-employee-buyouts-to-five-more-countries-as-ai-spending-soars-report/">Invezz</source>
-    </item>
-    <item>
-      <title>Breakfast News: Did Nvidia Just Favor Marvell?</title>
-      <link>https://oracle-university.com/stories/breakfast-news-did-nvidia-just-favor-marvell-b4b85a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/breakfast-news-did-nvidia-just-favor-marvell-b4b85a/</guid>
-      <pubDate>Wed, 04 Nov 2026 12:30:02 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Nvidia’s likely role in the Marvell-Lumentum deal, AI stocks hit by midterms, and more…</description>
-      <source url="https://www.fool.com/investing/breakfast-news/2026/11/04/breakfast-news/">Fool</source>
-    </item>
-    <item>
-      <title>Capital One Ventures backs Sentra with $150M to secure data from AI agents</title>
-      <link>https://oracle-university.com/stories/capital-one-ventures-backs-sentra-with-150m-to-secure-data-from-ai-agents-642ede/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/capital-one-ventures-backs-sentra-with-150m-to-secure-data-from-ai-agents-642ede/</guid>
-      <pubDate>Wed, 04 Nov 2026 12:30:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Asaf Kochan headed Israel’s cyber intel Unit 8200 until early 2021. Together with Yoav Regev, who had previously…</description>
-      <source url="https://techfundingnews.com/sentra-150m-capital-one-ventures-ai-data-security/">Techfundingnews</source>
-    </item>
-    <item>
-      <title>Larry Ellison on AI killing software companies: AI may do some of their job, but not all as companies across sectors will still need software firms to build their …</title>
-      <link>https://oracle-university.com/stories/larry-ellison-on-ai-killing-software-companies-ai-may-do-some-of-their-job-but-not-all-a-88b7b0/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/larry-ellison-on-ai-killing-software-companies-ai-may-do-some-of-their-job-but-not-all-a-88b7b0/</guid>
-      <pubDate>Wed, 04 Nov 2026 12:13:18 GMT</pubDate>
-      <category>Java &amp; MySQL</category>
-      <description>Larry Ellison believes that artificial intelligence will significantly transform how software companies operate and develop. He mentions that businesses will continue to require commercial app developers as needs evolve over time. Existing enterprise applications often fail to fully meet required pr</description>
-      <source url="https://timesofindia.indiatimes.com/technology/tech-news/larry-ellison-on-ai-killing-software-companies-ai-may-do-some-of-their-job-but-not-all-as-companies-across-sectors-will-still-need-software-firms-to-build-their-/articleshow/135538946.cms">The Times Of India</source>
-    </item>
-    <item>
-      <title>IT-02 Jobs: Pay and How to Qualify</title>
-      <link>https://oracle-university.com/stories/it-02-jobs-pay-and-how-to-qualify-6d46b0/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/it-02-jobs-pay-and-how-to-qualify-6d46b0/</guid>
-      <pubDate>Wed, 04 Nov 2026 11:52:58 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Originally published on the CVFit blog. I&#39;m Momin, founder of CVFit in Ottawa. I build a tool that tailors a resume to a specific job using only work you have actually done. Federal IT hiring is where that rule matters most — posters are precise about what counts as proof. Full disclosure: this is m</description>
-      <source url="https://dev.to/momin_aziz_1/it-02-jobs-pay-and-how-to-qualify-8p8">Dev Community</source>
-    </item>
-    <item>
-      <title>Vertiv Holdings Co. $VRT Holdings Raised by Prescott Group Capital Management L.L.C.</title>
-      <link>https://oracle-university.com/stories/vertiv-holdings-co-vrt-holdings-raised-by-prescott-group-capital-management-l-l-c-6d873c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/vertiv-holdings-co-vrt-holdings-raised-by-prescott-group-capital-management-l-l-c-6d873c/</guid>
-      <pubDate>Wed, 04 Nov 2026 11:52:57 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Prescott Group Capital Management L.L.C. lifted its stake in Vertiv Holdings Co. (NYSE:VRT – Free Report) by 716.8% during the 3rd quarter, according to its most recent disclosure with the SEC. The institutional investor owned 6,837 shares of the company’s stock after buying an additional 6,000 shar</description>
-      <source url="https://www.dailypolitical.com/2026/11/04/vertiv-holdings-co-vrt-holdings-raised-by-prescott-group-capital-management-l-l-c.html">Daily Political</source>
-    </item>
-    <item>
-      <title>Critical Survey: Rimini Street (NASDAQ:RMNI) and WhiteFiber (NASDAQ:WYFI)</title>
-      <link>https://oracle-university.com/stories/critical-survey-rimini-street-nasdaq-rmni-and-whitefiber-nasdaq-wyfi-994be3/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/critical-survey-rimini-street-nasdaq-rmni-and-whitefiber-nasdaq-wyfi-994be3/</guid>
-      <pubDate>Wed, 04 Nov 2026 11:44:57 GMT</pubDate>
+      <title>One Hacker Uses 12 AI Agents to Breach Taiwan’s Emergency Services and Steal Sensitive Data</title>
+      <link>https://oracle-university.com/stories/one-hacker-uses-12-ai-agents-to-breach-taiwan-s-emergency-services-and-steal-sensitive-d-ed413c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/one-hacker-uses-12-ai-agents-to-breach-taiwan-s-emergency-services-and-steal-sensitive-d-ed413c/</guid>
+      <pubDate>Thu, 05 Nov 2026 08:56:26 GMT</pubDate>
       <category>Security</category>
-      <description>Rimini Street (NASDAQ:RMNI – Get Free Report) and WhiteFiber (NASDAQ:WYFI – Get Free Report) are both small-cap technology companies, but which is the better stock? We will compare the two companies based on the strength of their risk, institutional ownership, profitability, earnings, valuation, ana</description>
-      <source url="https://www.watchlistnews.com/critical-survey-rimini-street-nasdaqrmni-and-whitefiber-nasdaqwyfi/11292432.html">Watch List News</source>
+      <description>A single operator in Taiwan built a team of 12 AI agents and used it to attack hundreds of organizations in 11 countries. The campaign hit emergency services, banks, universities, and military systems. It led to confirmed theft of medical data and personal records. The setup, named BOSSAI, shows how</description>
+      <source url="https://cybersecuritynews.com/one-hacker-uses-12-ai-agents/">Cybersecuritynews</source>
     </item>
     <item>
-      <title>Oracle Corporation $ORCL Stock: Rakuten Investment Management Inc. Raises Position</title>
-      <link>https://oracle-university.com/stories/oracle-corporation-orcl-stock-rakuten-investment-management-inc-raises-position-067c88/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-stock-rakuten-investment-management-inc-raises-position-067c88/</guid>
-      <pubDate>Wed, 04 Nov 2026 11:33:07 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Rakuten Investment Management Inc. boosted its holdings in shares of Oracle Corporation (NYSE:ORCL - Free Report) by 11.1% during the 3rd quarter, according to its most recent disclosure with the Securities and Exchange Commission. The firm owned 310,207 shares of the enterprise software provider&#39;s</description>
-      <source url="https://www.marketbeat.com/instant-alerts/filing-oracle-corporation-orcl-stock-rakuten-investment-management-inc-raises-position-2026-11-04/">marketbeat</source>
+      <title>Associated Banc Corp Makes New Investment in Oracle Corporation $ORCL</title>
+      <link>https://oracle-university.com/stories/associated-banc-corp-makes-new-investment-in-oracle-corporation-orcl-3c6335/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/associated-banc-corp-makes-new-investment-in-oracle-corporation-orcl-3c6335/</guid>
+      <pubDate>Thu, 05 Nov 2026 08:23:09 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Associated Banc Corp acquired a new position in Oracle Corporation (NYSE:ORCL – Free Report) during the 3rd quarter, according to the company in its most recent Form 13F filing with the Securities &amp; Exchange Commission. The fund acquired 6,552 shares of the enterprise software provider’s stock, valu</description>
+      <source url="https://www.americanbankingnews.com/2026/11/05/associated-banc-corp-makes-new-investment-in-oracle-corporation-orcl.html">Americanbankingnews</source>
     </item>
     <item>
-      <title>IPG Investment Advisors LLC Buys 4,633 Shares of Oracle Corporation $ORCL</title>
-      <link>https://oracle-university.com/stories/ipg-investment-advisors-llc-buys-4-633-shares-of-oracle-corporation-orcl-7cf572/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ipg-investment-advisors-llc-buys-4-633-shares-of-oracle-corporation-orcl-7cf572/</guid>
-      <pubDate>Wed, 04 Nov 2026 10:43:13 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>IPG Investment Advisors LLC raised its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 68.5% in the third quarter, HoldingsChannel reports. The institutional investor owned 11,400 shares of the enterprise software provider’s stock after buying an additional 4,633 shares during the quarter. </description>
-      <source url="https://www.themarketsdaily.com/2026/11/04/ipg-investment-advisors-llc-buys-4633-shares-of-oracle-corporation-orcl.html">Markets Daily</source>
+      <title>Associated Banc Corp Purchases New Holdings in Oracle Corporation $ORCL</title>
+      <link>https://oracle-university.com/stories/associated-banc-corp-purchases-new-holdings-in-oracle-corporation-orcl-fe029a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/associated-banc-corp-purchases-new-holdings-in-oracle-corporation-orcl-fe029a/</guid>
+      <pubDate>Thu, 05 Nov 2026 08:22:22 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Associated Banc Corp purchased a new position in shares of Oracle Corporation (NYSE:ORCL - Free Report) during the third quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The institutional investor purchased 6,552 shares of the en</description>
+      <source url="https://www.marketbeat.com/instant-alerts/filing-associated-banc-corp-purchases-new-holdings-in-oracle-corporation-orcl-2026-11-05/">Market Beat</source>
     </item>
     <item>
-      <title>Is It the Lobby, Money, the Bible or Strategy? Decoding Israel’s clout in Washington and lessons for India</title>
-      <link>https://oracle-university.com/stories/is-it-the-lobby-money-the-bible-or-strategy-decoding-israel-s-clout-in-washington-and-le-2d4a2e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/is-it-the-lobby-money-the-bible-or-strategy-decoding-israel-s-clout-in-washington-and-le-2d4a2e/</guid>
-      <pubDate>Wed, 04 Nov 2026 10:29:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Infographics now in circulation claim that over 300 Jewish billionaires hold combined wealth exceeding $2 trillion, and that about 85 of the Forbes global top 500 are Jewish or Israeli: 49 American, 12 Israeli and 24 from elsewhere.</description>
-      <source url="https://www.wionews.com/opinions/decoding-israel-s-us-clout-key-lessons-for-india-s-foreign-strategy-1793786669215">Wion</source>
-    </item>
-    <item>
-      <title>Open Database Connectivity Market to Reach USD 8.11 Billion by 2033 at 19.1% CAGR as Multi-Tier Drivers Become Critical Infrastructure for Enterprise Data Interoperability</title>
-      <link>https://oracle-university.com/stories/open-database-connectivity-market-to-reach-usd-8-11-billion-by-2033-at-19-1-cagr-as-mult-bfeed7/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/open-database-connectivity-market-to-reach-usd-8-11-billion-by-2033-at-19-1-cagr-as-mult-bfeed7/</guid>
-      <pubDate>Wed, 04 Nov 2026 09:36:08 GMT</pubDate>
+      <title>No Java, no subscription: this Mac database app is $129.97</title>
+      <link>https://oracle-university.com/stories/no-java-no-subscription-this-mac-database-app-is-129-97-1353e6/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/no-java-no-subscription-this-mac-database-app-is-129-97-1353e6/</guid>
+      <pubDate>Thu, 05 Nov 2026 08:00:00 GMT</pubDate>
       <category>AI &amp; Database</category>
-      <description>The Open Database Connectivity (ODBC) Market is increasingly shaped by the need to connect enterprise applications with distributed databases, cloud platforms and heterogeneous data environments. Organizations operating across multiple database management systems require consistent connectivity with</description>
-      <source url="https://www.openpr.com/news/4681656/open-database-connectivity-market-to-reach-usd-8-11-billion">Openpr.com</source>
+      <description>Macworld TL;DR: Query MySQL, PostgreSQL, SQL Server, and Oracle from one native Mac app with a lifetime SQLPro Studio subscription for $129.97 (reg. $219.99). Most database tools that work with more than one engine run on Java instead of natively on macOS. If you want a faster native app for all of </description>
+      <source url="https://www.macworld.com/article/3276157/no-java-no-subscription-this-mac-database-app-is-129-97.html">Macworld</source>
     </item>
     <item>
-      <title>Deloitte Forms US Oracle Business Group to Power End-to-End Enterprise Transformation</title>
-      <link>https://oracle-university.com/stories/deloitte-forms-us-oracle-business-group-to-power-end-to-end-enterprise-transformation-57542d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/deloitte-forms-us-oracle-business-group-to-power-end-to-end-enterprise-transformation-57542d/</guid>
-      <pubDate>Wed, 04 Nov 2026 08:36:07 GMT</pubDate>
+      <title>Maximize Market Research Pvt. Ltd.: Global AI Data Center Market to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% - Report by Maximize Market Research</title>
+      <link>https://oracle-university.com/stories/maximize-market-research-pvt-ltd-global-ai-data-center-market-to-reach-usd-84-52-billion-706b0e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/maximize-market-research-pvt-ltd-global-ai-data-center-market-to-reach-usd-84-52-billion-706b0e/</guid>
+      <pubDate>Thu, 05 Nov 2026 06:36:00 GMT</pubDate>
       <category>Oracle Cloud</category>
-      <description>Deloitte announced an expansion of its alliance with Oracle with the formation of the Deloitte Oracle business group, bringing together Deloitte’s Oracle-focused capabilities across AI, applications, cloud infrastructure, data, cyber and managed services. The new group is designed to help clients mo</description>
-      <source url="https://aithority.com/machine-learning/deloitte-forms-us-oracle-business-group-to-power-end-to-end-enterprise-transformation/">Aithority</source>
+      <description>Global AI Data Center Market to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% - Report by Maximize Market Research PUNE, India, Nov. 5, 2026 /PRNewswire/ -- According to Maximize Mark...</description>
+      <source url="https://www.finanznachrichten.de/nachrichten-2026-11/70040606-maximize-market-research-pvt-ltd-global-ai-data-center-market-to-reach-usd-84-52-billion-by-2032-growing-at-a-cagr-of-25-8-report-by-maximize-m-008.htm">Finanznachrichten.de</source>
     </item>
     <item>
-      <title>Texas Goes Blue: What Gina Hinojosa&#39;s Win Means For AI Data Centers And Stocks Like MSFT, AMZN, GOOGL, CRWV</title>
-      <link>https://oracle-university.com/stories/texas-goes-blue-what-gina-hinojosa-s-win-means-for-ai-data-centers-and-stocks-like-msft--37535c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/texas-goes-blue-what-gina-hinojosa-s-win-means-for-ai-data-centers-and-stocks-like-msft--37535c/</guid>
-      <pubDate>Wed, 04 Nov 2026 07:30:06 GMT</pubDate>
+      <title>AI will level the playing field for SMBs competing with larger businesses: Oracle NetSuite’s Amit Suxena</title>
+      <link>https://oracle-university.com/stories/ai-will-level-the-playing-field-for-smbs-competing-with-larger-businesses-oracle-netsuit-2cbf3c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-will-level-the-playing-field-for-smbs-competing-with-larger-businesses-oracle-netsuit-2cbf3c/</guid>
+      <pubDate>Thu, 05 Nov 2026 06:31:06 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Suxena said that a massive technological revolution is underway and these are exciting times for new businesses, start-ups, and companies looking to expand.</description>
+      <source url="https://economictimes.indiatimes.com/small-biz/sme-sector/ai-will-level-the-playing-field-for-smbs-competing-with-larger-businesses-oracle-netsuites-amit-suxena/articleshow/135562055.cms">The Economic Times</source>
+    </item>
+    <item>
+      <title>Global AI Data Center Market to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% - Report by Maximize Market Research</title>
+      <link>https://oracle-university.com/stories/global-ai-data-center-market-to-reach-usd-84-52-billion-by-2032-growing-at-a-cagr-of-25--c76be6/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/global-ai-data-center-market-to-reach-usd-84-52-billion-by-2032-growing-at-a-cagr-of-25--c76be6/</guid>
+      <pubDate>Thu, 05 Nov 2026 06:30:00 GMT</pubDate>
       <category>Oracle Cloud</category>
-      <description>Investors and analysts worry that a Democrat-led Congress could slow the buildout of new data centers, a key part of the AI boom.</description>
-      <source url="https://newsable.asianetnews.com/markets/texas-goes-blue-what-gina-hinojosa-s-win-means-for-ai-data-centers-and-stocks-like-msft-amzn-googl-crwv-articleshow-5oii2sm">Asianet Newsable</source>
+      <description>PUNE, India, Nov. 5, 2026 /PRNewswire/ -- According to Maximize Market Research, the Global AI Data Center Market was valued at USD 16.95 billion in 2025 and is projected to reach USD 84.52 billion by 2032, growing at a CAGR of 25.8% from 2026 to 2032. Global AI Data Center Market Size &amp;...</description>
+      <source url="https://www.prnewswire.co.uk/news-releases/global-ai-data-center-market-to-reach-usd-84-52-billion-by-2032--growing-at-a-cagr-of-25-8--report-by-maximize-market-research-302930304.html">Pr Newswire Uk</source>
     </item>
     <item>
       <title>Oracle Announces Pricing of $20 Billion of Common Stock and Senior Notes</title>
@@ -178,51 +232,6 @@
       <category>Business &amp; Earnings</category>
       <description></description>
       <source url="https://investor.oracle.com/investor-news/news-details/2026/Oracle-Announces-Pricing-of-20-Billion-of-Common-Stock-and-Senior-Notes/default.aspx">Oracle Investor Relations News</source>
-    </item>
-    <item>
-      <title>[Interview] Compound CTO Leo Eikelman on Compound V4: AI Security, Collateral Isolation, and Loss Control</title>
-      <link>https://oracle-university.com/stories/interview-compound-cto-leo-eikelman-on-compound-v4-ai-security-collateral-isolation-and--b4fe09/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/interview-compound-cto-leo-eikelman-on-compound-v4-ai-security-collateral-isolation-and--b4fe09/</guid>
-      <pubDate>Wed, 04 Nov 2026 05:52:13 GMT</pubDate>
-      <category>Security</category>
-      <description>As Decentralized Finance (DeFi) scales into institutional lending and Real-World Asset (RWA) tokenization, smart contract security alone is no longer enough. Institutional adoption now hinges on multi-layered operational risk management—from tri-party collateral custody to human-in-the-loop governan</description>
-      <source url="https://www.koreaittimes.com/news/articleView.html?idxno=158819">Korea It Times</source>
-    </item>
-    <item>
-      <title>AMD’s networking chief: Never bet against Ethernet</title>
-      <link>https://oracle-university.com/stories/amd-s-networking-chief-never-bet-against-ethernet-3b41da/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/amd-s-networking-chief-never-bet-against-ethernet-3b41da/</guid>
-      <pubDate>Wed, 04 Nov 2026 04:00:41 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Four decades in networking taught Soni Jiandani to back Ethernet, not on any single company owning the stack</description>
-      <source url="https://www.sdxcentral.com/analysis/amds-networking-chief-never-bet-against-ethernet/">Sdxcentral</source>
-    </item>
-    <item>
-      <title>Top 10 Cloud Service Providers in India in 2026</title>
-      <link>https://oracle-university.com/stories/top-10-cloud-service-providers-in-india-in-2026-e59b1d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-10-cloud-service-providers-in-india-in-2026-e59b1d/</guid>
-      <pubDate>Wed, 04 Nov 2026 03:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Explore the top cloud service providers in India in 2026. Compare AWS pricing, Microsoft Azure pricing, and Google Cloud pricing against their services.</description>
-      <source url="https://www.analyticsinsight.net/cloud-services/top-10-cloud-service-providers-in-india-in-2026">Analytics And Insight</source>
-    </item>
-    <item>
-      <title>AMD Q3 2026 Revenue Surges 45% to $13.4 Billion as AI Data Center Sales Jump 97% to $8.5 Billion</title>
-      <link>https://oracle-university.com/stories/amd-q3-2026-revenue-surges-45-to-13-4-billion-as-ai-data-center-sales-jump-97-to-8-5-bil-35b109/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/amd-q3-2026-revenue-surges-45-to-13-4-billion-as-ai-data-center-sales-jump-97-to-8-5-bil-35b109/</guid>
-      <pubDate>Wed, 04 Nov 2026 02:13:22 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>AMD reported record revenue of $13.38 billion in the third quarter of 2026, representing 45 percent annual growth, as demand for AI accelerators, EPYC server processors and cloud infrastructure strengthened. The semiconductor company expanded its customer ecosystem with Anthropic, Meta, Microsoft, O</description>
-      <source url="https://infotechlead.com/networking/amd-q3-2026-revenue-surges-45-to-13-4-billion-as-ai-data-center-sales-jump-97-to-8-5-billion-99413">Infotech Lead</source>
-    </item>
-    <item>
-      <title>Pershing Square Holdings Q3 2026 Letter To Shareholders</title>
-      <link>https://oracle-university.com/stories/pershing-square-holdings-q3-2026-letter-to-shareholders-9a13e5/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/pershing-square-holdings-q3-2026-letter-to-shareholders-9a13e5/</guid>
-      <pubDate>Wed, 04 Nov 2026 01:30:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>PSH reports Q3 2026 performance, highlighting portfolio resilience amidst AI-driven market volatility. Read our full analysis and investment update here.</description>
-      <source url="https://seekingalpha.com/article/4961892-pershing-square-holdings-q3-2026-letter-to-shareholders">Seeking Alpha</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -448,15 +457,6 @@
       <category>Applications &amp; NetSuite</category>
       <description>In this Episode Orlaith Lawton speaks with Oracle ACE Roberto Capancioni about the importance of APEX and why it is the world&#39;s most popular low-code application platform. ------------------------------------------------------ Episode Transcript: 00:00:00:00 - 00:00:35:14 Unknown Welcome to the Orac</description>
       <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-transformative-power-of-low-code-development">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Understanding Security Risks and Threats in the Cloud - Part 1</title>
-      <link>https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</guid>
-      <pubDate>Tue, 18 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>This week, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to explore what truly keeps data safe, and what puts it at risk. They discuss the CIA triad, dive into hashing and encryption, and shed light on how cyber threats like malware, phishing, and ransomware t</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/understanding-security-risks-and-threats-in-the-cloud-part-1">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
