@@ -1,25 +1,11 @@
 {
-  "generatedAt": "2026-11-07T00:10:12.594Z",
+  "generatedAt": "2026-11-07T23:43:29.659Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
     "siteUrl": "https://oracle-university.com"
   },
   "items": [
-    {
-      "id": "2f95214166553694",
-      "slug": "oracle-s-annual-meeting-of-stockholders-to-be-held-november-18-2026-d6f0f1",
-      "title": "Oracle's Annual Meeting of Stockholders to be held November 18, 2026",
-      "dek": "",
-      "url": "https://investor.oracle.com/investor-news/news-details/2026/ORACLES-ANNUAL-MEETING-OF-STOCKHOLDERS-TO-BE-HELD-NOVEMBER-18-2026/default.aspx",
-      "source": "Oracle Investor Relations News",
-      "sourceType": "official",
-      "image": "",
-      "publishedAt": "2026-11-06T05:00:00.000Z",
-      "topic": "Business & Earnings",
-      "tags": [],
-      "priority": 54
-    },
     {
       "id": "a6ea65aeb044c987",
       "slug": "oracle-sets-the-date-for-its-first-quarter-fiscal-year-2027-earnings-announcement-a540e9",
@@ -53,94 +39,266 @@
       "priority": 46
     },
     {
-      "id": "4bcb2663d7b676bc",
-      "slug": "texas-hits-brakes-on-data-centers-and-elon-musk-s-plans-b2bd39",
-      "title": "Texas hits brakes on data centers — and Elon Musk’s plans",
-      "dek": "Incoming Texas governor Gina Hinojosa vowed to impose an 'immediate moratorium on data centers' during her campaign.",
-      "url": "https://us.headtopics.com/news/texas-hits-brakes-on-data-centers-and-elon-musk-s-plans-89612010",
-      "source": "Headtopics",
-      "sourceType": "external",
-      "image": "https://i.headtopics.com/images/2026/11/6/newsweek/texas-hits-brakes-on-data-centers-and-elon-musk-s--texas-hits-brakes-on-data-centers-and-elon-musk-s--E21C65EEF09F19EB3170BEA5E4CD20CB-16x9.webp",
-      "publishedAt": "2026-11-06T11:58:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "united states news"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "1ce2326d08052dca",
-      "slug": "ai-stocks-crash-wipes-2-5-trillion-off-wall-street-a79f93",
-      "title": "AI stocks crash wipes $2.5 trillion off Wall Street",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://yourstory.com/ai-story/ai-stocks-crash-wall-street-trillion-rout",
-      "source": "Yourstory",
-      "sourceType": "external",
+      "id": "2f95214166553694",
+      "slug": "oracle-s-annual-meeting-of-stockholders-to-be-held-november-18-2026-d6f0f1",
+      "title": "Oracle's Annual Meeting of Stockholders to be held November 18, 2026",
+      "dek": "",
+      "url": "https://investor.oracle.com/investor-news/news-details/2026/ORACLES-ANNUAL-MEETING-OF-STOCKHOLDERS-TO-BE-HELD-NOVEMBER-18-2026/default.aspx",
+      "source": "Oracle Investor Relations News",
+      "sourceType": "official",
       "image": "",
-      "publishedAt": "2026-11-06T11:44:06.000Z",
+      "publishedAt": "2026-11-06T05:00:00.000Z",
       "topic": "Business & Earnings",
+      "tags": [],
+      "priority": 45
+    },
+    {
+      "id": "b40e39d6c8525e40",
+      "slug": "ai-integration-the-role-of-ai-in-filipino-msmes-and-bpo-sectors-072154",
+      "title": "AI integration: The role of AI in Filipino MSMEs and BPO sectors",
+      "dek": "MANILA, Philippines – Experts believe that greater knowledge on the incorporation of artificial intelligence (AI) in businesses is essential in promoting and ensuring growth for PH businesses, especially MSMEs (Micro, Small, and Medium Enterprises). During the AIVF Manila 2026 on October 28, Chairma",
+      "url": "https://technology.inquirer.net/150279/ai-integration-the-role-of-ai-in-filipino-msmes-and-bpo-sectors",
+      "source": "Inquirer",
+      "sourceType": "external",
+      "image": "https://technology.inquirer.net/files/2026/11/WhatsApp-Image-2026-10-28-at-18.24.18-470x353.jpeg",
+      "publishedAt": "2026-11-07T11:24:36.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "wall-street",
-        "stock-market-crashes",
-        "ai-bubble",
-        "ai-stocks",
-        "ai-news"
+        "AI"
       ],
       "priority": 43
     },
     {
-      "id": "caa340b983d9ef78",
-      "slug": "ai-in-2027-20-questions-for-the-global-economy-eca2aa",
-      "title": "AI in 2027: 20 questions for the global economy",
-      "dek": "In a nutshell • The AI boom still has room to run. Investment is likely to continue rising in 2027, supported by strong demand and constrained supply. But its contribution to US growth is probably close to its peak as the sheer scale of investment makes further acceleration harder. • The boom is ent",
-      "url": "https://www.hellenicshippingnews.com/ai-in-2027-20-questions-for-the-global-economy/",
-      "source": "Hellenicshippingnews",
+      "id": "9e680bb519f72d0c",
+      "slug": "india-on-right-track-in-ai-businesses-moving-from-ai-pilots-to-full-scale-deployment-say-588f2f",
+      "title": "India on right track in AI; businesses moving from AI pilots to full-scale deployment, says Oracle India head Shailender Kumar",
+      "dek": "Indian businesses are moving beyond AI pilot projects to full-scale deployment and seeing tangible benefits, but cost, skills and infrastructure remain challenges, Oracle India head Shailender Kumar has said.",
+      "url": "https://www.moneycontrol.com/news/business/india-on-right-track-in-ai-businesses-moving-from-ai-pilots-to-full-scale-deployment-says-oracle-india-head-shailender-kumar-14074446.html",
+      "source": "Moneycontrol",
       "sourceType": "external",
-      "image": "https://www.hellenicshippingnews.com/wp-content/uploads/2014/05/Global%20economy%2002.jpg",
-      "publishedAt": "2026-11-06T11:00:13.000Z",
+      "image": "https://images.moneycontrol.com/static-mcnews/2026/11/20261103015206_O-ra-cle.jpg",
+      "publishedAt": "2026-11-07T11:20:59.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "world economy news",
-        "πρώτη σελιδα"
+        "artificial intelligence adoption in india",
+        "ai pilot projects",
+        "oracle india growth",
+        "india data centres",
+        "oracle india",
+        "ai deployment"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "b824b9ed24295d38",
+      "slug": "microsoft-ends-oracle-ai-cloud-deal-amid-growing-infrastructure-concerns-89de43",
+      "title": "Microsoft Ends Oracle AI Cloud Deal Amid Growing Infrastructure Concerns",
+      "dek": "Microsoft is reassessing its cloud commitments, dropping older Oracle infrastructure and reconsidering major data centre deals amid rising costs and operational challenges.",
+      "url": "https://www.thehansindia.com/tech/microsoft-ends-oracle-ai-cloud-deal-amid-growing-infrastructure-concerns-1140155",
+      "source": "The Hans India",
+      "sourceType": "external",
+      "image": "https://assets.thehansindia.com/h-upload/2026/11/07/1722351-microsoft-is-reducing-its-work-with-oracle-on-intelligence-systems.webp",
+      "publishedAt": "2026-11-07T10:43:45.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "technology"
       ],
       "priority": 42
     },
     {
-      "id": "8105c85c5d5c4695",
-      "slug": "nvidia-rebounds-4-as-melius-cuts-target-to-315-and-wall-street-weighs-the-timing-of-ai-s-baea7e",
-      "title": "Nvidia Rebounds 4% as Melius Cuts Target to $315 and Wall Street Weighs the Timing of AI Spending",
-      "dek": "Nvidia shares climbed 4.0% on Wednesday, recovering part of the prior session’s steep decline as the broader chip sector steadied following a sharp selloff in AI-related names. The rebound came as investors weighed two competing narratives: whether the pullback offers an entry point, or whether poli",
-      "url": "https://www.newscase.com/nvidia-rebounds-4-as-melius-cuts-target-to-315-and-wall-street-weighs-the-timing-of-ai-spending/",
-      "source": "Newscase",
+      "id": "ba22fc9c785447cf",
+      "slug": "quantinuum-nasdaq-qnt-stock-rating-raised-to-hold-at-wall-street-zen-e76a8b",
+      "title": "Quantinuum (NASDAQ:QNT) Stock Rating Raised to “Hold” at Wall Street Zen",
+      "dek": "Quantinuum (NASDAQ:QNT – Get Free Report) was upgraded by analysts at Wall Street Zen from a “sell” rating to a “hold” rating in a research note issued to investors on Saturday, Wall Street Zen reports. QNT has been the topic of a number of other reports. JPMorgan Chase & Co. lowered their target pr",
+      "url": "https://www.americanbankingnews.com/2026/11/07/quantinuum-nasdaqqnt-stock-rating-raised-to-hold-at-wall-street-zen.html",
+      "source": "Americanbankingnews",
       "sourceType": "external",
-      "image": "https://www.newscase.com/wp-content/uploads/ai-imgs/US67066G1040-2026-11-06-10-51-09.png",
-      "publishedAt": "2026-11-06T10:51:07.000Z",
+      "image": "https://www.marketbeat.com/logos/quantinuum-inc-logo-1200x675.png?v=20260608115322",
+      "publishedAt": "2026-11-07T10:38:09.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "tech &amp; software",
-        "semiconductors",
-        "analysis",
-        "ai &amp; quantum computing",
-        "nvidia"
+        "analyst articles - us",
+        "market news"
       ],
       "priority": 42
     },
     {
-      "id": "4ecf8788f3357860",
-      "slug": "oracle-and-tencent-ai-chip-deal-cancelled-amid-geopolitical-pressure-ef5266",
-      "title": "Oracle and Tencent AI chip deal cancelled amid geopolitical Pressure",
-      "dek": "Oracle and Tencent AI chip deal reportedly collapses over US concerns, highlighting how export controls are reshaping global AI infrastructure partnerships.",
-      "url": "https://www.dqchannels.com/news/oracle-and-tencent-ai-chip-deal-hits-a-us-roadblock-12788102",
+      "id": "5661d847451b5f11",
+      "slug": "google-as-we-know-it-is-changing-2d8f50",
+      "title": "Google as we know it is changing",
+      "dek": "When Alphabet GOOGL released its Q3 earnings last month, two figures stood out. Search advertising, the tech behemoth's largest revenue source, grew by 12%. That was down from 17% in the second quarter and below the approximately 14% growth analysts had pencilled in. The figure suggested that the bu",
+      "url": "https://invezz.com/news/2026/11/07/google-as-we-know-it-is-changing/",
+      "source": "Invezz",
+      "sourceType": "external",
+      "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/11/Googles-office-building.png",
+      "publishedAt": "2026-11-07T10:00:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "features"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "114f2026503a7604",
+      "slug": "building-a-backup-and-disaster-recovery-readiness-checker-with-oracle-ai-database-26ai-049c71",
+      "title": "Building a Backup and Disaster Recovery Readiness Checker with Oracle AI Database 26ai",
+      "dek": "Hands-on SQL tutorial using Oracle FreeSQL, Analytic functions, Risk Readiness and JSON. By Abdulrawof Totakhil DBA | Oracle ACE Apprentice | Oracle Certified Professional Introduction: How can you quickly determine whether your backups and disaster recovery monitoring is in a state that needs atten",
+      "url": "https://dev.to/abdulrawoftotakhil/building-a-backup-and-disaster-recovery-readiness-checker-with-oracle-ai-database-26ai-1cm3",
+      "source": "Dev Community",
+      "sourceType": "external",
+      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fmj1lb7b8068s2m09cxyl.png",
+      "publishedAt": "2026-11-07T09:46:15.000Z",
+      "topic": "Security",
+      "tags": [
+        "tutorial",
+        "sql",
+        "ai",
+        "database"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "3616054fcb3d66bb",
+      "slug": "indian-businesses-move-from-ai-pilots-to-full-scale-deployment-says-oracle-india-head-e6449e",
+      "title": "Indian businesses move from AI pilots to full-scale deployment, says Oracle India head",
+      "dek": "Companies are increasingly seeking measurable returns from artificial intelligence, while workforce training, infrastructure development and governance remain central to wider adoption",
+      "url": "https://www.thehindubusinessline.com/economy/indian-businesses-move-from-ai-pilots-to-full-scale-deployment-says-oracle-india-head/article71677642.ece",
+      "source": "The Hindu - Business Line",
+      "sourceType": "external",
+      "image": "https://bl-i.thgim.com/public/incoming/olzvaz/article71677833.ece/alternates/LANDSCAPE_1200/IMG_Shailender_Kumar_Ora_2_1_Q4CDIAQ4.jpg",
+      "publishedAt": "2026-11-07T09:18:25.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "economy"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "bbf82399466a32bd",
+      "slug": "astera-labs-just-crushed-earnings-so-why-are-analysts-cutting-price-targets-9bebdd",
+      "title": "Astera Labs Just Crushed Earnings—So Why Are Analysts Cutting Price Targets?",
+      "dek": "Astera Labs posted Q3 revenue up 153.6% and strong EPS growth, beating estimates, while analysts trimmed price targets but kept bullish ratings amid the stock's recent pullback.",
+      "url": "https://www.marketbeat.com/articles/astera-labs-just-crushed-earnings-so-why-are-analysts-cutting-price-targets/",
+      "source": "Market Beat",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/img/logos/articles/20261106174056_image.png?s=large",
+      "publishedAt": "2026-11-07T09:15:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "nasdaq:alab"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "79688f8de95b2e84",
+      "slug": "india-on-right-track-in-ai-firms-moving-from-pilots-to-production-oracle-s-shailender-ku-3f748d",
+      "title": "India on right track in AI; firms moving from pilots to production: Oracle's Shailender Kumar",
+      "dek": "Oracle India head Shailender Kumar says: Indian businesses have moved from AI pilots to full-scale deployment despite hurdles like cost and infrastructure.",
+      "url": "https://www.deccanherald.com/technology/artificial-intelligence/india-on-right-track-in-ai-firms-moving-from-pilots-to-production-oracles-shailender-kumar-4211102",
+      "source": "Deccan Herald",
+      "sourceType": "external",
+      "image": "https://media.assettype.com/deccanherald/2025-09-22/bx2dg1mm/iStock-1261350454.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+      "publishedAt": "2026-11-07T09:00:51.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "ai"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "9fc455ca423d99eb",
+      "slug": "bloomberg-reports-microsoft-is-winding-down-oracle-ai-cloud-use-after-deal-nonrenewal-d8f47e",
+      "title": "Bloomberg Reports Microsoft Is Winding Down Oracle AI Cloud Use After Deal Nonrenewal.",
+      "dek": "Oracle said the multi-year arrangement supported Bing conversational searches, but disclosed no financial terms or capacity figure.",
+      "url": "https://econotimes.com/Bloomberg-Reports-Microsoft-Is-Winding-Down-Oracle-AI-Cloud-Use-After-Deal-Nonrenewal-1772570",
+      "source": "Econotimes",
+      "sourceType": "external",
+      "image": "https://wfuxxvxhdynkhcrlavdu.supabase.co/storage/v1/object/public/article-media/articles/c0472a08604b7f02f812363dc2755f214ba58b727888cc62751ec4f3bed3abd5.webp",
+      "publishedAt": "2026-11-07T08:57:44.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "bing",
+        "ai revolution series",
+        "microsoft",
+        "oracle",
+        "ai cloud"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "fae3d05bc387178b",
+      "slug": "nsdl-database-management-appoints-akshay-hartalkar-to-lead-technology-fd30a3",
+      "title": "NSDL Database Management appoints Akshay Hartalkar to lead technology",
+      "dek": "NSDL Database Management Appoints Akshay Hartalkar as CTO, bringing 27 years of technology leadership to platforms serving finance, capital markets and e-governance.",
+      "url": "https://www.dqchannels.com/news/nsdl-database-management-appoints-akshay-hartalkar-for-technology-leadership-12789510",
       "source": "Dqc",
       "sourceType": "external",
-      "image": "https://img-cdn.publive.online/dqc/media/media_files/2026/11/06/broken-ai-deal-us-china-tech-rift-2026-11-06-15-44-00.png",
-      "publishedAt": "2026-11-06T10:14:58.000Z",
+      "image": "https://img-cdn.publive.online/dqc/media/media_files/2026/11/07/professional-portrait-with-blue-wave-backdrop-2026-11-07-13-54-02.png",
+      "publishedAt": "2026-11-07T08:24:59.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "akshay hartalkar",
+        "nsdl database",
+        "cto appointment",
+        "akshay hartalkar nsdl",
+        "ndml new cto"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "9ff9cee511fd629f",
+      "slug": "india-on-right-track-in-ai-firms-moving-from-pilots-to-production-oracles-kumar-29c1b4",
+      "title": "India on right track in AI; firms moving from pilots to production: Oracles Kumar",
+      "dek": "India on right track in AI; firms moving from pilots to production: Oracle's Kumar",
+      "url": "https://www.livemint.com/technology/india-on-right-track-in-ai-firms-moving-from-pilots-to-production-oracles-kumar-11794038633340.html",
+      "source": "Mint",
+      "sourceType": "external",
+      "image": "https://www.livemint.com/lm-img/img/2024/12/18/1600x900/logo/tech1_1734536428801_1734536438047.jpg",
+      "publishedAt": "2026-11-07T08:03:52.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "tencent",
-        "oracle"
+        "artificial intelligence",
+        "indian businesses",
+        "ai deployment",
+        "oracle india",
+        "ai adoption in india"
       ],
-      "priority": 42
+      "priority": 40
+    },
+    {
+      "id": "20191f243ebc8da0",
+      "slug": "oracle-s-ai-capacity-test-extends-beyond-one-microsoft-contract-d4b7e2",
+      "title": "Oracle’s AI Capacity Test Extends Beyond One Microsoft Contract",
+      "dek": "Oracle’s growth targets assume a major expansion in demand, but a recent customer decision has put a more immediate question in focus: whether the company can keep its AI computing capacity in use as customers’ technical needs change. At its investor day on October 28, Oracle set a target of at leas",
+      "url": "https://www.newscase.com/oracles-ai-capacity-test-extends-beyond-one-microsoft-contract/",
+      "source": "Newscase",
+      "sourceType": "external",
+      "image": "https://www.newscase.com/wp-content/uploads/ai-imgs/US68389X1054-2026-11-07-07-34-09.png",
+      "publishedAt": "2026-11-07T07:34:07.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "oracle",
+        "tech &amp; software",
+        "analysis",
+        "ai &amp; quantum computing"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "37ddd50de1d4a5b8",
+      "slug": "priority-buys-fireberry-to-bring-ai-crm-into-its-erp-stack-792a3e",
+      "title": "Priority buys Fireberry to bring AI CRM into its ERP stack",
+      "dek": "Priority's Fireberry deal adds AI CRM and marketing automation to cloud ERP, but the integration roadmap and deal price remain undisclosed.",
+      "url": "https://www.contentgrip.com/priority-fireberry-crm-deal/",
+      "source": "Contentgrip",
+      "sourceType": "external",
+      "image": "https://contentgrip-media.b-cdn.net/featured/Priority-buys-Fireberry-to-expand-CRM-automation.webp",
+      "publishedAt": "2026-11-07T07:15:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "martech"
+      ],
+      "priority": 40
     },
     {
       "id": "f259923571e9c621",
@@ -157,185 +315,7 @@
         "Java",
         "AI"
       ],
-      "priority": 42
-    },
-    {
-      "id": "9760e085ddb9f36c",
-      "slug": "tessell-agents-for-gemini-bring-agentic-database-lifecycle-management-to-enterprise-data-0ba777",
-      "title": "Tessell Agents for Gemini Bring Agentic Database Lifecycle Management to Enterprise Databases on Google Cloud",
-      "dek": "Tessell launches three specialized agents built with Gemini, opening a conversational “front door” for automated operations, governance, and cloud migration for heavy enterprise database workloads. Tessell, one of the leading multi-cloud database-as-a-service (DBaaS) providers, has announced the lau",
-      "url": "https://cioinfluence.com/machine-learning/tessell-agents-for-gemini-bring-agentic-database-lifecycle-management-to-enterprise-databases-on-google-cloud/",
-      "source": "Cio Influence",
-      "sourceType": "external",
-      "image": "https://cioinfluence.com/wp-content/uploads/2026/11/7xm-3.jpg",
-      "publishedAt": "2026-11-06T09:48:52.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "google cloud",
-        "tessell",
-        "agentic database lifecycle management",
-        "site reliability engineers (sres)",
-        "cloud",
-        "cio influence news"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "d1b192554fb070f9",
-      "slug": "vault-fork-openbao-adds-external-keys-and-quantum-ready-tls-475968",
-      "title": "Vault Fork OpenBao Adds External Keys and Quantum-Ready TLS",
-      "dek": "OpenBao has released version 2.7, adding read scaling for PostgreSQL-backed deployments, support for external hardware security module (HSM) and key management service (KMS) keys, and post-quantum cryptographic algorithms. The release also introduces control groups for human review of sensitive oper",
-      "url": "https://www.infoq.com/news/2026/11/vault-fork-openbao-27/",
-      "source": "Information Queue",
-      "sourceType": "external",
-      "image": "https://res.infoq.com/news/2026/11/vault-fork-openbao-27/en/headerimage/generatedHeaderImage-1793734932785.jpg",
-      "publishedAt": "2026-11-06T09:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "news",
-        "devops",
-        "cloud security",
-        "hashicorp"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "65878774fc75f0ff",
-      "slug": "connected-logistics-market-forecast-at-usd-145-00-billion-by-2035-signals-demand-for-act-aeb26a",
-      "title": "Connected Logistics Market Forecast at USD 145.00 Billion by 2035 Signals Demand for Actionable Supply Chain Data",
-      "dek": "As per SNS Insider, Connected Logistics Market was valued at USD 40.00 billion in 2025 and is projected to reach USD 145.00 billion by 2035, growing at a CAGR of 13.75% over 2026-2035, according to SNS Insider. Connected logistics combines",
-      "url": "https://www.openpr.com/news/4683673/connected-logistics-market-forecast-at-usd-145-00-billion",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/b/Lb06271050_k.jpg",
-      "publishedAt": "2026-11-06T08:23:27.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "logistics & transport"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "c60f233181bdae54",
-      "slug": "quality-management-software-qms-market-to-reach-usd-29-89-billion-by-2034-as-compliance--4a941c",
-      "title": "Quality Management Software (Qms) Market to Reach USD 29.89 Billion by 2034 as Compliance, Cloud, and AI Reshape Quality Control",
-      "dek": "Quality Management Software (Qms) Market size was valued at USD 12.21 billion in 2025 and is projected to reach USD 29.89 billion by 2034, registering [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/11/06/1780866",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/polaris-3-1024x1024.png",
-      "publishedAt": "2026-11-06T07:05:08.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "quality management software (qms) market",
-        "technology"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "0e2c99708aed34ea",
-      "slug": "precision-medicine-software-market-to-reach-us-6-61-billion-by-2035-precision-medicine-s-aaf5db",
-      "title": "Precision Medicine Software Market to Reach US$6.61 Billion by 2035 | Precision Medicine Software Market Enters a New Phase as AI Clinical Decision Support Connects Genomic Insights With Treatment",
-      "dek": "The global precision medicine software market is becoming an increasingly important part of healthcare technology as providers move toward treatment decisions informed by individual genomic, molecular and clinical data. These platforms help healthcare organizations combine information from electroni",
-      "url": "https://www.openpr.com/news/4683631/precision-medicine-software-market-to-reach-us-6-61-billion",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/b/Lb06589179_k.jpg",
-      "publishedAt": "2026-11-06T07:00:23.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "health & medicine"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "1e148956523a775b",
-      "slug": "database-management-platform-market-size-projected-to-reach-usd-2-377-million-by-2032-at-7ae408",
-      "title": "Database Management Platform Market Size Projected to Reach USD 2,377 Million by 2032 at 7.5% CAGR",
-      "dek": "According to QY Research has released its latest industry-focused analysis titled Global Database Management Platform Market Insights - Industry Share, Sales Projections, and Demand Outlook 2026-2032. The study provides a structured perspective on changing market conditions, competitive developments",
-      "url": "https://www.openpr.com/news/4683609/database-management-platform-market-size-projected-to-reach-usd",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/b/Lb06250270_k.jpg",
-      "publishedAt": "2026-11-06T06:36:13.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "it",
-        "new media & software"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "430b19fc326b75df",
-      "slug": "how-to-build-a-crm-system-from-scratch-key-features-and-design-tips-63c4cd",
-      "title": "How to Build a CRM System from Scratch: Key Features and Design Tips",
-      "dek": "Learn how to build a CRM system from scratch with our step-by-step guide. Discover tools, features, and tips to create a custom CRM tailored to your business",
-      "url": "https://stfalcon.com/en/blog/post/how-to-build-a-custom-crm-system",
-      "source": "Stfalcon Studio Llc",
-      "sourceType": "external",
-      "image": "https://storage.stfalcon.com/uploads/images/81a08409a6df0391a6bcd300a1acbe13.webp",
-      "publishedAt": "2026-11-06T05:30:06.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "business-development",
-        "crm"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "7a8922005170c7db",
-      "slug": "ncr-voyix-nyse-vyx-versus-oracle-nyse-orcl-financial-contrast-54ef2b",
-      "title": "NCR Voyix (NYSE:VYX) versus Oracle (NYSE:ORCL) Financial Contrast",
-      "dek": "Oracle (NYSE:ORCL – Get Free Report) and NCR Voyix (NYSE:VYX – Get Free Report) are both technology companies, but which is the superior stock? We will compare the two companies based on the strength of their earnings, risk, institutional ownership, profitability, analyst recommendations, valuation ",
-      "url": "https://baseballnewssource.com/2026/11/06/ncr-voyix-nysevyx-versus-oracle-nyseorcl-financial-contrast/11335715.html",
-      "source": "Bbns",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/ncr-voyix-corporation-logo-1200x675.jpg?v=20231019063148",
-      "publishedAt": "2026-11-06T05:15:18.000Z",
-      "topic": "Security",
-      "tags": [
-        "markets",
-        "comparison articles"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "99db9dbb82ad4eaf",
-      "slug": "head-to-head-review-ncr-voyix-nyse-vyx-versus-oracle-nyse-orcl-3f3bd6",
-      "title": "Head-To-Head Review: NCR Voyix (NYSE:VYX) versus Oracle (NYSE:ORCL)",
-      "dek": "Oracle (NYSE:ORCL – Get Free Report) and NCR Voyix (NYSE:VYX – Get Free Report) are both technology companies, but which is the superior business? We will contrast the two businesses based on the strength of their analyst recommendations, earnings, institutional ownership, valuation, dividends, risk",
-      "url": "https://www.thelincolnianonline.com/2026/11/06/head-to-head-review-ncr-voyix-nysevyx-versus-oracle-nyseorcl.html",
-      "source": "The Lincolnian Online",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/ncr-voyix-corporation-logo-1200x675.jpg?v=20231019063148",
-      "publishedAt": "2026-11-06T05:15:10.000Z",
-      "topic": "Security",
-      "tags": [
-        "comparison articles",
-        "stocks"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "9db9c7b33113d409",
-      "slug": "oracle-vs-alphabet-which-is-the-better-ai-cloud-stock-to-own-for-the-next-5-years-fcfee2",
-      "title": "Oracle vs. Alphabet: Which Is the Better AI Cloud Stock to Own for the Next 5 Years?",
-      "dek": "Both companies are in the middle of an AI spending spree, but Alphabet's prominent position in cloud computing gives it the edge.",
-      "url": "https://www.fool.com/investing/2026/11/06/oracle-vs-alphabet-which-is-the-better-ai-cloud-st/",
-      "source": "Fool",
-      "sourceType": "external",
-      "image": "https://g.foolcdn.com/editorial/images/892832/getty-thinking-deliberating-wondering-questioning-doubting-pondering-1200x800-5b2df79.jpg",
-      "publishedAt": "2026-11-06T05:00:00.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "googl",
-        "investing",
-        "goog",
-        "e7cda3e5-fe28-4a0a-a4e3-026e67e5c918",
-        "technology and telecom",
-        "orcl"
-      ],
-      "priority": 38
+      "priority": 36
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1991,6 +1971,24 @@
       "topic": "Oracle Cloud",
       "tags": [
         "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ec54bf5b81f570ed",
+      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
+      "title": "Oracle Cloud Infrastructure Registry",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-11T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "OCI",
+        "Oracle Cloud Infrastructure"
       ],
       "priority": 36
     }
