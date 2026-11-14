@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T01:15:17.008Z",
+  "generatedAt": "2026-11-14T00:56:02.331Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -39,323 +39,321 @@
       "priority": 46
     },
     {
-      "id": "2339d87533d0f5b3",
-      "slug": "global-ai-stocks-sink-as-nvidia-ceo-s-exit-deepens-sector-concerns-ec71a8",
-      "title": "Global AI stocks sink as Nvidia CEO's exit deepens sector concerns",
-      "dek": "As the centrepiece of the AI ecosystem, Nvidia finances infrastructure built around its chips - a strategy that has drawn scrutiny over circular funding and now risks weighing on the sector as its crisis deepens.",
-      "url": "https://www.channelnewsasia.com/business/ai-stocks-nvidia-global-market-6546411",
-      "source": "Channel Newsasia",
+      "id": "80523c123c40c359",
+      "slug": "cerebras-secures-microsoft-as-a-customer-acd485",
+      "title": "Cerebras secures Microsoft as a customer",
+      "dek": "Wafer-scale chip and AI cloud company now has three hyperscalers in its books",
+      "url": "https://www.datacenterdynamics.com/en/news/cerebras-secures-microsoft-as-a-customer/",
+      "source": "Data Center Dynamics",
       "sourceType": "external",
-      "image": "https://dam.mediacorp.sg/image/upload/s--LnSleJk7--/c_crop,h_449,w_799,x_1,y_46/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-11-12T144254Z_1_LYNXNPEMAB1MH_RTROPTP_3_CERAWEEK-ENERGY.JPG?itok=xuol3R_c",
-      "publishedAt": "2026-11-12T13:15:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "business",
-        "world"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "b4ca0ef0ce477027",
-      "slug": "oncology-information-systems-market-to-reach-us-6-84-billion-by-2035-as-ai-powered-cance-b75a76",
-      "title": "Oncology Information Systems Market to Reach US$6.84 Billion by 2035 as AI-Powered Cancer Care Platforms and Precision Oncology Integration Advance",
-      "dek": "Market Size and Growth 2026 The Oncology Information Systems Market will reach US$ 3.20 billion in 2026, up from US$ 2.94 billion in 2025, and is projected to reach US$ 6.84 billion by 2035, registering strong growth at a CAGR of",
-      "url": "https://www.openpr.com/news/4688727/oncology-information-systems-market-to-reach-us-6-84-billion",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/b/Lb12288952_k.jpg",
-      "publishedAt": "2026-11-12T12:52:03.000Z",
+      "image": "https://media.datacenterdynamics.com/media/images/Photo_16-03-2026_17_27_28.2e16d0ba.fill-750x500.jpg",
+      "publishedAt": "2026-11-13T12:37:09.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "health & medicine"
+        "microsoft",
+        "cerebras",
+        "bob kimon",
+        "q3 2026",
+        "andrew feldman"
       ],
       "priority": 43
     },
     {
-      "id": "71face1a4296cdd8",
-      "slug": "texas-wants-to-rethink-data-center-construction-here-s-the-ai-stock-most-exposed-361493",
-      "title": "Texas Wants to Rethink Data Center Construction. Here's the AI Stock Most Exposed.",
-      "dek": "Oracle's extensive presence in the Lone Star State puts it in the spotlight.",
-      "url": "https://www.fool.com/investing/2026/11/12/texas-rethink-data-center-construction-ai-stock/",
-      "source": "Fool",
+      "id": "273bb9924a3b3b31",
+      "slug": "sleeping-giant-airtel-payments-bank-may-list-in-3-to-4-years-says-sunil-mittal-e1544f",
+      "title": "Sleeping giant: Airtel Payments Bank may list in 3 to 4 years, says Sunil Mittal",
+      "dek": "Sunil Bharti Mittal, Chairman of Bharti Enterprises, which owns Airtel, believes the payments bank has the potential to emerge as a much larger financial services business, describing it as a \"sleeping giant\" with nearly 100 million customers and revenue approaching ₹4,000 crore.",
+      "url": "https://www.cnbctv18.com/market/exclusive-sunil-bharti-mittal-interview-airtel-payments-bank-ipo-ai-data-centres-satellite-starlink-acquisitions-20032171.htm",
+      "source": "Cnbctv18",
       "sourceType": "external",
-      "image": "https://g.foolcdn.com/editorial/images/893619/orcl.png",
-      "publishedAt": "2026-11-12T12:30:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "investing",
-        "f4f8624b-2d73-4ed6-b46a-f3e733a2a4f0",
-        "technology and telecom",
-        "orcl"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "8d98c0569c8c14ae",
-      "slug": "global-ai-spending-to-hit-4-05-trillion-in-2027-nvidia-microsoft-amazon-google-dell-orac-f48309",
-      "title": "Global AI Spending to Hit $4.05 Trillion in 2027: Nvidia, Microsoft, Amazon, Google, Dell, Oracle and IBM Set to Benefit",
-      "dek": "Global AI spending is forecast to surge 47.5 percent to $4.05 trillion in 2027, creating revenue growth opportunities for technology vendors",
-      "url": "https://infotechlead.com/artificial-intelligence/global-ai-spending-to-hit-4-05-trillion-in-2027-nvidia-microsoft-amazon-google-dell-oracle-and-ibm-set-to-benefit-99595",
-      "source": "Infotech Lead",
-      "sourceType": "external",
-      "image": "https://infotechlead.com/wp-content/uploads/2026/11/Global-AI-Spending-Forecast-and-Revenue-Opportunities-by-Technology-Segment.jpg",
-      "publishedAt": "2026-11-12T12:24:49.000Z",
+      "image": "https://images.cnbctv18.com/uploads/2026/11/airtel-payments-bank-2026-11-1abd192b76d04de2ea3f755a9ea3c036.jpg",
+      "publishedAt": "2026-11-13T12:30:08.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "ai",
-        "artificial intelligence",
-        "ai spending"
+        "business"
       ],
       "priority": 43
     },
     {
-      "id": "4732abbb41f462d4",
-      "slug": "java-security-flaws-surge-sevenfold-in-2026-but-attacks-against-them-don-t-follow-495fef",
-      "title": "Java security flaws surge sevenfold in 2026, but attacks against them don't follow",
-      "dek": "Waratek's first State of Java Exploits report finds 5,649 new Java CVEs this year; attackers have exploited 18. The CVE count says little about the danger.",
-      "url": "https://www.einpresswire.com/article/955804183/java-security-flaws-surge-sevenfold-in-2026-but-attacks-against-them-don-t-follow",
-      "source": "Ein Presswire",
+      "id": "099e9132f8a0f9ec",
+      "slug": "cerebras-stock-soars-about-16-in-extended-trading-on-earnings-beat-and-microsoft-deal-10cb38",
+      "title": "Cerebras stock soars about 16% in extended trading on earnings beat and Microsoft deal",
+      "dek": "Cerebras lifted its 2026 core revenue outlook to $940 million-$960 million and expects revenue to triple in 2027",
+      "url": "https://qz.com/cerebras-stock-earnings-beat-microsoft-deal-111326",
+      "source": "Quartz",
       "sourceType": "external",
-      "image": "https://img.einnews.com/medium/1246296/2026-java-exploits-chart.jpeg",
-      "publishedAt": "2026-11-12T11:45:00.000Z",
+      "image": "https://qz.com/cdn-cgi/image/width=600,quality=85,format=auto/https://assets.qz.com/media/GettyImages-2266437123.jpg",
+      "publishedAt": "2026-11-13T12:26:18.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "markets",
+        "money & markets"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "c4a7bc1ca45550a5",
+      "slug": "why-nvidia-shares-are-crashing-jensen-huang-exit-national-security-probe-and-market-fall-45aae7",
+      "title": "Why Nvidia shares are crashing: Jensen Huang exit, national security probe, and market fallout",
+      "dek": "Nvidia shares suffered a dramatic intraday sell-off, plunging as much as 14 percent after co-founder and longtime chief executive Jensen Huang resigned immediately amid extramarital affair revelations and a federal national security inquiry, wiping hundreds of billions of dollars off the chipmaker's",
+      "url": "https://me.mashable.com/tech/78271/why-nvidia-shares-are-crashing-jensen-huang-exit-national-security-probe-and-market-fallout",
+      "source": "Mashable Me",
+      "sourceType": "external",
+      "image": "https://sm.mashable.com/mashable_me/article/n/nvidia-sto/nvidia-stock-plunges-as-ceo-jensen-huang-resigns-how-low-it_6gds.jpg",
+      "publishedAt": "2026-11-13T12:13:17.000Z",
       "topic": "Security",
       "tags": [
-        "healthcare and pharmaceuticals industry",
-        "technology",
-        "united states",
-        "banking",
-        "retail",
-        "it industry"
+        "jensen huang",
+        "share",
+        "post",
+        "tech",
+        "stock market",
+        "nvidia"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "952aa499eb2b2cf5",
+      "slug": "softbank-s-ai-empire-rests-on-a-single-asset-and-it-s-over-leveraged-3fc38c",
+      "title": "SoftBank's AI Empire Rests on a Single Asset—And It's Over-Leveraged",
+      "dek": "SoftBank’s Arm stake secures loans that help fund its other AI bets, so a fall in Arm’s shares cuts both its portfolio value and its funding.",
+      "url": "https://analyticsindiamag.com/ai-features/softbanks-ai-empire-rests-on-a-single-assetand-its-over-leveraged",
+      "source": "Analytics India Magazine",
+      "sourceType": "external",
+      "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1767091690119-c8e56c3f-db82-41cf-80d0-ccad518d9cb3-lqaajj.webp",
+      "publishedAt": "2026-11-13T12:11:16.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "ai features"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "e74c8c4acbc3adc1",
+      "slug": "who-are-3-indian-origin-executives-who-could-possibly-replace-jensen-huang-as-nvidia-ceo-91396d",
+      "title": "Who are 3 Indian-origin executives who could possibly replace Jensen Huang as Nvidia CEO?",
+      "dek": "Three Indian-origin executives, Jay Puri, Nikesh Arora, and Thomas Kurian, are among the 11 names emerging in the race to succeed Jensen Huang as Nvidia CEO. With the chipmaker weighing internal and external candidates, could one of them take charge of the AI giant?",
+      "url": "https://www.firstpost.com/explainers/who-are-3-indian-origin-executives-who-could-possibly-replace-jensen-huang-as-nvidia-ceo-14059825.html",
+      "source": "Firstpost",
+      "sourceType": "external",
+      "image": "https://images.firstpost.com/uploads/2026/11/Untitled-Design-50-2026-11-3955e669bbbb91f48cc2bf666788074c-1200x675.jpg",
+      "publishedAt": "2026-11-13T12:02:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "world"
       ],
       "priority": 42
     },
     {
-      "id": "14d85b0e578022ed",
-      "slug": "smaller-ai-spending-forecasts-sold-out-computing-power-both-can-be-true-bc8e35",
-      "title": "Smaller AI Spending Forecasts, Sold-Out Computing Power: Both Can Be True",
-      "dek": "Wall Street analysts are trimming the trillion-dollar AI buildout, yet the companies renting out the chips say customers are lining up for years. Three earnings reports reveal why a smaller forecast may not mean weaker demand, and what could still break the story.",
-      "url": "https://247wallst.com/investing/2026/11/12/smaller-ai-spending-forecasts-sold-out-computing-power-both-can-be-true/",
-      "source": "24/7 Wall St",
+      "id": "3fdb1bdfcd722026",
+      "slug": "10-platforms-using-blockchain-to-secure-global-medicine-supply-chains-aa0915",
+      "title": "10 Platforms Using Blockchain to Secure Global Medicine Supply Chains",
+      "dek": "A medicine can change hands many times before reaching a patient. Manufacturers, contract manufacturers, logistics providers, wholesalers, hospitals and pharmacies may all maintain separate systems tracking the same package. That fragmentation creates opportunities for mistakes and counterfeit produ",
+      "url": "https://mpost.io/10-platforms-using-blockchain-to-secure-global-medicine-supply-chains/",
+      "source": "Metaverse Post",
       "sourceType": "external",
-      "image": "https://247wallst.com/wp-content/uploads/2026/11/smaller-ai-spending-forecasts-sold-out-computing-p-featured-1794481318415.webp",
-      "publishedAt": "2026-11-12T11:33:56.000Z",
+      "image": "https://mpost.io/wp-content/uploads/Image-for-News-7-2.jpg",
+      "publishedAt": "2026-11-13T11:13:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "artificial intelligence",
+        "medicine",
+        "top lists",
+        "ai",
+        "top 10",
+        "featured"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "00dab2b5a71e68ec",
+      "slug": "a-10-stock-strategy-that-balances-ai-growth-with-cash-flow-587020",
+      "title": "A 10-Stock Strategy That Balances AI Growth With Cash Flow",
+      "dek": "This portfolio pairs AI execution-phase leaders like NVIDIA, AMD, Micron, and Oracle with cash-flow stalwarts Kroger, PepsiCo, and Casey's to target long-term compound growth.",
+      "url": "https://www.marketbeat.com/articles/a-10-stock-strategy-that-balances-ai-growth-with-cash-flow/",
+      "source": "Market Beat",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/img/logos/articles/20260420083506_image.jpeg?s=large",
+      "publishedAt": "2026-11-13T11:05:00.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "investing"
+        "nasdaq:nvda"
       ],
       "priority": 42
     },
     {
-      "id": "fdc37614a33efac0",
-      "slug": "oracle-corporation-orcl-stock-acquired-by-maryland-state-retirement-pension-system-be05c9",
-      "title": "Oracle Corporation $ORCL Stock Acquired by Maryland State Retirement & Pension System",
-      "dek": "Maryland State Retirement & Pension System raised its stake in shares of Oracle Corporation (NYSE:ORCL - Free Report) by 13.3% in the third quarter, according to its most recent 13F filing with the SEC. The fund owned 104,816 shares of the enterprise software provider's stock after purchasing an add",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-oracle-corporation-orcl-stock-acquired-by-maryland-state-retirement-pension-system-2026-11-12/",
+      "id": "e500c99dc001e7c8",
+      "slug": "something-for-the-weekend-goodbye-mr-chips-does-jensen-huang-s-downfall-prove-there-are--95412a",
+      "title": "Something for the Weekend - Goodbye Mr Chips! Does Jensen Huang’s downfall prove there are no longer enterprise tech CEOs too big to fail?",
+      "dek": "Jensen Huang's fall from grace has been driven by outside events. Other charismatic CEOs over the years have planned for the moment of their departure.",
+      "url": "https://diginomica.com/something-weekend-goodbye-mr-chips-does-jensen-huangs-downfall-prove-there-are-no-longer-enterprise",
+      "source": "Diginomica",
+      "sourceType": "external",
+      "image": "https://diginomica.com/sites/default/files/images/2026-11/Screenshot%202026-11-13%20at%2010.54.20.png",
+      "publishedAt": "2026-11-13T10:56:31.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "talent management",
+        "audio"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "0452dad30f04eb5d",
+      "slug": "interview-stephen-cope-cio-astrak-4ff9d1",
+      "title": "Interview: Stephen Cope, CIO, Astrak",
+      "dek": "Computer Weekly sits down with machinery parts supplier Astrak’s IT chief at SuiteWorld to discuss AI, ERP and how gamification improves tech adoption",
+      "url": "https://www.computerweekly.com/news/366653692/Interview-Stephen-Cope-CIO-Astrak",
+      "source": "Computerweekly News",
+      "sourceType": "external",
+      "image": "https://cdn.ttgtmedia.com/visuals/LeMagIT/hero_article/ERP-Industrie.jpg",
+      "publishedAt": "2026-11-13T10:35:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "AI"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "962492dad40841f4",
+      "slug": "smm-rental-panel-how-to-start-smm-panel-business-in-2026-1c10b8",
+      "title": "SMM Rental Panel : How to Start SMM Panel Business in 2026",
+      "dek": "The social media marketing industry continues to create opportunities for digital entrepreneurs, freelancers, resellers, and online business owners. As businesses and content creators increasingly focus on their online presence, the demand for social media marketing solutions has encouraged more peo",
+      "url": "https://www.openpr.com/news/4689321/smm-rental-panel-how-to-start-smm-panel-business-in-2026",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/b/Lb13820188_k.jpg",
+      "publishedAt": "2026-11-13T10:09:20.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "it",
+        "new media & software"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "00aa8151227de0a7",
+      "slug": "409-531-oracle-corporation-orcl-shares-acquired-by-fisher-asset-management-llc-3c1547",
+      "title": "409,531 Oracle Corporation $ORCL Shares Acquired by Fisher Asset Management LLC",
+      "dek": "Fisher Asset Management LLC raised its stake in Oracle Corporation (NYSE:ORCL - Free Report) by 3.1% during the third quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The fund owned 13,670,982 shares of the enterprise software provider's stock after buy",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-409531-oracle-corporation-orcl-shares-acquired-by-fisher-asset-management-llc-2026-11-13/",
       "source": "Market Beat",
       "sourceType": "external",
       "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-11-12T11:12:57.000Z",
+      "publishedAt": "2026-11-13T09:28:49.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "instant alerts",
         "nyse:orcl",
         "sec filing",
-        "oracle"
+        "oracle",
+        "instant alerts"
       ],
-      "priority": 42
+      "priority": 40
     },
     {
-      "id": "7720c255602f956a",
-      "slug": "a-solidity-audit-graph-that-shows-its-gaps-instead-of-hiding-them-21a81d",
-      "title": "A Solidity audit graph that shows its gaps instead of hiding them",
-      "dek": "** A LABOUR OF LOVE Most smart contract audit tooling answers one question: \"what's wrong?\" The trouble is that it can answer with confidence it hasn't earned. A clean scan gets read as \"safe\", and a long list of detector hits buries the three things that matter. I came to AI security from Web3 audi",
-      "url": "https://dev.to/rickdevops87/a-solidity-audit-graph-that-shows-its-gaps-instead-of-hiding-them-3421",
-      "source": "Dev Community",
+      "id": "6a0b7b856fc59d8e",
+      "slug": "oracle-corporation-orcl-holdings-increased-by-eurizon-capital-sgr-s-p-a-d12453",
+      "title": "Oracle Corporation $ORCL Holdings Increased by Eurizon Capital SGR S.p.A.",
+      "dek": "Eurizon Capital SGR S.p.A. raised its position in Oracle Corporation (NYSE:ORCL – Free Report) by 57.8% in the 3rd quarter, according to the company in its most recent filing with the Securities and Exchange Commission (SEC). The firm owned 1,340,154 shares of the enterprise software provider’s stoc",
+      "url": "https://www.tickerreport.com/banking-finance/13662112/oracle-corporation-orcl-holdings-increased-by-eurizon-capital-sgr-s-p-a.html",
+      "source": "Ticker Report",
       "sourceType": "external",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fc470iyysq48kqh1g82up.png",
-      "publishedAt": "2026-11-12T10:58:18.000Z",
-      "topic": "Security",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-11-13T09:13:58.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "ai",
-        "ethereum",
-        "security",
-        "blockchain"
+        "sec filing articles",
+        "banking"
       ],
-      "priority": 41
+      "priority": 40
     },
     {
-      "id": "eea19e57dfe03bd1",
-      "slug": "iot-aiot-embedded-camera-modules-market-to-reach-usd-5-147-million-by-2032-driven-by-edg-ae6ea0",
-      "title": "IoT / AIoT Embedded Camera Modules Market to Reach USD 5,147 Million by 2032, Driven by Edge AI, Robotics and Smart Vision Demand",
-      "dek": "LOS ANGELES, United States : According to QY Research, the latest Global IoT / AIoT Embedded Camera Modules Market Research Report 2026-2032 provides an in-depth assessment of market development, product and technology evolution, competitive positioning, customer demand, regional opportunities and",
-      "url": "https://www.openpr.com/news/4688562/iot-aiot-embedded-camera-modules-market-to-reach-usd-5-147",
-      "source": "Openpr.com",
+      "id": "3c6524f4dbb96e4a",
+      "slug": "oracle-corporation-orcl-stock-acquired-by-eurizon-capital-sgr-s-p-a-19d5fc",
+      "title": "Oracle Corporation $ORCL Stock Acquired by Eurizon Capital SGR S.p.A.",
+      "dek": "Eurizon Capital SGR S.p.A. raised its holdings in Oracle Corporation (NYSE:ORCL – Free Report) by 57.8% in the third quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC). The firm owned 1,340,154 shares of the enterprise software provider’s stock after p",
+      "url": "https://www.dailypolitical.com/2026/11/13/oracle-corporation-orcl-stock-acquired-by-eurizon-capital-sgr-s-p-a.html",
+      "source": "Daily Political",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/b/Lb12797342_k.jpg",
-      "publishedAt": "2026-11-12T10:53:21.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-11-13T09:13:45.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "banking & insurance",
-        "business",
-        "finances",
-        "economy"
+        "sec filing articles",
+        "finance"
       ],
-      "priority": 41
+      "priority": 40
     },
     {
-      "id": "f498ac1e451def77",
-      "slug": "amd-showcases-6th-gen-amd-epyc-processors-to-lead-next-era-of-ai-and-enterprise-computin-c42e85",
-      "title": "AMD Showcases 6th Gen AMD EPYC Processors to Lead Next Era of AI and Enterprise Computing",
-      "dek": "AMD today announced the general availability of the 6th Gen AMD EPYC™ server SP7 processors, based on the new “Zen 6” architecture, extending its historical server CPU performance leadership as… The post AMD Showcases 6th Gen AMD EPYC Processors to Lead Next Era of AI and Enterprise Computing appear",
-      "url": "https://www.cioandleader.com/amd-showcases-6th-gen-amd-epyc-processors-to-lead-next-era-of-ai-and-enterprise-computing/",
-      "source": "Cio&leader",
-      "sourceType": "external",
-      "image": "https://www.cioandleader.com/wp-content/uploads/2024/10/digital-cloud-data-storage-digital-concept-cloudscape-digital-online-service-global-network-database-backup-computer-infrastructure-technology-solution-scaled.jpg",
-      "publishedAt": "2026-11-12T10:28:19.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "amd",
-        "press release"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "4c6554278df1c3bc",
-      "slug": "top-10-best-business-banking-apps-in-india-in-2027-96b577",
-      "title": "Top 10 Best Business Banking Apps In India In 2027",
-      "dek": "Top 10 Best Business Banking Apps in India in 2027 Business banking in India has evolved rapidly with digital platforms becoming central to how companies of all sizes manage daily operations, payments, collections, compliance and growth. Mobile applications now handle everything from fund transfers ",
-      "url": "https://www.inventiva.co.in/trends/top-10-best-business-banking-apps-in-india-in-2027/",
+      "id": "475b0615c053f5d8",
+      "slug": "top-10-best-cash-flow-management-software-in-india-in-2027-53b13e",
+      "title": "Top 10 Best Cash Flow Management Software In India In 2027",
+      "dek": "Top 10 Best Cash Flow Management Software in India in 2027 Cash flow management is an important part of running a financially stable business. Whether it is a small business, startup, manufacturing company, retail enterprise or large corporation, maintaining a clear picture of money coming into and ",
+      "url": "https://www.inventiva.co.in/trends/top-10-best-cash-flow-management-software-in-india-in-2027/",
       "source": "Inventiva",
       "sourceType": "external",
-      "image": "https://www.inventiva.co.in/wp-content/uploads/2024/12/Inventiva-5.jpg",
-      "publishedAt": "2026-11-12T09:02:11.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://www.inventiva.co.in/wp-content/uploads/2023/07/Inventiva-4.jpg",
+      "publishedAt": "2026-11-13T08:30:52.000Z",
+      "topic": "Business & Earnings",
       "tags": [
         "trends"
       ],
       "priority": 40
     },
     {
-      "id": "88ad4b4d0736fea2",
-      "slug": "agentic-ai-is-setting-a-new-direction-for-the-asset-management-market-d55c1c",
-      "title": "Agentic AI Is Setting a New Direction for the Asset Management Market",
-      "dek": "The global asset management market was valued at USD 458.0 billion in 2023 and is projected to grow from USD 956.8 billion in 2026 to [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/11/12/1781991",
-      "source": "Express-press-release",
+      "id": "06f524f77364763f",
+      "slug": "build-a-data-analytics-pipeline-with-python-sql-and-power-bi-csv-to-dashboard-e8d977",
+      "title": "Build a Data Analytics Pipeline with Python, SQL and Power BI (CSV to Dashboard)",
+      "dek": "A data analytics pipeline with Python, SQL and Power BI works in three hand-offs: Python (pandas) cleans the raw file, a SQL database such as MySQL stores the clean rows and does the heavy aggregation, and Power BI connects to that database to show the results as a dashboard that refreshes itself. O",
+      "url": "https://dev.to/solitaireinfosystems2011/build-a-data-analytics-pipeline-with-python-sql-and-power-bi-csv-to-dashboard-1do0",
+      "source": "Dev Community",
       "sourceType": "external",
-      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
-      "publishedAt": "2026-11-12T08:05:30.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fashry0gc9js9niuhvwg2.jpeg",
+      "publishedAt": "2026-11-13T07:59:49.000Z",
+      "topic": "AI & Database",
       "tags": [
-        "asset management market",
-        "internet & online"
+        "dataengineering",
+        "powerbi",
+        "sql",
+        "python"
       ],
       "priority": 39
     },
     {
-      "id": "1fe3c6e14764ca36",
-      "slug": "days-after-donating-10-million-to-nashville-symphony-larry-ellison-s-oracle-breaks-groun-73a810",
-      "title": "Days after donating $10 million to Nashville Symphony, Larry Ellison’s Oracle breaks ground on new 78-acre headquarters in Tennessee; aims to create thousands of high-quality jobs",
-      "dek": "Oracle has begun constructing its global headquarters in Nashville, planning to invest significantly in public infrastructure. The development will enhance the city's technology and healthcare sectors while providing new public spaces. Additionally, Oracle pledged $10 million to support the Nashvill",
-      "url": "https://timesofindia.indiatimes.com/technology/tech-news/days-after-donating-10-million-to-nashville-symphony-larry-ellisons-oracle-breaks-ground-on-new-78-acre-headquarters-in-tennessee-aims-to-create-thousands-of-high-quality-jobs/articleshow/135760414.cms",
-      "source": "The Times Of India",
+      "id": "909971642400f4f0",
+      "slug": "bare-metal-cloud-market-to-reach-us-149-70-billion-by-2035-as-ai-workloads-and-gpu-accel-e701f6",
+      "title": "Bare Metal Cloud Market to Reach US$149.70 Billion by 2035 as AI Workloads and GPU-Accelerated Dedicated Infrastructure Expand",
+      "dek": "Market Size and Growth 2026 The global Bare Metal Cloud market was valued at US$11.62 billion in 2025 and is projected to reach US$ 149.70 billion by 2035, growing at a CAGR of 24.7% due to rising AI, machine learning, and",
+      "url": "https://www.openpr.com/news/4689179/bare-metal-cloud-market-to-reach-us-149-70-billion-by-2035-as-ai",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-135760475/135760475.jpg",
-      "publishedAt": "2026-11-12T07:42:46.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://cdn.open-pr.com/L/b/Lb13490188_k.jpg",
+      "publishedAt": "2026-11-13T07:20:12.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "nashville",
-        "oracle",
-        "mike sicilia",
-        "trinity community commons",
-        "larry ellison",
-        "nashville symphony"
+        "it",
+        "new media & software"
       ],
       "priority": 39
     },
     {
-      "id": "bf74efa5ecae739f",
-      "slug": "6th-gen-epyc-cpu-amd-s-new-push-into-ai-infrastructure-641132",
-      "title": "6th Gen EPYC CPU: AMD's New Push into AI Infrastructure",
-      "dek": "AMD's 6th Gen EPYC CPU brings Zen 6 architecture, AI workload optimisation and rack-scale computing to enterprise servers, Azure and OCI cloud infrastructure.",
-      "url": "https://www.dqchannels.com/news/6th-gen-epyc-cpu-takes-amd-beyond-traditional-servers-12803041",
-      "source": "Dqc",
+      "id": "3a486a3db66d17c4",
+      "slug": "anthropic-launches-claude-for-manufacturing-with-17-specialized-skills-ac1456",
+      "title": "Anthropic Launches Claude for Manufacturing with 17 Specialized Skills",
+      "dek": "Anthropic introduces Claude for Manufacturing, an AI plugin with 17 skills and 4 system connectors to streamline manufacturing tasks. (Read More)",
+      "url": "https://blockchain.news/news/anthropic-launches-claude-for-manufacturing",
+      "source": "Blockchain News",
       "sourceType": "external",
-      "image": "https://img-cdn.publive.online/dqc/media/media_files/2026/11/12/epyc-6th-gen-ai-data-center-2026-11-12-12-28-27.png",
-      "publishedAt": "2026-11-12T06:58:36.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "amd"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "2090c3cb5516fb27",
-      "slug": "location-analytics-market-to-reach-usd-97-20-billion-by-2034-at-a-14-5-cagr-as-smart-cit-36fdc7",
-      "title": "Location Analytics Market to Reach USD 97.20 Billion by 2034 at a 14.5% CAGR as Smart Cities, IoT, and Retail Intelligence Redraw the Map",
-      "dek": "The location analytics market is expanding as businesses and governments turn geographic data into everyday decisions. Polaris Market Research valued it at USD 28.84 billion [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/11/12/1781959",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/logo-2.png",
-      "publishedAt": "2026-11-12T06:19:17.000Z",
+      "image": "https://image.blockchain.news/features/74BD20FE1F814ADCB74BF46CC91B1D6D7BFC98CB2A41B2463E8E46D4AA01567A.jpg",
+      "publishedAt": "2026-11-13T03:22:10.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "healthcare",
-        "location analytics market"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "923bd10bd495ecbc",
-      "slug": "amd-launches-6th-gen-epyc-processors-to-power-agentic-ai-and-enterprise-data-centres-d6a5ec",
-      "title": "AMD Launches 6th Gen EPYC Processors to Power Agentic AI and Enterprise Data Centres",
-      "dek": "Built on the Zen 6 architecture, the new server CPU portfolio targets AI agent workloads, cloud services and high-performance computing, with systems now shipping from leading server manufacturers. AMD has announced the general availability of its 6th Gen EPYC server processors, based on the new Zen",
-      "url": "https://enterpriseitworld.com/amd-launches-6th-gen-epyc-processors-to-power-agentic-ai-and-enterprise-data-centres/",
-      "source": "Enterprise It World",
-      "sourceType": "external",
-      "image": "https://enterpriseitworld.com/wp-content/uploads/2026/11/Dan-McNamara.png",
-      "publishedAt": "2026-11-12T05:47:06.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "AI"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "eae973eaf24abe4f",
-      "slug": "virtusa-ceo-admits-losing-money-on-ai-but-is-betting-the-house-on-chips-356a41",
-      "title": "Virtusa CEO Admits Losing Money on AI, But is Betting the House on Chips",
-      "dek": "Nitesh Banga says a Scrum team of 11 or 12 people could potentially be reconfigured into four human orchestrators working alongside seven or eight AI agents.",
-      "url": "https://analyticsindiamag.com/ai-features/virtusa-ceo-admits-losing-money-on-ai-but-is-betting-the-house-on-chips",
-      "source": "Analytics India Magazine",
-      "sourceType": "external",
-      "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1794462379790-rgyh8d.webp",
-      "publishedAt": "2026-11-12T05:46:29.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "ai features"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "5545f42e62f7913f",
-      "slug": "global-ai-stocks-sink-as-nvidia-ceo-exit-deepens-concerns-2e39e6",
-      "title": "Global AI Stocks Sink as Nvidia CEO Exit Deepens Concerns",
-      "dek": "Nvidia slips below 4 trillion market value Neoclouds CoreWeave, Nebius and some chip stocks fall AMD, Broadcom rise on hopes Nvidia upheaval could help rivals Nov 12 Reuters Global AIlinked stocks tumbled on Thursday as Nvidia CEO Jensen Huang resigned following a deepening scandal around his affair",
-      "url": "https://www.gurutrade.com/news/global-ai-stocks-sink-as-nvidia-ceo-exit-deepens-concerns-1794503158.html",
-      "source": "Gurutrade.com - Unique Platform For Traders",
-      "sourceType": "external",
-      "image": "https://www.gurutrade.com/files/imagemanager/3/b/3/3b3f5b28463ed3e96195f924658c9d69_e402d195416b3e84b4d05f3bd6341bf2.jpg",
-      "publishedAt": "2026-11-12T03:50:51.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "below",
-        "market",
-        "nebius",
-        "stocks",
-        "coreweave",
-        "nvidia"
+        "ai in manufacturing",
+        "news",
+        "automation",
+        "industrial ai",
+        "anthropic",
+        "claude for manufacturing"
       ],
       "priority": 37
     },
