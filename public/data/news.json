@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T23:59:52.035Z",
+  "generatedAt": "2026-11-16T00:03:51.958Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -39,175 +39,124 @@
       "priority": 46
     },
     {
-      "id": "d02d3796614bf40a",
-      "slug": "as-jensen-huang-leaves-nvidia-what-really-is-the-threat-to-the-ai-economy-64f9e5",
-      "title": "As Jensen Huang leaves Nvidia, what really is the threat to the AI economy?",
-      "dek": "His departure questions about the continuity of an ecosystem whose financial exposures have become increasingly interconnected. Nvidia’s investments in AI developers and financing arrangements place it at several points in this ecosystem",
-      "url": "https://indianexpress.com/article/opinion/columns/jensen-huang-leaves-nvidia-threat-to-ai-circular-economy-10963063/",
-      "source": "The Indian Express",
+      "id": "43b1ef366221ad42",
+      "slug": "data-center-diaspora-democrats-blue-wave-wins-could-send-ai-buildout-out-of-u-s-54167f",
+      "title": "Data center diaspora: Democrats’ blue wave wins could send AI buildout out of U.S.",
+      "dek": "Democrats’ sweeping wins and the approvals of local data center moratoriums and restrictions in the midterm elections are poised to embolden opponents of the artificial intelligence buildout across the U.S.",
+      "url": "https://www.apg-wi.com/rice_lake_chronotype/news/data-center-diaspora-democrats-blue-wave-wins-could-send-ai-buildout-out-of-u-s/article_a1498322-e32c-509d-b4bf-0e36c8e245c8.html",
+      "source": "Apg Of Wisconsin",
       "sourceType": "external",
-      "image": "https://images.indianexpress.com/2026/11/Nvidia-CEO-Jensen-Huang-reuters-file-photo_20260219001928_20261114113550.jpg",
-      "publishedAt": "2026-11-14T11:40:03.000Z",
-      "topic": "Security",
+      "image": "https://bloximages.chicago2.vip.townnews.com/apg-wi.com/content/tncms/assets/v3/editorial/4/6a/46a5087a-21e6-51f2-94c1-c862b91d7ab9/6af767b32fa6c.image.jpg?resize=300%2C200",
+      "publishedAt": "2026-11-15T12:00:00.000Z",
+      "topic": "Oracle Cloud",
       "tags": [
-        "opinion",
-        "columns"
+        "AI"
       ],
       "priority": 43
     },
     {
-      "id": "80daac4f302884e5",
-      "slug": "navicat-premium-18-on-linux-a-hands-on-review-with-postgres-sqlite-oracle-and-mysql-3456c4",
-      "title": "Navicat Premium 18 on Linux: a hands-on review with Postgres, SQLite, Oracle and MySQL",
-      "dek": "Disclosure: Navicat gave me free Premium access for this review and offered a one-year Premium subscription (about US$1,000) if I published. Navicat did not see or approve this text, and told me the review did not have to be positive. I tested Navicat Premium 18 (AppImage) on Ubuntu against four eng",
-      "url": "https://dev.to/derrickryangiggs/navicat-premium-18-on-linux-a-hands-on-review-with-postgres-sqlite-oracle-and-mysql-4a42",
-      "source": "Dev Community",
+      "id": "e3b284a02597b411",
+      "slug": "measure-ai-by-results-not-number-of-agents-deployed-oracle-s-natalia-rachelson-a4990e",
+      "title": "Measure AI by results, not number of agents deployed: Oracle’s Natalia Rachelson",
+      "dek": "Measure AI by outcomes, not agents; define measurable goals, baseline, and governance for meaningful, driven improvements.",
+      "url": "https://www.thehindubusinessline.com/info-tech/measure-ai-by-results-not-number-of-agents-deployed-oracles-natalia-rachelson/article71704334.ece",
+      "source": "The Hindu - Business Line",
       "sourceType": "external",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fuudi06nl9c9c4i8fbpla.png",
-      "publishedAt": "2026-11-14T11:29:56.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "mysql",
-        "database",
-        "navicat",
-        "postgres"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "29302d3cc3724fec",
-      "slug": "jensen-huang-s-exit-just-gave-amd-and-google-their-biggest-ai-opening-e0fb5c",
-      "title": "Jensen Huang’s Exit Just Gave AMD and Google Their Biggest AI Opening",
-      "dek": "On the same day that Jensen Huang resigned as NVIDIA’s chief executive after 33 years at the helm of the company he co-founded, another semiconductor company CE",
-      "url": "https://analyticsindiamag.com/global-tech/jensen-huangs-exit-just-gave-amd-and-google-their-biggest-ai-opening",
-      "source": "Analytics India Magazine",
-      "sourceType": "external",
-      "image": "https://zdpdvwhvukelzzbzbjvh.supabase.co/storage/v1/object/public/imported-images/1794654225910-svsa1.webp",
-      "publishedAt": "2026-11-14T11:03:55.000Z",
+      "image": "https://bl-i.thgim.com/public/incoming/vsk60/article71704463.ece/alternates/FREE_1200/Natalia.jpg",
+      "publishedAt": "2026-11-15T09:33:54.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "global tech"
+        "oracle",
+        "free articles"
       ],
-      "priority": 42
+      "priority": 41
     },
     {
-      "id": "f053001a5656c1ee",
-      "slug": "austere-systems-limited-announces-h1-fy27-results-a2c9bd",
-      "title": "Austere Systems Limited Announces H1 FY27 Results",
-      "dek": "Pune (Maharashtra) [India], November 14: Austere Systems Limited (BSE: AUSTERE), a technology solutions and services company enabling AI-led digital transformation, intelligent automation, e-Governance and enterprise technology solutions, has announced its unaudited standalone and consolidated finan",
-      "url": "https://www.business-standard.com/content/press-releases-ani/austere-systems-limited-announces-h1-fy27-results-126111400866_1.html",
+      "id": "81181120eaaf649e",
+      "slug": "measure-ai-by-results-not-number-of-agents-deployed-oracle-senior-executive-72febf",
+      "title": "Measure AI by results, not number of agents deployed: Oracle senior executive",
+      "dek": "Business leaders should pick an outcome they can measure, such as reducing the time spent resolving accounting errors or lowering transport costs, said, Natalia Rachelson, Senior Vice President, Applications Development, Oracle.",
+      "url": "https://yourstory.com/2026/11/measure-ai-results-not-number-agents-deployed-oracles-natalia-rachelson",
+      "source": "Yourstory",
+      "sourceType": "external",
+      "image": "https://images.yourstory.com/cs/286/07f6d7f0ed8e11ed819979969b4b51e2/AINEWS2-1790336707001.png",
+      "publishedAt": "2026-11-15T09:31:47.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "AI"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "37ce20d746a74aa1",
+      "slug": "measure-ai-by-results-not-number-of-agents-deployed-oracle-s-executive-9ebaee",
+      "title": "Measure AI by results, not number of agents deployed: Oracle's executive",
+      "dek": "Businesses adopting artificial intelligence (AI) should start with a measurable goal and judge success by the improvement it delivers rather than the number of AI agents deployed, as the technology moves from helping employees to doing work for them, a senior Oracle executive said. \"It's important t",
+      "url": "https://www.business-standard.com/world-news/measure-ai-by-results-not-number-of-agents-deployed-oracle-s-executive-126111500244_1.html",
       "source": "Business Standard",
       "sourceType": "external",
-      "image": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
-      "publishedAt": "2026-11-14T11:00:07.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261115/full-126111500244.jpg",
+      "publishedAt": "2026-11-15T08:09:37.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "press releases ani",
-        "content"
+        "world news"
       ],
-      "priority": 42
+      "priority": 40
     },
     {
-      "id": "f1bd9e2a7dda9861",
-      "slug": "remaining-3-n-s-health-zones-switch-to-one-person-one-record-today-2d5035",
-      "title": "Remaining 3 N.S. health zones switch to One Person One Record today",
-      "dek": "One Person One Record launched at the IWK Health Centre last December and in the central health zone in May. Now the system goes live in the western, eastern and northern health zones.",
-      "url": "https://www.cbc.ca/news/canada/nova-scotia/electronic-medical-records-health-care-opor-oracle-cerner-9.7421251?cmp=rss",
-      "source": "Cbc",
+      "id": "a5bc868927111c79",
+      "slug": "the-uae-s-ai-adoption-is-a-world-record-paying-for-it-is-another-story-08b9f1",
+      "title": "The UAE's AI Adoption Is a World Record. Paying for It Is Another Story",
+      "dek": "HONG KONG, Nov 15, 2026 - ( JCN Newswire ) - In the third quarter of 2026, the typical UAE business that paid for an AI tool spent AED 268 a month on it, according to the first SME Spend Index from Pemo, a Dubai spend-management platform (Pemo, October 2026). That is roughly the cost of a modest off",
+      "url": "https://www.zaikei.co.jp/releases/3716291/",
+      "source": "財経新聞：経済・株式の最新ニュース",
       "sourceType": "external",
-      "image": "https://i.cbc.ca/ais/0d462bb0-349a-43cc-87e4-00bcc8a6a3ec,1777913349607/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C321%2C5712%2C3213%29%3B",
-      "publishedAt": "2026-11-14T10:00:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "news/canada/nova scotia"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "5d4ae72aade99151",
-      "slug": "top-10-best-cloud-managed-service-providers-in-india-in-2027-c4fa5e",
-      "title": "Top 10 Best Cloud Managed Service Providers In India In 2027",
-      "dek": "Top 10 Best Cloud Managed Service Providers in India in 2027 Cloud managed service providers play an important role in helping businesses manage their cloud infrastructure, applications, databases, networks and cybersecurity requirements. As Indian businesses increasingly adopt cloud computing, the ",
-      "url": "https://www.inventiva.co.in/trends/top-10-best-cloud-managed-service-providers-in-india-in-2027/",
-      "source": "Inventiva",
-      "sourceType": "external",
-      "image": "https://www.inventiva.co.in/wp-content/uploads/2023/07/Inventiva-20.jpg",
-      "publishedAt": "2026-11-14T09:07:01.000Z",
-      "topic": "Security",
-      "tags": [
-        "trends"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "0ee31c4eaa3eee52",
-      "slug": "adaptive-heap-sizing-numeric-conversion-primitive-patterns-ijn-c1ec33",
-      "title": "\"Adaptive Heap Sizing + Numeric Conversion + Primitive Patterns\" [IJN]",
-      "dek": "JDK 28's adaptive heap sizing for ZGC dynamically balances CPU use and memory consumption with close-to-zero configuration. Value classes introduce new challenges for conversions between custom numeric types, which type classes could eventually address, but unresolved questions about how these featu",
-      "url": "https://inside.java/newscast/117/",
-      "source": "Inside Java",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/insidejava/2026-11-inside-java-news-117--podcast.mp3?dest-id=2318780",
-      "publishedAt": "2026-11-14T09:00:00.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "JDK"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "863a0a441ef7a444",
-      "slug": "top-10-best-cfo-consulting-firms-in-india-in-2027-10d84e",
-      "title": "Top 10 Best CFO Consulting Firms In India In 2027",
-      "dek": "Top 10 Best CFO Consulting Firms in India in 2027 The role of a Chief Financial Officer has evolved significantly in modern businesses. A CFO is no longer responsible only for maintaining financial records, preparing budgets, managing taxation and overseeing accounting operations. The position has b",
-      "url": "https://www.inventiva.co.in/trends/top-10-best-cfo-consulting-firms-in-india-in-2027/",
-      "source": "Inventiva",
-      "sourceType": "external",
-      "image": "https://www.inventiva.co.in/wp-content/uploads/2023/07/inventiva1.png",
-      "publishedAt": "2026-11-14T06:28:39.000Z",
+      "image": "https://www.zaikei.co.jp/images/zaikei_reasonably_small.jpg",
+      "publishedAt": "2026-11-15T07:00:00.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "trends"
+        "経済",
+        "ニュース",
+        "財経新聞",
+        "プレスリリース",
+        "新聞",
+        "プレリリ"
       ],
       "priority": 39
     },
     {
-      "id": "653de073b0eb7e5e",
-      "slug": "how-to-verify-oracle-database-19c-release-update-patching-in-cdb-and-pdb-environments-c974c0",
-      "title": "How to Verify Oracle Database 19c Release Update Patching in CDB and PDB Environments",
-      "dek": "Oracle Database 19c Release Update Verification Technology – Oracle Database 19c, Release Update (19.32), Multitenant. Lab Date – 12th November 2026. Overview Applying a Release Update to your Oracle Database is an important part of the DBA role. However, simply applying a patch may not mean that al",
-      "url": "https://dev.to/abdulrawoftotakhil/how-to-verify-oracle-database-19c-release-update-patching-in-cdb-and-pdb-environments-1k6",
-      "source": "Dev Community",
+      "id": "9696cd81585ef478",
+      "slug": "beyond-microsoft-s-apology-the-contract-and-the-governing-law-have-the-final-say-157018",
+      "title": "Beyond Microsoft’s Apology: The Contract and the Governing Law Have the Final Say",
+      "dek": "The day the inbox went silent When court staff in Britain start looking for fax machines and NHS clinicians fall back on paper records, something more than an inbox has failed. That was the scene on 13 November, as a Microsoft 365 disruption that began the previous day disrupted access to Outlook an",
+      "url": "https://www.jordannews.jo/Section-113/All/Beyond-Microsoft-s-Apology-The-Contract-and-the-Governing-Law-Have-the-Final-Say-58878",
+      "source": "Jordan News | Latest News From Jordan, Mena",
       "sourceType": "external",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fv1fjkcj0gpxmk8c4obpz.png",
-      "publishedAt": "2026-11-14T05:46:09.000Z",
-      "topic": "AI & Database",
+      "image": "https://www.jordannews.jo/Content/Upload/Slider/1120261593341477050762.jpg",
+      "publishedAt": "2026-11-15T06:56:33.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "sql",
-        "oracle",
-        "database",
-        "tutorial"
+        "microsoft",
+        "jordan",
+        "jordan news"
       ],
-      "priority": 38
+      "priority": 39
     },
     {
-      "id": "8084a7fa1d660904",
-      "slug": "blocking-an-ai-agent-s-shortcuts-with-tools-what-verifying-code-comments-taught-me-about-0fec40",
-      "title": "Blocking an AI agent's shortcuts with tools: what verifying code comments taught me about steering and MCP",
-      "dek": "AI agents now review code and write tests as a matter of routine. They do not read only the code. They read the comments too, and sometimes they interpret the code through what a comment says it is meant to do. I picked writing-tracker (MIT), a web app that another developer published on GitHub. It ",
-      "url": "https://dev.to/aws-builders/blocking-an-ai-agents-shortcuts-with-tools-what-verifying-code-comments-taught-me-about-steering-i90",
-      "source": "Dev Community",
+      "id": "b6862c9fe9ad3c08",
+      "slug": "openai-spearheads-one-of-europe-s-biggest-data-centers-with-100-000-nvidia-chips-d8829e",
+      "title": "OpenAI spearheads one of Europe's biggest data centers with 100,000 Nvidia chips",
+      "dek": "[CNBC] OpenAI spearheads one of Europe’s biggest data centers with 100,000 Nvidia chips",
+      "url": "https://www.nbcsandiego.com/news/business/money-report/openai-spearheads-one-of-europes-biggest-data-centers-with-100000-nvidia-chips/3880115/",
+      "source": "Nbc 7 San Diego",
       "sourceType": "external",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6oealt0lhdr7qe8nd480.png",
-      "publishedAt": "2026-11-14T00:25:16.000Z",
-      "topic": "Java & MySQL",
+      "image": "https://media.nbcsandiego.com/2025/07/108066594-1732225175480-gettyimages-2185275146-avils-notitle241121_npLhD.jpeg?quality=85&strip=all&fit=1700,1000",
+      "publishedAt": "2026-11-15T02:34:56.000Z",
+      "topic": "Oracle Cloud",
       "tags": [
-        "kiro",
-        "testing",
-        "mcp",
-        "ai"
+        "post"
       ],
-      "priority": 36
+      "priority": 37
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1977,6 +1926,51 @@
       "topic": "Oracle Ecosystem",
       "tags": [
         "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ba70f7a05b875a4b",
+      "slug": "using-ords-to-make-your-adb-data-available-in-vbs-061acb",
+      "title": "Using ORDS to Make Your ADB Data Available in VBS",
+      "dek": "Visual Builder Studio requires its data sources to connect to the webpage it produces using REST calls. Therefore, the data source has to provide a REST interface. A simple, easy, secure, and free way to do that is with Oracle REST Data Services (ORDS). In this episode, hosts Lois Houston and Nikita",
+      "url": "https://oracleuniversitypodcast.libsyn.com/using-ords-to-make-your-adb-data-available-in-vbs",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-16T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "967d33e1489de57e",
+      "slug": "forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today-f03edc",
+      "title": "Forgotten, But Not Gone: How Model-Based Development Is Still Alive and Well Today",
+      "dek": "Computer Aided Software Engineering (CASE) tools, which helped make the analysis, design, and implementation phases of software development better, faster, and cheaper, fell out of favor in the mid-'90s. Yet much of what they have to offer remains and is in active use within different Oracle tools. ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/-forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-09T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "513c87bee83d2547",
+      "slug": "developing-redwood-applications-86e984",
+      "title": "Developing Redwood Applications",
+      "dek": "Redwood is a state-of-the-art graphical interface that defines the look and feel of the new Oracle Cloud Redwood Applications. In this episode, hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Joe Greenwald, take a closer look at the intent behind the design and deve",
+      "url": "https://oracleuniversitypodcast.libsyn.com/developing-redwood-applications",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-02T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "OCI"
       ],
       "priority": 36
     }

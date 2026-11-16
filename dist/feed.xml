@@ -6,7 +6,7 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 23:59:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 00:03:51 GMT</lastBuildDate>
     
     <item>
       <title>Oracle Sets the Date for its First Quarter Fiscal Year 2027 Earnings Announcement</title>
@@ -27,94 +27,67 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-Fourth-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>As Jensen Huang leaves Nvidia, what really is the threat to the AI economy?</title>
-      <link>https://oracle-university.com/stories/as-jensen-huang-leaves-nvidia-what-really-is-the-threat-to-the-ai-economy-64f9e5/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/as-jensen-huang-leaves-nvidia-what-really-is-the-threat-to-the-ai-economy-64f9e5/</guid>
-      <pubDate>Sat, 14 Nov 2026 11:40:03 GMT</pubDate>
-      <category>Security</category>
-      <description>His departure questions about the continuity of an ecosystem whose financial exposures have become increasingly interconnected. Nvidia’s investments in AI developers and financing arrangements place it at several points in this ecosystem</description>
-      <source url="https://indianexpress.com/article/opinion/columns/jensen-huang-leaves-nvidia-threat-to-ai-circular-economy-10963063/">The Indian Express</source>
+      <title>Data center diaspora: Democrats’ blue wave wins could send AI buildout out of U.S.</title>
+      <link>https://oracle-university.com/stories/data-center-diaspora-democrats-blue-wave-wins-could-send-ai-buildout-out-of-u-s-54167f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/data-center-diaspora-democrats-blue-wave-wins-could-send-ai-buildout-out-of-u-s-54167f/</guid>
+      <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Democrats’ sweeping wins and the approvals of local data center moratoriums and restrictions in the midterm elections are poised to embolden opponents of the artificial intelligence buildout across the U.S.</description>
+      <source url="https://www.apg-wi.com/rice_lake_chronotype/news/data-center-diaspora-democrats-blue-wave-wins-could-send-ai-buildout-out-of-u-s/article_a1498322-e32c-509d-b4bf-0e36c8e245c8.html">Apg Of Wisconsin</source>
     </item>
     <item>
-      <title>Navicat Premium 18 on Linux: a hands-on review with Postgres, SQLite, Oracle and MySQL</title>
-      <link>https://oracle-university.com/stories/navicat-premium-18-on-linux-a-hands-on-review-with-postgres-sqlite-oracle-and-mysql-3456c4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/navicat-premium-18-on-linux-a-hands-on-review-with-postgres-sqlite-oracle-and-mysql-3456c4/</guid>
-      <pubDate>Sat, 14 Nov 2026 11:29:56 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Disclosure: Navicat gave me free Premium access for this review and offered a one-year Premium subscription (about US$1,000) if I published. Navicat did not see or approve this text, and told me the review did not have to be positive. I tested Navicat Premium 18 (AppImage) on Ubuntu against four eng</description>
-      <source url="https://dev.to/derrickryangiggs/navicat-premium-18-on-linux-a-hands-on-review-with-postgres-sqlite-oracle-and-mysql-4a42">Dev Community</source>
-    </item>
-    <item>
-      <title>Jensen Huang’s Exit Just Gave AMD and Google Their Biggest AI Opening</title>
-      <link>https://oracle-university.com/stories/jensen-huang-s-exit-just-gave-amd-and-google-their-biggest-ai-opening-e0fb5c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/jensen-huang-s-exit-just-gave-amd-and-google-their-biggest-ai-opening-e0fb5c/</guid>
-      <pubDate>Sat, 14 Nov 2026 11:03:55 GMT</pubDate>
+      <title>Measure AI by results, not number of agents deployed: Oracle’s Natalia Rachelson</title>
+      <link>https://oracle-university.com/stories/measure-ai-by-results-not-number-of-agents-deployed-oracle-s-natalia-rachelson-a4990e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/measure-ai-by-results-not-number-of-agents-deployed-oracle-s-natalia-rachelson-a4990e/</guid>
+      <pubDate>Sun, 15 Nov 2026 09:33:54 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>On the same day that Jensen Huang resigned as NVIDIA’s chief executive after 33 years at the helm of the company he co-founded, another semiconductor company CE</description>
-      <source url="https://analyticsindiamag.com/global-tech/jensen-huangs-exit-just-gave-amd-and-google-their-biggest-ai-opening">Analytics India Magazine</source>
+      <description>Measure AI by outcomes, not agents; define measurable goals, baseline, and governance for meaningful, driven improvements.</description>
+      <source url="https://www.thehindubusinessline.com/info-tech/measure-ai-by-results-not-number-of-agents-deployed-oracles-natalia-rachelson/article71704334.ece">The Hindu - Business Line</source>
     </item>
     <item>
-      <title>Austere Systems Limited Announces H1 FY27 Results</title>
-      <link>https://oracle-university.com/stories/austere-systems-limited-announces-h1-fy27-results-a2c9bd/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/austere-systems-limited-announces-h1-fy27-results-a2c9bd/</guid>
-      <pubDate>Sat, 14 Nov 2026 11:00:07 GMT</pubDate>
+      <title>Measure AI by results, not number of agents deployed: Oracle senior executive</title>
+      <link>https://oracle-university.com/stories/measure-ai-by-results-not-number-of-agents-deployed-oracle-senior-executive-72febf/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/measure-ai-by-results-not-number-of-agents-deployed-oracle-senior-executive-72febf/</guid>
+      <pubDate>Sun, 15 Nov 2026 09:31:47 GMT</pubDate>
       <category>Applications &amp; NetSuite</category>
-      <description>Pune (Maharashtra) [India], November 14: Austere Systems Limited (BSE: AUSTERE), a technology solutions and services company enabling AI-led digital transformation, intelligent automation, e-Governance and enterprise technology solutions, has announced its unaudited standalone and consolidated finan</description>
-      <source url="https://www.business-standard.com/content/press-releases-ani/austere-systems-limited-announces-h1-fy27-results-126111400866_1.html">Business Standard</source>
+      <description>Business leaders should pick an outcome they can measure, such as reducing the time spent resolving accounting errors or lowering transport costs, said, Natalia Rachelson, Senior Vice President, Applications Development, Oracle.</description>
+      <source url="https://yourstory.com/2026/11/measure-ai-results-not-number-agents-deployed-oracles-natalia-rachelson">Yourstory</source>
     </item>
     <item>
-      <title>Remaining 3 N.S. health zones switch to One Person One Record today</title>
-      <link>https://oracle-university.com/stories/remaining-3-n-s-health-zones-switch-to-one-person-one-record-today-2d5035/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/remaining-3-n-s-health-zones-switch-to-one-person-one-record-today-2d5035/</guid>
-      <pubDate>Sat, 14 Nov 2026 10:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>One Person One Record launched at the IWK Health Centre last December and in the central health zone in May. Now the system goes live in the western, eastern and northern health zones.</description>
-      <source url="https://www.cbc.ca/news/canada/nova-scotia/electronic-medical-records-health-care-opor-oracle-cerner-9.7421251?cmp=rss">Cbc</source>
+      <title>Measure AI by results, not number of agents deployed: Oracle&#39;s executive</title>
+      <link>https://oracle-university.com/stories/measure-ai-by-results-not-number-of-agents-deployed-oracle-s-executive-9ebaee/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/measure-ai-by-results-not-number-of-agents-deployed-oracle-s-executive-9ebaee/</guid>
+      <pubDate>Sun, 15 Nov 2026 08:09:37 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Businesses adopting artificial intelligence (AI) should start with a measurable goal and judge success by the improvement it delivers rather than the number of AI agents deployed, as the technology moves from helping employees to doing work for them, a senior Oracle executive said. &quot;It&#39;s important t</description>
+      <source url="https://www.business-standard.com/world-news/measure-ai-by-results-not-number-of-agents-deployed-oracle-s-executive-126111500244_1.html">Business Standard</source>
     </item>
     <item>
-      <title>Top 10 Best Cloud Managed Service Providers In India In 2027</title>
-      <link>https://oracle-university.com/stories/top-10-best-cloud-managed-service-providers-in-india-in-2027-c4fa5e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-10-best-cloud-managed-service-providers-in-india-in-2027-c4fa5e/</guid>
-      <pubDate>Sat, 14 Nov 2026 09:07:01 GMT</pubDate>
-      <category>Security</category>
-      <description>Top 10 Best Cloud Managed Service Providers in India in 2027 Cloud managed service providers play an important role in helping businesses manage their cloud infrastructure, applications, databases, networks and cybersecurity requirements. As Indian businesses increasingly adopt cloud computing, the </description>
-      <source url="https://www.inventiva.co.in/trends/top-10-best-cloud-managed-service-providers-in-india-in-2027/">Inventiva</source>
-    </item>
-    <item>
-      <title>&quot;Adaptive Heap Sizing + Numeric Conversion + Primitive Patterns&quot; [IJN]</title>
-      <link>https://oracle-university.com/stories/adaptive-heap-sizing-numeric-conversion-primitive-patterns-ijn-c1ec33/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/adaptive-heap-sizing-numeric-conversion-primitive-patterns-ijn-c1ec33/</guid>
-      <pubDate>Sat, 14 Nov 2026 09:00:00 GMT</pubDate>
-      <category>Java &amp; MySQL</category>
-      <description>JDK 28&#39;s adaptive heap sizing for ZGC dynamically balances CPU use and memory consumption with close-to-zero configuration. Value classes introduce new challenges for conversions between custom numeric types, which type classes could eventually address, but unresolved questions about how these featu</description>
-      <source url="https://inside.java/newscast/117/">Inside Java</source>
-    </item>
-    <item>
-      <title>Top 10 Best CFO Consulting Firms In India In 2027</title>
-      <link>https://oracle-university.com/stories/top-10-best-cfo-consulting-firms-in-india-in-2027-10d84e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-10-best-cfo-consulting-firms-in-india-in-2027-10d84e/</guid>
-      <pubDate>Sat, 14 Nov 2026 06:28:39 GMT</pubDate>
+      <title>The UAE&#39;s AI Adoption Is a World Record. Paying for It Is Another Story</title>
+      <link>https://oracle-university.com/stories/the-uae-s-ai-adoption-is-a-world-record-paying-for-it-is-another-story-08b9f1/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-uae-s-ai-adoption-is-a-world-record-paying-for-it-is-another-story-08b9f1/</guid>
+      <pubDate>Sun, 15 Nov 2026 07:00:00 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Top 10 Best CFO Consulting Firms in India in 2027 The role of a Chief Financial Officer has evolved significantly in modern businesses. A CFO is no longer responsible only for maintaining financial records, preparing budgets, managing taxation and overseeing accounting operations. The position has b</description>
-      <source url="https://www.inventiva.co.in/trends/top-10-best-cfo-consulting-firms-in-india-in-2027/">Inventiva</source>
+      <description>HONG KONG, Nov 15, 2026 - ( JCN Newswire ) - In the third quarter of 2026, the typical UAE business that paid for an AI tool spent AED 268 a month on it, according to the first SME Spend Index from Pemo, a Dubai spend-management platform (Pemo, October 2026). That is roughly the cost of a modest off</description>
+      <source url="https://www.zaikei.co.jp/releases/3716291/">財経新聞：経済・株式の最新ニュース</source>
     </item>
     <item>
-      <title>How to Verify Oracle Database 19c Release Update Patching in CDB and PDB Environments</title>
-      <link>https://oracle-university.com/stories/how-to-verify-oracle-database-19c-release-update-patching-in-cdb-and-pdb-environments-c974c0/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/how-to-verify-oracle-database-19c-release-update-patching-in-cdb-and-pdb-environments-c974c0/</guid>
-      <pubDate>Sat, 14 Nov 2026 05:46:09 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Oracle Database 19c Release Update Verification Technology – Oracle Database 19c, Release Update (19.32), Multitenant. Lab Date – 12th November 2026. Overview Applying a Release Update to your Oracle Database is an important part of the DBA role. However, simply applying a patch may not mean that al</description>
-      <source url="https://dev.to/abdulrawoftotakhil/how-to-verify-oracle-database-19c-release-update-patching-in-cdb-and-pdb-environments-1k6">Dev Community</source>
+      <title>Beyond Microsoft’s Apology: The Contract and the Governing Law Have the Final Say</title>
+      <link>https://oracle-university.com/stories/beyond-microsoft-s-apology-the-contract-and-the-governing-law-have-the-final-say-157018/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/beyond-microsoft-s-apology-the-contract-and-the-governing-law-have-the-final-say-157018/</guid>
+      <pubDate>Sun, 15 Nov 2026 06:56:33 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The day the inbox went silent When court staff in Britain start looking for fax machines and NHS clinicians fall back on paper records, something more than an inbox has failed. That was the scene on 13 November, as a Microsoft 365 disruption that began the previous day disrupted access to Outlook an</description>
+      <source url="https://www.jordannews.jo/Section-113/All/Beyond-Microsoft-s-Apology-The-Contract-and-the-Governing-Law-Have-the-Final-Say-58878">Jordan News | Latest News From Jordan, Mena</source>
     </item>
     <item>
-      <title>Blocking an AI agent&#39;s shortcuts with tools: what verifying code comments taught me about steering and MCP</title>
-      <link>https://oracle-university.com/stories/blocking-an-ai-agent-s-shortcuts-with-tools-what-verifying-code-comments-taught-me-about-0fec40/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/blocking-an-ai-agent-s-shortcuts-with-tools-what-verifying-code-comments-taught-me-about-0fec40/</guid>
-      <pubDate>Sat, 14 Nov 2026 00:25:16 GMT</pubDate>
-      <category>Java &amp; MySQL</category>
-      <description>AI agents now review code and write tests as a matter of routine. They do not read only the code. They read the comments too, and sometimes they interpret the code through what a comment says it is meant to do. I picked writing-tracker (MIT), a web app that another developer published on GitHub. It </description>
-      <source url="https://dev.to/aws-builders/blocking-an-ai-agents-shortcuts-with-tools-what-verifying-code-comments-taught-me-about-steering-i90">Dev Community</source>
+      <title>OpenAI spearheads one of Europe&#39;s biggest data centers with 100,000 Nvidia chips</title>
+      <link>https://oracle-university.com/stories/openai-spearheads-one-of-europe-s-biggest-data-centers-with-100-000-nvidia-chips-d8829e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/openai-spearheads-one-of-europe-s-biggest-data-centers-with-100-000-nvidia-chips-d8829e/</guid>
+      <pubDate>Sun, 15 Nov 2026 02:34:56 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>[CNBC] OpenAI spearheads one of Europe’s biggest data centers with 100,000 Nvidia chips</description>
+      <source url="https://www.nbcsandiego.com/news/business/money-report/openai-spearheads-one-of-europes-biggest-data-centers-with-100000-nvidia-chips/3880115/">Nbc 7 San Diego</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -457,6 +430,33 @@
       <category>Training &amp; Certification</category>
       <description>How do you decide whether to buy a ready-made AI solution or build one from the ground up? The choice is more than just a technical decision; it&#39;s about aligning AI with your business goals. In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to examine</description>
       <source url="https://oracleuniversitypodcast.libsyn.com/buy-or-build-ai">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>The AI Workflow</title>
+      <link>https://oracle-university.com/stories/the-ai-workflow-2273cc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-ai-workflow-2273cc/</guid>
+      <pubDate>Tue, 02 Sep 2025 11:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Join Lois Houston and Nikita Abraham as they chat with Yunus Mohammed, a Principal Instructor at Oracle University, about the key stages of AI model development. From gathering and preparing data to selecting, training, and deploying models, learn how each phase impacts AI&#39;s real-world effectiveness</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/the-ai-workflow">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Core AI Concepts – Part 3</title>
+      <link>https://oracle-university.com/stories/core-ai-concepts-part-3-b8133b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/core-ai-concepts-part-3-b8133b/</guid>
+      <pubDate>Tue, 26 Aug 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Join hosts Lois Houston and Nikita Abraham, along with Principal AI/ML Instructor Himanshu Raj, as they discuss the transformative world of Generative AI. Together, they uncover the ways in which generative AI agents are changing the way we interact with technology, automating tasks and delivering n</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-3">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Core AI Concepts – Part 2</title>
+      <link>https://oracle-university.com/stories/core-ai-concepts-part-2-7bf4a7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/core-ai-concepts-part-2-7bf4a7/</guid>
+      <pubDate>Tue, 19 Aug 2025 11:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>In this episode, Lois Houston and Nikita Abraham continue their discussion on AI fundamentals, diving into Data Science with Principal AI/ML Instructor Himanshu Raj. They explore key concepts like data collection, cleaning, and analysis, and talk about how quality data drives impactful insights. AI </description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-2">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
