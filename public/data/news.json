@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T00:03:51.958Z",
+  "generatedAt": "2026-11-17T03:00:27.973Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -39,122 +39,389 @@
       "priority": 46
     },
     {
-      "id": "43b1ef366221ad42",
-      "slug": "data-center-diaspora-democrats-blue-wave-wins-could-send-ai-buildout-out-of-u-s-54167f",
-      "title": "Data center diaspora: Democrats’ blue wave wins could send AI buildout out of U.S.",
-      "dek": "Democrats’ sweeping wins and the approvals of local data center moratoriums and restrictions in the midterm elections are poised to embolden opponents of the artificial intelligence buildout across the U.S.",
-      "url": "https://www.apg-wi.com/rice_lake_chronotype/news/data-center-diaspora-democrats-blue-wave-wins-could-send-ai-buildout-out-of-u-s/article_a1498322-e32c-509d-b4bf-0e36c8e245c8.html",
-      "source": "Apg Of Wisconsin",
+      "id": "922bd1df990bda35",
+      "slug": "how-we-cut-an-oracle-to-aurora-postgresql-cutover-from-6-hours-to-45-seconds-6d708d",
+      "title": "How We Cut an Oracle to Aurora PostgreSQL Cutover From 6 Hours to 45 Seconds",
+      "dek": "Three weeks before a licensing renewal deadline, my team got told to get a 4TB Oracle database off Oracle entirely. Not \"reduce core count,\" not \"renegotiate,\" off. The old plan was a maintenance window: stop the app, export, import, pray, reopen. For a database that size, that's an outage measured ",
+      "url": "https://dev.to/arvind_toorpu/how-we-cut-an-oracle-to-aurora-postgresql-cutover-from-6-hours-to-45-seconds-32bf",
+      "source": "Dev Community",
       "sourceType": "external",
-      "image": "https://bloximages.chicago2.vip.townnews.com/apg-wi.com/content/tncms/assets/v3/editorial/4/6a/46a5087a-21e6-51f2-94c1-c862b91d7ab9/6af767b32fa6c.image.jpg?resize=300%2C200",
-      "publishedAt": "2026-11-15T12:00:00.000Z",
-      "topic": "Oracle Cloud",
+      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fxzggxqrrppgf1v2rz2ye.png",
+      "publishedAt": "2026-11-16T14:58:00.000Z",
+      "topic": "AI & Database",
       "tags": [
-        "AI"
+        "postgres",
+        "migration",
+        "oracle",
+        "aws"
       ],
       "priority": 43
     },
     {
-      "id": "e3b284a02597b411",
-      "slug": "measure-ai-by-results-not-number-of-agents-deployed-oracle-s-natalia-rachelson-a4990e",
-      "title": "Measure AI by results, not number of agents deployed: Oracle’s Natalia Rachelson",
-      "dek": "Measure AI by outcomes, not agents; define measurable goals, baseline, and governance for meaningful, driven improvements.",
-      "url": "https://www.thehindubusinessline.com/info-tech/measure-ai-by-results-not-number-of-agents-deployed-oracles-natalia-rachelson/article71704334.ece",
-      "source": "The Hindu - Business Line",
+      "id": "8c5f7b2e15b006b5",
+      "slug": "netherlands-data-center-market-investment-analysis-and-growth-opportunities-2026-2031-ai-901c56",
+      "title": "Netherlands Data Center Market - Investment Analysis and Growth Opportunities, 2026-2031 | AI and Cloud Demand Drive 13.15% CAGR and $19.7 Billion Investment",
+      "dek": "Capitalize on lower construction costs, low-latency connectivity, renewable energy adoption, and expanding cloud and AI demand.",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/11/16/3403712/28124/en/netherlands-data-center-market-investment-analysis-and-growth-opportunities-2026-2031-ai-and-cloud-demand-drive-13-15-cagr-and-19-7-billion-investment.html",
+      "source": "Globenewswire_fr",
       "sourceType": "external",
-      "image": "https://bl-i.thgim.com/public/incoming/vsk60/article71704463.ece/alternates/FREE_1200/Natalia.jpg",
-      "publishedAt": "2026-11-15T09:33:54.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "",
+      "publishedAt": "2026-11-16T14:52:00.000Z",
+      "topic": "Oracle Cloud",
       "tags": [
-        "oracle",
-        "free articles"
+        "research analysis and reports"
       ],
-      "priority": 41
+      "priority": 43
     },
     {
-      "id": "81181120eaaf649e",
-      "slug": "measure-ai-by-results-not-number-of-agents-deployed-oracle-senior-executive-72febf",
-      "title": "Measure AI by results, not number of agents deployed: Oracle senior executive",
-      "dek": "Business leaders should pick an outcome they can measure, such as reducing the time spent resolving accounting errors or lowering transport costs, said, Natalia Rachelson, Senior Vice President, Applications Development, Oracle.",
-      "url": "https://yourstory.com/2026/11/measure-ai-results-not-number-agents-deployed-oracles-natalia-rachelson",
-      "source": "Yourstory",
+      "id": "f02e09d1d4e49e54",
+      "slug": "comparing-accenture-nyse-acn-and-the-hackett-group-nasdaq-hckt-20a122",
+      "title": "Comparing Accenture (NYSE:ACN) and The Hackett Group (NASDAQ:HCKT)",
+      "dek": "The Hackett Group (NASDAQ:HCKT – Get Free Report) and Accenture (NYSE:ACN – Get Free Report) are both technology companies, but which is the better investment? We will contrast the two businesses based on the strength of their analyst recommendations, dividends, earnings, profitability, institutiona",
+      "url": "https://www.tickerreport.com/banking-finance/13666320/comparing-accenture-nyseacn-and-the-hackett-group-nasdaqhckt.html",
+      "source": "Ticker Report",
       "sourceType": "external",
-      "image": "https://images.yourstory.com/cs/286/07f6d7f0ed8e11ed819979969b4b51e2/AINEWS2-1790336707001.png",
-      "publishedAt": "2026-11-15T09:31:47.000Z",
+      "image": "https://www.marketbeat.com/logos/accenture-plc-logo-1200x675.png?v=20221020151910",
+      "publishedAt": "2026-11-16T14:45:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "comparison articles",
+        "banking"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "029d98ebac13dad1",
+      "slug": "10-stocks-to-buy-as-investors-look-beyond-nvidia-6f5c90",
+      "title": "10 Stocks to Buy as Investors Look Beyond NVIDIA",
+      "dek": "For three years, the AI trade has been looking up to one face too often. Now it has an interim CEO. On November 12, Jensen Huang resigned as chief executive and board member of one of the largest companies in the world, hours after nerves gripped investors awaiting the outcome of the board’s crisis ",
+      "url": "https://www.insidermonkey.com/news/10-stocks-to-buy-as-investors-look-beyond-nvidia-1865794/",
+      "source": "Insider Trading",
+      "sourceType": "external",
+      "image": "https://d2w7kw43nye0pi.cloudfront.net/X6NkMqnbPlVF8e3sTLjsmw5MD8PDYswM9yeg1iI_-4Y/resize:fit:1456:816:0/plain/https://imonkeyblog.s3.us-east-1.amazonaws.com/blog/wp-content/uploads/2023/11/04231058/AGIL-insidermonkey-1699153856671.jpg",
+      "publishedAt": "2026-11-16T14:44:55.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "headline",
+        "nasdaq:googl",
+        "nasdaq:msft",
+        "nyse:dell",
+        "nyse:vrt",
+        "nasdaq:amzn"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "46d31fdcfade886d",
+      "slug": "earnings-call-transcript-veritone-posts-q3-2026-revenue-miss-shares-slide-19-675c4c",
+      "title": "Earnings call transcript: Veritone posts Q3 2026 revenue miss, shares slide 19%",
+      "dek": "Earnings call transcript: Veritone posts Q3 2026 revenue miss, shares slide 19%",
+      "url": "https://ca.investing.com/news/stock-market-news/earnings-call-transcript-veritone-posts-q3-2026-revenue-miss-shares-slide-19-93CH-4961395",
+      "source": "Investing Canada",
+      "sourceType": "external",
+      "image": "https://content-media.investing.com/news/moved_LYNXMPEM4510G_1200_L.jpg",
+      "publishedAt": "2026-11-16T14:42:15.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "Earnings"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "6adc5ddaa2aca47d",
+      "slug": "dreamteam-raises-53m-led-by-accel-to-rebuild-the-100b-crm-market-around-ai-teammates-9dd892",
+      "title": "Dreamteam Raises $53M Led by Accel to Rebuild the $100B CRM Market Around AI Teammates",
+      "dek": "Dreamteam raises $53M led by Accel to build an AI-native CRM that learns from every customer conversation and puts AI teammates to work on deals.",
+      "url": "https://hackernoon.com/dreamteam-raises-$53m-led-by-accel-to-rebuild-the-$100b-crm-market-around-ai-teammates",
+      "source": "Hackernoon",
+      "sourceType": "external",
+      "image": "https://cdn.hackernoon.com/images/7rEmNIeHNFOBfZZtUMQerOZIGGH3-wne3e8s.png",
+      "publishedAt": "2026-11-16T14:22:11.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "technology",
+        "sales",
+        "good-company",
+        "ai-and-ml",
+        "software-engineering",
+        "dreamteam"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "c61ce74509a5a58c",
+      "slug": "top-blockchain-stocks-to-keep-an-eye-on-november-13th-ed5422",
+      "title": "Top Blockchain Stocks To Keep An Eye On – November 13th",
+      "dek": "Core Scientific, Figure Technology Solutions, Bitdeer Technologies Group, Digi Power X, Globant, BTQ Technologies, and Mercurity Fintech are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. “Blockchain stocks” are shares of publicly traded companies whose bu",
+      "url": "https://zolmax.com/investing/top-blockchain-stocks-to-keep-an-eye-on-november-13th/12078283.html",
+      "source": "Zolmax",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-11-16T14:13:01.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "partner feed articles",
+        "investing"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "2d8b424ae82e8e5f",
+      "slug": "new-jersey-based-shore-medical-center-and-shore-physicians-group-select-oracle-health-s--bf8997",
+      "title": "New Jersey-based Shore Medical Center and Shore Physicians Group Select Oracle Health's New AI-Powered EHR to Create a More Connected Experience for Patients and Care Teams",
+      "dek": "Technology will unify Shore Medical Center and Shore Physicians Group to streamline care, improve communication, and enhance the patient experience AUSTIN, Texas, Nov. 16, 2026 /PRNewswire/ -- Shore Medical Center and Shore Physicians Group (Shore) is expanding its longstanding...",
+      "url": "https://www.prnewswire.com/news-releases/new-jersey-based-shore-medical-center-and-shore-physicians-group-select-oracle-healths-new-ai-powered-ehr-to-create-a-more-connected-experience-for-patients-and-care-teams-302940524.html",
+      "source": "Pr Newswire",
+      "sourceType": "external",
+      "image": "https://mmx.prnewswire.com/media/MS605173/Oracle-Logo-Logo.jpg?id=OA3079102&p=original",
+      "publishedAt": "2026-11-16T14:12:00.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "AI"
+        "lic"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "8dbc84268ab5b5da",
+      "slug": "larry-ellison-has-lost-145-billion-in-net-worth-over-the-past-year-as-oracle-stock-fell--27407d",
+      "title": "Larry Ellison Has Lost $145 Billion in Net Worth Over the Past Year as Oracle Stock Fell 59% From Its Peak. Here's Why Oracle's Heavy Concentration in OpenAI Has Wall Street Nervous.",
+      "dek": "Oracle is estimated to have over $300 billion in orders from OpenAI, and Wall Street thinks that could be a bad thing.",
+      "url": "https://www.fool.com/investing/2026/11/16/larry-ellison-has-lost-145-billion-in-net-worth-ov/",
+      "source": "Fool",
+      "sourceType": "external",
+      "image": "https://g.foolcdn.com/editorial/images/893272/gettyimages-1410807011.jpg",
+      "publishedAt": "2026-11-16T14:09:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "technology and telecom",
+        "investing",
+        "orcl",
+        "be032fa7-0894-4d4a-bcfa-1f690f5af8f9"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "f6e167bb853019f6",
+      "slug": "pythian-featured-in-google-cloud-partner-webcast-series-on-enterprise-agentic-ai-workflo-b45736",
+      "title": "Pythian Featured in Google Cloud Partner Webcast Series on Enterprise Agentic AI Workflow Automation",
+      "dek": "Three-part webcast series with CTO Magazine shows how Pythian helps enterprises move beyond AI tools to automate workflows and deliver measurable value",
+      "url": "https://www.einpresswire.com/article/956582289/pythian-featured-in-google-cloud-partner-webcast-series-on-enterprise-agentic-ai-workflow-automation",
+      "source": "Ein Presswire",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "it industry",
+        "canada",
+        "technology",
+        "retail",
+        "worldnews",
+        "shipping"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "ca60f4acb2f0af8a",
+      "slug": "redgate-monitor-product-updates-november-2026-afbe21",
+      "title": "Redgate Monitor product updates – November 2026",
+      "dek": "Most database estates don't run on one platform anymore. 84% of organizations use more than one, according to Redgate's State of the Database Landscape research, and every new platform tends to arrive with its own tool, its own dashboards and its own way of doing things.",
+      "url": "https://www.red-gate.com/blog/redgate-monitor-product-updates-november-2026/",
+      "source": "Red Gate Software",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-11-16T13:09:26.000Z",
+      "topic": "AI & Database",
+      "tags": [],
+      "priority": 42
+    },
+    {
+      "id": "5aab4cb512196dfd",
+      "slug": "oracle-corporation-orcl-stock-bought-by-intech-investment-management-llc-90cf1f",
+      "title": "Oracle Corporation $ORCL Stock Bought by Intech Investment Management LLC",
+      "dek": "Intech Investment Management LLC raised its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 48.9% in the third quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission. The fund owned 464,644 shares of the enterprise software provider’s stock after a",
+      "url": "https://www.tickerreport.com/banking-finance/13665946/oracle-corporation-orcl-stock-bought-by-intech-investment-management-llc.html",
+      "source": "Ticker Report",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-11-16T12:43:30.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "banking",
+        "sec filing articles"
       ],
       "priority": 41
     },
     {
-      "id": "37ce20d746a74aa1",
-      "slug": "measure-ai-by-results-not-number-of-agents-deployed-oracle-s-executive-9ebaee",
-      "title": "Measure AI by results, not number of agents deployed: Oracle's executive",
-      "dek": "Businesses adopting artificial intelligence (AI) should start with a measurable goal and judge success by the improvement it delivers rather than the number of AI agents deployed, as the technology moves from helping employees to doing work for them, a senior Oracle executive said. \"It's important t",
-      "url": "https://www.business-standard.com/world-news/measure-ai-by-results-not-number-of-agents-deployed-oracle-s-executive-126111500244_1.html",
-      "source": "Business Standard",
+      "id": "5d40d29bc276ec08",
+      "slug": "nvidia-earnings-fed-minutes-anthropic-s-ipo-put-ai-rally-to-the-test-3-charts-to-watch-t-2b07a6",
+      "title": "Nvidia Earnings, Fed Minutes, Anthropic’s IPO Put AI Rally To The Test: 3 Charts To Watch This Week",
+      "dek": "The post-IPO performance of SpaceX and Cerebras shows that strong initial demand does not guarantee that newly listed popular stocks will sustain their offering prices.",
+      "url": "https://newsable.asianetnews.com/markets/nvidia-earnings-fed-minutes-anthropic-s-ipo-put-ai-rally-to-the-test-3-charts-to-watch-this-week-articleshow-8xcm8ba",
+      "source": "Asianet Newsable",
       "sourceType": "external",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261115/full-126111500244.jpg",
-      "publishedAt": "2026-11-15T08:09:37.000Z",
+      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-48426918-504f-4627-8afa-62d7be2f1a79.webp",
+      "publishedAt": "2026-11-16T12:30:07.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "markets"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "f569af8d908edaa6",
+      "slug": "mindware-to-showcase-the-flow-of-intelligence-at-gitex-global-2026-417451",
+      "title": "Mindware to showcase the \"Flow of Intelligence\" at GITEX Global 2026",
+      "dek": "Value-added distributor to demonstrate how AI, cybersecurity, cloud and data technologies converge to accelerate business transformation and create new growth opportunities for channel partners",
+      "url": "https://www.zawya.com/en/press-release/companies-news/mindware-to-showcase-the-flow-of-intelligence-at-gitex-global-2026-2284537",
+      "source": "Zawya",
+      "sourceType": "external",
+      "image": "https://media.lseg-dw.gcpp.io/prod/images/gm_preview/6b4369718314-philippe-nov-2026.webp",
+      "publishedAt": "2026-11-16T12:03:08.000Z",
+      "topic": "Security",
+      "tags": [
+        "technology"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "86623f34e24cbfc2",
+      "slug": "coinbase-and-broadridge-publish-proposed-standard-for-onchain-shareholder-communications-743f53",
+      "title": "Coinbase and Broadridge Publish Proposed Standard for Onchain Shareholder Communications; Broadridge Launches Data Oracle",
+      "dek": "Open standard and supporting oracle connect wallet-based communications with verifiable evidence of distribution, building on Broadridge's existing onchain governance capabilities NEW YORK, Nov. 16, 2026 /PRNewswire/ -- Coinbase and Broadridge (NYSE: BR) today announced the publication of...",
+      "url": "https://www.prnewswire.com/news-releases/coinbase-and-broadridge-publish-proposed-standard-for-onchain-shareholder-communications-broadridge-launches-data-oracle-302939893.html",
+      "source": "Pr Newswire",
+      "sourceType": "external",
+      "image": "https://mmx.prnewswire.com/media/MS242893/Broadridge-2023-Logo.jpg?id=OA3078888&p=original",
+      "publishedAt": "2026-11-16T12:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "world news"
+        "pdt"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "a46dbd5c901d9098",
+      "slug": "how-to-use-naan-mudhalvan-tn-skill-as-an-engineering-student-f8c914",
+      "title": "How to Use Naan Mudhalvan (TN Skill) as an Engineering Student",
+      "dek": "Naan Mudhalvan (now TN Skill) gives Tamil Nadu engineering students free, credit-linked courses. Learn how to pair them with in-demand tech stacks and projects.",
+      "url": "https://entri.app/blog/how-to-use-naan-mudhalvan-tn-skill-as-an-engineering-student/",
+      "source": "Entri",
+      "sourceType": "external",
+      "image": "https://entri.app/blog/wp-content/uploads/2026/11/Naan-Mudalvan_Embedded_66.webp",
+      "publishedAt": "2026-11-16T11:49:06.000Z",
+      "topic": "Training & Certification",
+      "tags": [],
+      "priority": 41
+    },
+    {
+      "id": "ba43338dc8f85043",
+      "slug": "oracle-elevates-former-amazon-microsoft-execs-to-lead-networking-unit-56ab0c",
+      "title": "Oracle elevates former Amazon, Microsoft execs to lead networking unit",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.sdxcentral.com/news/oracle-elevates-former-amazon-microsoft-execs-to-lead-networking-unit/",
+      "source": "Sdxcentral",
+      "sourceType": "external",
+      "image": "https://media.datacenterdynamics.com/media/images/Oracle_sdx_crop.2e16d0ba.fill-750x500.png",
+      "publishedAt": "2026-11-16T11:27:09.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "networking",
+        "oracle cloud infrastructure",
+        "appointments",
+        "hyperscaler",
+        "niket kothari",
+        "google"
       ],
       "priority": 40
     },
     {
-      "id": "a5bc868927111c79",
-      "slug": "the-uae-s-ai-adoption-is-a-world-record-paying-for-it-is-another-story-08b9f1",
-      "title": "The UAE's AI Adoption Is a World Record. Paying for It Is Another Story",
-      "dek": "HONG KONG, Nov 15, 2026 - ( JCN Newswire ) - In the third quarter of 2026, the typical UAE business that paid for an AI tool spent AED 268 a month on it, according to the first SME Spend Index from Pemo, a Dubai spend-management platform (Pemo, October 2026). That is roughly the cost of a modest off",
-      "url": "https://www.zaikei.co.jp/releases/3716291/",
-      "source": "財経新聞：経済・株式の最新ニュース",
+      "id": "32c1ede234db63f0",
+      "slug": "why-is-the-business-rule-management-market-becoming-a-key-investment-opportunity-amid-ri-93db4c",
+      "title": "Why Is the Business Rule Management Market Becoming a Key Investment Opportunity Amid Rising Demand for AI-Driven Decision Automation and Enterprise Process Efficiency",
+      "dek": "According to DataM Intelligence (DMI) analysis, the Global Business Rule Management Market was valued at USD 1.54 billion in 2025 and is projected to reach USD 4.64 billion by 2035, growing at a CAGR of 11.7% during the forecast period",
+      "url": "https://www.openpr.com/news/4691032/why-is-the-business-rule-management-market-becoming-a-key",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://www.zaikei.co.jp/images/zaikei_reasonably_small.jpg",
-      "publishedAt": "2026-11-15T07:00:00.000Z",
+      "image": "https://cdn.open-pr.com/L/b/Lb16159481_k.jpg",
+      "publishedAt": "2026-11-16T10:56:13.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "it",
+        "new media & software"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "dcabf66b80e9a034",
+      "slug": "oracle-orcl-stock-price-prediction-oracle-tests-key-support-as-bearish-trend-meets-stead-dd549e",
+      "title": "Oracle (ORCL) Stock Price Prediction: Oracle tests key support as bearish trend meets steady derivatives demand",
+      "dek": "Oracle (ORCL) traded at $123.09, down 1.38% at the Nov. 13 close and slightly higher in the latest futures read, while the short-term technical structure remains bearish with price below the 7-, 20... (Read More)",
+      "url": "https://blockchain.news/news/20261116-price-prediction-orcl-oracle-tests-key-support-as-bearish",
+      "source": "Blockchain News",
+      "sourceType": "external",
+      "image": "https://blockchain.news/images/stocks/ORCL-feature.jpg",
+      "publishedAt": "2026-11-16T10:02:23.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "経済",
-        "ニュース",
-        "財経新聞",
-        "プレスリリース",
-        "新聞",
-        "プレリリ"
+        "orcl price analysis",
+        "orcl price prediction",
+        "news"
       ],
       "priority": 39
     },
     {
-      "id": "9696cd81585ef478",
-      "slug": "beyond-microsoft-s-apology-the-contract-and-the-governing-law-have-the-final-say-157018",
-      "title": "Beyond Microsoft’s Apology: The Contract and the Governing Law Have the Final Say",
-      "dek": "The day the inbox went silent When court staff in Britain start looking for fax machines and NHS clinicians fall back on paper records, something more than an inbox has failed. That was the scene on 13 November, as a Microsoft 365 disruption that began the previous day disrupted access to Outlook an",
-      "url": "https://www.jordannews.jo/Section-113/All/Beyond-Microsoft-s-Apology-The-Contract-and-the-Governing-Law-Have-the-Final-Say-58878",
-      "source": "Jordan News | Latest News From Jordan, Mena",
+      "id": "8271731cb7e109b2",
+      "slug": "again-court-strikes-out-citadel-md-benjamin-joseph-s-suit-against-zinox-affirms-tech-gia-73a536",
+      "title": "Again, court strikes out Citadel MD, Benjamin Joseph’s suit against Zinox, affirms Tech giant’s innocence in long-running dispute",
+      "dek": "The High Court of the Federal Capital Territory, Abuja, has struck out a fundamental rights suit against Zinox Technologies Limited and the Attorney-General of the Federation. The case was instituted by the CEO of Ibadan-based Citadel Oracle Concepts Limited, Mr Benjamin Joseph who hails from Enugu ",
+      "url": "https://nationalaccordnewspaper.com/again-court-strikes-out-citadel-md-benjamin-josephs-suit-against-zinox-affirms-tech-giants-innocence-in-long-running-dispute/",
+      "source": "The Nation Newspaper",
       "sourceType": "external",
-      "image": "https://www.jordannews.jo/Content/Upload/Slider/1120261593341477050762.jpg",
-      "publishedAt": "2026-11-15T06:56:33.000Z",
+      "image": "https://nationalaccordnewspaper.com/wp-content/uploads/2026/11/Benjamin-Joseph.jpg",
+      "publishedAt": "2026-11-16T06:41:59.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "microsoft",
-        "jordan",
-        "jordan news"
+        "judiciary",
+        "federal high court abuja",
+        "fct",
+        "zinox technologies",
+        "nigerian news",
+        "zinox"
       ],
-      "priority": 39
+      "priority": 37
     },
     {
-      "id": "b6862c9fe9ad3c08",
-      "slug": "openai-spearheads-one-of-europe-s-biggest-data-centers-with-100-000-nvidia-chips-d8829e",
-      "title": "OpenAI spearheads one of Europe's biggest data centers with 100,000 Nvidia chips",
-      "dek": "[CNBC] OpenAI spearheads one of Europe’s biggest data centers with 100,000 Nvidia chips",
-      "url": "https://www.nbcsandiego.com/news/business/money-report/openai-spearheads-one-of-europes-biggest-data-centers-with-100000-nvidia-chips/3880115/",
-      "source": "Nbc 7 San Diego",
+      "id": "5294b0b92881f4ca",
+      "slug": "a-first-for-morrisons-and-an-important-step-for-jysk-last-week-s-biggest-retail-technolo-ff5c35",
+      "title": "A first for Morrisons and an important step for Jysk: last week’s biggest retail technology plays",
+      "dek": "RTIH rounds up the stand out retail technology deals, launches, deployments and pilots from the past seven days. Including Vinted, Rokt, Gregss, Auror, ASICS, Corvus Robotics, Asos, Dollar General, Fortnum & Mason, Oracle Retail, Walmart, Wing, Crew Clothing Company, Monsoon Accessorize, PMC, Mc",
+      "url": "https://retailtechinnovationhub.com/home/2026/11/16/a-first-for-morrisons-and-an-important-step-for-jysk-last-weeks-biggest-retail-technology-plays",
+      "source": "Retail Technology Innovation Hub",
       "sourceType": "external",
-      "image": "https://media.nbcsandiego.com/2025/07/108066594-1732225175480-gettyimages-2185275146-avils-notitle241121_npLhD.jpeg?quality=85&strip=all&fit=1700,1000",
-      "publishedAt": "2026-11-15T02:34:56.000Z",
-      "topic": "Oracle Cloud",
+      "image": "https://storage.googleapis.com/rtih-storage/32132/Morrisons.jpeg",
+      "publishedAt": "2026-11-16T05:32:34.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "post"
+        "retail technology"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "75a0f6d5486a4cdc",
+      "slug": "starting-stopping-and-restarting-the-cost-manager-in-oracle-ebs-12-2-inventory-interface-aac059",
+      "title": "Starting, Stopping and Restarting the Cost Manager in Oracle EBS 12.2 (Inventory Interface Managers)",
+      "dek": "If inventory or work in process transactions in your Oracle E-Business Suite environment aren't being costed, one of the first things to check is whether the Cost Manager is running. This post explains what it does, why it matters, and how to start, stop and restart it in EBS 12.2. What the Cost Man",
+      "url": "https://dev.to/kumaranm05/starting-stopping-and-restarting-the-cost-manager-in-oracle-ebs-122-inventory-interface-managers-3f9c",
+      "source": "Dev Community",
+      "sourceType": "external",
+      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F2ydqtgjsfvmw1wg9zxdf.png",
+      "publishedAt": "2026-11-16T05:30:07.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "oracle",
+        "ebs",
+        "dba"
       ],
       "priority": 37
     },
@@ -1732,246 +1999,6 @@
       "publishedAt": "2024-07-23T14:00:00.000Z",
       "topic": "AI & Database",
       "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "f046bd97147c0cf8",
-      "slug": "container-engine-for-kubernetes-security-practices-26ab8f",
-      "title": "Container Engine for Kubernetes: Security Practices",
-      "dek": "In the season's final episode, hosts Lois Houston and Nikita Abraham interview senior OCI instructor Mahendra Mehra about the security practices that are vital for OKE clusters on OCI. Mahendra shares his expert insights on the importance of Kubernetes security, especially in today's digital landsca",
-      "url": "https://oracleuniversitypodcast.libsyn.com/container-engine-for-kubernetes-security-practices",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP7.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-16T14:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "OCI",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "be8b92279cd0831f",
-      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
-      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-09T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "d38db88cd3fd3cc0",
-      "slug": "working-with-oke-virtual-nodes-f5a370",
-      "title": "Working with OKE Virtual Nodes",
-      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-02T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "bd401ec004db1755",
-      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
-      "title": "Introduction to OCI Container Engine for Kubernetes",
-      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-25T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "1d3aa287378f7e71",
-      "slug": "basics-of-kubernetes-23e26c",
-      "title": "Basics of Kubernetes",
-      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
-      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-18T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ec54bf5b81f570ed",
-      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
-      "title": "Oracle Cloud Infrastructure Registry",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-11T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "OCI",
-        "Oracle Cloud Infrastructure"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "6ba1bee89c8a91cc",
-      "slug": "what-is-containerization-0326f4",
-      "title": "What is Containerization?",
-      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-04T14:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "OCI",
-        "Oracle University"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "b45e3d006fc93558",
-      "slug": "encore-episode-oci-ai-services-5e7f50",
-      "title": "Encore Episode: OCI AI Services",
-      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-28T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI",
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "57fe9154d1531745",
-      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
-      "title": "Encore Episode: Generative AI and Large Language Models",
-      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-14T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "60d141d1ef069450",
-      "slug": "encore-episode-deep-learning-fe981b",
-      "title": "Encore Episode: Deep Learning",
-      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-07T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "311a8fe7e2892283",
-      "slug": "encore-episode-machine-learning-ee26a4",
-      "title": "Encore Episode: Machine Learning",
-      "dek": "Does machine learning feel like too convoluted a topic? Not anymore! Listen to hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Hemant Gahankari, talk about foundational machine learning concepts and dive into how supervised learning, unsupervised learning, and reinf",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-machine-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-30T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "4589098868999fde",
-      "slug": "encore-episode-introduction-to-artificial-intelligence-ai-9e755a",
-      "title": "Encore Episode: Introduction to Artificial Intelligence (AI)",
-      "dek": "You probably interact with artificial intelligence (AI) more than you realize. So, there's never been a better time to start figuring out how it all works. Join Lois Houston and Nikita Abraham as they decode the fundamentals of AI so that anyone, irrespective of their technical background, can lever",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-introduction-to-artificial-intelligence-ai",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-23T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ba70f7a05b875a4b",
-      "slug": "using-ords-to-make-your-adb-data-available-in-vbs-061acb",
-      "title": "Using ORDS to Make Your ADB Data Available in VBS",
-      "dek": "Visual Builder Studio requires its data sources to connect to the webpage it produces using REST calls. Therefore, the data source has to provide a REST interface. A simple, easy, secure, and free way to do that is with Oracle REST Data Services (ORDS). In this episode, hosts Lois Houston and Nikita",
-      "url": "https://oracleuniversitypodcast.libsyn.com/using-ords-to-make-your-adb-data-available-in-vbs",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-16T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "967d33e1489de57e",
-      "slug": "forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today-f03edc",
-      "title": "Forgotten, But Not Gone: How Model-Based Development Is Still Alive and Well Today",
-      "dek": "Computer Aided Software Engineering (CASE) tools, which helped make the analysis, design, and implementation phases of software development better, faster, and cheaper, fell out of favor in the mid-'90s. Yet much of what they have to offer remains and is in active use within different Oracle tools. ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/-forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-09T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "513c87bee83d2547",
-      "slug": "developing-redwood-applications-86e984",
-      "title": "Developing Redwood Applications",
-      "dek": "Redwood is a state-of-the-art graphical interface that defines the look and feel of the new Oracle Cloud Redwood Applications. In this episode, hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Joe Greenwald, take a closer look at the intent behind the design and deve",
-      "url": "https://oracleuniversitypodcast.libsyn.com/developing-redwood-applications",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-04-02T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "OCI"
-      ],
       "priority": 36
     }
   ]

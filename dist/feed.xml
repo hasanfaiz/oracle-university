@@ -6,7 +6,7 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Nov 2026 00:03:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 03:00:27 GMT</lastBuildDate>
     
     <item>
       <title>Oracle Sets the Date for its First Quarter Fiscal Year 2027 Earnings Announcement</title>
@@ -27,67 +27,202 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-Fourth-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>Data center diaspora: Democrats’ blue wave wins could send AI buildout out of U.S.</title>
-      <link>https://oracle-university.com/stories/data-center-diaspora-democrats-blue-wave-wins-could-send-ai-buildout-out-of-u-s-54167f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/data-center-diaspora-democrats-blue-wave-wins-could-send-ai-buildout-out-of-u-s-54167f/</guid>
-      <pubDate>Sun, 15 Nov 2026 12:00:00 GMT</pubDate>
+      <title>How We Cut an Oracle to Aurora PostgreSQL Cutover From 6 Hours to 45 Seconds</title>
+      <link>https://oracle-university.com/stories/how-we-cut-an-oracle-to-aurora-postgresql-cutover-from-6-hours-to-45-seconds-6d708d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/how-we-cut-an-oracle-to-aurora-postgresql-cutover-from-6-hours-to-45-seconds-6d708d/</guid>
+      <pubDate>Mon, 16 Nov 2026 14:58:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Three weeks before a licensing renewal deadline, my team got told to get a 4TB Oracle database off Oracle entirely. Not &quot;reduce core count,&quot; not &quot;renegotiate,&quot; off. The old plan was a maintenance window: stop the app, export, import, pray, reopen. For a database that size, that&#39;s an outage measured </description>
+      <source url="https://dev.to/arvind_toorpu/how-we-cut-an-oracle-to-aurora-postgresql-cutover-from-6-hours-to-45-seconds-32bf">Dev Community</source>
+    </item>
+    <item>
+      <title>Netherlands Data Center Market - Investment Analysis and Growth Opportunities, 2026-2031 | AI and Cloud Demand Drive 13.15% CAGR and $19.7 Billion Investment</title>
+      <link>https://oracle-university.com/stories/netherlands-data-center-market-investment-analysis-and-growth-opportunities-2026-2031-ai-901c56/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/netherlands-data-center-market-investment-analysis-and-growth-opportunities-2026-2031-ai-901c56/</guid>
+      <pubDate>Mon, 16 Nov 2026 14:52:00 GMT</pubDate>
       <category>Oracle Cloud</category>
-      <description>Democrats’ sweeping wins and the approvals of local data center moratoriums and restrictions in the midterm elections are poised to embolden opponents of the artificial intelligence buildout across the U.S.</description>
-      <source url="https://www.apg-wi.com/rice_lake_chronotype/news/data-center-diaspora-democrats-blue-wave-wins-could-send-ai-buildout-out-of-u-s/article_a1498322-e32c-509d-b4bf-0e36c8e245c8.html">Apg Of Wisconsin</source>
+      <description>Capitalize on lower construction costs, low-latency connectivity, renewable energy adoption, and expanding cloud and AI demand.</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/11/16/3403712/28124/en/netherlands-data-center-market-investment-analysis-and-growth-opportunities-2026-2031-ai-and-cloud-demand-drive-13-15-cagr-and-19-7-billion-investment.html">Globenewswire_fr</source>
     </item>
     <item>
-      <title>Measure AI by results, not number of agents deployed: Oracle’s Natalia Rachelson</title>
-      <link>https://oracle-university.com/stories/measure-ai-by-results-not-number-of-agents-deployed-oracle-s-natalia-rachelson-a4990e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/measure-ai-by-results-not-number-of-agents-deployed-oracle-s-natalia-rachelson-a4990e/</guid>
-      <pubDate>Sun, 15 Nov 2026 09:33:54 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Measure AI by outcomes, not agents; define measurable goals, baseline, and governance for meaningful, driven improvements.</description>
-      <source url="https://www.thehindubusinessline.com/info-tech/measure-ai-by-results-not-number-of-agents-deployed-oracles-natalia-rachelson/article71704334.ece">The Hindu - Business Line</source>
-    </item>
-    <item>
-      <title>Measure AI by results, not number of agents deployed: Oracle senior executive</title>
-      <link>https://oracle-university.com/stories/measure-ai-by-results-not-number-of-agents-deployed-oracle-senior-executive-72febf/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/measure-ai-by-results-not-number-of-agents-deployed-oracle-senior-executive-72febf/</guid>
-      <pubDate>Sun, 15 Nov 2026 09:31:47 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Business leaders should pick an outcome they can measure, such as reducing the time spent resolving accounting errors or lowering transport costs, said, Natalia Rachelson, Senior Vice President, Applications Development, Oracle.</description>
-      <source url="https://yourstory.com/2026/11/measure-ai-results-not-number-agents-deployed-oracles-natalia-rachelson">Yourstory</source>
-    </item>
-    <item>
-      <title>Measure AI by results, not number of agents deployed: Oracle&#39;s executive</title>
-      <link>https://oracle-university.com/stories/measure-ai-by-results-not-number-of-agents-deployed-oracle-s-executive-9ebaee/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/measure-ai-by-results-not-number-of-agents-deployed-oracle-s-executive-9ebaee/</guid>
-      <pubDate>Sun, 15 Nov 2026 08:09:37 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Businesses adopting artificial intelligence (AI) should start with a measurable goal and judge success by the improvement it delivers rather than the number of AI agents deployed, as the technology moves from helping employees to doing work for them, a senior Oracle executive said. &quot;It&#39;s important t</description>
-      <source url="https://www.business-standard.com/world-news/measure-ai-by-results-not-number-of-agents-deployed-oracle-s-executive-126111500244_1.html">Business Standard</source>
-    </item>
-    <item>
-      <title>The UAE&#39;s AI Adoption Is a World Record. Paying for It Is Another Story</title>
-      <link>https://oracle-university.com/stories/the-uae-s-ai-adoption-is-a-world-record-paying-for-it-is-another-story-08b9f1/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-uae-s-ai-adoption-is-a-world-record-paying-for-it-is-another-story-08b9f1/</guid>
-      <pubDate>Sun, 15 Nov 2026 07:00:00 GMT</pubDate>
+      <title>Comparing Accenture (NYSE:ACN) and The Hackett Group (NASDAQ:HCKT)</title>
+      <link>https://oracle-university.com/stories/comparing-accenture-nyse-acn-and-the-hackett-group-nasdaq-hckt-20a122/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/comparing-accenture-nyse-acn-and-the-hackett-group-nasdaq-hckt-20a122/</guid>
+      <pubDate>Mon, 16 Nov 2026 14:45:00 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>HONG KONG, Nov 15, 2026 - ( JCN Newswire ) - In the third quarter of 2026, the typical UAE business that paid for an AI tool spent AED 268 a month on it, according to the first SME Spend Index from Pemo, a Dubai spend-management platform (Pemo, October 2026). That is roughly the cost of a modest off</description>
-      <source url="https://www.zaikei.co.jp/releases/3716291/">財経新聞：経済・株式の最新ニュース</source>
+      <description>The Hackett Group (NASDAQ:HCKT – Get Free Report) and Accenture (NYSE:ACN – Get Free Report) are both technology companies, but which is the better investment? We will contrast the two businesses based on the strength of their analyst recommendations, dividends, earnings, profitability, institutiona</description>
+      <source url="https://www.tickerreport.com/banking-finance/13666320/comparing-accenture-nyseacn-and-the-hackett-group-nasdaqhckt.html">Ticker Report</source>
     </item>
     <item>
-      <title>Beyond Microsoft’s Apology: The Contract and the Governing Law Have the Final Say</title>
-      <link>https://oracle-university.com/stories/beyond-microsoft-s-apology-the-contract-and-the-governing-law-have-the-final-say-157018/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/beyond-microsoft-s-apology-the-contract-and-the-governing-law-have-the-final-say-157018/</guid>
-      <pubDate>Sun, 15 Nov 2026 06:56:33 GMT</pubDate>
+      <title>10 Stocks to Buy as Investors Look Beyond NVIDIA</title>
+      <link>https://oracle-university.com/stories/10-stocks-to-buy-as-investors-look-beyond-nvidia-6f5c90/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/10-stocks-to-buy-as-investors-look-beyond-nvidia-6f5c90/</guid>
+      <pubDate>Mon, 16 Nov 2026 14:44:55 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>For three years, the AI trade has been looking up to one face too often. Now it has an interim CEO. On November 12, Jensen Huang resigned as chief executive and board member of one of the largest companies in the world, hours after nerves gripped investors awaiting the outcome of the board’s crisis </description>
+      <source url="https://www.insidermonkey.com/news/10-stocks-to-buy-as-investors-look-beyond-nvidia-1865794/">Insider Trading</source>
+    </item>
+    <item>
+      <title>Earnings call transcript: Veritone posts Q3 2026 revenue miss, shares slide 19%</title>
+      <link>https://oracle-university.com/stories/earnings-call-transcript-veritone-posts-q3-2026-revenue-miss-shares-slide-19-675c4c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/earnings-call-transcript-veritone-posts-q3-2026-revenue-miss-shares-slide-19-675c4c/</guid>
+      <pubDate>Mon, 16 Nov 2026 14:42:15 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Earnings call transcript: Veritone posts Q3 2026 revenue miss, shares slide 19%</description>
+      <source url="https://ca.investing.com/news/stock-market-news/earnings-call-transcript-veritone-posts-q3-2026-revenue-miss-shares-slide-19-93CH-4961395">Investing Canada</source>
+    </item>
+    <item>
+      <title>Dreamteam Raises $53M Led by Accel to Rebuild the $100B CRM Market Around AI Teammates</title>
+      <link>https://oracle-university.com/stories/dreamteam-raises-53m-led-by-accel-to-rebuild-the-100b-crm-market-around-ai-teammates-9dd892/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/dreamteam-raises-53m-led-by-accel-to-rebuild-the-100b-crm-market-around-ai-teammates-9dd892/</guid>
+      <pubDate>Mon, 16 Nov 2026 14:22:11 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>The day the inbox went silent When court staff in Britain start looking for fax machines and NHS clinicians fall back on paper records, something more than an inbox has failed. That was the scene on 13 November, as a Microsoft 365 disruption that began the previous day disrupted access to Outlook an</description>
-      <source url="https://www.jordannews.jo/Section-113/All/Beyond-Microsoft-s-Apology-The-Contract-and-the-Governing-Law-Have-the-Final-Say-58878">Jordan News | Latest News From Jordan, Mena</source>
+      <description>Dreamteam raises $53M led by Accel to build an AI-native CRM that learns from every customer conversation and puts AI teammates to work on deals.</description>
+      <source url="https://hackernoon.com/dreamteam-raises-$53m-led-by-accel-to-rebuild-the-$100b-crm-market-around-ai-teammates">Hackernoon</source>
     </item>
     <item>
-      <title>OpenAI spearheads one of Europe&#39;s biggest data centers with 100,000 Nvidia chips</title>
-      <link>https://oracle-university.com/stories/openai-spearheads-one-of-europe-s-biggest-data-centers-with-100-000-nvidia-chips-d8829e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/openai-spearheads-one-of-europe-s-biggest-data-centers-with-100-000-nvidia-chips-d8829e/</guid>
-      <pubDate>Sun, 15 Nov 2026 02:34:56 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>[CNBC] OpenAI spearheads one of Europe’s biggest data centers with 100,000 Nvidia chips</description>
-      <source url="https://www.nbcsandiego.com/news/business/money-report/openai-spearheads-one-of-europes-biggest-data-centers-with-100000-nvidia-chips/3880115/">Nbc 7 San Diego</source>
+      <title>Top Blockchain Stocks To Keep An Eye On – November 13th</title>
+      <link>https://oracle-university.com/stories/top-blockchain-stocks-to-keep-an-eye-on-november-13th-ed5422/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/top-blockchain-stocks-to-keep-an-eye-on-november-13th-ed5422/</guid>
+      <pubDate>Mon, 16 Nov 2026 14:13:01 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Core Scientific, Figure Technology Solutions, Bitdeer Technologies Group, Digi Power X, Globant, BTQ Technologies, and Mercurity Fintech are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. “Blockchain stocks” are shares of publicly traded companies whose bu</description>
+      <source url="https://zolmax.com/investing/top-blockchain-stocks-to-keep-an-eye-on-november-13th/12078283.html">Zolmax</source>
+    </item>
+    <item>
+      <title>New Jersey-based Shore Medical Center and Shore Physicians Group Select Oracle Health&#39;s New AI-Powered EHR to Create a More Connected Experience for Patients and Care Teams</title>
+      <link>https://oracle-university.com/stories/new-jersey-based-shore-medical-center-and-shore-physicians-group-select-oracle-health-s--bf8997/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/new-jersey-based-shore-medical-center-and-shore-physicians-group-select-oracle-health-s--bf8997/</guid>
+      <pubDate>Mon, 16 Nov 2026 14:12:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Technology will unify Shore Medical Center and Shore Physicians Group to streamline care, improve communication, and enhance the patient experience AUSTIN, Texas, Nov. 16, 2026 /PRNewswire/ -- Shore Medical Center and Shore Physicians Group (Shore) is expanding its longstanding...</description>
+      <source url="https://www.prnewswire.com/news-releases/new-jersey-based-shore-medical-center-and-shore-physicians-group-select-oracle-healths-new-ai-powered-ehr-to-create-a-more-connected-experience-for-patients-and-care-teams-302940524.html">Pr Newswire</source>
+    </item>
+    <item>
+      <title>Larry Ellison Has Lost $145 Billion in Net Worth Over the Past Year as Oracle Stock Fell 59% From Its Peak. Here&#39;s Why Oracle&#39;s Heavy Concentration in OpenAI Has Wall Street Nervous.</title>
+      <link>https://oracle-university.com/stories/larry-ellison-has-lost-145-billion-in-net-worth-over-the-past-year-as-oracle-stock-fell--27407d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/larry-ellison-has-lost-145-billion-in-net-worth-over-the-past-year-as-oracle-stock-fell--27407d/</guid>
+      <pubDate>Mon, 16 Nov 2026 14:09:00 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Oracle is estimated to have over $300 billion in orders from OpenAI, and Wall Street thinks that could be a bad thing.</description>
+      <source url="https://www.fool.com/investing/2026/11/16/larry-ellison-has-lost-145-billion-in-net-worth-ov/">Fool</source>
+    </item>
+    <item>
+      <title>Pythian Featured in Google Cloud Partner Webcast Series on Enterprise Agentic AI Workflow Automation</title>
+      <link>https://oracle-university.com/stories/pythian-featured-in-google-cloud-partner-webcast-series-on-enterprise-agentic-ai-workflo-b45736/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/pythian-featured-in-google-cloud-partner-webcast-series-on-enterprise-agentic-ai-workflo-b45736/</guid>
+      <pubDate>Mon, 16 Nov 2026 14:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Three-part webcast series with CTO Magazine shows how Pythian helps enterprises move beyond AI tools to automate workflows and deliver measurable value</description>
+      <source url="https://www.einpresswire.com/article/956582289/pythian-featured-in-google-cloud-partner-webcast-series-on-enterprise-agentic-ai-workflow-automation">Ein Presswire</source>
+    </item>
+    <item>
+      <title>Redgate Monitor product updates – November 2026</title>
+      <link>https://oracle-university.com/stories/redgate-monitor-product-updates-november-2026-afbe21/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/redgate-monitor-product-updates-november-2026-afbe21/</guid>
+      <pubDate>Mon, 16 Nov 2026 13:09:26 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Most database estates don&#39;t run on one platform anymore. 84% of organizations use more than one, according to Redgate&#39;s State of the Database Landscape research, and every new platform tends to arrive with its own tool, its own dashboards and its own way of doing things.</description>
+      <source url="https://www.red-gate.com/blog/redgate-monitor-product-updates-november-2026/">Red Gate Software</source>
+    </item>
+    <item>
+      <title>Oracle Corporation $ORCL Stock Bought by Intech Investment Management LLC</title>
+      <link>https://oracle-university.com/stories/oracle-corporation-orcl-stock-bought-by-intech-investment-management-llc-90cf1f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-stock-bought-by-intech-investment-management-llc-90cf1f/</guid>
+      <pubDate>Mon, 16 Nov 2026 12:43:30 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Intech Investment Management LLC raised its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 48.9% in the third quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission. The fund owned 464,644 shares of the enterprise software provider’s stock after a</description>
+      <source url="https://www.tickerreport.com/banking-finance/13665946/oracle-corporation-orcl-stock-bought-by-intech-investment-management-llc.html">Ticker Report</source>
+    </item>
+    <item>
+      <title>Nvidia Earnings, Fed Minutes, Anthropic’s IPO Put AI Rally To The Test: 3 Charts To Watch This Week</title>
+      <link>https://oracle-university.com/stories/nvidia-earnings-fed-minutes-anthropic-s-ipo-put-ai-rally-to-the-test-3-charts-to-watch-t-2b07a6/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/nvidia-earnings-fed-minutes-anthropic-s-ipo-put-ai-rally-to-the-test-3-charts-to-watch-t-2b07a6/</guid>
+      <pubDate>Mon, 16 Nov 2026 12:30:07 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>The post-IPO performance of SpaceX and Cerebras shows that strong initial demand does not guarantee that newly listed popular stocks will sustain their offering prices.</description>
+      <source url="https://newsable.asianetnews.com/markets/nvidia-earnings-fed-minutes-anthropic-s-ipo-put-ai-rally-to-the-test-3-charts-to-watch-this-week-articleshow-8xcm8ba">Asianet Newsable</source>
+    </item>
+    <item>
+      <title>Mindware to showcase the &quot;Flow of Intelligence&quot; at GITEX Global 2026</title>
+      <link>https://oracle-university.com/stories/mindware-to-showcase-the-flow-of-intelligence-at-gitex-global-2026-417451/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/mindware-to-showcase-the-flow-of-intelligence-at-gitex-global-2026-417451/</guid>
+      <pubDate>Mon, 16 Nov 2026 12:03:08 GMT</pubDate>
+      <category>Security</category>
+      <description>Value-added distributor to demonstrate how AI, cybersecurity, cloud and data technologies converge to accelerate business transformation and create new growth opportunities for channel partners</description>
+      <source url="https://www.zawya.com/en/press-release/companies-news/mindware-to-showcase-the-flow-of-intelligence-at-gitex-global-2026-2284537">Zawya</source>
+    </item>
+    <item>
+      <title>Coinbase and Broadridge Publish Proposed Standard for Onchain Shareholder Communications; Broadridge Launches Data Oracle</title>
+      <link>https://oracle-university.com/stories/coinbase-and-broadridge-publish-proposed-standard-for-onchain-shareholder-communications-743f53/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/coinbase-and-broadridge-publish-proposed-standard-for-onchain-shareholder-communications-743f53/</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Open standard and supporting oracle connect wallet-based communications with verifiable evidence of distribution, building on Broadridge&#39;s existing onchain governance capabilities NEW YORK, Nov. 16, 2026 /PRNewswire/ -- Coinbase and Broadridge (NYSE: BR) today announced the publication of...</description>
+      <source url="https://www.prnewswire.com/news-releases/coinbase-and-broadridge-publish-proposed-standard-for-onchain-shareholder-communications-broadridge-launches-data-oracle-302939893.html">Pr Newswire</source>
+    </item>
+    <item>
+      <title>How to Use Naan Mudhalvan (TN Skill) as an Engineering Student</title>
+      <link>https://oracle-university.com/stories/how-to-use-naan-mudhalvan-tn-skill-as-an-engineering-student-f8c914/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/how-to-use-naan-mudhalvan-tn-skill-as-an-engineering-student-f8c914/</guid>
+      <pubDate>Mon, 16 Nov 2026 11:49:06 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Naan Mudhalvan (now TN Skill) gives Tamil Nadu engineering students free, credit-linked courses. Learn how to pair them with in-demand tech stacks and projects.</description>
+      <source url="https://entri.app/blog/how-to-use-naan-mudhalvan-tn-skill-as-an-engineering-student/">Entri</source>
+    </item>
+    <item>
+      <title>Oracle elevates former Amazon, Microsoft execs to lead networking unit</title>
+      <link>https://oracle-university.com/stories/oracle-elevates-former-amazon-microsoft-execs-to-lead-networking-unit-56ab0c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-elevates-former-amazon-microsoft-execs-to-lead-networking-unit-56ab0c/</guid>
+      <pubDate>Mon, 16 Nov 2026 11:27:09 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>ONLY AVAILABLE IN PAID PLANS</description>
+      <source url="https://www.sdxcentral.com/news/oracle-elevates-former-amazon-microsoft-execs-to-lead-networking-unit/">Sdxcentral</source>
+    </item>
+    <item>
+      <title>Why Is the Business Rule Management Market Becoming a Key Investment Opportunity Amid Rising Demand for AI-Driven Decision Automation and Enterprise Process Efficiency</title>
+      <link>https://oracle-university.com/stories/why-is-the-business-rule-management-market-becoming-a-key-investment-opportunity-amid-ri-93db4c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/why-is-the-business-rule-management-market-becoming-a-key-investment-opportunity-amid-ri-93db4c/</guid>
+      <pubDate>Mon, 16 Nov 2026 10:56:13 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>According to DataM Intelligence (DMI) analysis, the Global Business Rule Management Market was valued at USD 1.54 billion in 2025 and is projected to reach USD 4.64 billion by 2035, growing at a CAGR of 11.7% during the forecast period</description>
+      <source url="https://www.openpr.com/news/4691032/why-is-the-business-rule-management-market-becoming-a-key">Openpr.com</source>
+    </item>
+    <item>
+      <title>Oracle (ORCL) Stock Price Prediction: Oracle tests key support as bearish trend meets steady derivatives demand</title>
+      <link>https://oracle-university.com/stories/oracle-orcl-stock-price-prediction-oracle-tests-key-support-as-bearish-trend-meets-stead-dd549e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-orcl-stock-price-prediction-oracle-tests-key-support-as-bearish-trend-meets-stead-dd549e/</guid>
+      <pubDate>Mon, 16 Nov 2026 10:02:23 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Oracle (ORCL) traded at $123.09, down 1.38% at the Nov. 13 close and slightly higher in the latest futures read, while the short-term technical structure remains bearish with price below the 7-, 20... (Read More)</description>
+      <source url="https://blockchain.news/news/20261116-price-prediction-orcl-oracle-tests-key-support-as-bearish">Blockchain News</source>
+    </item>
+    <item>
+      <title>Again, court strikes out Citadel MD, Benjamin Joseph’s suit against Zinox, affirms Tech giant’s innocence in long-running dispute</title>
+      <link>https://oracle-university.com/stories/again-court-strikes-out-citadel-md-benjamin-joseph-s-suit-against-zinox-affirms-tech-gia-73a536/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/again-court-strikes-out-citadel-md-benjamin-joseph-s-suit-against-zinox-affirms-tech-gia-73a536/</guid>
+      <pubDate>Mon, 16 Nov 2026 06:41:59 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The High Court of the Federal Capital Territory, Abuja, has struck out a fundamental rights suit against Zinox Technologies Limited and the Attorney-General of the Federation. The case was instituted by the CEO of Ibadan-based Citadel Oracle Concepts Limited, Mr Benjamin Joseph who hails from Enugu </description>
+      <source url="https://nationalaccordnewspaper.com/again-court-strikes-out-citadel-md-benjamin-josephs-suit-against-zinox-affirms-tech-giants-innocence-in-long-running-dispute/">The Nation Newspaper</source>
+    </item>
+    <item>
+      <title>A first for Morrisons and an important step for Jysk: last week’s biggest retail technology plays</title>
+      <link>https://oracle-university.com/stories/a-first-for-morrisons-and-an-important-step-for-jysk-last-week-s-biggest-retail-technolo-ff5c35/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/a-first-for-morrisons-and-an-important-step-for-jysk-last-week-s-biggest-retail-technolo-ff5c35/</guid>
+      <pubDate>Mon, 16 Nov 2026 05:32:34 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>RTIH rounds up the stand out retail technology deals, launches, deployments and pilots from the past seven days. Including Vinted, Rokt, Gregss, Auror, ASICS, Corvus Robotics, Asos, Dollar General, Fortnum &amp; Mason, Oracle Retail, Walmart, Wing, Crew Clothing Company, Monsoon Accessorize, PMC, Mc</description>
+      <source url="https://retailtechinnovationhub.com/home/2026/11/16/a-first-for-morrisons-and-an-important-step-for-jysk-last-weeks-biggest-retail-technology-plays">Retail Technology Innovation Hub</source>
+    </item>
+    <item>
+      <title>Starting, Stopping and Restarting the Cost Manager in Oracle EBS 12.2 (Inventory Interface Managers)</title>
+      <link>https://oracle-university.com/stories/starting-stopping-and-restarting-the-cost-manager-in-oracle-ebs-12-2-inventory-interface-aac059/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/starting-stopping-and-restarting-the-cost-manager-in-oracle-ebs-12-2-inventory-interface-aac059/</guid>
+      <pubDate>Mon, 16 Nov 2026 05:30:07 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>If inventory or work in process transactions in your Oracle E-Business Suite environment aren&#39;t being costed, one of the first things to check is whether the Cost Manager is running. This post explains what it does, why it matters, and how to start, stop and restart it in EBS 12.2. What the Cost Man</description>
+      <source url="https://dev.to/kumaranm05/starting-stopping-and-restarting-the-cost-manager-in-oracle-ebs-122-inventory-interface-managers-3f9c">Dev Community</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -322,141 +457,6 @@
       <category>Security</category>
       <description>This week, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to explore what truly keeps data safe, and what puts it at risk. They discuss the CIA triad, dive into hashing and encryption, and shed light on how cyber threats like malware, phishing, and ransomware t</description>
       <source url="https://oracleuniversitypodcast.libsyn.com/understanding-security-risks-and-threats-in-the-cloud-part-1">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Networking &amp; Security Essentials</title>
-      <link>https://oracle-university.com/stories/networking-security-essentials-113af4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/networking-security-essentials-113af4/</guid>
-      <pubDate>Tue, 11 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>How do all your devices connect and stay safe in the cloud? In this episode, Lois Houston and Nikita Abraham talk with OCI instructors Sergio Castro and Orlando Gentil about the basics of how networks work and the simple steps that help protect them. You&#39;ll learn how information gets from one place </description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/networking-security-essentials">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Inside Cloud Networking</title>
-      <link>https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</guid>
-      <pubDate>Tue, 04 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>In this episode, hosts Lois Houston and Nikita Abraham team up with Senior Principal OCI Instructor Sergio Castro to unpack the basics of cloud networking and the Domain Name System (DNS). You&#39;ll learn how local and virtual networks connect devices, and how DNS seamlessly translates familiar names l</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/inside-cloud-networking">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 4</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</guid>
-      <pubDate>Tue, 28 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>In this episode, hosts Lois Houston and Nikita Abraham, along with Principal OCI Instructor Orlando Gentil, break down the differences between Infrastructure-as-a-Service, Platform-as-a-Service, and Software-as-a-Service. The conversation explores how each framework influences control, cost efficien</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-4">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 3</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</guid>
-      <pubDate>Tue, 21 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Have you ever considered how a single server can support countless applications and workloads at once? In this episode, hosts Lois Houston and Nikita Abraham, together with Principal OCI Instructor Orlando Gentil, explore the sophisticated technologies that make this possible in modern cloud data ce</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-3">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>AI and Security</title>
-      <link>https://oracle-university.com/stories/ai-and-security-7b0e26/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-and-security-7b0e26/</guid>
-      <pubDate>Tue, 14 Oct 2025 15:58:49 GMT</pubDate>
-      <category>Security</category>
-      <description>In this episode host Oracle Academy Program Manager Benelux &amp; DACH Rik Bleeker speaks with Oracle expert Thomas Minne on the crucial intersection of Artificial Intelligence and data security, explaining why the Oracle Database is foundational to both. Drawing on his 15 years as a DBA and current rol</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-and-security">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 2</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-2-9a562f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-2-9a562f/</guid>
-      <pubDate>Tue, 14 Oct 2025 06:44:39 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Have you ever wondered where all your digital memories, work projects, or favorite photos actually live in the cloud? In this episode, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to discuss cloud storage. They explore how data is carefully organized, the dif</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-2">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>AI for Data: When Data meets Intelligence</title>
-      <link>https://oracle-university.com/stories/ai-for-data-when-data-meets-intelligence-f7601f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-for-data-when-data-meets-intelligence-f7601f/</guid>
-      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In this two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle AI Vector an</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-for-data-when-data-meet-intelligence">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Part II of AI for Data: When Data meets Intelligence</title>
-      <link>https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</guid>
-      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In the second of a two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle A</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-of-data-for-ai-when-data-meets-intelligence">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 1</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</guid>
-      <pubDate>Tue, 07 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Curious about what really goes on inside a cloud data center? In this episode, Lois Houston and Nikita Abraham chat with Principal OCI Instructor Orlando Gentil about how cloud data centers are transforming the way organizations manage technology. They explore the differences between traditional and</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-1">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Oracle AI for Fusion Apps</title>
-      <link>https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</guid>
-      <pubDate>Tue, 23 Sep 2025 11:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Want to make AI work for your business? In today&#39;s episode, Lois Houston and Nikita Abraham continue their discussion of AI in Oracle Fusion Applications by focusing on three key AI capabilities: predictive, generative, and agentic. Joining them is Principal Instructor Yunus Mohammed, who explains h</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-ai-for-fusion-apps">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Oracle&#39;s AI Ecosystem</title>
-      <link>https://oracle-university.com/stories/oracle-s-ai-ecosystem-1d77a2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-s-ai-ecosystem-1d77a2/</guid>
-      <pubDate>Tue, 16 Sep 2025 11:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to explore Oracle&#39;s approach to enterprise AI. The conversation covers the essential components of the Oracle AI stack and how each part, from the foundational infrastructure to business-specific appli</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/oracles-ai-ecosystem">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Buy or Build AI?</title>
-      <link>https://oracle-university.com/stories/buy-or-build-ai-6e5a7d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/buy-or-build-ai-6e5a7d/</guid>
-      <pubDate>Tue, 09 Sep 2025 11:14:43 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>How do you decide whether to buy a ready-made AI solution or build one from the ground up? The choice is more than just a technical decision; it&#39;s about aligning AI with your business goals. In this episode, Lois Houston and Nikita Abraham are joined by Principal Instructor Yunus Mohammed to examine</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/buy-or-build-ai">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>The AI Workflow</title>
-      <link>https://oracle-university.com/stories/the-ai-workflow-2273cc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-ai-workflow-2273cc/</guid>
-      <pubDate>Tue, 02 Sep 2025 11:00:00 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>Join Lois Houston and Nikita Abraham as they chat with Yunus Mohammed, a Principal Instructor at Oracle University, about the key stages of AI model development. From gathering and preparing data to selecting, training, and deploying models, learn how each phase impacts AI&#39;s real-world effectiveness</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/the-ai-workflow">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Core AI Concepts – Part 3</title>
-      <link>https://oracle-university.com/stories/core-ai-concepts-part-3-b8133b/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/core-ai-concepts-part-3-b8133b/</guid>
-      <pubDate>Tue, 26 Aug 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Join hosts Lois Houston and Nikita Abraham, along with Principal AI/ML Instructor Himanshu Raj, as they discuss the transformative world of Generative AI. Together, they uncover the ways in which generative AI agents are changing the way we interact with technology, automating tasks and delivering n</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-3">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Core AI Concepts – Part 2</title>
-      <link>https://oracle-university.com/stories/core-ai-concepts-part-2-7bf4a7/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/core-ai-concepts-part-2-7bf4a7/</guid>
-      <pubDate>Tue, 19 Aug 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>In this episode, Lois Houston and Nikita Abraham continue their discussion on AI fundamentals, diving into Data Science with Principal AI/ML Instructor Himanshu Raj. They explore key concepts like data collection, cleaning, and analysis, and talk about how quality data drives impactful insights. AI </description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/core-ai-concepts-part-2">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>
