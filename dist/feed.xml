@@ -6,8 +6,17 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 03:00:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 02:29:22 GMT</lastBuildDate>
     
+    <item>
+      <title>The Button that did Absolutely Nothing</title>
+      <link>https://oracle-university.com/stories/the-button-that-did-absolutely-nothing-e965b9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-button-that-did-absolutely-nothing-e965b9/</guid>
+      <pubDate>Wed, 18 Nov 2026 13:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>You complete the form, click Save, and wait. The button changes color, but did anything actually happen? This episode follows an apparently broken button through the complete APEX workflow: page submission, validation, conditions, processing, data changes, and user feedback. Along the way, we explor</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-button-that-did-absolutely-nothing">Oracle Academy Tech Chat</source>
+    </item>
     <item>
       <title>Oracle Sets the Date for its First Quarter Fiscal Year 2027 Earnings Announcement</title>
       <link>https://oracle-university.com/stories/oracle-sets-the-date-for-its-first-quarter-fiscal-year-2027-earnings-announcement-a540e9/</link>
@@ -27,202 +36,193 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-Fourth-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>How We Cut an Oracle to Aurora PostgreSQL Cutover From 6 Hours to 45 Seconds</title>
-      <link>https://oracle-university.com/stories/how-we-cut-an-oracle-to-aurora-postgresql-cutover-from-6-hours-to-45-seconds-6d708d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/how-we-cut-an-oracle-to-aurora-postgresql-cutover-from-6-hours-to-45-seconds-6d708d/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:58:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Three weeks before a licensing renewal deadline, my team got told to get a 4TB Oracle database off Oracle entirely. Not &quot;reduce core count,&quot; not &quot;renegotiate,&quot; off. The old plan was a maintenance window: stop the app, export, import, pray, reopen. For a database that size, that&#39;s an outage measured </description>
-      <source url="https://dev.to/arvind_toorpu/how-we-cut-an-oracle-to-aurora-postgresql-cutover-from-6-hours-to-45-seconds-32bf">Dev Community</source>
-    </item>
-    <item>
-      <title>Netherlands Data Center Market - Investment Analysis and Growth Opportunities, 2026-2031 | AI and Cloud Demand Drive 13.15% CAGR and $19.7 Billion Investment</title>
-      <link>https://oracle-university.com/stories/netherlands-data-center-market-investment-analysis-and-growth-opportunities-2026-2031-ai-901c56/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/netherlands-data-center-market-investment-analysis-and-growth-opportunities-2026-2031-ai-901c56/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:52:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Capitalize on lower construction costs, low-latency connectivity, renewable energy adoption, and expanding cloud and AI demand.</description>
-      <source url="https://www.globenewswire.com/fr/news-release/2026/11/16/3403712/28124/en/netherlands-data-center-market-investment-analysis-and-growth-opportunities-2026-2031-ai-and-cloud-demand-drive-13-15-cagr-and-19-7-billion-investment.html">Globenewswire_fr</source>
-    </item>
-    <item>
-      <title>Comparing Accenture (NYSE:ACN) and The Hackett Group (NASDAQ:HCKT)</title>
-      <link>https://oracle-university.com/stories/comparing-accenture-nyse-acn-and-the-hackett-group-nasdaq-hckt-20a122/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/comparing-accenture-nyse-acn-and-the-hackett-group-nasdaq-hckt-20a122/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:45:00 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>The Hackett Group (NASDAQ:HCKT – Get Free Report) and Accenture (NYSE:ACN – Get Free Report) are both technology companies, but which is the better investment? We will contrast the two businesses based on the strength of their analyst recommendations, dividends, earnings, profitability, institutiona</description>
-      <source url="https://www.tickerreport.com/banking-finance/13666320/comparing-accenture-nyseacn-and-the-hackett-group-nasdaqhckt.html">Ticker Report</source>
-    </item>
-    <item>
-      <title>10 Stocks to Buy as Investors Look Beyond NVIDIA</title>
-      <link>https://oracle-university.com/stories/10-stocks-to-buy-as-investors-look-beyond-nvidia-6f5c90/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/10-stocks-to-buy-as-investors-look-beyond-nvidia-6f5c90/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:44:55 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>For three years, the AI trade has been looking up to one face too often. Now it has an interim CEO. On November 12, Jensen Huang resigned as chief executive and board member of one of the largest companies in the world, hours after nerves gripped investors awaiting the outcome of the board’s crisis </description>
-      <source url="https://www.insidermonkey.com/news/10-stocks-to-buy-as-investors-look-beyond-nvidia-1865794/">Insider Trading</source>
-    </item>
-    <item>
-      <title>Earnings call transcript: Veritone posts Q3 2026 revenue miss, shares slide 19%</title>
-      <link>https://oracle-university.com/stories/earnings-call-transcript-veritone-posts-q3-2026-revenue-miss-shares-slide-19-675c4c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/earnings-call-transcript-veritone-posts-q3-2026-revenue-miss-shares-slide-19-675c4c/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:42:15 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Earnings call transcript: Veritone posts Q3 2026 revenue miss, shares slide 19%</description>
-      <source url="https://ca.investing.com/news/stock-market-news/earnings-call-transcript-veritone-posts-q3-2026-revenue-miss-shares-slide-19-93CH-4961395">Investing Canada</source>
-    </item>
-    <item>
-      <title>Dreamteam Raises $53M Led by Accel to Rebuild the $100B CRM Market Around AI Teammates</title>
-      <link>https://oracle-university.com/stories/dreamteam-raises-53m-led-by-accel-to-rebuild-the-100b-crm-market-around-ai-teammates-9dd892/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/dreamteam-raises-53m-led-by-accel-to-rebuild-the-100b-crm-market-around-ai-teammates-9dd892/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:22:11 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Dreamteam raises $53M led by Accel to build an AI-native CRM that learns from every customer conversation and puts AI teammates to work on deals.</description>
-      <source url="https://hackernoon.com/dreamteam-raises-$53m-led-by-accel-to-rebuild-the-$100b-crm-market-around-ai-teammates">Hackernoon</source>
-    </item>
-    <item>
-      <title>Top Blockchain Stocks To Keep An Eye On – November 13th</title>
-      <link>https://oracle-university.com/stories/top-blockchain-stocks-to-keep-an-eye-on-november-13th-ed5422/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-blockchain-stocks-to-keep-an-eye-on-november-13th-ed5422/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:13:01 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Core Scientific, Figure Technology Solutions, Bitdeer Technologies Group, Digi Power X, Globant, BTQ Technologies, and Mercurity Fintech are the seven Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. “Blockchain stocks” are shares of publicly traded companies whose bu</description>
-      <source url="https://zolmax.com/investing/top-blockchain-stocks-to-keep-an-eye-on-november-13th/12078283.html">Zolmax</source>
-    </item>
-    <item>
-      <title>New Jersey-based Shore Medical Center and Shore Physicians Group Select Oracle Health&#39;s New AI-Powered EHR to Create a More Connected Experience for Patients and Care Teams</title>
-      <link>https://oracle-university.com/stories/new-jersey-based-shore-medical-center-and-shore-physicians-group-select-oracle-health-s--bf8997/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/new-jersey-based-shore-medical-center-and-shore-physicians-group-select-oracle-health-s--bf8997/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:12:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Technology will unify Shore Medical Center and Shore Physicians Group to streamline care, improve communication, and enhance the patient experience AUSTIN, Texas, Nov. 16, 2026 /PRNewswire/ -- Shore Medical Center and Shore Physicians Group (Shore) is expanding its longstanding...</description>
-      <source url="https://www.prnewswire.com/news-releases/new-jersey-based-shore-medical-center-and-shore-physicians-group-select-oracle-healths-new-ai-powered-ehr-to-create-a-more-connected-experience-for-patients-and-care-teams-302940524.html">Pr Newswire</source>
-    </item>
-    <item>
-      <title>Larry Ellison Has Lost $145 Billion in Net Worth Over the Past Year as Oracle Stock Fell 59% From Its Peak. Here&#39;s Why Oracle&#39;s Heavy Concentration in OpenAI Has Wall Street Nervous.</title>
-      <link>https://oracle-university.com/stories/larry-ellison-has-lost-145-billion-in-net-worth-over-the-past-year-as-oracle-stock-fell--27407d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/larry-ellison-has-lost-145-billion-in-net-worth-over-the-past-year-as-oracle-stock-fell--27407d/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:09:00 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Oracle is estimated to have over $300 billion in orders from OpenAI, and Wall Street thinks that could be a bad thing.</description>
-      <source url="https://www.fool.com/investing/2026/11/16/larry-ellison-has-lost-145-billion-in-net-worth-ov/">Fool</source>
-    </item>
-    <item>
-      <title>Pythian Featured in Google Cloud Partner Webcast Series on Enterprise Agentic AI Workflow Automation</title>
-      <link>https://oracle-university.com/stories/pythian-featured-in-google-cloud-partner-webcast-series-on-enterprise-agentic-ai-workflo-b45736/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/pythian-featured-in-google-cloud-partner-webcast-series-on-enterprise-agentic-ai-workflo-b45736/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Three-part webcast series with CTO Magazine shows how Pythian helps enterprises move beyond AI tools to automate workflows and deliver measurable value</description>
-      <source url="https://www.einpresswire.com/article/956582289/pythian-featured-in-google-cloud-partner-webcast-series-on-enterprise-agentic-ai-workflow-automation">Ein Presswire</source>
-    </item>
-    <item>
-      <title>Redgate Monitor product updates – November 2026</title>
-      <link>https://oracle-university.com/stories/redgate-monitor-product-updates-november-2026-afbe21/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/redgate-monitor-product-updates-november-2026-afbe21/</guid>
-      <pubDate>Mon, 16 Nov 2026 13:09:26 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Most database estates don&#39;t run on one platform anymore. 84% of organizations use more than one, according to Redgate&#39;s State of the Database Landscape research, and every new platform tends to arrive with its own tool, its own dashboards and its own way of doing things.</description>
-      <source url="https://www.red-gate.com/blog/redgate-monitor-product-updates-november-2026/">Red Gate Software</source>
-    </item>
-    <item>
-      <title>Oracle Corporation $ORCL Stock Bought by Intech Investment Management LLC</title>
-      <link>https://oracle-university.com/stories/oracle-corporation-orcl-stock-bought-by-intech-investment-management-llc-90cf1f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-stock-bought-by-intech-investment-management-llc-90cf1f/</guid>
-      <pubDate>Mon, 16 Nov 2026 12:43:30 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Intech Investment Management LLC raised its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 48.9% in the third quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission. The fund owned 464,644 shares of the enterprise software provider’s stock after a</description>
-      <source url="https://www.tickerreport.com/banking-finance/13665946/oracle-corporation-orcl-stock-bought-by-intech-investment-management-llc.html">Ticker Report</source>
-    </item>
-    <item>
-      <title>Nvidia Earnings, Fed Minutes, Anthropic’s IPO Put AI Rally To The Test: 3 Charts To Watch This Week</title>
-      <link>https://oracle-university.com/stories/nvidia-earnings-fed-minutes-anthropic-s-ipo-put-ai-rally-to-the-test-3-charts-to-watch-t-2b07a6/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/nvidia-earnings-fed-minutes-anthropic-s-ipo-put-ai-rally-to-the-test-3-charts-to-watch-t-2b07a6/</guid>
-      <pubDate>Mon, 16 Nov 2026 12:30:07 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>The post-IPO performance of SpaceX and Cerebras shows that strong initial demand does not guarantee that newly listed popular stocks will sustain their offering prices.</description>
-      <source url="https://newsable.asianetnews.com/markets/nvidia-earnings-fed-minutes-anthropic-s-ipo-put-ai-rally-to-the-test-3-charts-to-watch-this-week-articleshow-8xcm8ba">Asianet Newsable</source>
-    </item>
-    <item>
-      <title>Mindware to showcase the &quot;Flow of Intelligence&quot; at GITEX Global 2026</title>
-      <link>https://oracle-university.com/stories/mindware-to-showcase-the-flow-of-intelligence-at-gitex-global-2026-417451/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/mindware-to-showcase-the-flow-of-intelligence-at-gitex-global-2026-417451/</guid>
-      <pubDate>Mon, 16 Nov 2026 12:03:08 GMT</pubDate>
+      <title>Global Markdown Risk Scoring Market Report 2026: Forecast to 2030 | Capitalize on 15.3% CAGR as IBM, Oracle, SAP, FICO and Zest AI Accelerate AI, Cloud and Predictive Analytics</title>
+      <link>https://oracle-university.com/stories/global-markdown-risk-scoring-market-report-2026-forecast-to-2030-capitalize-on-15-3-cagr-3fa7bc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/global-markdown-risk-scoring-market-report-2026-forecast-to-2030-capitalize-on-15-3-cagr-3fa7bc/</guid>
+      <pubDate>Tue, 17 Nov 2026 14:27:00 GMT</pubDate>
       <category>Security</category>
-      <description>Value-added distributor to demonstrate how AI, cybersecurity, cloud and data technologies converge to accelerate business transformation and create new growth opportunities for channel partners</description>
-      <source url="https://www.zawya.com/en/press-release/companies-news/mindware-to-showcase-the-flow-of-intelligence-at-gitex-global-2026-2284537">Zawya</source>
+      <description>Boost ROI with AI-led pricing, predictive demand models, real-time discount and inventory monitoring, scenario simulations, automated markdowns and promotion analysis.</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/11/17/3404766/28124/en/global-markdown-risk-scoring-market-report-2026-forecast-to-2030-capitalize-on-15-3-cagr-as-ibm-oracle-sap-fico-and-zest-ai-accelerate-ai-cloud-and-predictive-analytics.html">Globenewswire_fr</source>
     </item>
     <item>
-      <title>Coinbase and Broadridge Publish Proposed Standard for Onchain Shareholder Communications; Broadridge Launches Data Oracle</title>
-      <link>https://oracle-university.com/stories/coinbase-and-broadridge-publish-proposed-standard-for-onchain-shareholder-communications-743f53/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/coinbase-and-broadridge-publish-proposed-standard-for-onchain-shareholder-communications-743f53/</guid>
-      <pubDate>Mon, 16 Nov 2026 12:00:00 GMT</pubDate>
+      <title>Global Retail Technology Market Report 2026 | Capitalize on AI, Cloud and Omnichannel Demand as Microsoft, Oracle, Salesforce and SAP Drive the Market to $338.55B by 2030</title>
+      <link>https://oracle-university.com/stories/global-retail-technology-market-report-2026-capitalize-on-ai-cloud-and-omnichannel-deman-361ef9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/global-retail-technology-market-report-2026-capitalize-on-ai-cloud-and-omnichannel-deman-361ef9/</guid>
+      <pubDate>Tue, 17 Nov 2026 14:24:00 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>Open standard and supporting oracle connect wallet-based communications with verifiable evidence of distribution, building on Broadridge&#39;s existing onchain governance capabilities NEW YORK, Nov. 16, 2026 /PRNewswire/ -- Coinbase and Broadridge (NYSE: BR) today announced the publication of...</description>
-      <source url="https://www.prnewswire.com/news-releases/coinbase-and-broadridge-publish-proposed-standard-for-onchain-shareholder-communications-broadridge-launches-data-oracle-302939893.html">Pr Newswire</source>
+      <description>Boost ROI with AI analytics, cloud omnichannel platforms, automated inventory, digital payments, self-service POS and loyalty tools to improve efficiency and engagement.</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/11/17/3404756/28124/en/global-retail-technology-market-report-2026-capitalize-on-ai-cloud-and-omnichannel-demand-as-microsoft-oracle-salesforce-and-sap-drive-the-market-to-338-55b-by-2030.html">Globenewswire_fr</source>
     </item>
     <item>
-      <title>How to Use Naan Mudhalvan (TN Skill) as an Engineering Student</title>
-      <link>https://oracle-university.com/stories/how-to-use-naan-mudhalvan-tn-skill-as-an-engineering-student-f8c914/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/how-to-use-naan-mudhalvan-tn-skill-as-an-engineering-student-f8c914/</guid>
-      <pubDate>Mon, 16 Nov 2026 11:49:06 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>Naan Mudhalvan (now TN Skill) gives Tamil Nadu engineering students free, credit-linked courses. Learn how to pair them with in-demand tech stacks and projects.</description>
-      <source url="https://entri.app/blog/how-to-use-naan-mudhalvan-tn-skill-as-an-engineering-student/">Entri</source>
+      <title>Singular Link Invests in FluidCloud as Saudi Arabia Expands Sovereign Cloud and AI Infrastructure</title>
+      <link>https://oracle-university.com/stories/singular-link-invests-in-fluidcloud-as-saudi-arabia-expands-sovereign-cloud-and-ai-infra-ac7166/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/singular-link-invests-in-fluidcloud-as-saudi-arabia-expands-sovereign-cloud-and-ai-infra-ac7166/</guid>
+      <pubDate>Tue, 17 Nov 2026 14:15:42 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>FluidCloud&#39;s Large Infrastructure Model and Cloud Cloning™ technology help enterprises reproduce, recover and operate complete infrastructure environments across clouds PLEASANTON, Calif. and RIYADH, Saudi Arabia, Nov. 17, 2026 (GLOBE NEWSWIRE) -- FluidCloud, the infrastructure software company behi</description>
+      <source url="https://www.manilatimes.net/2026/11/17/tmt-newswire/globenewswire/singular-link-invests-in-fluidcloud-as-saudi-arabia-expands-sovereign-cloud-and-ai-infrastructure/2472194">The Manila Times</source>
     </item>
     <item>
-      <title>Oracle elevates former Amazon, Microsoft execs to lead networking unit</title>
-      <link>https://oracle-university.com/stories/oracle-elevates-former-amazon-microsoft-execs-to-lead-networking-unit-56ab0c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-elevates-former-amazon-microsoft-execs-to-lead-networking-unit-56ab0c/</guid>
-      <pubDate>Mon, 16 Nov 2026 11:27:09 GMT</pubDate>
+      <title>Archive360 Appoints Manouj Tahiliani as Chief Executive Officer</title>
+      <link>https://oracle-university.com/stories/archive360-appoints-manouj-tahiliani-as-chief-executive-officer-b54c99/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/archive360-appoints-manouj-tahiliani-as-chief-executive-officer-b54c99/</guid>
+      <pubDate>Tue, 17 Nov 2026 14:02:00 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.sdxcentral.com/news/oracle-elevates-former-amazon-microsoft-execs-to-lead-networking-unit/">Sdxcentral</source>
+      <description>Former Salesforce and Informatica executive to accelerate company&#39;s growth and expansion into AI-ready data governance and discovery NEW YORK, Nov. 17, 2026 /PRNewswire/ -- Archive360 today announced the appointment of Manouj Tahiliani as chief executive officer. Tahiliani will lead...</description>
+      <source url="https://www.prnewswire.com/news-releases/archive360-appoints-manouj-tahiliani-as-chief-executive-officer-302941679.html">Pr Newswire</source>
     </item>
     <item>
-      <title>Why Is the Business Rule Management Market Becoming a Key Investment Opportunity Amid Rising Demand for AI-Driven Decision Automation and Enterprise Process Efficiency</title>
-      <link>https://oracle-university.com/stories/why-is-the-business-rule-management-market-becoming-a-key-investment-opportunity-amid-ri-93db4c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/why-is-the-business-rule-management-market-becoming-a-key-investment-opportunity-amid-ri-93db4c/</guid>
-      <pubDate>Mon, 16 Nov 2026 10:56:13 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>According to DataM Intelligence (DMI) analysis, the Global Business Rule Management Market was valued at USD 1.54 billion in 2025 and is projected to reach USD 4.64 billion by 2035, growing at a CAGR of 11.7% during the forecast period</description>
-      <source url="https://www.openpr.com/news/4691032/why-is-the-business-rule-management-market-becoming-a-key">Openpr.com</source>
+      <title>From AI-Powered Permits to Smarter Emergency Response: America&#39;s Most Innovative Digital Cities Revealed</title>
+      <link>https://oracle-university.com/stories/from-ai-powered-permits-to-smarter-emergency-response-america-s-most-innovative-digital--8e673b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/from-ai-powered-permits-to-smarter-emergency-response-america-s-most-innovative-digital--8e673b/</guid>
+      <pubDate>Tue, 17 Nov 2026 14:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Center for Digital Government&#39;s 2026 Digital Cities Survey celebrates 25 years of cities using technology to solve real problems and deliver better services</description>
+      <source url="https://www.einpresswire.com/article/956970575/from-ai-powered-permits-to-smarter-emergency-response-america-s-most-innovative-digital-cities-revealed">Ein Presswire</source>
     </item>
     <item>
-      <title>Oracle (ORCL) Stock Price Prediction: Oracle tests key support as bearish trend meets steady derivatives demand</title>
-      <link>https://oracle-university.com/stories/oracle-orcl-stock-price-prediction-oracle-tests-key-support-as-bearish-trend-meets-stead-dd549e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-orcl-stock-price-prediction-oracle-tests-key-support-as-bearish-trend-meets-stead-dd549e/</guid>
-      <pubDate>Mon, 16 Nov 2026 10:02:23 GMT</pubDate>
+      <title>Oracle Corporation $ORCL Shares Acquired by Banco Santander S.A.</title>
+      <link>https://oracle-university.com/stories/oracle-corporation-orcl-shares-acquired-by-banco-santander-s-a-ee4f59/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-shares-acquired-by-banco-santander-s-a-ee4f59/</guid>
+      <pubDate>Tue, 17 Nov 2026 13:01:24 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Oracle (ORCL) traded at $123.09, down 1.38% at the Nov. 13 close and slightly higher in the latest futures read, while the short-term technical structure remains bearish with price below the 7-, 20... (Read More)</description>
-      <source url="https://blockchain.news/news/20261116-price-prediction-orcl-oracle-tests-key-support-as-bearish">Blockchain News</source>
+      <description>Banco Santander S.A. raised its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 17.2% during the 3rd quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC). The fund owned 848,146 shares of the enterprise software provider’s stock a</description>
+      <source url="https://www.defenseworld.net/2026/11/17/oracle-corporation-orcl-shares-acquired-by-banco-santander-s-a.html">Defenseworld Net</source>
     </item>
     <item>
-      <title>Again, court strikes out Citadel MD, Benjamin Joseph’s suit against Zinox, affirms Tech giant’s innocence in long-running dispute</title>
-      <link>https://oracle-university.com/stories/again-court-strikes-out-citadel-md-benjamin-joseph-s-suit-against-zinox-affirms-tech-gia-73a536/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/again-court-strikes-out-citadel-md-benjamin-joseph-s-suit-against-zinox-affirms-tech-gia-73a536/</guid>
-      <pubDate>Mon, 16 Nov 2026 06:41:59 GMT</pubDate>
+      <title>Does This TX Town Want LNG Or Not?, Amazon Fermi Deal Again, How Is TX Land Valued Now?</title>
+      <link>https://oracle-university.com/stories/does-this-tx-town-want-lng-or-not-amazon-fermi-deal-again-how-is-tx-land-valued-now-b6651e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/does-this-tx-town-want-lng-or-not-amazon-fermi-deal-again-how-is-tx-land-valued-now-b6651e/</guid>
+      <pubDate>Tue, 17 Nov 2026 11:27:29 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>The High Court of the Federal Capital Territory, Abuja, has struck out a fundamental rights suit against Zinox Technologies Limited and the Attorney-General of the Federation. The case was instituted by the CEO of Ibadan-based Citadel Oracle Concepts Limited, Mr Benjamin Joseph who hails from Enugu </description>
-      <source url="https://nationalaccordnewspaper.com/again-court-strikes-out-citadel-md-benjamin-josephs-suit-against-zinox-affirms-tech-giants-innocence-in-long-running-dispute/">The Nation Newspaper</source>
+      <description>The Tuesday early morning NewClips from twice-daily Texas Energy Report, where politics meets energy from the Energy Capital of the World</description>
+      <source url="https://texasenergyreport.com/p/does-this-tx-town-want-lng-or-not">The Texas Energy Report</source>
     </item>
     <item>
-      <title>A first for Morrisons and an important step for Jysk: last week’s biggest retail technology plays</title>
-      <link>https://oracle-university.com/stories/a-first-for-morrisons-and-an-important-step-for-jysk-last-week-s-biggest-retail-technolo-ff5c35/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/a-first-for-morrisons-and-an-important-step-for-jysk-last-week-s-biggest-retail-technolo-ff5c35/</guid>
-      <pubDate>Mon, 16 Nov 2026 05:32:34 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>RTIH rounds up the stand out retail technology deals, launches, deployments and pilots from the past seven days. Including Vinted, Rokt, Gregss, Auror, ASICS, Corvus Robotics, Asos, Dollar General, Fortnum &amp; Mason, Oracle Retail, Walmart, Wing, Crew Clothing Company, Monsoon Accessorize, PMC, Mc</description>
-      <source url="https://retailtechinnovationhub.com/home/2026/11/16/a-first-for-morrisons-and-an-important-step-for-jysk-last-weeks-biggest-retail-technology-plays">Retail Technology Innovation Hub</source>
+      <title>5,500 Oracle Corporation $ORCL Shares Bought by SBI Okasan Asset Management Co. Ltd.</title>
+      <link>https://oracle-university.com/stories/5-500-oracle-corporation-orcl-shares-bought-by-sbi-okasan-asset-management-co-ltd-1fef4f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/5-500-oracle-corporation-orcl-shares-bought-by-sbi-okasan-asset-management-co-ltd-1fef4f/</guid>
+      <pubDate>Tue, 17 Nov 2026 11:21:27 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>SBI Okasan Asset Management Co. Ltd. raised its holdings in shares of Oracle Corporation (NYSE:ORCL - Free Report) by 88.7% in the third quarter, according to the company in its most recent Form 13F filing with the Securities &amp; Exchange Commission. The fund owned 11,700 shares of the enterprise s</description>
+      <source url="https://www.marketbeat.com/instant-alerts/filing-5500-oracle-corporation-orcl-shares-bought-by-sbi-okasan-asset-management-coltd-2026-11-17/">Market Beat</source>
     </item>
     <item>
-      <title>Starting, Stopping and Restarting the Cost Manager in Oracle EBS 12.2 (Inventory Interface Managers)</title>
-      <link>https://oracle-university.com/stories/starting-stopping-and-restarting-the-cost-manager-in-oracle-ebs-12-2-inventory-interface-aac059/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/starting-stopping-and-restarting-the-cost-manager-in-oracle-ebs-12-2-inventory-interface-aac059/</guid>
-      <pubDate>Mon, 16 Nov 2026 05:30:07 GMT</pubDate>
+      <title>Why Is the Sovereign AI Infrastructure Market Becoming a Top Investment Priority Amid Rising Demand for Data Sovereignty and National AI Capabilities</title>
+      <link>https://oracle-university.com/stories/why-is-the-sovereign-ai-infrastructure-market-becoming-a-top-investment-priority-amid-ri-b88ac4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/why-is-the-sovereign-ai-infrastructure-market-becoming-a-top-investment-priority-amid-ri-b88ac4/</guid>
+      <pubDate>Tue, 17 Nov 2026 11:02:39 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>If inventory or work in process transactions in your Oracle E-Business Suite environment aren&#39;t being costed, one of the first things to check is whether the Cost Manager is running. This post explains what it does, why it matters, and how to start, stop and restart it in EBS 12.2. What the Cost Man</description>
-      <source url="https://dev.to/kumaranm05/starting-stopping-and-restarting-the-cost-manager-in-oracle-ebs-122-inventory-interface-managers-3f9c">Dev Community</source>
+      <description>According to DataM Intelligence (DMI) analysis, the Global Sovereign AI Infrastructure Market was valued at USD 20.8 billion in 2025 and is expected to reach USD 120.7 billion by 2035, growing at a CAGR of 19.23% during the forecast period</description>
+      <source url="https://www.openpr.com/news/4692263/why-is-the-sovereign-ai-infrastructure-market-becoming-a-top">Openpr.com</source>
+    </item>
+    <item>
+      <title>CoreWeave Answered the Biggest Question About AI Stocks. Now Nvidia Has to Confirm It.</title>
+      <link>https://oracle-university.com/stories/coreweave-answered-the-biggest-question-about-ai-stocks-now-nvidia-has-to-confirm-it-8d069f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/coreweave-answered-the-biggest-question-about-ai-stocks-now-nvidia-has-to-confirm-it-8d069f/</guid>
+      <pubDate>Tue, 17 Nov 2026 10:43:01 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>CoreWeave&#39;s strong quarter eased the market&#39;s biggest worry about AI spending. Here&#39;s what it did and didn&#39;t settle.</description>
+      <source url="https://www.fool.com/investing/2026/11/17/coreweave-answered-the-biggest-question-about-ai-stocks-now-nvidia-has-to-confirm-it/">Fool</source>
+    </item>
+    <item>
+      <title>Inside OT’s Fundamentals Gap: A PLC Fault, an AI Exploit, and Leaked Identities</title>
+      <link>https://oracle-university.com/stories/inside-ot-s-fundamentals-gap-a-plc-fault-an-ai-exploit-and-leaked-identities-f04218/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/inside-ot-s-fundamentals-gap-a-plc-fault-an-ai-exploit-and-leaked-identities-f04218/</guid>
+      <pubDate>Tue, 17 Nov 2026 10:42:58 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>On October 27, Google published its final incident report on the London power failure that took its europe-west2-b... The post Inside OT’s Fundamentals Gap: A PLC Fault, an AI Exploit, and Leaked Identities appeared first on Industrial Cyber.</description>
+      <source url="https://industrialcyber.co/expert/inside-ots-fundamentals-gap-a-plc-fault-an-ai-exploit-and-leaked-identities/">Industrial Cyber</source>
+    </item>
+    <item>
+      <title>Supply Chain Management Market Size, Share, Trends, and Industry Forecast</title>
+      <link>https://oracle-university.com/stories/supply-chain-management-market-size-share-trends-and-industry-forecast-957c30/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/supply-chain-management-market-size-share-trends-and-industry-forecast-957c30/</guid>
+      <pubDate>Tue, 17 Nov 2026 10:10:24 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Polaris Market Research has published a new report on the global Supply Chain Management Market. It examines the market’s current position and future prospects. It [read full press release...]</description>
+      <source url="https://express-press-release.net/news/2026/11/17/1783267">Express-press-release</source>
+    </item>
+    <item>
+      <title>India IT Spending to Reach ₹16.94 Trillion in 2027: Microsoft, AWS, Google, Dell, TCS and Infosys Target AI and Cloud Growth</title>
+      <link>https://oracle-university.com/stories/india-it-spending-to-reach-16-94-trillion-in-2027-microsoft-aws-google-dell-tcs-and-info-8903d2/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/india-it-spending-to-reach-16-94-trillion-in-2027-microsoft-aws-google-dell-tcs-and-info-8903d2/</guid>
+      <pubDate>Tue, 17 Nov 2026 09:55:33 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>India’s IT spending is forecast to increase 10.6 percent to ₹16.94 trillion in 2027, with infrastructure as a service (IaaS), data center systems and enterprise software recording the strongest growth, according to Gartner. Global technology companies including Microsoft, Amazon Web Services, Google</description>
+      <source url="https://infotechlead.com/networking/india-it-spending-to-reach-%E2%82%B916-94-trillion-in-2027-microsoft-aws-google-dell-tcs-and-infosys-target-ai-and-cloud-growth-99691">Infotech Lead</source>
+    </item>
+    <item>
+      <title>Neo4j Strengthens India Leadership with Vimal Venkatram</title>
+      <link>https://oracle-university.com/stories/neo4j-strengthens-india-leadership-with-vimal-venkatram-3b216f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/neo4j-strengthens-india-leadership-with-vimal-venkatram-3b216f/</guid>
+      <pubDate>Tue, 17 Nov 2026 09:22:37 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Neo4j®, the world’s leading graph intelligence platform, announced the appointment of Vimal Venkatram as Country Manager and Regional Vice President for India. Based in Mumbai, Venkatram will be responsible for driving Neo4j’s growth in India, with a focus on deepening enterprise relationships, expa</description>
+      <source url="https://smestreet.in/infocus/neo4j-strengthens-india-leadership-with-vimal-venkatram-12816770">Smestreet In</source>
+    </item>
+    <item>
+      <title>Oracle Corporation $ORCL Stock: First Financial Bankshares Inc Increases Holdings</title>
+      <link>https://oracle-university.com/stories/oracle-corporation-orcl-stock-first-financial-bankshares-inc-increases-holdings-87647e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-stock-first-financial-bankshares-inc-increases-holdings-87647e/</guid>
+      <pubDate>Tue, 17 Nov 2026 09:20:45 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>First Financial Bankshares Inc raised its position in shares of Oracle Corporation (NYSE:ORCL - Free Report) by 9.1% in the 3rd quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 154,967 shares of t</description>
+      <source url="https://www.marketbeat.com/instant-alerts/filing-oracle-corporation-orcl-stock-first-financial-bankshares-inc-increases-holdings-2026-11-17/">Market Beat</source>
+    </item>
+    <item>
+      <title>Top 16 AI/ML Engineering Companies</title>
+      <link>https://oracle-university.com/stories/top-16-ai-ml-engineering-companies-8a4cb8/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/top-16-ai-ml-engineering-companies-8a4cb8/</guid>
+      <pubDate>Tue, 17 Nov 2026 08:14:52 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Verified client ratings and technical analysis of 16 AI/ML engineering companies, with practical guidance on how to evaluate production expertise, compliance maturity, and cost transparency.</description>
+      <source url="https://www.simform.com/blog/top-ai-ml-engineering-companies/">Simform</source>
+    </item>
+    <item>
+      <title>Pavan Kumar Adabala on Building Reliable AI Systems Through Strong Enterprise ERP Foundations</title>
+      <link>https://oracle-university.com/stories/pavan-kumar-adabala-on-building-reliable-ai-systems-through-strong-enterprise-erp-founda-3c2d7e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/pavan-kumar-adabala-on-building-reliable-ai-systems-through-strong-enterprise-erp-founda-3c2d7e/</guid>
+      <pubDate>Tue, 17 Nov 2026 06:50:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Discover how Pavan Kumar Adabala’s TRACE framework uses reliable ERP data, business governance and system integration to build safer, more effective enterprise AI automation.</description>
+      <source url="https://www.analyticsinsight.net/artificial-intelligence/pavan-kumar-adabala-on-building-reliable-ai-systems-through-strong-enterprise-erp-foundations">Analytics And Insight</source>
+    </item>
+    <item>
+      <title>Predictive Maintenance Market Expands as AI, IoT, and Industrial Automation Drive Demand for Proactive Asset Management Solutions</title>
+      <link>https://oracle-university.com/stories/predictive-maintenance-market-expands-as-ai-iot-and-industrial-automation-drive-demand-f-20e401/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/predictive-maintenance-market-expands-as-ai-iot-and-industrial-automation-drive-demand-f-20e401/</guid>
+      <pubDate>Tue, 17 Nov 2026 06:45:31 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Polaris Market Research has published a new report on the global Predictive Maintenance Market It examines the market’s current position and future prospects. It covers [read full press release...]</description>
+      <source url="https://express-press-release.net/news/2026/11/17/1783105">Express-press-release</source>
+    </item>
+    <item>
+      <title>Human Capital Management Market Growth Accelerates as Businesses Adopt AI-Powered HR Solutions and Advanced Workforce Management Technologies</title>
+      <link>https://oracle-university.com/stories/human-capital-management-market-growth-accelerates-as-businesses-adopt-ai-powered-hr-sol-a9fa2b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/human-capital-management-market-growth-accelerates-as-businesses-adopt-ai-powered-hr-sol-a9fa2b/</guid>
+      <pubDate>Tue, 17 Nov 2026 06:41:23 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Polaris Market Research has published a new report on the global Human Capital Management Market It examines the market’s current position and future prospects. It [read full press release...]</description>
+      <source url="https://express-press-release.net/news/2026/11/17/1783101">Express-press-release</source>
+    </item>
+    <item>
+      <title>Applicant Tracking System Market Growth Accelerates as Businesses Embrace AI-Powered Recruitment and Smarter Talent Acquisition Solutions</title>
+      <link>https://oracle-university.com/stories/applicant-tracking-system-market-growth-accelerates-as-businesses-embrace-ai-powered-rec-eee58c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/applicant-tracking-system-market-growth-accelerates-as-businesses-embrace-ai-powered-rec-eee58c/</guid>
+      <pubDate>Tue, 17 Nov 2026 06:31:22 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Polaris Market Research has published a new report on the global Applicant Tracking System Market It examines the market’s current position and future prospects. It [read full press release...]</description>
+      <source url="https://express-press-release.net/news/2026/11/17/1783079">Express-press-release</source>
+    </item>
+    <item>
+      <title>Neo4j Appoints Snowflake Veteran Vimal Venkatram to Lead India Business</title>
+      <link>https://oracle-university.com/stories/neo4j-appoints-snowflake-veteran-vimal-venkatram-to-lead-india-business-b67a69/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/neo4j-appoints-snowflake-veteran-vimal-venkatram-to-lead-india-business-b67a69/</guid>
+      <pubDate>Tue, 17 Nov 2026 05:15:12 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The appointment comes as the graph intelligence company expands its enterprise and partner ecosystem to support growing demand for connected data and production-ready AI. Neo4j has appointed Vimal Venkatram as Country Manager and Regional Vice President for India, strengthening its leadership as ent</description>
+      <source url="https://enterpriseitworld.com/neo4j-appoints-snowflake-veteran-vimal-venkatram-to-lead-india-business/">Enterprise It World</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
