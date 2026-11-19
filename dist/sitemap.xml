@@ -1,44 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://oracle-university.com/</loc><lastmod>2026-11-18T02:29:22.362Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/</loc><lastmod>2026-11-18T02:29:22.362Z</lastmod></url>
-  <url><loc>https://oracle-university.com/about/</loc><lastmod>2026-11-18T02:29:22.362Z</lastmod></url>
-  <url><loc>https://oracle-university.com/editorial-policy/</loc><lastmod>2026-11-18T02:29:22.362Z</lastmod></url>
-  <url><loc>https://oracle-university.com/sources/</loc><lastmod>2026-11-18T02:29:22.362Z</lastmod></url>
-  <url><loc>https://oracle-university.com/privacy/</loc><lastmod>2026-11-18T02:29:22.362Z</lastmod></url>
-  <url><loc>https://oracle-university.com/trademark-disclaimer/</loc><lastmod>2026-11-18T02:29:22.362Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/oracle-cloud/</loc><lastmod>2026-11-18T02:29:22.362Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/ai-database/</loc><lastmod>2026-11-18T02:29:22.362Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/security/</loc><lastmod>2026-11-18T02:29:22.362Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/training-certification/</loc><lastmod>2026-11-18T02:29:22.362Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/java-mysql/</loc><lastmod>2026-11-18T02:29:22.362Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/applications-netsuite/</loc><lastmod>2026-11-18T02:29:22.362Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/business-earnings/</loc><lastmod>2026-11-18T02:29:22.362Z</lastmod></url>
-  <url><loc>https://oracle-university.com/topics/oracle-ecosystem/</loc><lastmod>2026-11-18T02:29:22.362Z</lastmod></url>
+  <url><loc>https://oracle-university.com/</loc><lastmod>2026-11-19T01:55:43.372Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/</loc><lastmod>2026-11-19T01:55:43.372Z</lastmod></url>
+  <url><loc>https://oracle-university.com/about/</loc><lastmod>2026-11-19T01:55:43.372Z</lastmod></url>
+  <url><loc>https://oracle-university.com/editorial-policy/</loc><lastmod>2026-11-19T01:55:43.372Z</lastmod></url>
+  <url><loc>https://oracle-university.com/sources/</loc><lastmod>2026-11-19T01:55:43.372Z</lastmod></url>
+  <url><loc>https://oracle-university.com/privacy/</loc><lastmod>2026-11-19T01:55:43.372Z</lastmod></url>
+  <url><loc>https://oracle-university.com/trademark-disclaimer/</loc><lastmod>2026-11-19T01:55:43.372Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/oracle-cloud/</loc><lastmod>2026-11-19T01:55:43.372Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/ai-database/</loc><lastmod>2026-11-19T01:55:43.372Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/security/</loc><lastmod>2026-11-19T01:55:43.372Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/training-certification/</loc><lastmod>2026-11-19T01:55:43.372Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/java-mysql/</loc><lastmod>2026-11-19T01:55:43.372Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/applications-netsuite/</loc><lastmod>2026-11-19T01:55:43.372Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/business-earnings/</loc><lastmod>2026-11-19T01:55:43.372Z</lastmod></url>
+  <url><loc>https://oracle-university.com/topics/oracle-ecosystem/</loc><lastmod>2026-11-19T01:55:43.372Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/the-button-that-did-absolutely-nothing-e965b9/</loc><lastmod>2026-11-18T13:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/the-dashboard-nobody-can-read-2a4919/</loc><lastmod>2026-11-18T13:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/congratulations-you-just-gave-everyone-admin-access-e1cc13/</loc><lastmod>2026-11-18T13:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/why-is-my-report-showing-12-000-rows-5c09b4/</loc><lastmod>2026-11-18T13:00:00.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/oracle-sets-the-date-for-its-first-quarter-fiscal-year-2027-earnings-announcement-a540e9/</loc><lastmod>2026-09-02T20:00:00.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/oracle-sets-the-date-for-its-fourth-quarter-fiscal-year-2026-earnings-announcement-3a2dd3/</loc><lastmod>2026-06-01T20:01:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/global-markdown-risk-scoring-market-report-2026-forecast-to-2030-capitalize-on-15-3-cagr-3fa7bc/</loc><lastmod>2026-11-17T14:27:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/global-retail-technology-market-report-2026-capitalize-on-ai-cloud-and-omnichannel-deman-361ef9/</loc><lastmod>2026-11-17T14:24:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/singular-link-invests-in-fluidcloud-as-saudi-arabia-expands-sovereign-cloud-and-ai-infra-ac7166/</loc><lastmod>2026-11-17T14:15:42.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/archive360-appoints-manouj-tahiliani-as-chief-executive-officer-b54c99/</loc><lastmod>2026-11-17T14:02:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/from-ai-powered-permits-to-smarter-emergency-response-america-s-most-innovative-digital--8e673b/</loc><lastmod>2026-11-17T14:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-corporation-orcl-shares-acquired-by-banco-santander-s-a-ee4f59/</loc><lastmod>2026-11-17T13:01:24.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/does-this-tx-town-want-lng-or-not-amazon-fermi-deal-again-how-is-tx-land-valued-now-b6651e/</loc><lastmod>2026-11-17T11:27:29.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/5-500-oracle-corporation-orcl-shares-bought-by-sbi-okasan-asset-management-co-ltd-1fef4f/</loc><lastmod>2026-11-17T11:21:27.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/why-is-the-sovereign-ai-infrastructure-market-becoming-a-top-investment-priority-amid-ri-b88ac4/</loc><lastmod>2026-11-17T11:02:39.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/coreweave-answered-the-biggest-question-about-ai-stocks-now-nvidia-has-to-confirm-it-8d069f/</loc><lastmod>2026-11-17T10:43:01.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/inside-ot-s-fundamentals-gap-a-plc-fault-an-ai-exploit-and-leaked-identities-f04218/</loc><lastmod>2026-11-17T10:42:58.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/supply-chain-management-market-size-share-trends-and-industry-forecast-957c30/</loc><lastmod>2026-11-17T10:10:24.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/india-it-spending-to-reach-16-94-trillion-in-2027-microsoft-aws-google-dell-tcs-and-info-8903d2/</loc><lastmod>2026-11-17T09:55:33.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/neo4j-strengthens-india-leadership-with-vimal-venkatram-3b216f/</loc><lastmod>2026-11-17T09:22:37.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-corporation-orcl-stock-first-financial-bankshares-inc-increases-holdings-87647e/</loc><lastmod>2026-11-17T09:20:45.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/top-16-ai-ml-engineering-companies-8a4cb8/</loc><lastmod>2026-11-17T08:14:52.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/pavan-kumar-adabala-on-building-reliable-ai-systems-through-strong-enterprise-erp-founda-3c2d7e/</loc><lastmod>2026-11-17T06:50:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/predictive-maintenance-market-expands-as-ai-iot-and-industrial-automation-drive-demand-f-20e401/</loc><lastmod>2026-11-17T06:45:31.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/human-capital-management-market-growth-accelerates-as-businesses-adopt-ai-powered-hr-sol-a9fa2b/</loc><lastmod>2026-11-17T06:41:23.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/applicant-tracking-system-market-growth-accelerates-as-businesses-embrace-ai-powered-rec-eee58c/</loc><lastmod>2026-11-17T06:31:22.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/neo4j-appoints-snowflake-veteran-vimal-venkatram-to-lead-india-business-b67a69/</loc><lastmod>2026-11-17T05:15:12.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/nvidia-rules-out-jensen-huang-s-return-as-ceo-tells-investors-we-ve-got-this-c550c3/</loc><lastmod>2026-11-18T13:41:19.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/who-is-rahul-patil-no-iit-tag-or-ivy-league-degree-but-this-bengaluru-graduate-became-ct-511c19/</loc><lastmod>2026-11-18T13:30:37.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/why-earnings-reports-rarely-change-the-bigger-picture-the-macro-environment-matters-more-953a1c/</loc><lastmod>2026-11-18T13:29:59.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/nvidia-says-meta-openai-and-coreweave-adopt-vera-expects-cpu-revenue-to-more-than-double-d8c2c9/</loc><lastmod>2026-11-18T13:17:39.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/hacks-ai-or-just-overdue-updates-why-have-there-been-so-many-outages-a0a1a5/</loc><lastmod>2026-11-18T13:16:53.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/ai-discovered-a-critical-flaw-in-a-widely-used-programming-language-authorities-are-raci-0433f5/</loc><lastmod>2026-11-18T13:04:37.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/oracle-life-sciences-ai-agents-bring-ai-assisted-operational-intelligence-and-coordinati-0f7404/</loc><lastmod>2026-11-18T13:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/safety-warnings-went-unresolved-during-va-health-record-modernization-former-employee-cl-94662e/</loc><lastmod>2026-11-18T13:00:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/microsoft-and-oracle-bring-ai-agents-to-excel-teams-and-copilot-5eb841/</loc><lastmod>2026-11-18T12:54:22.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/new-oracle-primavera-cloud-ai-capabilities-help-construction-teams-improve-project-plann-0a7bcc/</loc><lastmod>2026-11-18T12:45:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/java-flaw-leaves-systems-open-to-hackers-say-us-south-korea-china-s-tencent-f090dd/</loc><lastmod>2026-11-18T12:39:16.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/oracle-corporation-orcl-stock-public-sector-pension-investment-board-boosts-position-db6441/</loc><lastmod>2026-11-18T12:39:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/users-of-java-programming-language-urged-to-fix-flaws-5d6527/</loc><lastmod>2026-11-18T12:31:21.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/breakfast-news-what-nvda-s-earnings-call-revealed-253cf0/</loc><lastmod>2026-11-18T12:30:02.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/motorcycle-advanced-rider-assistance-system-aras-market-evolution-driving-the-future-of--0e83af/</loc><lastmod>2026-11-18T12:19:02.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/java-hit-by-major-security-flaw-here-s-what-we-know-about-java4shell-so-far-ec64c6/</loc><lastmod>2026-11-18T12:05:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/fresche-solutions-and-amdocs-partner-on-ibm-i-and-ibm-z-0ff87d/</loc><lastmod>2026-11-18T11:47:24.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/oracle-corporation-orcl-shares-purchased-by-rothschild-investment-llc-4f15b6/</loc><lastmod>2026-11-18T10:48:43.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/gop-chairman-demands-answers-on-trump-s-costly-va-technology-overhaul-amid-us-wide-outag-cea140/</loc><lastmod>2026-11-18T10:42:00.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/why-a-new-security-flaw-in-java-has-triggered-urgent-security-advisories-worldwide-d94adf/</loc><lastmod>2026-11-18T10:41:08.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/singular-link-invests-in-fluidcloud-as-saudi-arabia-expands-sovereign-cloud-and-ai-infra-0d38ae/</loc><lastmod>2026-11-18T10:36:25.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/vaishali-b-shivshankar-appointed-marketing-director-at-nutanix-4b72a3/</loc><lastmod>2026-11-18T09:49:59.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/oracle-patches-640-vulnerabilities-with-november-2026-cspu-7d9a9f/</loc><lastmod>2026-11-18T08:47:18.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/fresche-solutions-and-amdocs-partner-to-accelerate-ibm-i-and-ibm-z-modernization-6ed0bb/</loc><lastmod>2026-11-18T08:41:14.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/cisa-urges-immediate-patching-of-java4shell-flaw-that-could-allow-remote-code-execution-cb5785/</loc><lastmod>2026-11-18T08:24:23.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/azure-cobalt-200-vms-launch-list-price-runs-40-above-cobalt-100-so-speedup-must-top-1-4x-bd642d/</loc><lastmod>2026-11-18T07:10:40.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/java4shell-patching-cve-2026-114938-without-breaking-servers-307e7c/</loc><lastmod>2026-11-18T06:19:48.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/industrial-automation-market-size-to-reach-usd-575-7-billion-by-2033-industrial-automati-c5f46e/</loc><lastmod>2026-11-18T05:52:37.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/generative-ai-market-anticipated-to-reach-usd-283-37-billion-by-2034-advancing-at-a-cagr-73cccf/</loc><lastmod>2026-11-18T05:43:54.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/container-as-a-service-market-growth-outlook-usd-40-19-billion-valuation-by-2034-at-24-6-a4096c/</loc><lastmod>2026-11-18T05:14:52.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/java4shell-cve-2026-114938-enables-pre-auth-rce-in-jira-jenkins-keycloak-on-java-17-avx--dca4f5/</loc><lastmod>2026-11-18T04:27:41.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/us-cyber-security-agency-warns-of-urgent-cyber-risk-over-software-flaw-224215/</loc><lastmod>2026-11-18T04:05:35.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/critical-java-flaw-sparks-s-korea-response-after-php-scare-d9cc25/</loc><lastmod>2026-11-18T02:51:45.000Z</lastmod></url>
+  <url><loc>https://oracle-university.com/stories/metapwn-adversary-emulation-metadata-intelligence-platform-b78594/</loc><lastmod>2026-11-18T02:24:19.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/encore-networking-security-essentials-143705/</loc><lastmod>2026-06-05T17:38:46.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/encore-inside-cloud-networking-bdb221/</loc><lastmod>2026-05-26T11:00:00.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/vector-ai-supporting-features-what-s-new-in-oracle-exadata-and-goldengate-c72e11/</loc><lastmod>2026-04-22T16:29:45.000Z</lastmod></url>
@@ -119,20 +135,4 @@
   <url><loc>https://oracle-university.com/stories/oracle-database-23ai-backup-and-recovery-part-2-a21298/</loc><lastmod>2024-11-12T12:00:00.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/oracle-database-23ai-backup-and-recovery-part-1-cd90d3/</loc><lastmod>2024-11-05T07:34:39.000Z</lastmod></url>
   <url><loc>https://oracle-university.com/stories/oracle-ai-vector-search-part-2-9e86aa/</loc><lastmod>2024-10-29T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/oracle-ai-vector-search-part-1-412821/</loc><lastmod>2024-10-22T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/automatic-transaction-quarantine-358e25/</loc><lastmod>2024-10-15T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/automatic-transaction-rollback-ec870d/</loc><lastmod>2024-10-08T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/the-importance-of-data-and-continuous-learning-111f6c/</loc><lastmod>2024-10-01T16:23:48.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/unrestricted-parallel-dmls-and-direct-loads-ac305f/</loc><lastmod>2024-10-01T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/true-cache-6a960d/</loc><lastmod>2024-09-24T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/enhancements-in-sql-plan-management-securefiles-lob-write-performance-and-column-width-a309fc/</loc><lastmod>2024-09-17T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/hybrid-columnar-compression-fast-ingest-a4b392/</loc><lastmod>2024-09-10T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfall-f2dc7e/</loc><lastmod>2024-09-03T12:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/time-data-handling-data-storage-91f274/</loc><lastmod>2024-09-03T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/database-sharding-part-2-5face7/</loc><lastmod>2024-08-27T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/database-sharding-part-1-e6309a/</loc><lastmod>2024-08-20T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/database-security-part-2-ef77d6/</loc><lastmod>2024-08-13T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/database-security-part-1-b4c13f/</loc><lastmod>2024-08-06T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/blockchain-tables-a4f246/</loc><lastmod>2024-07-30T11:00:00.000Z</lastmod></url>
-  <url><loc>https://oracle-university.com/stories/database-essentials-027d69/</loc><lastmod>2024-07-23T14:00:00.000Z</lastmod></url>
 </urlset>

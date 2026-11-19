@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T02:29:22.362Z",
+  "generatedAt": "2026-11-19T01:55:43.372Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -14,11 +14,53 @@
       "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-button-that-did-absolutely-nothing",
       "source": "Oracle Academy Tech Chat",
       "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S5E02_mixdown.mp3?dest-id=3949203",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S5E03_master.mp3?dest-id=3949203",
       "publishedAt": "2026-11-18T13:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [],
-      "priority": 90
+      "priority": 60
+    },
+    {
+      "id": "e40c243057d99023",
+      "slug": "the-dashboard-nobody-can-read-2a4919",
+      "title": "The Dashboard Nobody Can Read",
+      "dek": "Seventeen charts, nine colors, four gauges—and nobody knows what decision to make. This episode explores how an APEX dashboard can contain every requested metric while leaving its audience confused. We discuss visual hierarchy, chart selection, accessible design, consistent filters, and clear defini",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-dashboard-nobody-can-read",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S5E04_mixdown.mp3?dest-id=3949203",
+      "publishedAt": "2026-11-18T13:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 60
+    },
+    {
+      "id": "cfb87026a3e93b7e",
+      "slug": "congratulations-you-just-gave-everyone-admin-access-e1cc13",
+      "title": "Congratulations You Just Gave Everyone Admin Access",
+      "dek": "The application looks polished, the buttons work, and the demo is going perfectly—until an ordinary user opens the administrator dashboard. This episode explores how small configuration decisions can give people permissions they were never meant to have. We unpack authentication, authorization, role",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/congratulations-you-just-gave-everyone-admin-access",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S5E01_master.mp3?dest-id=3949203",
+      "publishedAt": "2026-11-18T13:00:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [],
+      "priority": 48
+    },
+    {
+      "id": "2b4bef0c8c43e26f",
+      "slug": "why-is-my-report-showing-12-000-rows-5c09b4",
+      "title": "Why Is My Report Showing 12,000 Rows?",
+      "dek": "The user asked for today's thirty-two registrations. The report returned twelve thousand. This episode investigates how filters, session state, table relationships, and saved report settings can produce results far beyond what anyone expected. We explore why developers need to define what one row re",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/why-is-my-report-showing-12000-rows",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S5E02_master.mp3?dest-id=3949203",
+      "publishedAt": "2026-11-18T13:00:00.000Z",
+      "topic": "Java & MySQL",
+      "tags": [],
+      "priority": 48
     },
     {
       "id": "a6ea65aeb044c987",
@@ -53,386 +95,617 @@
       "priority": 46
     },
     {
-      "id": "69fd47b669b1eebc",
-      "slug": "global-markdown-risk-scoring-market-report-2026-forecast-to-2030-capitalize-on-15-3-cagr-3fa7bc",
-      "title": "Global Markdown Risk Scoring Market Report 2026: Forecast to 2030 | Capitalize on 15.3% CAGR as IBM, Oracle, SAP, FICO and Zest AI Accelerate AI, Cloud and Predictive Analytics",
-      "dek": "Boost ROI with AI-led pricing, predictive demand models, real-time discount and inventory monitoring, scenario simulations, automated markdowns and promotion analysis.",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/11/17/3404766/28124/en/global-markdown-risk-scoring-market-report-2026-forecast-to-2030-capitalize-on-15-3-cagr-as-ibm-oracle-sap-fico-and-zest-ai-accelerate-ai-cloud-and-predictive-analytics.html",
-      "source": "Globenewswire_fr",
+      "id": "0dc93f45557e0494",
+      "slug": "nvidia-rules-out-jensen-huang-s-return-as-ceo-tells-investors-we-ve-got-this-c550c3",
+      "title": "Nvidia rules out Jensen Huang’s return as CEO, tells investors ‘we’ve got this’",
+      "dek": "New York — Nvidia’s board unanimously accepted former CEO Jensen Huang’s resignation and does not intend to reinstate him as chief executive, board chair Harvey Jones said at the start of the company’s earnings call Tuesday night. The announcement comes after Huang said in a statement earlier Tuesda",
+      "url": "https://www.egyptindependent.com/nvidia-rules-out-jensen-huangs-return-as-ceo-tells-investors-weve-got-this/",
+      "source": "Egyptindependent",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-11-17T14:27:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "research analysis and reports"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "d671f80a660538f9",
-      "slug": "global-retail-technology-market-report-2026-capitalize-on-ai-cloud-and-omnichannel-deman-361ef9",
-      "title": "Global Retail Technology Market Report 2026 | Capitalize on AI, Cloud and Omnichannel Demand as Microsoft, Oracle, Salesforce and SAP Drive the Market to $338.55B by 2030",
-      "dek": "Boost ROI with AI analytics, cloud omnichannel platforms, automated inventory, digital payments, self-service POS and loyalty tools to improve efficiency and engagement.",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/11/17/3404756/28124/en/global-retail-technology-market-report-2026-capitalize-on-ai-cloud-and-omnichannel-demand-as-microsoft-oracle-salesforce-and-sap-drive-the-market-to-338-55b-by-2030.html",
-      "source": "Globenewswire_fr",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-11-17T14:24:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "research analysis and reports"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "cdbfe85f396f3cb7",
-      "slug": "singular-link-invests-in-fluidcloud-as-saudi-arabia-expands-sovereign-cloud-and-ai-infra-ac7166",
-      "title": "Singular Link Invests in FluidCloud as Saudi Arabia Expands Sovereign Cloud and AI Infrastructure",
-      "dek": "FluidCloud's Large Infrastructure Model and Cloud Cloning™ technology help enterprises reproduce, recover and operate complete infrastructure environments across clouds PLEASANTON, Calif. and RIYADH, Saudi Arabia, Nov. 17, 2026 (GLOBE NEWSWIRE) -- FluidCloud, the infrastructure software company behi",
-      "url": "https://www.manilatimes.net/2026/11/17/tmt-newswire/globenewswire/singular-link-invests-in-fluidcloud-as-saudi-arabia-expands-sovereign-cloud-and-ai-infrastructure/2472194",
-      "source": "The Manila Times",
-      "sourceType": "external",
-      "image": "https://manilatimes.net/manilatimes/uploads/images/2026/11/17/1312432.png",
-      "publishedAt": "2026-11-17T14:15:42.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "tmt newswire"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "0f8825f0dc7979b7",
-      "slug": "archive360-appoints-manouj-tahiliani-as-chief-executive-officer-b54c99",
-      "title": "Archive360 Appoints Manouj Tahiliani as Chief Executive Officer",
-      "dek": "Former Salesforce and Informatica executive to accelerate company's growth and expansion into AI-ready data governance and discovery NEW YORK, Nov. 17, 2026 /PRNewswire/ -- Archive360 today announced the appointment of Manouj Tahiliani as chief executive officer. Tahiliani will lead...",
-      "url": "https://www.prnewswire.com/news-releases/archive360-appoints-manouj-tahiliani-as-chief-executive-officer-302941679.html",
-      "source": "Pr Newswire",
-      "sourceType": "external",
-      "image": "https://mmx.prnewswire.com/media/MS1675434/Archive360-logo.jpg?id=OA3083578&p=original",
-      "publishedAt": "2026-11-17T14:02:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "per"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "12c8702795220680",
-      "slug": "from-ai-powered-permits-to-smarter-emergency-response-america-s-most-innovative-digital--8e673b",
-      "title": "From AI-Powered Permits to Smarter Emergency Response: America's Most Innovative Digital Cities Revealed",
-      "dek": "Center for Digital Government's 2026 Digital Cities Survey celebrates 25 years of cities using technology to solve real problems and deliver better services",
-      "url": "https://www.einpresswire.com/article/956970575/from-ai-powered-permits-to-smarter-emergency-response-america-s-most-innovative-digital-cities-revealed",
-      "source": "Ein Presswire",
-      "sourceType": "external",
-      "image": "https://img.einnews.com/ampsize/1252189/digital-cities-2026.jpeg",
-      "publishedAt": "2026-11-17T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "california",
-        "u.s. politics",
-        "it industry",
-        "united states",
-        "technology",
-        "worldnews"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "da1923dea2062b80",
-      "slug": "oracle-corporation-orcl-shares-acquired-by-banco-santander-s-a-ee4f59",
-      "title": "Oracle Corporation $ORCL Shares Acquired by Banco Santander S.A.",
-      "dek": "Banco Santander S.A. raised its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 17.2% during the 3rd quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC). The fund owned 848,146 shares of the enterprise software provider’s stock a",
-      "url": "https://www.defenseworld.net/2026/11/17/oracle-corporation-orcl-shares-acquired-by-banco-santander-s-a.html",
-      "source": "Defenseworld Net",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-11-17T13:01:24.000Z",
+      "image": "https://amayei.nyc3.digitaloceanspaces.com/2026/11/gettyimages-2266444753-20261117204747952_jpg.jpg",
+      "publishedAt": "2026-11-18T13:41:19.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "sec filing articles",
-        "companies"
+        "jensen huang",
+        "technology",
+        "ai",
+        "nvidia"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "af488985c41bbd3d",
+      "slug": "who-is-rahul-patil-no-iit-tag-or-ivy-league-degree-but-this-bengaluru-graduate-became-ct-511c19",
+      "title": "Who is Rahul Patil? No IIT tag or Ivy League degree, but this Bengaluru graduate became CTO of Anthropic",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://startuppedia.in/trending/no-iit-tag-or-ivy-league-degree-rahul-patil-became-cto-of-anthropic-12820120",
+      "source": "Startuppedia",
+      "sourceType": "external",
+      "image": "https://img-cdn.publive.online/startuppedia/media/media_files/2026/11/18/rahul-patil-2026-11-18-15-09-12.png",
+      "publishedAt": "2026-11-18T13:30:37.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 43
+    },
+    {
+      "id": "046a93c00116fe8a",
+      "slug": "why-earnings-reports-rarely-change-the-bigger-picture-the-macro-environment-matters-more-953a1c",
+      "title": "Why earnings reports rarely change the bigger picture: the macro environment matters more",
+      "dek": "Every earnings season brings a fresh wave of volatility. Companies report their quarterly results, investors reassess valuations, analysts adjust their forecasts and individual stocks can move dramatically in either direction. Earnings reports can certainly move individual stocks, but they rarely ch",
+      "url": "https://investinglive.com/education/why-earnings-reports-rarely-change-the-bigger-picture-the-macro-environment-matters-more/",
+      "source": "Forexlive",
+      "sourceType": "external",
+      "image": "https://investinglive.com/cms/media/earnings-2.png",
+      "publishedAt": "2026-11-18T13:29:59.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "education"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "7e624f4c81a8301a",
+      "slug": "nvidia-says-meta-openai-and-coreweave-adopt-vera-expects-cpu-revenue-to-more-than-double-d8c2c9",
+      "title": "Nvidia Says Meta, OpenAI and CoreWeave Adopt Vera, Expects CPU Revenue to More Than Double in 2028 as Physical AI Revenue Nears $25 Billion",
+      "dek": "Nvidia sees AI CPU revenue doubling by FY2028 as Meta, OpenAI and CoreWeave adopt Vera, while physical AI sales target $25 billion.",
+      "url": "https://www.benzinga.com/markets/earnings/26/11/63381943/nvidia-says-meta-openai-and-coreweave-adopt-vera-expects-cpu-revenue-to-more-than-double-in-2028-as-physical-ai-revenue-nears-25-billion",
+      "source": "Benzinga",
+      "sourceType": "external",
+      "image": "https://cdn.benzinga.com/files/images/story/2026/11/18/Taipei--Taiwan--June-22--2026-The-Office.jpg?crop=600:400,smart&optimize=medium",
+      "publishedAt": "2026-11-18T13:17:39.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "markets",
+        "colette kress",
+        "benznews",
+        "ai",
+        "earnings"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "b8052d2e996b983e",
+      "slug": "hacks-ai-or-just-overdue-updates-why-have-there-been-so-many-outages-a0a1a5",
+      "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
+      "dek": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
+      "url": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o",
+      "source": "The Bbc",
+      "sourceType": "external",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4986/live/43b39be0-e34c-11f1-99aa-0f40b013ad11.jpg",
+      "publishedAt": "2026-11-18T13:16:53.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "d9297fc4f92da57a",
+      "slug": "ai-discovered-a-critical-flaw-in-a-widely-used-programming-language-authorities-are-raci-0433f5",
+      "title": "AI discovered a critical flaw in a widely used programming language. Authorities are racing to get it fixed",
+      "dek": "U.S. and South Korean authorities and China’s Tencent have urged companies and organizations to patch a critical flaw in the popular programming language Java that could allow hackers to access systems, the latest high-profile cyber incident.",
+      "url": "https://www.cp24.com/news/world/2026/11/18/ai-discovered-a-critical-flaw-in-a-widely-used-programming-language-authorities-are-racing-to-get-it-fixed/",
+      "source": "Cp24",
+      "sourceType": "external",
+      "image": "https://www.cp24.com/resizer/v2/V7W3LRWDWJFWLFYAC43JE22THE.jpg?auth=4d0c1b272cd5d97a7fd6c9caec659aaedd23854ed92e757c3baa7912928c1e2c&smart=true&width=6144&height=4069",
+      "publishedAt": "2026-11-18T13:04:37.000Z",
+      "topic": "Java & MySQL",
+      "tags": [
+        "apple-news"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "ab5e933a0a3a0f5d",
+      "slug": "oracle-life-sciences-ai-agents-bring-ai-assisted-operational-intelligence-and-coordinati-0f7404",
+      "title": "Oracle Life Sciences AI Agents Bring AI-Assisted Operational Intelligence and Coordination to Clinical Trials",
+      "dek": "New AI-assisted experience supports portfolio visibility, helps identify operational risks, and recommends next best actions AUSTIN, Texas, Nov. 18, 2026 /PRNewswire/ -- Oracle today introduced Oracle Life Sciences AI Agents, a new agentic experience designed to help life sciences...",
+      "url": "https://www.prnewswire.com/news-releases/oracle-life-sciences-ai-agents-bring-ai-assisted-operational-intelligence-and-coordination-to-clinical-trials-302943185.html",
+      "source": "Pr Newswire",
+      "sourceType": "external",
+      "image": "https://mmx.prnewswire.com/media/MS605173/Oracle-Logo-Logo.jpg?id=OA3085975&p=original",
+      "publishedAt": "2026-11-18T13:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "pdt"
       ],
       "priority": 42
     },
     {
-      "id": "53e8f0293e935cc9",
-      "slug": "does-this-tx-town-want-lng-or-not-amazon-fermi-deal-again-how-is-tx-land-valued-now-b6651e",
-      "title": "Does This TX Town Want LNG Or Not?, Amazon Fermi Deal Again, How Is TX Land Valued Now?",
-      "dek": "The Tuesday early morning NewClips from twice-daily Texas Energy Report, where politics meets energy from the Energy Capital of the World",
-      "url": "https://texasenergyreport.com/p/does-this-tx-town-want-lng-or-not",
-      "source": "The Texas Energy Report",
+      "id": "177224bfa7ca1349",
+      "slug": "safety-warnings-went-unresolved-during-va-health-record-modernization-former-employee-cl-94662e",
+      "title": "Safety warnings went unresolved during VA health record modernization, former employee claims",
+      "dek": "A former Oracle employee alleges she was laid of for warning supervisors that inadequate training and unresolved clinical problems could put veterans at risk.",
+      "url": "https://www.airforcetimes.com/veterans/2026/11/18/safety-warnings-went-unresolved-during-va-health-record-modernization-former-employee-claims/",
+      "source": "Air Force Times",
       "sourceType": "external",
-      "image": "https://substackcdn.com/image/fetch/$s_!XdEQ!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b2e3251-6f18-4f6e-9b8c-84750f1aa4dc_146x146.png",
-      "publishedAt": "2026-11-17T11:27:29.000Z",
+      "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/GettyImages-2225114251.jpg.jpg",
+      "publishedAt": "2026-11-18T13:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "va hospitals",
+        "oracle",
+        "electronic systems",
+        "veterans",
+        "cerner",
+        "congress"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "6d3d661aa4c88154",
+      "slug": "microsoft-and-oracle-bring-ai-agents-to-excel-teams-and-copilot-5eb841",
+      "title": "Microsoft and Oracle Bring AI Agents to Excel, Teams, and Copilot",
+      "dek": "Microsoft and Oracle have announced new AI integrations at Ignite 2026, allowing businesses to connect Oracle databases with Excel, Teams, and Microsoft Copilot. According to Microsoft’s announcement, the integrations combine Oracle AI Database@Azure with Microsoft Work IQ, giving AI agents access t",
+      "url": "https://windowsreport.com/microsoft-and-oracle-bring-ai-agents-to-excel-teams-and-copilot/",
+      "source": "Onmsft",
+      "sourceType": "external",
+      "image": "https://windowsreport.com/wp-content/uploads/2026/11/microsoft-azure-oracle.jpg",
+      "publishedAt": "2026-11-18T12:54:22.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "azure",
+        "microsoft",
+        "oracle",
+        "news"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "297145c8f4c1409c",
+      "slug": "new-oracle-primavera-cloud-ai-capabilities-help-construction-teams-improve-project-plann-0a7bcc",
+      "title": "New Oracle Primavera Cloud AI Capabilities Help Construction Teams Improve Project Planning and Risk Management",
+      "dek": "Addition of AI help assistant, risk library, and updated pull planning features enable project teams to find answers faster, apply lessons learned across projects, and prioritize work around key milestones AUSTIN, Texas, Nov. 18, 2026 /PRNewswire/ -- Oracle today announced new...",
+      "url": "https://www.prnewswire.com/news-releases/new-oracle-primavera-cloud-ai-capabilities-help-construction-teams-improve-project-planning-and-risk-management-302943017.html",
+      "source": "Pr Newswire",
+      "sourceType": "external",
+      "image": "https://mmx.prnewswire.com/media/MS605173/Oracle-Logo-Logo.jpg?id=OA3086178&p=original",
+      "publishedAt": "2026-11-18T12:45:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "hsp",
+        "pdt"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "0c52514763882ef8",
+      "slug": "java-flaw-leaves-systems-open-to-hackers-say-us-south-korea-china-s-tencent-f090dd",
+      "title": "Java flaw leaves systems open to hackers, say US, South Korea, China's Tencent",
+      "dek": "US and South Korean authorities and Chinas Tencent have urged companies and organisations to patch a critical flaw in the popular programming language Java that could allow hackers to access systems the latest high-profile cyber incident US tech firm Calif which last month found a cybersecurity flaw",
+      "url": "https://www.devdiscourse.com/article/international/4009093-java-flaw-leaves-systems-open-to-hackers-say-us-south-korea-chinas-tencent",
+      "source": "Devdiscourse",
+      "sourceType": "external",
+      "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/imagegallery/11_03_2020_13_37_24_6979208.jpg&amp;width=920",
+      "publishedAt": "2026-11-18T12:39:16.000Z",
+      "topic": "Security",
+      "tags": [
+        "Java"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "2acccab4e91ba823",
+      "slug": "oracle-corporation-orcl-stock-public-sector-pension-investment-board-boosts-position-db6441",
+      "title": "Oracle Corporation $ORCL Stock: Public Sector Pension Investment Board Boosts Position",
+      "dek": "Public Sector Pension Investment Board raised its position in Oracle Corporation (NYSE:ORCL – Free Report) by 0.4% during the 3rd quarter, Holdings Channel reports. The firm owned 1,075,747 shares of the enterprise software provider’s stock after acquiring an additional 4,761 shares during the quart",
+      "url": "https://baseballnewssource.com/2026/11/18/oracle-corporation-orcl-stock-public-sector-pension-investment-board-boosts-position/11353026.html",
+      "source": "Bbns",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-11-18T12:39:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "sec filing articles",
+        "markets"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "447e509bee68a815",
+      "slug": "users-of-java-programming-language-urged-to-fix-flaws-5d6527",
+      "title": "Users of Java programming language urged to fix flaws",
+      "dek": "Java users have been told to urgently install security updates after vulnerabilities were found in the popular programming language that could allow attackers to remotely execute code or crash systems.",
+      "url": "https://www.rte.ie/news/technology/2026/1118/1599680-java-security-flaw/",
+      "source": "Rte.ie",
+      "sourceType": "external",
+      "image": "https://www.rte.ie/images/00255cbe-800.jpg",
+      "publishedAt": "2026-11-18T12:31:21.000Z",
+      "topic": "Security",
+      "tags": [
+        "technology"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "5a1a3310821f63d6",
+      "slug": "breakfast-news-what-nvda-s-earnings-call-revealed-253cf0",
+      "title": "Breakfast News: What NVDA’s Earnings Call Revealed",
+      "dek": "Nvidia’s first earnings without Jensen Huang in the spotlight, cybersecurity threats ahead of Anthropic IPO, and more…",
+      "url": "https://www.fool.com/investing/breakfast-news/2026/11/18/breakfast-news/",
+      "source": "Fool",
+      "sourceType": "external",
+      "image": "https://g.foolcdn.com/misc-assets/bn111826.png",
+      "publishedAt": "2026-11-18T12:30:02.000Z",
+      "topic": "Security",
+      "tags": [
+        "44836546-74e1-4952-b42a-47f84fe36540",
+        "investingbreakfast-news",
+        "markets"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "7344278a667269d6",
+      "slug": "motorcycle-advanced-rider-assistance-system-aras-market-evolution-driving-the-future-of--0e83af",
+      "title": "Motorcycle Advanced Rider Assistance System (ARAS) Market Evolution: Driving the Future of Intelligent Rider Safety and Connected Riding",
+      "dek": "The Motorcycle Advanced Rider Assistance System (ARAS) Market covers the sensing, computing, and software technologies that help riders perceive hazards, maintain control, and ride with greater confidence. By bringing camera, radar, and connectivity-based functions to two-wheelers, ARAS addresses on",
+      "url": "https://www.openpr.com/news/4693498/motorcycle-advanced-rider-assistance-system-aras-market",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/b/Lb18445679_k.jpg",
+      "publishedAt": "2026-11-18T12:19:02.000Z",
       "topic": "Oracle Ecosystem",
-      "tags": [],
+      "tags": [
+        "media consulting",
+        "advertising",
+        "marketing research"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "7ca949a01ec3da63",
+      "slug": "java-hit-by-major-security-flaw-here-s-what-we-know-about-java4shell-so-far-ec64c6",
+      "title": "Java hit by major security flaw — here's what we know about Java4Shell so far",
+      "dek": "Java4Shell enables data exfiltration and remote code execution and has a surprisingly simple exploit.",
+      "url": "https://www.techradar.com/pro/security/java-hit-by-major-security-flaw-heres-what-we-know-about-java4shell-so-far",
+      "source": "Techradar Nz",
+      "sourceType": "external",
+      "image": "https://cdn.mos.cms.futurecdn.net/VyYgfUHgbvAsTDDYewj2Am-1920-80.jpg",
+      "publishedAt": "2026-11-18T12:05:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "pro",
+        "security",
+        "computing security",
+        "computing",
+        "cyber security"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "1badd6f38ac1eac4",
+      "slug": "fresche-solutions-and-amdocs-partner-on-ibm-i-and-ibm-z-0ff87d",
+      "title": "Fresche Solutions and Amdocs Partner on IBM i and IBM z",
+      "dek": "Fresche Solutions announced a partnership agreement with Amdocs that pairs Fresche’s IBM i expertise with Amdocs’ cloud, artificial intelligence (AI), and global delivery services to modernize IBM i and IBM z environments. Together, the two companies help clients optimize existing platforms, transfo",
+      "url": "https://itdigest.com/information-technology/fresche-solutions-and-amdocs-partner-on-ibm-i-and-ibm-z/",
+      "source": "Itdigest",
+      "sourceType": "external",
+      "image": "https://itdigest.com/wp-content/uploads/2026/11/Fresche-Solutions-and-Amdocs-Partner-on-IBM-i-and-IBM-z.webp",
+      "publishedAt": "2026-11-18T11:47:24.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "astadia",
+        "information technology",
+        "ibm i modernization",
+        "fresche solutions",
+        "mainframe cloud migration",
+        "x-modernize ai"
+      ],
       "priority": 41
     },
     {
-      "id": "70327098911404bc",
-      "slug": "5-500-oracle-corporation-orcl-shares-bought-by-sbi-okasan-asset-management-co-ltd-1fef4f",
-      "title": "5,500 Oracle Corporation $ORCL Shares Bought by SBI Okasan Asset Management Co. Ltd.",
-      "dek": "SBI Okasan Asset Management Co. Ltd. raised its holdings in shares of Oracle Corporation (NYSE:ORCL - Free Report) by 88.7% in the third quarter, according to the company in its most recent Form 13F filing with the Securities & Exchange Commission. The fund owned 11,700 shares of the enterprise s",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-5500-oracle-corporation-orcl-shares-bought-by-sbi-okasan-asset-management-coltd-2026-11-17/",
+      "id": "8aa504161d559775",
+      "slug": "oracle-corporation-orcl-shares-purchased-by-rothschild-investment-llc-4f15b6",
+      "title": "Oracle Corporation $ORCL Shares Purchased by Rothschild Investment LLC",
+      "dek": "Rothschild Investment LLC raised its holdings in Oracle Corporation (NYSE:ORCL - Free Report) by 23.3% in the 3rd quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC). The firm owned 97,322 shares of the enterprise software provider's stock after buying",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-oracle-corporation-orcl-shares-purchased-by-rothschild-investment-llc-2026-11-18/",
       "source": "Market Beat",
       "sourceType": "external",
       "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-11-17T11:21:27.000Z",
+      "publishedAt": "2026-11-18T10:48:43.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "nyse:orcl",
         "instant alerts",
         "oracle",
+        "nyse:orcl",
         "sec filing"
       ],
       "priority": 41
     },
     {
-      "id": "d94d0a0b159d00f0",
-      "slug": "why-is-the-sovereign-ai-infrastructure-market-becoming-a-top-investment-priority-amid-ri-b88ac4",
-      "title": "Why Is the Sovereign AI Infrastructure Market Becoming a Top Investment Priority Amid Rising Demand for Data Sovereignty and National AI Capabilities",
-      "dek": "According to DataM Intelligence (DMI) analysis, the Global Sovereign AI Infrastructure Market was valued at USD 20.8 billion in 2025 and is expected to reach USD 120.7 billion by 2035, growing at a CAGR of 19.23% during the forecast period",
-      "url": "https://www.openpr.com/news/4692263/why-is-the-sovereign-ai-infrastructure-market-becoming-a-top",
+      "id": "7c99a5952db4344f",
+      "slug": "gop-chairman-demands-answers-on-trump-s-costly-va-technology-overhaul-amid-us-wide-outag-cea140",
+      "title": "GOP chairman demands answers on Trump's costly VA technology overhaul amid US-wide outages",
+      "dek": "Rep. Mike Bost demands answers from OPM on Oracle's HR 2.0 rollout, citing shifting timelines and data breach risks as alarm bells ring on Capitol Hill.",
+      "url": "https://us.headtopics.com/news/gop-chairman-demands-answers-on-trump-s-costly-va-89959804",
+      "source": "Headtopics",
+      "sourceType": "external",
+      "image": "https://i.headtopics.com/images/2026/11/18/foxnews/gop-chairman-demands-answers-on-trump-s-costly-va-gop-chairman-demands-answers-on-trump-s-costly-va-7F05DE36C3AEF1B5A0D1A9751361A360-16x9.webp",
+      "publishedAt": "2026-11-18T10:42:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "veterans",
+        "technology",
+        "software",
+        "house of representatives politics",
+        "politics"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "a7794eee11aa90cf",
+      "slug": "why-a-new-security-flaw-in-java-has-triggered-urgent-security-advisories-worldwide-d94adf",
+      "title": "Why a new security flaw in Java has triggered urgent security advisories worldwide",
+      "dek": "What is Java4Shell? How did security researchers uncover it using AI? How is it different from PHP2Shell uncovered last month? And why are security agencies urging organisations to implement patches immediately?",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/java4shell-critical-java-security-flaw-explained-10968343/",
+      "source": "The Indian Express",
+      "sourceType": "external",
+      "image": "https://images.indianexpress.com/2026/05/hacking.jpg",
+      "publishedAt": "2026-11-18T10:41:08.000Z",
+      "topic": "Security",
+      "tags": [
+        "tech",
+        "technology"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "85d4f98e388648ff",
+      "slug": "singular-link-invests-in-fluidcloud-as-saudi-arabia-expands-sovereign-cloud-and-ai-infra-0d38ae",
+      "title": "Singular Link Invests in FluidCloud as Saudi Arabia Expands Sovereign Cloud and AI Infrastructure",
+      "dek": "FluidCloud’s Large Infrastructure Model and Cloud Cloning™ technology help enterprises reproduce, recover and operate complete infrastructure environments across clouds FluidCloud, the infrastructure software company behind Cloud Cloning™ and its proprietary Large Infrastructure Model (LIM), today a",
+      "url": "https://cioinfluence.com/cloud/singular-link-invests-in-fluidcloud-as-saudi-arabia-expands-sovereign-cloud-and-ai-infrastructure/",
+      "source": "Cio Influence",
+      "sourceType": "external",
+      "image": "https://cioinfluence.com/wp-content/uploads/2026/11/2d-rendering-technology-cloud-co.jpg",
+      "publishedAt": "2026-11-18T10:36:25.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "data center",
+        "cio influence news",
+        "ai infrastructure",
+        "machine learning",
+        "fluidcloud",
+        "ai innovation"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "06cc584a8ed340e9",
+      "slug": "vaishali-b-shivshankar-appointed-marketing-director-at-nutanix-4b72a3",
+      "title": "Vaishali B. Shivshankar appointed Marketing Director at Nutanix",
+      "dek": "Vaishali B. Shivshankar has been appointed Marketing Director at Nutanix, taking on the role in October 2026. Prior to joining Nutanix, Shivshankar served as Head of Marketing, India & SAARC… The post Vaishali B. Shivshankar appointed Marketing Director at Nutanix appeared first on CIO&Leader.",
+      "url": "https://www.cioandleader.com/vaishali-b-shivshankar-appointed-marketing-director-at-nutanix/",
+      "source": "Cio&leader",
+      "sourceType": "external",
+      "image": "https://www.cioandleader.com/wp-content/uploads/2026/11/Vaishali-B.-Shivshankar.webp",
+      "publishedAt": "2026-11-18T09:49:59.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "cio pulse"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "3bcb96aa3a84dbe8",
+      "slug": "oracle-patches-640-vulnerabilities-with-november-2026-cspu-7d9a9f",
+      "title": "Oracle Patches 640 Vulnerabilities With November 2026 CSPU",
+      "dek": "Over 300 patches address unauthenticated, remotely exploitable flaws, while 62 fix critical-severity flaws. The post Oracle Patches 640 Vulnerabilities With November 2026 CSPU appeared first on SecurityWeek.",
+      "url": "https://www.securityweek.com/oracle-patches-640-vulnerabilities-with-november-2026-cspu/",
+      "source": "Securityweek",
+      "sourceType": "external",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/10/Oracle.jpeg",
+      "publishedAt": "2026-11-18T08:47:18.000Z",
+      "topic": "Security",
+      "tags": [
+        "oracle cspu",
+        "oracle",
+        "patch",
+        "vulnerabilities",
+        "vulnerability"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "4101dcff53ec3a3a",
+      "slug": "fresche-solutions-and-amdocs-partner-to-accelerate-ibm-i-and-ibm-z-modernization-6ed0bb",
+      "title": "Fresche Solutions and Amdocs Partner to Accelerate IBM i and IBM z Modernization",
+      "dek": "Fresche Solutions, a global leader in IBM i modernization, managed services, data and analytics, announced a strategic partnership agreement with Amdocs, a leading global provider of software and services for intelligent transformation. The partnership pairs Fresche’s IBM i expertise with Amdocs’ cl",
+      "url": "https://aithority.com/machine-learning/fresche-solutions-and-amdocs-partner-to-accelerate-ibm-i-and-ibm-z-modernization/",
+      "source": "Aithority",
+      "sourceType": "external",
+      "image": "https://aithority.com/wp-content/uploads/2026/11/5657686.jpg",
+      "publishedAt": "2026-11-18T08:41:14.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "ibm i modernization",
+        "amdocs",
+        "data and analytics",
+        "google cloud",
+        "oracle cloud",
+        "head of mainframe modernization sales"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "d4e5ba8dcf1937f3",
+      "slug": "cisa-urges-immediate-patching-of-java4shell-flaw-that-could-allow-remote-code-execution-cb5785",
+      "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+      "dek": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java. The flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of out-of-bounds write that can lead to denial-of-ser",
+      "url": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
+      "source": "The Hacker News",
+      "sourceType": "external",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivmrsz2fViEN49Su385gmuAShCPcxobsMF-FbR9t1sXw6aEbOMzFUT5YktViqASQUXP3bLT13HYMAE1wBQTN0ZRDGXWFJUy_EWOKhOjR7jSz-bhEK8jas_v9wWUYxevCAZt4PzOCaGNLLC96kDwFjtKBuXVW2O3K2BK9AO5nyZutFf_uCaZtvyaQ2qf8gK/s1600/cisa-java.jpg",
+      "publishedAt": "2026-11-18T08:24:23.000Z",
+      "topic": "Security",
+      "tags": [
+        "Java",
+        "CVE",
+        "Security"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "a0a9f1bc4265470a",
+      "slug": "azure-cobalt-200-vms-launch-list-price-runs-40-above-cobalt-100-so-speedup-must-top-1-4x-bd642d",
+      "title": "Azure Cobalt 200 VMs Launch: List Price Runs 40% Above Cobalt 100, So Speedup Must Top 1.4x",
+      "dek": "Azure Cobalt 200 VMs became generally available on Nov. 17 in 14 regions, with the 4-vCPU Linux size listed at $0.196 per hour in East US, 40% above Cobalt 100. Microsoft claims up to 50% better performance, so workloads need a per-vCPU speedup above 1.4x to cut cost per task. This covers break-even",
+      "url": "https://www.techtimes.com/articles/331002/20261118/azure-cobalt-200-vms-launch-list-price-runs-40-above-cobalt-100-so-speedup-must-top-14x.htm",
+      "source": "Techtimes",
+      "sourceType": "external",
+      "image": "https://d.techtimes.com/en/full/478618/microsoft-azure-cobalt-200.jpg",
+      "publishedAt": "2026-11-18T07:10:40.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "computers"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "ea7c1575a9821118",
+      "slug": "java4shell-patching-cve-2026-114938-without-breaking-servers-307e7c",
+      "title": "Java4Shell: patching CVE-2026-114938 without breaking servers",
+      "dek": "The monitoring system just lit up with a CISA alert demanding an immediate fix for Java4Shell, a CVSS 9.2 vulnerability. Security engineers are telling everyone to roll out the -XX:UseAVX=2 flag across all Java 17 and 21 microservices to prevent remote code execution. Blindly applying this parameter",
+      "url": "https://dev.to/altrouter/java4shell-patching-cve-2026-114938-without-breaking-servers-43d2",
+      "source": "Dev Community",
+      "sourceType": "external",
+      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto/https%3A%2F%2Faltrouter.ai%2Fblog%2Fjava4shell-cve-2026-114938-ai-audit-1.webp",
+      "publishedAt": "2026-11-18T06:19:48.000Z",
+      "topic": "Security",
+      "tags": [
+        "llm",
+        "webdev",
+        "api",
+        "ai"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "de99644eded4d1be",
+      "slug": "industrial-automation-market-size-to-reach-usd-575-7-billion-by-2033-industrial-automati-c5f46e",
+      "title": "Industrial Automation Market Size to Reach USD 575.7 Billion by 2033 | Industrial Automation Enters a New Investment Phase as Software-Defined Control and AI Reshape Factory Operations",
+      "dek": "The global industrial automation market is entering a significant investment phase as manufacturers move beyond conventional machine control toward connected, intelligent and increasingly autonomous production environments. Industrial robotics, programmable controllers, supervisory control and data ",
+      "url": "https://www.openpr.com/news/4692910/industrial-automation-market-size-to-reach-usd-575-7-billion",
       "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/b/Lb17666661_k.jpg",
-      "publishedAt": "2026-11-17T11:02:39.000Z",
+      "image": "https://cdn.open-pr.com/L/b/Lb18829611_k.jpg",
+      "publishedAt": "2026-11-18T05:52:37.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
         "it",
         "new media & software"
       ],
-      "priority": 40
+      "priority": 37
     },
     {
-      "id": "1dc700a7ddd7727e",
-      "slug": "coreweave-answered-the-biggest-question-about-ai-stocks-now-nvidia-has-to-confirm-it-8d069f",
-      "title": "CoreWeave Answered the Biggest Question About AI Stocks. Now Nvidia Has to Confirm It.",
-      "dek": "CoreWeave's strong quarter eased the market's biggest worry about AI spending. Here's what it did and didn't settle.",
-      "url": "https://www.fool.com/investing/2026/11/17/coreweave-answered-the-biggest-question-about-ai-stocks-now-nvidia-has-to-confirm-it/",
-      "source": "Fool",
+      "id": "ba9739b6835fc24b",
+      "slug": "generative-ai-market-anticipated-to-reach-usd-283-37-billion-by-2034-advancing-at-a-cagr-73cccf",
+      "title": "Generative AI Market Anticipated to Reach USD 283.37 Billion by 2034, Advancing at a CAGR of 34.6%.",
+      "dek": "Polaris Market Research has published a new report on the global Generative AI Market It examines the market’s current position and future prospects. It covers [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/11/18/1783459",
+      "source": "Express-press-release",
       "sourceType": "external",
-      "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/ff71d710a839831744c63584ed42f5d378ebaac3-1290x860.jpg",
-      "publishedAt": "2026-11-17T10:43:01.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/Polaris-Logo-Blue-2-1024x1024.png",
+      "publishedAt": "2026-11-18T05:43:54.000Z",
+      "topic": "Training & Certification",
       "tags": [
-        "crwv",
-        "investing",
-        "nvda",
-        "technology and telecom",
-        "be0cdcbc-83f4-4a6c-817d-28df3d718a31"
+        "generative ai market growth",
+        "generative ai market united kingdom",
+        "generative ai market forecast",
+        "generative ai market industry",
+        "generative ai",
+        "generative ai market cagr"
       ],
-      "priority": 40
+      "priority": 37
     },
     {
-      "id": "6312f7e88294e8ea",
-      "slug": "inside-ot-s-fundamentals-gap-a-plc-fault-an-ai-exploit-and-leaked-identities-f04218",
-      "title": "Inside OT’s Fundamentals Gap: A PLC Fault, an AI Exploit, and Leaked Identities",
-      "dek": "On October 27, Google published its final incident report on the London power failure that took its europe-west2-b... The post Inside OT’s Fundamentals Gap: A PLC Fault, an AI Exploit, and Leaked Identities appeared first on Industrial Cyber.",
-      "url": "https://industrialcyber.co/expert/inside-ots-fundamentals-gap-a-plc-fault-an-ai-exploit-and-leaked-identities/",
-      "source": "Industrial Cyber",
+      "id": "d0ea601dd0ff5309",
+      "slug": "container-as-a-service-market-growth-outlook-usd-40-19-billion-valuation-by-2034-at-24-6-a4096c",
+      "title": "Container As a Service Market Growth Outlook: USD 40.19 Billion Valuation by 2034 at 24.6% CAGR",
+      "dek": "The Container As a Service Market was valued at USD 5.54 billion in 2025 and is forecast to grow at a CAGR of 24.6% from [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/11/18/1783438",
+      "source": "Express-press-release",
       "sourceType": "external",
-      "image": "https://industrialcyber.co/wp-content/uploads/2026/07/Dennis-Hackney-1200x627-1.webp",
-      "publishedAt": "2026-11-17T10:42:58.000Z",
+      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/logo-1.png",
+      "publishedAt": "2026-11-18T05:14:52.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "ot cybersecurity",
-        "root exploit",
-        "industrial control systems",
-        "google",
-        "data leak",
-        "password spraying"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "34aaad3f1ac920eb",
-      "slug": "supply-chain-management-market-size-share-trends-and-industry-forecast-957c30",
-      "title": "Supply Chain Management Market Size, Share, Trends, and Industry Forecast",
-      "dek": "Polaris Market Research has published a new report on the global Supply Chain Management Market. It examines the market’s current position and future prospects. It [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/11/17/1783267",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/Polaris-Logo-Blue-2-1024x1024.png",
-      "publishedAt": "2026-11-17T10:10:24.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "supply chain management market opportunity",
-        "supply chain management market analysis",
         "technology",
-        "supply chain management market research",
-        "supply chain management market report",
-        "supply chain management market technology"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "40209ba5253f5481",
-      "slug": "india-it-spending-to-reach-16-94-trillion-in-2027-microsoft-aws-google-dell-tcs-and-info-8903d2",
-      "title": "India IT Spending to Reach ₹16.94 Trillion in 2027: Microsoft, AWS, Google, Dell, TCS and Infosys Target AI and Cloud Growth",
-      "dek": "India’s IT spending is forecast to increase 10.6 percent to ₹16.94 trillion in 2027, with infrastructure as a service (IaaS), data center systems and enterprise software recording the strongest growth, according to Gartner. Global technology companies including Microsoft, Amazon Web Services, Google",
-      "url": "https://infotechlead.com/networking/india-it-spending-to-reach-%E2%82%B916-94-trillion-in-2027-microsoft-aws-google-dell-tcs-and-infosys-target-ai-and-cloud-growth-99691",
-      "source": "Infotech Lead",
-      "sourceType": "external",
-      "image": "https://infotechlead.com/wp-content/uploads/2026/11/India-IT-Spending-2027.jpg",
-      "publishedAt": "2026-11-17T09:55:33.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "AI"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "ed2815be5f6c9754",
-      "slug": "neo4j-strengthens-india-leadership-with-vimal-venkatram-3b216f",
-      "title": "Neo4j Strengthens India Leadership with Vimal Venkatram",
-      "dek": "Neo4j®, the world’s leading graph intelligence platform, announced the appointment of Vimal Venkatram as Country Manager and Regional Vice President for India. Based in Mumbai, Venkatram will be responsible for driving Neo4j’s growth in India, with a focus on deepening enterprise relationships, expa",
-      "url": "https://smestreet.in/infocus/neo4j-strengthens-india-leadership-with-vimal-venkatram-12816770",
-      "source": "Smestreet In",
-      "sourceType": "external",
-      "image": "https://img-cdn.publive.online/fit-in/1280x960/smstreet/media/media_files/2026/11/17/neo4j-2026-11-17-14-23-58.png",
-      "publishedAt": "2026-11-17T09:22:37.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "infocus",
-        "corporate"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "fb5a342f2d8ee764",
-      "slug": "oracle-corporation-orcl-stock-first-financial-bankshares-inc-increases-holdings-87647e",
-      "title": "Oracle Corporation $ORCL Stock: First Financial Bankshares Inc Increases Holdings",
-      "dek": "First Financial Bankshares Inc raised its position in shares of Oracle Corporation (NYSE:ORCL - Free Report) by 9.1% in the 3rd quarter, according to the company in its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 154,967 shares of t",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-oracle-corporation-orcl-stock-first-financial-bankshares-inc-increases-holdings-2026-11-17/",
-      "source": "Market Beat",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-11-17T09:20:45.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "oracle",
-        "instant alerts",
-        "sec filing",
-        "nyse:orcl"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "31f46d51597d8ee2",
-      "slug": "top-16-ai-ml-engineering-companies-8a4cb8",
-      "title": "Top 16 AI/ML Engineering Companies",
-      "dek": "Verified client ratings and technical analysis of 16 AI/ML engineering companies, with practical guidance on how to evaluate production expertise, compliance maturity, and cost transparency.",
-      "url": "https://www.simform.com/blog/top-ai-ml-engineering-companies/",
-      "source": "Simform",
-      "sourceType": "external",
-      "image": "https://www.simform.com/wp-content/uploads/2026/06/Simform-og-logo.png",
-      "publishedAt": "2026-11-17T08:14:52.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "AI"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "bfc5fcdaea37ba39",
-      "slug": "pavan-kumar-adabala-on-building-reliable-ai-systems-through-strong-enterprise-erp-founda-3c2d7e",
-      "title": "Pavan Kumar Adabala on Building Reliable AI Systems Through Strong Enterprise ERP Foundations",
-      "dek": "Discover how Pavan Kumar Adabala’s TRACE framework uses reliable ERP data, business governance and system integration to build safer, more effective enterprise AI automation.",
-      "url": "https://www.analyticsinsight.net/artificial-intelligence/pavan-kumar-adabala-on-building-reliable-ai-systems-through-strong-enterprise-erp-foundations",
-      "source": "Analytics And Insight",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-11-17T06:50:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "trace framework for ai readiness",
-        "enterprise ai automation",
-        "microsoft dynamics erp architecture",
-        "ai integration in manufacturing systems",
-        "pavan kumar adabala"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "da7a7ca63eb3be79",
-      "slug": "predictive-maintenance-market-expands-as-ai-iot-and-industrial-automation-drive-demand-f-20e401",
-      "title": "Predictive Maintenance Market Expands as AI, IoT, and Industrial Automation Drive Demand for Proactive Asset Management Solutions",
-      "dek": "Polaris Market Research has published a new report on the global Predictive Maintenance Market It examines the market’s current position and future prospects. It covers [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/11/17/1783105",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/Polaris-Logo-Blue-2-1024x1024.png",
-      "publishedAt": "2026-11-17T06:45:31.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "predictive maintenance market united kingdom",
-        "predictive maintenance market opportunity",
-        "predictive maintenance market",
-        "predictive maintenance market analysis",
-        "predictive maintenance market key players",
-        "predictive maintenance market size"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "21d65b46d5ff7359",
-      "slug": "human-capital-management-market-growth-accelerates-as-businesses-adopt-ai-powered-hr-sol-a9fa2b",
-      "title": "Human Capital Management Market Growth Accelerates as Businesses Adopt AI-Powered HR Solutions and Advanced Workforce Management Technologies",
-      "dek": "Polaris Market Research has published a new report on the global Human Capital Management Market It examines the market’s current position and future prospects. It [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/11/17/1783101",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/Polaris-Logo-Blue-2-1024x1024.png",
-      "publishedAt": "2026-11-17T06:41:23.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "human capital management market forecast",
-        "human capital management market",
-        "human capital management market key players",
-        "human capital management",
-        "technology",
-        "human capital management market share"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "2114b4409613de89",
-      "slug": "applicant-tracking-system-market-growth-accelerates-as-businesses-embrace-ai-powered-rec-eee58c",
-      "title": "Applicant Tracking System Market Growth Accelerates as Businesses Embrace AI-Powered Recruitment and Smarter Talent Acquisition Solutions",
-      "dek": "Polaris Market Research has published a new report on the global Applicant Tracking System Market It examines the market’s current position and future prospects. It [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/11/17/1783079",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/Polaris-Logo-Blue-2-1024x1024.png",
-      "publishedAt": "2026-11-17T06:31:22.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "applicant tracking system market opportunity",
-        "applicant tracking system market growth",
-        "applicant tracking system market technology",
-        "applicant tracking system market size",
-        "applicant tracking system market",
-        "technology"
+        "container as a service market"
       ],
       "priority": 37
     },
     {
-      "id": "bf02cbbbfedbf4e7",
-      "slug": "neo4j-appoints-snowflake-veteran-vimal-venkatram-to-lead-india-business-b67a69",
-      "title": "Neo4j Appoints Snowflake Veteran Vimal Venkatram to Lead India Business",
-      "dek": "The appointment comes as the graph intelligence company expands its enterprise and partner ecosystem to support growing demand for connected data and production-ready AI. Neo4j has appointed Vimal Venkatram as Country Manager and Regional Vice President for India, strengthening its leadership as ent",
-      "url": "https://enterpriseitworld.com/neo4j-appoints-snowflake-veteran-vimal-venkatram-to-lead-india-business/",
-      "source": "Enterprise It World",
+      "id": "d3b2478176eb16d1",
+      "slug": "java4shell-cve-2026-114938-enables-pre-auth-rce-in-jira-jenkins-keycloak-on-java-17-avx--dca4f5",
+      "title": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers",
+      "dek": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is present in Java 17.0.6 and later, and the vulnerable code runs o",
+      "url": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+      "source": "The Hacker News",
       "sourceType": "external",
-      "image": "https://enterpriseitworld.com/wp-content/uploads/2026/11/Vimal-Venkatram.png",
-      "publishedAt": "2026-11-17T05:15:12.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTrbBEjGUxldrJAnxC5ilrZqnNHyexGDTR-zS3vAX-Qw_ZNtNNEsomeDRYT40hQkUZt3G4T6y9oKi7G88dN0gatwvi03ItVtDmFCA8V7Zrb2lh5l4oGf8BUVF0UUbvybU0XuGpBnynGfvsCS_y4aWYtzvD_eNyqtids_c8w1auCGMWMYlxrReU-iS0FWc/s1600/java.jpg",
+      "publishedAt": "2026-11-18T04:27:41.000Z",
+      "topic": "Security",
       "tags": [
-        "AI",
-        "Partner"
+        "Java",
+        "CVE",
+        "Security"
       ],
       "priority": 37
+    },
+    {
+      "id": "0f77c1e50dc7ad8e",
+      "slug": "us-cyber-security-agency-warns-of-urgent-cyber-risk-over-software-flaw-224215",
+      "title": "US cyber security agency warns of urgent cyber risk over software flaw",
+      "dek": "The flaw sits in Oracle’s Java and the patching conditions written into cyber policies are what brokers should be checking next",
+      "url": "https://www.insurancebusinessmag.com/nz/news/breaking-news/us-cyber-security-agency-warns-of-urgent-cyber-risk-over-software-flaw-597811.aspx",
+      "source": "Insurance Business",
+      "sourceType": "external",
+      "image": "https://cdn-res.keymedia.com/cms/images/us/026/0311_639305727091339114.png",
+      "publishedAt": "2026-11-18T04:05:35.000Z",
+      "topic": "Security",
+      "tags": [
+        "cve-2026-114938",
+        "cyber insurance patching conditions",
+        "java4shell vulnerability"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "0e8b72049859ec05",
+      "slug": "critical-java-flaw-sparks-s-korea-response-after-php-scare-d9cc25",
+      "title": "Critical Java flaw sparks S. Korea response after PHP scare",
+      "dek": "A critical security flaw in Java, discovered weeks after vulnerabilities in PHP, has prompted South Korea to urge immediate security checks and convene an emergency cybersecurity meeting involving government, industry and military officials. The Ministry of Science and ICT and the Korea Internet and",
+      "url": "https://www.koreaherald.com/article/10941178",
+      "source": "The Korea Herald",
+      "sourceType": "external",
+      "image": "https://wimg.heraldcorp.com/news/cms/2026/11/18/news-p.v1.20261118.4f3b37cf0ad24800b95b241acb96fc32_T1.jpg",
+      "publishedAt": "2026-11-18T02:51:45.000Z",
+      "topic": "Security",
+      "tags": [
+        "all news"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "499a9b021f6a6d09",
+      "slug": "metapwn-adversary-emulation-metadata-intelligence-platform-b78594",
+      "title": "MetaPWN — Adversary Emulation & Metadata Intelligence Platform.",
+      "dek": "MetaPWN is a unified, single-file offensive security and metadata intelligence platform written in pure Python. It consolidates universal metadata extraction, web and protocol reconnaissance, credential attacks, exploitation primitives, post-exploitation, cloud and container abuse, digital forensics",
+      "url": "https://dev.to/sylhetyhackvenger/metapwn-adversary-emulation-metadata-intelligence-platform-42p2",
+      "source": "Dev Community",
+      "sourceType": "external",
+      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F37ulkwt1mmw4eybm3mqq.png",
+      "publishedAt": "2026-11-18T02:24:19.000Z",
+      "topic": "Security",
+      "tags": [
+        "sylhetyhackvenger",
+        "metapwn",
+        "grayhathackingtool",
+        "exploitationtool"
+      ],
+      "priority": 36
     },
     {
       "id": "d6a53992d5b9b644",
@@ -1748,266 +2021,6 @@
       "tags": [
         "AI"
       ],
-      "priority": 36
-    },
-    {
-      "id": "e3d5c537e6827700",
-      "slug": "oracle-ai-vector-search-part-1-412821",
-      "title": "Oracle AI Vector Search: Part 1",
-      "dek": "In this episode, Senior Principal APEX and Apps Dev Instructor Brent Dayley joins hosts Lois Houston and Nikita Abraham to discuss Oracle AI Vector Search. Brent provides an in-depth overview, shedding light on the brand-new vector data type, vector embeddings, and the vector workflow. Oracle Databa",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-ai-vector-search-part-1",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP13.mp3?dest-id=3870039",
-      "publishedAt": "2024-10-22T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "6ebfe903786774ca",
-      "slug": "automatic-transaction-quarantine-358e25",
-      "title": "Automatic Transaction Quarantine",
-      "dek": "In this episode, Lois Houston and Nikita Abraham explore the Automatic Transaction Quarantine feature with Senior Principal Database & MySQL Instructor, Bill Millar. Bill explains that this feature isolates transactions that could potentially cause system crashes, preventing them from impacting the ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/automatic-transaction-quarantine",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP12.mp3?dest-id=3870039",
-      "publishedAt": "2024-10-15T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "MySQL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "989efc7671c3b2e1",
-      "slug": "automatic-transaction-rollback-ec870d",
-      "title": "Automatic Transaction Rollback",
-      "dek": "Join Lois Houston and Nikita Abraham as they discuss the Automatic Transaction Rollback feature with Senior Principal Database & MySQL Instructor, Bill Millar. Bill explains that in the 23ai release, transactions blocking other transactions can now be automatically rolled back, depending on certain ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/automatic-transaction-rollback",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP11.mp3?dest-id=3870039",
-      "publishedAt": "2024-10-08T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "MySQL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "abbe9537156b2d45",
-      "slug": "the-importance-of-data-and-continuous-learning-111f6c",
-      "title": "The importance of data and continuous learning",
-      "dek": "In this episode host Orlaith Lawton speaks with Oracle Ace Director Finland Heli Helskyaho about the importance of data and continuous learning. --------------------------------------------------------- Episode Transcript: 00;00;09;03 - 00;00;37;15 Welcome to the Oracle Academy Tech Chat. This podca",
-      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-importance-of-data-and-continuous-learning",
-      "source": "Oracle Academy Tech Chat",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP03.mp3?dest-id=3949203",
-      "publishedAt": "2024-10-01T16:23:48.000Z",
-      "topic": "Training & Certification",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "0f1e6d2a0c5ba256",
-      "slug": "unrestricted-parallel-dmls-and-direct-loads-ac305f",
-      "title": "Unrestricted Parallel DMLs and Direct Loads",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham discuss new features in Oracle Database 23ai related to Data Manipulation Language (DML). They are joined by Senior Principal Database & MySQL Instructor, Bill Millar, who explains the concept of unrestricted parallel DMLs and their importance i",
-      "url": "https://oracleuniversitypodcast.libsyn.com/unrestricted-parallel-dmls-and-direct-loads",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP10.mp3?dest-id=3870039",
-      "publishedAt": "2024-10-01T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "Oracle Database",
-        "MySQL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "e01703730db0d4b4",
-      "slug": "true-cache-6a960d",
-      "title": "True Cache",
-      "dek": "Hosts Lois Houston and Nikita Abraham are joined by Senior Principal Database & MySQL Instructor Bill Millar who explains Oracle's newest caching solution called True Cache. Available in Oracle Database 23ai, True Cache is an automatically managed, in-memory, read-only cache that improves applicatio",
-      "url": "https://oracleuniversitypodcast.libsyn.com/true-cache",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP9.mp3?dest-id=3870039",
-      "publishedAt": "2024-09-24T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "Oracle Database",
-        "MySQL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "6764e4ce38b290ce",
-      "slug": "enhancements-in-sql-plan-management-securefiles-lob-write-performance-and-column-width-a309fc",
-      "title": "Enhancements in SQL Plan Management, SecureFiles LOB Write Performance, and Column Width",
-      "dek": "Join Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they discuss how the new Automatic SQL Plan Management feature in Oracle Database 23ai improves performance consistency and simplifies management. Then, Senior Principal Database & MySQL ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/enhancements-in-sql-plan-management-securefiles-lob-write-performance-and-column-width",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP8.mp3?dest-id=3870039",
-      "publishedAt": "2024-09-17T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Oracle Database",
-        "MySQL",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "7fc0f877b6c48593",
-      "slug": "hybrid-columnar-compression-fast-ingest-a4b392",
-      "title": "Hybrid Columnar Compression & Fast Ingest",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with Senior Principal Database & MySQL Instructor Bill Millar about the enhanced performance of Hybrid Columnar Compression, the different compression levels, and how to achieve the best compression for your tables. Then, they delve into F",
-      "url": "https://oracleuniversitypodcast.libsyn.com/hybrid-columnar-compression-fast-ingest",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP7.mp3?dest-id=3870039",
-      "publishedAt": "2024-09-10T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "MySQL"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "028f55b53f871be3",
-      "slug": "the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfall-f2dc7e",
-      "title": "The ethics of AI in Academia. Benefits and promise of AI. What should you consider? Pitfalls to avoid?",
-      "dek": "In this episode host Oracle Academy manager Tyra Peirce speaks with Mary Olson Industry Executive Director, Education at Oracle. Tyra and Mary speak about the ethics of AI in education and give practical advice on how to best use the technology while avoiding common pitfalls. -----------------------",
-      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfalls-to-avoid",
-      "source": "Oracle Academy Tech Chat",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP01.mp3?dest-id=3949203",
-      "publishedAt": "2024-09-03T12:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "954fb77f408fd5ab",
-      "slug": "time-data-handling-data-storage-91f274",
-      "title": "Time & Data Handling & Data Storage",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham discuss improvements in time and data handling and data storage in Oracle Database 23ai. They are joined by Senior Principal Instructor Serge Moiseev, who explains the benefit of allowing databases to have their own time zones, separate from the",
-      "url": "https://oracleuniversitypodcast.libsyn.com/time-data-handling-data-storage",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-09-03T11:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "Oracle Database"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "a1c4f2cadb715947",
-      "slug": "database-sharding-part-2-5face7",
-      "title": "Database Sharding: Part 2",
-      "dek": "Join hosts Lois Houston and Nikita Abraham in Part 2 of the discussion on database sharding with Ron Soltani, a Senior Principal Database & Security Instructor. They talk about sharding native replication, directory-based sharding, and coordinated backup and restore for sharded databases, explaining",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-sharding-part-2",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-27T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "43aa5988985c66d9",
-      "slug": "database-sharding-part-1-e6309a",
-      "title": "Database Sharding: Part 1",
-      "dek": "In this two-part episode, hosts Lois Houston and Nikita Abraham are joined by Ron Soltani, a Senior Principal Database & Security Instructor, to discuss the ins and outs of database sharding. In Part 1, they delve into the fundamentals of database sharding, including what it is and how it works, spe",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-sharding-part-1",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-20T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "119c79ecef58b62d",
-      "slug": "database-security-part-2-ef77d6",
-      "title": "Database Security: Part 2",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham continue their exploration of Oracle Database 23ai's database security capabilities. They are joined once again by Ron Soltani, a Senior Principal Database & Security Instructor, who delves into the intricacies of the new hybrid read-only mode f",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-2",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-13T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Oracle Database",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ffc09f7346e6f6b5",
-      "slug": "database-security-part-1-b4c13f",
-      "title": "Database Security: Part 1",
-      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they dive into the critical topic of database security. In the first of a two-part series on database security in Oracle Database 23ai, they discuss the importance of protecting dat",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-1",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-06T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Oracle Database",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "7c3ad34d1ff092f6",
-      "slug": "blockchain-tables-a4f246",
-      "title": "Blockchain Tables",
-      "dek": "In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham kick off a new season with a deep dive into the latest features of Oracle Database 23ai. Joined by Bill Millar, a Senior Principal Database & MySQL Instructor, they explore the new enhancements to blockchain tabl",
-      "url": "https://oracleuniversitypodcast.libsyn.com/blockchain-tables",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-30T11:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "Oracle Database",
-        "MySQL",
-        "Oracle University"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ff92a6749fa996f7",
-      "slug": "database-essentials-027d69",
-      "title": "Database Essentials",
-      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Hope Fisher, Oracle's Product Manager for Database Technologies, as they break down the basics of databases, explore different database management systems, and delve into database development. Whether you're a newcomer or just need a refresher, ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-essentials",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-23T14:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [],
       "priority": 36
     }
   ]
