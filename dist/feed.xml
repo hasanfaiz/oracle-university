@@ -6,26 +6,8 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 01:48:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 01:37:24 GMT</lastBuildDate>
     
-    <item>
-      <title>The Button that did Absolutely Nothing</title>
-      <link>https://oracle-university.com/stories/the-button-that-did-absolutely-nothing-e965b9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-button-that-did-absolutely-nothing-e965b9/</guid>
-      <pubDate>Wed, 18 Nov 2026 13:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>You complete the form, click Save, and wait. The button changes color, but did anything actually happen? This episode follows an apparently broken button through the complete APEX workflow: page submission, validation, conditions, processing, data changes, and user feedback. Along the way, we explor</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-button-that-did-absolutely-nothing">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>The Dashboard Nobody Can Read</title>
-      <link>https://oracle-university.com/stories/the-dashboard-nobody-can-read-2a4919/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-dashboard-nobody-can-read-2a4919/</guid>
-      <pubDate>Wed, 18 Nov 2026 13:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Seventeen charts, nine colors, four gauges—and nobody knows what decision to make. This episode explores how an APEX dashboard can contain every requested metric while leaving its audience confused. We discuss visual hierarchy, chart selection, accessible design, consistent filters, and clear defini</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-dashboard-nobody-can-read">Oracle Academy Tech Chat</source>
-    </item>
     <item>
       <title>Oracle Sets the Date for its First Quarter Fiscal Year 2027 Earnings Announcement</title>
       <link>https://oracle-university.com/stories/oracle-sets-the-date-for-its-first-quarter-fiscal-year-2027-earnings-announcement-a540e9/</link>
@@ -45,310 +27,220 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-Fourth-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>AWS SageMaker JumpStart Now Ranks Over 70 AI Models by Quality, Speed and Cost</title>
-      <link>https://oracle-university.com/stories/aws-sagemaker-jumpstart-now-ranks-over-70-ai-models-by-quality-speed-and-cost-d03d25/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/aws-sagemaker-jumpstart-now-ranks-over-70-ai-models-by-quality-speed-and-cost-d03d25/</guid>
-      <pubDate>Thu, 19 Nov 2026 13:34:37 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>AWS SageMaker JumpStart now ranks more than 70 AI models by quality, deployment speed, and estimated hourly instance cost.</description>
-      <source url="https://www.analyticsinsight.net/news/aws-sagemaker-jumpstart-now-ranks-over-70-ai-models-by-quality-speed-and-cost">Analytics And Insight</source>
-    </item>
-    <item>
-      <title>Argus MedGPT™ Patient Chart Review Tool and EndoSoft® FHIR® engine Now Available on Oracle Cloud Marketplace</title>
-      <link>https://oracle-university.com/stories/argus-medgpt-patient-chart-review-tool-and-endosoft-fhir-engine-now-available-on-oracle--4fef63/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/argus-medgpt-patient-chart-review-tool-and-endosoft-fhir-engine-now-available-on-oracle--4fef63/</guid>
-      <pubDate>Thu, 19 Nov 2026 13:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Argus MedGPT™ and the EndoSoft® FHIR engine, now available on Oracle Cloud Marketplace, an AI-powered tool designed to query patient records.</description>
-      <source url="https://www.einpresswire.com/article/957053964/argus-medgpt-patient-chart-review-tool-and-endosoft-fhir-engine-now-available-on-oracle-cloud-marketplace">Ein Presswire</source>
-    </item>
-    <item>
-      <title>Connecting Redgate Monitor to AI assistants with MCP</title>
-      <link>https://oracle-university.com/stories/connecting-redgate-monitor-to-ai-assistants-with-mcp-6da234/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/connecting-redgate-monitor-to-ai-assistants-with-mcp-6da234/</guid>
-      <pubDate>Thu, 19 Nov 2026 12:57:26 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>MCP (Model Context Protocol) is the open standard that lets AI assistants like Claude, GitHub Copilot and Cursor connect to external tools and data. For database monitoring, that means a DBA or engineer can ask their AI assistant about the state of the estate, such as recent alerts, server health, t</description>
-      <source url="https://www.red-gate.com/blog/redgate-monitor-mcp-server/">Red Gate Software</source>
-    </item>
-    <item>
-      <title>Smart Network Interface Card (SmartNIC) Market (2035): AI Data Center Networking, 800GbE Connectivity &amp; DPU-Based Infrastructure Growth in North America Expansion</title>
-      <link>https://oracle-university.com/stories/smart-network-interface-card-smartnic-market-2035-ai-data-center-networking-800gbe-conne-d48fbb/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/smart-network-interface-card-smartnic-market-2035-ai-data-center-networking-800gbe-conne-d48fbb/</guid>
-      <pubDate>Thu, 19 Nov 2026 12:41:42 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>The Global Smart Network Interface Card (SmartNIC) Market reached US$4.25 billion in 2025 and is projected to reach US$15.00 billion by 2035, growing at a CAGR of approximately 13.5% during 2026-2035. Market growth is driven by increasing AI and high-performance</description>
-      <source url="https://www.openpr.com/news/4694584/smart-network-interface-card-smartnic-market-2035-ai-data">Openpr.com</source>
-    </item>
-    <item>
-      <title>Nvidia Revenue Doubles to $115.8 Billion as AI Chip Demand Surges</title>
-      <link>https://oracle-university.com/stories/nvidia-revenue-doubles-to-115-8-billion-as-ai-chip-demand-surges-0f6a14/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/nvidia-revenue-doubles-to-115-8-billion-as-ai-chip-demand-surges-0f6a14/</guid>
-      <pubDate>Thu, 19 Nov 2026 12:39:37 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Nvidia&#39;s $115.8 billion quarter shows how AI infrastructure demand is reshaping its business, with Vera Rubin shipments adding momentum. The post Nvidia Revenue Doubles to $115.8 Billion as AI Chip Demand Surges appeared first on TechRepublic.</description>
-      <source url="https://www.techrepublic.com/article/news-nvidia-revenue-doubles-ai-demand/">Techrepublic</source>
-    </item>
-    <item>
-      <title>10 Alteryx Alternatives for Large Data Sets, Ranked for 2026</title>
-      <link>https://oracle-university.com/stories/10-alteryx-alternatives-for-large-data-sets-ranked-for-2026-a30eed/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/10-alteryx-alternatives-for-large-data-sets-ranked-for-2026-a30eed/</guid>
-      <pubDate>Thu, 19 Nov 2026 12:35:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The 10 best Alteryx alternatives for large data sets in 2026, ranked on pushdown, ease of use, migration path, and cost: Prophecy, Dataiku, Databricks, KNIME, Snowflake, Informatica, Maia by Matillion, dbt, Tableau Prep, and Apache Spark.</description>
-      <source url="https://www.analyticsinsight.net/artificial-intelligence/alteryx-alternatives-large-data-sets-ranked">Analytics And Insight</source>
-    </item>
-    <item>
-      <title>Anthropic IPO opens the door: 4 tech companies that may go public</title>
-      <link>https://oracle-university.com/stories/anthropic-ipo-opens-the-door-4-tech-companies-that-may-go-public-9cd399/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/anthropic-ipo-opens-the-door-4-tech-companies-that-may-go-public-9cd399/</guid>
-      <pubDate>Thu, 19 Nov 2026 12:30:00 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>The upcoming Anthropic IPO has already been highly successful as the company has raised over $80 billion from investors. ANT stock is already up by over 20% in the grey market, and the surge may continue, at least in the near term. As a result, this IPO, which is happening during a bear market for A</description>
-      <source url="https://invezz.com/news/2026/11/19/anthropic-ipo-opens-the-door-4-tech-companies-that-may-go-public/">Invezz</source>
-    </item>
-    <item>
-      <title>Why Did David Tepper Exit AMD and Open a $172M Oracle Position? Here’s What May Have Driven the Shift</title>
-      <link>https://oracle-university.com/stories/why-did-david-tepper-exit-amd-and-open-a-172m-oracle-position-here-s-what-may-have-drive-839736/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/why-did-david-tepper-exit-amd-and-open-a-172m-oracle-position-here-s-what-may-have-drive-839736/</guid>
-      <pubDate>Thu, 19 Nov 2026 12:15:08 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>One AI giant is up nearly 150% this year, the other is down roughly 40%, and Appaloosa picked the loser. Tepper&#39;s latest 13F hints at a contrarian bet, but the cash burn behind it is hard to ignore.</description>
-      <source url="https://247wallst.com/investing/2026/11/19/why-did-david-tepper-exit-amd-and-open-a-172m-oracle-position-heres-what-may-have-driven-the-shift/">24/7 Wall St</source>
-    </item>
-    <item>
-      <title>Ransomware incidents surged 38% in Q3</title>
-      <link>https://oracle-university.com/stories/ransomware-incidents-surged-38-in-q3-3f588f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ransomware-incidents-surged-38-in-q3-3f588f/</guid>
-      <pubDate>Thu, 19 Nov 2026 12:01:00 GMT</pubDate>
+      <title>Trump Floats A Price For Taking America’s AI Boom Overseas</title>
+      <link>https://oracle-university.com/stories/trump-floats-a-price-for-taking-america-s-ai-boom-overseas-1b855a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/trump-floats-a-price-for-taking-america-s-ai-boom-overseas-1b855a/</guid>
+      <pubDate>Fri, 20 Nov 2026 13:04:43 GMT</pubDate>
       <category>Security</category>
-      <description>Threat actors exploited vulnerabilities in 28% of ransomware cases, up from 14% in Q2 Patch volumes increased almost 80% as vendors remediate weaknesses identified by AI Detailed analysis of one intrusion conducted almost entirely by AI agents showcases AI coordination and sophistication...</description>
-      <source url="https://www.prnewswire.com/news-releases/ransomware-incidents-surged-38-in-q3-302944597.html">Pr Newswire</source>
+      <description>President Donald Trump threatened to impose a “tremendous tax” on American tech companies building artificial intelligence data centers overseas, saying he wants the infrastructure powering the AI boom exclusively built in the United States. “We’re not going to allow companies to build data centers </description>
+      <source url="https://www.dailywire.com/news/trump-floats-a-price-for-taking-americas-ai-boom-overseas">The Daily Wire</source>
     </item>
     <item>
-      <title>ValidExamDumps vs CertsPrime: Which Is Better for IT Certification Exam Preparation in 2026?</title>
-      <link>https://oracle-university.com/stories/validexamdumps-vs-certsprime-which-is-better-for-it-certification-exam-preparation-in-20-c4dd02/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/validexamdumps-vs-certsprime-which-is-better-for-it-certification-exam-preparation-in-20-c4dd02/</guid>
-      <pubDate>Thu, 19 Nov 2026 11:26:23 GMT</pubDate>
+      <title>AI could open wallets where ERP upgrade pitches can&#39;t, says PwC</title>
+      <link>https://oracle-university.com/stories/ai-could-open-wallets-where-erp-upgrade-pitches-can-t-says-pwc-3c9799/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-could-open-wallets-where-erp-upgrade-pitches-can-t-says-pwc-3c9799/</guid>
+      <pubDate>Fri, 20 Nov 2026 12:47:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Consultancy argues a &#39;clean core&#39; makes agents easier to deploy – but Kingfisher is taking a different route</description>
+      <source url="https://www.theregister.com/ai-and-ml/2026/11/20/ai-could-open-wallets-where-erp-upgrade-pitches-cant-says-pwc/5311221">The Register</source>
+    </item>
+    <item>
+      <title>The Button that did Absolutely Nothing</title>
+      <link>https://oracle-university.com/stories/the-button-that-did-absolutely-nothing-e965b9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-button-that-did-absolutely-nothing-e965b9/</guid>
+      <pubDate>Wed, 18 Nov 2026 13:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>You complete the form, click Save, and wait. The button changes color, but did anything actually happen? This episode follows an apparently broken button through the complete APEX workflow: page submission, validation, conditions, processing, data changes, and user feedback. Along the way, we explor</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-button-that-did-absolutely-nothing">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>The Dashboard Nobody Can Read</title>
+      <link>https://oracle-university.com/stories/the-dashboard-nobody-can-read-2a4919/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/the-dashboard-nobody-can-read-2a4919/</guid>
+      <pubDate>Wed, 18 Nov 2026 13:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Seventeen charts, nine colors, four gauges—and nobody knows what decision to make. This episode explores how an APEX dashboard can contain every requested metric while leaving its audience confused. We discuss visual hierarchy, chart selection, accessible design, consistent filters, and clear defini</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-dashboard-nobody-can-read">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Top Companies In Kerala Hiring Accountants In 2027</title>
+      <link>https://oracle-university.com/stories/top-companies-in-kerala-hiring-accountants-in-2027-38f549/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/top-companies-in-kerala-hiring-accountants-in-2027-38f549/</guid>
+      <pubDate>Fri, 20 Nov 2026 12:38:49 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Discover the top companies in Kerala that are hiring accountants in 2025,through this comprehensive and detailed blog.a</description>
+      <source url="https://entri.app/blog/top-companies-in-kerala-hiring-accountants/">Entri</source>
+    </item>
+    <item>
+      <title>UK competition body probes hyperscaler security and cloud lock-in</title>
+      <link>https://oracle-university.com/stories/uk-competition-body-probes-hyperscaler-security-and-cloud-lock-in-901c94/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/uk-competition-body-probes-hyperscaler-security-and-cloud-lock-in-901c94/</guid>
+      <pubDate>Fri, 20 Nov 2026 12:21:20 GMT</pubDate>
+      <category>Security</category>
+      <description>CMA continues digital sovereignty investigation with consultation into IAM and Kubernetes</description>
+      <source url="https://www.sdxcentral.com/news/uk-competition-body-probes-hyperscaler-security-and-cloud-lock-in/">Sdxcentral</source>
+    </item>
+    <item>
+      <title>Automus Announces Partnership with Google Cloud to Help Accelerate Agentic Transformation</title>
+      <link>https://oracle-university.com/stories/automus-announces-partnership-with-google-cloud-to-help-accelerate-agentic-transformatio-f614f4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/automus-announces-partnership-with-google-cloud-to-help-accelerate-agentic-transformatio-f614f4/</guid>
+      <pubDate>Fri, 20 Nov 2026 12:20:30 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Automus announced a collaboration with Google Cloud to help accelerate agentic transformation, showcasing a roadmap at Oracle AI World. This collaboration is designed to help organizations leverage the power of AI and agentic capabilities to modernize their operations and unlock new opportunities. A</description>
+      <source url="https://aithority.com/machine-learning/automus-announces-partnership-with-google-cloud-to-help-accelerate-agentic-transformation/">Aithority</source>
+    </item>
+    <item>
+      <title>What The Telecom Bust Taught Me About AI’s Debt Boom</title>
+      <link>https://oracle-university.com/stories/what-the-telecom-bust-taught-me-about-ai-s-debt-boom-756e9b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/what-the-telecom-bust-taught-me-about-ai-s-debt-boom-756e9b/</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:01 GMT</pubDate>
+      <category>Security</category>
+      <description>The AI buildout’s growing reliance on debt echoes the telecom bubble, raising the risk that infrastructure spending will outpace the revenue needed to meet fixed repayment obligations. According to guest author David Spreng of Runway Growth Capital, even if AI fulfills its technological promise, bor</description>
+      <source url="https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/">Crunchbase</source>
+    </item>
+    <item>
+      <title>Not Nvidia. Not Broadcom. This Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner of 2027</title>
+      <link>https://oracle-university.com/stories/not-nvidia-not-broadcom-this-artificial-intelligence-ai-chip-stock-could-be-the-biggest--c354a7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/not-nvidia-not-broadcom-this-artificial-intelligence-ai-chip-stock-could-be-the-biggest--c354a7/</guid>
+      <pubDate>Fri, 20 Nov 2026 11:45:02 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Cerebras Systems&#39; stunning growth explains why analysts are expecting a big jump in its stock price over the coming year.</description>
+      <source url="https://www.fool.com/investing/2026/11/20/not-nvidia-not-broadcom-this-artificial-intelligence-ai-chip-stock-could-be-the-biggest-winner-of-2027/">Fool</source>
+    </item>
+    <item>
+      <title>Anthropic shares slide as AI selloff tests record IPO debut</title>
+      <link>https://oracle-university.com/stories/anthropic-shares-slide-as-ai-selloff-tests-record-ipo-debut-aeec0f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/anthropic-shares-slide-as-ai-selloff-tests-record-ipo-debut-aeec0f/</guid>
+      <pubDate>Fri, 20 Nov 2026 11:30:00 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>A steep premarket drop on Friday signals investor caution around AI valuations, one day after the biggest IPO on record</description>
+      <source url="https://www.wealthprofessional.ca/investments/global-investing/anthropic-shares-slide-as-ai-selloff-tests-record-ipo-debut/394069">Wealth Professional Canada</source>
+    </item>
+    <item>
+      <title>Why Is the Data-Centric Security Market Becoming a Top Investment Priority Amid Rising Data Breaches and Growing Demand for Enterprise Data Protection</title>
+      <link>https://oracle-university.com/stories/why-is-the-data-centric-security-market-becoming-a-top-investment-priority-amid-rising-d-e60aa6/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/why-is-the-data-centric-security-market-becoming-a-top-investment-priority-amid-rising-d-e60aa6/</guid>
+      <pubDate>Fri, 20 Nov 2026 11:25:30 GMT</pubDate>
+      <category>Security</category>
+      <description>According to DataM Intelligence (DMI) analysis, the Global Data-centric Security Market was valued at USD 10.65 billion in 2025 and is projected to reach USD 57.44 billion by 2035, growing at a CAGR of 18.36% during the forecast period (2026-2035). Market</description>
+      <source url="https://www.openpr.com/news/4695524/why-is-the-data-centric-security-market-becoming-a-top">Openpr.com</source>
+    </item>
+    <item>
+      <title>Supply Chain Finance Market to Reach US$ 7.35 Billion by 2035 at 13.0% CAGR; Asia-Pacific Dominates with 42.2% Share - Key Players: Citi, HSBC, Standard Chartered, DBS Bank</title>
+      <link>https://oracle-university.com/stories/supply-chain-finance-market-to-reach-us-7-35-billion-by-2035-at-13-0-cagr-asia-pacific-d-4bb958/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/supply-chain-finance-market-to-reach-us-7-35-billion-by-2035-at-13-0-cagr-asia-pacific-d-4bb958/</guid>
+      <pubDate>Fri, 20 Nov 2026 11:14:49 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The global supply chain finance market reached US$ 2.16 billion in 2025 and is projected to reach US$ 7.35 billion by 2035, growing at a CAGR of 13.0% during the forecast period 2026-2035. Market growth is driven by increasing demand</description>
+      <source url="https://www.openpr.com/news/4695497/supply-chain-finance-market-to-reach-us-7-35-billion-by-2035">Openpr.com</source>
+    </item>
+    <item>
+      <title>Presentation: Modernising Retail at Scale: Architecting a Cloud‑to‑Edge Platform for a Global Enterprise</title>
+      <link>https://oracle-university.com/stories/presentation-modernising-retail-at-scale-architecting-a-cloud-to-edge-platform-for-a-glo-aeedac/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/presentation-modernising-retail-at-scale-architecting-a-cloud-to-edge-platform-for-a-glo-aeedac/</guid>
+      <pubDate>Fri, 20 Nov 2026 11:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Jayesh Bhayani discusses Tesco’s decade-long enterprise transformation from fragmented legacy systems to a unified cloud-edge platform. He explains how aligning system, talent, and process modernizations allowed Tesco to scale mission-critical retail operations to millions of customers, while sharin</description>
+      <source url="https://www.infoq.com/presentations/tesco-enterprise-tech-transformation/">Information Queue</source>
+    </item>
+    <item>
+      <title>Supply Chain Management Market to Reach USD 94.35 Billion by 2033 as Enterprises Shift from Traditional Planning Software to Autonomous Supply Chain Orchestration</title>
+      <link>https://oracle-university.com/stories/supply-chain-management-market-to-reach-usd-94-35-billion-by-2033-as-enterprises-shift-f-8aff81/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/supply-chain-management-market-to-reach-usd-94-35-billion-by-2033-as-enterprises-shift-f-8aff81/</guid>
+      <pubDate>Fri, 20 Nov 2026 10:42:39 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The global supply chain management industry is entering a new phase in which competitive differentiation increasingly depends on how quickly organizations can translate operational data into coordinated decisions. Traditional enterprise resource planning and logistics applications remain important, </description>
+      <source url="https://www.openpr.com/news/4695428/supply-chain-management-market-to-reach-usd-94-35-billion-by-2033">Openpr.com</source>
+    </item>
+    <item>
+      <title>Quest Software Launches Quest Lakebase Modeler on Databricks Marketplace</title>
+      <link>https://oracle-university.com/stories/quest-software-launches-quest-lakebase-modeler-on-databricks-marketplace-6c73df/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/quest-software-launches-quest-lakebase-modeler-on-databricks-marketplace-6c73df/</guid>
+      <pubDate>Fri, 20 Nov 2026 10:13:55 GMT</pubDate>
+      <category>Java &amp; MySQL</category>
+      <description>Quest Software announced Quest Lakebase Modeler on November 19, 2026, making the schema modeling tool available through Databricks Marketplace. Quest Lakebase Modeler helps developers, data engineers, and architects design, govern, and deploy application-ready schemas directly within Databricks Lake</description>
+      <source url="https://itdigest.com/uncategorized/quest-software-launches-quest-lakebase-modeler-on-databricks-marketplace/">Itdigest</source>
+    </item>
+    <item>
+      <title>Best 8 AI Agents Every HR Professional Needs to Know in 2027</title>
+      <link>https://oracle-university.com/stories/best-8-ai-agents-every-hr-professional-needs-to-know-in-2027-b73386/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-8-ai-agents-every-hr-professional-needs-to-know-in-2027-b73386/</guid>
+      <pubDate>Fri, 20 Nov 2026 09:08:49 GMT</pubDate>
+      <category>Security</category>
+      <description>Explore eight AI agents transforming HR in 2027. Learn their uses, benefits, risks, and essential skills for HR professionals.</description>
+      <source url="https://entri.app/blog/best-ai-agents-every-hr-professional-needs-to-know/">Entri</source>
+    </item>
+    <item>
+      <title>Oracle Stock Just Closed at Its Lowest Price Since April 2024. Is It a Buy Now?</title>
+      <link>https://oracle-university.com/stories/oracle-stock-just-closed-at-its-lowest-price-since-april-2024-is-it-a-buy-now-cd94d6/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-stock-just-closed-at-its-lowest-price-since-april-2024-is-it-a-buy-now-cd94d6/</guid>
+      <pubDate>Fri, 20 Nov 2026 08:47:02 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>The cloud giant&#39;s shares now trade under the $116 its latest investors paid. Is that a bargain?</description>
+      <source url="https://www.fool.com/investing/2026/11/20/oracle-stock-just-closed-at-its-lowest-price-since-april-2024-is-it-a-buy-now/">Fool</source>
+    </item>
+    <item>
+      <title>Dulquer Salmaan&#39;s Aakasamlo Oka Tara heroine Satvika Veeravalli had finished her engineering in just 3 years. How one Instagram post changed life of the actress who was working as an Oracle techie in US</title>
+      <link>https://oracle-university.com/stories/dulquer-salmaan-s-aakasamlo-oka-tara-heroine-satvika-veeravalli-had-finished-her-enginee-299452/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/dulquer-salmaan-s-aakasamlo-oka-tara-heroine-satvika-veeravalli-had-finished-her-enginee-299452/</guid>
+      <pubDate>Fri, 20 Nov 2026 08:27:02 GMT</pubDate>
       <category>Training &amp; Certification</category>
-      <description>The most recent news from Nigeria and across the world is available at The News Chronicle. The News Chronicle provides the most recent headlines, commentary, and political news. ValidExamDumps vs CertsPrime: Which Is Better for IT Certification Exam Preparation in 2026? Choosing an IT certification </description>
-      <source url="https://thenews-chronicle.com/348426-2/">The News Chronicle</source>
+      <description>Satvika Veeravalli, who previously worked for Oracle, has made her debut appearance in Telugu cinema with Aakasamlo Oka Tara. The Indian American actress recently shared details about her journey during an interview with Deccan Chronicle. A graduate of the University of Illinois Urbana-Champaign, sh</description>
+      <source url="https://economictimes.indiatimes.com/magazines/panache/dulquer-salmaans-aakasamlo-oka-tara-heroine-satvika-veeravalli-had-finished-her-engineering-in-just-3-years-how-one-instagram-post-changed-life-of-the-actress-who-was-working-as-an-oracle-techie-in-us/articleshow/136019076.cms">The Economic Times</source>
+    </item>
+    <item>
+      <title>Top 10 Best Corporate Training Companies In India In 2027</title>
+      <link>https://oracle-university.com/stories/top-10-best-corporate-training-companies-in-india-in-2027-b6abaf/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/top-10-best-corporate-training-companies-in-india-in-2027-b6abaf/</guid>
+      <pubDate>Fri, 20 Nov 2026 07:28:39 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Top 10 Best Corporate Training Companies in India in 2027 Corporate training has become one of the most important investments for Indian businesses seeking to improve workforce productivity, strengthen leadership capabilities, accelerate digital transformation, and remain competitive in a rapidly ev</description>
+      <source url="https://www.inventiva.co.in/trends/top-10-best-corporate-training-companies-in-india-in-2027/">Inventiva</source>
+    </item>
+    <item>
+      <title>AI in Patient Engagement Market Set to Experience Revenue Growth to USD 49.40 Billion by 2034 at 20.97% CAGR</title>
+      <link>https://oracle-university.com/stories/ai-in-patient-engagement-market-set-to-experience-revenue-growth-to-usd-49-40-billion-by-485df4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-in-patient-engagement-market-set-to-experience-revenue-growth-to-usd-49-40-billion-by-485df4/</guid>
+      <pubDate>Fri, 20 Nov 2026 06:51:03 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>The AI in Patient Engagement Market is growing rapidly as healthcare organizations adopt intelligent tools to personalize care, automate routine communication and manage rising costs. [read full press release...]</description>
+      <source url="https://express-press-release.net/news/2026/11/20/1784546">Express-press-release</source>
+    </item>
+    <item>
+      <title>Strategies To Achieve Zero Downtime During Database Conversion</title>
+      <link>https://oracle-university.com/stories/strategies-to-achieve-zero-downtime-during-database-conversion-9f2d7b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/strategies-to-achieve-zero-downtime-during-database-conversion-9f2d7b/</guid>
+      <pubDate>Fri, 20 Nov 2026 05:44:19 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Image Source: Pixabay Converting a live database presents a technical challenge: data must move to the target system while the source continues processing transactions. New orders, customer updates… Read the full article on TechAnnouncer.</description>
+      <source url="https://techannouncer.com/strategies-to-achieve-zero-downtime-during-database-conversion/">Techannouncer</source>
+    </item>
+    <item>
+      <title>You Can Outsource the Work, Not the Ownership</title>
+      <link>https://oracle-university.com/stories/you-can-outsource-the-work-not-the-ownership-9f26bc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/you-can-outsource-the-work-not-the-ownership-9f26bc/</guid>
+      <pubDate>Fri, 20 Nov 2026 04:59:17 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Lessons from years of turning vendor engagements into long-term wins Recently, a colleague messaged me to say a project wasn&#39;t going well. We had brought in an outside consultant to build our disaster recovery failover plan, and the consultant didn&#39;t have the domain knowledge for our systems. The wo</description>
+      <source url="https://dev.to/pranay_raavi/you-can-outsource-the-work-not-the-ownership-4hef">Dev Community</source>
+    </item>
+    <item>
+      <title>Audience Analytics Market Gains Traction as Businesses Prioritize Data-Driven Marketing and Customer Insights</title>
+      <link>https://oracle-university.com/stories/audience-analytics-market-gains-traction-as-businesses-prioritize-data-driven-marketing--e68ece/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/audience-analytics-market-gains-traction-as-businesses-prioritize-data-driven-marketing--e68ece/</guid>
+      <pubDate>Fri, 20 Nov 2026 03:46:50 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The Audience Analytics Market is part of a wider industry environment shaped by business activity, customer requirements, and changes in product or service demand. Polaris [read full press release...]</description>
+      <source url="https://express-press-release.net/news/2026/11/19/1784319">Express-press-release</source>
     </item>
     <item>
       <title>OpenAI Releases Improved Live Dictation in ChatGPT; Releases Specialised Accounting Tool for AI Chatbot</title>
-      <link>https://oracle-university.com/stories/openai-releases-improved-live-dictation-in-chatgpt-releases-specialised-accounting-tool--9380f9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/openai-releases-improved-live-dictation-in-chatgpt-releases-specialised-accounting-tool--9380f9/</guid>
-      <pubDate>Thu, 19 Nov 2026 11:05:26 GMT</pubDate>
+      <link>https://oracle-university.com/stories/openai-releases-improved-live-dictation-in-chatgpt-releases-specialised-accounting-tool--0281ab/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/openai-releases-improved-live-dictation-in-chatgpt-releases-specialised-accounting-tool--0281ab/</guid>
+      <pubDate>Fri, 20 Nov 2026 02:45:45 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>OpenAI has launched the ChatGPT for Accounting plugin, the company announced on Thursday. The plugin aims to guide users on recurring accounting work, the company said. The new tool can help users prepare month-end reports, reconcile bank accounts, enter data, and maintain accounting books. ChatGPT </description>
-      <source url="https://www.gadgets360.com/ai/news/openai-chatgpt-live-dictation-update-release-accounting-features-12349148">Gadgets 360</source>
-    </item>
-    <item>
-      <title>How AI uncovered a critical vulnerability in Java and what it means for Indian organisations</title>
-      <link>https://oracle-university.com/stories/how-ai-uncovered-a-critical-vulnerability-in-java-and-what-it-means-for-indian-organisat-7224ae/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/how-ai-uncovered-a-critical-vulnerability-in-java-and-what-it-means-for-indian-organisat-7224ae/</guid>
-      <pubDate>Thu, 19 Nov 2026 10:38:38 GMT</pubDate>
-      <category>Security</category>
-      <description>A month after AI-assisted research exposed critical flaws in PHP, researchers have used OpenAI’s GPT-6 Cyber to identify a memory corruption bug in Java, a programming language widely used across banking, aviation and other critical sectors</description>
-      <source url="https://www.moneycontrol.com/technology/how-ai-uncovered-a-critical-vulnerability-in-java-and-what-it-means-for-indian-organisations-article-14084746.html">Moneycontrol</source>
-    </item>
-    <item>
-      <title>Workday puts its AI agents on a leash</title>
-      <link>https://oracle-university.com/stories/workday-puts-its-ai-agents-on-a-leash-cb8ea1/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/workday-puts-its-ai-agents-on-a-leash-cb8ea1/</guid>
-      <pubDate>Thu, 19 Nov 2026 10:26:08 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Workday&#39;s CEO says you can&#39;t run payroll on probabilities as it pitches governed AI agents.</description>
-      <source url="https://techcentral.co.za/workday-ai-agents-on-a-leash/288559/">Techcentral</source>
-    </item>
-    <item>
-      <title>Java Error Code 1603: How to Fix Installation on Windows</title>
-      <link>https://oracle-university.com/stories/java-error-code-1603-how-to-fix-installation-on-windows-f4aaf9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/java-error-code-1603-how-to-fix-installation-on-windows-f4aaf9/</guid>
-      <pubDate>Thu, 19 Nov 2026 10:25:00 GMT</pubDate>
-      <category>Java &amp; MySQL</category>
-      <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://seminarsonly.com/news/java-error-code-1603/">Seminar Topics</source>
-    </item>
-    <item>
-      <title>AI Data Management Market: AI Data Management Market Growth, Intelligent Data Solutions and Emerging Trends</title>
-      <link>https://oracle-university.com/stories/ai-data-management-market-ai-data-management-market-growth-intelligent-data-solutions-an-939adb/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-data-management-market-ai-data-management-market-growth-intelligent-data-solutions-an-939adb/</guid>
-      <pubDate>Thu, 19 Nov 2026 10:20:24 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>The AI Data Management Market is part of a wider information technology and enterprise software industry environment shaped by increasing data volumes, growing adoption of [read full press release...]</description>
-      <source url="https://express-press-release.net/news/2026/11/19/1784129">Express-press-release</source>
-    </item>
-    <item>
-      <title>Java security flaw explained: Why CISA, CERT-In urge urgent software update</title>
-      <link>https://oracle-university.com/stories/java-security-flaw-explained-why-cisa-cert-in-urge-urgent-software-update-ef891e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/java-security-flaw-explained-why-cisa-cert-in-urge-urgent-software-update-ef891e/</guid>
-      <pubDate>Thu, 19 Nov 2026 10:05:30 GMT</pubDate>
-      <category>Security</category>
-      <description>Java, the world&#39;s third most widely used programming language, faces a critical security flaw that could expose sensitive systems to remote attacks</description>
-      <source url="https://www.business-standard.com/technology/tech-news/java-security-flaw-explained-why-cisa-cert-in-urge-urgent-software-update-126111900718_1.html">Business Standard</source>
-    </item>
-    <item>
-      <title>IT Security News Hourly Summary 2026-11-19 11h : 36 posts</title>
-      <link>https://oracle-university.com/stories/it-security-news-hourly-summary-2026-11-19-11h-36-posts-76ca29/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/it-security-news-hourly-summary-2026-11-19-11h-36-posts-76ca29/</guid>
-      <pubDate>Thu, 19 Nov 2026 10:00:08 GMT</pubDate>
-      <category>Security</category>
-      <description>36 posts published in the last hour 09:36Last of Five Defendants Sentenced in US Scattered Spider Hacking Case 09:36Microsoft adds HorizonDB to Fabric to ease development of agent-driven applications 09:36CVE-2026-114938: Critical vulnerability in OpenJDK Java 09:35Hackers Deploy Overlord RAT That… </description>
-      <source url="https://www.itsecuritynews.info/it-security-news-hourly-summary-2026-11-19-11h-36-posts/">It Security News</source>
-    </item>
-    <item>
-      <title>Top AI Cloud Platforms for Singapore Enterprise Deployment and US GPU and Open-Model API Access</title>
-      <link>https://oracle-university.com/stories/top-ai-cloud-platforms-for-singapore-enterprise-deployment-and-us-gpu-and-open-model-api-dfa18d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-ai-cloud-platforms-for-singapore-enterprise-deployment-and-us-gpu-and-open-model-api-dfa18d/</guid>
-      <pubDate>Thu, 19 Nov 2026 09:17:39 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Enterprise AI cloud shortlists in Singapore and the US are converging on the same three screens — where the compute physically sits, which NVIDIA generations a provider can actually deliver today, and how quickly open-source models can be reached by API rather than by weeks of self-hosting. The real</description>
-      <source url="https://www.financialcontent.com/article/globeprwire-2026-11-19-top-ai-cloud-platforms-for-singapore-enterprise-deployment-and-us-gpu-and-open-model-api-access">Financialcontent</source>
-    </item>
-    <item>
-      <title>Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle</title>
-      <link>https://oracle-university.com/stories/researcher-demonstrates-database-rce-exploits-affecting-postgresql-mysql-and-oracle-a21de1/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/researcher-demonstrates-database-rce-exploits-affecting-postgresql-mysql-and-oracle-a21de1/</guid>
-      <pubDate>Thu, 19 Nov 2026 09:02:54 GMT</pubDate>
-      <category>Security</category>
-      <description>Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has… Read more → The post Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle appeared first on IT Security News.</description>
-      <source url="https://www.itsecuritynews.info/researcher-demonstrates-database-rce-exploits-affecting-postgresql-mysql-and-oracle/">It Security News</source>
-    </item>
-    <item>
-      <title>Java Security Flaw Discovered by AI: Why 64 ‘A’ Characters Could Put Systems at Risk</title>
-      <link>https://oracle-university.com/stories/java-security-flaw-discovered-by-ai-why-64-a-characters-could-put-systems-at-risk-103359/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/java-security-flaw-discovered-by-ai-why-64-a-characters-could-put-systems-at-risk-103359/</guid>
-      <pubDate>Thu, 19 Nov 2026 08:50:00 GMT</pubDate>
-      <category>Security</category>
-      <description>AI-powered research uncovers Java4Shell, a security vulnerability involving 64 &#39;A&#39; characters that could allow hackers to execute malicious code remotely.</description>
-      <source url="https://www.analyticsinsight.net/news/java-security-flaw-discovered-by-ai-why-64-a-characters-could-put-systems-at-risk">Analytics And Insight</source>
-    </item>
-    <item>
-      <title>What is Java4Shell, and how can companies protect themselves from the security flaw?</title>
-      <link>https://oracle-university.com/stories/what-is-java4shell-and-how-can-companies-protect-themselves-from-the-security-flaw-ff3c15/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/what-is-java4shell-and-how-can-companies-protect-themselves-from-the-security-flaw-ff3c15/</guid>
-      <pubDate>Thu, 19 Nov 2026 08:44:02 GMT</pubDate>
-      <category>Security</category>
-      <description>Here are the systems at risk from Java4Shell, and what enterprise security teams should do to secure their platforms against potential cyber attacks.</description>
-      <source url="https://www.financialexpress.com/life/technology/what-is-java4shell-and-how-can-companies-protect-themselves-from-the-security-flaw/4388549/">Financial Express , Read To Lead</source>
-    </item>
-    <item>
-      <title>OpenAI Launches ChatGPT for Accounting With QuickBooks and Xero Plugins</title>
-      <link>https://oracle-university.com/stories/openai-launches-chatgpt-for-accounting-with-quickbooks-and-xero-plugins-404749/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/openai-launches-chatgpt-for-accounting-with-quickbooks-and-xero-plugins-404749/</guid>
-      <pubDate>Thu, 19 Nov 2026 08:29:50 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>OpenAI has introduced ChatGPT for Accounting, a collection of tools intended to help finance teams work through invoices, reconciliations, month-end reporting and audit preparation with less manual handling. The offering combines an OpenAI-built Accounting plugin with separate partner plugins that c</description>
-      <source url="https://www.techbooky.com/openai-launches-chatgpt-for-accounting-with-quickbooks-and-xero-plugins/">Techbooky</source>
-    </item>
-    <item>
-      <title>Data Center Power Plant: Pentagon-Listed Trinasolar Unit Debuts Gas-Battery Hybrid, Tests Unfinished</title>
-      <link>https://oracle-university.com/stories/data-center-power-plant-pentagon-listed-trinasolar-unit-debuts-gas-battery-hybrid-tests--feb31e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/data-center-power-plant-pentagon-listed-trinasolar-unit-debuts-gas-battery-hybrid-tests--feb31e/</guid>
-      <pubDate>Thu, 19 Nov 2026 08:20:13 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Data center power plant launch: Trina Storage, the energy storage arm of Trinasolar, unveiled the Elementa Hybrid Genset, pairing gas engines rated up to 2.5 MW with batteries for AI data centers. Grid-forming and hybrid control testing is ongoing, and the release names no price, engine partner or c</description>
-      <source url="https://www.techtimes.com/articles/331060/20261119/data-center-power-plant-pentagon-listed-trinasolar-unit-debuts-gas-battery-hybrid-tests-unfinished.htm">Techtimes</source>
-    </item>
-    <item>
-      <title>OpenAI Launches New Accounting Plugin for ChatGPT to Streamline Work</title>
-      <link>https://oracle-university.com/stories/openai-launches-new-accounting-plugin-for-chatgpt-to-streamline-work-d39e60/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/openai-launches-new-accounting-plugin-for-chatgpt-to-streamline-work-d39e60/</guid>
-      <pubDate>Thu, 19 Nov 2026 07:30:03 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>OpenAI has launched an accounting plugin for ChatGPT, allowing businesses to automate invoice processing, bank reconciliation, and report generation by integrating with major financial platforms like QuickBooks, Xero, and Oracle NetSuite.</description>
-      <source url="https://newsable.asianetnews.com/business/openai-launches-new-accounting-plugin-for-chatgpt-to-streamline-work-articleshow-nozdvst">Asianet Newsable</source>
-    </item>
-    <item>
-      <title>Code Effects Releases Version 7 with Secure AI Agents, Rule Governance, and Auditing for .NET</title>
-      <link>https://oracle-university.com/stories/code-effects-releases-version-7-with-secure-ai-agents-rule-governance-and-auditing-for-n-634352/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/code-effects-releases-version-7-with-secure-ai-agents-rule-governance-and-auditing-for-n-634352/</guid>
-      <pubDate>Thu, 19 Nov 2026 07:19:39 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Code Effects Releases Version 7 with Secure AI Agents, Rule Governance, and Auditing for .NET</description>
-      <source url="https://startuptimes.net/code-effects-releases-version-7-with-secure-ai-agents-rule-governance-and-auditing-for-net">Startup Times</source>
-    </item>
-    <item>
-      <title>OpenAI Unveils ChatGPT Accounting Plugin: Revolutionizing Bookkeeping for Indian Businesses</title>
-      <link>https://oracle-university.com/stories/openai-unveils-chatgpt-accounting-plugin-revolutionizing-bookkeeping-for-indian-business-1adbb5/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/openai-unveils-chatgpt-accounting-plugin-revolutionizing-bookkeeping-for-indian-business-1adbb5/</guid>
-      <pubDate>Thu, 19 Nov 2026 07:10:47 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>OpenAI Unveils ChatGPT Accounting Plugin: Revolutionizing Bookkeeping for Indian Businesses - OpenAI has rolled out a specialized accounting plugin for ChatGPT, a move set to transform how Indian businesses manage ... - Latest News. Find Breaking Headlines, Current and Latest business news at Lokmat</description>
-      <source url="https://www.lokmattimes.com/business/openai-unveils-chatgpt-accounting-plugin-revolutionizing-bookkeeping-for-indian-businesses-a001-w01/">lokmattimes</source>
-    </item>
-    <item>
-      <title>ServiceNow Builds an Exit Ramp From Salesforce, Partly From Salesforce Parts</title>
-      <link>https://oracle-university.com/stories/servicenow-builds-an-exit-ramp-from-salesforce-partly-from-salesforce-parts-3f49d6/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/servicenow-builds-an-exit-ramp-from-salesforce-partly-from-salesforce-parts-3f49d6/</guid>
-      <pubDate>Thu, 19 Nov 2026 07:00:26 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>ServiceNow’s Autonomous CRM Engine promises CRM moves in weeks; the idea is not new, the combination is, and the buyer who gains most already runs ServiceNow. The News On November 12, 2026, ServiceNow announced the Autonomous CRM Engine, which it describes as an AI-native solution to accelerate CRM </description>
-      <source url="https://customerthink.com/servicenow-builds-an-exit-ramp-from-salesforce-partly-from-salesforce-parts/">Customer Think</source>
-    </item>
-    <item>
-      <title>Java Developers Urged to Patch Critical Security Flaws Immediately</title>
-      <link>https://oracle-university.com/stories/java-developers-urged-to-patch-critical-security-flaws-immediately-2d2153/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/java-developers-urged-to-patch-critical-security-flaws-immediately-2d2153/</guid>
-      <pubDate>Thu, 19 Nov 2026 06:45:03 GMT</pubDate>
-      <category>Security</category>
-      <description>Alarm bells are ringing for millions of Java users after newly identified security flaws in the widely used programming language raised the risk that attackers could remotely run malicious code or crash affected systems. Java, distributed by Oracle and also available through open-source Java develop</description>
-      <source url="https://jowhar.com/java-developers-urged-to-patch-critical-security-flaws-immediately/">Jowhar</source>
-    </item>
-    <item>
-      <title>BSPK publishes four clienteling guides on shopping journeys, inventory, AI agents and forecasting</title>
-      <link>https://oracle-university.com/stories/bspk-publishes-four-clienteling-guides-on-shopping-journeys-inventory-ai-agents-and-fore-ccdd0c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/bspk-publishes-four-clienteling-guides-on-shopping-journeys-inventory-ai-agents-and-fore-ccdd0c/</guid>
-      <pubDate>Thu, 19 Nov 2026 05:38:32 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The guides define the customer shopping journey, real time inventory visibility, product data for AI agents, and AI demand forecasting in retail. SAN FRANCISCO, California - Nov. 19, 2026 - BSPK, the AI clienteling platform for retail brands, published four</description>
-      <source url="https://www.openpr.com/news/4693997/bspk-publishes-four-clienteling-guides-on-shopping-journeys">Openpr.com</source>
-    </item>
-    <item>
-      <title>CVE-2026-114938: OpenJDK Base64 Decoder Vulnerable To Pre-Authentication RCE (Java4Shell)</title>
-      <link>https://oracle-university.com/stories/cve-2026-114938-openjdk-base64-decoder-vulnerable-to-pre-authentication-rce-java4shell-7e7eac/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cve-2026-114938-openjdk-base64-decoder-vulnerable-to-pre-authentication-rce-java4shell-7e7eac/</guid>
-      <pubDate>Thu, 19 Nov 2026 03:02:12 GMT</pubDate>
-      <category>Security</category>
-      <description>IntroductionOn November 17, 2026, security researchers from Calif.io publicly disclosed Java4Shell (CVE-2026-114938, CVSS v4.0: 9.2 Critical), a severe… Read more → The post CVE-2026-114938: OpenJDK Base64 Decoder Vulnerable To Pre-Authentication RCE (Java4Shell) appeared first on IT Security News.</description>
-      <source url="https://www.itsecuritynews.info/cve-2026-114938-openjdk-base64-decoder-vulnerable-to-pre-authentication-rce-java4shell/">It Security News</source>
-    </item>
-    <item>
-      <title>‘Hidden Java’ Raises Alarm</title>
-      <link>https://oracle-university.com/stories/hidden-java-raises-alarm-fc3812/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/hidden-java-raises-alarm-fc3812/</guid>
-      <pubDate>Thu, 19 Nov 2026 03:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>The discovery of serious security vulnerabilities in Java, a widely used programming language, following similar security concerns involving PHP, has put businesses and public institutions on high alert. Although the South Korean government has recommended urgent security updates, experts warn that</description>
-      <source url="https://it.chosun.com/news/articleView.html?idxno=3000000001366">It조선</source>
-    </item>
-    <item>
-      <title>Oncology Information Systems Market Size, Share, Growth, 2034</title>
-      <link>https://oracle-university.com/stories/oncology-information-systems-market-size-share-growth-2034-dea332/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oncology-information-systems-market-size-share-growth-2034-dea332/</guid>
-      <pubDate>Thu, 19 Nov 2026 02:30:11 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>(MENAFN - Straits Research) Oncology Information Systems Market Size &amp; Growth AnalysisThe global oncology information systems market size was valued at USD 3.16 billion in 2025 and is projected to ...</description>
-      <source url="https://menafn.com/1111987528/Oncology-Information-Systems-Market-Size-Share-Growth-2034">Menafn</source>
-    </item>
-    <item>
-      <title>Congratulations You Just Gave Everyone Admin Access</title>
-      <link>https://oracle-university.com/stories/congratulations-you-just-gave-everyone-admin-access-e1cc13/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/congratulations-you-just-gave-everyone-admin-access-e1cc13/</guid>
-      <pubDate>Wed, 18 Nov 2026 13:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>The application looks polished, the buttons work, and the demo is going perfectly—until an ordinary user opens the administrator dashboard. This episode explores how small configuration decisions can give people permissions they were never meant to have. We unpack authentication, authorization, role</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/congratulations-you-just-gave-everyone-admin-access">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Why Is My Report Showing 12,000 Rows?</title>
-      <link>https://oracle-university.com/stories/why-is-my-report-showing-12-000-rows-5c09b4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/why-is-my-report-showing-12-000-rows-5c09b4/</guid>
-      <pubDate>Wed, 18 Nov 2026 13:00:00 GMT</pubDate>
-      <category>Java &amp; MySQL</category>
-      <description>The user asked for today&#39;s thirty-two registrations. The report returned twelve thousand. This episode investigates how filters, session state, table relationships, and saved report settings can produce results far beyond what anyone expected. We explore why developers need to define what one row re</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/why-is-my-report-showing-12000-rows">Oracle Academy Tech Chat</source>
+      <description>OpenAI has announced multiple new tools and improvements in ChatGPT. The company has launched a new specialised tool for its AI chatbot, dubbed ChatGPT for Accounting. The tool aims to…</description>
+      <source url="https://www.swapupdate.in/openai-releases-improved-live-dictation-in-chatgpt-releases-specialised-accounting-tool-for-ai-chatbot/">Swapupdate</source>
     </item>
     <item>
       <title>Encore: Networking &amp; Security Essentials</title>
@@ -457,6 +349,114 @@
       <category>AI &amp; Database</category>
       <description>If you&#39;ve ever wondered how Oracle Database really works inside AWS, this episode will finally turn the lights on. Join Senior Principal OCI Instructor Susan Jang as she explains the two database services available (Exadata Database Service and Autonomous Database), how Oracle and AWS share responsi</description>
       <source url="https://oracleuniversitypodcast.libsyn.com/getting-started-with-oracle-databaseaws">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>What is Oracle Database@AWS?</title>
+      <link>https://oracle-university.com/stories/what-is-oracle-database-aws-fc2509/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/what-is-oracle-database-aws-fc2509/</guid>
+      <pubDate>Tue, 10 Feb 2026 12:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>In this episode, hosts Lois Houston and Nikita Abraham take you inside how Oracle brings its industry-leading database technology directly to AWS customers. Senior Principal OCI Instructor Susan Jang unpacks what the OCI child site is, how Exadata hardware is deployed inside AWS data centers, and ho</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/what-is-oracle-databaseaws">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Oracle Multicloud Made Easy</title>
+      <link>https://oracle-university.com/stories/oracle-multicloud-made-easy-be0bfd/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-multicloud-made-easy-be0bfd/</guid>
+      <pubDate>Tue, 03 Feb 2026 12:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>Multicloud is changing the way modern teams run their workloads: with real choice and real control. In this episode, hosts Lois Houston and Nikita Abraham welcome Senior Principal OCI Instructor Sergio Castro, who explains how Oracle has partnered with Microsoft Azure, Google Cloud, and AWS to bring</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-multicloud-made-easy">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Part II Transforming Database Operations: MCP Server + OCI Generative AI in Action</title>
+      <link>https://oracle-university.com/stories/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action-639847/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action-639847/</guid>
+      <pubDate>Tue, 27 Jan 2026 13:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>In Part II of this episode we explore how Oracle&#39;s latest AI-driven database tools are revolutionizing teaching and learning in higher education. Tailored for global faculty and students, the episode demonstrates how artificial intelligence makes database operations more accessible, intuitive, and r</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>From Curiosity to Career Growth: An Oracle AI Certification Journey</title>
+      <link>https://oracle-university.com/stories/from-curiosity-to-career-growth-an-oracle-ai-certification-journey-bd5794/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/from-curiosity-to-career-growth-an-oracle-ai-certification-journey-bd5794/</guid>
+      <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Join us for an inspiring conversation with private equity advisor Jeffrey Malcolm as he shares how Oracle AI certification has transformed his career, family, and approach to business. Discover the real-world impact and opportunities that come from upskilling with Oracle&#39;s leading AI training progra</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/from-curiosity-to-career-growth-an-oracle-ai-certification-journey">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Transforming Database Operations: MCP Server + OCI Generative AI in Action</title>
+      <link>https://oracle-university.com/stories/transforming-database-operations-mcp-server-oci-generative-ai-in-action-6ad8a3/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/transforming-database-operations-mcp-server-oci-generative-ai-in-action-6ad8a3/</guid>
+      <pubDate>Tue, 20 Jan 2026 13:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Part I In this episode of the Oracle Academy Tech Chat Podcast we explore how Oracle&#39;s latest AI-driven database tools are revolutionizing teaching and learning in higher education. Tailored for global faculty and students, the episode demonstrates how artificial intelligence makes database operatio</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/transforming-database-operations-mcp-server-oci-generative-ai-in-action">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Driving Business Value with OCI – Part 2</title>
+      <link>https://oracle-university.com/stories/driving-business-value-with-oci-part-2-11d505/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/driving-business-value-with-oci-part-2-11d505/</guid>
+      <pubDate>Tue, 20 Jan 2026 12:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>Security, compliance, and resilience are the cornerstones of trust. In this episode, Lois Houston and Nikita Abraham continue their conversation with David Mills and Tijo Thomas, exploring how Oracle Cloud Infrastructure empowers organizations to protect data, stay compliant, and scale with confiden</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/driving-business-value-with-oci-part-2">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Driving Business Value with OCI–Part 1</title>
+      <link>https://oracle-university.com/stories/driving-business-value-with-oci-part-1-8444fa/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/driving-business-value-with-oci-part-1-8444fa/</guid>
+      <pubDate>Wed, 14 Jan 2026 23:18:23 GMT</pubDate>
+      <category>Security</category>
+      <description>Understanding cloud costs can be challenging, but it&#39;s essential for maximizing value. In this episode, hosts Lois Houston and Nikita Abraham speak with Oracle Cloud experts David Mills and Tijo Thomas about how Oracle Cloud Infrastructure offers predictable pricing, robust security, and high perfor</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/driving-business-value-with-ocipart-1">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Getting to Know Oracle Cloud Infrastructure</title>
+      <link>https://oracle-university.com/stories/getting-to-know-oracle-cloud-infrastructure-b4f7ca/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/getting-to-know-oracle-cloud-infrastructure-b4f7ca/</guid>
+      <pubDate>Tue, 06 Jan 2026 17:15:25 GMT</pubDate>
+      <category>Security</category>
+      <description>Every system depends on reliable infrastructure behind the scenes. Oracle Cloud Infrastructure (OCI) delivers that reliability with speed, flexibility, and built-in security. Join Lois Houston and Nikita Abraham as they speak with Oracle Cloud experts David Mills and Tijo Thomas about what makes OCI</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/getting-to-know-oracle-cloud-infrastructure">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Best of 2025: Unlocking the Power of Oracle APEX and AI</title>
+      <link>https://oracle-university.com/stories/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai-6aff1f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai-6aff1f/</guid>
+      <pubDate>Tue, 23 Dec 2025 12:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Lois Houston and Nikita Abraham explore how Oracle APEX integrates with AI to build smarter low-code applications. They are joined by Chaitanya Koratamaddi, Director of Product Management at Oracle, who explains the basics of Oracle APEX, its global adoption, and the challenges it addresses for busi</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Bringing the Cloud to You: Security and Control with Exadata</title>
+      <link>https://oracle-university.com/stories/bringing-the-cloud-to-you-security-and-control-with-exadata-e7accc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/bringing-the-cloud-to-you-security-and-control-with-exadata-e7accc/</guid>
+      <pubDate>Tue, 16 Dec 2025 13:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>In this episode, we&#39;ll talk about Security and Control with Exadata We&#39;ll explore how organizations can benefit from cloud innovation while keeping full control over their data — a critical challenge in today&#39;s digital world. ---------------------------------------------------- Episode Transcript: 0</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/bringing-the-cloud-to-you-security-and-control-with-exadata">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Best of 2025: Oracle Fusion Cloud Applications Foundations Training &amp; Certifications</title>
+      <link>https://oracle-university.com/stories/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications-6881a0/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications-6881a0/</guid>
+      <pubDate>Tue, 16 Dec 2025 12:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham dive into Oracle Fusion Cloud Applications and the new courses and certifications on offer. They are joined by Oracle Fusion Apps experts Patrick McBride and Bill Lawson who introduce the concept of Oracle Modern</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Best of 2025: Introduction to MySQL</title>
+      <link>https://oracle-university.com/stories/best-of-2025-introduction-to-mysql-2273ef/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-introduction-to-mysql-2273ef/</guid>
+      <pubDate>Tue, 02 Dec 2025 05:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>Join hosts Lois Houston and Nikita Abraham as they explore the world of MySQL 8.4. Together with Perside Foster, a MySQL Principal Solution Engineer, they break down the fundamentals of MySQL, its wide range of applications, and why it&#39;s so popular among developers and database administrators. This </description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-introduction-to-mysql">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>

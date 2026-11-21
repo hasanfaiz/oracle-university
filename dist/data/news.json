@@ -1,39 +1,11 @@
 {
-  "generatedAt": "2026-11-20T01:48:48.524Z",
+  "generatedAt": "2026-11-21T01:37:24.188Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
     "siteUrl": "https://oracle-university.com"
   },
   "items": [
-    {
-      "id": "b56c7ec5fa854b41",
-      "slug": "the-button-that-did-absolutely-nothing-e965b9",
-      "title": "The Button that did Absolutely Nothing",
-      "dek": "You complete the form, click Save, and wait. The button changes color, but did anything actually happen? This episode follows an apparently broken button through the complete APEX workflow: page submission, validation, conditions, processing, data changes, and user feedback. Along the way, we explor",
-      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-button-that-did-absolutely-nothing",
-      "source": "Oracle Academy Tech Chat",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S5E03_master.mp3?dest-id=3949203",
-      "publishedAt": "2026-11-18T13:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 48
-    },
-    {
-      "id": "e40c243057d99023",
-      "slug": "the-dashboard-nobody-can-read-2a4919",
-      "title": "The Dashboard Nobody Can Read",
-      "dek": "Seventeen charts, nine colors, four gauges—and nobody knows what decision to make. This episode explores how an APEX dashboard can contain every requested metric while leaving its audience confused. We discuss visual hierarchy, chart selection, accessible design, consistent filters, and clear defini",
-      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-dashboard-nobody-can-read",
-      "source": "Oracle Academy Tech Chat",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S5E04_mixdown.mp3?dest-id=3949203",
-      "publishedAt": "2026-11-18T13:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 48
-    },
     {
       "id": "a6ea65aeb044c987",
       "slug": "oracle-sets-the-date-for-its-first-quarter-fiscal-year-2027-earnings-announcement-a540e9",
@@ -67,601 +39,434 @@
       "priority": 46
     },
     {
-      "id": "781f5c6e90ba1cef",
-      "slug": "aws-sagemaker-jumpstart-now-ranks-over-70-ai-models-by-quality-speed-and-cost-d03d25",
-      "title": "AWS SageMaker JumpStart Now Ranks Over 70 AI Models by Quality, Speed and Cost",
-      "dek": "AWS SageMaker JumpStart now ranks more than 70 AI models by quality, deployment speed, and estimated hourly instance cost.",
-      "url": "https://www.analyticsinsight.net/news/aws-sagemaker-jumpstart-now-ranks-over-70-ai-models-by-quality-speed-and-cost",
-      "source": "Analytics And Insight",
+      "id": "a41e18fee99750c1",
+      "slug": "trump-floats-a-price-for-taking-america-s-ai-boom-overseas-1b855a",
+      "title": "Trump Floats A Price For Taking America’s AI Boom Overseas",
+      "dek": "President Donald Trump threatened to impose a “tremendous tax” on American tech companies building artificial intelligence data centers overseas, saying he wants the infrastructure powering the AI boom exclusively built in the United States. “We’re not going to allow companies to build data centers ",
+      "url": "https://www.dailywire.com/news/trump-floats-a-price-for-taking-americas-ai-boom-overseas",
+      "source": "The Daily Wire",
       "sourceType": "external",
-      "image": "https://media.assettype.com/analyticsinsight/2026-11-19/jkx68kqu/AWS-SageMaker-JumpStart-Ranks-70-Plus-AI-Models-By-Speed-Cost-And-Quality.jpg",
-      "publishedAt": "2026-11-19T13:34:37.000Z",
+      "image": "https://dw-wp-production.imgix.net/2026/01/GettyImages-2257274748.jpg?ar=16%3A9&amp;auto=compress&amp;crop=faces&amp;cs=origin&amp;fit=crop&amp;w=1200&amp;h=800&amp;ixlib=react-9.11.0",
+      "publishedAt": "2026-11-20T13:04:43.000Z",
+      "topic": "Security",
+      "tags": [
+        "technology industry",
+        "data centers",
+        "artificial intelligence",
+        "ai",
+        "news",
+        "tariffs"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "880653edbd9738c0",
+      "slug": "ai-could-open-wallets-where-erp-upgrade-pitches-can-t-says-pwc-3c9799",
+      "title": "AI could open wallets where ERP upgrade pitches can't, says PwC",
+      "dek": "Consultancy argues a 'clean core' makes agents easier to deploy – but Kingfisher is taking a different route",
+      "url": "https://www.theregister.com/ai-and-ml/2026/11/20/ai-could-open-wallets-where-erp-upgrade-pitches-cant-says-pwc/5311221",
+      "source": "The Register",
+      "sourceType": "external",
+      "image": "https://image.theregister.com/5311243.webp?width=1200",
+      "publishedAt": "2026-11-20T12:47:00.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "ai and ml"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "b56c7ec5fa854b41",
+      "slug": "the-button-that-did-absolutely-nothing-e965b9",
+      "title": "The Button that did Absolutely Nothing",
+      "dek": "You complete the form, click Save, and wait. The button changes color, but did anything actually happen? This episode follows an apparently broken button through the complete APEX workflow: page submission, validation, conditions, processing, data changes, and user feedback. Along the way, we explor",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-button-that-did-absolutely-nothing",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S5E03_master.mp3?dest-id=3949203",
+      "publishedAt": "2026-11-18T13:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 43
+    },
+    {
+      "id": "e40c243057d99023",
+      "slug": "the-dashboard-nobody-can-read-2a4919",
+      "title": "The Dashboard Nobody Can Read",
+      "dek": "Seventeen charts, nine colors, four gauges—and nobody knows what decision to make. This episode explores how an APEX dashboard can contain every requested metric while leaving its audience confused. We discuss visual hierarchy, chart selection, accessible design, consistent filters, and clear defini",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-dashboard-nobody-can-read",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S5E04_mixdown.mp3?dest-id=3949203",
+      "publishedAt": "2026-11-18T13:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 43
+    },
+    {
+      "id": "479fa703ad41d711",
+      "slug": "top-companies-in-kerala-hiring-accountants-in-2027-38f549",
+      "title": "Top Companies In Kerala Hiring Accountants In 2027",
+      "dek": "Discover the top companies in Kerala that are hiring accountants in 2025,through this comprehensive and detailed blog.a",
+      "url": "https://entri.app/blog/top-companies-in-kerala-hiring-accountants/",
+      "source": "Entri",
+      "sourceType": "external",
+      "image": "https://entri.app/blog/wp-content/uploads/2024/02/Untitled-28.webp",
+      "publishedAt": "2026-11-20T12:38:49.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 42
+    },
+    {
+      "id": "9779a2046c16e7f9",
+      "slug": "uk-competition-body-probes-hyperscaler-security-and-cloud-lock-in-901c94",
+      "title": "UK competition body probes hyperscaler security and cloud lock-in",
+      "dek": "CMA continues digital sovereignty investigation with consultation into IAM and Kubernetes",
+      "url": "https://www.sdxcentral.com/news/uk-competition-body-probes-hyperscaler-security-and-cloud-lock-in/",
+      "source": "Sdxcentral",
+      "sourceType": "external",
+      "image": "https://media.datacenterdynamics.com/media/images/cabot-building-gov-uk.2e16d0ba.fill-750x500.png",
+      "publishedAt": "2026-11-20T12:21:20.000Z",
+      "topic": "Security",
+      "tags": [
+        "europe",
+        "uk",
+        "idira",
+        "cyberark",
+        "microsoft",
+        "google"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "f7a01eb33c24cad0",
+      "slug": "automus-announces-partnership-with-google-cloud-to-help-accelerate-agentic-transformatio-f614f4",
+      "title": "Automus Announces Partnership with Google Cloud to Help Accelerate Agentic Transformation",
+      "dek": "Automus announced a collaboration with Google Cloud to help accelerate agentic transformation, showcasing a roadmap at Oracle AI World. This collaboration is designed to help organizations leverage the power of AI and agentic capabilities to modernize their operations and unlock new opportunities. A",
+      "url": "https://aithority.com/machine-learning/automus-announces-partnership-with-google-cloud-to-help-accelerate-agentic-transformation/",
+      "source": "Aithority",
+      "sourceType": "external",
+      "image": "https://aithority.com/wp-content/uploads/2026/11/sdsadsa-1.jpg",
+      "publishedAt": "2026-11-20T12:20:30.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "model deployment speed",
-        "ai model cost",
-        "aws ai models",
-        "ai model leaderboard",
-        "aws sagemaker jumpstart"
+        "ebs",
+        "automus",
+        "google cloud",
+        "chacko thomas",
+        "agentic capabilities",
+        "oracle fusion"
       ],
-      "priority": 43
+      "priority": 42
     },
     {
-      "id": "2ea3462acd7075be",
-      "slug": "argus-medgpt-patient-chart-review-tool-and-endosoft-fhir-engine-now-available-on-oracle--4fef63",
-      "title": "Argus MedGPT™ Patient Chart Review Tool and EndoSoft® FHIR® engine Now Available on Oracle Cloud Marketplace",
-      "dek": "Argus MedGPT™ and the EndoSoft® FHIR engine, now available on Oracle Cloud Marketplace, an AI-powered tool designed to query patient records.",
-      "url": "https://www.einpresswire.com/article/957053964/argus-medgpt-patient-chart-review-tool-and-endosoft-fhir-engine-now-available-on-oracle-cloud-marketplace",
-      "source": "Ein Presswire",
+      "id": "2dd21e9f40b42176",
+      "slug": "what-the-telecom-bust-taught-me-about-ai-s-debt-boom-756e9b",
+      "title": "What The Telecom Bust Taught Me About AI’s Debt Boom",
+      "dek": "The AI buildout’s growing reliance on debt echoes the telecom bubble, raising the risk that infrastructure spending will outpace the revenue needed to meet fixed repayment obligations. According to guest author David Spreng of Runway Growth Capital, even if AI fulfills its technological promise, bor",
+      "url": "https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/",
+      "source": "Crunchbase",
       "sourceType": "external",
-      "image": "https://img.einnews.com/ampsize/1251797/argus-medgpt-patient-chart-rev.png",
-      "publishedAt": "2026-11-19T13:00:00.000Z",
-      "topic": "Oracle Cloud",
+      "image": "https://news.crunchbase.com/wp-content/uploads/Bubble_Investment.jpg",
+      "publishedAt": "2026-11-20T12:00:01.000Z",
+      "topic": "Security",
       "tags": [
-        "it industry",
-        "technology",
-        "united states",
-        "healthcare and pharmaceuticals industry",
-        "worldnews",
-        "united kingdom"
+        "startups",
+        "artificial intelligence",
+        "communications tech",
+        "venture"
       ],
-      "priority": 43
+      "priority": 42
     },
     {
-      "id": "eb59997c24224278",
-      "slug": "connecting-redgate-monitor-to-ai-assistants-with-mcp-6da234",
-      "title": "Connecting Redgate Monitor to AI assistants with MCP",
-      "dek": "MCP (Model Context Protocol) is the open standard that lets AI assistants like Claude, GitHub Copilot and Cursor connect to external tools and data. For database monitoring, that means a DBA or engineer can ask their AI assistant about the state of the estate, such as recent alerts, server health, t",
-      "url": "https://www.red-gate.com/blog/redgate-monitor-mcp-server/",
-      "source": "Red Gate Software",
+      "id": "a723827ef774ffa3",
+      "slug": "not-nvidia-not-broadcom-this-artificial-intelligence-ai-chip-stock-could-be-the-biggest--c354a7",
+      "title": "Not Nvidia. Not Broadcom. This Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner of 2027",
+      "dek": "Cerebras Systems' stunning growth explains why analysts are expecting a big jump in its stock price over the coming year.",
+      "url": "https://www.fool.com/investing/2026/11/20/not-nvidia-not-broadcom-this-artificial-intelligence-ai-chip-stock-could-be-the-biggest-winner-of-2027/",
+      "source": "Fool",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-11-19T12:57:26.000Z",
-      "topic": "AI & Database",
+      "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/869430aff29dc8775c5eb3a838beaa995d37de2d-1280x853.jpg",
+      "publishedAt": "2026-11-20T11:45:02.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "AI"
+        "1e856ab7-2a92-4e40-a409-f8ed08f941ef",
+        "investing",
+        "technology and telecom",
+        "cbrs"
       ],
-      "priority": 43
+      "priority": 42
     },
     {
-      "id": "484e056c6ab6abde",
-      "slug": "smart-network-interface-card-smartnic-market-2035-ai-data-center-networking-800gbe-conne-d48fbb",
-      "title": "Smart Network Interface Card (SmartNIC) Market (2035): AI Data Center Networking, 800GbE Connectivity & DPU-Based Infrastructure Growth in North America Expansion",
-      "dek": "The Global Smart Network Interface Card (SmartNIC) Market reached US$4.25 billion in 2025 and is projected to reach US$15.00 billion by 2035, growing at a CAGR of approximately 13.5% during 2026-2035. Market growth is driven by increasing AI and high-performance",
-      "url": "https://www.openpr.com/news/4694584/smart-network-interface-card-smartnic-market-2035-ai-data",
+      "id": "419d5d4d8c106f90",
+      "slug": "anthropic-shares-slide-as-ai-selloff-tests-record-ipo-debut-aeec0f",
+      "title": "Anthropic shares slide as AI selloff tests record IPO debut",
+      "dek": "A steep premarket drop on Friday signals investor caution around AI valuations, one day after the biggest IPO on record",
+      "url": "https://www.wealthprofessional.ca/investments/global-investing/anthropic-shares-slide-as-ai-selloff-tests-record-ipo-debut/394069",
+      "source": "Wealth Professional Canada",
+      "sourceType": "external",
+      "image": "https://cdn-res.keymedia.com/cms/images/in/stev_639159355292667857.png",
+      "publishedAt": "2026-11-20T11:30:00.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "claude"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "99322a8dc93dc8dd",
+      "slug": "why-is-the-data-centric-security-market-becoming-a-top-investment-priority-amid-rising-d-e60aa6",
+      "title": "Why Is the Data-Centric Security Market Becoming a Top Investment Priority Amid Rising Data Breaches and Growing Demand for Enterprise Data Protection",
+      "dek": "According to DataM Intelligence (DMI) analysis, the Global Data-centric Security Market was valued at USD 10.65 billion in 2025 and is projected to reach USD 57.44 billion by 2035, growing at a CAGR of 18.36% during the forecast period (2026-2035). Market",
+      "url": "https://www.openpr.com/news/4695524/why-is-the-data-centric-security-market-becoming-a-top",
       "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/b/Lb19745413_k.jpg",
-      "publishedAt": "2026-11-19T12:41:42.000Z",
-      "topic": "Oracle Cloud",
+      "image": "https://cdn.open-pr.com/L/b/Lb20353994_k.jpg",
+      "publishedAt": "2026-11-20T11:25:30.000Z",
+      "topic": "Security",
       "tags": [
         "new media & software",
         "it"
       ],
-      "priority": 42
+      "priority": 41
     },
     {
-      "id": "f12a50544e0be094",
-      "slug": "nvidia-revenue-doubles-to-115-8-billion-as-ai-chip-demand-surges-0f6a14",
-      "title": "Nvidia Revenue Doubles to $115.8 Billion as AI Chip Demand Surges",
-      "dek": "Nvidia's $115.8 billion quarter shows how AI infrastructure demand is reshaping its business, with Vera Rubin shipments adding momentum. The post Nvidia Revenue Doubles to $115.8 Billion as AI Chip Demand Surges appeared first on TechRepublic.",
-      "url": "https://www.techrepublic.com/article/news-nvidia-revenue-doubles-ai-demand/",
-      "source": "Techrepublic",
+      "id": "66331a558e55ffbe",
+      "slug": "supply-chain-finance-market-to-reach-us-7-35-billion-by-2035-at-13-0-cagr-asia-pacific-d-4bb958",
+      "title": "Supply Chain Finance Market to Reach US$ 7.35 Billion by 2035 at 13.0% CAGR; Asia-Pacific Dominates with 42.2% Share - Key Players: Citi, HSBC, Standard Chartered, DBS Bank",
+      "dek": "The global supply chain finance market reached US$ 2.16 billion in 2025 and is projected to reach US$ 7.35 billion by 2035, growing at a CAGR of 13.0% during the forecast period 2026-2035. Market growth is driven by increasing demand",
+      "url": "https://www.openpr.com/news/4695497/supply-chain-finance-market-to-reach-us-7-35-billion-by-2035",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://assets.techrepublic.com/uploads/2026/11/nvidia-headquarters-q3-2027-earnings-1024x683.jpg?f=jpeg",
-      "publishedAt": "2026-11-19T12:39:37.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "ai chips",
-        "nvidia earnings",
-        "nvidia",
-        "artificial intelligence",
-        "enterprise ai",
-        "data center"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "7ee8feb417eb6cda",
-      "slug": "10-alteryx-alternatives-for-large-data-sets-ranked-for-2026-a30eed",
-      "title": "10 Alteryx Alternatives for Large Data Sets, Ranked for 2026",
-      "dek": "The 10 best Alteryx alternatives for large data sets in 2026, ranked on pushdown, ease of use, migration path, and cost: Prophecy, Dataiku, Databricks, KNIME, Snowflake, Informatica, Maia by Matillion, dbt, Tableau Prep, and Apache Spark.",
-      "url": "https://www.analyticsinsight.net/artificial-intelligence/alteryx-alternatives-large-data-sets-ranked",
-      "source": "Analytics And Insight",
-      "sourceType": "external",
-      "image": "https://media.assettype.com/analyticsinsight/2026-11-19/onhsh5fv/10-Alteryx-Alternatives-for-Large-Data-Sets-Ranked-for-2026.jpg",
-      "publishedAt": "2026-11-19T12:35:00.000Z",
+      "image": "https://cdn.open-pr.com/L/b/Lb20256961_k.jpg",
+      "publishedAt": "2026-11-20T11:14:49.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "cloud-based data transformation platforms",
-        "alteryx competitors for big data analytics",
-        "alteryx workflow migration tools",
-        "best alteryx alternatives for large data sets 2026",
-        "large-scale data processing tools"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "5d95bf9ec6c433d4",
-      "slug": "anthropic-ipo-opens-the-door-4-tech-companies-that-may-go-public-9cd399",
-      "title": "Anthropic IPO opens the door: 4 tech companies that may go public",
-      "dek": "The upcoming Anthropic IPO has already been highly successful as the company has raised over $80 billion from investors. ANT stock is already up by over 20% in the grey market, and the surge may continue, at least in the near term. As a result, this IPO, which is happening during a bear market for A",
-      "url": "https://invezz.com/news/2026/11/19/anthropic-ipo-opens-the-door-4-tech-companies-that-may-go-public/",
-      "source": "Invezz",
-      "sourceType": "external",
-      "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/11/G-19.png",
-      "publishedAt": "2026-11-19T12:30:00.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "ipo",
-        "stock market"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "a927a8027d86c031",
-      "slug": "why-did-david-tepper-exit-amd-and-open-a-172m-oracle-position-here-s-what-may-have-drive-839736",
-      "title": "Why Did David Tepper Exit AMD and Open a $172M Oracle Position? Here’s What May Have Driven the Shift",
-      "dek": "One AI giant is up nearly 150% this year, the other is down roughly 40%, and Appaloosa picked the loser. Tepper's latest 13F hints at a contrarian bet, but the cash burn behind it is hard to ignore.",
-      "url": "https://247wallst.com/investing/2026/11/19/why-did-david-tepper-exit-amd-and-open-a-172m-oracle-position-heres-what-may-have-driven-the-shift/",
-      "source": "24/7 Wall St",
-      "sourceType": "external",
-      "image": "https://247wallst.com/wp-content/uploads/2026/11/why-did-david-tepper-exit-amd-and-open-a-172m-orac-featured-1795063996611-scaled.webp",
-      "publishedAt": "2026-11-19T12:15:08.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "investing"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "f5787cd75fca1de9",
-      "slug": "ransomware-incidents-surged-38-in-q3-3f588f",
-      "title": "Ransomware incidents surged 38% in Q3",
-      "dek": "Threat actors exploited vulnerabilities in 28% of ransomware cases, up from 14% in Q2 Patch volumes increased almost 80% as vendors remediate weaknesses identified by AI Detailed analysis of one intrusion conducted almost entirely by AI agents showcases AI coordination and sophistication...",
-      "url": "https://www.prnewswire.com/news-releases/ransomware-incidents-surged-38-in-q3-302944597.html",
-      "source": "Pr Newswire",
-      "sourceType": "external",
-      "image": "https://mmx.prnewswire.com/media/MS2039169/Beazley-Security-Logo.jpg?id=OA3089762&p=original",
-      "publishedAt": "2026-11-19T12:01:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "svy"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "af2a65189cb6400e",
-      "slug": "validexamdumps-vs-certsprime-which-is-better-for-it-certification-exam-preparation-in-20-c4dd02",
-      "title": "ValidExamDumps vs CertsPrime: Which Is Better for IT Certification Exam Preparation in 2026?",
-      "dek": "The most recent news from Nigeria and across the world is available at The News Chronicle. The News Chronicle provides the most recent headlines, commentary, and political news. ValidExamDumps vs CertsPrime: Which Is Better for IT Certification Exam Preparation in 2026? Choosing an IT certification ",
-      "url": "https://thenews-chronicle.com/348426-2/",
-      "source": "The News Chronicle",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-11-19T11:26:23.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "news"
+        "new media & software",
+        "it"
       ],
       "priority": 41
     },
     {
-      "id": "c705012a2f2e4b62",
-      "slug": "openai-releases-improved-live-dictation-in-chatgpt-releases-specialised-accounting-tool--9380f9",
-      "title": "OpenAI Releases Improved Live Dictation in ChatGPT; Releases Specialised Accounting Tool for AI Chatbot",
-      "dek": "OpenAI has launched the ChatGPT for Accounting plugin, the company announced on Thursday. The plugin aims to guide users on recurring accounting work, the company said. The new tool can help users prepare month-end reports, reconcile bank accounts, enter data, and maintain accounting books. ChatGPT ",
-      "url": "https://www.gadgets360.com/ai/news/openai-chatgpt-live-dictation-update-release-accounting-features-12349148",
-      "source": "Gadgets 360",
+      "id": "5656bbbd155d157d",
+      "slug": "presentation-modernising-retail-at-scale-architecting-a-cloud-to-edge-platform-for-a-glo-aeedac",
+      "title": "Presentation: Modernising Retail at Scale: Architecting a Cloud‑to‑Edge Platform for a Global Enterprise",
+      "dek": "Jayesh Bhayani discusses Tesco’s decade-long enterprise transformation from fragmented legacy systems to a unified cloud-edge platform. He explains how aligning system, talent, and process modernizations allowed Tesco to scale mission-critical retail operations to millions of customers, while sharin",
+      "url": "https://www.infoq.com/presentations/tesco-enterprise-tech-transformation/",
+      "source": "Information Queue",
       "sourceType": "external",
-      "image": "https://i.gadgets360cdn.com/large/chatgpt1_unsplash_solen_1749217499905.jpg",
-      "publishedAt": "2026-11-19T11:05:26.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://res.infoq.com/presentations/tesco-enterprise-tech-transformation/en/mediumimage/JayeshBhayani-medium-1792654742095.jpg",
+      "publishedAt": "2026-11-20T11:00:00.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "ai"
+        "platform engineering",
+        "qcon london 2026",
+        "devops",
+        "digital transformation",
+        "architecture & design",
+        "presentation"
       ],
       "priority": 41
     },
     {
-      "id": "330165bce77b4330",
-      "slug": "how-ai-uncovered-a-critical-vulnerability-in-java-and-what-it-means-for-indian-organisat-7224ae",
-      "title": "How AI uncovered a critical vulnerability in Java and what it means for Indian organisations",
-      "dek": "A month after AI-assisted research exposed critical flaws in PHP, researchers have used OpenAI’s GPT-6 Cyber to identify a memory corruption bug in Java, a programming language widely used across banking, aviation and other critical sectors",
-      "url": "https://www.moneycontrol.com/technology/how-ai-uncovered-a-critical-vulnerability-in-java-and-what-it-means-for-indian-organisations-article-14084746.html",
-      "source": "Moneycontrol",
+      "id": "605113e4bb88dbb7",
+      "slug": "supply-chain-management-market-to-reach-usd-94-35-billion-by-2033-as-enterprises-shift-f-8aff81",
+      "title": "Supply Chain Management Market to Reach USD 94.35 Billion by 2033 as Enterprises Shift from Traditional Planning Software to Autonomous Supply Chain Orchestration",
+      "dek": "The global supply chain management industry is entering a new phase in which competitive differentiation increasingly depends on how quickly organizations can translate operational data into coordinated decisions. Traditional enterprise resource planning and logistics applications remain important, ",
+      "url": "https://www.openpr.com/news/4695428/supply-chain-management-market-to-reach-usd-94-35-billion-by-2033",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://images.moneycontrol.com/static-mcnews/2021/06/software5.jpg",
-      "publishedAt": "2026-11-19T10:38:38.000Z",
-      "topic": "Security",
+      "image": "https://cdn.open-pr.com/L/b/Lb20233970_k.jpg",
+      "publishedAt": "2026-11-20T10:42:39.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "java vulnerability india",
-        "india java cybersecurity",
-        "cert-in",
-        "cert-in java"
+        "new media & software",
+        "it"
       ],
       "priority": 41
     },
     {
-      "id": "2f6d2e24e5cfb739",
-      "slug": "workday-puts-its-ai-agents-on-a-leash-cb8ea1",
-      "title": "Workday puts its AI agents on a leash",
-      "dek": "Workday's CEO says you can't run payroll on probabilities as it pitches governed AI agents.",
-      "url": "https://techcentral.co.za/workday-ai-agents-on-a-leash/288559/",
-      "source": "Techcentral",
+      "id": "14007cf4e6a14f01",
+      "slug": "quest-software-launches-quest-lakebase-modeler-on-databricks-marketplace-6c73df",
+      "title": "Quest Software Launches Quest Lakebase Modeler on Databricks Marketplace",
+      "dek": "Quest Software announced Quest Lakebase Modeler on November 19, 2026, making the schema modeling tool available through Databricks Marketplace. Quest Lakebase Modeler helps developers, data engineers, and architects design, govern, and deploy application-ready schemas directly within Databricks Lake",
+      "url": "https://itdigest.com/uncategorized/quest-software-launches-quest-lakebase-modeler-on-databricks-marketplace/",
+      "source": "Itdigest",
       "sourceType": "external",
-      "image": "https://techcentral.co.za/wp-content/uploads/2026/11/aneel-bhusri-1500-800.jpg",
-      "publishedAt": "2026-11-19T10:26:08.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "slack",
-        "honeydew",
-        "sections",
-        "anthropic",
-        "workday",
-        "enterprise software"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "efe494aa0b2d225b",
-      "slug": "java-error-code-1603-how-to-fix-installation-on-windows-f4aaf9",
-      "title": "Java Error Code 1603: How to Fix Installation on Windows",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://seminarsonly.com/news/java-error-code-1603/",
-      "source": "Seminar Topics",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-11-19T10:25:00.000Z",
+      "image": "https://itdigest.com/wp-content/uploads/2026/11/Quest-Software-and-Databricks-Bring-Trusted-Data-Foundations-to-AI-Application-Development-on-Lakebase.webp",
+      "publishedAt": "2026-11-20T10:13:55.000Z",
       "topic": "Java & MySQL",
       "tags": [
-        "java error code 1603",
-        "troubleshooting",
-        "windows"
+        "quest lakebase modeler",
+        "databricks lakebase",
+        "governed data modeling",
+        "databricks",
+        "copy-on-write branching",
+        "ai application development"
       ],
       "priority": 40
     },
     {
-      "id": "7b0ffa10995c3803",
-      "slug": "ai-data-management-market-ai-data-management-market-growth-intelligent-data-solutions-an-939adb",
-      "title": "AI Data Management Market: AI Data Management Market Growth, Intelligent Data Solutions and Emerging Trends",
-      "dek": "The AI Data Management Market is part of a wider information technology and enterprise software industry environment shaped by increasing data volumes, growing adoption of [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/11/19/1784129",
-      "source": "Express-press-release",
+      "id": "416a09ba21183304",
+      "slug": "best-8-ai-agents-every-hr-professional-needs-to-know-in-2027-b73386",
+      "title": "Best 8 AI Agents Every HR Professional Needs to Know in 2027",
+      "dek": "Explore eight AI agents transforming HR in 2027. Learn their uses, benefits, risks, and essential skills for HR professionals.",
+      "url": "https://entri.app/blog/best-ai-agents-every-hr-professional-needs-to-know/",
+      "source": "Entri",
       "sourceType": "external",
-      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/logo.jpg",
-      "publishedAt": "2026-11-19T10:20:24.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "technology",
-        "ai data management market forecast",
-        "ai data management market analysis",
-        "ai data management market industry",
-        "ai data management market united kingdom",
-        "ai data management market size"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "5515d2893aad5f6d",
-      "slug": "java-security-flaw-explained-why-cisa-cert-in-urge-urgent-software-update-ef891e",
-      "title": "Java security flaw explained: Why CISA, CERT-In urge urgent software update",
-      "dek": "Java, the world's third most widely used programming language, faces a critical security flaw that could expose sensitive systems to remote attacks",
-      "url": "https://www.business-standard.com/technology/tech-news/java-security-flaw-explained-why-cisa-cert-in-urge-urgent-software-update-126111900718_1.html",
-      "source": "Business Standard",
-      "sourceType": "external",
-      "image": "https://bsmedia.business-standard.com/_media/bs/img/article/default/1261119/full-126111900718.jpg",
-      "publishedAt": "2026-11-19T10:05:30.000Z",
+      "image": "https://entri.app/blog/wp-content/uploads/2026/11/Best-8-AI-Agents-Every-HR-Professional-Needs-to-Know-in-2027.png",
+      "publishedAt": "2026-11-20T09:08:49.000Z",
       "topic": "Security",
-      "tags": [
-        "tech news",
-        "technology"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "37cd8c2377c1e4cf",
-      "slug": "it-security-news-hourly-summary-2026-11-19-11h-36-posts-76ca29",
-      "title": "IT Security News Hourly Summary 2026-11-19 11h : 36 posts",
-      "dek": "36 posts published in the last hour 09:36Last of Five Defendants Sentenced in US Scattered Spider Hacking Case 09:36Microsoft adds HorizonDB to Fabric to ease development of agent-driven applications 09:36CVE-2026-114938: Critical vulnerability in OpenJDK Java 09:35Hackers Deploy Overlord RAT That… ",
-      "url": "https://www.itsecuritynews.info/it-security-news-hourly-summary-2026-11-19-11h-36-posts/",
-      "source": "It Security News",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-11-19T10:00:08.000Z",
-      "topic": "Security",
-      "tags": [
-        "2026-11-19",
-        "hourly summary"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "5bf73d9015d32e82",
-      "slug": "top-ai-cloud-platforms-for-singapore-enterprise-deployment-and-us-gpu-and-open-model-api-dfa18d",
-      "title": "Top AI Cloud Platforms for Singapore Enterprise Deployment and US GPU and Open-Model API Access",
-      "dek": "Enterprise AI cloud shortlists in Singapore and the US are converging on the same three screens — where the compute physically sits, which NVIDIA generations a provider can actually deliver today, and how quickly open-source models can be reached by API rather than by weeks of self-hosting. The real",
-      "url": "https://www.financialcontent.com/article/globeprwire-2026-11-19-top-ai-cloud-platforms-for-singapore-enterprise-deployment-and-us-gpu-and-open-model-api-access",
-      "source": "Financialcontent",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-11-19T09:17:39.000Z",
-      "topic": "Applications & NetSuite",
       "tags": [
         "AI"
       ],
       "priority": 40
     },
     {
-      "id": "89cecd95dd29ff8e",
-      "slug": "researcher-demonstrates-database-rce-exploits-affecting-postgresql-mysql-and-oracle-a21de1",
-      "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-      "dek": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has… Read more → The post Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle appeared first on IT Security News.",
-      "url": "https://www.itsecuritynews.info/researcher-demonstrates-database-rce-exploits-affecting-postgresql-mysql-and-oracle/",
-      "source": "It Security News",
+      "id": "e1515b74ee40e23e",
+      "slug": "oracle-stock-just-closed-at-its-lowest-price-since-april-2024-is-it-a-buy-now-cd94d6",
+      "title": "Oracle Stock Just Closed at Its Lowest Price Since April 2024. Is It a Buy Now?",
+      "dek": "The cloud giant's shares now trade under the $116 its latest investors paid. Is that a bargain?",
+      "url": "https://www.fool.com/investing/2026/11/20/oracle-stock-just-closed-at-its-lowest-price-since-april-2024-is-it-a-buy-now/",
+      "source": "Fool",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-11-19T09:02:54.000Z",
-      "topic": "Security",
-      "tags": [
-        "the hacker news",
-        "en"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "99fd94f31b0f60f1",
-      "slug": "java-security-flaw-discovered-by-ai-why-64-a-characters-could-put-systems-at-risk-103359",
-      "title": "Java Security Flaw Discovered by AI: Why 64 ‘A’ Characters Could Put Systems at Risk",
-      "dek": "AI-powered research uncovers Java4Shell, a security vulnerability involving 64 'A' characters that could allow hackers to execute malicious code remotely.",
-      "url": "https://www.analyticsinsight.net/news/java-security-flaw-discovered-by-ai-why-64-a-characters-could-put-systems-at-risk",
-      "source": "Analytics And Insight",
-      "sourceType": "external",
-      "image": "https://media.assettype.com/analyticsinsight/2026-11-19/uclt8atg/AI-found-a-hole-in-Java-and-it-starts-with-AAAAAAAA.-.jpg",
-      "publishedAt": "2026-11-19T08:50:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "java4shell vulnerability",
-        "java security flaw",
-        "ai cybersecurity",
-        "openai gpt-6 cyber",
-        "java vulnerability"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "2099dc4048dab528",
-      "slug": "what-is-java4shell-and-how-can-companies-protect-themselves-from-the-security-flaw-ff3c15",
-      "title": "What is Java4Shell, and how can companies protect themselves from the security flaw?",
-      "dek": "Here are the systems at risk from Java4Shell, and what enterprise security teams should do to secure their platforms against potential cyber attacks.",
-      "url": "https://www.financialexpress.com/life/technology/what-is-java4shell-and-how-can-companies-protect-themselves-from-the-security-flaw/4388549/",
-      "source": "Financial Express , Read To Lead",
-      "sourceType": "external",
-      "image": "https://images.financialexpressdigital.com/2026/11/Java4Shell-how-can-companies-stay-safe.jpg",
-      "publishedAt": "2026-11-19T08:44:02.000Z",
-      "topic": "Security",
-      "tags": [
-        "java4shell",
-        "openjdk patch",
-        "remote code execution",
-        "java vulnerability",
-        "cybersecurity advisory",
-        "cve-2026-114938"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "c13eadd2c478e665",
-      "slug": "openai-launches-chatgpt-for-accounting-with-quickbooks-and-xero-plugins-404749",
-      "title": "OpenAI Launches ChatGPT for Accounting With QuickBooks and Xero Plugins",
-      "dek": "OpenAI has introduced ChatGPT for Accounting, a collection of tools intended to help finance teams work through invoices, reconciliations, month-end reporting and audit preparation with less manual handling. The offering combines an OpenAI-built Accounting plugin with separate partner plugins that c",
-      "url": "https://www.techbooky.com/openai-launches-chatgpt-for-accounting-with-quickbooks-and-xero-plugins/",
-      "source": "Techbooky",
-      "sourceType": "external",
-      "image": "https://d1s6vdzy36jczj.cloudfront.net/wp-content/uploads/2026/11/19092657/chatgpt-for-accounting.png",
-      "publishedAt": "2026-11-19T08:29:50.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "artificial intelligence",
-        "xero",
-        "openai",
-        "enterprise",
-        "quickbooks",
-        "business"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "221456f9526cbc4e",
-      "slug": "data-center-power-plant-pentagon-listed-trinasolar-unit-debuts-gas-battery-hybrid-tests--feb31e",
-      "title": "Data Center Power Plant: Pentagon-Listed Trinasolar Unit Debuts Gas-Battery Hybrid, Tests Unfinished",
-      "dek": "Data center power plant launch: Trina Storage, the energy storage arm of Trinasolar, unveiled the Elementa Hybrid Genset, pairing gas engines rated up to 2.5 MW with batteries for AI data centers. Grid-forming and hybrid control testing is ongoing, and the release names no price, engine partner or c",
-      "url": "https://www.techtimes.com/articles/331060/20261119/data-center-power-plant-pentagon-listed-trinasolar-unit-debuts-gas-battery-hybrid-tests-unfinished.htm",
-      "source": "Techtimes",
-      "sourceType": "external",
-      "image": "https://d.techtimes.com/en/full/478707/trina-storage.jpg",
-      "publishedAt": "2026-11-19T08:20:13.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "energy"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "c1509b7764e08ba3",
-      "slug": "openai-launches-new-accounting-plugin-for-chatgpt-to-streamline-work-d39e60",
-      "title": "OpenAI Launches New Accounting Plugin for ChatGPT to Streamline Work",
-      "dek": "OpenAI has launched an accounting plugin for ChatGPT, allowing businesses to automate invoice processing, bank reconciliation, and report generation by integrating with major financial platforms like QuickBooks, Xero, and Oracle NetSuite.",
-      "url": "https://newsable.asianetnews.com/business/openai-launches-new-accounting-plugin-for-chatgpt-to-streamline-work-articleshow-nozdvst",
-      "source": "Asianet Newsable",
-      "sourceType": "external",
-      "image": "https://static.asianetnews.com/images/w-1280,h-720,format-jpg,imgid-external,imgname-image-d8b32419-d2a5-4b5b-bee5-7701fd7aca5a.jpg",
-      "publishedAt": "2026-11-19T07:30:03.000Z",
+      "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/02d00371f7c9a99a3b71495677ecde64e5c4c4d6-1290x860.png",
+      "publishedAt": "2026-11-20T08:47:02.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "business"
+        "technology and telecom",
+        "investing",
+        "orcl",
+        "7f1356fe-9f2e-46a1-8802-9941871cb69f"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "bbc1f3a876444c6a",
+      "slug": "dulquer-salmaan-s-aakasamlo-oka-tara-heroine-satvika-veeravalli-had-finished-her-enginee-299452",
+      "title": "Dulquer Salmaan's Aakasamlo Oka Tara heroine Satvika Veeravalli had finished her engineering in just 3 years. How one Instagram post changed life of the actress who was working as an Oracle techie in US",
+      "dek": "Satvika Veeravalli, who previously worked for Oracle, has made her debut appearance in Telugu cinema with Aakasamlo Oka Tara. The Indian American actress recently shared details about her journey during an interview with Deccan Chronicle. A graduate of the University of Illinois Urbana-Champaign, sh",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/dulquer-salmaans-aakasamlo-oka-tara-heroine-satvika-veeravalli-had-finished-her-engineering-in-just-3-years-how-one-instagram-post-changed-life-of-the-actress-who-was-working-as-an-oracle-techie-in-us/articleshow/136019076.cms",
+      "source": "The Economic Times",
+      "sourceType": "external",
+      "image": "https://img.etimg.com/thumb/msid-136019316,resizemode-4,width-1200,height-900,imgsize-97072,overlay-etpanache/articleshow.jpg",
+      "publishedAt": "2026-11-20T08:27:02.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "oracle",
+        "vanderbilt university",
+        "satvika",
+        "satvika veeravalli",
+        "telugu film",
+        "aakasamlo oka tara"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "d79e8f18b98ee244",
+      "slug": "top-10-best-corporate-training-companies-in-india-in-2027-b6abaf",
+      "title": "Top 10 Best Corporate Training Companies In India In 2027",
+      "dek": "Top 10 Best Corporate Training Companies in India in 2027 Corporate training has become one of the most important investments for Indian businesses seeking to improve workforce productivity, strengthen leadership capabilities, accelerate digital transformation, and remain competitive in a rapidly ev",
+      "url": "https://www.inventiva.co.in/trends/top-10-best-corporate-training-companies-in-india-in-2027/",
+      "source": "Inventiva",
+      "sourceType": "external",
+      "image": "https://www.inventiva.co.in/wp-content/uploads/2025/01/Vocational-Training-Platforms.jpg",
+      "publishedAt": "2026-11-20T07:28:39.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "trends"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "433a508665266ace",
+      "slug": "ai-in-patient-engagement-market-set-to-experience-revenue-growth-to-usd-49-40-billion-by-485df4",
+      "title": "AI in Patient Engagement Market Set to Experience Revenue Growth to USD 49.40 Billion by 2034 at 20.97% CAGR",
+      "dek": "The AI in Patient Engagement Market is growing rapidly as healthcare organizations adopt intelligent tools to personalize care, automate routine communication and manage rising costs. [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/11/20/1784546",
+      "source": "Express-press-release",
+      "sourceType": "external",
+      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/logo-1.jpg",
+      "publishedAt": "2026-11-20T06:51:03.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "healthcare",
+        "ai in patient engagement market"
       ],
       "priority": 38
     },
     {
-      "id": "6b5cf2b14a18b363",
-      "slug": "code-effects-releases-version-7-with-secure-ai-agents-rule-governance-and-auditing-for-n-634352",
-      "title": "Code Effects Releases Version 7 with Secure AI Agents, Rule Governance, and Auditing for .NET",
-      "dek": "Code Effects Releases Version 7 with Secure AI Agents, Rule Governance, and Auditing for .NET",
-      "url": "https://startuptimes.net/code-effects-releases-version-7-with-secure-ai-agents-rule-governance-and-auditing-for-net",
-      "source": "Startup Times",
+      "id": "b52cb23df44e14f2",
+      "slug": "strategies-to-achieve-zero-downtime-during-database-conversion-9f2d7b",
+      "title": "Strategies To Achieve Zero Downtime During Database Conversion",
+      "dek": "Image Source: Pixabay Converting a live database presents a technical challenge: data must move to the target system while the source continues processing transactions. New orders, customer updates… Read the full article on TechAnnouncer.",
+      "url": "https://techannouncer.com/strategies-to-achieve-zero-downtime-during-database-conversion/",
+      "source": "Techannouncer",
       "sourceType": "external",
-      "image": "http://startuptimes.net/storage/13722f37-eb3f-4cc5-91ea-c29bb3ba4741.png",
-      "publishedAt": "2026-11-19T07:19:39.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://techannouncer.com/wp-content/uploads/2026/11/featured-8-1024x682.jpg",
+      "publishedAt": "2026-11-20T05:44:19.000Z",
+      "topic": "AI & Database",
       "tags": [
-        "startup news"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "8e0a7dbd980747bf",
-      "slug": "openai-unveils-chatgpt-accounting-plugin-revolutionizing-bookkeeping-for-indian-business-1adbb5",
-      "title": "OpenAI Unveils ChatGPT Accounting Plugin: Revolutionizing Bookkeeping for Indian Businesses",
-      "dek": "OpenAI Unveils ChatGPT Accounting Plugin: Revolutionizing Bookkeeping for Indian Businesses - OpenAI has rolled out a specialized accounting plugin for ChatGPT, a move set to transform how Indian businesses manage ... - Latest News. Find Breaking Headlines, Current and Latest business news at Lokmat",
-      "url": "https://www.lokmattimes.com/business/openai-unveils-chatgpt-accounting-plugin-revolutionizing-bookkeeping-for-indian-businesses-a001-w01/",
-      "source": "lokmattimes",
-      "sourceType": "external",
-      "image": "https://d3pc1xvrcw35tl.cloudfront.net/ln/feedImages/686x514/ANI-20261119070114_202611.jpg",
-      "publishedAt": "2026-11-19T07:10:47.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 38
-    },
-    {
-      "id": "1218a7d97a4faa15",
-      "slug": "servicenow-builds-an-exit-ramp-from-salesforce-partly-from-salesforce-parts-3f49d6",
-      "title": "ServiceNow Builds an Exit Ramp From Salesforce, Partly From Salesforce Parts",
-      "dek": "ServiceNow’s Autonomous CRM Engine promises CRM moves in weeks; the idea is not new, the combination is, and the buyer who gains most already runs ServiceNow. The News On November 12, 2026, ServiceNow announced the Autonomous CRM Engine, which it describes as an AI-native solution to accelerate CRM ",
-      "url": "https://customerthink.com/servicenow-builds-an-exit-ramp-from-salesforce-partly-from-salesforce-parts/",
-      "source": "Customer Think",
-      "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-11-19T07:00:26.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "enterprise technology",
-        "blog"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "ae9684273f5bfdaf",
-      "slug": "java-developers-urged-to-patch-critical-security-flaws-immediately-2d2153",
-      "title": "Java Developers Urged to Patch Critical Security Flaws Immediately",
-      "dek": "Alarm bells are ringing for millions of Java users after newly identified security flaws in the widely used programming language raised the risk that attackers could remotely run malicious code or crash affected systems. Java, distributed by Oracle and also available through open-source Java develop",
-      "url": "https://jowhar.com/java-developers-urged-to-patch-critical-security-flaws-immediately/",
-      "source": "Jowhar",
-      "sourceType": "external",
-      "image": "https://jowhar.com/wp-content/uploads/2026/11/Java-Developers-Urged-to-Patch-Critical-Security-Flaws-Immediately.jpg",
-      "publishedAt": "2026-11-19T06:45:03.000Z",
-      "topic": "Security",
-      "tags": [
-        "critical",
-        "urged",
-        "flaws",
-        "security",
-        "developers",
-        "patch"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "d4f40a5822b30f1f",
-      "slug": "bspk-publishes-four-clienteling-guides-on-shopping-journeys-inventory-ai-agents-and-fore-ccdd0c",
-      "title": "BSPK publishes four clienteling guides on shopping journeys, inventory, AI agents and forecasting",
-      "dek": "The guides define the customer shopping journey, real time inventory visibility, product data for AI agents, and AI demand forecasting in retail. SAN FRANCISCO, California - Nov. 19, 2026 - BSPK, the AI clienteling platform for retail brands, published four",
-      "url": "https://www.openpr.com/news/4693997/bspk-publishes-four-clienteling-guides-on-shopping-journeys",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/b/1/b19341435_k.jpg",
-      "publishedAt": "2026-11-19T05:38:32.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "trends",
-        "fashion",
-        "lifestyle"
+        "3d printing"
       ],
       "priority": 37
     },
     {
-      "id": "10ee73c110925437",
-      "slug": "cve-2026-114938-openjdk-base64-decoder-vulnerable-to-pre-authentication-rce-java4shell-7e7eac",
-      "title": "CVE-2026-114938: OpenJDK Base64 Decoder Vulnerable To Pre-Authentication RCE (Java4Shell)",
-      "dek": "IntroductionOn November 17, 2026, security researchers from Calif.io publicly disclosed Java4Shell (CVE-2026-114938, CVSS v4.0: 9.2 Critical), a severe… Read more → The post CVE-2026-114938: OpenJDK Base64 Decoder Vulnerable To Pre-Authentication RCE (Java4Shell) appeared first on IT Security News.",
-      "url": "https://www.itsecuritynews.info/cve-2026-114938-openjdk-base64-decoder-vulnerable-to-pre-authentication-rce-java4shell/",
-      "source": "It Security News",
+      "id": "0b18181070d9953d",
+      "slug": "you-can-outsource-the-work-not-the-ownership-9f26bc",
+      "title": "You Can Outsource the Work, Not the Ownership",
+      "dek": "Lessons from years of turning vendor engagements into long-term wins Recently, a colleague messaged me to say a project wasn't going well. We had brought in an outside consultant to build our disaster recovery failover plan, and the consultant didn't have the domain knowledge for our systems. The wo",
+      "url": "https://dev.to/pranay_raavi/you-can-outsource-the-work-not-the-ownership-4hef",
+      "source": "Dev Community",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-11-19T03:02:12.000Z",
-      "topic": "Security",
-      "tags": [
-        "vulnerability",
-        "en",
-        "security research | blog"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "7ae4740253283c4d",
-      "slug": "hidden-java-raises-alarm-fc3812",
-      "title": "‘Hidden Java’ Raises Alarm",
-      "dek": "The discovery of serious security vulnerabilities in Java, a widely used programming language, following similar security concerns involving PHP, has put businesses and public institutions on high alert. Although the South Korean government has recommended urgent security updates, experts warn that",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001366",
-      "source": "It조선",
-      "sourceType": "external",
-      "image": "https://cdn.it.chosun.com/news/photo/202611/3000000001366_501561_4920.png",
-      "publishedAt": "2026-11-19T03:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "global"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "5b28ffc5ebf2d183",
-      "slug": "oncology-information-systems-market-size-share-growth-2034-dea332",
-      "title": "Oncology Information Systems Market Size, Share, Growth, 2034",
-      "dek": "(MENAFN - Straits Research) Oncology Information Systems Market Size & Growth AnalysisThe global oncology information systems market size was valued at USD 3.16 billion in 2025 and is projected to ...",
-      "url": "https://menafn.com/1111987528/Oncology-Information-Systems-Market-Size-Share-Growth-2034",
-      "source": "Menafn",
-      "sourceType": "external",
-      "image": "https://menafn.com/images/Menafn_SmallLogo.jpg",
-      "publishedAt": "2026-11-19T02:30:11.000Z",
+      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6e77sbzgwrznfra8rqv5.png",
+      "publishedAt": "2026-11-20T04:59:17.000Z",
       "topic": "Oracle Ecosystem",
-      "tags": [],
+      "tags": [
+        "leadership",
+        "database",
+        "career",
+        "devops"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "54237119fd6a1cc4",
+      "slug": "audience-analytics-market-gains-traction-as-businesses-prioritize-data-driven-marketing--e68ece",
+      "title": "Audience Analytics Market Gains Traction as Businesses Prioritize Data-Driven Marketing and Customer Insights",
+      "dek": "The Audience Analytics Market is part of a wider industry environment shaped by business activity, customer requirements, and changes in product or service demand. Polaris [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/11/19/1784319",
+      "source": "Express-press-release",
+      "sourceType": "external",
+      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/logo.jpg",
+      "publishedAt": "2026-11-20T03:46:50.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "technology",
+        "audience analytics market size",
+        "audience analytics market opportunity",
+        "audience analytics market forecast",
+        "audience analytics market research",
+        "audience analytics market"
+      ],
       "priority": 36
     },
     {
-      "id": "cfb87026a3e93b7e",
-      "slug": "congratulations-you-just-gave-everyone-admin-access-e1cc13",
-      "title": "Congratulations You Just Gave Everyone Admin Access",
-      "dek": "The application looks polished, the buttons work, and the demo is going perfectly—until an ordinary user opens the administrator dashboard. This episode explores how small configuration decisions can give people permissions they were never meant to have. We unpack authentication, authorization, role",
-      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/congratulations-you-just-gave-everyone-admin-access",
-      "source": "Oracle Academy Tech Chat",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S5E01_master.mp3?dest-id=3949203",
-      "publishedAt": "2026-11-18T13:00:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "2b4bef0c8c43e26f",
-      "slug": "why-is-my-report-showing-12-000-rows-5c09b4",
-      "title": "Why Is My Report Showing 12,000 Rows?",
-      "dek": "The user asked for today's thirty-two registrations. The report returned twelve thousand. This episode investigates how filters, session state, table relationships, and saved report settings can produce results far beyond what anyone expected. We explore why developers need to define what one row re",
-      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/why-is-my-report-showing-12000-rows",
-      "source": "Oracle Academy Tech Chat",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S5E02_master.mp3?dest-id=3949203",
-      "publishedAt": "2026-11-18T13:00:00.000Z",
-      "topic": "Java & MySQL",
-      "tags": [],
+      "id": "218d87f0de4dd388",
+      "slug": "openai-releases-improved-live-dictation-in-chatgpt-releases-specialised-accounting-tool--0281ab",
+      "title": "OpenAI Releases Improved Live Dictation in ChatGPT; Releases Specialised Accounting Tool for AI Chatbot",
+      "dek": "OpenAI has announced multiple new tools and improvements in ChatGPT. The company has launched a new specialised tool for its AI chatbot, dubbed ChatGPT for Accounting. The tool aims to…",
+      "url": "https://www.swapupdate.in/openai-releases-improved-live-dictation-in-chatgpt-releases-specialised-accounting-tool-for-ai-chatbot/",
+      "source": "Swapupdate",
+      "sourceType": "external",
+      "image": "https://i.gadgets360cdn.com/large/apple_airpods_max_2_apple_thumb_1791524504418.jpg?downsize=90:68&output-quality=70",
+      "publishedAt": "2026-11-20T02:45:45.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "technology"
+      ],
       "priority": 36
     },
     {
@@ -2009,6 +1814,202 @@
       "topic": "AI & Database",
       "tags": [
         "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "989efc7671c3b2e1",
+      "slug": "automatic-transaction-rollback-ec870d",
+      "title": "Automatic Transaction Rollback",
+      "dek": "Join Lois Houston and Nikita Abraham as they discuss the Automatic Transaction Rollback feature with Senior Principal Database & MySQL Instructor, Bill Millar. Bill explains that in the 23ai release, transactions blocking other transactions can now be automatically rolled back, depending on certain ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/automatic-transaction-rollback",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP11.mp3?dest-id=3870039",
+      "publishedAt": "2024-10-08T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "abbe9537156b2d45",
+      "slug": "the-importance-of-data-and-continuous-learning-111f6c",
+      "title": "The importance of data and continuous learning",
+      "dek": "In this episode host Orlaith Lawton speaks with Oracle Ace Director Finland Heli Helskyaho about the importance of data and continuous learning. --------------------------------------------------------- Episode Transcript: 00;00;09;03 - 00;00;37;15 Welcome to the Oracle Academy Tech Chat. This podca",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-importance-of-data-and-continuous-learning",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP03.mp3?dest-id=3949203",
+      "publishedAt": "2024-10-01T16:23:48.000Z",
+      "topic": "Training & Certification",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "0f1e6d2a0c5ba256",
+      "slug": "unrestricted-parallel-dmls-and-direct-loads-ac305f",
+      "title": "Unrestricted Parallel DMLs and Direct Loads",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham discuss new features in Oracle Database 23ai related to Data Manipulation Language (DML). They are joined by Senior Principal Database & MySQL Instructor, Bill Millar, who explains the concept of unrestricted parallel DMLs and their importance i",
+      "url": "https://oracleuniversitypodcast.libsyn.com/unrestricted-parallel-dmls-and-direct-loads",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP10.mp3?dest-id=3870039",
+      "publishedAt": "2024-10-01T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle Database",
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "e01703730db0d4b4",
+      "slug": "true-cache-6a960d",
+      "title": "True Cache",
+      "dek": "Hosts Lois Houston and Nikita Abraham are joined by Senior Principal Database & MySQL Instructor Bill Millar who explains Oracle's newest caching solution called True Cache. Available in Oracle Database 23ai, True Cache is an automatically managed, in-memory, read-only cache that improves applicatio",
+      "url": "https://oracleuniversitypodcast.libsyn.com/true-cache",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP9.mp3?dest-id=3870039",
+      "publishedAt": "2024-09-24T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle Database",
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "6764e4ce38b290ce",
+      "slug": "enhancements-in-sql-plan-management-securefiles-lob-write-performance-and-column-width-a309fc",
+      "title": "Enhancements in SQL Plan Management, SecureFiles LOB Write Performance, and Column Width",
+      "dek": "Join Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they discuss how the new Automatic SQL Plan Management feature in Oracle Database 23ai improves performance consistency and simplifies management. Then, Senior Principal Database & MySQL ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/enhancements-in-sql-plan-management-securefiles-lob-write-performance-and-column-width",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP8.mp3?dest-id=3870039",
+      "publishedAt": "2024-09-17T11:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Oracle Database",
+        "MySQL",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "7fc0f877b6c48593",
+      "slug": "hybrid-columnar-compression-fast-ingest-a4b392",
+      "title": "Hybrid Columnar Compression & Fast Ingest",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with Senior Principal Database & MySQL Instructor Bill Millar about the enhanced performance of Hybrid Columnar Compression, the different compression levels, and how to achieve the best compression for your tables. Then, they delve into F",
+      "url": "https://oracleuniversitypodcast.libsyn.com/hybrid-columnar-compression-fast-ingest",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP7.mp3?dest-id=3870039",
+      "publishedAt": "2024-09-10T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "MySQL"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "028f55b53f871be3",
+      "slug": "the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfall-f2dc7e",
+      "title": "The ethics of AI in Academia. Benefits and promise of AI. What should you consider? Pitfalls to avoid?",
+      "dek": "In this episode host Oracle Academy manager Tyra Peirce speaks with Mary Olson Industry Executive Director, Education at Oracle. Tyra and Mary speak about the ethics of AI in education and give practical advice on how to best use the technology while avoiding common pitfalls. -----------------------",
+      "url": "https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-ethics-of-ai-in-academia-benefits-and-promise-of-ai-what-should-you-consider-pitfalls-to-avoid",
+      "source": "Oracle Academy Tech Chat",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/9074a185-eadc-4a2c-bdf2-3d47f0ddb696/Oracle_Academy_Tech_Chat_S03EP01.mp3?dest-id=3949203",
+      "publishedAt": "2024-09-03T12:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "954fb77f408fd5ab",
+      "slug": "time-data-handling-data-storage-91f274",
+      "title": "Time & Data Handling & Data Storage",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham discuss improvements in time and data handling and data storage in Oracle Database 23ai. They are joined by Senior Principal Instructor Serge Moiseev, who explains the benefit of allowing databases to have their own time zones, separate from the",
+      "url": "https://oracleuniversitypodcast.libsyn.com/time-data-handling-data-storage",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-09-03T11:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "Oracle Database"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "a1c4f2cadb715947",
+      "slug": "database-sharding-part-2-5face7",
+      "title": "Database Sharding: Part 2",
+      "dek": "Join hosts Lois Houston and Nikita Abraham in Part 2 of the discussion on database sharding with Ron Soltani, a Senior Principal Database & Security Instructor. They talk about sharding native replication, directory-based sharding, and coordinated backup and restore for sharded databases, explaining",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-sharding-part-2",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-08-27T11:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "43aa5988985c66d9",
+      "slug": "database-sharding-part-1-e6309a",
+      "title": "Database Sharding: Part 1",
+      "dek": "In this two-part episode, hosts Lois Houston and Nikita Abraham are joined by Ron Soltani, a Senior Principal Database & Security Instructor, to discuss the ins and outs of database sharding. In Part 1, they delve into the fundamentals of database sharding, including what it is and how it works, spe",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-sharding-part-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-08-20T11:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "119c79ecef58b62d",
+      "slug": "database-security-part-2-ef77d6",
+      "title": "Database Security: Part 2",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham continue their exploration of Oracle Database 23ai's database security capabilities. They are joined once again by Ron Soltani, a Senior Principal Database & Security Instructor, who delves into the intricacies of the new hybrid read-only mode f",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-2",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-08-13T11:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Oracle Database",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ffc09f7346e6f6b5",
+      "slug": "database-security-part-1-b4c13f",
+      "title": "Database Security: Part 1",
+      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they dive into the critical topic of database security. In the first of a two-part series on database security in Oracle Database 23ai, they discuss the importance of protecting dat",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-08-06T11:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Oracle Database",
+        "Security"
       ],
       "priority": 36
     }
