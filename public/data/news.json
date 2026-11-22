@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T01:37:24.188Z",
+  "generatedAt": "2026-11-22T00:31:16.301Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -39,41 +39,141 @@
       "priority": 46
     },
     {
-      "id": "a41e18fee99750c1",
-      "slug": "trump-floats-a-price-for-taking-america-s-ai-boom-overseas-1b855a",
-      "title": "Trump Floats A Price For Taking America’s AI Boom Overseas",
-      "dek": "President Donald Trump threatened to impose a “tremendous tax” on American tech companies building artificial intelligence data centers overseas, saying he wants the infrastructure powering the AI boom exclusively built in the United States. “We’re not going to allow companies to build data centers ",
-      "url": "https://www.dailywire.com/news/trump-floats-a-price-for-taking-americas-ai-boom-overseas",
-      "source": "The Daily Wire",
+      "id": "85933f9081c492d2",
+      "slug": "world-governments-summit-dialogue-for-latin-america-and-the-caribbean-explores-stronger--b5658a",
+      "title": "World Governments Summit Dialogue for Latin America and the Caribbean explores stronger cooperation in shaping future",
+      "dek": "DUBAI/CAP CANA, 21st November, 2026 (WAM) -- Luis Abinader, President of the Dominican Republic, expressed his country's appreciation for the commitment of President His Highness Sheikh Mohamed bin Zayed Al Nahyan and His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President, Prime Minister",
+      "url": "http://www.venezuelastar.com/news/279447072/world-governments-summit-dialogue-for-latin-america-and-the-caribbean-explores-stronger-cooperation-in-shaping-future",
+      "source": "Venezuelastar",
       "sourceType": "external",
-      "image": "https://dw-wp-production.imgix.net/2026/01/GettyImages-2257274748.jpg?ar=16%3A9&amp;auto=compress&amp;crop=faces&amp;cs=origin&amp;fit=crop&amp;w=1200&amp;h=800&amp;ixlib=react-9.11.0",
-      "publishedAt": "2026-11-20T13:04:43.000Z",
-      "topic": "Security",
+      "image": "https://assets.kreatio.net/story_logos/premeir/venezuela-star.jpg",
+      "publishedAt": "2026-11-21T12:05:10.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "technology industry",
-        "data centers",
-        "artificial intelligence",
-        "ai",
-        "news",
-        "tariffs"
+        "supported by a committed government",
+        "inspired by emirati traditions of dialogue",
+        "luis abinader",
+        "vice president",
+        "experimentation",
+        "and lasha tabidze"
       ],
       "priority": 43
     },
     {
-      "id": "880653edbd9738c0",
-      "slug": "ai-could-open-wallets-where-erp-upgrade-pitches-can-t-says-pwc-3c9799",
-      "title": "AI could open wallets where ERP upgrade pitches can't, says PwC",
-      "dek": "Consultancy argues a 'clean core' makes agents easier to deploy – but Kingfisher is taking a different route",
-      "url": "https://www.theregister.com/ai-and-ml/2026/11/20/ai-could-open-wallets-where-erp-upgrade-pitches-cant-says-pwc/5311221",
-      "source": "The Register",
+      "id": "05e6c81d52458f20",
+      "slug": "trump-threatens-tax-on-overseas-data-centres-is-india-s-ai-push-at-risk-49736a",
+      "title": "Trump threatens tax on overseas data centres: Is India’s AI push at risk?",
+      "dek": "US president Donald Trump wants American technology companies to build AI data centres at home, not overseas, and has threatened a steep tax on those that do otherwise.",
+      "url": "https://www.financialexpress.com/world-news/trump-threatens-tax-on-us-firms-building-data-centres-abroad-could-indias-ai-ambitions-take-a-hit/4390559/",
+      "source": "Financial Express , Read To Lead",
       "sourceType": "external",
-      "image": "https://image.theregister.com/5311243.webp?width=1200",
-      "publishedAt": "2026-11-20T12:47:00.000Z",
-      "topic": "Applications & NetSuite",
+      "image": "https://images.financialexpressdigital.com/2026/11/trump-rating-post-midterms.jpg",
+      "publishedAt": "2026-11-21T10:44:15.000Z",
+      "topic": "Security",
       "tags": [
-        "ai and ml"
+        "india ai infrastructure",
+        "india data centre investment",
+        "us ai infrastructure",
+        "india data centre industry",
+        "us firms data centres india",
+        "trump ai policy"
       ],
-      "priority": 43
+      "priority": 42
+    },
+    {
+      "id": "633d85687f0e186c",
+      "slug": "nvidia-s-neocloud-empire-lost-its-biggest-champion-washington-may-have-dealt-a-bigger-bl-74e9d3",
+      "title": "Nvidia's neocloud empire lost its biggest champion. Washington may have dealt a bigger blow.",
+      "dek": "Nvidia's AI cloud partners face new challenges after Jensen Huang's exit, a China crackdown, and growing money troubles.",
+      "url": "https://www.businessinsider.com/nvidia-neocloud-empire-fresh-threat-china-crackdown-2026-11",
+      "source": "Insider",
+      "sourceType": "external",
+      "image": "https://i.insider.com/6b00ca5773f126f9eccb9260?format=jpeg",
+      "publishedAt": "2026-11-21T10:00:04.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "limited-synd",
+        "tech",
+        "big-tech",
+        "beacon-industries-big-bet",
+        "data-centers",
+        "nvda"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "4b52794bcceaed1e",
+      "slug": "modern-industrials-raises-6m-in-seed-funding-round-b9148c",
+      "title": "Modern Industrials Raises $6M In Seed Funding Round",
+      "dek": "Modern Industrials raised $6 million in seed funding to expand its platform of custom AI agents that automate workflows for manufacturers and distributors. The post Modern Industrials Raises $6M In Seed Funding Round appeared first on Tech Company News.",
+      "url": "https://www.techcompanynews.com/modern-industrials-raises-6m-in-seed-funding-round/",
+      "source": "Tech Company News",
+      "sourceType": "external",
+      "image": "https://www.techcompanynews.com/wp-content/uploads/2026/11/modern-industrials-leadership.webp",
+      "publishedAt": "2026-11-21T09:00:31.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "custom ai agents",
+        "latest news",
+        "modern industrials",
+        "manufacturers"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "e8706ec36afc6616",
+      "slug": "is-nvidia-s-colette-kress-standing-on-a-glass-cliff-09b2cc",
+      "title": "Is Nvidia's Colette Kress standing on a glass cliff?",
+      "dek": "A founder-CEO of an all-important global AI company, with a rockstar persona, admits to an affair with an alleged spy. He is made to resign with the whole world watching and many powerful people rooting for his return, while waxing eloquent about why he is indispensable and irreplaceable. A signific",
+      "url": "https://invezz.com/news/2026/11/21/is-nvidias-colette-kress-standing-on-a-glass-cliff/",
+      "source": "Invezz",
+      "sourceType": "external",
+      "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/11/image-94.png",
+      "publishedAt": "2026-11-21T09:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "tech"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "b6332ebf0b1543e7",
+      "slug": "amazon-google-microsoft-meta-and-oracle-the-5-companies-using-ai-the-most-as-spending-to-b1d0b6",
+      "title": "Amazon, Google, Microsoft, Meta and Oracle: The 5 Companies Using AI the Most as Spending Tops $700 Billion",
+      "dek": "Amazon, Alphabet, Microsoft, Meta and Oracle are leading an unprecedented AI investment surge, with combined capital spending expected to exceed $720 billion in 2026 amid investor concerns.",
+      "url": "https://www.ibtimes.com.au/big-tech-ai-spending-2026-amazon-google-microsoft-meta-oracle-1879059",
+      "source": "International Business Times",
+      "sourceType": "external",
+      "image": "https://d.ibtimes.com.au/en/full/204636/amazon.jpg?w=1600&h=900&q=88&f=71d9fcb1568bc1019a25697e55e17e67",
+      "publishedAt": "2026-11-21T07:37:43.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "ai investment 2026",
+        "jobs",
+        "ai"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "514b8f6707a37399",
+      "slug": "trump-vows-tax-on-big-tech-data-centers-built-overseas-1c3834",
+      "title": "Trump Vows Tax on Big Tech Data Centers Built Overseas",
+      "dek": "By Johnny Tango CBNC News President Donald Trump drew a hard line around the most important infrastructure of the artificial intelligence age on Friday, telling American tech companies that the data centers powering AI will be built on American soil or carry what he called a tremendous tax if they g",
+      "url": "https://cbnc.com/trump-vows-tax-big-tech-data-centers-built-overseas/",
+      "source": "Cbnc",
+      "sourceType": "external",
+      "image": "https://cbnc.com/wp-content/uploads/2026/11/Data-Center-Server-Vec-2.jpg",
+      "publishedAt": "2026-11-21T07:04:53.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "meta",
+        "donald trump",
+        "china",
+        "marco rubio",
+        "big tech",
+        "jd vance"
+      ],
+      "priority": 39
     },
     {
       "id": "b56c7ec5fa854b41",
@@ -87,7 +187,7 @@
       "publishedAt": "2026-11-18T13:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [],
-      "priority": 43
+      "priority": 39
     },
     {
       "id": "e40c243057d99023",
@@ -101,373 +201,101 @@
       "publishedAt": "2026-11-18T13:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [],
-      "priority": 43
-    },
-    {
-      "id": "479fa703ad41d711",
-      "slug": "top-companies-in-kerala-hiring-accountants-in-2027-38f549",
-      "title": "Top Companies In Kerala Hiring Accountants In 2027",
-      "dek": "Discover the top companies in Kerala that are hiring accountants in 2025,through this comprehensive and detailed blog.a",
-      "url": "https://entri.app/blog/top-companies-in-kerala-hiring-accountants/",
-      "source": "Entri",
-      "sourceType": "external",
-      "image": "https://entri.app/blog/wp-content/uploads/2024/02/Untitled-28.webp",
-      "publishedAt": "2026-11-20T12:38:49.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
-      "priority": 42
-    },
-    {
-      "id": "9779a2046c16e7f9",
-      "slug": "uk-competition-body-probes-hyperscaler-security-and-cloud-lock-in-901c94",
-      "title": "UK competition body probes hyperscaler security and cloud lock-in",
-      "dek": "CMA continues digital sovereignty investigation with consultation into IAM and Kubernetes",
-      "url": "https://www.sdxcentral.com/news/uk-competition-body-probes-hyperscaler-security-and-cloud-lock-in/",
-      "source": "Sdxcentral",
-      "sourceType": "external",
-      "image": "https://media.datacenterdynamics.com/media/images/cabot-building-gov-uk.2e16d0ba.fill-750x500.png",
-      "publishedAt": "2026-11-20T12:21:20.000Z",
-      "topic": "Security",
-      "tags": [
-        "europe",
-        "uk",
-        "idira",
-        "cyberark",
-        "microsoft",
-        "google"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "f7a01eb33c24cad0",
-      "slug": "automus-announces-partnership-with-google-cloud-to-help-accelerate-agentic-transformatio-f614f4",
-      "title": "Automus Announces Partnership with Google Cloud to Help Accelerate Agentic Transformation",
-      "dek": "Automus announced a collaboration with Google Cloud to help accelerate agentic transformation, showcasing a roadmap at Oracle AI World. This collaboration is designed to help organizations leverage the power of AI and agentic capabilities to modernize their operations and unlock new opportunities. A",
-      "url": "https://aithority.com/machine-learning/automus-announces-partnership-with-google-cloud-to-help-accelerate-agentic-transformation/",
-      "source": "Aithority",
-      "sourceType": "external",
-      "image": "https://aithority.com/wp-content/uploads/2026/11/sdsadsa-1.jpg",
-      "publishedAt": "2026-11-20T12:20:30.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "ebs",
-        "automus",
-        "google cloud",
-        "chacko thomas",
-        "agentic capabilities",
-        "oracle fusion"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "2dd21e9f40b42176",
-      "slug": "what-the-telecom-bust-taught-me-about-ai-s-debt-boom-756e9b",
-      "title": "What The Telecom Bust Taught Me About AI’s Debt Boom",
-      "dek": "The AI buildout’s growing reliance on debt echoes the telecom bubble, raising the risk that infrastructure spending will outpace the revenue needed to meet fixed repayment obligations. According to guest author David Spreng of Runway Growth Capital, even if AI fulfills its technological promise, bor",
-      "url": "https://news.crunchbase.com/venture/telecom-bust-ai-startup-debt-boom-spreng-runway-growth/",
-      "source": "Crunchbase",
-      "sourceType": "external",
-      "image": "https://news.crunchbase.com/wp-content/uploads/Bubble_Investment.jpg",
-      "publishedAt": "2026-11-20T12:00:01.000Z",
-      "topic": "Security",
-      "tags": [
-        "startups",
-        "artificial intelligence",
-        "communications tech",
-        "venture"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "a723827ef774ffa3",
-      "slug": "not-nvidia-not-broadcom-this-artificial-intelligence-ai-chip-stock-could-be-the-biggest--c354a7",
-      "title": "Not Nvidia. Not Broadcom. This Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner of 2027",
-      "dek": "Cerebras Systems' stunning growth explains why analysts are expecting a big jump in its stock price over the coming year.",
-      "url": "https://www.fool.com/investing/2026/11/20/not-nvidia-not-broadcom-this-artificial-intelligence-ai-chip-stock-could-be-the-biggest-winner-of-2027/",
-      "source": "Fool",
-      "sourceType": "external",
-      "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/869430aff29dc8775c5eb3a838beaa995d37de2d-1280x853.jpg",
-      "publishedAt": "2026-11-20T11:45:02.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "1e856ab7-2a92-4e40-a409-f8ed08f941ef",
-        "investing",
-        "technology and telecom",
-        "cbrs"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "419d5d4d8c106f90",
-      "slug": "anthropic-shares-slide-as-ai-selloff-tests-record-ipo-debut-aeec0f",
-      "title": "Anthropic shares slide as AI selloff tests record IPO debut",
-      "dek": "A steep premarket drop on Friday signals investor caution around AI valuations, one day after the biggest IPO on record",
-      "url": "https://www.wealthprofessional.ca/investments/global-investing/anthropic-shares-slide-as-ai-selloff-tests-record-ipo-debut/394069",
-      "source": "Wealth Professional Canada",
-      "sourceType": "external",
-      "image": "https://cdn-res.keymedia.com/cms/images/in/stev_639159355292667857.png",
-      "publishedAt": "2026-11-20T11:30:00.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "anthropic",
-        "ipo",
-        "claude"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "99322a8dc93dc8dd",
-      "slug": "why-is-the-data-centric-security-market-becoming-a-top-investment-priority-amid-rising-d-e60aa6",
-      "title": "Why Is the Data-Centric Security Market Becoming a Top Investment Priority Amid Rising Data Breaches and Growing Demand for Enterprise Data Protection",
-      "dek": "According to DataM Intelligence (DMI) analysis, the Global Data-centric Security Market was valued at USD 10.65 billion in 2025 and is projected to reach USD 57.44 billion by 2035, growing at a CAGR of 18.36% during the forecast period (2026-2035). Market",
-      "url": "https://www.openpr.com/news/4695524/why-is-the-data-centric-security-market-becoming-a-top",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/b/Lb20353994_k.jpg",
-      "publishedAt": "2026-11-20T11:25:30.000Z",
-      "topic": "Security",
-      "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "66331a558e55ffbe",
-      "slug": "supply-chain-finance-market-to-reach-us-7-35-billion-by-2035-at-13-0-cagr-asia-pacific-d-4bb958",
-      "title": "Supply Chain Finance Market to Reach US$ 7.35 Billion by 2035 at 13.0% CAGR; Asia-Pacific Dominates with 42.2% Share - Key Players: Citi, HSBC, Standard Chartered, DBS Bank",
-      "dek": "The global supply chain finance market reached US$ 2.16 billion in 2025 and is projected to reach US$ 7.35 billion by 2035, growing at a CAGR of 13.0% during the forecast period 2026-2035. Market growth is driven by increasing demand",
-      "url": "https://www.openpr.com/news/4695497/supply-chain-finance-market-to-reach-us-7-35-billion-by-2035",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/b/Lb20256961_k.jpg",
-      "publishedAt": "2026-11-20T11:14:49.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "5656bbbd155d157d",
-      "slug": "presentation-modernising-retail-at-scale-architecting-a-cloud-to-edge-platform-for-a-glo-aeedac",
-      "title": "Presentation: Modernising Retail at Scale: Architecting a Cloud‑to‑Edge Platform for a Global Enterprise",
-      "dek": "Jayesh Bhayani discusses Tesco’s decade-long enterprise transformation from fragmented legacy systems to a unified cloud-edge platform. He explains how aligning system, talent, and process modernizations allowed Tesco to scale mission-critical retail operations to millions of customers, while sharin",
-      "url": "https://www.infoq.com/presentations/tesco-enterprise-tech-transformation/",
-      "source": "Information Queue",
-      "sourceType": "external",
-      "image": "https://res.infoq.com/presentations/tesco-enterprise-tech-transformation/en/mediumimage/JayeshBhayani-medium-1792654742095.jpg",
-      "publishedAt": "2026-11-20T11:00:00.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "platform engineering",
-        "qcon london 2026",
-        "devops",
-        "digital transformation",
-        "architecture & design",
-        "presentation"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "605113e4bb88dbb7",
-      "slug": "supply-chain-management-market-to-reach-usd-94-35-billion-by-2033-as-enterprises-shift-f-8aff81",
-      "title": "Supply Chain Management Market to Reach USD 94.35 Billion by 2033 as Enterprises Shift from Traditional Planning Software to Autonomous Supply Chain Orchestration",
-      "dek": "The global supply chain management industry is entering a new phase in which competitive differentiation increasingly depends on how quickly organizations can translate operational data into coordinated decisions. Traditional enterprise resource planning and logistics applications remain important, ",
-      "url": "https://www.openpr.com/news/4695428/supply-chain-management-market-to-reach-usd-94-35-billion-by-2033",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/b/Lb20233970_k.jpg",
-      "publishedAt": "2026-11-20T10:42:39.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "14007cf4e6a14f01",
-      "slug": "quest-software-launches-quest-lakebase-modeler-on-databricks-marketplace-6c73df",
-      "title": "Quest Software Launches Quest Lakebase Modeler on Databricks Marketplace",
-      "dek": "Quest Software announced Quest Lakebase Modeler on November 19, 2026, making the schema modeling tool available through Databricks Marketplace. Quest Lakebase Modeler helps developers, data engineers, and architects design, govern, and deploy application-ready schemas directly within Databricks Lake",
-      "url": "https://itdigest.com/uncategorized/quest-software-launches-quest-lakebase-modeler-on-databricks-marketplace/",
-      "source": "Itdigest",
-      "sourceType": "external",
-      "image": "https://itdigest.com/wp-content/uploads/2026/11/Quest-Software-and-Databricks-Bring-Trusted-Data-Foundations-to-AI-Application-Development-on-Lakebase.webp",
-      "publishedAt": "2026-11-20T10:13:55.000Z",
-      "topic": "Java & MySQL",
-      "tags": [
-        "quest lakebase modeler",
-        "databricks lakebase",
-        "governed data modeling",
-        "databricks",
-        "copy-on-write branching",
-        "ai application development"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "416a09ba21183304",
-      "slug": "best-8-ai-agents-every-hr-professional-needs-to-know-in-2027-b73386",
-      "title": "Best 8 AI Agents Every HR Professional Needs to Know in 2027",
-      "dek": "Explore eight AI agents transforming HR in 2027. Learn their uses, benefits, risks, and essential skills for HR professionals.",
-      "url": "https://entri.app/blog/best-ai-agents-every-hr-professional-needs-to-know/",
-      "source": "Entri",
-      "sourceType": "external",
-      "image": "https://entri.app/blog/wp-content/uploads/2026/11/Best-8-AI-Agents-Every-HR-Professional-Needs-to-Know-in-2027.png",
-      "publishedAt": "2026-11-20T09:08:49.000Z",
-      "topic": "Security",
-      "tags": [
-        "AI"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "e1515b74ee40e23e",
-      "slug": "oracle-stock-just-closed-at-its-lowest-price-since-april-2024-is-it-a-buy-now-cd94d6",
-      "title": "Oracle Stock Just Closed at Its Lowest Price Since April 2024. Is It a Buy Now?",
-      "dek": "The cloud giant's shares now trade under the $116 its latest investors paid. Is that a bargain?",
-      "url": "https://www.fool.com/investing/2026/11/20/oracle-stock-just-closed-at-its-lowest-price-since-april-2024-is-it-a-buy-now/",
-      "source": "Fool",
-      "sourceType": "external",
-      "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/02d00371f7c9a99a3b71495677ecde64e5c4c4d6-1290x860.png",
-      "publishedAt": "2026-11-20T08:47:02.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "technology and telecom",
-        "investing",
-        "orcl",
-        "7f1356fe-9f2e-46a1-8802-9941871cb69f"
-      ],
       "priority": 39
     },
     {
-      "id": "bbc1f3a876444c6a",
-      "slug": "dulquer-salmaan-s-aakasamlo-oka-tara-heroine-satvika-veeravalli-had-finished-her-enginee-299452",
-      "title": "Dulquer Salmaan's Aakasamlo Oka Tara heroine Satvika Veeravalli had finished her engineering in just 3 years. How one Instagram post changed life of the actress who was working as an Oracle techie in US",
-      "dek": "Satvika Veeravalli, who previously worked for Oracle, has made her debut appearance in Telugu cinema with Aakasamlo Oka Tara. The Indian American actress recently shared details about her journey during an interview with Deccan Chronicle. A graduate of the University of Illinois Urbana-Champaign, sh",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/dulquer-salmaans-aakasamlo-oka-tara-heroine-satvika-veeravalli-had-finished-her-engineering-in-just-3-years-how-one-instagram-post-changed-life-of-the-actress-who-was-working-as-an-oracle-techie-in-us/articleshow/136019076.cms",
-      "source": "The Economic Times",
+      "id": "6378959bcb387d47",
+      "slug": "java4shell-security-flaw-explained-9-critical-things-users-and-businesses-should-know-80b5f2",
+      "title": "Java4Shell Security Flaw Explained: 9 Critical Things Users and Businesses Should Know",
+      "dek": "Java4Shell raises serious cybersecurity concerns. Discover affected Java versions, potential attack risks, Oracle's security response and essential precautions for users and businesses.",
+      "url": "https://www.analyticsinsight.net/ampstories/cybersecurity/java4shell-security-flaw-explained-9-critical-things-users-and-businesses-should-know",
+      "source": "Analytics And Insight",
       "sourceType": "external",
-      "image": "https://img.etimg.com/thumb/msid-136019316,resizemode-4,width-1200,height-900,imgsize-97072,overlay-etpanache/articleshow.jpg",
-      "publishedAt": "2026-11-20T08:27:02.000Z",
-      "topic": "Training & Certification",
+      "image": "https://media.assettype.com/analyticsinsight/2026-11-21/sgti7405/Java4Shell-Security-Flaw-Explained.jpg",
+      "publishedAt": "2026-11-21T05:25:50.000Z",
+      "topic": "Security",
       "tags": [
-        "oracle",
-        "vanderbilt university",
-        "satvika",
-        "satvika veeravalli",
-        "telugu film",
-        "aakasamlo oka tara"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "d79e8f18b98ee244",
-      "slug": "top-10-best-corporate-training-companies-in-india-in-2027-b6abaf",
-      "title": "Top 10 Best Corporate Training Companies In India In 2027",
-      "dek": "Top 10 Best Corporate Training Companies in India in 2027 Corporate training has become one of the most important investments for Indian businesses seeking to improve workforce productivity, strengthen leadership capabilities, accelerate digital transformation, and remain competitive in a rapidly ev",
-      "url": "https://www.inventiva.co.in/trends/top-10-best-corporate-training-companies-in-india-in-2027/",
-      "source": "Inventiva",
-      "sourceType": "external",
-      "image": "https://www.inventiva.co.in/wp-content/uploads/2025/01/Vocational-Training-Platforms.jpg",
-      "publishedAt": "2026-11-20T07:28:39.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "trends"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "433a508665266ace",
-      "slug": "ai-in-patient-engagement-market-set-to-experience-revenue-growth-to-usd-49-40-billion-by-485df4",
-      "title": "AI in Patient Engagement Market Set to Experience Revenue Growth to USD 49.40 Billion by 2034 at 20.97% CAGR",
-      "dek": "The AI in Patient Engagement Market is growing rapidly as healthcare organizations adopt intelligent tools to personalize care, automate routine communication and manage rising costs. [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/11/20/1784546",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/logo-1.jpg",
-      "publishedAt": "2026-11-20T06:51:03.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "healthcare",
-        "ai in patient engagement market"
+        "cybersecurity threats",
+        "openjdk security",
+        "java4shell vulnerability",
+        "java security flaw",
+        "oracle security updates"
       ],
       "priority": 38
     },
     {
-      "id": "b52cb23df44e14f2",
-      "slug": "strategies-to-achieve-zero-downtime-during-database-conversion-9f2d7b",
-      "title": "Strategies To Achieve Zero Downtime During Database Conversion",
-      "dek": "Image Source: Pixabay Converting a live database presents a technical challenge: data must move to the target system while the source continues processing transactions. New orders, customer updates… Read the full article on TechAnnouncer.",
-      "url": "https://techannouncer.com/strategies-to-achieve-zero-downtime-during-database-conversion/",
-      "source": "Techannouncer",
+      "id": "7230526ace25f162",
+      "slug": "breaking-fbi-s-national-crime-database-has-been-hacked-4836e3",
+      "title": "BREAKING: FBI’s National Crime Database Has Been Hacked",
+      "dek": "The FBI is investigating a suspected hack of its National Crime Information Center (NCIC) database, the nationwide system that federal, state, and local law enforcement agencies use to share information on warrants, criminal histories, background checks, and other critical justice data. The post BRE",
+      "url": "https://www.thegatewaypundit.com/2026/11/breaking-fbis-national-crime-database-hacked/",
+      "source": "Thegatewaypundit",
       "sourceType": "external",
-      "image": "https://techannouncer.com/wp-content/uploads/2026/11/featured-8-1024x682.jpg",
-      "publishedAt": "2026-11-20T05:44:19.000Z",
+      "image": "https://www.thegatewaypundit.com/wp-content/uploads/2025/10/27266950170_440b138e11_c-1200x630.jpg",
+      "publishedAt": "2026-11-21T05:00:17.000Z",
       "topic": "AI & Database",
       "tags": [
-        "3d printing"
+        "law enforcement",
+        "shinyhunters",
+        "russia",
+        "news"
+      ],
+      "priority": 38
+    },
+    {
+      "id": "1c725523f2be495a",
+      "slug": "fbi-hacked-for-second-time-in-months-crime-database-breached-63253f",
+      "title": "FBI hacked for second time in months, crime database breached",
+      "dek": "The Federal Bureau of Investigation (FBI) is looking into a possible breach of its National Crime Information Center (NCIC) database.",
+      "url": "https://www.newsbytesapp.com/news/science/fbi-probing-possible-hack-of-national-crime-database/story",
+      "source": "Newsbytes",
+      "sourceType": "external",
+      "image": "https://i.cdn.newsbytesapp.com/images/l26720261121095758.jpg",
+      "publishedAt": "2026-11-21T04:36:48.000Z",
+      "topic": "Security",
+      "tags": [],
+      "priority": 37
+    },
+    {
+      "id": "671c0759fcdef39f",
+      "slug": "fbi-hacked-again-hackers-target-world-s-top-investigating-agency-s-crime-database-used-b-9fd137",
+      "title": "FBI hacked again: Hackers target world's top investigating agency's crime database used by police across US",
+      "dek": "The FBI is investigating a fresh cyberattack targeting its National Crime Information Center (NCIC), a database used by police agencies across the US to access criminal records, arrest warrants and background information. The suspected intrusion comes just months after hackers claimed to have stolen",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/fbi-hacked-again-hackers-target-worlds-top-investigating-agencys-crime-database-used-by-police-across-us/articleshow/136044594.cms",
+      "source": "The Economic Times",
+      "sourceType": "external",
+      "image": "https://img.etimg.com/thumb/msid-136044684,resizemode-4,width-1200,height-900,imgsize-144334,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-21T04:22:56.000Z",
+      "topic": "AI & Database",
+      "tags": [
+        "fbi hacking news",
+        "kash patel",
+        "us police database",
+        "national crime information center",
+        "fbi employee data breach",
+        "fbi hacked again"
       ],
       "priority": 37
     },
     {
-      "id": "0b18181070d9953d",
-      "slug": "you-can-outsource-the-work-not-the-ownership-9f26bc",
-      "title": "You Can Outsource the Work, Not the Ownership",
-      "dek": "Lessons from years of turning vendor engagements into long-term wins Recently, a colleague messaged me to say a project wasn't going well. We had brought in an outside consultant to build our disaster recovery failover plan, and the consultant didn't have the domain knowledge for our systems. The wo",
-      "url": "https://dev.to/pranay_raavi/you-can-outsource-the-work-not-the-ownership-4hef",
-      "source": "Dev Community",
+      "id": "69e2327ef48389a1",
+      "slug": "fbi-hacked-again-cyberattack-targets-national-crime-database-used-by-us-police-aeb21c",
+      "title": "FBI hacked again: Cyberattack targets national crime database used by US police",
+      "dek": "FBI hacked again: Cyberattack targets national crime database used by US police",
+      "url": "https://timesofindia.indiatimes.com/world/us/fbi-hacked-again-cyberattack-targets-national-crime-database-used-by-us-police/articleshow/136043879.cms",
+      "source": "The Times Of India",
       "sourceType": "external",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F6e77sbzgwrznfra8rqv5.png",
-      "publishedAt": "2026-11-20T04:59:17.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136043989/136043989.jpg",
+      "publishedAt": "2026-11-21T03:37:45.000Z",
+      "topic": "AI & Database",
       "tags": [
-        "leadership",
-        "database",
-        "career",
-        "devops"
+        "national crime information center",
+        "cybersecurity",
+        "data breach",
+        "fbi cyberattack",
+        "shinyhunters"
       ],
       "priority": 37
-    },
-    {
-      "id": "54237119fd6a1cc4",
-      "slug": "audience-analytics-market-gains-traction-as-businesses-prioritize-data-driven-marketing--e68ece",
-      "title": "Audience Analytics Market Gains Traction as Businesses Prioritize Data-Driven Marketing and Customer Insights",
-      "dek": "The Audience Analytics Market is part of a wider industry environment shaped by business activity, customer requirements, and changes in product or service demand. Polaris [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/11/19/1784319",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/logo.jpg",
-      "publishedAt": "2026-11-20T03:46:50.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "technology",
-        "audience analytics market size",
-        "audience analytics market opportunity",
-        "audience analytics market forecast",
-        "audience analytics market research",
-        "audience analytics market"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "218d87f0de4dd388",
-      "slug": "openai-releases-improved-live-dictation-in-chatgpt-releases-specialised-accounting-tool--0281ab",
-      "title": "OpenAI Releases Improved Live Dictation in ChatGPT; Releases Specialised Accounting Tool for AI Chatbot",
-      "dek": "OpenAI has announced multiple new tools and improvements in ChatGPT. The company has launched a new specialised tool for its AI chatbot, dubbed ChatGPT for Accounting. The tool aims to…",
-      "url": "https://www.swapupdate.in/openai-releases-improved-live-dictation-in-chatgpt-releases-specialised-accounting-tool-for-ai-chatbot/",
-      "source": "Swapupdate",
-      "sourceType": "external",
-      "image": "https://i.gadgets360cdn.com/large/apple_airpods_max_2_apple_thumb_1791524504418.jpg?downsize=90:68&output-quality=70",
-      "publishedAt": "2026-11-20T02:45:45.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "technology"
-      ],
-      "priority": 36
     },
     {
       "id": "d6a53992d5b9b644",
@@ -2010,6 +1838,171 @@
       "tags": [
         "Oracle Database",
         "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "7c3ad34d1ff092f6",
+      "slug": "blockchain-tables-a4f246",
+      "title": "Blockchain Tables",
+      "dek": "In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham kick off a new season with a deep dive into the latest features of Oracle Database 23ai. Joined by Bill Millar, a Senior Principal Database & MySQL Instructor, they explore the new enhancements to blockchain tabl",
+      "url": "https://oracleuniversitypodcast.libsyn.com/blockchain-tables",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-30T11:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Oracle Database",
+        "MySQL",
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ff92a6749fa996f7",
+      "slug": "database-essentials-027d69",
+      "title": "Database Essentials",
+      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Hope Fisher, Oracle's Product Manager for Database Technologies, as they break down the basics of databases, explore different database management systems, and delve into database development. Whether you're a newcomer or just need a refresher, ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-essentials",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-23T14:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "f046bd97147c0cf8",
+      "slug": "container-engine-for-kubernetes-security-practices-26ab8f",
+      "title": "Container Engine for Kubernetes: Security Practices",
+      "dek": "In the season's final episode, hosts Lois Houston and Nikita Abraham interview senior OCI instructor Mahendra Mehra about the security practices that are vital for OKE clusters on OCI. Mahendra shares his expert insights on the importance of Kubernetes security, especially in today's digital landsca",
+      "url": "https://oracleuniversitypodcast.libsyn.com/container-engine-for-kubernetes-security-practices",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP7.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-16T14:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "OCI",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "be8b92279cd0831f",
+      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
+      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-09T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "d38db88cd3fd3cc0",
+      "slug": "working-with-oke-virtual-nodes-f5a370",
+      "title": "Working with OKE Virtual Nodes",
+      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-02T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "bd401ec004db1755",
+      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
+      "title": "Introduction to OCI Container Engine for Kubernetes",
+      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-25T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "1d3aa287378f7e71",
+      "slug": "basics-of-kubernetes-23e26c",
+      "title": "Basics of Kubernetes",
+      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
+      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-18T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ec54bf5b81f570ed",
+      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
+      "title": "Oracle Cloud Infrastructure Registry",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-11T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "OCI",
+        "Oracle Cloud Infrastructure"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "6ba1bee89c8a91cc",
+      "slug": "what-is-containerization-0326f4",
+      "title": "What is Containerization?",
+      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-04T14:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "OCI",
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "b45e3d006fc93558",
+      "slug": "encore-episode-oci-ai-services-5e7f50",
+      "title": "Encore Episode: OCI AI Services",
+      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-28T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI",
+        "AI"
       ],
       "priority": 36
     }
