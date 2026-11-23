@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T00:31:16.301Z",
+  "generatedAt": "2026-11-23T00:58:56.747Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
@@ -39,141 +39,59 @@
       "priority": 46
     },
     {
-      "id": "85933f9081c492d2",
-      "slug": "world-governments-summit-dialogue-for-latin-america-and-the-caribbean-explores-stronger--b5658a",
-      "title": "World Governments Summit Dialogue for Latin America and the Caribbean explores stronger cooperation in shaping future",
-      "dek": "DUBAI/CAP CANA, 21st November, 2026 (WAM) -- Luis Abinader, President of the Dominican Republic, expressed his country's appreciation for the commitment of President His Highness Sheikh Mohamed bin Zayed Al Nahyan and His Highness Sheikh Mohammed bin Rashid Al Maktoum, Vice President, Prime Minister",
-      "url": "http://www.venezuelastar.com/news/279447072/world-governments-summit-dialogue-for-latin-america-and-the-caribbean-explores-stronger-cooperation-in-shaping-future",
-      "source": "Venezuelastar",
+      "id": "b8db7c57c08b0146",
+      "slug": "the-next-middle-east-power-struggle-is-over-internet-cables-data-and-ai-691755",
+      "title": "The next Middle East power struggle is over internet cables, data and AI",
+      "dek": "New communications corridors through Syria and Iraq are challenging Egypt's traditional dominance of data traffic between Asia and Europe. Israel could benefit from Google's Blue-Raman project, but geopolitical tensions threaten to leave it outside the region's emerging digital economy.",
+      "url": "https://www.calcalistech.com/ctechnews/article/9gn252lmc",
+      "source": "Calcalist Tech",
       "sourceType": "external",
-      "image": "https://assets.kreatio.net/story_logos/premeir/venezuela-star.jpg",
-      "publishedAt": "2026-11-21T12:05:10.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://pic1.calcalist.co.il/picserver3/crop_images/2026/11/17/HJgtmSTKCze/HJgtmSTKCze_0_0_3000_1688_0_large.jpg",
+      "publishedAt": "2026-11-22T12:49:30.000Z",
+      "topic": "Security",
       "tags": [
-        "supported by a committed government",
-        "inspired by emirati traditions of dialogue",
-        "luis abinader",
-        "vice president",
-        "experimentation",
-        "and lasha tabidze"
+        "saudi arabia",
+        "syria",
+        "internet",
+        "connectivity"
       ],
       "priority": 43
     },
     {
-      "id": "05e6c81d52458f20",
-      "slug": "trump-threatens-tax-on-overseas-data-centres-is-india-s-ai-push-at-risk-49736a",
-      "title": "Trump threatens tax on overseas data centres: Is India’s AI push at risk?",
-      "dek": "US president Donald Trump wants American technology companies to build AI data centres at home, not overseas, and has threatened a steep tax on those that do otherwise.",
-      "url": "https://www.financialexpress.com/world-news/trump-threatens-tax-on-us-firms-building-data-centres-abroad-could-indias-ai-ambitions-take-a-hit/4390559/",
-      "source": "Financial Express , Read To Lead",
+      "id": "f8ba44a70ab1a30d",
+      "slug": "oracle-corporation-orcl-stock-winslow-capital-management-llc-raises-stake-4c7977",
+      "title": "Oracle Corporation $ORCL Stock: Winslow Capital Management LLC Raises Stake",
+      "dek": "Winslow Capital Management LLC increased its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 17.6% during the 3rd quarter, HoldingsChannel reports. The firm owned 1,807,669 shares of the enterprise software provider’s stock after buying an additional 270,126 shares during the period. Winslo",
+      "url": "https://www.tickerreport.com/banking-finance/13669626/oracle-corporation-orcl-stock-winslow-capital-management-llc-raises-stake.html",
+      "source": "Ticker Report",
       "sourceType": "external",
-      "image": "https://images.financialexpressdigital.com/2026/11/trump-rating-post-midterms.jpg",
-      "publishedAt": "2026-11-21T10:44:15.000Z",
-      "topic": "Security",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-11-22T11:54:47.000Z",
+      "topic": "Business & Earnings",
       "tags": [
-        "india ai infrastructure",
-        "india data centre investment",
-        "us ai infrastructure",
-        "india data centre industry",
-        "us firms data centres india",
-        "trump ai policy"
+        "banking",
+        "sec filing articles"
       ],
       "priority": 42
     },
     {
-      "id": "633d85687f0e186c",
-      "slug": "nvidia-s-neocloud-empire-lost-its-biggest-champion-washington-may-have-dealt-a-bigger-bl-74e9d3",
-      "title": "Nvidia's neocloud empire lost its biggest champion. Washington may have dealt a bigger blow.",
-      "dek": "Nvidia's AI cloud partners face new challenges after Jensen Huang's exit, a China crackdown, and growing money troubles.",
-      "url": "https://www.businessinsider.com/nvidia-neocloud-empire-fresh-threat-china-crackdown-2026-11",
-      "source": "Insider",
+      "id": "8be2b16a93310922",
+      "slug": "notes-from-scraping-4-400-xero-quickbooks-zoho-netsuite-apps-over-plain-http-38mb-ram-225cc0",
+      "title": "Notes from scraping 4,400+ Xero, QuickBooks, Zoho & NetSuite apps over plain HTTP (38MB RAM)",
+      "dek": "Test run qUI9gTtRIHTWhqEbR on our new Oracle NetSuite SuiteApp actor finished today in 3 seconds and peaked at 38.1 MB of RAM (30.5 MB average). No Playwright, no Puppeteer, no residential proxy rotation. I've spent the past few days writing HTTP-only extractors for four accounting and ERP app direc",
+      "url": "https://dev.to/signalgridhq/notes-from-scraping-4400-xero-quickbooks-zoho-netsuite-apps-over-plain-http-38mb-ram-3l55",
+      "source": "Dev Community",
       "sourceType": "external",
-      "image": "https://i.insider.com/6b00ca5773f126f9eccb9260?format=jpeg",
-      "publishedAt": "2026-11-21T10:00:04.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fzjupe4tvnrmf1ns2c6rc.png",
+      "publishedAt": "2026-11-22T05:59:23.000Z",
+      "topic": "Applications & NetSuite",
       "tags": [
-        "limited-synd",
-        "tech",
-        "big-tech",
-        "beacon-industries-big-bet",
-        "data-centers",
-        "nvda"
+        "typescript",
+        "mcp",
+        "webdev",
+        "dataengineering"
       ],
-      "priority": 41
-    },
-    {
-      "id": "4b52794bcceaed1e",
-      "slug": "modern-industrials-raises-6m-in-seed-funding-round-b9148c",
-      "title": "Modern Industrials Raises $6M In Seed Funding Round",
-      "dek": "Modern Industrials raised $6 million in seed funding to expand its platform of custom AI agents that automate workflows for manufacturers and distributors. The post Modern Industrials Raises $6M In Seed Funding Round appeared first on Tech Company News.",
-      "url": "https://www.techcompanynews.com/modern-industrials-raises-6m-in-seed-funding-round/",
-      "source": "Tech Company News",
-      "sourceType": "external",
-      "image": "https://www.techcompanynews.com/wp-content/uploads/2026/11/modern-industrials-leadership.webp",
-      "publishedAt": "2026-11-21T09:00:31.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "custom ai agents",
-        "latest news",
-        "modern industrials",
-        "manufacturers"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "e8706ec36afc6616",
-      "slug": "is-nvidia-s-colette-kress-standing-on-a-glass-cliff-09b2cc",
-      "title": "Is Nvidia's Colette Kress standing on a glass cliff?",
-      "dek": "A founder-CEO of an all-important global AI company, with a rockstar persona, admits to an affair with an alleged spy. He is made to resign with the whole world watching and many powerful people rooting for his return, while waxing eloquent about why he is indispensable and irreplaceable. A signific",
-      "url": "https://invezz.com/news/2026/11/21/is-nvidias-colette-kress-standing-on-a-glass-cliff/",
-      "source": "Invezz",
-      "sourceType": "external",
-      "image": "https://invezz-wp-media.lon1.digitaloceanspaces.com/2026/11/image-94.png",
-      "publishedAt": "2026-11-21T09:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "tech"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "b6332ebf0b1543e7",
-      "slug": "amazon-google-microsoft-meta-and-oracle-the-5-companies-using-ai-the-most-as-spending-to-b1d0b6",
-      "title": "Amazon, Google, Microsoft, Meta and Oracle: The 5 Companies Using AI the Most as Spending Tops $700 Billion",
-      "dek": "Amazon, Alphabet, Microsoft, Meta and Oracle are leading an unprecedented AI investment surge, with combined capital spending expected to exceed $720 billion in 2026 amid investor concerns.",
-      "url": "https://www.ibtimes.com.au/big-tech-ai-spending-2026-amazon-google-microsoft-meta-oracle-1879059",
-      "source": "International Business Times",
-      "sourceType": "external",
-      "image": "https://d.ibtimes.com.au/en/full/204636/amazon.jpg?w=1600&h=900&q=88&f=71d9fcb1568bc1019a25697e55e17e67",
-      "publishedAt": "2026-11-21T07:37:43.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "ai investment 2026",
-        "jobs",
-        "ai"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "514b8f6707a37399",
-      "slug": "trump-vows-tax-on-big-tech-data-centers-built-overseas-1c3834",
-      "title": "Trump Vows Tax on Big Tech Data Centers Built Overseas",
-      "dek": "By Johnny Tango CBNC News President Donald Trump drew a hard line around the most important infrastructure of the artificial intelligence age on Friday, telling American tech companies that the data centers powering AI will be built on American soil or carry what he called a tremendous tax if they g",
-      "url": "https://cbnc.com/trump-vows-tax-big-tech-data-centers-built-overseas/",
-      "source": "Cbnc",
-      "sourceType": "external",
-      "image": "https://cbnc.com/wp-content/uploads/2026/11/Data-Center-Server-Vec-2.jpg",
-      "publishedAt": "2026-11-21T07:04:53.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "meta",
-        "donald trump",
-        "china",
-        "marco rubio",
-        "big tech",
-        "jd vance"
-      ],
-      "priority": 39
+      "priority": 38
     },
     {
       "id": "b56c7ec5fa854b41",
@@ -187,7 +105,7 @@
       "publishedAt": "2026-11-18T13:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [],
-      "priority": 39
+      "priority": 36
     },
     {
       "id": "e40c243057d99023",
@@ -201,101 +119,7 @@
       "publishedAt": "2026-11-18T13:00:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [],
-      "priority": 39
-    },
-    {
-      "id": "6378959bcb387d47",
-      "slug": "java4shell-security-flaw-explained-9-critical-things-users-and-businesses-should-know-80b5f2",
-      "title": "Java4Shell Security Flaw Explained: 9 Critical Things Users and Businesses Should Know",
-      "dek": "Java4Shell raises serious cybersecurity concerns. Discover affected Java versions, potential attack risks, Oracle's security response and essential precautions for users and businesses.",
-      "url": "https://www.analyticsinsight.net/ampstories/cybersecurity/java4shell-security-flaw-explained-9-critical-things-users-and-businesses-should-know",
-      "source": "Analytics And Insight",
-      "sourceType": "external",
-      "image": "https://media.assettype.com/analyticsinsight/2026-11-21/sgti7405/Java4Shell-Security-Flaw-Explained.jpg",
-      "publishedAt": "2026-11-21T05:25:50.000Z",
-      "topic": "Security",
-      "tags": [
-        "cybersecurity threats",
-        "openjdk security",
-        "java4shell vulnerability",
-        "java security flaw",
-        "oracle security updates"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "7230526ace25f162",
-      "slug": "breaking-fbi-s-national-crime-database-has-been-hacked-4836e3",
-      "title": "BREAKING: FBI’s National Crime Database Has Been Hacked",
-      "dek": "The FBI is investigating a suspected hack of its National Crime Information Center (NCIC) database, the nationwide system that federal, state, and local law enforcement agencies use to share information on warrants, criminal histories, background checks, and other critical justice data. The post BRE",
-      "url": "https://www.thegatewaypundit.com/2026/11/breaking-fbis-national-crime-database-hacked/",
-      "source": "Thegatewaypundit",
-      "sourceType": "external",
-      "image": "https://www.thegatewaypundit.com/wp-content/uploads/2025/10/27266950170_440b138e11_c-1200x630.jpg",
-      "publishedAt": "2026-11-21T05:00:17.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "law enforcement",
-        "shinyhunters",
-        "russia",
-        "news"
-      ],
-      "priority": 38
-    },
-    {
-      "id": "1c725523f2be495a",
-      "slug": "fbi-hacked-for-second-time-in-months-crime-database-breached-63253f",
-      "title": "FBI hacked for second time in months, crime database breached",
-      "dek": "The Federal Bureau of Investigation (FBI) is looking into a possible breach of its National Crime Information Center (NCIC) database.",
-      "url": "https://www.newsbytesapp.com/news/science/fbi-probing-possible-hack-of-national-crime-database/story",
-      "source": "Newsbytes",
-      "sourceType": "external",
-      "image": "https://i.cdn.newsbytesapp.com/images/l26720261121095758.jpg",
-      "publishedAt": "2026-11-21T04:36:48.000Z",
-      "topic": "Security",
-      "tags": [],
-      "priority": 37
-    },
-    {
-      "id": "671c0759fcdef39f",
-      "slug": "fbi-hacked-again-hackers-target-world-s-top-investigating-agency-s-crime-database-used-b-9fd137",
-      "title": "FBI hacked again: Hackers target world's top investigating agency's crime database used by police across US",
-      "dek": "The FBI is investigating a fresh cyberattack targeting its National Crime Information Center (NCIC), a database used by police agencies across the US to access criminal records, arrest warrants and background information. The suspected intrusion comes just months after hackers claimed to have stolen",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/fbi-hacked-again-hackers-target-worlds-top-investigating-agencys-crime-database-used-by-police-across-us/articleshow/136044594.cms",
-      "source": "The Economic Times",
-      "sourceType": "external",
-      "image": "https://img.etimg.com/thumb/msid-136044684,resizemode-4,width-1200,height-900,imgsize-144334,overlay-economictimes/articleshow.jpg",
-      "publishedAt": "2026-11-21T04:22:56.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "fbi hacking news",
-        "kash patel",
-        "us police database",
-        "national crime information center",
-        "fbi employee data breach",
-        "fbi hacked again"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "69e2327ef48389a1",
-      "slug": "fbi-hacked-again-cyberattack-targets-national-crime-database-used-by-us-police-aeb21c",
-      "title": "FBI hacked again: Cyberattack targets national crime database used by US police",
-      "dek": "FBI hacked again: Cyberattack targets national crime database used by US police",
-      "url": "https://timesofindia.indiatimes.com/world/us/fbi-hacked-again-cyberattack-targets-national-crime-database-used-by-us-police/articleshow/136043879.cms",
-      "source": "The Times Of India",
-      "sourceType": "external",
-      "image": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-136043989/136043989.jpg",
-      "publishedAt": "2026-11-21T03:37:45.000Z",
-      "topic": "AI & Database",
-      "tags": [
-        "national crime information center",
-        "cybersecurity",
-        "data breach",
-        "fbi cyberattack",
-        "shinyhunters"
-      ],
-      "priority": 37
+      "priority": 36
     },
     {
       "id": "d6a53992d5b9b644",
@@ -2004,6 +1828,143 @@
         "OCI",
         "AI"
       ],
+      "priority": 36
+    },
+    {
+      "id": "57fe9154d1531745",
+      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
+      "title": "Encore Episode: Generative AI and Large Language Models",
+      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-14T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "60d141d1ef069450",
+      "slug": "encore-episode-deep-learning-fe981b",
+      "title": "Encore Episode: Deep Learning",
+      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-07T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "311a8fe7e2892283",
+      "slug": "encore-episode-machine-learning-ee26a4",
+      "title": "Encore Episode: Machine Learning",
+      "dek": "Does machine learning feel like too convoluted a topic? Not anymore! Listen to hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Hemant Gahankari, talk about foundational machine learning concepts and dive into how supervised learning, unsupervised learning, and reinf",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-machine-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-30T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "4589098868999fde",
+      "slug": "encore-episode-introduction-to-artificial-intelligence-ai-9e755a",
+      "title": "Encore Episode: Introduction to Artificial Intelligence (AI)",
+      "dek": "You probably interact with artificial intelligence (AI) more than you realize. So, there's never been a better time to start figuring out how it all works. Join Lois Houston and Nikita Abraham as they decode the fundamentals of AI so that anyone, irrespective of their technical background, can lever",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-introduction-to-artificial-intelligence-ai",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-23T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ba70f7a05b875a4b",
+      "slug": "using-ords-to-make-your-adb-data-available-in-vbs-061acb",
+      "title": "Using ORDS to Make Your ADB Data Available in VBS",
+      "dek": "Visual Builder Studio requires its data sources to connect to the webpage it produces using REST calls. Therefore, the data source has to provide a REST interface. A simple, easy, secure, and free way to do that is with Oracle REST Data Services (ORDS). In this episode, hosts Lois Houston and Nikita",
+      "url": "https://oracleuniversitypodcast.libsyn.com/using-ords-to-make-your-adb-data-available-in-vbs",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-16T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "967d33e1489de57e",
+      "slug": "forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today-f03edc",
+      "title": "Forgotten, But Not Gone: How Model-Based Development Is Still Alive and Well Today",
+      "dek": "Computer Aided Software Engineering (CASE) tools, which helped make the analysis, design, and implementation phases of software development better, faster, and cheaper, fell out of favor in the mid-'90s. Yet much of what they have to offer remains and is in active use within different Oracle tools. ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/-forgotten-but-not-gone-how-model-based-development-is-still-alive-and-well-today",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-09T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "513c87bee83d2547",
+      "slug": "developing-redwood-applications-86e984",
+      "title": "Developing Redwood Applications",
+      "dek": "Redwood is a state-of-the-art graphical interface that defines the look and feel of the new Oracle Cloud Redwood Applications. In this episode, hosts Lois Houston and Nikita Abraham, along with Senior Principal OCI Instructor Joe Greenwald, take a closer look at the intent behind the design and deve",
+      "url": "https://oracleuniversitypodcast.libsyn.com/developing-redwood-applications",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-04-02T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "0bc5f5b9fa209155",
+      "slug": "preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio-23f876",
+      "title": "Preparing to Extend Oracle Fusion Apps Using Visual Builder Studio",
+      "dek": "What do you need to start customizing the next generation of Oracle Fusion Apps? How do you create new pages for business processes? What level of expertise do you require for this? Join Lois Houston and Nikita Abraham as they get answers to all these questions and more from Senior Principal OCI Ins",
+      "url": "https://oracleuniversitypodcast.libsyn.com/preparing-to-extend-oracle-fusion-apps-using-visual-builder-studio",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-03-26T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ced28242d290626e",
+      "slug": "introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-alone-and-jet-05c689",
+      "title": "Introduction to Visual Builder Studio, Visual Builder Cloud Service, Stand-Alone, and JET",
+      "dek": "The next generation of front-end user interfaces for Oracle Fusion Applications is being built using Visual Builder Studio and Oracle JavaScript Extension Toolkit. However, many of the terms associated with these tools can be confusing. In this episode, Lois Houston and Nikita Abraham are joined by ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-visual-builder-studio-visual-builder-cloud-service-stand-alone-and-jet",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S07_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-03-19T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [],
       "priority": 36
     }
   ]
