@@ -6,7 +6,7 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Nov 2026 03:36:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 02:56:47 GMT</lastBuildDate>
     
     <item>
       <title>Oracle Sets the Date for its First Quarter Fiscal Year 2027 Earnings Announcement</title>
@@ -27,292 +27,220 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-Fourth-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>Three insights you may have missed from theCUBE’s coverage of NetApp INSIGHT</title>
-      <link>https://oracle-university.com/stories/three-insights-you-may-have-missed-from-thecube-s-coverage-of-netapp-insight-729714/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/three-insights-you-may-have-missed-from-thecube-s-coverage-of-netapp-insight-729714/</guid>
-      <pubDate>Tue, 24 Nov 2026 15:23:10 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Intelligent data infrastructure is becoming a priority as enterprises move artificial intelligence beyond isolated pilots and into production environments. The shift places new demands on storage systems built to support traditional applications, especially as organizations introduce AI workloads ac</description>
-      <source url="https://siliconangle.com/2026/11/24/three-insights-you-may-have-missed-from-thecubes-coverage-of-netapp-insight/">Siliconangle</source>
+      <title>Anthropic Sinks 8%, Falls Further Below IPO Price Despite Cathie Wood Buying the Dip; IREN Tumbles 11%, CoreWeave Retreats 10%</title>
+      <link>https://oracle-university.com/stories/anthropic-sinks-8-falls-further-below-ipo-price-despite-cathie-wood-buying-the-dip-iren--d61e76/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/anthropic-sinks-8-falls-further-below-ipo-price-despite-cathie-wood-buying-the-dip-iren--d61e76/</guid>
+      <pubDate>Wed, 25 Nov 2026 14:54:11 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Cathie Wood has bought Anthropic every single day since the IPO, yet Jim Cramer says nobody large is on the other side. With inflation climbing and AI infrastructure names buckling, who is left to catch the fall?</description>
+      <source url="https://247wallst.com/investing/2026/11/25/anthropic-sinks-8-falls-further-below-ipo-price-despite-cathie-wood-buying-the-dip-iren-tumbles-11-coreweave-retreats-10/">24/7 Wall St</source>
     </item>
     <item>
-      <title>HP Enterprise (HPE) Q4 2026 Earnings Call Transcript</title>
-      <link>https://oracle-university.com/stories/hp-enterprise-hpe-q4-2026-earnings-call-transcript-7c7ffd/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/hp-enterprise-hpe-q4-2026-earnings-call-transcript-7c7ffd/</guid>
-      <pubDate>Tue, 24 Nov 2026 15:11:10 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>AI orders surged and Juniper integration ran ahead of plan in fiscal Q4.</description>
-      <source url="https://www.fool.com/earnings/call-transcripts/2026/11/24/hp-enterprise-hpe-q4-2026-earnings-call-transcript/">Fool</source>
-    </item>
-    <item>
-      <title>AI-Assisted Research Accelerating Security Flaw Discovery, Software Updates</title>
-      <link>https://oracle-university.com/stories/ai-assisted-research-accelerating-security-flaw-discovery-software-updates-b19272/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-assisted-research-accelerating-security-flaw-discovery-software-updates-b19272/</guid>
-      <pubDate>Tue, 24 Nov 2026 15:02:52 GMT</pubDate>
+      <title>Global Risk Analysis Management Market Report 2026: Size, Share, Trends, and Forecast to 2030 | Capitalize on AI and Real-Time Risk with Microsoft, IBM, Oracle, SAP, and ServiceNow</title>
+      <link>https://oracle-university.com/stories/global-risk-analysis-management-market-report-2026-size-share-trends-and-forecast-to-203-9364e4/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/global-risk-analysis-management-market-report-2026-size-share-trends-and-forecast-to-203-9364e4/</guid>
+      <pubDate>Wed, 25 Nov 2026 14:27:00 GMT</pubDate>
       <category>Security</category>
-      <description>The maintainers of popular open source programming languages are rapidly rolling out security patches for vulnerabilities that could be exploited by threat actors for remote code execution (RCE). Those behind Ruby, PHP, and Java combined released more than 100 fixes for a wide range of flaws, includ</description>
-      <source url="https://devops.com/ai-assisted-research-accelerating-security-flaw-discovery-software-updates">Devops</source>
+      <description>Boost ROI with AI-driven risk detection, real-time monitoring, integrated governance, proactive resilience planning, regulatory reporting and third-party risk visibility.</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/11/25/3410277/28124/en/global-risk-analysis-management-market-report-2026-size-share-trends-and-forecast-to-2030-capitalize-on-ai-and-real-time-risk-with-microsoft-ibm-oracle-sap-and-servicenow.html">Globenewswire_fr</source>
     </item>
     <item>
-      <title>500 Blog Posts To Learn About Blockchain</title>
-      <link>https://oracle-university.com/stories/500-blog-posts-to-learn-about-blockchain-934c33/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/500-blog-posts-to-learn-about-blockchain-934c33/</guid>
-      <pubDate>Tue, 24 Nov 2026 15:02:26 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Learn everything you need to know about Blockchain via these 500 free HackerNoon blog posts.</description>
-      <source url="https://hackernoon.com/500-blog-posts-to-learn-about-blockchain">Hackernoon</source>
-    </item>
-    <item>
-      <title>The IEC Group Announces Payroll ELITE 2027 and Names 25 Selected Providers</title>
-      <link>https://oracle-university.com/stories/the-iec-group-announces-payroll-elite-2027-and-names-25-selected-providers-bd52f3/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-iec-group-announces-payroll-elite-2027-and-names-25-selected-providers-bd52f3/</guid>
-      <pubDate>Tue, 24 Nov 2026 15:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Global research maps four transformation models and forecasts payroll software could reach $26.1 billion by 2034 under a sustained-growth scenario.</description>
-      <source url="https://www.einpresswire.com/article/958358314/the-iec-group-announces-payroll-elite-2027-and-names-25-selected-providers">Ein Presswire</source>
-    </item>
-    <item>
-      <title>Hewlett Packard Enterprise Q4 Earnings Call Highlights</title>
-      <link>https://oracle-university.com/stories/hewlett-packard-enterprise-q4-earnings-call-highlights-fa3882/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/hewlett-packard-enterprise-q4-earnings-call-highlights-fa3882/</guid>
-      <pubDate>Tue, 24 Nov 2026 14:48:41 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Hewlett Packard Enterprise (NYSE:HPE) reported fiscal fourth-quarter revenue of $14.5 billion, up 50% from a year earlier, as orders surged and demand for artificial intelligence infrastructure and networking equipment expanded its backlog. The company said fourth-quarter adjusted earnings were $1.4</description>
-      <source url="https://www.themarketsdaily.com/2026/11/24/hewlett-packard-enterprise-q4-earnings-call-highlights.html">Markets Daily</source>
-    </item>
-    <item>
-      <title>Top Hybrid Cloud Infrastructure Platforms for 2027: Enterprise Customers, Deployment Costs, AI Readiness and ROI Compared</title>
-      <link>https://oracle-university.com/stories/top-hybrid-cloud-infrastructure-platforms-for-2027-enterprise-customers-deployment-costs-0244c7/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-hybrid-cloud-infrastructure-platforms-for-2027-enterprise-customers-deployment-costs-0244c7/</guid>
-      <pubDate>Tue, 24 Nov 2026 14:43:49 GMT</pubDate>
+      <title>Canada Data Center Market - Investment Analysis and Growth Opportunities 2026-2031 | AI-Ready Capacity, Cloud Demand, and Sustainable Infrastructure Drive 12.75% CAGR</title>
+      <link>https://oracle-university.com/stories/canada-data-center-market-investment-analysis-and-growth-opportunities-2026-2031-ai-read-06f0e2/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/canada-data-center-market-investment-analysis-and-growth-opportunities-2026-2031-ai-read-06f0e2/</guid>
+      <pubDate>Wed, 25 Nov 2026 14:01:00 GMT</pubDate>
       <category>Oracle Cloud</category>
-      <description>Hybrid cloud infrastructure investment will focus on reducing virtualization costs, deploying artificial intelligence (AI) within private data centers</description>
-      <source url="https://infotechlead.com/data-center/top-hybrid-cloud-infrastructure-platforms-for-2027-enterprise-customers-deployment-costs-ai-readiness-and-roi-compared-99851">Infotech Lead</source>
+      <description>AI-ready expansion, energy-efficient infrastructure, renewable power, advanced cooling, cloud growth, and digital sovereignty shape Canada’s data center investment strategy.</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/11/25/3410233/28124/en/canada-data-center-market-investment-analysis-and-growth-opportunities-2026-2031-ai-ready-capacity-cloud-demand-and-sustainable-infrastructure-drive-12-75-cagr.html">Globenewswire_fr</source>
     </item>
     <item>
-      <title>Global Workflow Market Size, Trends, and Forecast Report 2026 | Capitalize on 22.5% CAGR as IBM, Oracle, SAP, ServiceNow, and Appian Accelerate AI and Cloud Automation Through 2030</title>
-      <link>https://oracle-university.com/stories/global-workflow-market-size-trends-and-forecast-report-2026-capitalize-on-22-5-cagr-as-i-54165f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/global-workflow-market-size-trends-and-forecast-report-2026-capitalize-on-22-5-cagr-as-i-54165f/</guid>
-      <pubDate>Tue, 24 Nov 2026 14:34:00 GMT</pubDate>
+      <title>Check Point security management servers hit in global cyberattack campaign</title>
+      <link>https://oracle-university.com/stories/check-point-security-management-servers-hit-in-global-cyberattack-campaign-d246b7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/check-point-security-management-servers-hit-in-global-cyberattack-campaign-d246b7/</guid>
+      <pubDate>Wed, 25 Nov 2026 13:09:29 GMT</pubDate>
+      <category>Security</category>
+      <description>GreyNoise observed 24 compromised Check Point security management servers across 22 organizations in 17 countries, with attackers using 99 IP addresses for scanning and exploitation.</description>
+      <source url="https://www.csoonline.com/article/4253068/check-point-security-management-servers-hit-in-global-cyberattack-campaign.html">Chief Security Officer Online</source>
+    </item>
+    <item>
+      <title>AI needs $4.2 trillion in new revenue. Which industries could create it?</title>
+      <link>https://oracle-university.com/stories/ai-needs-4-2-trillion-in-new-revenue-which-industries-could-create-it-9eabd2/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-needs-4-2-trillion-in-new-revenue-which-industries-could-create-it-9eabd2/</guid>
+      <pubDate>Wed, 25 Nov 2026 13:08:58 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>The billions flowing into chips, data centers, networks, and power systems have focused attention on the challenge of the AI buildout. But the more important question, according to Bain &amp; Company’s Technology Report 2026, may be whether that buildout will produce economic value to justify it. How mu</description>
+      <source url="https://www.cio.com/article/4251589/ai-needs-4-2-trillion-in-new-revenue-which-industries-could-create-it.html">Cio</source>
+    </item>
+    <item>
+      <title>AI stock rout deepens, with Anthropic hitting $74</title>
+      <link>https://oracle-university.com/stories/ai-stock-rout-deepens-with-anthropic-hitting-74-2af409/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-stock-rout-deepens-with-anthropic-hitting-74-2af409/</guid>
+      <pubDate>Wed, 25 Nov 2026 12:17:08 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Nov 25 : AI-linked stocks were hammered for a second straight day on Wednesday, with investor concern about rising costs and forbidding debt dynamics sending the shares of many of the industry&#39;s largest players tumbling to fresh 52-week lows. AI lab Anthropic traded as low as $73.85 shortly after th</description>
+      <source url="https://www.channelnewsasia.com/business/ai-stock-rout-deepens-anthropic-hitting-74-6581691">Channel Newsasia</source>
+    </item>
+    <item>
+      <title>AI stock rout deepens but damage is limited by afternoon bounce</title>
+      <link>https://oracle-university.com/stories/ai-stock-rout-deepens-but-damage-is-limited-by-afternoon-bounce-894ec7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-stock-rout-deepens-but-damage-is-limited-by-afternoon-bounce-894ec7/</guid>
+      <pubDate>Wed, 25 Nov 2026 12:17:08 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Nov 25 : AI-linked stocks plunged early on Wednesday but staged an afternoon comeback, the latest autumn clash pitting investor concern about rising costs and forbidding debt dynamics against strong buying interest given the steep decline in prices. AI lab Anthropic traded as low as $73.85 shortly a</description>
+      <source url="https://www.channelnewsasia.com/business/ai-stock-rout-deepens-damage-limited-afternoon-bounce-6581691">Channel Newsasia</source>
+    </item>
+    <item>
+      <title>Oracle Corporation $ORCL Stock Holdings Raised by Pathstone Holdings LLC</title>
+      <link>https://oracle-university.com/stories/oracle-corporation-orcl-stock-holdings-raised-by-pathstone-holdings-llc-9a8cb6/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-stock-holdings-raised-by-pathstone-holdings-llc-9a8cb6/</guid>
+      <pubDate>Wed, 25 Nov 2026 11:44:38 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Pathstone Holdings LLC lifted its position in shares of Oracle Corporation (NYSE:ORCL - Free Report) by 3.6% in the 3rd quarter, according to its most recent Form 13F filing with the Securities &amp; Exchange Commission. The institutional investor owned 359,104 shares of the enterprise software prov</description>
+      <source url="https://www.marketbeat.com/instant-alerts/filing-oracle-corporation-orcl-stock-holdings-raised-by-pathstone-holdings-llc-2026-11-25/">Market Beat</source>
+    </item>
+    <item>
+      <title>From SAP ECC 6.0 to SAP Cloud ERP: Data Migration via Remote HANA Cloud DB (incl. SDI)</title>
+      <link>https://oracle-university.com/stories/from-sap-ecc-6-0-to-sap-cloud-erp-data-migration-via-remote-hana-cloud-db-incl-sdi-305892/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/from-sap-ecc-6-0-to-sap-cloud-erp-data-migration-via-remote-hana-cloud-db-incl-sdi-305892/</guid>
+      <pubDate>Wed, 25 Nov 2026 11:18:49 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>For typical SAP Public Cloud ERP greenfield implementations at small and mid-sized companies without a legacy SAP footprint, the answer is straightforward. SAP&#39;s file-based staging approach is well-documented, broadly supported by accelerators, and works well: prepare data in XML or CSV templates, u</description>
+      <source url="https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/from-sap-ecc-6-0-to-sap-cloud-erp-data-migration-via-remote-hana-cloud-db/ba-p/14520751">Sap</source>
+    </item>
+    <item>
+      <title>VAST Data Launches VAST Takeoff Program to Support Emerging AI Cloud Providers</title>
+      <link>https://oracle-university.com/stories/vast-data-launches-vast-takeoff-program-to-support-emerging-ai-cloud-providers-151f07/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/vast-data-launches-vast-takeoff-program-to-support-emerging-ai-cloud-providers-151f07/</guid>
+      <pubDate>Wed, 25 Nov 2026 11:17:06 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>IBM, Oracle, SAP, ServiceNow and Zoho are profiled as leading workflow vendors offering automation, orchestration, BPM, integration, analytics and managed services.</description>
-      <source url="https://www.globenewswire.com/fr/news-release/2026/11/24/3409405/28124/en/global-workflow-market-size-trends-and-forecast-report-2026-capitalize-on-22-5-cagr-as-ibm-oracle-sap-servicenow-and-appian-accelerate-ai-and-cloud-automation-through-2030.html">Globenewswire_fr</source>
+      <description>VAST Data announced VAST Takeoff on November 24, 2026, a global program for new and established AI cloud providers to build cloud offerings and data services. Qualifying AI cloud providers receive free access to the full VAST AI Operating System (AI OS) software with entitlements ranging from 5 peta</description>
+      <source url="https://itdigest.com/cloud-computing-mobility/vast-data-launches-vast-takeoff-program-to-support-emerging-ai-cloud-providers/">Itdigest</source>
     </item>
     <item>
-      <title>Global Career Development Software Market 2026: Size, Trends, and Forecast to 2030 | Capitalize on AI, Cloud, and Internal Mobility with Oracle, SAP, Workday, and Eightfold AI</title>
-      <link>https://oracle-university.com/stories/global-career-development-software-market-2026-size-trends-and-forecast-to-2030-capitali-4c404d/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/global-career-development-software-market-2026-size-trends-and-forecast-to-2030-capitali-4c404d/</guid>
-      <pubDate>Tue, 24 Nov 2026 14:32:00 GMT</pubDate>
+      <title>Madhurima Kommuru: From Demo to Production—The Hidden Challenges of Enterprise AI Agents Using LangGraph4j, Spring AI, and MCP</title>
+      <link>https://oracle-university.com/stories/madhurima-kommuru-from-demo-to-production-the-hidden-challenges-of-enterprise-ai-agents--19574f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/madhurima-kommuru-from-demo-to-production-the-hidden-challenges-of-enterprise-ai-agents--19574f/</guid>
+      <pubDate>Wed, 25 Nov 2026 10:56:58 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Enterprise interest in AI agents has moved well past the proof-of-concept stage, but a much harder problem is only now coming into focus: what happens when a promising demo has to survive real production traffic, real compliance requirements, and real operational scrutiny? We sat down with… Read the</description>
+      <source url="https://techbullion.com/madhurima-kommuru-from-demo-to-production-the-hidden-challenges-of-enterprise-ai-agents-using-langgraph4j-spring-ai-and-mcp/">Techbullion</source>
+    </item>
+    <item>
+      <title>Top GPU Cloud Providers in 2026: AWS, Microsoft Azure, Google Cloud, CoreWeave and Nebius Drive Enterprise AI Growth</title>
+      <link>https://oracle-university.com/stories/top-gpu-cloud-providers-in-2026-aws-microsoft-azure-google-cloud-coreweave-and-nebius-dr-00a96d/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/top-gpu-cloud-providers-in-2026-aws-microsoft-azure-google-cloud-coreweave-and-nebius-dr-00a96d/</guid>
+      <pubDate>Wed, 25 Nov 2026 10:33:39 GMT</pubDate>
       <category>Training &amp; Certification</category>
-      <description>Leading players: Oracle, SAP, Workday, Lattice and Coursera. Profiles cover software offerings, market segments, trends, regional presence and competitive share.</description>
-      <source url="https://www.globenewswire.com/fr/news-release/2026/11/24/3409403/28124/en/global-career-development-software-market-2026-size-trends-and-forecast-to-2030-capitalize-on-ai-cloud-and-internal-mobility-with-oracle-sap-workday-and-eightfold-ai.html">Globenewswire_fr</source>
+      <description>The GPU cloud market is expanding as enterprises invest in generative AI, agentic AI, foundation-model training and real-time inference</description>
+      <source url="https://infotechlead.com/cloud/top-gpu-cloud-providers-in-2026-aws-microsoft-azure-google-cloud-coreweave-and-nebius-drive-enterprise-ai-growth-99871">Infotech Lead</source>
     </item>
     <item>
-      <title>Prediction: Oracle Stock Will Soar in 2027</title>
-      <link>https://oracle-university.com/stories/prediction-oracle-stock-will-soar-in-2027-faca73/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/prediction-oracle-stock-will-soar-in-2027-faca73/</guid>
-      <pubDate>Tue, 24 Nov 2026 14:15:02 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Oracle could make a big comeback next year, driven by potential improvements in earnings growth and free cash flow.</description>
-      <source url="https://www.fool.com/investing/2026/11/24/prediction-oracle-stock-will-soar-in-2027/">Fool</source>
-    </item>
-    <item>
-      <title>AWS nabs Salesforce agent architect for storage VP role</title>
-      <link>https://oracle-university.com/stories/aws-nabs-salesforce-agent-architect-for-storage-vp-role-a1ab79/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/aws-nabs-salesforce-agent-architect-for-storage-vp-role-a1ab79/</guid>
-      <pubDate>Tue, 24 Nov 2026 13:36:15 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>CEO Matt Garman hails AI agent data push as Muralidhar Krishnaprasad joins cloud giant</description>
-      <source url="https://www.sdxcentral.com/news/aws-nabs-salesforce-agent-architect-for-storage-vp-role/">Sdxcentral</source>
-    </item>
-    <item>
-      <title>Small businesses are sitting on a cybersecurity time bomb</title>
-      <link>https://oracle-university.com/stories/small-businesses-are-sitting-on-a-cybersecurity-time-bomb-49c4a9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/small-businesses-are-sitting-on-a-cybersecurity-time-bomb-49c4a9/</guid>
-      <pubDate>Tue, 24 Nov 2026 13:17:00 GMT</pubDate>
-      <category>Security</category>
-      <description>Small businesses are running security audits and doing nothing with the results. Here&#39;s what stays exposed when the list sits in a folder and nobody acts on it.</description>
-      <source url="https://www.thestreet.com/technology/small-businesses-sitting-on-cybersecurity-time-bomb-security-audits">Thestreet</source>
-    </item>
-    <item>
-      <title>Huang vows to be ‘a better CEO’ after Nvidia return</title>
-      <link>https://oracle-university.com/stories/huang-vows-to-be-a-better-ceo-after-nvidia-return-bdf203/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/huang-vows-to-be-a-better-ceo-after-nvidia-return-bdf203/</guid>
-      <pubDate>Tue, 24 Nov 2026 12:49:38 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>Jensen Huang made a triumphant return to Nvidia’s Santa Clara, California, headquarters on Monday, less than two weeks after he resigned as CEO following revelations of extramarital affairs. “I’d be a better CEO the second time around,” the 63-year-old, clad in his trademark black leather jacket, to</description>
-      <source url="https://cyprus-mail.com/2026/11/24/huang-vows-to-be-a-better-ceo-after-nvidia-return">Cyprus Mail</source>
-    </item>
-    <item>
-      <title>Mapping the Military Artificial Intelligence Industry: Actors, Influence and Policymaking</title>
-      <link>https://oracle-university.com/stories/mapping-the-military-artificial-intelligence-industry-actors-influence-and-policymaking-2d09ce/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/mapping-the-military-artificial-intelligence-industry-actors-influence-and-policymaking-2d09ce/</guid>
-      <pubDate>Tue, 24 Nov 2026 12:45:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.sipri.org/publications/2026/other-publications/mapping-military-artificial-intelligence-industry-actors-influence-and-policymaking">Sipri</source>
-    </item>
-    <item>
-      <title>CrowdStrike faced slim pickings with its network security ambitions</title>
-      <link>https://oracle-university.com/stories/crowdstrike-faced-slim-pickings-with-its-network-security-ambitions-b77ca2/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/crowdstrike-faced-slim-pickings-with-its-network-security-ambitions-b77ca2/</guid>
-      <pubDate>Tue, 24 Nov 2026 11:50:21 GMT</pubDate>
-      <category>Security</category>
-      <description>The Zscaler acquisition could prove mutually beneficial for both parties, but customers may have concerns moving forward</description>
-      <source url="https://www.itpro.com/business/acquisition/zscaler-was-the-biggest-network-asset-still-for-sale-crowdstrike-faced-slim-pickings-with-its-network-security-ambitions-and-zscaler-was-ripe-for-the-taking">Itpro</source>
-    </item>
-    <item>
-      <title>Oracle Corporation $ORCL Stock: State Board of Administration of Florida Retirement System Grows Position</title>
-      <link>https://oracle-university.com/stories/oracle-corporation-orcl-stock-state-board-of-administration-of-florida-retirement-system-d3f1ab/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-stock-state-board-of-administration-of-florida-retirement-system-d3f1ab/</guid>
-      <pubDate>Tue, 24 Nov 2026 11:12:42 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>State Board of Administration of Florida Retirement System raised its stake in Oracle Corporation (NYSE:ORCL - Free Report) by 6.3% during the third quarter, according to the company in its most recent 13F filing with the Securities &amp; Exchange Commission. The fund owned 1,570,565 shares of the e</description>
-      <source url="https://www.marketbeat.com/instant-alerts/filing-oracle-corporation-orcl-stock-state-board-of-administration-of-florida-retirement-system-grows-position-2026-11-24/">Market Beat</source>
-    </item>
-    <item>
-      <title>From APIs to Systems: What It Takes to Build Backends That Serve Millions in Real Time</title>
-      <link>https://oracle-university.com/stories/from-apis-to-systems-what-it-takes-to-build-backends-that-serve-millions-in-real-time-3b4fd7/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/from-apis-to-systems-what-it-takes-to-build-backends-that-serve-millions-in-real-time-3b4fd7/</guid>
-      <pubDate>Tue, 24 Nov 2026 10:50:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Explore how Yahoo engineer Abhishek Shukla builds reliable backends using idempotency, retries and AI agent safeguards.</description>
-      <source url="https://www.analyticsinsight.net/interview/from-apis-to-systems-what-it-takes-to-build-backends-that-serve-millions-in-real-time">Analytics And Insight</source>
-    </item>
-    <item>
-      <title>Defence Holdings Plc - Defence Holdings Secures MoD Contract Extension and Reports Accelerating Commercial Momentum</title>
-      <link>https://oracle-university.com/stories/defence-holdings-plc-defence-holdings-secures-mod-contract-extension-and-reports-acceler-9c40f5/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/defence-holdings-plc-defence-holdings-secures-mod-contract-extension-and-reports-acceler-9c40f5/</guid>
-      <pubDate>Tue, 24 Nov 2026 10:36:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Defence Holdings Plc - Defence Holdings Secures MoD Contract Extension and Reports Accelerating Commercial MomentumPR NewswireLONDON, United Kingdom, November 24 This announcement contains inside i...</description>
-      <source url="https://www.finanznachrichten.de/nachrichten-2026-11/70213974-defence-holdings-plc-defence-holdings-secures-mod-contract-extension-and-reports-accelerating-commercial-momentum-008.htm">Finanznachrichten.de</source>
-    </item>
-    <item>
-      <title>NetSuite Accounting Software – Everything you need to Know</title>
-      <link>https://oracle-university.com/stories/netsuite-accounting-software-everything-you-need-to-know-471d9c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/netsuite-accounting-software-everything-you-need-to-know-471d9c/</guid>
-      <pubDate>Tue, 24 Nov 2026 10:26:17 GMT</pubDate>
+      <title>Agentic AI Market to Reach USD 211.99 Billion by 2035 as 88% of Enterprises Use or Test AI Agents, Accelerating Autonomous Workflow Adoption</title>
+      <link>https://oracle-university.com/stories/agentic-ai-market-to-reach-usd-211-99-billion-by-2035-as-88-of-enterprises-use-or-test-a-a2646f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/agentic-ai-market-to-reach-usd-211-99-billion-by-2035-as-88-of-enterprises-use-or-test-a-a2646f/</guid>
+      <pubDate>Wed, 25 Nov 2026 10:11:20 GMT</pubDate>
       <category>Applications &amp; NetSuite</category>
-      <description>Discover how NetSuite accounting software manages business finances, tracks transactions, and simplifies daily accounting tasks.</description>
-      <source url="https://entri.app/blog/netsuite-accounting-software/">Entri</source>
+      <description>Enterprise adoption of agentic AI is moving beyond experimentation, with 88% of enterprise leaders reporting that their organizations are using or testing AI agents in 2026, compared with 72% in 2025, according to Zapier&#39;s November 2026 survey. More significantly, AI</description>
+      <source url="https://www.openpr.com/news/4699839/agentic-ai-market-to-reach-usd-211-99-billion-by-2035-as-88">Openpr.com</source>
     </item>
     <item>
-      <title>Best 10 HRIS Software in India 2026: Top Options for Indian Businesses</title>
-      <link>https://oracle-university.com/stories/best-10-hris-software-in-india-2026-top-options-for-indian-businesses-aa20f0/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/best-10-hris-software-in-india-2026-top-options-for-indian-businesses-aa20f0/</guid>
-      <pubDate>Tue, 24 Nov 2026 10:25:28 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Learn in detail about the best HRIS software in India in 2026 through this detailed list containing the top HRIS software.</description>
-      <source url="https://entri.app/blog/best-hris-software-in-india/">Entri</source>
-    </item>
-    <item>
-      <title>Finance Executive Salary and Career Growth</title>
-      <link>https://oracle-university.com/stories/finance-executive-salary-and-career-growth-0ec933/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/finance-executive-salary-and-career-growth-0ec933/</guid>
-      <pubDate>Tue, 24 Nov 2026 10:25:08 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Learn in detail about the Finance Executive Salary and the Career Growth trajectory. Learn about the factors that influence the salaries.</description>
-      <source url="https://entri.app/blog/finance-executive-salary-and-career-growth/">Entri</source>
-    </item>
-    <item>
-      <title>Top 20 Accounts Payable Interview Questions And Answers</title>
-      <link>https://oracle-university.com/stories/top-20-accounts-payable-interview-questions-and-answers-8ae767/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-20-accounts-payable-interview-questions-and-answers-8ae767/</guid>
-      <pubDate>Tue, 24 Nov 2026 10:24:19 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Prepare for Accounts Payable interviews with top questions, detailed answers, and key insights to excel in your AP job interview.</description>
-      <source url="https://entri.app/blog/top-20-accounts-payable-interview-questions-and-answers/">Entri</source>
-    </item>
-    <item>
-      <title>Accountant Salary in Oman 2026: OMR 400–1,000 Monthly</title>
-      <link>https://oracle-university.com/stories/accountant-salary-in-oman-2026-omr-400-1-000-monthly-c08463/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/accountant-salary-in-oman-2026-omr-400-1-000-monthly-c08463/</guid>
-      <pubDate>Tue, 24 Nov 2026 10:24:12 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Discover the average Accountant Salary in Oman and the deciding factors through this detailed and comprehensive blog!</description>
-      <source url="https://entri.app/blog/accountant-salary-in-oman/">Entri</source>
-    </item>
-    <item>
-      <title>Accountant Salary in Saudi Arabia 2026: How Much Can You Really Earn?</title>
-      <link>https://oracle-university.com/stories/accountant-salary-in-saudi-arabia-2026-how-much-can-you-really-earn-5bf3e1/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/accountant-salary-in-saudi-arabia-2026-how-much-can-you-really-earn-5bf3e1/</guid>
-      <pubDate>Tue, 24 Nov 2026 10:24:10 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Discover the average Accountant Salary in Saudi Arabia and the deciding factors through this detailed and comprehensive blog!</description>
-      <source url="https://entri.app/blog/accountant-salary-in-saudi-arabia/">Entri</source>
-    </item>
-    <item>
-      <title>Top EDI Providers for 2027: Leading Companies for EDI Integration and Supply Chain Automation</title>
-      <link>https://oracle-university.com/stories/top-edi-providers-for-2027-leading-companies-for-edi-integration-and-supply-chain-automa-6198e1/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-edi-providers-for-2027-leading-companies-for-edi-integration-and-supply-chain-automa-6198e1/</guid>
-      <pubDate>Tue, 24 Nov 2026 10:04:50 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>As businesses prepare for 2027, Electronic Data Interchange (EDI) continues to play an essential role in automating business transactions, improving supply chain efficiency, and connecting companies with retailers, suppliers, distributors, and logistics partners. With growing requirements for ERP in</description>
-      <source url="http://prsync.com/infocon-systems/top-edi-providers-for--leading-companies-for-edi-integration-and-supply-chain-automation-5208717/">Pr Sync</source>
-    </item>
-    <item>
-      <title>AI rally erupts: These five AI-picked tech winners still have up to +52% upside</title>
-      <link>https://oracle-university.com/stories/ai-rally-erupts-these-five-ai-picked-tech-winners-still-have-up-to-52-upside-82c13a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-rally-erupts-these-five-ai-picked-tech-winners-still-have-up-to-52-upside-82c13a/</guid>
-      <pubDate>Tue, 24 Nov 2026 09:34:11 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>AI rally erupts: These five AI-picked tech winners still have up to +52% upside</description>
-      <source url="https://ph.investing.com/news/stock-market-news/ai-rally-erupts-these-five-aipicked-tech-winners-still-have-up-to-52-upside-2718421">Investing Philippines</source>
-    </item>
-    <item>
-      <title>The Vogue Business AI Tracker</title>
-      <link>https://oracle-university.com/stories/the-vogue-business-ai-tracker-73a4fd/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-vogue-business-ai-tracker-73a4fd/</guid>
-      <pubDate>Tue, 24 Nov 2026 09:30:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>Vogue Business brings you a weekly update of the most interesting stories in the world of AI that you need on your radar. Stay tuned as we spotlight AI initiatives in the fashion and beauty industry each week.</description>
-      <source url="https://www.vogue.com/story/technology/the-vogue-business-ai-tracker">Vogue</source>
-    </item>
-    <item>
-      <title>Too big to fire? Jensen Huang’s extraordinary Nvidia comeback</title>
-      <link>https://oracle-university.com/stories/too-big-to-fire-jensen-huang-s-extraordinary-nvidia-comeback-d53343/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/too-big-to-fire-jensen-huang-s-extraordinary-nvidia-comeback-d53343/</guid>
-      <pubDate>Tue, 24 Nov 2026 09:04:37 GMT</pubDate>
+      <title>Semiconductor Stocks Are Sinking. These 2 AI Chip Stocks Could Make You Richer on the Rebound.</title>
+      <link>https://oracle-university.com/stories/semiconductor-stocks-are-sinking-these-2-ai-chip-stocks-could-make-you-richer-on-the-reb-9b053b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/semiconductor-stocks-are-sinking-these-2-ai-chip-stocks-could-make-you-richer-on-the-reb-9b053b/</guid>
+      <pubDate>Wed, 25 Nov 2026 09:52:02 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Jensen Huang made a triumphant return to Nvidia’s NVDA.O Santa Clara, California, headquarters on Monday, less than two weeks after he resigned as CEO following revelations of extramarital affairs, including one with an alleged spy for China. “I’d be a better CEO the second time around,” the 63-year</description>
-      <source url="https://cyprus-mail.com/2026/11/24/too-big-to-fire-jensen-huangs-extraordinary-nvidia-comeback">Cyprus Mail</source>
+      <description>Chip stocks fell as a group and have been whipsawing since, but two AI chip companies just reported quarters that point the other way.</description>
+      <source url="https://www.fool.com/investing/2026/11/25/semiconductor-stocks-are-sinking-these-2-ai-chip-stocks-could-make-you-richer-on-the-rebound/">Fool</source>
     </item>
     <item>
-      <title>Shiva Santosh Allenki: Powering Cloud Reliability and Database Excellence</title>
-      <link>https://oracle-university.com/stories/shiva-santosh-allenki-powering-cloud-reliability-and-database-excellence-7835c0/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/shiva-santosh-allenki-powering-cloud-reliability-and-database-excellence-7835c0/</guid>
-      <pubDate>Tue, 24 Nov 2026 08:20:00 GMT</pubDate>
+      <title>Cloud Infrastructure Market Outlook 2035: AI Data Centers, Hyperscale Cloud Investments &amp; Hybrid Infrastructure Reshape Global Competition</title>
+      <link>https://oracle-university.com/stories/cloud-infrastructure-market-outlook-2035-ai-data-centers-hyperscale-cloud-investments-hy-9662d9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-infrastructure-market-outlook-2035-ai-data-centers-hyperscale-cloud-investments-hy-9662d9/</guid>
+      <pubDate>Wed, 25 Nov 2026 09:45:55 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>The rapid expansion of artificial intelligence, rising enterprise demand for scalable computing, and increasing investments in hyperscale data centers are reshaping the global cloud infrastructure industry. As organizations accelerate digital transformation, cloud infrastructure is moving beyond con</description>
+      <source url="https://www.openpr.com/news/4699804/cloud-infrastructure-market-outlook-2035-ai-data-centers">Openpr.com</source>
+    </item>
+    <item>
+      <title>Oracle Corporation $ORCL Stock: Empowered Funds LLC Raises Position</title>
+      <link>https://oracle-university.com/stories/oracle-corporation-orcl-stock-empowered-funds-llc-raises-position-3fd0da/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-stock-empowered-funds-llc-raises-position-3fd0da/</guid>
+      <pubDate>Wed, 25 Nov 2026 09:32:42 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Empowered Funds LLC grew its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 16.1% in the 3rd quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The fund owned 265,867 shares of the enterprise software provider’s stock after purchasing an additio</description>
+      <source url="https://www.americanbankingnews.com/2026/11/25/oracle-corporation-orcl-stock-empowered-funds-llc-raises-position.html">Americanbankingnews</source>
+    </item>
+    <item>
+      <title>Migrating a PostgreSQL Database to Managed Cloud with Less Than 5 Minutes of Downtime</title>
+      <link>https://oracle-university.com/stories/migrating-a-postgresql-database-to-managed-cloud-with-less-than-5-minutes-of-downtime-be3ba7/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/migrating-a-postgresql-database-to-managed-cloud-with-less-than-5-minutes-of-downtime-be3ba7/</guid>
+      <pubDate>Wed, 25 Nov 2026 09:25:38 GMT</pubDate>
       <category>AI &amp; Database</category>
-      <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.financialcontent.com/article/accwirecq-2026-11-24-shiva-santosh-allenki-powering-cloud-reliability-and-database-excellence">Financialcontent</source>
+      <description>Moving a production PostgreSQL instance from a self-hosted StatefulSet (or a bare-metal VM) to RDS, Cloud SQL or Azure Database is one of those migrations everyone postpones, because the default plan is &quot;pg_dump on Saturday at 2 a.m. and pray&quot;. For a 400 GB database that plan means a four-hour outag</description>
+      <source url="https://dev.to/florient_4262fab5463a691/migrating-a-postgresql-database-to-managed-cloud-with-less-than-5-minutes-of-downtime-15b6">Dev Community</source>
     </item>
     <item>
-      <title>How AI Is Redefining the Autonomous Mobile Robots Market in 2026</title>
-      <link>https://oracle-university.com/stories/how-ai-is-redefining-the-autonomous-mobile-robots-market-in-2026-966858/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/how-ai-is-redefining-the-autonomous-mobile-robots-market-in-2026-966858/</guid>
-      <pubDate>Tue, 24 Nov 2026 07:16:46 GMT</pubDate>
+      <title>Oracle Corporation $ORCL Stock: Empowered Funds LLC Raises Position</title>
+      <link>https://oracle-university.com/stories/oracle-corporation-orcl-stock-empowered-funds-llc-raises-position-592145/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-stock-empowered-funds-llc-raises-position-592145/</guid>
+      <pubDate>Wed, 25 Nov 2026 08:56:53 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Empowered Funds LLC grew its stake in Oracle Corporation (NYSE:ORCL - Free Report) by 16.1% in the 3rd quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The fund owned 265,867 shares of the enterprise software provider&#39;s stock after purchasing an additio</description>
+      <source url="https://www.marketbeat.com/instant-alerts/filing-oracle-corporation-orcl-stock-empowered-funds-llc-raises-position-2026-11-25/">Market Beat</source>
+    </item>
+    <item>
+      <title>Advisory Alpha LLC Buys 8,837 Shares of Oracle Corporation $ORCL</title>
+      <link>https://oracle-university.com/stories/advisory-alpha-llc-buys-8-837-shares-of-oracle-corporation-orcl-24ee02/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/advisory-alpha-llc-buys-8-837-shares-of-oracle-corporation-orcl-24ee02/</guid>
+      <pubDate>Wed, 25 Nov 2026 08:49:35 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Advisory Alpha LLC raised its stake in shares of Oracle Corporation (NYSE:ORCL - Free Report) by 116.2% during the 3rd quarter, according to the company in its most recent 13F filing with the Securities and Exchange Commission. The firm owned 16,444 shares of the enterprise software provider&#39;s stock</description>
+      <source url="https://www.marketbeat.com/instant-alerts/filing-advisory-alpha-llc-buys-8837-shares-of-oracle-corporation-orcl-2026-11-25/">Market Beat</source>
+    </item>
+    <item>
+      <title>AI Agent Market Size Forecast Shows USD 179.8 Billion by 2034, Growing at 43.2% CAGR</title>
+      <link>https://oracle-university.com/stories/ai-agent-market-size-forecast-shows-usd-179-8-billion-by-2034-growing-at-43-2-cagr-edb7ef/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-agent-market-size-forecast-shows-usd-179-8-billion-by-2034-growing-at-43-2-cagr-edb7ef/</guid>
+      <pubDate>Wed, 25 Nov 2026 06:41:50 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>The global software as a service (SaaS) market size was valued at USD 464.7 billion in 2025 and is projected to grow from USD 530.0 [read full press release...]</description>
-      <source url="https://express-press-release.net/news/2026/11/24/1786000">Express-press-release</source>
+      <description>AI Agent Market size is valued at USD 7.1 billion in 2025 and is estimated at USD 10.2 billion in 2026. According to Polaris Market [read full press release...]</description>
+      <source url="https://express-press-release.net/news/2026/11/25/1786544">Express-press-release</source>
     </item>
     <item>
-      <title>Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day</title>
-      <link>https://oracle-university.com/stories/hackers-exploit-n-able-mailassure-flaw-while-ai-agents-exploit-monai-label-zero-day-fd01d4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/hackers-exploit-n-able-mailassure-flaw-while-ai-agents-exploit-monai-label-zero-day-fd01d4/</guid>
-      <pubDate>Tue, 24 Nov 2026 06:02:45 GMT</pubDate>
+      <title>Enterprise Agentic AI Market Set for Steady Expansion to USD 122.21 Billion by 2034 at 46.2% CAGR</title>
+      <link>https://oracle-university.com/stories/enterprise-agentic-ai-market-set-for-steady-expansion-to-usd-122-21-billion-by-2034-at-4-9f05cb/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/enterprise-agentic-ai-market-set-for-steady-expansion-to-usd-122-21-billion-by-2034-at-4-9f05cb/</guid>
+      <pubDate>Wed, 25 Nov 2026 06:29:06 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Enterprise Agentic AI Market was valued at around USD 4.02 billion in 2025 and is estimated at USD 5.86 billion in 2026. According to Polaris [read full press release...]</description>
+      <source url="https://express-press-release.net/news/2026/11/25/1786527">Express-press-release</source>
+    </item>
+    <item>
+      <title>Generative AI in Financial Services Market: Reshaping Banking, Risk Intelligence, and Digital Financial Innovation</title>
+      <link>https://oracle-university.com/stories/generative-ai-in-financial-services-market-reshaping-banking-risk-intelligence-and-digit-e87b9e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/generative-ai-in-financial-services-market-reshaping-banking-risk-intelligence-and-digit-e87b9e/</guid>
+      <pubDate>Wed, 25 Nov 2026 05:54:17 GMT</pubDate>
       <category>Security</category>
-      <description>The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The critical vulnerabilities are listed below - CVE-2026-134624 (CVSS s</description>
-      <source url="https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html">The Hacker News</source>
+      <description>The Generative AI in Financial Services Market is part of a wider industry environment shaped by business activity, customer requirements, and changes in product or [read full press release...]</description>
+      <source url="https://express-press-release.net/news/2026/11/25/1786467">Express-press-release</source>
     </item>
     <item>
-      <title>Setting Up the Workflow Notification Mailer on an EBS 12.2 Test Instance for Safe Email Testing</title>
-      <link>https://oracle-university.com/stories/setting-up-the-workflow-notification-mailer-on-an-ebs-12-2-test-instance-for-safe-email--aa9dbf/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/setting-up-the-workflow-notification-mailer-on-an-ebs-12-2-test-instance-for-safe-email--aa9dbf/</guid>
-      <pubDate>Tue, 24 Nov 2026 05:31:34 GMT</pubDate>
+      <title>Transforming Digital Banking, Financial Intelligence, and Next-Generation Investment Solutions</title>
+      <link>https://oracle-university.com/stories/transforming-digital-banking-financial-intelligence-and-next-generation-investment-solut-207995/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/transforming-digital-banking-financial-intelligence-and-next-generation-investment-solut-207995/</guid>
+      <pubDate>Wed, 25 Nov 2026 05:32:14 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>The Ai In Finance Market is part of a wider industry environment shaped by business activity, customer requirements, and changes in product or service demand. [read full press release...]</description>
+      <source url="https://express-press-release.net/news/2026/11/25/1786416">Express-press-release</source>
+    </item>
+    <item>
+      <title>Multi Agent Systems Market: Multi-Agent Systems Market: Powering the Future of Autonomous AI and Intelligent Automation</title>
+      <link>https://oracle-university.com/stories/multi-agent-systems-market-multi-agent-systems-market-powering-the-future-of-autonomous--0d6fcd/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/multi-agent-systems-market-multi-agent-systems-market-powering-the-future-of-autonomous--0d6fcd/</guid>
+      <pubDate>Wed, 25 Nov 2026 05:12:34 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>This post shows how I configured the Workflow Notification Mailer on an Oracle E-Business Suite 12.2 test instance purely for testing. All mail is redirected to one test mailbox, old pending notifications are cleared, and the outbound server points at a local relay. These settings are meant for a te</description>
-      <source url="https://dev.to/kumaranm05/setting-up-the-workflow-notification-mailer-on-an-ebs-122-test-instance-for-safe-email-testing-1hc3">Dev Community</source>
+      <description>The Multi Agent Systems Market is part of a wider industry environment shaped by business activity, customer requirements, and changes in product or service demand. [read full press release...]</description>
+      <source url="https://express-press-release.net/news/2026/11/25/1786388">Express-press-release</source>
     </item>
     <item>
       <title>The Button that did Absolutely Nothing</title>
@@ -457,6 +385,78 @@
       <category>Oracle Cloud</category>
       <description>Multicloud is changing the way modern teams run their workloads: with real choice and real control. In this episode, hosts Lois Houston and Nikita Abraham welcome Senior Principal OCI Instructor Sergio Castro, who explains how Oracle has partnered with Microsoft Azure, Google Cloud, and AWS to bring</description>
       <source url="https://oracleuniversitypodcast.libsyn.com/oracle-multicloud-made-easy">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Part II Transforming Database Operations: MCP Server + OCI Generative AI in Action</title>
+      <link>https://oracle-university.com/stories/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action-639847/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action-639847/</guid>
+      <pubDate>Tue, 27 Jan 2026 13:00:00 GMT</pubDate>
+      <category>AI &amp; Database</category>
+      <description>In Part II of this episode we explore how Oracle&#39;s latest AI-driven database tools are revolutionizing teaching and learning in higher education. Tailored for global faculty and students, the episode demonstrates how artificial intelligence makes database operations more accessible, intuitive, and r</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-transforming-database-operations-mcp-server-oci-generative-ai-in-action">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>From Curiosity to Career Growth: An Oracle AI Certification Journey</title>
+      <link>https://oracle-university.com/stories/from-curiosity-to-career-growth-an-oracle-ai-certification-journey-bd5794/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/from-curiosity-to-career-growth-an-oracle-ai-certification-journey-bd5794/</guid>
+      <pubDate>Tue, 27 Jan 2026 12:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Join us for an inspiring conversation with private equity advisor Jeffrey Malcolm as he shares how Oracle AI certification has transformed his career, family, and approach to business. Discover the real-world impact and opportunities that come from upskilling with Oracle&#39;s leading AI training progra</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/from-curiosity-to-career-growth-an-oracle-ai-certification-journey">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Transforming Database Operations: MCP Server + OCI Generative AI in Action</title>
+      <link>https://oracle-university.com/stories/transforming-database-operations-mcp-server-oci-generative-ai-in-action-6ad8a3/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/transforming-database-operations-mcp-server-oci-generative-ai-in-action-6ad8a3/</guid>
+      <pubDate>Tue, 20 Jan 2026 13:00:00 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>Part I In this episode of the Oracle Academy Tech Chat Podcast we explore how Oracle&#39;s latest AI-driven database tools are revolutionizing teaching and learning in higher education. Tailored for global faculty and students, the episode demonstrates how artificial intelligence makes database operatio</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/transforming-database-operations-mcp-server-oci-generative-ai-in-action">Oracle Academy Tech Chat</source>
+    </item>
+    <item>
+      <title>Driving Business Value with OCI – Part 2</title>
+      <link>https://oracle-university.com/stories/driving-business-value-with-oci-part-2-11d505/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/driving-business-value-with-oci-part-2-11d505/</guid>
+      <pubDate>Tue, 20 Jan 2026 12:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>Security, compliance, and resilience are the cornerstones of trust. In this episode, Lois Houston and Nikita Abraham continue their conversation with David Mills and Tijo Thomas, exploring how Oracle Cloud Infrastructure empowers organizations to protect data, stay compliant, and scale with confiden</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/driving-business-value-with-oci-part-2">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Driving Business Value with OCI–Part 1</title>
+      <link>https://oracle-university.com/stories/driving-business-value-with-oci-part-1-8444fa/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/driving-business-value-with-oci-part-1-8444fa/</guid>
+      <pubDate>Wed, 14 Jan 2026 23:18:23 GMT</pubDate>
+      <category>Security</category>
+      <description>Understanding cloud costs can be challenging, but it&#39;s essential for maximizing value. In this episode, hosts Lois Houston and Nikita Abraham speak with Oracle Cloud experts David Mills and Tijo Thomas about how Oracle Cloud Infrastructure offers predictable pricing, robust security, and high perfor</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/driving-business-value-with-ocipart-1">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Getting to Know Oracle Cloud Infrastructure</title>
+      <link>https://oracle-university.com/stories/getting-to-know-oracle-cloud-infrastructure-b4f7ca/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/getting-to-know-oracle-cloud-infrastructure-b4f7ca/</guid>
+      <pubDate>Tue, 06 Jan 2026 17:15:25 GMT</pubDate>
+      <category>Security</category>
+      <description>Every system depends on reliable infrastructure behind the scenes. Oracle Cloud Infrastructure (OCI) delivers that reliability with speed, flexibility, and built-in security. Join Lois Houston and Nikita Abraham as they speak with Oracle Cloud experts David Mills and Tijo Thomas about what makes OCI</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/getting-to-know-oracle-cloud-infrastructure">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Best of 2025: Unlocking the Power of Oracle APEX and AI</title>
+      <link>https://oracle-university.com/stories/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai-6aff1f/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai-6aff1f/</guid>
+      <pubDate>Tue, 23 Dec 2025 12:00:00 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>Lois Houston and Nikita Abraham explore how Oracle APEX integrates with AI to build smarter low-code applications. They are joined by Chaitanya Koratamaddi, Director of Product Management at Oracle, who explains the basics of Oracle APEX, its global adoption, and the challenges it addresses for busi</description>
+      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-unlocking-the-power-of-oracle-apex-and-ai">Oracle University Podcast</source>
+    </item>
+    <item>
+      <title>Bringing the Cloud to You: Security and Control with Exadata</title>
+      <link>https://oracle-university.com/stories/bringing-the-cloud-to-you-security-and-control-with-exadata-e7accc/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/bringing-the-cloud-to-you-security-and-control-with-exadata-e7accc/</guid>
+      <pubDate>Tue, 16 Dec 2025 13:00:00 GMT</pubDate>
+      <category>Security</category>
+      <description>In this episode, we&#39;ll talk about Security and Control with Exadata We&#39;ll explore how organizations can benefit from cloud innovation while keeping full control over their data — a critical challenge in today&#39;s digital world. ---------------------------------------------------- Episode Transcript: 0</description>
+      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/bringing-the-cloud-to-you-security-and-control-with-exadata">Oracle Academy Tech Chat</source>
     </item>
   </channel>
 </rss>
