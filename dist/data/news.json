@@ -1,11 +1,28 @@
 {
-  "generatedAt": "2026-11-26T02:56:47.665Z",
+  "generatedAt": "2026-11-27T02:59:01.772Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
     "siteUrl": "https://oracle-university.com"
   },
   "items": [
+    {
+      "id": "5839d73db7fc28a2",
+      "slug": "java-in-the-age-of-ai-ata-f56c78",
+      "title": "\"Java in the Age of AI\" [AtA]",
+      "dek": "A discussion of Java's expanding support for AI workloads: From its strengths in adding AI features to existing applications to new capabilities for writing Java code that runs on GPUs; from having Java-native models to long-term ideas for becoming better at training models, too. In this \"Ask the Ar",
+      "url": "https://inside.java/podcast/76",
+      "source": "Inside Java",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/insidejava/ijp-76.mp3?dest-id=2318780",
+      "publishedAt": "2026-11-26T10:43:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Java",
+        "AI"
+      ],
+      "priority": 52
+    },
     {
       "id": "a6ea65aeb044c987",
       "slug": "oracle-sets-the-date-for-its-first-quarter-fiscal-year-2027-earnings-announcement-a540e9",
@@ -39,31 +56,15 @@
       "priority": 46
     },
     {
-      "id": "e22d9a894bbf4ba2",
-      "slug": "anthropic-sinks-8-falls-further-below-ipo-price-despite-cathie-wood-buying-the-dip-iren--d61e76",
-      "title": "Anthropic Sinks 8%, Falls Further Below IPO Price Despite Cathie Wood Buying the Dip; IREN Tumbles 11%, CoreWeave Retreats 10%",
-      "dek": "Cathie Wood has bought Anthropic every single day since the IPO, yet Jim Cramer says nobody large is on the other side. With inflation climbing and AI infrastructure names buckling, who is left to catch the fall?",
-      "url": "https://247wallst.com/investing/2026/11/25/anthropic-sinks-8-falls-further-below-ipo-price-despite-cathie-wood-buying-the-dip-iren-tumbles-11-coreweave-retreats-10/",
-      "source": "24/7 Wall St",
-      "sourceType": "external",
-      "image": "https://247wallst.com/wp-content/uploads/2025/01/GettyImages-1239809188-scaled.jpg",
-      "publishedAt": "2026-11-25T14:54:11.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "investing"
-      ],
-      "priority": 43
-    },
-    {
-      "id": "166ff9af7fa907c6",
-      "slug": "global-risk-analysis-management-market-report-2026-size-share-trends-and-forecast-to-203-9364e4",
-      "title": "Global Risk Analysis Management Market Report 2026: Size, Share, Trends, and Forecast to 2030 | Capitalize on AI and Real-Time Risk with Microsoft, IBM, Oracle, SAP, and ServiceNow",
-      "dek": "Boost ROI with AI-driven risk detection, real-time monitoring, integrated governance, proactive resilience planning, regulatory reporting and third-party risk visibility.",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/11/25/3410277/28124/en/global-risk-analysis-management-market-report-2026-size-share-trends-and-forecast-to-2030-capitalize-on-ai-and-real-time-risk-with-microsoft-ibm-oracle-sap-and-servicenow.html",
+      "id": "6242eb9aba623344",
+      "slug": "clinical-trials-management-system-ctms-market-global-forecast-2026-2032-ai-cloud-integra-b8c192",
+      "title": "Clinical Trials Management System (CTMS) Market - Global Forecast 2026-2032 | AI, Cloud Integration, and Decentralized Trials Drive 6.73% CAGR and a USD 2.80 Billion Opportunity by 2032",
+      "dek": "Integrated, AI-ready CTMS platforms boost ROI by reducing cycle times, duplicate data entry and compliance risk while improving oversight and global trial scalability.",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/11/26/3410796/28124/en/clinical-trials-management-system-ctms-market-global-forecast-2026-2032-ai-cloud-integration-and-decentralized-trials-drive-6-73-cagr-and-a-usd-2-80-billion-opportunity-by-2032.html",
       "source": "Globenewswire_fr",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-11-25T14:27:00.000Z",
+      "publishedAt": "2026-11-26T14:17:00.000Z",
       "topic": "Security",
       "tags": [
         "research analysis and reports"
@@ -71,399 +72,137 @@
       "priority": 43
     },
     {
-      "id": "572e5271c37f0618",
-      "slug": "canada-data-center-market-investment-analysis-and-growth-opportunities-2026-2031-ai-read-06f0e2",
-      "title": "Canada Data Center Market - Investment Analysis and Growth Opportunities 2026-2031 | AI-Ready Capacity, Cloud Demand, and Sustainable Infrastructure Drive 12.75% CAGR",
-      "dek": "AI-ready expansion, energy-efficient infrastructure, renewable power, advanced cooling, cloud growth, and digital sovereignty shape Canada’s data center investment strategy.",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/11/25/3410233/28124/en/canada-data-center-market-investment-analysis-and-growth-opportunities-2026-2031-ai-ready-capacity-cloud-demand-and-sustainable-infrastructure-drive-12-75-cagr.html",
-      "source": "Globenewswire_fr",
+      "id": "457e8e47d7d77da1",
+      "slug": "top-blockchain-stocks-to-consider-november-25th-4c1b1f",
+      "title": "Top Blockchain Stocks To Consider – November 25th",
+      "dek": "Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Globant, and Mercurity Fintech are the five Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, operate, or provide services ",
+      "url": "https://www.tickerreport.com/banking-finance/13674689/top-blockchain-stocks-to-consider-november-25th.html",
+      "source": "Ticker Report",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-11-25T14:01:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "research analysis and reports"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "c6a10683e2ca8071",
-      "slug": "check-point-security-management-servers-hit-in-global-cyberattack-campaign-d246b7",
-      "title": "Check Point security management servers hit in global cyberattack campaign",
-      "dek": "GreyNoise observed 24 compromised Check Point security management servers across 22 organizations in 17 countries, with attackers using 99 IP addresses for scanning and exploitation.",
-      "url": "https://www.csoonline.com/article/4253068/check-point-security-management-servers-hit-in-global-cyberattack-campaign.html",
-      "source": "Chief Security Officer Online",
-      "sourceType": "external",
-      "image": "https://www.csoonline.com/wp-content/uploads/2026/11/4246780-0-86909800-1794312907-shutterstock_680076340.jpg?quality=50&strip=all",
-      "publishedAt": "2026-11-25T13:09:29.000Z",
-      "topic": "Security",
-      "tags": [
-        "cyberattacks",
-        "cybercrime",
-        "security"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "4f49f10c295a5097",
-      "slug": "ai-needs-4-2-trillion-in-new-revenue-which-industries-could-create-it-9eabd2",
-      "title": "AI needs $4.2 trillion in new revenue. Which industries could create it?",
-      "dek": "The billions flowing into chips, data centers, networks, and power systems have focused attention on the challenge of the AI buildout. But the more important question, according to Bain & Company’s Technology Report 2026, may be whether that buildout will produce economic value to justify it. How mu",
-      "url": "https://www.cio.com/article/4251589/ai-needs-4-2-trillion-in-new-revenue-which-industries-could-create-it.html",
-      "source": "Cio",
-      "sourceType": "external",
-      "image": "https://www.cio.com/wp-content/uploads/2026/11/4251589-0-12772800-1795612155-AEO26_CIO__NewInnovation_Article1_a6645f.png",
-      "publishedAt": "2026-11-25T13:08:58.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "artificial intelligence"
-      ],
-      "priority": 42
-    },
-    {
-      "id": "ebc93c5b3a215613",
-      "slug": "ai-stock-rout-deepens-with-anthropic-hitting-74-2af409",
-      "title": "AI stock rout deepens, with Anthropic hitting $74",
-      "dek": "Nov 25 : AI-linked stocks were hammered for a second straight day on Wednesday, with investor concern about rising costs and forbidding debt dynamics sending the shares of many of the industry's largest players tumbling to fresh 52-week lows. AI lab Anthropic traded as low as $73.85 shortly after th",
-      "url": "https://www.channelnewsasia.com/business/ai-stock-rout-deepens-anthropic-hitting-74-6581691",
-      "source": "Channel Newsasia",
-      "sourceType": "external",
-      "image": "https://dam.mediacorp.sg/image/upload/s--cfLZwijn--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-11-25T121708Z_1_LYNXNPEMAO10F_RTROPTP_3_USA-STOCKS.JPG?itok=vyOGmW7s",
-      "publishedAt": "2026-11-25T12:17:08.000Z",
+      "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
+      "publishedAt": "2026-11-26T14:12:43.000Z",
       "topic": "Business & Earnings",
       "tags": [
-        "business"
+        "partner feed articles",
+        "banking"
       ],
-      "priority": 41
+      "priority": 43
     },
     {
-      "id": "dfd6866cb116c14b",
-      "slug": "ai-stock-rout-deepens-but-damage-is-limited-by-afternoon-bounce-894ec7",
-      "title": "AI stock rout deepens but damage is limited by afternoon bounce",
-      "dek": "Nov 25 : AI-linked stocks plunged early on Wednesday but staged an afternoon comeback, the latest autumn clash pitting investor concern about rising costs and forbidding debt dynamics against strong buying interest given the steep decline in prices. AI lab Anthropic traded as low as $73.85 shortly a",
-      "url": "https://www.channelnewsasia.com/business/ai-stock-rout-deepens-damage-limited-afternoon-bounce-6581691",
-      "source": "Channel Newsasia",
+      "id": "fcb51ee91633a9a8",
+      "slug": "top-10-best-database-management-software-in-india-in-2027-4083e9",
+      "title": "Top 10 Best Database Management Software In India In 2027",
+      "dek": "Top 10 Best Database Management Software in India in 2027 The rapid expansion of digital infrastructure, cloud computing, artificial intelligence, enterprise automation and data-driven business operations has significantly increased the demand for advanced database management software in India. Orga",
+      "url": "https://www.inventiva.co.in/trends/top-10-best-database-management-software-in-india-in-2027/",
+      "source": "Inventiva",
       "sourceType": "external",
-      "image": "https://dam.mediacorp.sg/image/upload/s--QOtQqgpF--/fl_relative,g_south_east,l_mediacorp:cna:watermark:2024-04:reuters_1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_468,w_830/v1/one-cms/core/2026-11-25T222733Z_2_LYNXNPEMAO10F_RTROPTP_3_USA-STOCKS.JPG?itok=i29cz2tI",
-      "publishedAt": "2026-11-25T12:17:08.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "business"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "cc06e8ce756c908c",
-      "slug": "oracle-corporation-orcl-stock-holdings-raised-by-pathstone-holdings-llc-9a8cb6",
-      "title": "Oracle Corporation $ORCL Stock Holdings Raised by Pathstone Holdings LLC",
-      "dek": "Pathstone Holdings LLC lifted its position in shares of Oracle Corporation (NYSE:ORCL - Free Report) by 3.6% in the 3rd quarter, according to its most recent Form 13F filing with the Securities & Exchange Commission. The institutional investor owned 359,104 shares of the enterprise software prov",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-oracle-corporation-orcl-stock-holdings-raised-by-pathstone-holdings-llc-2026-11-25/",
-      "source": "Market Beat",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-11-25T11:44:38.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "oracle",
-        "instant alerts",
-        "sec filing",
-        "nyse:orcl"
-      ],
-      "priority": 41
-    },
-    {
-      "id": "90cf5775e92cb1ec",
-      "slug": "from-sap-ecc-6-0-to-sap-cloud-erp-data-migration-via-remote-hana-cloud-db-incl-sdi-305892",
-      "title": "From SAP ECC 6.0 to SAP Cloud ERP: Data Migration via Remote HANA Cloud DB (incl. SDI)",
-      "dek": "For typical SAP Public Cloud ERP greenfield implementations at small and mid-sized companies without a legacy SAP footprint, the answer is straightforward. SAP's file-based staging approach is well-documented, broadly supported by accelerators, and works well: prepare data in XML or CSV templates, u",
-      "url": "https://community.sap.com/t5/enterprise-resource-planning-blog-posts-by-sap/from-sap-ecc-6-0-to-sap-cloud-erp-data-migration-via-remote-hana-cloud-db/ba-p/14520751",
-      "source": "Sap",
-      "sourceType": "external",
-      "image": "https://groups.community.sap.com/html/assets/SAP_R_grad_200x200.png",
-      "publishedAt": "2026-11-25T11:18:49.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "expert insights​"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "c994d49ce78c6a17",
-      "slug": "vast-data-launches-vast-takeoff-program-to-support-emerging-ai-cloud-providers-151f07",
-      "title": "VAST Data Launches VAST Takeoff Program to Support Emerging AI Cloud Providers",
-      "dek": "VAST Data announced VAST Takeoff on November 24, 2026, a global program for new and established AI cloud providers to build cloud offerings and data services. Qualifying AI cloud providers receive free access to the full VAST AI Operating System (AI OS) software with entitlements ranging from 5 peta",
-      "url": "https://itdigest.com/cloud-computing-mobility/vast-data-launches-vast-takeoff-program-to-support-emerging-ai-cloud-providers/",
-      "source": "Itdigest",
-      "sourceType": "external",
-      "image": "https://itdigest.com/wp-content/uploads/2026/11/VAST-Data-Launches-VAST-Takeoff-Program-to-Support-Emerging-AI-Cloud-Providers.webp",
-      "publishedAt": "2026-11-25T11:17:06.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "cloud security",
-        "ai cloud providers",
-        "itdigest",
-        "vast ai operating system",
-        "neocloud infrastructure",
-        "dase architecture"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "b282f42c23cdc491",
-      "slug": "madhurima-kommuru-from-demo-to-production-the-hidden-challenges-of-enterprise-ai-agents--19574f",
-      "title": "Madhurima Kommuru: From Demo to Production—The Hidden Challenges of Enterprise AI Agents Using LangGraph4j, Spring AI, and MCP",
-      "dek": "Enterprise interest in AI agents has moved well past the proof-of-concept stage, but a much harder problem is only now coming into focus: what happens when a promising demo has to survive real production traffic, real compliance requirements, and real operational scrutiny? We sat down with… Read the",
-      "url": "https://techbullion.com/madhurima-kommuru-from-demo-to-production-the-hidden-challenges-of-enterprise-ai-agents-using-langgraph4j-spring-ai-and-mcp/",
-      "source": "Techbullion",
-      "sourceType": "external",
-      "image": "https://techbullion.com/wp-content/uploads/2026/11/unnamed-6.jpg",
-      "publishedAt": "2026-11-25T10:56:58.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "business news"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "3e6f669b9f931c02",
-      "slug": "top-gpu-cloud-providers-in-2026-aws-microsoft-azure-google-cloud-coreweave-and-nebius-dr-00a96d",
-      "title": "Top GPU Cloud Providers in 2026: AWS, Microsoft Azure, Google Cloud, CoreWeave and Nebius Drive Enterprise AI Growth",
-      "dek": "The GPU cloud market is expanding as enterprises invest in generative AI, agentic AI, foundation-model training and real-time inference",
-      "url": "https://infotechlead.com/cloud/top-gpu-cloud-providers-in-2026-aws-microsoft-azure-google-cloud-coreweave-and-nebius-drive-enterprise-ai-growth-99871",
-      "source": "Infotech Lead",
-      "sourceType": "external",
-      "image": "https://infotechlead.com/wp-content/uploads/2026/11/GPU-cloud-providers-major-customers-and-projects.jpg",
-      "publishedAt": "2026-11-25T10:33:39.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "cloud"
-      ],
-      "priority": 40
-    },
-    {
-      "id": "93700ec89a3fee84",
-      "slug": "agentic-ai-market-to-reach-usd-211-99-billion-by-2035-as-88-of-enterprises-use-or-test-a-a2646f",
-      "title": "Agentic AI Market to Reach USD 211.99 Billion by 2035 as 88% of Enterprises Use or Test AI Agents, Accelerating Autonomous Workflow Adoption",
-      "dek": "Enterprise adoption of agentic AI is moving beyond experimentation, with 88% of enterprise leaders reporting that their organizations are using or testing AI agents in 2026, compared with 72% in 2025, according to Zapier's November 2026 survey. More significantly, AI",
-      "url": "https://www.openpr.com/news/4699839/agentic-ai-market-to-reach-usd-211-99-billion-by-2035-as-88",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/b/Lb25194934_k.jpg",
-      "publishedAt": "2026-11-25T10:11:20.000Z",
-      "topic": "Applications & NetSuite",
-      "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "f7c29eede12fd429",
-      "slug": "semiconductor-stocks-are-sinking-these-2-ai-chip-stocks-could-make-you-richer-on-the-reb-9b053b",
-      "title": "Semiconductor Stocks Are Sinking. These 2 AI Chip Stocks Could Make You Richer on the Rebound.",
-      "dek": "Chip stocks fell as a group and have been whipsawing since, but two AI chip companies just reported quarters that point the other way.",
-      "url": "https://www.fool.com/investing/2026/11/25/semiconductor-stocks-are-sinking-these-2-ai-chip-stocks-could-make-you-richer-on-the-rebound/",
-      "source": "Fool",
-      "sourceType": "external",
-      "image": "https://cdn.content.foolcdn.com/images/1umn9qeh/production/966e6b7238dec442a1dc1e6e4cae342d4c3c8928-1285x734.png",
-      "publishedAt": "2026-11-25T09:52:02.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "arm",
-        "391cfc57-f15e-465d-8d4c-81b4b7ef84f9",
-        "cbrs",
-        "technology and telecom",
-        "investing"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "0cb546049f7c0e21",
-      "slug": "cloud-infrastructure-market-outlook-2035-ai-data-centers-hyperscale-cloud-investments-hy-9662d9",
-      "title": "Cloud Infrastructure Market Outlook 2035: AI Data Centers, Hyperscale Cloud Investments & Hybrid Infrastructure Reshape Global Competition",
-      "dek": "The rapid expansion of artificial intelligence, rising enterprise demand for scalable computing, and increasing investments in hyperscale data centers are reshaping the global cloud infrastructure industry. As organizations accelerate digital transformation, cloud infrastructure is moving beyond con",
-      "url": "https://www.openpr.com/news/4699804/cloud-infrastructure-market-outlook-2035-ai-data-centers",
-      "source": "Openpr.com",
-      "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/b/Lb25202923_k.jpg",
-      "publishedAt": "2026-11-25T09:45:55.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "new media & software",
-        "it"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "c4aa995048af711d",
-      "slug": "oracle-corporation-orcl-stock-empowered-funds-llc-raises-position-3fd0da",
-      "title": "Oracle Corporation $ORCL Stock: Empowered Funds LLC Raises Position",
-      "dek": "Empowered Funds LLC grew its stake in Oracle Corporation (NYSE:ORCL – Free Report) by 16.1% in the 3rd quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The fund owned 265,867 shares of the enterprise software provider’s stock after purchasing an additio",
-      "url": "https://www.americanbankingnews.com/2026/11/25/oracle-corporation-orcl-stock-empowered-funds-llc-raises-position.html",
-      "source": "Americanbankingnews",
-      "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-11-25T09:32:42.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "market news",
-        "sec filing articles"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "13ca490739d577af",
-      "slug": "migrating-a-postgresql-database-to-managed-cloud-with-less-than-5-minutes-of-downtime-be3ba7",
-      "title": "Migrating a PostgreSQL Database to Managed Cloud with Less Than 5 Minutes of Downtime",
-      "dek": "Moving a production PostgreSQL instance from a self-hosted StatefulSet (or a bare-metal VM) to RDS, Cloud SQL or Azure Database is one of those migrations everyone postpones, because the default plan is \"pg_dump on Saturday at 2 a.m. and pray\". For a 400 GB database that plan means a four-hour outag",
-      "url": "https://dev.to/florient_4262fab5463a691/migrating-a-postgresql-database-to-managed-cloud-with-less-than-5-minutes-of-downtime-15b6",
-      "source": "Dev Community",
-      "sourceType": "external",
-      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2F3hs8jwfw661pytnu6h2p.png",
-      "publishedAt": "2026-11-25T09:25:38.000Z",
+      "image": "https://www.inventiva.co.in/wp-content/uploads/2026/07/Inventiva.jpg",
+      "publishedAt": "2026-11-26T12:28:48.000Z",
       "topic": "AI & Database",
       "tags": [
-        "kubernetes",
-        "postgres",
-        "devops",
-        "cloud"
+        "trends"
       ],
-      "priority": 39
+      "priority": 41
     },
     {
-      "id": "fb0317cbffd3dcb1",
-      "slug": "oracle-corporation-orcl-stock-empowered-funds-llc-raises-position-592145",
-      "title": "Oracle Corporation $ORCL Stock: Empowered Funds LLC Raises Position",
-      "dek": "Empowered Funds LLC grew its stake in Oracle Corporation (NYSE:ORCL - Free Report) by 16.1% in the 3rd quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The fund owned 265,867 shares of the enterprise software provider's stock after purchasing an additio",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-oracle-corporation-orcl-stock-empowered-funds-llc-raises-position-2026-11-25/",
-      "source": "Market Beat",
+      "id": "99a85ff79aa9854c",
+      "slug": "eurobites-bt-taps-anthropic-and-friends-to-offer-cyber-training-to-smes-68e7e8",
+      "title": "Eurobites: BT taps Anthropic and friends to offer cyber training to SMEs",
+      "dek": "Also in today's EMEA regional roundup: DE-CIX offers 'simplified' access to Oracle's EU Sovereign Cloud; Orange proposes closing BeTV platform; Ethio Telecom seeks Japanese collaboration.",
+      "url": "https://www.lightreading.com/security/eurobites-bt-taps-anthropic-and-friends-to-offer-cyber-training-to-smes",
+      "source": "Lightreading",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-11-25T08:56:53.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "sec filing",
-        "instant alerts",
-        "oracle",
-        "nyse:orcl"
-      ],
-      "priority": 39
+      "image": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt32926d52ea3a9e3c/6a7a325208f250a2129bf7e7/RF-cyber-criminal-Cravetiger-Getty.jpg?width=720&quality=80&disable=upscale",
+      "publishedAt": "2026-11-26T12:20:50.000Z",
+      "topic": "Training & Certification",
+      "tags": [],
+      "priority": 41
     },
     {
-      "id": "953cbce60396fabe",
-      "slug": "advisory-alpha-llc-buys-8-837-shares-of-oracle-corporation-orcl-24ee02",
-      "title": "Advisory Alpha LLC Buys 8,837 Shares of Oracle Corporation $ORCL",
-      "dek": "Advisory Alpha LLC raised its stake in shares of Oracle Corporation (NYSE:ORCL - Free Report) by 116.2% during the 3rd quarter, according to the company in its most recent 13F filing with the Securities and Exchange Commission. The firm owned 16,444 shares of the enterprise software provider's stock",
-      "url": "https://www.marketbeat.com/instant-alerts/filing-advisory-alpha-llc-buys-8837-shares-of-oracle-corporation-orcl-2026-11-25/",
-      "source": "Market Beat",
+      "id": "f7e294af4f232ed9",
+      "slug": "tepper-trims-alphabet-by-46-and-dumps-broadcom-amd-while-backing-micron-and-oracle-1dd131",
+      "title": "Tepper Trims Alphabet by ~46% and Dumps Broadcom & AMD While Backing Micron and Oracle",
+      "dek": "David Tepper sold off three AI winners that were still growing fast and bought two others instead. One of them pays its own way, while the other leans heavily on borrowed money and customer prepayments.",
+      "url": "https://247wallst.com/investing/2026/11/26/tepper-trims-alphabet-by-46-and-dumps-broadcom-amd-while-backing-micron-and-oracle/",
+      "source": "24/7 Wall St",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
-      "publishedAt": "2026-11-25T08:49:35.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "sec filing",
-        "instant alerts",
-        "oracle",
-        "nyse:orcl"
-      ],
-      "priority": 39
-    },
-    {
-      "id": "b0244f50779e2efc",
-      "slug": "ai-agent-market-size-forecast-shows-usd-179-8-billion-by-2034-growing-at-43-2-cagr-edb7ef",
-      "title": "AI Agent Market Size Forecast Shows USD 179.8 Billion by 2034, Growing at 43.2% CAGR",
-      "dek": "AI Agent Market size is valued at USD 7.1 billion in 2025 and is estimated at USD 10.2 billion in 2026. According to Polaris Market [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/11/25/1786544",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/logo-4.jpg",
-      "publishedAt": "2026-11-25T06:41:50.000Z",
+      "image": "https://247wallst.com/wp-content/uploads/2021/07/imageForEntry20-aEz.jpg",
+      "publishedAt": "2026-11-26T12:15:05.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "ai agent market",
-        "technology"
+        "investing"
       ],
-      "priority": 37
+      "priority": 41
     },
     {
-      "id": "381c99716a255c51",
-      "slug": "enterprise-agentic-ai-market-set-for-steady-expansion-to-usd-122-21-billion-by-2034-at-4-9f05cb",
-      "title": "Enterprise Agentic AI Market Set for Steady Expansion to USD 122.21 Billion by 2034 at 46.2% CAGR",
-      "dek": "Enterprise Agentic AI Market was valued at around USD 4.02 billion in 2025 and is estimated at USD 5.86 billion in 2026. According to Polaris [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/11/25/1786527",
-      "source": "Express-press-release",
+      "id": "0e84acd2134b9370",
+      "slug": "customer-communication-management-market-2033-ai-powered-ccm-migration-trai-s-new-anti-s-a638a7",
+      "title": "Customer Communication Management Market (2033): AI-Powered CCM Migration, TRAI's New Anti-Spam Regulations & Cloud-Based Customer Engagement Drive Enterprise Demand",
+      "dek": "The Global Customer Communication Management (CCM) Market reached US$2.0 billion in 2025 and is projected to reach US$4.6 billion by 2033, growing at a CAGR of 11.0% during 2026-2033. Market growth is driven by increasing demand for personalized customer experiences,",
+      "url": "https://www.openpr.com/news/4701006/customer-communication-management-market-2033-ai-powered",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/logo-4.jpg",
-      "publishedAt": "2026-11-25T06:29:06.000Z",
+      "image": "https://cdn.open-pr.com/L/b/Lb26647985_k.jpg",
+      "publishedAt": "2026-11-26T10:55:12.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
-        "enterprise agentic ai market",
-        "technology"
+        "new media & software",
+        "it"
       ],
-      "priority": 37
+      "priority": 40
     },
     {
-      "id": "93e7688b8998b566",
-      "slug": "generative-ai-in-financial-services-market-reshaping-banking-risk-intelligence-and-digit-e87b9e",
-      "title": "Generative AI in Financial Services Market: Reshaping Banking, Risk Intelligence, and Digital Financial Innovation",
-      "dek": "The Generative AI in Financial Services Market is part of a wider industry environment shaped by business activity, customer requirements, and changes in product or [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/11/25/1786467",
-      "source": "Express-press-release",
+      "id": "d7967e504699b4eb",
+      "slug": "ics-ai-taps-kyle-burke-to-lead-wales-expansion-133f53",
+      "title": "ICS.AI taps Kyle Burke to lead Wales expansion",
+      "dek": "The AI provider said it will recruit up to 15 new staff to support Welsh authorities adopting AI",
+      "url": "https://www.itpro.com/it-leadership/ics-ai-taps-kyle-burke-to-lead-wales-expansion",
+      "source": "Itpro",
       "sourceType": "external",
-      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/Polaris-Logo-Blue-4-1024x1024.png",
-      "publishedAt": "2026-11-25T05:54:17.000Z",
-      "topic": "Security",
-      "tags": [
-        "generative ai in financial services market",
-        "generative ai in financial services market share",
-        "generative ai in financial services market growth",
-        "generative ai in financial services market scope",
-        "generative ai in financial services market size",
-        "generative ai in financial services market cagr"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "420b6b64ee3d41f4",
-      "slug": "transforming-digital-banking-financial-intelligence-and-next-generation-investment-solut-207995",
-      "title": "Transforming Digital Banking, Financial Intelligence, and Next-Generation Investment Solutions",
-      "dek": "The Ai In Finance Market is part of a wider industry environment shaped by business activity, customer requirements, and changes in product or service demand. [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/11/25/1786416",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/Polaris-Logo-Blue-4-1024x1024.png",
-      "publishedAt": "2026-11-25T05:32:14.000Z",
-      "topic": "Business & Earnings",
-      "tags": [
-        "ai in finance market share",
-        "ai in finance market research",
-        "ai in finance market",
-        "ai in finance",
-        "ai in finance market analysis",
-        "ai in finance market opportunity"
-      ],
-      "priority": 37
-    },
-    {
-      "id": "c607905fd72055f4",
-      "slug": "multi-agent-systems-market-multi-agent-systems-market-powering-the-future-of-autonomous--0d6fcd",
-      "title": "Multi Agent Systems Market: Multi-Agent Systems Market: Powering the Future of Autonomous AI and Intelligent Automation",
-      "dek": "The Multi Agent Systems Market is part of a wider industry environment shaped by business activity, customer requirements, and changes in product or service demand. [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/11/25/1786388",
-      "source": "Express-press-release",
-      "sourceType": "external",
-      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/Polaris-Logo-Blue-4-1024x1024.png",
-      "publishedAt": "2026-11-25T05:12:34.000Z",
+      "image": "https://cdn.mos.cms.futurecdn.net/Cb8dc6MizpR5W9ceA4aH9E-1920-80.jpg",
+      "publishedAt": "2026-11-26T08:42:27.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "multi agent systems market united kingdom",
-        "multi agent systems market",
-        "multi agent systems",
-        "multi agent systems market key players",
-        "multi agent systems market analysis",
-        "multi agent systems market technology"
+        "it leadership"
       ],
-      "priority": 36
+      "priority": 38
+    },
+    {
+      "id": "7d968527c11e5ed0",
+      "slug": "ai-stock-rout-deepens-with-anthropic-hitting-74-04de2f",
+      "title": "AI stock rout deepens, with Anthropic hitting $74",
+      "dek": "ONLY AVAILABLE IN PAID PLANS",
+      "url": "https://www.zawya.com/en/capital-markets/ai-shaping-digital-future/ai-stock-rout-deepens-with-anthropic-hitting-74-2541224",
+      "source": "Zawya",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-11-26T06:59:18.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "technology",
+        "markets",
+        "united states",
+        "ipo",
+        "artificial intelligence",
+        "equities"
+      ],
+      "priority": 37
+    },
+    {
+      "id": "e02d883d14d1a7f3",
+      "slug": "mobile-banking-boom-rising-risks-the-fraud-detection-and-prevention-market-explained-6865ec",
+      "title": "Mobile Banking Boom, Rising Risks: The Fraud Detection and Prevention Market Explained",
+      "dek": "Mobile banking, instant payments, and online shopping have made transactions faster, and they have also given fraudsters more targets. Fraudsters now use generative AI too, [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/11/26/1787153",
+      "source": "Express-press-release",
+      "sourceType": "external",
+      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
+      "publishedAt": "2026-11-26T06:29:25.000Z",
+      "topic": "Security",
+      "tags": [
+        "internet & online"
+      ],
+      "priority": 37
     },
     {
       "id": "b56c7ec5fa854b41",
@@ -2001,6 +1740,235 @@
       "tags": [
         "Security"
       ],
+      "priority": 36
+    },
+    {
+      "id": "119c79ecef58b62d",
+      "slug": "database-security-part-2-ef77d6",
+      "title": "Database Security: Part 2",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham continue their exploration of Oracle Database 23ai's database security capabilities. They are joined once again by Ron Soltani, a Senior Principal Database & Security Instructor, who delves into the intricacies of the new hybrid read-only mode f",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-2",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-08-13T11:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Oracle Database",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ffc09f7346e6f6b5",
+      "slug": "database-security-part-1-b4c13f",
+      "title": "Database Security: Part 1",
+      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they dive into the critical topic of database security. In the first of a two-part series on database security in Oracle Database 23ai, they discuss the importance of protecting dat",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-1",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-08-06T11:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "Oracle Database",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "7c3ad34d1ff092f6",
+      "slug": "blockchain-tables-a4f246",
+      "title": "Blockchain Tables",
+      "dek": "In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham kick off a new season with a deep dive into the latest features of Oracle Database 23ai. Joined by Bill Millar, a Senior Principal Database & MySQL Instructor, they explore the new enhancements to blockchain tabl",
+      "url": "https://oracleuniversitypodcast.libsyn.com/blockchain-tables",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-30T11:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Oracle Database",
+        "MySQL",
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ff92a6749fa996f7",
+      "slug": "database-essentials-027d69",
+      "title": "Database Essentials",
+      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Hope Fisher, Oracle's Product Manager for Database Technologies, as they break down the basics of databases, explore different database management systems, and delve into database development. Whether you're a newcomer or just need a refresher, ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/database-essentials",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-23T14:00:00.000Z",
+      "topic": "AI & Database",
+      "tags": [],
+      "priority": 36
+    },
+    {
+      "id": "f046bd97147c0cf8",
+      "slug": "container-engine-for-kubernetes-security-practices-26ab8f",
+      "title": "Container Engine for Kubernetes: Security Practices",
+      "dek": "In the season's final episode, hosts Lois Houston and Nikita Abraham interview senior OCI instructor Mahendra Mehra about the security practices that are vital for OKE clusters on OCI. Mahendra shares his expert insights on the importance of Kubernetes security, especially in today's digital landsca",
+      "url": "https://oracleuniversitypodcast.libsyn.com/container-engine-for-kubernetes-security-practices",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP7.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-16T14:00:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "OCI",
+        "Security"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "be8b92279cd0831f",
+      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
+      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-09T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "d38db88cd3fd3cc0",
+      "slug": "working-with-oke-virtual-nodes-f5a370",
+      "title": "Working with OKE Virtual Nodes",
+      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
+      "publishedAt": "2024-07-02T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "bd401ec004db1755",
+      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
+      "title": "Introduction to OCI Container Engine for Kubernetes",
+      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-25T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "1d3aa287378f7e71",
+      "slug": "basics-of-kubernetes-23e26c",
+      "title": "Basics of Kubernetes",
+      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
+      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-18T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "ec54bf5b81f570ed",
+      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
+      "title": "Oracle Cloud Infrastructure Registry",
+      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
+      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-11T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "Oracle Cloud",
+        "OCI",
+        "Oracle Cloud Infrastructure"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "6ba1bee89c8a91cc",
+      "slug": "what-is-containerization-0326f4",
+      "title": "What is Containerization?",
+      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
+      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
+      "publishedAt": "2024-06-04T14:00:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "OCI",
+        "Oracle University"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "b45e3d006fc93558",
+      "slug": "encore-episode-oci-ai-services-5e7f50",
+      "title": "Encore Episode: OCI AI Services",
+      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-28T14:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "OCI",
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "57fe9154d1531745",
+      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
+      "title": "Encore Episode: Generative AI and Large Language Models",
+      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-14T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "AI"
+      ],
+      "priority": 36
+    },
+    {
+      "id": "60d141d1ef069450",
+      "slug": "encore-episode-deep-learning-fe981b",
+      "title": "Encore Episode: Deep Learning",
+      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
+      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
+      "source": "Oracle University Podcast",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
+      "publishedAt": "2024-05-07T14:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
       "priority": 36
     }
   ]
