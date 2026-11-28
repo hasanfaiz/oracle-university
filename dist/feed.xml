@@ -6,17 +6,8 @@
     <atom:link href="https://oracle-university.com/feed.xml" rel="self" type="application/rss+xml" />
     <description>A Flipboard-inspired daily magazine covering Oracle Cloud Infrastructure, Oracle Database, AI Database, Java, MySQL, NetSuite, Fusion Apps, Oracle Health, certifications, security alerts, earnings, and partner ecosystem news.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 02:59:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 02:49:59 GMT</lastBuildDate>
     
-    <item>
-      <title>&quot;Java in the Age of AI&quot; [AtA]</title>
-      <link>https://oracle-university.com/stories/java-in-the-age-of-ai-ata-f56c78/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/java-in-the-age-of-ai-ata-f56c78/</guid>
-      <pubDate>Thu, 26 Nov 2026 10:43:00 GMT</pubDate>
-      <category>Training &amp; Certification</category>
-      <description>A discussion of Java&#39;s expanding support for AI workloads: From its strengths in adding AI features to existing applications to new capabilities for writing Java code that runs on GPUs; from having Java-native models to long-term ideas for becoming better at training models, too. In this &quot;Ask the Ar</description>
-      <source url="https://inside.java/podcast/76">Inside Java</source>
-    </item>
     <item>
       <title>Oracle Sets the Date for its First Quarter Fiscal Year 2027 Earnings Announcement</title>
       <link>https://oracle-university.com/stories/oracle-sets-the-date-for-its-first-quarter-fiscal-year-2027-earnings-announcement-a540e9/</link>
@@ -36,85 +27,211 @@
       <source url="https://investor.oracle.com/investor-news/news-details/2026/Oracle-Sets-the-Date-for-its-Fourth-Quarter-Fiscal-Year-2026-Earnings-Announcement/default.aspx">Oracle Investor Relations News</source>
     </item>
     <item>
-      <title>Clinical Trials Management System (CTMS) Market - Global Forecast 2026-2032 | AI, Cloud Integration, and Decentralized Trials Drive 6.73% CAGR and a USD 2.80 Billion Opportunity by 2032</title>
-      <link>https://oracle-university.com/stories/clinical-trials-management-system-ctms-market-global-forecast-2026-2032-ai-cloud-integra-b8c192/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/clinical-trials-management-system-ctms-market-global-forecast-2026-2032-ai-cloud-integra-b8c192/</guid>
-      <pubDate>Thu, 26 Nov 2026 14:17:00 GMT</pubDate>
+      <title>US Air Force Cloud One Breach Exposes Military Logistics Amid Iran Cyber Threats</title>
+      <link>https://oracle-university.com/stories/us-air-force-cloud-one-breach-exposes-military-logistics-amid-iran-cyber-threats-2dd2df/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/us-air-force-cloud-one-breach-exposes-military-logistics-amid-iran-cyber-threats-2dd2df/</guid>
+      <pubDate>Fri, 27 Nov 2026 14:41:00 GMT</pubDate>
       <category>Security</category>
-      <description>Integrated, AI-ready CTMS platforms boost ROI by reducing cycle times, duplicate data entry and compliance risk while improving oversight and global trial scalability.</description>
-      <source url="https://www.globenewswire.com/fr/news-release/2026/11/26/3410796/28124/en/clinical-trials-management-system-ctms-market-global-forecast-2026-2032-ai-cloud-integration-and-decentralized-trials-drive-6-73-cagr-and-a-usd-2-80-billion-opportunity-by-2032.html">Globenewswire_fr</source>
+      <description>Hackers accessed the US Air Force&#39;s Cloud One system, exposing logistics data. This breach follows Iranian threats against US tech giants and widespread infrastructure outages.</description>
+      <source url="https://us.headtopics.com/news/us-air-force-cloud-one-breach-exposes-military-logistics-90242262">Headtopics</source>
     </item>
     <item>
-      <title>Top Blockchain Stocks To Consider – November 25th</title>
-      <link>https://oracle-university.com/stories/top-blockchain-stocks-to-consider-november-25th-4c1b1f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-blockchain-stocks-to-consider-november-25th-4c1b1f/</guid>
-      <pubDate>Thu, 26 Nov 2026 14:12:43 GMT</pubDate>
+      <title>Hackers breached the Air Force’s cloud platform: Report</title>
+      <link>https://oracle-university.com/stories/hackers-breached-the-air-force-s-cloud-platform-report-52e2c5/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/hackers-breached-the-air-force-s-cloud-platform-report-52e2c5/</guid>
+      <pubDate>Fri, 27 Nov 2026 14:39:10 GMT</pubDate>
+      <category>Security</category>
+      <description>Hackers reportedly breached the U.S. Air Force’s flagship cloud infrastructure, Cloud One. It’s unclear who was behind the attack.</description>
+      <source url="https://www.washingtonexaminer.com/policy/defense/4816440/hackers-breach-air-force-cloud-platform/">Washington Examiner</source>
+    </item>
+    <item>
+      <title>Hackers breach US Air Force cloud computing platform</title>
+      <link>https://oracle-university.com/stories/hackers-breach-us-air-force-cloud-computing-platform-188afe/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/hackers-breach-us-air-force-cloud-computing-platform-188afe/</guid>
+      <pubDate>Fri, 27 Nov 2026 14:38:11 GMT</pubDate>
+      <category>Security</category>
+      <description>Hackers have breached the US Air Force&#39;s flagship cloud computing platform, three people familiar with the matter told Reuters, in a development that could jeopardise a vast swathe of sensitive tactical, personnel and logistics data. The intrusion at Cloud One was discovered within the past month or</description>
+      <source url="https://news.rthk.hk/rthk/en/component/k2/1879538-20261127.htm">香港電台新聞網 - Rthk</source>
+    </item>
+    <item>
+      <title>AI Powered Supply Chain Planning Software Market Report 2026 | Capitalize on 24.8% CAGR and $26.72B in Revenue by 2030 with Microsoft, Oracle, SAP and IBM</title>
+      <link>https://oracle-university.com/stories/ai-powered-supply-chain-planning-software-market-report-2026-capitalize-on-24-8-cagr-and-b73e83/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-powered-supply-chain-planning-software-market-report-2026-capitalize-on-24-8-cagr-and-b73e83/</guid>
+      <pubDate>Fri, 27 Nov 2026 14:32:00 GMT</pubDate>
       <category>Business &amp; Earnings</category>
-      <description>Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Globant, and Mercurity Fintech are the five Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, operate, or provide services </description>
-      <source url="https://www.tickerreport.com/banking-finance/13674689/top-blockchain-stocks-to-consider-november-25th.html">Ticker Report</source>
+      <description>Dublin, Nov. 27, 2026 (GLOBE NEWSWIRE) -- &quot;Artificial Intelligence (AI) Powered Supply Chain Planning Software Market Global Report 2026&quot; has been added to ResearchAndMarkets.com&#39;s offering.</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/11/27/3411266/28124/en/ai-powered-supply-chain-planning-software-market-report-2026-capitalize-on-24-8-cagr-and-26-72b-in-revenue-by-2030-with-microsoft-oracle-sap-and-ibm.html">Globenewswire_fr</source>
     </item>
     <item>
-      <title>Top 10 Best Database Management Software In India In 2027</title>
-      <link>https://oracle-university.com/stories/top-10-best-database-management-software-in-india-in-2027-4083e9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/top-10-best-database-management-software-in-india-in-2027-4083e9/</guid>
-      <pubDate>Thu, 26 Nov 2026 12:28:48 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Top 10 Best Database Management Software in India in 2027 The rapid expansion of digital infrastructure, cloud computing, artificial intelligence, enterprise automation and data-driven business operations has significantly increased the demand for advanced database management software in India. Orga</description>
-      <source url="https://www.inventiva.co.in/trends/top-10-best-database-management-software-in-india-in-2027/">Inventiva</source>
+      <title>AI-Augmented MedTech Quality Management Systems Market to Reach $1.98 Billion by 2030 | Industry Analysis with Profiles of Oracle, Honeywell, IQVIA, Dassault Systemes, PTC and More</title>
+      <link>https://oracle-university.com/stories/ai-augmented-medtech-quality-management-systems-market-to-reach-1-98-billion-by-2030-ind-ecf942/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/ai-augmented-medtech-quality-management-systems-market-to-reach-1-98-billion-by-2030-ind-ecf942/</guid>
+      <pubDate>Fri, 27 Nov 2026 14:29:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Dublin, Nov. 27, 2026 (GLOBE NEWSWIRE) -- &quot;AI-Augmented Medtech Quality Management Systems Market Report 2026&quot; has been added to ResearchAndMarkets.com&#39;s offering.</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/11/27/3411259/28124/en/ai-augmented-medtech-quality-management-systems-market-to-reach-1-98-billion-by-2030-industry-analysis-with-profiles-of-oracle-honeywell-iqvia-dassault-systemes-ptc-and-more.html">Globenewswire_fr</source>
     </item>
     <item>
-      <title>Eurobites: BT taps Anthropic and friends to offer cyber training to SMEs</title>
-      <link>https://oracle-university.com/stories/eurobites-bt-taps-anthropic-and-friends-to-offer-cyber-training-to-smes-68e7e8/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/eurobites-bt-taps-anthropic-and-friends-to-offer-cyber-training-to-smes-68e7e8/</guid>
-      <pubDate>Thu, 26 Nov 2026 12:20:50 GMT</pubDate>
+      <title>Hackers breached US Air Force’s cloud platform, report says</title>
+      <link>https://oracle-university.com/stories/hackers-breached-us-air-force-s-cloud-platform-report-says-ce97f9/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/hackers-breached-us-air-force-s-cloud-platform-report-says-ce97f9/</guid>
+      <pubDate>Fri, 27 Nov 2026 14:28:06 GMT</pubDate>
+      <category>Security</category>
+      <description>It was uncovered in the past month during a platform upgrade, according to the report.</description>
+      <source url="https://www.redlandsdailyfacts.com/2026/11/27/air-force-cloud-breach/">Redlands Daily Facts</source>
+    </item>
+    <item>
+      <title>Hackers Broke Into the U.S. Air Force’s Cloud Systems</title>
+      <link>https://oracle-university.com/stories/hackers-broke-into-the-u-s-air-force-s-cloud-systems-4319c0/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/hackers-broke-into-the-u-s-air-force-s-cloud-systems-4319c0/</guid>
+      <pubDate>Fri, 27 Nov 2026 14:25:07 GMT</pubDate>
+      <category>Security</category>
+      <description>The breach was discovered sometime in the last month, say reports.</description>
+      <source url="https://gizmodo.com/hackers-broke-into-the-u-s-air-forces-cloud-systems-2000846174">Gizmodo</source>
+    </item>
+    <item>
+      <title>Hackers breach US Air Force flagship Cloud One computing platform</title>
+      <link>https://oracle-university.com/stories/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-1c0e88/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/hackers-breach-us-air-force-flagship-cloud-one-computing-platform-1c0e88/</guid>
+      <pubDate>Fri, 27 Nov 2026 14:23:36 GMT</pubDate>
+      <category>Security</category>
+      <description>Hackers have reportedly breached the service&#39;s flagship cloud computing platform, in a development that could jeopardize a vast swathe of tactical, personnel and logistics data.</description>
+      <source url="https://www.defensenews.com/pentagon/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/">Defense News</source>
+    </item>
+    <item>
+      <title>Clinical Trials Market Size, Share, and Trends - Global Forecast 2026-2032 | AI, Decentralized Models, and Precision Medicine Drive 9.59% CAGR Toward $173.55 Billion</title>
+      <link>https://oracle-university.com/stories/clinical-trials-market-size-share-and-trends-global-forecast-2026-2032-ai-decentralized--c8620a/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/clinical-trials-market-size-share-and-trends-global-forecast-2026-2032-ai-decentralized--c8620a/</guid>
+      <pubDate>Fri, 27 Nov 2026 14:19:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Dublin, Nov. 27, 2026 (GLOBE NEWSWIRE) -- &quot;Clinical Trials Market - Global Forecast 2026-2032&quot; has been added to ResearchAndMarkets.com&#39;s offering.</description>
+      <source url="https://www.globenewswire.com/fr/news-release/2026/11/27/3411246/28124/en/clinical-trials-market-size-share-and-trends-global-forecast-2026-2032-ai-decentralized-models-and-precision-medicine-drive-9-59-cagr-toward-173-55-billion.html">Globenewswire_fr</source>
+    </item>
+    <item>
+      <title>US Air Force’s Cloud One Hacked, raising alarms over Sensitive Military Operations</title>
+      <link>https://oracle-university.com/stories/us-air-force-s-cloud-one-hacked-raising-alarms-over-sensitive-military-operations-fb0c7b/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/us-air-force-s-cloud-one-hacked-raising-alarms-over-sensitive-military-operations-fb0c7b/</guid>
+      <pubDate>Fri, 27 Nov 2026 14:02:12 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>ISLAMABAD – A cyber intrusion deep inside US Air Force’s digital infrastructure sets off alarm bells in Washington as Hackers…</description>
+      <source url="https://pakobserver.net/us-air-forces-cloud-one-hacked-raising-alarms-over-sensitive-military-operations/">Pakistan Observer</source>
+    </item>
+    <item>
+      <title>POS Printer Market: Retail Automation, Omnichannel Commerce and Intelligent Receipt Printing Reshape Business Opportunities Worldwide</title>
+      <link>https://oracle-university.com/stories/pos-printer-market-retail-automation-omnichannel-commerce-and-intelligent-receipt-printi-e3df38/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/pos-printer-market-retail-automation-omnichannel-commerce-and-intelligent-receipt-printi-e3df38/</guid>
+      <pubDate>Fri, 27 Nov 2026 13:33:38 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The global POS Printer Market is evolving as retailers, restaurants, hospitality businesses, and payment service providers modernize their point-of-sale infrastructure. Growing demand for faster transaction processing, reliable receipt generation, integrated payment systems, and connected retail tec</description>
+      <source url="https://www.openpr.com/news/4702267/pos-printer-market-retail-automation-omnichannel-commerce">Openpr.com</source>
+    </item>
+    <item>
+      <title>Oracle Corporation $ORCL Stock Position Raised by Kirtland Hills Capital Management LLC</title>
+      <link>https://oracle-university.com/stories/oracle-corporation-orcl-stock-position-raised-by-kirtland-hills-capital-management-llc-97aa06/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-corporation-orcl-stock-position-raised-by-kirtland-hills-capital-management-llc-97aa06/</guid>
+      <pubDate>Fri, 27 Nov 2026 11:37:30 GMT</pubDate>
+      <category>Business &amp; Earnings</category>
+      <description>Kirtland Hills Capital Management LLC raised its holdings in shares of Oracle Corporation (NYSE:ORCL - Free Report) by 180.2% in the 3rd quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC). The fund owned 23,844 shares of the enterprise software provide</description>
+      <source url="https://www.marketbeat.com/instant-alerts/filing-oracle-corporation-orcl-stock-position-raised-by-kirtland-hills-capital-management-llc-2026-11-27/">Market Beat</source>
+    </item>
+    <item>
+      <title>&quot;Java in the Age of AI&quot; [AtA]</title>
+      <link>https://oracle-university.com/stories/java-in-the-age-of-ai-ata-f56c78/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/java-in-the-age-of-ai-ata-f56c78/</guid>
+      <pubDate>Thu, 26 Nov 2026 10:43:00 GMT</pubDate>
       <category>Training &amp; Certification</category>
-      <description>Also in today&#39;s EMEA regional roundup: DE-CIX offers &#39;simplified&#39; access to Oracle&#39;s EU Sovereign Cloud; Orange proposes closing BeTV platform; Ethio Telecom seeks Japanese collaboration.</description>
-      <source url="https://www.lightreading.com/security/eurobites-bt-taps-anthropic-and-friends-to-offer-cyber-training-to-smes">Lightreading</source>
+      <description>A discussion of Java&#39;s expanding support for AI workloads: From its strengths in adding AI features to existing applications to new capabilities for writing Java code that runs on GPUs; from having Java-native models to long-term ideas for becoming better at training models, too. In this &quot;Ask the Ar</description>
+      <source url="https://inside.java/podcast/76">Inside Java</source>
     </item>
     <item>
-      <title>Tepper Trims Alphabet by ~46% and Dumps Broadcom &amp; AMD While Backing Micron and Oracle</title>
-      <link>https://oracle-university.com/stories/tepper-trims-alphabet-by-46-and-dumps-broadcom-amd-while-backing-micron-and-oracle-1dd131/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/tepper-trims-alphabet-by-46-and-dumps-broadcom-amd-while-backing-micron-and-oracle-1dd131/</guid>
-      <pubDate>Thu, 26 Nov 2026 12:15:05 GMT</pubDate>
+      <title>US Air Force flagship Cloud One computing system hit by hackers</title>
+      <link>https://oracle-university.com/stories/us-air-force-flagship-cloud-one-computing-system-hit-by-hackers-1bb438/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/us-air-force-flagship-cloud-one-computing-system-hit-by-hackers-1bb438/</guid>
+      <pubDate>Fri, 27 Nov 2026 11:23:16 GMT</pubDate>
       <category>Oracle Ecosystem</category>
-      <description>David Tepper sold off three AI winners that were still growing fast and bought two others instead. One of them pays its own way, while the other leans heavily on borrowed money and customer prepayments.</description>
-      <source url="https://247wallst.com/investing/2026/11/26/tepper-trims-alphabet-by-46-and-dumps-broadcom-amd-while-backing-micron-and-oracle/">24/7 Wall St</source>
+      <description>Cloud One is meant to ​serve ⁠as a one-stop shop for the Air Force&#39;s IT needs, combining the resources of Microsoft, Amazon, Oracle and Alphabet</description>
+      <source url="https://www.independent.co.uk/news/world/americas/us-air-force-hacked-cloud-one-b3092702.html">The Independent</source>
     </item>
     <item>
-      <title>Customer Communication Management Market (2033): AI-Powered CCM Migration, TRAI&#39;s New Anti-Spam Regulations &amp; Cloud-Based Customer Engagement Drive Enterprise Demand</title>
-      <link>https://oracle-university.com/stories/customer-communication-management-market-2033-ai-powered-ccm-migration-trai-s-new-anti-s-a638a7/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/customer-communication-management-market-2033-ai-powered-ccm-migration-trai-s-new-anti-s-a638a7/</guid>
-      <pubDate>Thu, 26 Nov 2026 10:55:12 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>The Global Customer Communication Management (CCM) Market reached US$2.0 billion in 2025 and is projected to reach US$4.6 billion by 2033, growing at a CAGR of 11.0% during 2026-2033. Market growth is driven by increasing demand for personalized customer experiences,</description>
-      <source url="https://www.openpr.com/news/4701006/customer-communication-management-market-2033-ai-powered">Openpr.com</source>
-    </item>
-    <item>
-      <title>ICS.AI taps Kyle Burke to lead Wales expansion</title>
-      <link>https://oracle-university.com/stories/ics-ai-taps-kyle-burke-to-lead-wales-expansion-133f53/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ics-ai-taps-kyle-burke-to-lead-wales-expansion-133f53/</guid>
-      <pubDate>Thu, 26 Nov 2026 08:42:27 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>The AI provider said it will recruit up to 15 new staff to support Welsh authorities adopting AI</description>
-      <source url="https://www.itpro.com/it-leadership/ics-ai-taps-kyle-burke-to-lead-wales-expansion">Itpro</source>
-    </item>
-    <item>
-      <title>AI stock rout deepens, with Anthropic hitting $74</title>
-      <link>https://oracle-university.com/stories/ai-stock-rout-deepens-with-anthropic-hitting-74-04de2f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-stock-rout-deepens-with-anthropic-hitting-74-04de2f/</guid>
-      <pubDate>Thu, 26 Nov 2026 06:59:18 GMT</pubDate>
-      <category>Business &amp; Earnings</category>
-      <description>ONLY AVAILABLE IN PAID PLANS</description>
-      <source url="https://www.zawya.com/en/capital-markets/ai-shaping-digital-future/ai-stock-rout-deepens-with-anthropic-hitting-74-2541224">Zawya</source>
-    </item>
-    <item>
-      <title>Mobile Banking Boom, Rising Risks: The Fraud Detection and Prevention Market Explained</title>
-      <link>https://oracle-university.com/stories/mobile-banking-boom-rising-risks-the-fraud-detection-and-prevention-market-explained-6865ec/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/mobile-banking-boom-rising-risks-the-fraud-detection-and-prevention-market-explained-6865ec/</guid>
-      <pubDate>Thu, 26 Nov 2026 06:29:25 GMT</pubDate>
+      <title>FBI, CIA, Pentagon and now Air Force: US government under cyberattack, at least 8 federal systems hit in three months</title>
+      <link>https://oracle-university.com/stories/fbi-cia-pentagon-and-now-air-force-us-government-under-cyberattack-at-least-8-federal-sy-3cff3c/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/fbi-cia-pentagon-and-now-air-force-us-government-under-cyberattack-at-least-8-federal-sy-3cff3c/</guid>
+      <pubDate>Fri, 27 Nov 2026 10:51:37 GMT</pubDate>
       <category>Security</category>
-      <description>Mobile banking, instant payments, and online shopping have made transactions faster, and they have also given fraudsters more targets. Fraudsters now use generative AI too, [read full press release...]</description>
-      <source url="https://express-press-release.net/news/2026/11/26/1787153">Express-press-release</source>
+      <description>Recently, cyberattacks targeting U.S. federal systems have surged, with a significant breach compromising the U.S. Air Force&#39;s Cloud One platform. This essential system oversees military applications for logistics and personnel management. Additional incidents have also impacted agencies such as the</description>
+      <source url="https://economictimes.indiatimes.com/news/international/world-news/fbi-cia-pentagon-and-now-air-force-us-government-under-cyberattack-at-least-8-federal-systems-hit-in-three-months/articleshow/136227825.cms">The Economic Times</source>
+    </item>
+    <item>
+      <title>Selling AWS through Blesta: the product map, and the charges that outlive a cancellation</title>
+      <link>https://oracle-university.com/stories/selling-aws-through-blesta-the-product-map-and-the-charges-that-outlive-a-cancellation-4cb1ce/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/selling-aws-through-blesta-the-product-map-and-the-charges-that-outlive-a-cancellation-4cb1ce/</guid>
+      <pubDate>Fri, 27 Nov 2026 10:00:00 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>Every Blesta service lives through the same handful of events: it&#39;s activated, it renews, it may be suspended for an unpaid invoice, and one day it&#39;s cancelled. When the service is a shared hosting account, those events cost you nothing extra. When it&#39;s something running in your AWS account, each on</description>
+      <source url="https://dev.to/pdmodules/selling-aws-through-blesta-the-product-map-and-the-charges-that-outlive-a-cancellation-938">Dev Community</source>
+    </item>
+    <item>
+      <title>Blockchain In Healthcare Market: USD 164.89 Billion by 2034, 34.15% CAGR</title>
+      <link>https://oracle-university.com/stories/blockchain-in-healthcare-market-usd-164-89-billion-by-2034-34-15-cagr-91cf68/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/blockchain-in-healthcare-market-usd-164-89-billion-by-2034-34-15-cagr-91cf68/</guid>
+      <pubDate>Fri, 27 Nov 2026 09:26:04 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>According to Polaris Market Research, the Blockchain In Healthcare Market was valued at USD 11.72 billion in 2025. The report places the 2026 market at [read full press release...]</description>
+      <source url="https://express-press-release.net/news/2026/11/27/1788181">Express-press-release</source>
+    </item>
+    <item>
+      <title>Microsoft’s Agent 365 tackles multicloud AI governance</title>
+      <link>https://oracle-university.com/stories/microsoft-s-agent-365-tackles-multicloud-ai-governance-79ab2e/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/microsoft-s-agent-365-tackles-multicloud-ai-governance-79ab2e/</guid>
+      <pubDate>Fri, 27 Nov 2026 09:00:00 GMT</pubDate>
+      <category>Oracle Cloud</category>
+      <description>For more than 20 years, I have watched cloud computing evolve from a relatively simple extension of enterprise infrastructure into a distributed collection of platforms, services, data stores, applications, and now AI agents. One lesson has remained clear: Enterprises don’t operate in the clean, sin</description>
+      <source url="https://www.infoworld.com/article/4253806/microsofts-agent-365-tackles-multicloud-ai-governance.html">Info World</source>
+    </item>
+    <item>
+      <title>Enterprise Performance Management (EPM) Software Market Poised for Accelerated Growth to 2032 with In-Depth Market Assessment and Forecasts</title>
+      <link>https://oracle-university.com/stories/enterprise-performance-management-epm-software-market-poised-for-accelerated-growth-to-2-f53cee/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/enterprise-performance-management-epm-software-market-poised-for-accelerated-growth-to-2-f53cee/</guid>
+      <pubDate>Fri, 27 Nov 2026 07:35:27 GMT</pubDate>
+      <category>Applications &amp; NetSuite</category>
+      <description>The global Enterprise Performance Management (EPM) Software market is comprehensive and accurately presented in the report with the help of detailed market information and data, critical findings, error-free statistics, and reliable forecasts. The report digs deep into important aspects of</description>
+      <source url="https://www.openpr.com/news/4701734/enterprise-performance-management-epm-software-market">Openpr.com</source>
+    </item>
+    <item>
+      <title>Digital Health Market Competitive Analysis Highlights AI-Powered Clinical Workflows and Expansion of Virtual Healthcare Platforms</title>
+      <link>https://oracle-university.com/stories/digital-health-market-competitive-analysis-highlights-ai-powered-clinical-workflows-and--236d06/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/digital-health-market-competitive-analysis-highlights-ai-powered-clinical-workflows-and--236d06/</guid>
+      <pubDate>Fri, 27 Nov 2026 07:15:28 GMT</pubDate>
+      <category>Training &amp; Certification</category>
+      <description>FMI&#39;s November 2026 assessment examines leading healthcare technology providers, electronic health records, clinical documentation AI, connected medical devices, and virtual care platforms shaping the global digital health industry. Future Market Insights (FMI), a global market intelligence and cons</description>
+      <source url="https://www.openpr.com/news/4701695/digital-health-market-competitive-analysis-highlights">Openpr.com</source>
+    </item>
+    <item>
+      <title>Point Of Sale Market Size, Forecast, Demand, 2034</title>
+      <link>https://oracle-university.com/stories/point-of-sale-market-size-forecast-demand-2034-753154/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/point-of-sale-market-size-forecast-demand-2034-753154/</guid>
+      <pubDate>Fri, 27 Nov 2026 06:10:23 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>(MENAFN - Straits Research) &quot; id=&quot;report-summary&quot;&gt;Point of Sale Market Size &amp; Share AnalysisThe global point of sale market size was valued at USD 38.60 billion in 2025 and is projected to grow from ...</description>
+      <source url="https://menafn.com/1112030164/Point-Of-Sale-Market-Size-Forecast-Demand-2034">Menafn</source>
+    </item>
+    <item>
+      <title>Embedded AI Market to Witness Rapid Growth Driven by Rising Demand for Intelligent Devices and Real-Time AI-Powered Automation</title>
+      <link>https://oracle-university.com/stories/embedded-ai-market-to-witness-rapid-growth-driven-by-rising-demand-for-intelligent-devic-2f6a06/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/embedded-ai-market-to-witness-rapid-growth-driven-by-rising-demand-for-intelligent-devic-2f6a06/</guid>
+      <pubDate>Fri, 27 Nov 2026 05:35:30 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The Embedded AI Market is part of a wider industry environment shaped by business activity, customer requirements, and changes in product or service demand. Polaris [read full press release...]</description>
+      <source url="https://express-press-release.net/news/2026/11/27/1787867">Express-press-release</source>
+    </item>
+    <item>
+      <title>ModelOps Market to Experience Rapid Growth Driven by Rising Adoption of AI and Machine Learning Technologies</title>
+      <link>https://oracle-university.com/stories/modelops-market-to-experience-rapid-growth-driven-by-rising-adoption-of-ai-and-machine-l-7b4066/</link>
+      <guid isPermaLink="true">https://oracle-university.com/stories/modelops-market-to-experience-rapid-growth-driven-by-rising-adoption-of-ai-and-machine-l-7b4066/</guid>
+      <pubDate>Fri, 27 Nov 2026 03:49:39 GMT</pubDate>
+      <category>Oracle Ecosystem</category>
+      <description>The ModelOPs Market is part of a wider industry environment shaped by business activity, customer requirements, and changes in product or service demand. Polaris Market [read full press release...]</description>
+      <source url="https://express-press-release.net/news/2026/11/26/1787752">Express-press-release</source>
     </item>
     <item>
       <title>The Button that did Absolutely Nothing</title>
@@ -340,123 +457,6 @@
       <category>Training &amp; Certification</category>
       <description>In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham dive into Oracle Fusion Cloud Applications and the new courses and certifications on offer. They are joined by Oracle Fusion Apps experts Patrick McBride and Bill Lawson who introduce the concept of Oracle Modern</description>
       <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-oracle-fusion-cloud-applications-foundations-training-certifications">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Best of 2025: Introduction to MySQL</title>
-      <link>https://oracle-university.com/stories/best-of-2025-introduction-to-mysql-2273ef/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/best-of-2025-introduction-to-mysql-2273ef/</guid>
-      <pubDate>Tue, 02 Dec 2025 05:00:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>Join hosts Lois Houston and Nikita Abraham as they explore the world of MySQL 8.4. Together with Perside Foster, a MySQL Principal Solution Engineer, they break down the fundamentals of MySQL, its wide range of applications, and why it&#39;s so popular among developers and database administrators. This </description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/best-of-2025-introduction-to-mysql">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>The Transformative Power of Low Code Development</title>
-      <link>https://oracle-university.com/stories/the-transformative-power-of-low-code-development-d12adc/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/the-transformative-power-of-low-code-development-d12adc/</guid>
-      <pubDate>Tue, 25 Nov 2025 13:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>In this Episode Orlaith Lawton speaks with Oracle ACE Roberto Capancioni about the importance of APEX and why it is the world&#39;s most popular low-code application platform. ------------------------------------------------------ Episode Transcript: 00:00:00:00 - 00:00:35:14 Unknown Welcome to the Orac</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/the-transformative-power-of-low-code-development">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Understanding Security Risks and Threats in the Cloud - Part 1</title>
-      <link>https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/understanding-security-risks-and-threats-in-the-cloud-part-1-82a4a9/</guid>
-      <pubDate>Tue, 18 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>This week, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to explore what truly keeps data safe, and what puts it at risk. They discuss the CIA triad, dive into hashing and encryption, and shed light on how cyber threats like malware, phishing, and ransomware t</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/understanding-security-risks-and-threats-in-the-cloud-part-1">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Networking &amp; Security Essentials</title>
-      <link>https://oracle-university.com/stories/networking-security-essentials-113af4/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/networking-security-essentials-113af4/</guid>
-      <pubDate>Tue, 11 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Security</category>
-      <description>How do all your devices connect and stay safe in the cloud? In this episode, Lois Houston and Nikita Abraham talk with OCI instructors Sergio Castro and Orlando Gentil about the basics of how networks work and the simple steps that help protect them. You&#39;ll learn how information gets from one place </description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/networking-security-essentials">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Inside Cloud Networking</title>
-      <link>https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/inside-cloud-networking-90fb7c/</guid>
-      <pubDate>Tue, 04 Nov 2025 12:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>In this episode, hosts Lois Houston and Nikita Abraham team up with Senior Principal OCI Instructor Sergio Castro to unpack the basics of cloud networking and the Domain Name System (DNS). You&#39;ll learn how local and virtual networks connect devices, and how DNS seamlessly translates familiar names l</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/inside-cloud-networking">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 4</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-4-e48202/</guid>
-      <pubDate>Tue, 28 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>In this episode, hosts Lois Houston and Nikita Abraham, along with Principal OCI Instructor Orlando Gentil, break down the differences between Infrastructure-as-a-Service, Platform-as-a-Service, and Software-as-a-Service. The conversation explores how each framework influences control, cost efficien</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-4">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 3</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-3-5caa7a/</guid>
-      <pubDate>Tue, 21 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Have you ever considered how a single server can support countless applications and workloads at once? In this episode, hosts Lois Houston and Nikita Abraham, together with Principal OCI Instructor Orlando Gentil, explore the sophisticated technologies that make this possible in modern cloud data ce</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-3">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>AI and Security</title>
-      <link>https://oracle-university.com/stories/ai-and-security-7b0e26/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-and-security-7b0e26/</guid>
-      <pubDate>Tue, 14 Oct 2025 15:58:49 GMT</pubDate>
-      <category>Security</category>
-      <description>In this episode host Oracle Academy Program Manager Benelux &amp; DACH Rik Bleeker speaks with Oracle expert Thomas Minne on the crucial intersection of Artificial Intelligence and data security, explaining why the Oracle Database is foundational to both. Drawing on his 15 years as a DBA and current rol</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-and-security">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 2</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-2-9a562f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-2-9a562f/</guid>
-      <pubDate>Tue, 14 Oct 2025 06:44:39 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Have you ever wondered where all your digital memories, work projects, or favorite photos actually live in the cloud? In this episode, Lois Houston and Nikita Abraham are joined by Principal OCI Instructor Orlando Gentil to discuss cloud storage. They explore how data is carefully organized, the dif</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-2">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>AI for Data: When Data meets Intelligence</title>
-      <link>https://oracle-university.com/stories/ai-for-data-when-data-meets-intelligence-f7601f/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/ai-for-data-when-data-meets-intelligence-f7601f/</guid>
-      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
-      <category>AI &amp; Database</category>
-      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In this two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle AI Vector an</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/ai-for-data-when-data-meet-intelligence">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Part II of AI for Data: When Data meets Intelligence</title>
-      <link>https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/part-ii-of-ai-for-data-when-data-meets-intelligence-bb6874/</guid>
-      <pubDate>Tue, 07 Oct 2025 12:00:00 GMT</pubDate>
-      <category>Oracle Ecosystem</category>
-      <description>AI is driving a remarkable transformation throughout the industry, delivering unprecedented productivity gains and enabling rapid insights from vast amounts of data. In the second of a two-episode season premiere, Tirthankar Lahiri, SVP of Mission-Critical Data and AI Engines, discusses how Oracle A</description>
-      <source url="https://9074a185-eadc-4a2c-bdf2-3d47f0ddb696.libsyn.com/part-ii-of-data-for-ai-when-data-meets-intelligence">Oracle Academy Tech Chat</source>
-    </item>
-    <item>
-      <title>Cloud Data Centers: Core Concepts - Part 1</title>
-      <link>https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/cloud-data-centers-core-concepts-part-1-931d1e/</guid>
-      <pubDate>Tue, 07 Oct 2025 11:00:00 GMT</pubDate>
-      <category>Oracle Cloud</category>
-      <description>Curious about what really goes on inside a cloud data center? In this episode, Lois Houston and Nikita Abraham chat with Principal OCI Instructor Orlando Gentil about how cloud data centers are transforming the way organizations manage technology. They explore the differences between traditional and</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/cloud-data-centers-core-concepts-part-1">Oracle University Podcast</source>
-    </item>
-    <item>
-      <title>Oracle AI for Fusion Apps</title>
-      <link>https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</link>
-      <guid isPermaLink="true">https://oracle-university.com/stories/oracle-ai-for-fusion-apps-c0a344/</guid>
-      <pubDate>Tue, 23 Sep 2025 11:00:00 GMT</pubDate>
-      <category>Applications &amp; NetSuite</category>
-      <description>Want to make AI work for your business? In today&#39;s episode, Lois Houston and Nikita Abraham continue their discussion of AI in Oracle Fusion Applications by focusing on three key AI capabilities: predictive, generative, and agentic. Joining them is Principal Instructor Yunus Mohammed, who explains h</description>
-      <source url="https://oracleuniversitypodcast.libsyn.com/oracle-ai-for-fusion-apps">Oracle University Podcast</source>
     </item>
   </channel>
 </rss>

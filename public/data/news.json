@@ -1,28 +1,11 @@
 {
-  "generatedAt": "2026-11-27T02:59:01.772Z",
+  "generatedAt": "2026-11-28T02:49:59.462Z",
   "provider": "auto",
   "site": {
     "brandName": "Oracle University Daily",
     "siteUrl": "https://oracle-university.com"
   },
   "items": [
-    {
-      "id": "5839d73db7fc28a2",
-      "slug": "java-in-the-age-of-ai-ata-f56c78",
-      "title": "\"Java in the Age of AI\" [AtA]",
-      "dek": "A discussion of Java's expanding support for AI workloads: From its strengths in adding AI features to existing applications to new capabilities for writing Java code that runs on GPUs; from having Java-native models to long-term ideas for becoming better at training models, too. In this \"Ask the Ar",
-      "url": "https://inside.java/podcast/76",
-      "source": "Inside Java",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/insidejava/ijp-76.mp3?dest-id=2318780",
-      "publishedAt": "2026-11-26T10:43:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "Java",
-        "AI"
-      ],
-      "priority": 52
-    },
     {
       "id": "a6ea65aeb044c987",
       "slug": "oracle-sets-the-date-for-its-first-quarter-fiscal-year-2027-earnings-announcement-a540e9",
@@ -56,153 +39,419 @@
       "priority": 46
     },
     {
-      "id": "6242eb9aba623344",
-      "slug": "clinical-trials-management-system-ctms-market-global-forecast-2026-2032-ai-cloud-integra-b8c192",
-      "title": "Clinical Trials Management System (CTMS) Market - Global Forecast 2026-2032 | AI, Cloud Integration, and Decentralized Trials Drive 6.73% CAGR and a USD 2.80 Billion Opportunity by 2032",
-      "dek": "Integrated, AI-ready CTMS platforms boost ROI by reducing cycle times, duplicate data entry and compliance risk while improving oversight and global trial scalability.",
-      "url": "https://www.globenewswire.com/fr/news-release/2026/11/26/3410796/28124/en/clinical-trials-management-system-ctms-market-global-forecast-2026-2032-ai-cloud-integration-and-decentralized-trials-drive-6-73-cagr-and-a-usd-2-80-billion-opportunity-by-2032.html",
+      "id": "45d073425a4acdda",
+      "slug": "us-air-force-cloud-one-breach-exposes-military-logistics-amid-iran-cyber-threats-2dd2df",
+      "title": "US Air Force Cloud One Breach Exposes Military Logistics Amid Iran Cyber Threats",
+      "dek": "Hackers accessed the US Air Force's Cloud One system, exposing logistics data. This breach follows Iranian threats against US tech giants and widespread infrastructure outages.",
+      "url": "https://us.headtopics.com/news/us-air-force-cloud-one-breach-exposes-military-logistics-90242262",
+      "source": "Headtopics",
+      "sourceType": "external",
+      "image": "https://i.headtopics.com/images/2026/11/27/dailymail/us-air-force-cloud-one-breach-exposes-military-log-us-air-force-cloud-one-breach-exposes-military-log-7189A3FFF010AC56038FC8E26763C7DC-16x9.webp",
+      "publishedAt": "2026-11-27T14:41:00.000Z",
+      "topic": "Security",
+      "tags": [
+        "cybersecurity",
+        "air force cloud",
+        "theater integrated combat munitions",
+        "military logistics",
+        "cloud one",
+        "technology"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "e9557da76780bfb3",
+      "slug": "hackers-breached-the-air-force-s-cloud-platform-report-52e2c5",
+      "title": "Hackers breached the Air Force’s cloud platform: Report",
+      "dek": "Hackers reportedly breached the U.S. Air Force’s flagship cloud infrastructure, Cloud One. It’s unclear who was behind the attack.",
+      "url": "https://www.washingtonexaminer.com/policy/defense/4816440/hackers-breach-air-force-cloud-platform/",
+      "source": "Washington Examiner",
+      "sourceType": "external",
+      "image": "https://www.washingtonexaminer.com/wp-content/uploads/2024/06/AP20177720781033.jpg",
+      "publishedAt": "2026-11-27T14:39:10.000Z",
+      "topic": "Security",
+      "tags": [
+        "air force",
+        "cyber",
+        "cybersecurity",
+        "washington d.c.",
+        "hack"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "3651ccc091dbb343",
+      "slug": "hackers-breach-us-air-force-cloud-computing-platform-188afe",
+      "title": "Hackers breach US Air Force cloud computing platform",
+      "dek": "Hackers have breached the US Air Force's flagship cloud computing platform, three people familiar with the matter told Reuters, in a development that could jeopardise a vast swathe of sensitive tactical, personnel and logistics data. The intrusion at Cloud One was discovered within the past month or",
+      "url": "https://news.rthk.hk/rthk/en/component/k2/1879538-20261127.htm",
+      "source": "香港電台新聞網 - Rthk",
+      "sourceType": "external",
+      "image": "https://newsstatic.rthk.hk/images/mfile_1879538_1_M_20261127223812.jpg",
+      "publishedAt": "2026-11-27T14:38:11.000Z",
+      "topic": "Security",
+      "tags": [
+        "Security",
+        "AI"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "6568f86efe2423b3",
+      "slug": "ai-powered-supply-chain-planning-software-market-report-2026-capitalize-on-24-8-cagr-and-b73e83",
+      "title": "AI Powered Supply Chain Planning Software Market Report 2026 | Capitalize on 24.8% CAGR and $26.72B in Revenue by 2030 with Microsoft, Oracle, SAP and IBM",
+      "dek": "Dublin, Nov. 27, 2026 (GLOBE NEWSWIRE) -- \"Artificial Intelligence (AI) Powered Supply Chain Planning Software Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering.",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/11/27/3411266/28124/en/ai-powered-supply-chain-planning-software-market-report-2026-capitalize-on-24-8-cagr-and-26-72b-in-revenue-by-2030-with-microsoft-oracle-sap-and-ibm.html",
       "source": "Globenewswire_fr",
       "sourceType": "external",
       "image": "",
-      "publishedAt": "2026-11-26T14:17:00.000Z",
-      "topic": "Security",
+      "publishedAt": "2026-11-27T14:32:00.000Z",
+      "topic": "Business & Earnings",
       "tags": [
         "research analysis and reports"
       ],
       "priority": 43
     },
     {
-      "id": "457e8e47d7d77da1",
-      "slug": "top-blockchain-stocks-to-consider-november-25th-4c1b1f",
-      "title": "Top Blockchain Stocks To Consider – November 25th",
-      "dek": "Core Scientific, Bitdeer Technologies Group, Figure Technology Solutions, Globant, and Mercurity Fintech are the five Blockchain stocks to watch today, according to MarketBeat’s stock screener tool. Blockchain stocks are shares of publicly traded companies that develop, operate, or provide services ",
-      "url": "https://www.tickerreport.com/banking-finance/13674689/top-blockchain-stocks-to-consider-november-25th.html",
-      "source": "Ticker Report",
+      "id": "7b1ae7ba2fcb1b1a",
+      "slug": "ai-augmented-medtech-quality-management-systems-market-to-reach-1-98-billion-by-2030-ind-ecf942",
+      "title": "AI-Augmented MedTech Quality Management Systems Market to Reach $1.98 Billion by 2030 | Industry Analysis with Profiles of Oracle, Honeywell, IQVIA, Dassault Systemes, PTC and More",
+      "dek": "Dublin, Nov. 27, 2026 (GLOBE NEWSWIRE) -- \"AI-Augmented Medtech Quality Management Systems Market Report 2026\" has been added to ResearchAndMarkets.com's offering.",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/11/27/3411259/28124/en/ai-augmented-medtech-quality-management-systems-market-to-reach-1-98-billion-by-2030-industry-analysis-with-profiles-of-oracle-honeywell-iqvia-dassault-systemes-ptc-and-more.html",
+      "source": "Globenewswire_fr",
       "sourceType": "external",
-      "image": "https://www.marketbeat.com/logos/core-scientific-inc-logo-1200x675.jpg?v=20220224081413",
-      "publishedAt": "2026-11-26T14:12:43.000Z",
-      "topic": "Business & Earnings",
+      "image": "",
+      "publishedAt": "2026-11-27T14:29:00.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "partner feed articles",
-        "banking"
+        "research analysis and reports"
       ],
       "priority": 43
     },
     {
-      "id": "fcb51ee91633a9a8",
-      "slug": "top-10-best-database-management-software-in-india-in-2027-4083e9",
-      "title": "Top 10 Best Database Management Software In India In 2027",
-      "dek": "Top 10 Best Database Management Software in India in 2027 The rapid expansion of digital infrastructure, cloud computing, artificial intelligence, enterprise automation and data-driven business operations has significantly increased the demand for advanced database management software in India. Orga",
-      "url": "https://www.inventiva.co.in/trends/top-10-best-database-management-software-in-india-in-2027/",
-      "source": "Inventiva",
+      "id": "317d33207a988204",
+      "slug": "hackers-breached-us-air-force-s-cloud-platform-report-says-ce97f9",
+      "title": "Hackers breached US Air Force’s cloud platform, report says",
+      "dek": "It was uncovered in the past month during a platform upgrade, according to the report.",
+      "url": "https://www.redlandsdailyfacts.com/2026/11/27/air-force-cloud-breach/",
+      "source": "Redlands Daily Facts",
       "sourceType": "external",
-      "image": "https://www.inventiva.co.in/wp-content/uploads/2026/07/Inventiva.jpg",
-      "publishedAt": "2026-11-26T12:28:48.000Z",
-      "topic": "AI & Database",
+      "image": "https://www.redlandsdailyfacts.com/wp-content/uploads/2026/11/202611271635MCT_____PHOTO____US-NEWS-AIR-FORCE-CLOUD-BREACH-FILEPIC-GET.jpg?w=1600&resize=1600,900",
+      "publishedAt": "2026-11-27T14:28:06.000Z",
+      "topic": "Security",
       "tags": [
-        "trends"
+        "technology",
+        "business",
+        "national news",
+        "news",
+        "military",
+        "network"
       ],
-      "priority": 41
+      "priority": 43
     },
     {
-      "id": "99a85ff79aa9854c",
-      "slug": "eurobites-bt-taps-anthropic-and-friends-to-offer-cyber-training-to-smes-68e7e8",
-      "title": "Eurobites: BT taps Anthropic and friends to offer cyber training to SMEs",
-      "dek": "Also in today's EMEA regional roundup: DE-CIX offers 'simplified' access to Oracle's EU Sovereign Cloud; Orange proposes closing BeTV platform; Ethio Telecom seeks Japanese collaboration.",
-      "url": "https://www.lightreading.com/security/eurobites-bt-taps-anthropic-and-friends-to-offer-cyber-training-to-smes",
-      "source": "Lightreading",
+      "id": "073921308646ef14",
+      "slug": "hackers-broke-into-the-u-s-air-force-s-cloud-systems-4319c0",
+      "title": "Hackers Broke Into the U.S. Air Force’s Cloud Systems",
+      "dek": "The breach was discovered sometime in the last month, say reports.",
+      "url": "https://gizmodo.com/hackers-broke-into-the-u-s-air-forces-cloud-systems-2000846174",
+      "source": "Gizmodo",
       "sourceType": "external",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt23eb5bbc4124baa6/blt32926d52ea3a9e3c/6a7a325208f250a2129bf7e7/RF-cyber-criminal-Cravetiger-Getty.jpg?width=720&quality=80&disable=upscale",
-      "publishedAt": "2026-11-26T12:20:50.000Z",
-      "topic": "Training & Certification",
-      "tags": [],
-      "priority": 41
+      "image": "https://gizmodo.com/app/uploads/2026/04/f-15e-strike-eagle-2025-1280x853.jpg",
+      "publishedAt": "2026-11-27T14:25:07.000Z",
+      "topic": "Security",
+      "tags": [
+        "privacy &amp; security"
+      ],
+      "priority": 43
     },
     {
-      "id": "f7e294af4f232ed9",
-      "slug": "tepper-trims-alphabet-by-46-and-dumps-broadcom-amd-while-backing-micron-and-oracle-1dd131",
-      "title": "Tepper Trims Alphabet by ~46% and Dumps Broadcom & AMD While Backing Micron and Oracle",
-      "dek": "David Tepper sold off three AI winners that were still growing fast and bought two others instead. One of them pays its own way, while the other leans heavily on borrowed money and customer prepayments.",
-      "url": "https://247wallst.com/investing/2026/11/26/tepper-trims-alphabet-by-46-and-dumps-broadcom-amd-while-backing-micron-and-oracle/",
-      "source": "24/7 Wall St",
+      "id": "0de9886152c047bb",
+      "slug": "hackers-breach-us-air-force-flagship-cloud-one-computing-platform-1c0e88",
+      "title": "Hackers breach US Air Force flagship Cloud One computing platform",
+      "dek": "Hackers have reportedly breached the service's flagship cloud computing platform, in a development that could jeopardize a vast swathe of tactical, personnel and logistics data.",
+      "url": "https://www.defensenews.com/pentagon/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/",
+      "source": "Defense News",
       "sourceType": "external",
-      "image": "https://247wallst.com/wp-content/uploads/2021/07/imageForEntry20-aEz.jpg",
-      "publishedAt": "2026-11-26T12:15:05.000Z",
+      "image": "https://one.sightlinemg.com/wp-content/uploads/2026/08/US_Iran_26034637113421.jpg.jpg",
+      "publishedAt": "2026-11-27T14:23:36.000Z",
+      "topic": "Security",
+      "tags": [
+        "pentagon",
+        "military news",
+        "dn dnr",
+        "daily news roundup",
+        "hackers",
+        "us air force"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "cbe11c8a92642e53",
+      "slug": "clinical-trials-market-size-share-and-trends-global-forecast-2026-2032-ai-decentralized--c8620a",
+      "title": "Clinical Trials Market Size, Share, and Trends - Global Forecast 2026-2032 | AI, Decentralized Models, and Precision Medicine Drive 9.59% CAGR Toward $173.55 Billion",
+      "dek": "Dublin, Nov. 27, 2026 (GLOBE NEWSWIRE) -- \"Clinical Trials Market - Global Forecast 2026-2032\" has been added to ResearchAndMarkets.com's offering.",
+      "url": "https://www.globenewswire.com/fr/news-release/2026/11/27/3411246/28124/en/clinical-trials-market-size-share-and-trends-global-forecast-2026-2032-ai-decentralized-models-and-precision-medicine-drive-9-59-cagr-toward-173-55-billion.html",
+      "source": "Globenewswire_fr",
+      "sourceType": "external",
+      "image": "",
+      "publishedAt": "2026-11-27T14:19:00.000Z",
       "topic": "Oracle Ecosystem",
       "tags": [
-        "investing"
+        "research analysis and reports"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "92fd421a245135ff",
+      "slug": "us-air-force-s-cloud-one-hacked-raising-alarms-over-sensitive-military-operations-fb0c7b",
+      "title": "US Air Force’s Cloud One Hacked, raising alarms over Sensitive Military Operations",
+      "dek": "ISLAMABAD – A cyber intrusion deep inside US Air Force’s digital infrastructure sets off alarm bells in Washington as Hackers…",
+      "url": "https://pakobserver.net/us-air-forces-cloud-one-hacked-raising-alarms-over-sensitive-military-operations/",
+      "source": "Pakistan Observer",
+      "sourceType": "external",
+      "image": "https://pakobserver.net/wp-content/uploads/2026/11/us-air-forces-cloud-one-hacked-raising-alarms-over-sensitive-military-operations-pakobserver-790021.jpg",
+      "publishedAt": "2026-11-27T14:02:12.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "international",
+        "featured"
+      ],
+      "priority": 43
+    },
+    {
+      "id": "e99baf4312f5fc42",
+      "slug": "pos-printer-market-retail-automation-omnichannel-commerce-and-intelligent-receipt-printi-e3df38",
+      "title": "POS Printer Market: Retail Automation, Omnichannel Commerce and Intelligent Receipt Printing Reshape Business Opportunities Worldwide",
+      "dek": "The global POS Printer Market is evolving as retailers, restaurants, hospitality businesses, and payment service providers modernize their point-of-sale infrastructure. Growing demand for faster transaction processing, reliable receipt generation, integrated payment systems, and connected retail tec",
+      "url": "https://www.openpr.com/news/4702267/pos-printer-market-retail-automation-omnichannel-commerce",
+      "source": "Openpr.com",
+      "sourceType": "external",
+      "image": "https://cdn.open-pr.com/L/b/Lb27133327_k.jpg",
+      "publishedAt": "2026-11-27T13:33:38.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "economy",
+        "business",
+        "finances",
+        "banking & insurance"
+      ],
+      "priority": 42
+    },
+    {
+      "id": "44e8945a7324a4e1",
+      "slug": "oracle-corporation-orcl-stock-position-raised-by-kirtland-hills-capital-management-llc-97aa06",
+      "title": "Oracle Corporation $ORCL Stock Position Raised by Kirtland Hills Capital Management LLC",
+      "dek": "Kirtland Hills Capital Management LLC raised its holdings in shares of Oracle Corporation (NYSE:ORCL - Free Report) by 180.2% in the 3rd quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC). The fund owned 23,844 shares of the enterprise software provide",
+      "url": "https://www.marketbeat.com/instant-alerts/filing-oracle-corporation-orcl-stock-position-raised-by-kirtland-hills-capital-management-llc-2026-11-27/",
+      "source": "Market Beat",
+      "sourceType": "external",
+      "image": "https://www.marketbeat.com/logos/oracle-co-logo-1200x675.png?v=20221020143405",
+      "publishedAt": "2026-11-27T11:37:30.000Z",
+      "topic": "Business & Earnings",
+      "tags": [
+        "sec filing",
+        "instant alerts",
+        "oracle",
+        "nyse:orcl"
       ],
       "priority": 41
     },
     {
-      "id": "0e84acd2134b9370",
-      "slug": "customer-communication-management-market-2033-ai-powered-ccm-migration-trai-s-new-anti-s-a638a7",
-      "title": "Customer Communication Management Market (2033): AI-Powered CCM Migration, TRAI's New Anti-Spam Regulations & Cloud-Based Customer Engagement Drive Enterprise Demand",
-      "dek": "The Global Customer Communication Management (CCM) Market reached US$2.0 billion in 2025 and is projected to reach US$4.6 billion by 2033, growing at a CAGR of 11.0% during 2026-2033. Market growth is driven by increasing demand for personalized customer experiences,",
-      "url": "https://www.openpr.com/news/4701006/customer-communication-management-market-2033-ai-powered",
+      "id": "5839d73db7fc28a2",
+      "slug": "java-in-the-age-of-ai-ata-f56c78",
+      "title": "\"Java in the Age of AI\" [AtA]",
+      "dek": "A discussion of Java's expanding support for AI workloads: From its strengths in adding AI features to existing applications to new capabilities for writing Java code that runs on GPUs; from having Java-native models to long-term ideas for becoming better at training models, too. In this \"Ask the Ar",
+      "url": "https://inside.java/podcast/76",
+      "source": "Inside Java",
+      "sourceType": "podcast",
+      "image": "https://traffic.libsyn.com/secure/insidejava/ijp-76.mp3?dest-id=2318780",
+      "publishedAt": "2026-11-26T10:43:00.000Z",
+      "topic": "Training & Certification",
+      "tags": [
+        "Java",
+        "AI"
+      ],
+      "priority": 41
+    },
+    {
+      "id": "6d089dfda9840200",
+      "slug": "us-air-force-flagship-cloud-one-computing-system-hit-by-hackers-1bb438",
+      "title": "US Air Force flagship Cloud One computing system hit by hackers",
+      "dek": "Cloud One is meant to ​serve ⁠as a one-stop shop for the Air Force's IT needs, combining the resources of Microsoft, Amazon, Oracle and Alphabet",
+      "url": "https://www.independent.co.uk/news/world/americas/us-air-force-hacked-cloud-one-b3092702.html",
+      "source": "The Independent",
+      "sourceType": "external",
+      "image": "https://static.independent.co.uk/2026/06/10/08/2262719969..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2026-11-27T11:23:16.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 40
+    },
+    {
+      "id": "c51cdc45122e9860",
+      "slug": "fbi-cia-pentagon-and-now-air-force-us-government-under-cyberattack-at-least-8-federal-sy-3cff3c",
+      "title": "FBI, CIA, Pentagon and now Air Force: US government under cyberattack, at least 8 federal systems hit in three months",
+      "dek": "Recently, cyberattacks targeting U.S. federal systems have surged, with a significant breach compromising the U.S. Air Force's Cloud One platform. This essential system oversees military applications for logistics and personnel management. Additional incidents have also impacted agencies such as the",
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/fbi-cia-pentagon-and-now-air-force-us-government-under-cyberattack-at-least-8-federal-systems-hit-in-three-months/articleshow/136227825.cms",
+      "source": "The Economic Times",
+      "sourceType": "external",
+      "image": "https://img.etimg.com/thumb/msid-136228061,resizemode-4,width-1200,height-900,imgsize-117470,overlay-economictimes/articleshow.jpg",
+      "publishedAt": "2026-11-27T10:51:37.000Z",
+      "topic": "Security",
+      "tags": [
+        "us government cyberattacks",
+        "air force hacked",
+        "fbi cyberattack",
+        "us air force cloud one breach",
+        "air force cyberattack",
+        "cia cyberattack"
+      ],
+      "priority": 40
+    },
+    {
+      "id": "f07d08145349d9eb",
+      "slug": "selling-aws-through-blesta-the-product-map-and-the-charges-that-outlive-a-cancellation-4cb1ce",
+      "title": "Selling AWS through Blesta: the product map, and the charges that outlive a cancellation",
+      "dek": "Every Blesta service lives through the same handful of events: it's activated, it renews, it may be suspended for an unpaid invoice, and one day it's cancelled. When the service is a shared hosting account, those events cost you nothing extra. When it's something running in your AWS account, each on",
+      "url": "https://dev.to/pdmodules/selling-aws-through-blesta-the-product-map-and-the-charges-that-outlive-a-cancellation-938",
+      "source": "Dev Community",
+      "sourceType": "external",
+      "image": "https://media2.dev.to/dynamic/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.us-east-2.amazonaws.com%2Fuploads%2Farticles%2Fezda5uh4oivh1l9lp7kb.png",
+      "publishedAt": "2026-11-27T10:00:00.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [
+        "hosting",
+        "cloud",
+        "blesta",
+        "aws"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "df55d647d19407ec",
+      "slug": "blockchain-in-healthcare-market-usd-164-89-billion-by-2034-34-15-cagr-91cf68",
+      "title": "Blockchain In Healthcare Market: USD 164.89 Billion by 2034, 34.15% CAGR",
+      "dek": "According to Polaris Market Research, the Blockchain In Healthcare Market was valued at USD 11.72 billion in 2025. The report places the 2026 market at [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/11/27/1788181",
+      "source": "Express-press-release",
+      "sourceType": "external",
+      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/logo-6.jpg",
+      "publishedAt": "2026-11-27T09:26:04.000Z",
+      "topic": "Applications & NetSuite",
+      "tags": [
+        "internet & online"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "6f068cfc4e8ede5a",
+      "slug": "microsoft-s-agent-365-tackles-multicloud-ai-governance-79ab2e",
+      "title": "Microsoft’s Agent 365 tackles multicloud AI governance",
+      "dek": "For more than 20 years, I have watched cloud computing evolve from a relatively simple extension of enterprise infrastructure into a distributed collection of platforms, services, data stores, applications, and now AI agents. One lesson has remained clear: Enterprises don’t operate in the clean, sin",
+      "url": "https://www.infoworld.com/article/4253806/microsofts-agent-365-tackles-multicloud-ai-governance.html",
+      "source": "Info World",
+      "sourceType": "external",
+      "image": "https://www.infoworld.com/wp-content/uploads/2026/10/4234013-0-06833000-1791905116-shutterstock_1912951960-100936283-orig.jpg?quality=50&strip=all",
+      "publishedAt": "2026-11-27T09:00:00.000Z",
+      "topic": "Oracle Cloud",
+      "tags": [
+        "multicloud",
+        "cloud computing",
+        "data management",
+        "artificial intelligence",
+        "data governance"
+      ],
+      "priority": 39
+    },
+    {
+      "id": "3aa6f11d491f323d",
+      "slug": "enterprise-performance-management-epm-software-market-poised-for-accelerated-growth-to-2-f53cee",
+      "title": "Enterprise Performance Management (EPM) Software Market Poised for Accelerated Growth to 2032 with In-Depth Market Assessment and Forecasts",
+      "dek": "The global Enterprise Performance Management (EPM) Software market is comprehensive and accurately presented in the report with the help of detailed market information and data, critical findings, error-free statistics, and reliable forecasts. The report digs deep into important aspects of",
+      "url": "https://www.openpr.com/news/4701734/enterprise-performance-management-epm-software-market",
       "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://cdn.open-pr.com/L/b/Lb26647985_k.jpg",
-      "publishedAt": "2026-11-26T10:55:12.000Z",
+      "image": "https://cdn.open-pr.com/L/b/Lb27281987_k.jpg",
+      "publishedAt": "2026-11-27T07:35:27.000Z",
       "topic": "Applications & NetSuite",
       "tags": [
         "new media & software",
         "it"
       ],
-      "priority": 40
+      "priority": 38
     },
     {
-      "id": "d7967e504699b4eb",
-      "slug": "ics-ai-taps-kyle-burke-to-lead-wales-expansion-133f53",
-      "title": "ICS.AI taps Kyle Burke to lead Wales expansion",
-      "dek": "The AI provider said it will recruit up to 15 new staff to support Welsh authorities adopting AI",
-      "url": "https://www.itpro.com/it-leadership/ics-ai-taps-kyle-burke-to-lead-wales-expansion",
-      "source": "Itpro",
+      "id": "ceb980eb0cf23ad3",
+      "slug": "digital-health-market-competitive-analysis-highlights-ai-powered-clinical-workflows-and--236d06",
+      "title": "Digital Health Market Competitive Analysis Highlights AI-Powered Clinical Workflows and Expansion of Virtual Healthcare Platforms",
+      "dek": "FMI's November 2026 assessment examines leading healthcare technology providers, electronic health records, clinical documentation AI, connected medical devices, and virtual care platforms shaping the global digital health industry. Future Market Insights (FMI), a global market intelligence and cons",
+      "url": "https://www.openpr.com/news/4701695/digital-health-market-competitive-analysis-highlights",
+      "source": "Openpr.com",
       "sourceType": "external",
-      "image": "https://cdn.mos.cms.futurecdn.net/Cb8dc6MizpR5W9ceA4aH9E-1920-80.jpg",
-      "publishedAt": "2026-11-26T08:42:27.000Z",
-      "topic": "Oracle Ecosystem",
+      "image": "https://cdn.open-pr.com/L/b/Lb27861908_k.jpg",
+      "publishedAt": "2026-11-27T07:15:28.000Z",
+      "topic": "Training & Certification",
       "tags": [
-        "it leadership"
+        "health & medicine"
       ],
       "priority": 38
     },
     {
-      "id": "7d968527c11e5ed0",
-      "slug": "ai-stock-rout-deepens-with-anthropic-hitting-74-04de2f",
-      "title": "AI stock rout deepens, with Anthropic hitting $74",
-      "dek": "ONLY AVAILABLE IN PAID PLANS",
-      "url": "https://www.zawya.com/en/capital-markets/ai-shaping-digital-future/ai-stock-rout-deepens-with-anthropic-hitting-74-2541224",
-      "source": "Zawya",
+      "id": "638566a0eb6f1e33",
+      "slug": "point-of-sale-market-size-forecast-demand-2034-753154",
+      "title": "Point Of Sale Market Size, Forecast, Demand, 2034",
+      "dek": "(MENAFN - Straits Research) \" id=\"report-summary\">Point of Sale Market Size & Share AnalysisThe global point of sale market size was valued at USD 38.60 billion in 2025 and is projected to grow from ...",
+      "url": "https://menafn.com/1112030164/Point-Of-Sale-Market-Size-Forecast-Demand-2034",
+      "source": "Menafn",
       "sourceType": "external",
-      "image": "",
-      "publishedAt": "2026-11-26T06:59:18.000Z",
-      "topic": "Business & Earnings",
+      "image": "https://menafn.com/images/Menafn_SmallLogo.jpg",
+      "publishedAt": "2026-11-27T06:10:23.000Z",
+      "topic": "Oracle Ecosystem",
+      "tags": [],
+      "priority": 37
+    },
+    {
+      "id": "331744ff409c64f9",
+      "slug": "embedded-ai-market-to-witness-rapid-growth-driven-by-rising-demand-for-intelligent-devic-2f6a06",
+      "title": "Embedded AI Market to Witness Rapid Growth Driven by Rising Demand for Intelligent Devices and Real-Time AI-Powered Automation",
+      "dek": "The Embedded AI Market is part of a wider industry environment shaped by business activity, customer requirements, and changes in product or service demand. Polaris [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/11/27/1787867",
+      "source": "Express-press-release",
+      "sourceType": "external",
+      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/logo-6.jpg",
+      "publishedAt": "2026-11-27T05:35:30.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "technology",
-        "markets",
-        "united states",
-        "ipo",
-        "artificial intelligence",
-        "equities"
+        "embedded ai market cagr",
+        "embedded ai market key players",
+        "embedded ai market analysis",
+        "embedded ai market",
+        "embedded ai market scope",
+        "embedded ai market size"
       ],
       "priority": 37
     },
     {
-      "id": "e02d883d14d1a7f3",
-      "slug": "mobile-banking-boom-rising-risks-the-fraud-detection-and-prevention-market-explained-6865ec",
-      "title": "Mobile Banking Boom, Rising Risks: The Fraud Detection and Prevention Market Explained",
-      "dek": "Mobile banking, instant payments, and online shopping have made transactions faster, and they have also given fraudsters more targets. Fraudsters now use generative AI too, [read full press release...]",
-      "url": "https://express-press-release.net/news/2026/11/26/1787153",
+      "id": "d29f1a4c8e498381",
+      "slug": "modelops-market-to-experience-rapid-growth-driven-by-rising-adoption-of-ai-and-machine-l-7b4066",
+      "title": "ModelOps Market to Experience Rapid Growth Driven by Rising Adoption of AI and Machine Learning Technologies",
+      "dek": "The ModelOPs Market is part of a wider industry environment shaped by business activity, customer requirements, and changes in product or service demand. Polaris Market [read full press release...]",
+      "url": "https://express-press-release.net/news/2026/11/26/1787752",
       "source": "Express-press-release",
       "sourceType": "external",
-      "image": "http://express-press-release.net/news/wp-content/uploads/2015/11/epr-network-big-logo.jpg",
-      "publishedAt": "2026-11-26T06:29:25.000Z",
-      "topic": "Security",
+      "image": "https://express-press-release.net/news/wp-content/uploads/2026/11/logo-5.jpg",
+      "publishedAt": "2026-11-27T03:49:39.000Z",
+      "topic": "Oracle Ecosystem",
       "tags": [
-        "internet & online"
+        "modelops market scope",
+        "modelops",
+        "modelops market analysis",
+        "modelops market forecast",
+        "modelops market key players",
+        "modelops market research"
       ],
-      "priority": 37
+      "priority": 36
     },
     {
       "id": "b56c7ec5fa854b41",
@@ -1757,218 +2006,6 @@
         "Oracle Database",
         "Security"
       ],
-      "priority": 36
-    },
-    {
-      "id": "ffc09f7346e6f6b5",
-      "slug": "database-security-part-1-b4c13f",
-      "title": "Database Security: Part 1",
-      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Senior Principal Database & Security Instructor Ron Soltani, as they dive into the critical topic of database security. In the first of a two-part series on database security in Oracle Database 23ai, they discuss the importance of protecting dat",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-security-part-1",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-08-06T11:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "Oracle Database",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "7c3ad34d1ff092f6",
-      "slug": "blockchain-tables-a4f246",
-      "title": "Blockchain Tables",
-      "dek": "In this episode of the Oracle University Podcast, hosts Lois Houston and Nikita Abraham kick off a new season with a deep dive into the latest features of Oracle Database 23ai. Joined by Bill Millar, a Senior Principal Database & MySQL Instructor, they explore the new enhancements to blockchain tabl",
-      "url": "https://oracleuniversitypodcast.libsyn.com/blockchain-tables",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-30T11:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "Oracle Database",
-        "MySQL",
-        "Oracle University"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ff92a6749fa996f7",
-      "slug": "database-essentials-027d69",
-      "title": "Database Essentials",
-      "dek": "Join hosts Lois Houston and Nikita Abraham, along with Hope Fisher, Oracle's Product Manager for Database Technologies, as they break down the basics of databases, explore different database management systems, and delve into database development. Whether you're a newcomer or just need a refresher, ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/database-essentials",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S10_SEP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-23T14:00:00.000Z",
-      "topic": "AI & Database",
-      "tags": [],
-      "priority": 36
-    },
-    {
-      "id": "f046bd97147c0cf8",
-      "slug": "container-engine-for-kubernetes-security-practices-26ab8f",
-      "title": "Container Engine for Kubernetes: Security Practices",
-      "dek": "In the season's final episode, hosts Lois Houston and Nikita Abraham interview senior OCI instructor Mahendra Mehra about the security practices that are vital for OKE clusters on OCI. Mahendra shares his expert insights on the importance of Kubernetes security, especially in today's digital landsca",
-      "url": "https://oracleuniversitypodcast.libsyn.com/container-engine-for-kubernetes-security-practices",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP7.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-16T14:00:00.000Z",
-      "topic": "Security",
-      "tags": [
-        "OCI",
-        "Security"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "be8b92279cd0831f",
-      "slug": "working-with-self-managed-nodes-and-managing-kubernetes-deployments-8517e3",
-      "title": "Working with Self-Managed Nodes and Managing Kubernetes Deployments",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham speak with senior OCI instructor Mahendra Mehra about the capabilities of self-managed nodes in Kubernetes, including how they offer complete control over worker nodes in your OCI Container Engine for Kubernetes environment. They also explore th",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-self-managed-nodes-and-managing-kubernetes-deployments",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-09T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "d38db88cd3fd3cc0",
-      "slug": "working-with-oke-virtual-nodes-f5a370",
-      "title": "Working with OKE Virtual Nodes",
-      "dek": "Want to gain insights into how virtual nodes provide a serverless Kubernetes experience? Join hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, as they compare managed nodes and virtual nodes. Continuing from the previous episode, they explore how virtual nodes ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/working-with-oke-virtual-nodes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP5.mp3?dest-id=3870039",
-      "publishedAt": "2024-07-02T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "bd401ec004db1755",
-      "slug": "introduction-to-oci-container-engine-for-kubernetes-ba41d7",
-      "title": "Introduction to OCI Container Engine for Kubernetes",
-      "dek": "Curious about how OCI Container Engine for Kubernetes (OKE) can transform the way your development team builds, deploys, and manages cloud-native applications? Listen to hosts Lois Houston and Nikita Abraham explore OKE's key features and benefits with senior OCI instructor Mahendra Mehra. Mahendra ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/introduction-to-oci-container-engine-for-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-25T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "1d3aa287378f7e71",
-      "slug": "basics-of-kubernetes-23e26c",
-      "title": "Basics of Kubernetes",
-      "dek": "In this episode, Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, dive into the fundamentals of Kubernetes. They talk about how Kubernetes tackles challenges in deploying and managing microservices, and enhances software performance, flexibility, and availability. OC",
-      "url": "https://oracleuniversitypodcast.libsyn.com/basics-of-kubernetes",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-18T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "ec54bf5b81f570ed",
-      "slug": "oracle-cloud-infrastructure-registry-f9ffa9",
-      "title": "Oracle Cloud Infrastructure Registry",
-      "dek": "In this episode, hosts Lois Houston and Nikita Abraham, along with senior OCI instructor Mahendra Mehra, discuss how Oracle Cloud Infrastructure Registry simplifies the development-to-production workflow for developers. Listen to Mahendra explain important container registry concepts, such as images",
-      "url": "https://oracleuniversitypodcast.libsyn.com/oracle-cloud-infrastructure-registry",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP2.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-11T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "Oracle Cloud",
-        "OCI",
-        "Oracle Cloud Infrastructure"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "6ba1bee89c8a91cc",
-      "slug": "what-is-containerization-0326f4",
-      "title": "What is Containerization?",
-      "dek": "Welcome to a new season of the Oracle University Podcast, where we delve deep into the world of OCI Container Engine for Kubernetes. Join hosts Lois Houston and Nikita Abraham as they ask senior OCI instructor Mahendra Mehra about the transformative power of containers in application deployment and ",
-      "url": "https://oracleuniversitypodcast.libsyn.com/what-is-containerization",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S09_EP1.mp3?dest-id=3870039",
-      "publishedAt": "2024-06-04T14:00:00.000Z",
-      "topic": "Training & Certification",
-      "tags": [
-        "OCI",
-        "Oracle University"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "b45e3d006fc93558",
-      "slug": "encore-episode-oci-ai-services-5e7f50",
-      "title": "Encore Episode: OCI AI Services",
-      "dek": "Listen to Lois Houston and Nikita Abraham, along with Senior Principal Product Manager Wes Prichard, as they explore the five core components of OCI AI services: language, speech, vision, document understanding, and anomaly detection, to help you make better sense of all that unstructured data aroun",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-oci-ai-services",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP6.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-28T14:00:00.000Z",
-      "topic": "Oracle Cloud",
-      "tags": [
-        "OCI",
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "57fe9154d1531745",
-      "slug": "encore-episode-generative-ai-and-large-language-models-3144c9",
-      "title": "Encore Episode: Generative AI and Large Language Models",
-      "dek": "In this week's episode, Lois Houston and Nikita Abraham, along with Senior Instructor Himanshu Raj, take you through the extraordinary capabilities of Generative AI, a subset of deep learning that doesn't make predictions but rather creates its own content. They also explore the workings of Large La",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-generative-ai-and-large-language-models",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP4.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-14T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [
-        "AI"
-      ],
-      "priority": 36
-    },
-    {
-      "id": "60d141d1ef069450",
-      "slug": "encore-episode-deep-learning-fe981b",
-      "title": "Encore Episode: Deep Learning",
-      "dek": "Did you know that the concept of deep learning goes way back to the 1950s? However, it is only in recent years that this technology has created a tremendous amount of buzz (and for good reason!). A subset of machine learning, deep learning is inspired by the structure of the human brain, making it f",
-      "url": "https://oracleuniversitypodcast.libsyn.com/encore-episode-deep-learning",
-      "source": "Oracle University Podcast",
-      "sourceType": "podcast",
-      "image": "https://traffic.libsyn.com/secure/oracleuniversitypodcast/Oracle_University_Podcast_S08_EP3.mp3?dest-id=3870039",
-      "publishedAt": "2024-05-07T14:00:00.000Z",
-      "topic": "Oracle Ecosystem",
-      "tags": [],
       "priority": 36
     }
   ]
